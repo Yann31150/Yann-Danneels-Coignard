@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Yann Danneels-Coignard</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        .cv-container {
+            max-width: 900px;
+            margin: 3rem auto;
+            background: #fff;
+            border-radius: 16px;
+            box-shadow: 0 4px 24px rgba(44,62,80,0.08);
+            padding: 2.5rem 2rem;
+        }
+        .cv-header {
+            text-align: center;
+            margin-bottom: 2.5rem;
+        }
+        .cv-header h1 {
+            color: #2166c2;
+            font-size: 2.7rem;
+            letter-spacing: 2px;
+            margin-bottom: 0.5rem;
+        }
+        .cv-section {
+            margin-bottom: 2.2rem;
+        }
+        .cv-section h2 {
+            color: #2166c2;
+            font-size: 1.3rem;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.7rem;
+        }
+        .cv-section ul, .cv-section p {
+            margin-left: 1.5rem;
+            font-size: 1.08rem;
+        }
+        .cv-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2.5rem 2rem;
+        }
+        @media (max-width: 800px) {
+            .cv-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <span class="logo-initial">Y</span>
+                <span class="logo-initial">D</span>
+                <span class="logo-initial">C</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="apropos.html">À propos</a></li>
+                <li><a href="competences.html">Compétences</a></li>
+                <li><a href="projets.html">Projets</a></li>
+                <li><a href="passions.html">Passions</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="cv.html" class="active">CV</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="cv-container">
+            <div class="cv-header">
+                <h1>YANN DANNEELS-COIGNARD</h1>
+                <p style="color:#555; font-size:1.1rem;">Data Analyst en alternance &bull; Toulouse</p>
+            </div>
+            <div class="cv-grid">
+                <section class="cv-section">
+                    <h2><i class="fas fa-graduation-cap"></i> Formation</h2>
+                    <ul>
+                        <li>Wild Code School Toulouse – Data Analyst (en cours)</li>
+                        <li>Diplôme antérieur (à compléter)</li>
+                    </ul>
+                </section>
+                <section class="cv-section">
+                    <h2><i class="fas fa-user"></i> Profil</h2>
+                    <p>Âgé de 45 ans, en reconversion après plus de 20 ans dans la finance. Curieux, rigoureux, passionné par la tech et l'analyse de données, je souhaite mettre mes compétences au service de projets innovants en alternance.</p>
+                </section>
+                <section class="cv-section">
+                    <h2><i class="fas fa-cogs"></i> Compétences</h2>
+                    <ul>
+                        <li>Python, SQL, Pandas, Power BI, Excel</li>
+                        <li>Analyse de données, visualisation, reporting</li>
+                        <li>Gestion de projet, esprit d'équipe</li>
+                        <li>Anglais professionnel</li>
+                    </ul>
+                </section>
+                <section class="cv-section">
+                    <h2><i class="fas fa-briefcase"></i> Expérience professionnelle</h2>
+                    <ul>
+                        <li>+20 ans dans la finance (précisez les postes, missions, entreprises)</li>
+                        <li>Projets data (à compléter si besoin)</li>
+                    </ul>
+                </section>
+                <section class="cv-section">
+                    <h2><i class="fas fa-heart"></i> Centres d'intérêt</h2>
+                    <ul>
+                        <li>Tir sportif, gaming, jeux de rôle, drone</li>
+                        <li>Technologies, innovation</li>
+                    </ul>
+                </section>
+                <section class="cv-section">
+                    <h2><i class="fas fa-calendar-check"></i> Disponibilité</h2>
+                    <p>Immédiate pour une alternance Data Analyst (rythme à préciser).</p>
+                </section>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <div class="social-links">
+                <a href="https://www.linkedin.com/in/yann-danneels-coignard-567657aa/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+                <a href="#"><i class="fab fa-github"></i></a>
+                <a href="https://studio.youtube.com/channel/UCdy22nIUUqIyEkxijA5hmEw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
+            </div>
+            <p>&copy; 2024 Yann Danneels-Coignard. Tous droits réservés.</p>
+        </div>
+    </footer>
+</body>
+</html> 
