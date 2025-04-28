@@ -21,16 +21,30 @@
         }
         .cv-header h1 {
             color: #2166c2;
-            font-size: 2.7rem;
+            font-size: 2.3rem;
             letter-spacing: 2px;
             margin-bottom: 0.5rem;
+        }
+        .cv-header .cv-contact {
+            color: #333;
+            font-size: 1.05rem;
+            margin-bottom: 0.5rem;
+        }
+        .cv-header .cv-links {
+            margin-top: 0.5rem;
+        }
+        .cv-header .cv-links a {
+            color: #2166c2;
+            text-decoration: none;
+            margin: 0 0.5rem;
+            font-weight: 500;
         }
         .cv-section {
             margin-bottom: 2.2rem;
         }
         .cv-section h2 {
             color: #2166c2;
-            font-size: 1.3rem;
+            font-size: 1.2rem;
             margin-bottom: 1rem;
             display: flex;
             align-items: center;
@@ -39,6 +53,9 @@
         .cv-section ul, .cv-section p {
             margin-left: 1.5rem;
             font-size: 1.08rem;
+        }
+        .cv-section ul {
+            margin-bottom: 0.5rem;
         }
         .cv-grid {
             display: grid;
@@ -75,48 +92,101 @@
         <div class="cv-container">
             <div class="cv-header">
                 <h1>YANN DANNEELS-COIGNARD</h1>
-                <p style="color:#555; font-size:1.1rem;">Data Analyst en alternance &bull; Toulouse</p>
+                <div class="cv-contact">
+                    15 Rue de la Plaine, 31150 Fenouillet<br>
+                    06 79 86 96 11 &nbsp;|&nbsp; coignard.yann@hotmail.fr
+                </div>
+                <div class="cv-links">
+                    <a href="https://www.linkedin.com/in/yann-danneels-coignard-567657aa/" target="_blank"><i class="fab fa-linkedin"></i> linkedin.com/in/yann-danneels-coignard-567657aa</a>
+                </div>
             </div>
-            <div class="cv-grid">
-                <section class="cv-section">
-                    <h2><i class="fas fa-graduation-cap"></i> Formation</h2>
-                    <ul>
-                        <li>Wild Code School Toulouse – Data Analyst (en cours)</li>
-                        <li>Diplôme antérieur (à compléter)</li>
-                    </ul>
-                </section>
-                <section class="cv-section">
-                    <h2><i class="fas fa-user"></i> Profil</h2>
-                    <p>Âgé de 45 ans, en reconversion après plus de 20 ans dans la finance. Curieux, rigoureux, passionné par la tech et l'analyse de données, je souhaite mettre mes compétences au service de projets innovants en alternance.</p>
-                </section>
-                <section class="cv-section">
-                    <h2><i class="fas fa-cogs"></i> Compétences</h2>
-                    <ul>
-                        <li>Python, SQL, Pandas, Power BI, Excel</li>
-                        <li>Analyse de données, visualisation, reporting</li>
-                        <li>Gestion de projet, esprit d'équipe</li>
-                        <li>Anglais professionnel</li>
-                    </ul>
-                </section>
-                <section class="cv-section">
-                    <h2><i class="fas fa-briefcase"></i> Expérience professionnelle</h2>
-                    <ul>
-                        <li>+20 ans dans la finance (précisez les postes, missions, entreprises)</li>
-                        <li>Projets data (à compléter si besoin)</li>
-                    </ul>
-                </section>
-                <section class="cv-section">
-                    <h2><i class="fas fa-heart"></i> Centres d'intérêt</h2>
-                    <ul>
-                        <li>Tir sportif, gaming, jeux de rôle, drone</li>
-                        <li>Technologies, innovation</li>
-                    </ul>
-                </section>
-                <section class="cv-section">
-                    <h2><i class="fas fa-calendar-check"></i> Disponibilité</h2>
-                    <p>Immédiate pour une alternance Data Analyst (rythme à préciser).</p>
-                </section>
-            </div>
+            <section class="cv-section">
+                <h2><i class="fas fa-bullseye"></i> Objectif</h2>
+                <p>Recherche d'une alternance en Data Analyst / Chef de projet IA / Data Scientist Junior – Disponible à partir de septembre 2025 – Toulouse et environs (ou en télétravail)</p>
+            </section>
+            <section class="cv-section">
+                <h2><i class="fas fa-user"></i> Profil</h2>
+                <p>Actuellement en formation Data Analyst à la Wild Code School de Toulouse, je recherche une alternance à partir de septembre 2025 dans le domaine de la data ou de l'intelligence artificielle.<br>
+                Curieux, rigoureux et passionné de technologies, je souhaite mettre mes compétences analytiques et ma capacité d'adaptation au service de projets innovants.</p>
+            </section>
+            <section class="cv-section">
+                <h2><i class="fas fa-graduation-cap"></i> Formation</h2>
+                <ul>
+                    <li><strong>Wild Code School, Toulouse</strong> – Data Analyst (mars 2025 à août 2025)
+                        <ul>
+                            <li>SQL (MySQL, DBeaver)</li>
+                            <li>Visualisation de données (Power BI)</li>
+                            <li>Analyse statistique (Python, Pandas)</li>
+                            <li>Data storytelling et présentations de KPI</li>
+                            <li>Modélisation de bases de données (schémas OLAP)</li>
+                        </ul>
+                    </li>
+                    <li><strong>Diplôme de Télépilote de Drones Professionnel</strong> – 2021</li>
+                    <li><strong>Institut Technique de Banque (ITB) - CFPB, Bordeaux</strong> – 2ème année validée (2008-2009)</li>
+                    <li><strong>BTS Force de Vente option Banque</strong> – CFPB Bordeaux (2005-2006)</li>
+                    <li><strong>BAC STT Action et Communication Commerciale</strong> – Lycée du Parc Impérial, Nice (2004-2005)</li>
+                </ul>
+            </section>
+            <section class="cv-section">
+                <h2><i class="fas fa-briefcase"></i> Expériences professionnelles</h2>
+                <ul>
+                    <li><strong>Société Générale</strong> – 2001 à 2024
+                        <ul>
+                            <li><strong>Chargé de gestion successions</strong> – 2019 à 2024
+                                <ul>
+                                    <li>Analyse juridique de dossiers complexes</li>
+                                    <li>Gestion et traitement de données clientèles</li>
+                                    <li>Maîtrise d'outils informatiques de gestion (CPM, IPPI)</li>
+                                    <li>Reporting interne et contrôle de conformité</li>
+                                </ul>
+                            </li>
+                            <li><strong>Chargé de financement entreprises</strong> – 2017 à 2019
+                                <ul>
+                                    <li>Analyse financière de projets professionnels</li>
+                                    <li>Évaluation de risques opérationnels et de contreparties</li>
+                                    <li>Suivi des engagements et gestion documentaire</li>
+                                </ul>
+                            </li>
+                            <li><strong>Conseiller clientèle particuliers et entreprises</strong> – 2003 à 2017
+                                <ul>
+                                    <li>Accompagnement de portefeuilles clients</li>
+                                    <li>Traitement et analyse des dossiers de crédit et financement immobilier</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><strong>Expérience militaire – EVAT Armée de Terre (1999-2000)</strong>
+                        <ul>
+                            <li>Discipline, adaptabilité, travail en équipe</li>
+                        </ul>
+                    </li>
+                </ul>
+            </section>
+            <section class="cv-section">
+                <h2><i class="fas fa-cogs"></i> Compétences</h2>
+                <ul>
+                    <li><strong>Analyse de données :</strong> SQL, Excel avancé, Power BI, Python (débutant)</li>
+                    <li><strong>Gestion de bases de données :</strong> Modélisation OLAP, reporting</li>
+                    <li><strong>Outils bureautiques :</strong> Word, Excel, Outlook</li>
+                    <li><strong>Compétences transverses :</strong> Rigueur analytique, gestion de projets, autonomie, adaptabilité</li>
+                </ul>
+            </section>
+            <section class="cv-section">
+                <h2><i class="fas fa-heart"></i> Centres d'intérêt</h2>
+                <ul>
+                    <li>Tir sportif</li>
+                    <li>Gaming & Jeux de rôle</li>
+                    <li>Télépilote de drone professionnel</li>
+                    <li>Analyse de données</li>
+                </ul>
+            </section>
+            <section class="cv-section">
+                <h2><i class="fas fa-calendar-check"></i> Disponibilité & Mobilité</h2>
+                <ul>
+                    <li><strong>Disponibilité :</strong> À partir de septembre 2025 pour un contrat d'alternance (rythme adaptable).</li>
+                    <li><strong>Mobilité :</strong> Toulouse + Télétravail possible.</li>
+                </ul>
+            </section>
         </div>
     </main>
     <footer>
