@@ -114,8 +114,6 @@ nav {
 }
 
 .hero-content {
-    background: rgba(255,255,255,0.7);
-    border-radius: 12px;
     padding: 2rem 3rem;
     z-index: 2;
     position: relative;
