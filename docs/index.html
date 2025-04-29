@@ -50,6 +50,59 @@
         position: relative;
       }
     }
+    /* Chatbot floating button */
+    .chatbot-fab {
+      position: fixed;
+      bottom: 30px;
+      right: 30px;
+      width: 60px;
+      height: 60px;
+      background: #2166c2;
+      color: #fff;
+      border-radius: 50%;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2rem;
+      cursor: pointer;
+      z-index: 10001;
+      transition: background 0.2s;
+    }
+    .chatbot-fab:hover {
+      background: #3498db;
+    }
+    .chatbot-iframe-container {
+      position: fixed;
+      bottom: 100px;
+      right: 30px;
+      z-index: 10000;
+      width: 400px;
+      max-width: 95vw;
+      height: 0;
+      overflow: hidden;
+      transition: height 0.4s cubic-bezier(.4,2,.6,1);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+      border-radius: 16px 16px 0 0;
+      background: transparent;
+    }
+    .chatbot-iframe-container.open {
+      height: 600px;
+      transition: height 0.4s cubic-bezier(.4,2,.6,1);
+    }
+    .chatbot-iframe-container iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      border-radius: 16px 16px 0 0;
+      background: transparent;
+    }
+    @media (max-width: 500px) {
+      .chatbot-iframe-container {
+        width: 95vw;
+        right: 2.5vw;
+      }
+    }
     </style>
 </head>
 <body>
@@ -102,13 +155,6 @@
       }
     </script>
     <script src="https://www.chatbase.co/embed.min.js" id="chatbase-script" defer></script>
-    <iframe
-      src="https://www.chatbase.co/chatbot-iframe/KdI4_TZr5ZjhbRPbejVCj"
-      width="400"
-      height="600"
-      style="border: none; position: fixed; bottom: 20px; right: 20px; z-index: 9999; box-shadow: 0 4px 16px rgba(0,0,0,0.2); border-radius: 16px; overflow: hidden; opacity: 0.8; background: transparent;"
-      allow="clipboard-write"
-    ></iframe>
     <div id="sfcby3p5fjtaqxerydkmydp11cxm65p92kf"></div>
     <script type="text/javascript" src="https://counter4.optistats.ovh/private/counter.js?c=by3p5fjtaqxerydkmydp11cxm65p92kf&down=async" async></script>
     <br><a href="https://www.compteurdevisite.com">compteur pour site</a><noscript><a href="https://www.compteurdevisite.com" title="compteur pour site"><img src="https://counter4.optistats.ovh/private/compteurdevisite.php?c=by3p5fjtaqxerydkmydp11cxm65p92kf" border="0" title="compteur pour site" alt="compteur pour site"></a></noscript>
@@ -119,6 +165,27 @@
     burger.addEventListener('click', () => {
       navLinks.classList.toggle('open');
     });
+
+    // Chatbot floating button
+    const chatbotFab = document.getElementById('chatbot-fab');
+    const chatbotContainer = document.getElementById('chatbot-container');
+    let chatbotOpen = false;
+    chatbotFab.addEventListener('click', () => {
+      chatbotOpen = !chatbotOpen;
+      chatbotContainer.classList.toggle('open', chatbotOpen);
+      chatbotFab.classList.toggle('active', chatbotOpen);
+      if (chatbotOpen) {
+        chatbotFab.innerHTML = '<i class="fas fa-times"></i>';
+      } else {
+        chatbotFab.innerHTML = '<i class="fas fa-comments"></i>';
+      }
+    });
     </script>
+    <div class="chatbot-iframe-container" id="chatbot-container">
+      <iframe src="https://www.chatbase.co/chatbot-iframe/KdI4_TZr5ZjhbRPbejVCj" allow="clipboard-write"></iframe>
+    </div>
+    <div class="chatbot-fab" id="chatbot-fab" title="Discuter avec le chatbot">
+      <i class="fas fa-comments"></i>
+    </div>
 </body>
 </html>
