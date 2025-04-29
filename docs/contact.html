@@ -95,52 +95,61 @@
       align-items: center;
       justify-content: center;
     }
-    .contact-form-centered {
-      max-width: 600px;
+    .contact-form-modern {
+      max-width: 500px;
       width: 100%;
       margin: 0 auto;
       background: #fff;
-      border-radius: 12px;
-      box-shadow: 0 2px 12px rgba(44,62,80,0.08);
-      padding: 2.5rem 2rem;
+      border-radius: 14px;
+      box-shadow: 0 2px 16px rgba(44,62,80,0.10);
+      padding: 2.2rem 1.5rem;
       display: flex;
       flex-direction: column;
-      gap: 1.5rem;
+      gap: 1.3rem;
     }
-    .contact-form-centered label {
+    .contact-form-modern label {
       font-weight: 500;
       color: #2166c2;
       margin-bottom: 0.3rem;
       display: block;
-      font-size: 1.15rem;
+      font-size: 1.13rem;
     }
-    .contact-form-centered input,
-    .contact-form-centered textarea {
+    .contact-form-modern input,
+    .contact-form-modern textarea {
       width: 100%;
-      padding: 1.1rem 1.2rem;
+      padding: 1rem 1.1rem;
       border: 1px solid #ddd;
       border-radius: 8px;
-      font-size: 1.15rem;
+      font-size: 1.13rem;
       margin-top: 0.2rem;
       margin-bottom: 0.5rem;
       background: #f8fafd;
       transition: border 0.2s;
     }
-    .contact-form-centered input:focus,
-    .contact-form-centered textarea:focus {
+    .contact-form-modern input:focus,
+    .contact-form-modern textarea:focus {
       border: 1.5px solid #2166c2;
       outline: none;
       background: #fff;
     }
-    .contact-form-centered button {
+    .contact-form-modern button {
       width: 100%;
-      padding: 1.2rem;
-      font-size: 1.18rem;
+      padding: 1.1rem;
+      font-size: 1.15rem;
       border-radius: 8px;
       margin-top: 0.5rem;
+      background: #2166c2;
+      color: #fff;
+      border: none;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .contact-form-modern button:hover {
+      background: #3498db;
     }
     @media (max-width: 700px) {
-      .contact-form-centered {
+      .contact-form-modern {
         max-width: 98vw;
         padding: 1.2rem 0.5rem;
       }
@@ -175,7 +184,7 @@
         <div class="container">
             <h2>Contactez-moi</h2>
             <div class="contact-content">
-                <form action="https://formspree.io/f/mgvkokkr" method="POST">
+                <form action="https://formspree.io/f/mgvkokkr" method="POST" class="contact-form-modern">
                   <label>
                     Votre email :
                     <input type="email" name="email" required>
