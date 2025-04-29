@@ -95,11 +95,30 @@
         </div>
     </footer>
     <script>
-    // Menu burger JS
-    const burger = document.getElementById('burger-menu');
-    const navLinks = document.querySelector('.nav-links');
-    burger.addEventListener('click', () => {
-      navLinks.classList.toggle('open');
+    document.addEventListener('DOMContentLoaded', function() {
+      const burger = document.getElementById('burger-menu');
+      const navLinks = document.querySelector('.nav-links');
+      if (burger && navLinks) {
+        burger.addEventListener('click', () => {
+          navLinks.classList.toggle('open');
+        });
+      }
+      // Chatbot floating button
+      const chatbotFab = document.getElementById('chatbot-fab');
+      const chatbotContainer = document.getElementById('chatbot-container');
+      let chatbotOpen = false;
+      if (chatbotFab && chatbotContainer) {
+        chatbotFab.addEventListener('click', () => {
+          chatbotOpen = !chatbotOpen;
+          chatbotContainer.classList.toggle('open', chatbotOpen);
+          chatbotFab.classList.toggle('active', chatbotOpen);
+          if (chatbotOpen) {
+            chatbotFab.innerHTML = '<i class="fas fa-times"></i>';
+          } else {
+            chatbotFab.innerHTML = '<i class="fas fa-comments"></i>';
+          }
+        });
+      }
     });
     </script>
 </body>
