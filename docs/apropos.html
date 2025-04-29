@@ -44,6 +44,51 @@
         position: relative;
       }
     }
+    .fade-in {
+      opacity: 0;
+      transform: translateY(40px);
+      transition: opacity 0.8s cubic-bezier(.4,2,.6,1), transform 0.8s cubic-bezier(.4,2,.6,1);
+    }
+    .fade-in.visible {
+      opacity: 1;
+      transform: none;
+    }
+    .cta-button, .project-link, .chatbot-fab {
+      transition: background 0.3s, color 0.3s, box-shadow 0.3s, transform 0.3s;
+    }
+    .cta-button:hover, .project-link:hover, .chatbot-fab:hover {
+      background: #3498db;
+      color: #fff;
+      box-shadow: 0 8px 24px rgba(44,62,80,0.15);
+      transform: translateY(-3px) scale(1.04);
+    }
+    .nav-links a {
+      transition: color 0.3s, border-bottom 0.3s;
+      border-bottom: 2px solid transparent;
+    }
+    .nav-links a:hover {
+      color: #3498db;
+      border-bottom: 2px solid #3498db;
+    }
+    .burger span {
+      transition: all 0.4s cubic-bezier(.4,2,.6,1);
+    }
+    .burger.active span:nth-child(1) {
+      transform: translateY(7px) rotate(45deg);
+    }
+    .burger.active span:nth-child(2) {
+      opacity: 0;
+    }
+    .burger.active span:nth-child(3) {
+      transform: translateY(-7px) rotate(-45deg);
+    }
+    .project-card {
+      transition: box-shadow 0.3s, transform 0.3s;
+    }
+    .project-card:hover {
+      box-shadow: 0 8px 32px rgba(44,62,80,0.18);
+      transform: translateY(-6px) scale(1.03);
+    }
     </style>
 </head>
 <body>
@@ -70,7 +115,7 @@
           <span></span>
         </div>
     </header>
-    <section id="apropos" class="about">
+    <section id="apropos" class="about fade-in">
         <div class="container">
             <h2>À propos de moi</h2>
             <div class="about-content">
@@ -83,7 +128,7 @@
             </div>
         </div>
     </section>
-    <footer>
+    <footer class="fade-in">
         <div class="container">
             <div class="social-links">
                 <a href="https://www.linkedin.com/in/yann-danneels-coignard-567657aa/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
@@ -118,6 +163,16 @@
           }
         });
       }
+      const fadeEls = document.querySelectorAll('.fade-in');
+      const observer = new window.IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.15 });
+      fadeEls.forEach(el => observer.observe(el));
     });
     </script>
 </body>

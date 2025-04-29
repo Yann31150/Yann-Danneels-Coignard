@@ -104,6 +104,56 @@
         right: 2.5vw;
       }
     }
+    /* Apparition douce des sections */
+    .fade-in {
+      opacity: 0;
+      transform: translateY(40px);
+      transition: opacity 0.8s cubic-bezier(.4,2,.6,1), transform 0.8s cubic-bezier(.4,2,.6,1);
+    }
+    .fade-in.visible {
+      opacity: 1;
+      transform: none;
+    }
+    /* Transitions sur les boutons */
+    .cta-button, .project-link, .chatbot-fab {
+      transition: background 0.3s, color 0.3s, box-shadow 0.3s, transform 0.3s;
+    }
+    .cta-button:hover, .project-link:hover, .chatbot-fab:hover {
+      background: #3498db;
+      color: #fff;
+      box-shadow: 0 8px 24px rgba(44,62,80,0.15);
+      transform: translateY(-3px) scale(1.04);
+    }
+    /* Transitions sur les liens de navigation */
+    .nav-links a {
+      transition: color 0.3s, border-bottom 0.3s;
+      border-bottom: 2px solid transparent;
+    }
+    .nav-links a:hover {
+      color: #3498db;
+      border-bottom: 2px solid #3498db;
+    }
+    /* Animation menu burger */
+    .burger span {
+      transition: all 0.4s cubic-bezier(.4,2,.6,1);
+    }
+    .burger.active span:nth-child(1) {
+      transform: translateY(7px) rotate(45deg);
+    }
+    .burger.active span:nth-child(2) {
+      opacity: 0;
+    }
+    .burger.active span:nth-child(3) {
+      transform: translateY(-7px) rotate(-45deg);
+    }
+    /* Animation sur les cartes projets */
+    .project-card {
+      transition: box-shadow 0.3s, transform 0.3s;
+    }
+    .project-card:hover {
+      box-shadow: 0 8px 32px rgba(44,62,80,0.18);
+      transform: translateY(-6px) scale(1.03);
+    }
     </style>
 </head>
 <body>
@@ -131,7 +181,7 @@
         </div>
     </header>
 
-    <section id="accueil" class="hero">
+    <section id="accueil" class="hero fade-in">
         <div class="hero-content">
             <h1>Yann Danneels-Coignard</h1>
             <h2>Data Analyst</h2>
@@ -140,7 +190,7 @@
         </div>
     </section>
 
-    <footer>
+    <footer class="fade-in">
         <div class="container">
             <div class="social-links">
                 <a href="https://www.linkedin.com/in/yann-danneels-coignard-567657aa/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
@@ -158,13 +208,26 @@
     <script src="https://www.chatbase.co/embed.min.js" id="chatbase-script" defer></script>
     <div id="sfcby3p5fjtaqxerydkmydp11cxm65p92kf"></div>
     <script>
-    // Menu burger JS
     document.addEventListener('DOMContentLoaded', function() {
+      // Apparition douce des sections au scroll
+      const fadeEls = document.querySelectorAll('.fade-in');
+      const observer = new window.IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.15 });
+      fadeEls.forEach(el => observer.observe(el));
+
+      // Menu burger JS
       const burger = document.getElementById('burger-menu');
       const navLinks = document.querySelector('.nav-links');
       if (burger && navLinks) {
         burger.addEventListener('click', () => {
           navLinks.classList.toggle('open');
+          burger.classList.toggle('active');
         });
       }
       // Chatbot floating button
