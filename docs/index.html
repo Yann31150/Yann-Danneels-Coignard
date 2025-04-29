@@ -160,24 +160,29 @@
     <br><a href="https://www.compteurdevisite.com">compteur pour site</a><noscript><a href="https://www.compteurdevisite.com" title="compteur pour site"><img src="https://counter4.optistats.ovh/private/compteurdevisite.php?c=by3p5fjtaqxerydkmydp11cxm65p92kf" border="0" title="compteur pour site" alt="compteur pour site"></a></noscript>
     <script>
     // Menu burger JS
-    const burger = document.getElementById('burger-menu');
-    const navLinks = document.querySelector('.nav-links');
-    burger.addEventListener('click', () => {
-      navLinks.classList.toggle('open');
-    });
-
-    // Chatbot floating button
-    const chatbotFab = document.getElementById('chatbot-fab');
-    const chatbotContainer = document.getElementById('chatbot-container');
-    let chatbotOpen = false;
-    chatbotFab.addEventListener('click', () => {
-      chatbotOpen = !chatbotOpen;
-      chatbotContainer.classList.toggle('open', chatbotOpen);
-      chatbotFab.classList.toggle('active', chatbotOpen);
-      if (chatbotOpen) {
-        chatbotFab.innerHTML = '<i class="fas fa-times"></i>';
-      } else {
-        chatbotFab.innerHTML = '<i class="fas fa-comments"></i>';
+    document.addEventListener('DOMContentLoaded', function() {
+      const burger = document.getElementById('burger-menu');
+      const navLinks = document.querySelector('.nav-links');
+      if (burger && navLinks) {
+        burger.addEventListener('click', () => {
+          navLinks.classList.toggle('open');
+        });
+      }
+      // Chatbot floating button
+      const chatbotFab = document.getElementById('chatbot-fab');
+      const chatbotContainer = document.getElementById('chatbot-container');
+      let chatbotOpen = false;
+      if (chatbotFab && chatbotContainer) {
+        chatbotFab.addEventListener('click', () => {
+          chatbotOpen = !chatbotOpen;
+          chatbotContainer.classList.toggle('open', chatbotOpen);
+          chatbotFab.classList.toggle('active', chatbotOpen);
+          if (chatbotOpen) {
+            chatbotFab.innerHTML = '<i class="fas fa-times"></i>';
+          } else {
+            chatbotFab.innerHTML = '<i class="fas fa-comments"></i>';
+          }
+        });
       }
     });
     </script>
