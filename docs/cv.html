@@ -68,6 +68,43 @@
                 grid-template-columns: 1fr;
             }
         }
+        /* Menu burger styles */
+        .burger {
+          display: none;
+          flex-direction: column;
+          cursor: pointer;
+          margin-left: 1rem;
+        }
+        .burger span {
+          height: 3px;
+          width: 25px;
+          background: #2166c2;
+          margin: 4px 0;
+          border-radius: 2px;
+          transition: 0.3s;
+        }
+        @media (max-width: 768px) {
+          .nav-links {
+            display: none;
+            position: absolute;
+            top: 60px;
+            left: 0;
+            width: 100%;
+            background: #fff;
+            flex-direction: column;
+            box-shadow: 0 2px 8px rgba(44,62,80,0.08);
+            z-index: 999;
+          }
+          .nav-links.open {
+            display: flex;
+          }
+          .burger {
+            display: flex;
+          }
+          nav {
+            position: relative;
+          }
+        }
     </style>
 </head>
 <body>
@@ -88,6 +125,11 @@
                 <li><a href="contact.html">Contact</a></li>
             </ul>
         </nav>
+        <div class="burger" id="burger-menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
     </header>
     <main>
         <div class="cv-container">
@@ -231,5 +273,13 @@
             <p>&copy; 2025 Yann Danneels-Coignard. Tous droits réservés.</p>
         </div>
     </footer>
+    <script>
+    // Menu burger JS
+    const burger = document.getElementById('burger-menu');
+    const navLinks = document.querySelector('.nav-links');
+    burger.addEventListener('click', () => {
+      navLinks.classList.toggle('open');
+    });
+    </script>
 </body>
 </html> 
