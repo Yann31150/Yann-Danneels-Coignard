@@ -215,6 +215,16 @@ section h2 {
     margin-bottom: 1rem;
 }
 
+.skill-logo {
+    height: 48px;
+    max-width: 90px;
+    margin-bottom: 1rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: contain;
+}
+
 /* Projets */
 .projects-grid {
     display: grid;
