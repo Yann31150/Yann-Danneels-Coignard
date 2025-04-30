@@ -113,6 +113,18 @@ nav {
     z-index: 1;
 }
 
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(30, 42, 70, 0.55); /* filtre sombre, ajustable */
+    z-index: 1;
+    pointer-events: none;
+}
+
 .hero-content {
     padding: 2rem 3rem;
     z-index: 2;
