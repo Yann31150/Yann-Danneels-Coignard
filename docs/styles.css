@@ -176,6 +176,10 @@ section {
     padding: 5rem 0;
 }
 
+section:not(.hero) h2 {
+    margin-top: 4.5rem;
+}
+
 section h2 {
     text-align: center;
     margin-bottom: 3rem;
