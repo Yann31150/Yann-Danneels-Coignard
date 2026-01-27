@@ -356,37 +356,61 @@ section h2 {
 }
 
 /* Outils */
-.tools-logos {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2rem;
-    justify-content: center;
-    align-items: center;
+.tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 1.4rem;
     margin-top: 2rem;
 }
 
-.tools-logos div {
-    background: #fff;
-    border: 1px solid #e2e6ee;
-    padding: 0.6rem 0.8rem;
-    border-radius: 12px;
-    box-shadow: 0 6px 16px rgba(15, 23, 42, 0.08);
+.tools-grid-llm {
+    margin-top: 1.5rem;
 }
 
-.tools-logos img {
-    display: block;
-    height: 48px;
+.tool-item {
+    background: #fff;
+    border: 1px solid #e2e6ee;
+    border-radius: 14px;
+    padding: 1rem 0.8rem;
+    text-align: center;
+    box-shadow: 0 8px 20px rgba(15, 23, 42, 0.08);
+}
+
+.tool-icon {
+    height: 54px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0.6rem;
+}
+
+.tool-icon img {
+    max-height: 48px;
+    max-width: 84px;
     width: auto;
 }
 
-.llm-logos {
-    gap: 1rem;
-    margin-top: 2.5rem;
+.tool-icon-text {
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: var(--primary-color);
+    background: #f1f5fb;
+    border: 1px solid #dbe3f2;
+    border-radius: 10px;
+    padding: 0.35rem 0.6rem;
 }
 
-.llm-logos img {
-    height: 38px;
-    filter: invert(16%) sepia(8%) saturate(650%) hue-rotate(180deg) brightness(95%) contrast(95%);
+.tool-label {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--primary-color);
+}
+
+.tools-subtitle {
+    text-align: center;
+    margin-top: 2.8rem;
+    color: var(--primary-color);
+    font-size: 1.4rem;
 }
 
 /* À propos */
