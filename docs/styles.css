@@ -23,7 +23,7 @@ body {
     line-height: 1.6;
     color: var(--text-color);
     background-color: #f7f8fb;
-    background-image: url('fondecran.png?v=20260127');
+    background-image: url('https://www.yanndanneelscoignard.fr/fondecran.png?v=20260127b');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -215,7 +215,7 @@ section {
 }
 
 section:not(.hero) {
-    background-color: rgba(255, 255, 255, 0.86);
+    background-color: rgba(255, 255, 255, 0.75);
     backdrop-filter: blur(6px);
 }
 
@@ -366,6 +366,13 @@ section h2 {
 }
 
 /* Outils */
+.tools .container {
+    background: rgba(255, 255, 255, 0.82);
+    border-radius: 18px;
+    padding: 2.5rem 2rem;
+    box-shadow: 0 16px 40px rgba(15, 23, 42, 0.12);
+}
+
 .tools-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
