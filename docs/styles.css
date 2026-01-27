@@ -214,6 +214,11 @@ section {
     padding: 5rem 0;
 }
 
+section:not(.hero) {
+    background-color: rgba(255, 255, 255, 0.86);
+    backdrop-filter: blur(6px);
+}
+
 section:not(.hero) h2 {
     margin-top: 4.5rem;
 }
@@ -227,7 +232,7 @@ section h2 {
 
 /* Section recrutement */
 .job-focus {
-    background-color: var(--light-bg);
+    background-color: transparent;
     border-top: 1px solid #e9edf5;
     border-bottom: 1px solid #e9edf5;
 }
@@ -312,11 +317,11 @@ section h2 {
 }
 
 .databridge-section {
-    background-color: var(--light-bg);
+    background-color: transparent;
 }
 
 .databridge-section:nth-of-type(even) {
-    background-color: #ffffff;
+    background-color: transparent;
 }
 
 .databridge-grid {
@@ -420,7 +425,7 @@ section h2 {
 
 /* À propos */
 .about {
-    background-color: var(--light-bg);
+    background-color: transparent;
 }
 
 .about-content {
@@ -536,7 +541,7 @@ section h2 {
 
 /* Contact */
 .contact {
-    background-color: var(--light-bg);
+    background-color: transparent;
 }
 
 .contact-content {
