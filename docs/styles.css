@@ -358,9 +358,9 @@ section h2 {
 /* Outils */
 .tools-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-    gap: 1.4rem;
-    margin-top: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 1rem;
+    margin-top: 1.6rem;
 }
 
 .tools-grid-llm {
@@ -370,47 +370,47 @@ section h2 {
 .tool-item {
     background: #fff;
     border: 1px solid #e2e6ee;
-    border-radius: 14px;
-    padding: 1rem 0.8rem;
+    border-radius: 10px;
+    padding: 0.7rem 0.6rem;
     text-align: center;
-    box-shadow: 0 8px 20px rgba(15, 23, 42, 0.08);
+    box-shadow: 0 6px 14px rgba(15, 23, 42, 0.08);
 }
 
 .tool-icon {
-    height: 54px;
+    height: 44px;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 0.6rem;
+    margin-bottom: 0.4rem;
 }
 
 .tool-icon img {
-    max-height: 48px;
-    max-width: 84px;
+    max-height: 38px;
+    max-width: 68px;
     width: auto;
 }
 
 .tool-icon-text {
     font-weight: 700;
-    font-size: 0.95rem;
+    font-size: 0.82rem;
     color: var(--primary-color);
     background: #f1f5fb;
     border: 1px solid #dbe3f2;
-    border-radius: 10px;
-    padding: 0.35rem 0.6rem;
+    border-radius: 8px;
+    padding: 0.25rem 0.45rem;
 }
 
 .tool-label {
-    font-size: 0.95rem;
+    font-size: 0.82rem;
     font-weight: 600;
     color: var(--primary-color);
 }
 
 .tools-subtitle {
     text-align: center;
-    margin-top: 2.8rem;
+    margin-top: 2rem;
     color: var(--primary-color);
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 
 /* À propos */
