@@ -23,6 +23,11 @@ body {
     line-height: 1.6;
     color: var(--text-color);
     background-color: #f7f8fb;
+    background-image: url('fondecran.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .container {
@@ -109,7 +114,7 @@ nav {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: url('fondecran.png') center/cover no-repeat;
+    background: transparent;
     position: relative;
     display: flex;
     align-items: center;
