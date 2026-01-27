@@ -155,6 +155,24 @@ nav {
     letter-spacing: 1px;
 }
 
+.hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.cta-secondary {
+    background-color: var(--secondary-color);
+}
+
+.hero-availability {
+    margin-top: 1.5rem;
+    font-size: 1.1rem;
+    color: #fff;
+    opacity: 0.95;
+}
+
 .cta-button {
     display: inline-block;
     padding: 1rem 2rem;
@@ -185,6 +203,54 @@ section h2 {
     margin-bottom: 3rem;
     color: var(--primary-color);
     font-size: 2.5rem;
+}
+
+/* Section recrutement */
+.job-focus {
+    background-color: var(--light-bg);
+}
+
+.job-highlight {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2.5rem;
+    align-items: start;
+}
+
+.job-highlight h3 {
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
+
+.job-highlight ul {
+    padding-left: 1.2rem;
+}
+
+.job-highlight li {
+    margin-bottom: 0.6rem;
+    line-height: 1.6;
+}
+
+.pill-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    margin-bottom: 1.5rem;
+}
+
+.pill {
+    background: #fff;
+    border: 1px solid #e2e6ee;
+    padding: 0.4rem 0.8rem;
+    border-radius: 999px;
+    font-size: 0.95rem;
+    color: var(--primary-color);
+}
+
+.job-cta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
 }
 
 /* À propos */
@@ -370,6 +436,12 @@ footer {
     color: var(--white);
     padding: 2rem 0;
     text-align: center;
+}
+
+.visitor-count {
+    margin-bottom: 0.75rem;
+    font-size: 0.95rem;
+    opacity: 0.9;
 }
 
 .social-links {
