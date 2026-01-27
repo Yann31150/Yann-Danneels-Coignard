@@ -355,6 +355,40 @@ section h2 {
     margin: 0 auto;
 }
 
+/* Outils */
+.tools-logos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.tools-logos div {
+    background: #fff;
+    border: 1px solid #e2e6ee;
+    padding: 0.6rem 0.8rem;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(15, 23, 42, 0.08);
+}
+
+.tools-logos img {
+    display: block;
+    height: 48px;
+    width: auto;
+}
+
+.llm-logos {
+    gap: 1rem;
+    margin-top: 2.5rem;
+}
+
+.llm-logos img {
+    height: 38px;
+    filter: invert(16%) sepia(8%) saturate(650%) hue-rotate(180deg) brightness(95%) contrast(95%);
+}
+
 /* À propos */
 .about {
     background-color: var(--light-bg);
