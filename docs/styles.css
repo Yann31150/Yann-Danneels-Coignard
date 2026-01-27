@@ -441,15 +441,25 @@ section h2 {
 
 .about-content {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 3rem;
+    grid-template-columns: 1fr;
+    gap: 2rem;
     align-items: center;
+    justify-items: center;
 }
 
 .about-image img {
     width: 100%;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.about-text {
+    max-width: 820px;
+    text-align: center;
+}
+
+.about-text p {
+    margin-bottom: 1rem;
 }
 
 /* Compétences */
