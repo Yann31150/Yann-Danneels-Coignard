@@ -111,17 +111,23 @@
                 <span class="logo-initial">C</span>
             </div>
             <ul class="nav-links">
-                <li><a href="index.html">Accueil</a></li>
-                <li><a href="apropos.html">À propos</a></li>
-                <li><a href="competences.html">Compétences</a></li>
-                <li><a href="outils.html">Outils</a></li>
-                <li><a href="passions.html">Passions</a></li>
-                <li><a href="projets.html" class="active">Projets</a></li>
-                <li><a href="cv.html">Mon CV</a></li>
-                <li><a href="databridge.html">Databridge</a></li>
-                <li><a href="actualites-tech.html">Actualités Tech</a></li>
-                <li><a href="cybersecurite.html">Cybersécurité</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="index.html" data-translate="nav.accueil">Accueil</a></li>
+                <li><a href="apropos.html" data-translate="nav.apropos">À propos</a></li>
+                <li><a href="competences.html" data-translate="nav.competences">Compétences</a></li>
+                <li><a href="outils.html" data-translate="nav.outils">Outils</a></li>
+                <li><a href="passions.html" data-translate="nav.passions">Passions</a></li>
+                <li><a href="projets.html" class="active" data-translate="nav.projets">Projets</a></li>
+                <li><a href="cv.html" data-translate="nav.cv">Mon CV</a></li>
+                <li><a href="databridge.html" data-translate="nav.databridge">Databridge</a></li>
+                <li><a href="actualites-tech.html" data-translate="nav.actualites">Actualités Tech</a></li>
+                <li><a href="cybersecurite.html" data-translate="nav.cybersecurite">Cybersécurité</a></li>
+                <li><a href="contact.html" data-translate="nav.contact">Contact</a></li>
+                <li>
+                    <div class="language-selector">
+                        <button class="lang-btn active" data-lang="fr" onclick="setLanguage('fr')">FR</button>
+                        <button class="lang-btn" data-lang="en" onclick="setLanguage('en')">EN</button>
+                    </div>
+                </li>
             </ul>
         </nav>
         <div class="burger" id="burger-menu">
@@ -132,48 +138,48 @@
     </header>
     <section id="projets" class="projects fade-in">
         <div class="container">
-            <h2>Mes Projets</h2>
+            <h2 data-translate="projects.title">Mes Projets</h2>
             <div class="projects-grid">
                 <div class="project-card">
-                    <h3>Tableau de Bord pour une Entreprise de Maquettes</h3>
+                    <h3 data-translate="projects.project1Title">Tableau de Bord pour une Entreprise de Maquettes</h3>
                     <div class="project-details">
-                        <h4>🎯 Objectif</h4>
-                        <p>Création d'un tableau de bord interactif pour la direction d'une entreprise spécialisée dans la vente de modèles et de maquettes, centré sur 4 axes clés : Ventes, Finances, Logistique et Ressources humaines.</p>
-                        <h4>🔍 Démarche</h4>
+                        <h4 data-translate="projects.objective">🎯 Objectif</h4>
+                        <p data-translate="projects.project1Objective">Création d'un tableau de bord interactif pour la direction d'une entreprise spécialisée dans la vente de modèles et de maquettes, centré sur 4 axes clés : Ventes, Finances, Logistique et Ressources humaines.</p>
+                        <h4 data-translate="projects.approach">🔍 Démarche</h4>
                         <ol>
                             <li>
-                                <strong>Exploration des données & extraction des KPI en SQL</strong>
+                                <strong data-translate="projects.project1Approach1">Exploration des données & extraction des KPI en SQL</strong>
                                 <ul>
-                                    <li>Connexion à une base MySQL transactionnelle (OLTP)</li>
-                                    <li>Rédaction de requêtes SQL avancées pour calculer les KPI</li>
-                                    <li>Création de vues SQL pour faciliter l'import dans Power BI</li>
+                                    <li data-translate="projects.project1Approach1a">Connexion à une base MySQL transactionnelle (OLTP)</li>
+                                    <li data-translate="projects.project1Approach1b">Rédaction de requêtes SQL avancées pour calculer les KPI</li>
+                                    <li data-translate="projects.project1Approach1c">Création de vues SQL pour faciliter l'import dans Power BI</li>
                                 </ul>
                             </li>
                             <li>
-                                <strong>Modélisation analytique (OLAP)</strong>
+                                <strong data-translate="projects.project1Approach2">Modélisation analytique (OLAP)</strong>
                                 <ul>
-                                    <li>Transformation vers un modèle en étoile</li>
-                                    <li>Mise en place de tables de faits et dimensions</li>
-                                    <li>Optimisation des performances</li>
+                                    <li data-translate="projects.project1Approach2a">Transformation vers un modèle en étoile</li>
+                                    <li data-translate="projects.project1Approach2b">Mise en place de tables de faits et dimensions</li>
+                                    <li data-translate="projects.project1Approach2c">Optimisation des performances</li>
                                 </ul>
                             </li>
                             <li>
-                                <strong>Construction du tableau de bord Power BI</strong>
+                                <strong data-translate="projects.project1Approach3">Construction du tableau de bord Power BI</strong>
                                 <ul>
-                                    <li>Intégration des vues SQL et modélisation</li>
-                                    <li>Création de visuels pertinents</li>
-                                    <li>Mise en place de filtres interactifs</li>
+                                    <li data-translate="projects.project1Approach3a">Intégration des vues SQL et modélisation</li>
+                                    <li data-translate="projects.project1Approach3b">Création de visuels pertinents</li>
+                                    <li data-translate="projects.project1Approach3c">Mise en place de filtres interactifs</li>
                                 </ul>
                             </li>
                         </ol>
-                        <h4>🧾 Résultat</h4>
-                        <p>Livraison d'un tableau de bord professionnel, interactif et actualisable permettant au directeur de piloter l'activité de son entreprise avec une vision claire et structurée.</p>
+                        <h4 data-translate="projects.result">🧾 Résultat</h4>
+                        <p data-translate="projects.project1Result">Livraison d'un tableau de bord professionnel, interactif et actualisable permettant au directeur de piloter l'activité de son entreprise avec une vision claire et structurée.</p>
                     </div>
-                    <a href="tableau_de_bord_maquettes.pbix" class="project-link" download>Télécharger le fichier Power BI</a>
+                    <a href="tableau_de_bord_maquettes.pbix" class="project-link" download data-translate="projects.download">Télécharger le fichier Power BI</a>
                 </div>
                 <div class="project-card">
-                    <h3>Système de recommandation de vins <span style="color:#e67e22; font-size:1rem;">(en cours)</span></h3>
-                    <p>Projet de moteur de recommandation de vins pour un caviste local, avec analyse de données et machine learning.</p>
+                    <h3 data-translate="projects.project2Title">Système de recommandation de vins <span style="color:#e67e22; font-size:1rem;">(en cours)</span></h3>
+                    <p data-translate="projects.project2Desc">Projet de moteur de recommandation de vins pour un caviste local, avec analyse de données et machine learning.</p>
                     <div class="project-details">
                         <h4>🎯 Objectif</h4>
                         <p>Proposer des recommandations personnalisées (accords mets-vins et préférences clients) pour augmenter la satisfaction et les ventes.</p>
@@ -193,7 +199,7 @@
                     </div>
                 </div>
                 <div class="project-card">
-                    <h3>Ludrun : Votre Guide Intelligent pour Trouver Votre Prochain Jeu Vidéo <span style="color:#e67e22; font-size:1rem;">(en cours)</span></h3>
+                    <h3 data-translate="projects.project3Title">Ludrun : Votre Guide Intelligent pour Trouver Votre Prochain Jeu Vidéo <span style="color:#e67e22; font-size:1rem;">(en cours)</span></h3>
                     <p>Découvrez des jeux qui vous ressemblent, grâce à l’IA.</p>
                     <div class="project-details">
                         <h4>🎯 Vision</h4>
@@ -231,8 +237,8 @@
                 <a href="#"><i class="fab fa-github"></i></a>
                 <a href="https://studio.youtube.com/channel/UCdy22nIUUqIyEkxijA5hmEw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
             </div>
-            <p class="visitor-count">Visites : <span data-visit-counter>—</span></p>
-            <p>&copy; 2026 Yann Danneels-Coignard. Tous droits réservés.</p>
+            <p class="visitor-count"><span data-translate="home.visits">Visites</span> : <span data-visit-counter>—</span></p>
+            <p>&copy; 2026 Yann Danneels-Coignard. <span data-translate="home.rights">Tous droits réservés.</span></p>
         </div>
     </footer>
     <script>
@@ -272,6 +278,7 @@
       fadeEls.forEach(el => observer.observe(el));
     });
     </script>
+    <script src="translations.js"></script>
     <script src="visitor-counter.js" defer></script>
 </body>
 </html> 

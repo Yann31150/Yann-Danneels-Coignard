@@ -175,18 +175,24 @@
                 <span class="logo-initial">D</span>
                 <span class="logo-initial">C</span>
             </div>
-            <ul class="nav-links">
-                <li><a href="index.html">Accueil</a></li>
-                <li><a href="apropos.html">À propos</a></li>
-                <li><a href="competences.html">Compétences</a></li>
-                <li><a href="outils.html">Outils</a></li>
-                <li><a href="projets.html">Projets</a></li>
-                <li><a href="passions.html">Passions</a></li>
-                <li><a href="cv.html">Mon CV</a></li>
-                <li><a href="databridge.html">Databridge</a></li>
-                <li><a href="actualites-tech.html">Actualités Tech</a></li>
-                <li><a href="cybersecurite.html">Cybersécurité</a></li>
-                <li><a href="contact.html" class="active">Contact</a></li>
+                        <ul class="nav-links">
+                <li><a href="index.html" data-translate="nav.accueil">Accueil</a></li>
+                <li><a href="apropos.html" data-translate="nav.apropos">À propos</a></li>
+                <li><a href="competences.html" data-translate="nav.competences">Compétences</a></li>
+                <li><a href="outils.html" data-translate="nav.outils">Outils</a></li>
+                <li><a href="passions.html" data-translate="nav.passions">Passions</a></li>
+                <li><a href="projets.html" data-translate="nav.projets">Projets</a></li>
+                <li><a href="cv.html" data-translate="nav.cv">Mon CV</a></li>
+                <li><a href="databridge.html" data-translate="nav.databridge">Databridge</a></li>
+                <li><a href="actualites-tech.html" data-translate="nav.actualites">Actualités Tech</a></li>
+                <li><a href="cybersecurite.html" data-translate="nav.cybersecurite">Cybersécurité</a></li>
+                <li><a href="contact.html" data-translate="nav.contact">Contact</a></li>
+                <li>
+                    <div class="language-selector">
+                        <button class="lang-btn active" data-lang="fr" onclick="setLanguage('fr')">FR</button>
+                        <button class="lang-btn" data-lang="en" onclick="setLanguage('en')">EN</button>
+                    </div>
+                </li>
             </ul>
         </nav>
         <div class="burger" id="burger-menu">
@@ -197,22 +203,22 @@
     </header>
     <section id="contact" class="contact fade-in">
         <div class="container">
-            <h2>Contactez-moi</h2>
+            <h2 data-translate="contact.title">Contactez-moi</h2>
             <div class="contact-content">
                 <form action="https://formspree.io/f/mgvkokkr" method="POST" class="contact-form-modern">
                   <label>
-                    Votre nom :
+                    <span data-translate="contact.nameLabel">Votre nom :</span>
                     <input type="text" name="name" required>
                   </label>
                   <label>
-                    Votre email :
+                    <span data-translate="contact.emailLabel">Votre email :</span>
                     <input type="email" name="email" required>
                   </label>
                   <label>
-                    Votre message :
+                    <span data-translate="contact.messageLabel">Votre message :</span>
                     <textarea name="message" required rows="7" style="min-height: 160px;"></textarea>
                   </label>
-                  <button type="submit">Envoyer</button>
+                  <button type="submit" data-translate="contact.send">Envoyer</button>
                 </form>
             </div>
         </div>
@@ -224,8 +230,8 @@
                 <a href="#"><i class="fab fa-github"></i></a>
                 <a href="https://studio.youtube.com/channel/UCdy22nIUUqIyEkxijA5hmEw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
             </div>
-            <p class="visitor-count">Visites : <span data-visit-counter>—</span></p>
-            <p>&copy; 2026 Yann Danneels-Coignard. Tous droits réservés.</p>
+            <p class="visitor-count"><span data-translate="home.visits">Visites</span> : <span data-visit-counter>—</span></p>
+            <p>&copy; 2026 Yann Danneels-Coignard. <span data-translate="home.rights">Tous droits réservés.</span></p>
         </div>
     </footer>
     <script>
@@ -265,6 +271,7 @@
       fadeEls.forEach(el => observer.observe(el));
     });
     </script>
+    <script src="translations.js"></script>
     <script src="visitor-counter.js" defer></script>
 </body>
 </html> 

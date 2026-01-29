@@ -26,18 +26,24 @@
                 <span class="logo-initial">D</span>
                 <span class="logo-initial">C</span>
             </div>
-            <ul class="nav-links">
-                <li><a href="index.html">Accueil</a></li>
-                <li><a href="apropos.html">À propos</a></li>
-                <li><a href="competences.html">Compétences</a></li>
-                <li><a href="outils.html">Outils</a></li>
-                <li><a href="passions.html">Passions</a></li>
-                <li><a href="projets.html">Projets</a></li>
-                <li><a href="cv.html">Mon CV</a></li>
-                <li><a href="databridge.html" class="active">Databridge</a></li>
-                <li><a href="actualites-tech.html">Actualités Tech</a></li>
-                <li><a href="cybersecurite.html">Cybersécurité</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                        <ul class="nav-links">
+                <li><a href="index.html" data-translate="nav.accueil">Accueil</a></li>
+                <li><a href="apropos.html" data-translate="nav.apropos">À propos</a></li>
+                <li><a href="competences.html" data-translate="nav.competences">Compétences</a></li>
+                <li><a href="outils.html" data-translate="nav.outils">Outils</a></li>
+                <li><a href="passions.html" data-translate="nav.passions">Passions</a></li>
+                <li><a href="projets.html" data-translate="nav.projets">Projets</a></li>
+                <li><a href="cv.html" data-translate="nav.cv">Mon CV</a></li>
+                <li><a href="databridge.html" data-translate="nav.databridge">Databridge</a></li>
+                <li><a href="actualites-tech.html" data-translate="nav.actualites">Actualités Tech</a></li>
+                <li><a href="cybersecurite.html" data-translate="nav.cybersecurite">Cybersécurité</a></li>
+                <li><a href="contact.html" data-translate="nav.contact">Contact</a></li>
+                <li>
+                    <div class="language-selector">
+                        <button class="lang-btn active" data-lang="fr" onclick="setLanguage('fr')">FR</button>
+                        <button class="lang-btn" data-lang="en" onclick="setLanguage('en')">EN</button>
+                    </div>
+                </li>
             </ul>
         </nav>
         <div class="burger" id="burger-menu">
@@ -50,19 +56,19 @@
     <section class="databridge-hero fade-in">
         <div class="container">
             <img src="logo.png" alt="Databridge.ia" class="databridge-logo">
-            <h1>Databridge.ia</h1>
-            <p class="databridge-lead">
+            <h1 data-translate="databridge.title">Databridge.ia</h1>
+            <p class="databridge-lead" data-translate="databridge.lead1">
                 Après une reconversion professionnelle dans la data, nous avons créé Databridge.ia
                 avec une conviction simple : les données ne doivent pas être réservées aux géants du
                 numérique ou aux experts.
             </p>
-            <p class="databridge-lead">
+            <p class="databridge-lead" data-translate="databridge.lead2">
                 Que vous soyez TPE, PME, artisan ou indépendant, nous vous aidons à comprendre,
                 exploiter et automatiser vos données pour prendre des décisions plus éclairées,
                 sans jargon inutile ni usines à gaz.
             </p>
             <div class="databridge-cta">
-                <a href="contact.html" class="cta-button">Nous contacter</a>
+                <a href="contact.html" class="cta-button" data-translate="databridge.contactUs">Nous contacter</a>
             </div>
         </div>
     </section>
@@ -72,16 +78,16 @@
             <h2>Pourquoi nous ?</h2>
             <div class="databridge-grid">
                 <div class="databridge-card">
-                    <h3>Des data analysts proches du terrain</h3>
-                    <p>Des solutions concrètes adaptées à vos réalités : Excel, Power BI, SQL, Python, automatisations simples.</p>
+                    <h3 data-translate="databridge.whyUs1Title">Des data analysts proches du terrain</h3>
+                    <p data-translate="databridge.whyUs1Desc">Des solutions concrètes adaptées à vos réalités : Excel, Power BI, SQL, Python, automatisations simples.</p>
                 </div>
                 <div class="databridge-card">
-                    <h3>Une approche pédagogique</h3>
-                    <p>Nous expliquons clairement ce que vos données disent, sans vous noyer dans des équations.</p>
+                    <h3 data-translate="databridge.whyUs2Title">Une approche pédagogique</h3>
+                    <p data-translate="databridge.whyUs2Desc">Nous expliquons clairement ce que vos données disent, sans vous noyer dans des équations.</p>
                 </div>
                 <div class="databridge-card">
-                    <h3>Des tarifs accessibles</h3>
-                    <p>Parce que la data ne doit pas être un luxe, nous proposons des forfaits adaptés aux petits budgets.</p>
+                    <h3 data-translate="databridge.whyUs3Title">Des tarifs accessibles</h3>
+                    <p data-translate="databridge.whyUs3Desc">Parce que la data ne doit pas être un luxe, nous proposons des forfaits adaptés aux petits budgets.</p>
                 </div>
                 <div class="databridge-card">
                     <h3>De l’automatisation sans prise de tête</h3>
@@ -146,8 +152,8 @@
                 <a href="#"><i class="fab fa-github"></i></a>
                 <a href="https://studio.youtube.com/channel/UCdy22nIUUqIyEkxijA5hmEw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
             </div>
-            <p class="visitor-count">Visites : <span data-visit-counter>—</span></p>
-            <p>&copy; 2026 Yann Danneels-Coignard. Tous droits réservés.</p>
+            <p class="visitor-count"><span data-translate="home.visits">Visites</span> : <span data-visit-counter>—</span></p>
+            <p>&copy; 2026 Yann Danneels-Coignard. <span data-translate="home.rights">Tous droits réservés.</span></p>
         </div>
     </footer>
 
@@ -172,6 +178,7 @@
       fadeEls.forEach(el => observer.observe(el));
     });
     </script>
+    <script src="translations.js"></script>
     <script src="visitor-counter.js" defer></script>
 </body>
 </html>

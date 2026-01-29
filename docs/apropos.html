@@ -26,28 +26,35 @@
                 <span class="logo-initial">D</span>
                 <span class="logo-initial">C</span>
             </div>
-            <ul class="nav-links">
-                <li><a href="index.html">Accueil</a></li>
-                <li><a href="apropos.html">À propos</a></li>
-                <li><a href="competences.html">Compétences</a></li>
-                <li><a href="outils.html">Outils</a></li>
-                <li><a href="projets.html">Projets</a></li>
-                <li><a href="passions.html">Passions</a></li>
-                <li><a href="databridge.html">Databridge</a></li>
-                <li><a href="actualites-tech.html">Actualités Tech</a></li>
-                <li><a href="cybersecurite.html">Cybersécurité</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                        <ul class="nav-links">
+                <li><a href="index.html" data-translate="nav.accueil">Accueil</a></li>
+                <li><a href="apropos.html" data-translate="nav.apropos">À propos</a></li>
+                <li><a href="competences.html" data-translate="nav.competences">Compétences</a></li>
+                <li><a href="outils.html" data-translate="nav.outils">Outils</a></li>
+                <li><a href="passions.html" data-translate="nav.passions">Passions</a></li>
+                <li><a href="projets.html" data-translate="nav.projets">Projets</a></li>
+                <li><a href="cv.html" data-translate="nav.cv">Mon CV</a></li>
+                <li><a href="databridge.html" data-translate="nav.databridge">Databridge</a></li>
+                <li><a href="actualites-tech.html" data-translate="nav.actualites">Actualités Tech</a></li>
+                <li><a href="cybersecurite.html" data-translate="nav.cybersecurite">Cybersécurité</a></li>
+                <li><a href="contact.html" data-translate="nav.contact">Contact</a></li>
+                <li>
+                    <div class="language-selector">
+                        <button class="lang-btn active" data-lang="fr" onclick="setLanguage('fr')">FR</button>
+                        <button class="lang-btn" data-lang="en" onclick="setLanguage('en')">EN</button>
+                    </div>
+                </li>
             </ul>
         </nav>
     </header>
     <section id="apropos" class="about">
         <div class="container">
-            <h2>À propos de moi</h2>
+            <h2 data-translate="about.title">À propos de moi</h2>
             <div class="about-content">
                 <div class="about-text">
-                    <p>Après plus de 20 ans d'expérience dans le secteur bancaire, j'ai décidé de me réinventer professionnellement en me tournant vers un domaine qui me passionne : la data et la tech.</p>
-                    <p>Actuellement en formation de Data Analyst à la Wild Code School de Toulouse, j'apprends à maîtriser les outils modernes d'analyse de données pour transformer l'information brute en leviers de décision pertinents.</p>
-                    <p>Passionné par les technologies, l'analyse de données et leur impact stratégique, je suis à la recherche d'une alternance dans le domaine de la data.<br>Mon objectif : mettre mes compétences au service des entreprises pour comprendre les tendances, révéler des insights et améliorer la prise de décision.</p>
+                    <p data-translate="about.text1">Après plus de 20 ans d'expérience dans le secteur bancaire, j'ai décidé de me réinventer professionnellement en me tournant vers un domaine qui me passionne : la data et la tech.</p>
+                    <p data-translate="about.text2">Actuellement en formation de Data Analyst à la Wild Code School de Toulouse, j'apprends à maîtriser les outils modernes d'analyse de données pour transformer l'information brute en leviers de décision pertinents.</p>
+                    <p><span data-translate="about.text3">Passionné par les technologies, l'analyse de données et leur impact stratégique, je suis à la recherche d'une alternance dans le domaine de la data.</span><br><span data-translate="about.text4">Mon objectif : mettre mes compétences au service des entreprises pour comprendre les tendances, révéler des insights et améliorer la prise de décision.</span></p>
                 </div>
             </div>
         </div>
@@ -59,10 +66,11 @@
                 <a href="#"><i class="fab fa-github"></i></a>
                 <a href="https://studio.youtube.com/channel/UCdy22nIUUqIyEkxijA5hmEw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
             </div>
-            <p class="visitor-count">Visites : <span data-visit-counter>—</span></p>
-            <p>&copy; 2026 Yann Danneels-Coignard. Tous droits réservés.</p>
+            <p class="visitor-count"><span data-translate="home.visits">Visites</span> : <span data-visit-counter>—</span></p>
+            <p>&copy; 2026 Yann Danneels-Coignard. <span data-translate="home.rights">Tous droits réservés.</span></p>
         </div>
     </footer>
+    <script src="translations.js"></script>
     <script src="visitor-counter.js" defer></script>
 </body>
 </html> 

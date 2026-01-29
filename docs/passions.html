@@ -110,18 +110,24 @@
                 <span class="logo-initial">D</span>
                 <span class="logo-initial">C</span>
             </div>
-            <ul class="nav-links">
-                <li><a href="index.html">Accueil</a></li>
-                <li><a href="apropos.html">À propos</a></li>
-                <li><a href="competences.html">Compétences</a></li>
-                <li><a href="outils.html">Outils</a></li>
-                <li><a href="passions.html">Passions</a></li>
-                <li><a href="projets.html">Projets</a></li>
-                <li><a href="cv.html">Mon CV</a></li>
-                <li><a href="databridge.html">Databridge</a></li>
-                <li><a href="actualites-tech.html">Actualités Tech</a></li>
-                <li><a href="cybersecurite.html">Cybersécurité</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                        <ul class="nav-links">
+                <li><a href="index.html" data-translate="nav.accueil">Accueil</a></li>
+                <li><a href="apropos.html" data-translate="nav.apropos">À propos</a></li>
+                <li><a href="competences.html" data-translate="nav.competences">Compétences</a></li>
+                <li><a href="outils.html" data-translate="nav.outils">Outils</a></li>
+                <li><a href="passions.html" data-translate="nav.passions">Passions</a></li>
+                <li><a href="projets.html" data-translate="nav.projets">Projets</a></li>
+                <li><a href="cv.html" data-translate="nav.cv">Mon CV</a></li>
+                <li><a href="databridge.html" data-translate="nav.databridge">Databridge</a></li>
+                <li><a href="actualites-tech.html" data-translate="nav.actualites">Actualités Tech</a></li>
+                <li><a href="cybersecurite.html" data-translate="nav.cybersecurite">Cybersécurité</a></li>
+                <li><a href="contact.html" data-translate="nav.contact">Contact</a></li>
+                <li>
+                    <div class="language-selector">
+                        <button class="lang-btn active" data-lang="fr" onclick="setLanguage('fr')">FR</button>
+                        <button class="lang-btn" data-lang="en" onclick="setLanguage('en')">EN</button>
+                    </div>
+                </li>
             </ul>
         </nav>
         <div class="burger" id="burger-menu">
@@ -132,15 +138,15 @@
     </header>
     <section id="passions" class="passions fade-in">
         <div class="container">
-            <h2>Mes passions</h2>
+            <h2 data-translate="passions.title">Mes passions</h2>
             <div class="passions-content">
                 <p>
-                    Au-delà des chiffres et des tableaux de bord, je cultive des passions qui nourrissent autant ma rigueur que ma créativité.<br><br>
-                    <strong>Le tir sportif</strong> m'a appris la maîtrise de soi, la précision du geste et la concentration absolue. Chaque séance est un défi personnel où la technique rencontre la discipline, des qualités que j'aime retrouver dans mon métier de data analyst.<br><br>
-                    <strong>Le gaming et les jeux de rôle</strong> sont pour moi bien plus qu'un loisir : c'est un terrain d'exploration, de stratégie et d'imagination. J'adore plonger dans des univers complexes, résoudre des énigmes en équipe et repousser les limites de la créativité, que ce soit derrière un écran ou autour d'une table.<br><br>
-                    Enfin, en tant que <strong>télépilote de drone professionnel</strong>, je combine technologie, vision et précision. Piloter un drone, c'est allier la rigueur du pilotage à l'art de la prise de vue, capturer des perspectives inédites et repousser les frontières du possible.<br><br>
-                    Ces passions, à la croisée du technique et du créatif, reflètent ma personnalité : sérieux, curieux, toujours prêt à relever de nouveaux défis et à partager des expériences uniques.<br>
-                    Envie d'en discuter ou de partager une partie ? Je suis toujours partant pour de nouvelles aventures !
+                    <span data-translate="passions.intro">Au-delà des chiffres et des tableaux de bord, je cultive des passions qui nourrissent autant ma rigueur que ma créativité.</span><br><br>
+                    <strong data-translate="passions.shooting">Le tir sportif</strong> <span data-translate="passions.shootingDesc">m'a appris la maîtrise de soi, la précision du geste et la concentration absolue. Chaque séance est un défi personnel où la technique rencontre la discipline, des qualités que j'aime retrouver dans mon métier de data analyst.</span><br><br>
+                    <strong data-translate="passions.gaming">Le gaming et les jeux de rôle</strong> <span data-translate="passions.gamingDesc">sont pour moi bien plus qu'un loisir : c'est un terrain d'exploration, de stratégie et d'imagination. J'adore plonger dans des univers complexes, résoudre des énigmes en équipe et repousser les limites de la créativité, que ce soit derrière un écran ou autour d'une table.</span><br><br>
+                    <span data-translate="passions.drone">Enfin, en tant que</span> <strong data-translate="passions.droneTitle">télépilote de drone professionnel</strong>, <span data-translate="passions.droneDesc">je combine technologie, vision et précision. Piloter un drone, c'est allier la rigueur du pilotage à l'art de la prise de vue, capturer des perspectives inédites et repousser les frontières du possible.</span><br><br>
+                    <span data-translate="passions.conclusion">Ces passions, à la croisée du technique et du créatif, reflètent ma personnalité : sérieux, curieux, toujours prêt à relever de nouveaux défis et à partager des expériences uniques.</span><br>
+                    <span data-translate="passions.cta">Envie d'en discuter ou de partager une partie ? Je suis toujours partant pour de nouvelles aventures !</span>
                 </p>
             </div>
         </div>
@@ -152,8 +158,8 @@
                 <a href="#"><i class="fab fa-github"></i></a>
                 <a href="https://studio.youtube.com/channel/UCdy22nIUUqIyEkxijA5hmEw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
             </div>
-            <p class="visitor-count">Visites : <span data-visit-counter>—</span></p>
-            <p>&copy; 2026 Yann Danneels-Coignard. Tous droits réservés.</p>
+            <p class="visitor-count"><span data-translate="home.visits">Visites</span> : <span data-visit-counter>—</span></p>
+            <p>&copy; 2026 Yann Danneels-Coignard. <span data-translate="home.rights">Tous droits réservés.</span></p>
         </div>
     </footer>
     <script>
@@ -193,6 +199,7 @@
       fadeEls.forEach(el => observer.observe(el));
     });
     </script>
+    <script src="translations.js"></script>
     <script src="visitor-counter.js" defer></script>
 </body>
 </html> 

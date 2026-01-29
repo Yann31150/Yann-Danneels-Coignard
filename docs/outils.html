@@ -26,25 +26,31 @@
                 <span class="logo-initial">D</span>
                 <span class="logo-initial">C</span>
             </div>
-            <ul class="nav-links">
-                <li><a href="index.html">Accueil</a></li>
-                <li><a href="apropos.html">À propos</a></li>
-                <li><a href="competences.html">Compétences</a></li>
-                <li><a href="outils.html" class="active">Outils</a></li>
-                <li><a href="projets.html">Projets</a></li>
-                <li><a href="passions.html">Passions</a></li>
-                <li><a href="cv.html">Mon CV</a></li>
-                <li><a href="databridge.html">Databridge</a></li>
-                <li><a href="actualites-tech.html">Actualités Tech</a></li>
-                <li><a href="cybersecurite.html">Cybersécurité</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                        <ul class="nav-links">
+                <li><a href="index.html" data-translate="nav.accueil">Accueil</a></li>
+                <li><a href="apropos.html" data-translate="nav.apropos">À propos</a></li>
+                <li><a href="competences.html" data-translate="nav.competences">Compétences</a></li>
+                <li><a href="outils.html" data-translate="nav.outils">Outils</a></li>
+                <li><a href="passions.html" data-translate="nav.passions">Passions</a></li>
+                <li><a href="projets.html" data-translate="nav.projets">Projets</a></li>
+                <li><a href="cv.html" data-translate="nav.cv">Mon CV</a></li>
+                <li><a href="databridge.html" data-translate="nav.databridge">Databridge</a></li>
+                <li><a href="actualites-tech.html" data-translate="nav.actualites">Actualités Tech</a></li>
+                <li><a href="cybersecurite.html" data-translate="nav.cybersecurite">Cybersécurité</a></li>
+                <li><a href="contact.html" data-translate="nav.contact">Contact</a></li>
+                <li>
+                    <div class="language-selector">
+                        <button class="lang-btn active" data-lang="fr" onclick="setLanguage('fr')">FR</button>
+                        <button class="lang-btn" data-lang="en" onclick="setLanguage('en')">EN</button>
+                    </div>
+                </li>
             </ul>
         </nav>
     </header>
 
     <section id="outils" class="tools">
         <div class="container">
-            <h2>Outils & Technologies</h2>
+            <h2 data-translate="tools.title">Outils & Technologies</h2>
             <div class="tools-grid">
                 <!-- Langages de programmation -->
                 <div class="tool-item">
@@ -195,7 +201,7 @@
                 </div>
             </div>
             
-            <h3 class="tools-subtitle">Outils de Data Engineering</h3>
+            <h3 class="tools-subtitle" data-translate="tools.dataEngineering">Outils de Data Engineering</h3>
             <div class="tools-grid">
                 <div class="tool-item">
                     <div class="tool-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Spark" onerror="this.onerror=null; this.src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apachespark.svg'; this.onerror=function(){this.parentElement.innerHTML='<div class=\'tool-icon-text\'>Spark</div>'};"></div>
@@ -215,7 +221,7 @@
                 </div>
             </div>
 
-            <h3 class="tools-subtitle">LLM & IA</h3>
+            <h3 class="tools-subtitle" data-translate="tools.llm">LLM & IA</h3>
             <div class="tools-grid tools-grid-llm">
                 <div class="tool-item">
                     <div class="tool-icon"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" alt="OpenAI" onerror="this.parentElement.innerHTML='<div class=\'tool-icon-text\'>OpenAI</div>'"></div>
@@ -272,10 +278,11 @@
                 <a href="#"><i class="fab fa-github"></i></a>
                 <a href="https://studio.youtube.com/channel/UCdy22nIUUqIyEkxijA5hmEw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
             </div>
-            <p class="visitor-count">Visites : <span data-visit-counter>—</span></p>
-            <p>&copy; 2026 Yann Danneels-Coignard. Tous droits réservés.</p>
+            <p class="visitor-count"><span data-translate="home.visits">Visites</span> : <span data-visit-counter>—</span></p>
+            <p>&copy; 2026 Yann Danneels-Coignard. <span data-translate="home.rights">Tous droits réservés.</span></p>
         </div>
     </footer>
+    <script src="translations.js"></script>
     <script src="visitor-counter.js" defer></script>
 </body>
 </html>
