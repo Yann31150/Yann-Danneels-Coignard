@@ -1,0 +1,14 @@
+{
+  "lastUpdate": "2026-01-29T10:00:00Z",
+  "articles": [
+    {
+      "title": "Exemple d'article tech",
+      "description": "Ceci est un exemple d'article. Les articles seront automatiquement mis à jour quotidiennement.",
+      "url": "https://example.com",
+      "source": "Tech News",
+      "publishedAt": "2026-01-29T10:00:00Z",
+      "category": "tech",
+      "hasVideo": false
+    }
+  ]
+}

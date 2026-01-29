@@ -1,0 +1,38 @@
+name: Update Tech News
+
+on:
+  schedule:
+    # Exécute tous les jours à 8h UTC (9h heure française en hiver, 10h en été)
+    - cron: '0 8 * * *'
+  workflow_dispatch: # Permet de déclencher manuellement
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests
+        
+    - name: Fetch tech news
+      env:
+        NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+      run: |
+        python scripts/fetch_tech_news.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add docs/tech-news.json
+        git diff --staged --quiet || git commit -m "Auto-update: Actualités tech du $(date +'%Y-%m-%d')"
+        git push
