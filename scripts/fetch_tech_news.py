@@ -315,27 +315,36 @@ def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
         
         title_lower = title.lower()
         description_lower = description.lower()
+        url_lower = url.lower()
         content = (title_lower + ' ' + description_lower).lower()
+        
+        # Vérifier si c'est une vidéo YouTube (elles passent automatiquement le filtre)
+        is_youtube_video = article.get('isYouTube', False) or 'youtube.com' in url_lower or 'youtu.be' in url_lower
         
         # Éviter les doublons
         if title_lower in seen_titles:
             continue
         seen_titles.add(title_lower)
         
-        # EXCLURE les articles avec des mots-clés non pertinents (sauf si vraiment liés à data/ia)
-        has_exclusion = any(excl in content for excl in EXCLUSION_KEYWORDS)
-        has_data_ai = any(kw in content for kw in STRICT_AI_KEYWORDS_PRIMARY + STRICT_DATA_KEYWORDS)
+        # EXCLURE les articles avec des mots-clés non pertinents (sauf si vraiment liés à data/ia ou vidéo YouTube)
+        if not is_youtube_video:
+            has_exclusion = any(excl in content for excl in EXCLUSION_KEYWORDS)
+            has_data_ai = any(kw in content for kw in STRICT_AI_KEYWORDS_PRIMARY + STRICT_DATA_KEYWORDS)
+            
+            # Si contient des mots d'exclusion ET pas de mots data/ia, exclure
+            if has_exclusion and not has_data_ai:
+                continue
         
-        # Si contient des mots d'exclusion ET pas de mots data/ia, exclure
-        if has_exclusion and not has_data_ai:
-            continue
-        
-        # Vérifier la pertinence générale
-        all_keywords = FRENCH_KEYWORDS_DATA_AI + FRENCH_KEYWORDS_GENERAL + TECH_KEYWORDS
-        is_relevant = any(keyword.lower() in content for keyword in all_keywords)
-        
-        if not is_relevant:
-            continue
+        # Vérifier la pertinence générale (sauf pour les vidéos YouTube qui sont toujours pertinentes)
+        if not is_youtube_video:
+            all_keywords = FRENCH_KEYWORDS_DATA_AI + FRENCH_KEYWORDS_GENERAL + TECH_KEYWORDS
+            is_relevant = any(keyword.lower() in content for keyword in all_keywords)
+            
+            if not is_relevant:
+                continue
+        else:
+            # Les vidéos YouTube sont toujours considérées comme pertinentes
+            is_relevant = True
         
         # Calculer un score de pertinence strict avec validation renforcée pour l'IA
         relevance_score = 0
@@ -409,8 +418,13 @@ def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
             category = 'innovation'
         
         # Ne garder que les articles avec un score minimum (évite les faux positifs)
-        if relevance_score < 3:
+        # SAUF les vidéos YouTube qui sont toujours acceptées
+        if not is_youtube_video and relevance_score < 3:
             continue
+        
+        # Pour les vidéos YouTube, donner un score minimum pour qu'elles passent
+        if is_youtube_video and relevance_score < 3:
+            relevance_score = 5  # Score minimum pour les vidéos YouTube
         
         # Ajouter le score de pertinence à l'article pour le tri
         article['_relevance_score'] = relevance_score
@@ -418,11 +432,25 @@ def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
         article['_data_score'] = data_score
         
         # Vérifier s'il y a une vidéo (basé sur l'URL ou le contenu)
+        # Note: is_youtube_video est déjà défini plus haut dans la fonction
         url_lower = url.lower()
-        is_youtube = article.get('isYouTube', False) or 'youtube.com' in url_lower or 'youtu.be' in url_lower
+        is_youtube = is_youtube_video  # Utiliser la variable déjà définie
         has_video = is_youtube or 'video' in content or 'vimeo' in url_lower
         video_id = article.get('videoId', '') if is_youtube else ''
         thumbnail = article.get('thumbnail', '') if is_youtube else ''
+        
+        # Pour les vidéos YouTube, déterminer la catégorie basée sur le titre/description
+        if is_youtube:
+            content_lower = content.lower()
+            if any(kw in content_lower for kw in ['intelligence artificielle', 'ia', 'ai', 'machine learning', 'apprentissage automatique']):
+                category = 'ai'
+                relevance_score += 10
+            elif any(kw in content_lower for kw in ['data', 'données', 'data science', 'science des données', 'power bi', 'tableau', 'sql', 'python']):
+                category = 'data'
+                relevance_score += 10
+            else:
+                category = 'tech'
+                relevance_score += 5
         
         # Traiter la source
         source_obj = article.get('source')
