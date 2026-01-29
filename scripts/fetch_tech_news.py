@@ -119,15 +119,24 @@ def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
     seen_titles = set()
     
     for article in raw_articles:
-        title = article.get('title', '').lower()
+        # Récupérer et nettoyer les valeurs (gérer les None)
+        title = str(article.get('title') or '').strip()
+        description = str(article.get('description') or '').strip()
+        url = str(article.get('url') or '#').strip()
+        
+        # Ignorer les articles sans titre
+        if not title:
+            continue
+        
+        title_lower = title.lower()
         
         # Éviter les doublons
-        if title in seen_titles:
+        if title_lower in seen_titles:
             continue
-        seen_titles.add(title)
+        seen_titles.add(title_lower)
         
         # Filtrer par mots-clés
-        content = (title + ' ' + article.get('description', '')).lower()
+        content = (title_lower + ' ' + description.lower()).lower()
         is_relevant = any(keyword.lower() in content for keyword in TECH_KEYWORDS + FRENCH_KEYWORDS)
         
         if not is_relevant:
@@ -143,14 +152,27 @@ def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
             category = 'innovation'
         
         # Vérifier s'il y a une vidéo (basé sur l'URL ou le contenu)
-        has_video = 'video' in content or 'youtube' in article.get('url', '').lower() or 'vimeo' in article.get('url', '').lower()
+        url_lower = url.lower()
+        has_video = 'video' in content or 'youtube' in url_lower or 'vimeo' in url_lower
+        
+        # Traiter la source
+        source_obj = article.get('source')
+        if isinstance(source_obj, dict):
+            source_name = source_obj.get('name', 'Source inconnue')
+        elif isinstance(source_obj, str):
+            source_name = source_obj
+        else:
+            source_name = 'Source inconnue'
+        
+        # Traiter la description (limiter à 200 caractères)
+        description_short = description[:200] + '...' if len(description) > 200 else description
         
         processed.append({
-            'title': article.get('title', 'Sans titre'),
-            'description': article.get('description', '')[:200] + '...' if len(article.get('description', '')) > 200 else article.get('description', ''),
-            'url': article.get('url', '#'),
-            'source': article.get('source', {}).get('name', 'Source inconnue') if isinstance(article.get('source'), dict) else article.get('source', 'Source inconnue'),
-            'publishedAt': article.get('publishedAt', datetime.now().isoformat()),
+            'title': title,
+            'description': description_short,
+            'url': url,
+            'source': source_name,
+            'publishedAt': article.get('publishedAt') or datetime.now().isoformat(),
             'category': category,
             'hasVideo': has_video
         })
