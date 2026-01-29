@@ -27,43 +27,56 @@ TECH_KEYWORDS = [
     'automation', 'robotics', 'iot', 'internet of things'
 ]
 
-FRENCH_KEYWORDS = [
-    'intelligence artificielle', 'apprentissage automatique', 'science des données',
-    'analyse de données', 'données', 'big data',
-    'innovation', 'technologie', 'startup',
-    'cybersécurité', 'cloud', 'automatisation'
+# Mots-clés français prioritaires (Data et IA en premier)
+FRENCH_KEYWORDS_DATA_AI = [
+    'intelligence artificielle', 'IA', 'apprentissage automatique', 'machine learning',
+    'science des données', 'data science', 'analyse de données', 'data analyst',
+    'big data', 'données', 'analytics', 'business intelligence',
+    'power bi', 'tableau', 'python', 'sql', 'pandas', 'numpy',
+    'visualisation de données', 'tableau de bord', 'data visualization'
+]
+
+FRENCH_KEYWORDS_GENERAL = [
+    'innovation', 'technologie', 'startup tech',
+    'cybersécurité', 'cloud computing', 'automatisation'
 ]
 
 def fetch_news_from_api() -> List[Dict]:
-    """Récupère les articles depuis NewsAPI"""
+    """Récupère les articles depuis NewsAPI - Priorité aux articles français sur Data et IA"""
     articles = []
     
     if not NEWS_API_KEY:
         print("⚠️  NEWS_API_KEY non configurée. Utilisation de données d'exemple.")
         return get_example_articles()
     
-    # Rechercher en anglais
-    for keyword in TECH_KEYWORDS[:5]:  # Limiter pour éviter trop de requêtes
+    # PRIORITÉ 1 : Rechercher en français - Data et IA (plus de requêtes)
+    print("🔍 Recherche d'articles français sur Data et IA...")
+    for keyword in FRENCH_KEYWORDS_DATA_AI[:8]:  # Plus de mots-clés pour Data/IA
         try:
             url = 'https://newsapi.org/v2/everything'
             params = {
                 'q': keyword,
-                'language': 'en',
+                'language': 'fr',
                 'sortBy': 'publishedAt',
-                'pageSize': 5,
-                'from': (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d'),
+                'pageSize': 8,  # Plus d'articles par requête
+                'from': (datetime.now() - timedelta(days=2)).strftime('%Y-%m-%d'),  # 2 jours au lieu de 1
                 'apiKey': NEWS_API_KEY
             }
             
             response = requests.get(url, params=params, timeout=10)
             if response.status_code == 200:
                 data = response.json()
-                articles.extend(data.get('articles', []))
+                fetched = data.get('articles', [])
+                articles.extend(fetched)
+                print(f"  ✓ {len(fetched)} articles trouvés pour '{keyword}'")
+            elif response.status_code == 429:
+                print(f"  ⚠️  Limite de taux atteinte pour '{keyword}'")
         except Exception as e:
-            print(f"Erreur lors de la récupération pour '{keyword}': {e}")
+            print(f"  ❌ Erreur pour '{keyword}': {e}")
     
-    # Rechercher en français
-    for keyword in FRENCH_KEYWORDS[:3]:
+    # PRIORITÉ 2 : Rechercher en français - Général (moins de requêtes)
+    print("🔍 Recherche d'articles français généraux...")
+    for keyword in FRENCH_KEYWORDS_GENERAL[:3]:
         try:
             url = 'https://newsapi.org/v2/everything'
             params = {
@@ -78,37 +91,79 @@ def fetch_news_from_api() -> List[Dict]:
             response = requests.get(url, params=params, timeout=10)
             if response.status_code == 200:
                 data = response.json()
-                articles.extend(data.get('articles', []))
+                fetched = data.get('articles', [])
+                articles.extend(fetched)
+                print(f"  ✓ {len(fetched)} articles trouvés pour '{keyword}'")
+            elif response.status_code == 429:
+                print(f"  ⚠️  Limite de taux atteinte pour '{keyword}'")
         except Exception as e:
-            print(f"Erreur lors de la récupération pour '{keyword}': {e}")
+            print(f"  ❌ Erreur pour '{keyword}': {e}")
+    
+    # PRIORITÉ 3 : Rechercher en anglais uniquement si pas assez d'articles français
+    if len(articles) < 10:
+        print("🔍 Complément avec articles anglais sur Data et IA...")
+        for keyword in ['artificial intelligence', 'data science', 'machine learning', 'data analytics'][:3]:
+            try:
+                url = 'https://newsapi.org/v2/everything'
+                params = {
+                    'q': keyword,
+                    'language': 'en',
+                    'sortBy': 'publishedAt',
+                    'pageSize': 5,
+                    'from': (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d'),
+                    'apiKey': NEWS_API_KEY
+                }
+                
+                response = requests.get(url, params=params, timeout=10)
+                if response.status_code == 200:
+                    data = response.json()
+                    articles.extend(data.get('articles', []))
+            except Exception as e:
+                print(f"  ❌ Erreur pour '{keyword}': {e}")
     
     return articles
 
 def get_example_articles() -> List[Dict]:
-    """Retourne des articles d'exemple si l'API n'est pas disponible"""
+    """Retourne des articles d'exemple en français sur Data et IA si l'API n'est pas disponible"""
     return [
         {
-            'title': 'Les tendances de l\'IA en 2026',
-            'description': 'Découvrez les dernières innovations en intelligence artificielle et leur impact sur le monde de la data. L\'intelligence artificielle continue de transformer les entreprises et les métiers de la data.',
+            'title': 'Intelligence Artificielle : Les tendances 2026 pour les data analysts',
+            'description': 'Découvrez les dernières innovations en intelligence artificielle et leur impact sur le monde de la data. L\'IA continue de transformer les entreprises et les métiers de l\'analyse de données.',
             'url': 'https://example.com/ai-trends-2026',
-            'source': {'name': 'Tech News'},
+            'source': {'name': 'Data News France'},
             'publishedAt': datetime.now().isoformat(),
             'category': 'ai'
         },
         {
-            'title': 'Power BI : Nouvelles fonctionnalités',
-            'description': 'Microsoft annonce de nouvelles fonctionnalités pour Power BI qui facilitent l\'analyse de données et la visualisation pour les data analysts.',
+            'title': 'Power BI : Nouvelles fonctionnalités pour l\'analyse de données',
+            'description': 'Microsoft annonce de nouvelles fonctionnalités pour Power BI qui facilitent l\'analyse de données et la visualisation pour les data analysts. Des outils plus puissants pour transformer vos données en insights.',
             'url': 'https://example.com/power-bi-updates',
-            'source': {'name': 'Data Weekly'},
+            'source': {'name': 'Data Weekly France'},
             'publishedAt': (datetime.now() - timedelta(hours=5)).isoformat(),
             'category': 'data'
         },
         {
-            'title': 'Python et Data Science : Les outils essentiels',
-            'description': 'Un aperçu des bibliothèques Python les plus utilisées en data science : Pandas, NumPy, et Scikit-learn pour l\'analyse de données.',
+            'title': 'Python et Data Science : Les bibliothèques essentielles',
+            'description': 'Un guide complet des bibliothèques Python les plus utilisées en data science : Pandas pour la manipulation de données, NumPy pour le calcul scientifique, et Scikit-learn pour le machine learning.',
             'url': 'https://example.com/python-data-science',
-            'source': {'name': 'Tech Innovation'},
+            'source': {'name': 'Tech Innovation France'},
             'publishedAt': (datetime.now() - timedelta(hours=10)).isoformat(),
+            'category': 'data'
+        },
+        {
+            'title': 'Machine Learning : Comment l\'IA révolutionne l\'analyse de données',
+            'description': 'L\'apprentissage automatique transforme la façon dont les entreprises analysent leurs données. Découvrez comment les algorithmes de machine learning permettent d\'extraire des insights précieux.',
+            'url': 'https://example.com/ml-data-analysis',
+            'source': {'name': 'IA Magazine'},
+            'publishedAt': (datetime.now() - timedelta(hours=15)).isoformat(),
+            'category': 'ai'
+        },
+        {
+            'title': 'Big Data et Analytics : Les défis de 2026',
+            'description': 'Face à l\'explosion du volume de données, les entreprises doivent adopter de nouvelles stratégies d\'analyse. Découvrez les tendances du big data et de l\'analytics pour cette année.',
+            'url': 'https://example.com/big-data-analytics',
+            'source': {'name': 'Data Insights'},
+            'publishedAt': (datetime.now() - timedelta(hours=20)).isoformat(),
             'category': 'data'
         }
     ]
@@ -135,21 +190,50 @@ def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
             continue
         seen_titles.add(title_lower)
         
-        # Filtrer par mots-clés
+        # Filtrer par mots-clés (priorité aux mots-clés français Data/IA)
         content = (title_lower + ' ' + description.lower()).lower()
-        is_relevant = any(keyword.lower() in content for keyword in TECH_KEYWORDS + FRENCH_KEYWORDS)
+        all_keywords = FRENCH_KEYWORDS_DATA_AI + FRENCH_KEYWORDS_GENERAL + TECH_KEYWORDS
+        is_relevant = any(keyword.lower() in content for keyword in all_keywords)
         
         if not is_relevant:
             continue
         
-        # Déterminer la catégorie
+        # Calculer un score de pertinence (priorité Data et IA)
+        relevance_score = 0
+        data_ai_keywords_fr = ['intelligence artificielle', 'ia', 'apprentissage automatique', 
+                               'science des données', 'data science', 'analyse de données', 
+                               'data analyst', 'big data', 'données', 'analytics', 
+                               'business intelligence', 'power bi', 'tableau', 'python', 'sql']
+        data_ai_keywords_en = ['artificial intelligence', 'ai', 'machine learning', 
+                               'data science', 'data analyst', 'big data', 'analytics']
+        
+        # Bonus pour les articles français
+        if any(kw in content for kw in FRENCH_KEYWORDS_DATA_AI):
+            relevance_score += 10
+        
+        # Bonus pour Data et IA
+        if any(kw in content for kw in data_ai_keywords_fr + data_ai_keywords_en):
+            relevance_score += 5
+        
+        # Déterminer la catégorie (priorité Data et IA)
         category = 'tech'
-        if any(kw in content for kw in ['ai', 'artificial intelligence', 'machine learning', 'intelligence artificielle']):
+        ai_keywords = ['ai', 'artificial intelligence', 'machine learning', 'deep learning',
+                       'intelligence artificielle', 'apprentissage automatique', 'neural network']
+        data_keywords = ['data', 'analytics', 'big data', 'données', 'data science', 
+                        'science des données', 'analyse de données', 'data analyst',
+                        'power bi', 'tableau', 'business intelligence', 'visualisation']
+        
+        if any(kw in content for kw in ai_keywords):
             category = 'ai'
-        elif any(kw in content for kw in ['data', 'analytics', 'big data', 'données']):
+            relevance_score += 3
+        elif any(kw in content for kw in data_keywords):
             category = 'data'
+            relevance_score += 3
         elif any(kw in content for kw in ['innovation', 'startup', 'nouveau']):
             category = 'innovation'
+        
+        # Ajouter le score de pertinence à l'article pour le tri
+        article['_relevance_score'] = relevance_score
         
         # Vérifier s'il y a une vidéo (basé sur l'URL ou le contenu)
         url_lower = url.lower()
@@ -174,12 +258,18 @@ def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
             'source': source_name,
             'publishedAt': article.get('publishedAt') or datetime.now().isoformat(),
             'category': category,
-            'hasVideo': has_video
+            'hasVideo': has_video,
+            '_relevance_score': article.get('_relevance_score', 0)
         })
     
-    # Trier par date (plus récent en premier) et limiter à 20 articles
-    processed.sort(key=lambda x: x['publishedAt'], reverse=True)
-    return processed[:20]
+    # Trier par score de pertinence (Data/IA en premier), puis par date
+    processed.sort(key=lambda x: (-x['_relevance_score'], x['publishedAt']), reverse=True)
+    
+    # Retirer le score de pertinence avant de retourner
+    for article in processed:
+        article.pop('_relevance_score', None)
+    
+    return processed[:25]  # Plus d'articles pour avoir plus de choix
 
 def save_articles(articles: List[Dict]):
     """Sauvegarde les articles dans le fichier JSON"""
