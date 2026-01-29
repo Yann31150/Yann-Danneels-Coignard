@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Actualités Tech, IA et Data | Yann Danneels-Coignard</title>
+        <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
+        <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
+        <language>fr-FR</language>
+        <lastBuildDate>2026-01-29T00:00:00+00:00</lastBuildDate>
+        <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
+        <image>
+            <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
+            <title>Actualités Tech, IA et Data</title>
+            <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
+        </image>
+        <!-- Les articles seront générés dynamiquement par le script Python -->
+    </channel>
+</rss>

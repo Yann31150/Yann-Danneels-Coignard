@@ -188,11 +188,17 @@
             align-items: center;
             gap: 0.5rem;
             margin-bottom: 1rem;
-            font-size: 0.85rem;
-            color: #666;
+            font-size: 0.9rem;
+            color: #555;
+            font-weight: 500;
         }
         .article-source i {
             color: var(--secondary-color);
+            font-size: 0.95rem;
+        }
+        .article-source span {
+            color: #333;
+            font-weight: 600;
         }
         .article-title {
             font-size: 1.3rem;
@@ -338,6 +344,196 @@
             font-size: 0.9rem;
         }
         
+        /* Stats Bar */
+        .stats-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin-bottom: 2rem;
+            padding: 1rem;
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+        }
+        .articles-count {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.95rem;
+            color: #333;
+            font-weight: 600;
+        }
+        .articles-count i {
+            color: var(--secondary-color);
+        }
+        .articles-count span {
+            color: var(--secondary-color);
+            font-size: 1.1rem;
+        }
+        
+        /* Subscription Section */
+        .subscription-section {
+            margin: 2rem 0;
+        }
+        .subscription-box {
+            background: linear-gradient(135deg, var(--secondary-color) 0%, #1a5490 100%);
+            border-radius: 16px;
+            padding: 2rem;
+            color: var(--white);
+            box-shadow: 0 8px 24px rgba(33, 102, 194, 0.3);
+        }
+        .subscription-content h3 {
+            margin: 0 0 0.5rem 0;
+            font-size: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+        .subscription-content p {
+            margin: 0 0 1.5rem 0;
+            opacity: 0.95;
+            line-height: 1.6;
+        }
+        .newsletter-form {
+            display: flex;
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+        }
+        .newsletter-form input[type="email"] {
+            flex: 1;
+            min-width: 250px;
+            padding: 0.875rem 1.25rem;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            outline: none;
+            transition: box-shadow 0.3s ease;
+        }
+        .newsletter-form input[type="email"]:focus {
+            box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.3);
+        }
+        .newsletter-btn {
+            padding: 0.875rem 2rem;
+            background: var(--white);
+            color: var(--secondary-color);
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.3s ease;
+        }
+        .newsletter-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        }
+        .rss-link {
+            text-align: center;
+        }
+        .rss-link a {
+            color: var(--white);
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            opacity: 0.9;
+            transition: opacity 0.3s ease;
+            font-size: 0.95rem;
+        }
+        .rss-link a:hover {
+            opacity: 1;
+            text-decoration: underline;
+        }
+        .rss-link i {
+            color: #ff6600;
+        }
+        
+        /* Top 3 Section */
+        .top-3-section {
+            margin: 3rem 0;
+            padding: 2rem 0;
+            border-top: 3px solid var(--secondary-color);
+            border-bottom: 3px solid var(--secondary-color);
+        }
+        .section-title {
+            font-size: 2rem;
+            color: var(--primary-color);
+            margin-bottom: 2rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+        .section-title i {
+            color: #ffd700;
+            margin-right: 0.5rem;
+        }
+        .section-title .subtitle {
+            font-size: 0.9rem;
+            font-weight: 400;
+            color: #666;
+            font-style: italic;
+        }
+        .top-3-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        .top-3-card {
+            position: relative;
+            background: linear-gradient(135deg, #fff 0%, #f8f9fa 100%);
+            border: 2px solid var(--secondary-color);
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+        }
+        .top-3-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+        }
+        .top-3-badge {
+            position: absolute;
+            top: -12px;
+            left: 20px;
+            background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
+            color: #333;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-weight: 700;
+            font-size: 0.9rem;
+            box-shadow: 0 2px 8px rgba(255, 215, 0, 0.4);
+        }
+        .top-3-card h4 {
+            margin-top: 0.5rem;
+            margin-bottom: 0.75rem;
+            font-size: 1.2rem;
+            color: var(--primary-color);
+        }
+        .top-3-card h4 a {
+            color: inherit;
+            text-decoration: none;
+        }
+        .top-3-card h4 a:hover {
+            color: var(--secondary-color);
+        }
+        .top-3-card .top-3-source {
+            font-size: 0.85rem;
+            color: #666;
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+        }
+        .top-3-card .top-3-description {
+            font-size: 0.9rem;
+            color: #555;
+            line-height: 1.5;
+        }
+        
         /* Responsive Design */
         @media (max-width: 768px) {
             .articles-grid {
@@ -370,6 +566,40 @@
             
             .tech-news-header p {
                 font-size: 1rem;
+            }
+            
+            .stats-bar {
+                flex-direction: column;
+                text-align: center;
+            }
+            
+            .subscription-box {
+                padding: 1.5rem;
+            }
+            
+            .subscription-content h3 {
+                font-size: 1.25rem;
+            }
+            
+            .newsletter-form {
+                flex-direction: column;
+            }
+            
+            .newsletter-form input[type="email"] {
+                min-width: 100%;
+            }
+            
+            .newsletter-btn {
+                width: 100%;
+                justify-content: center;
+            }
+            
+            .top-3-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .section-title {
+                font-size: 1.5rem;
             }
             
             .article-card {
@@ -439,8 +669,47 @@
                 <p>Plongez dans l'actualité tech, IA et data, triée et analysée par intelligence artificielle pour vous offrir les infos les plus pertinentes.<br>Mises à jour quotidiennes pour rester à la pointe de l'innovation !</p>
             </div>
             
-            <div class="last-update" id="lastUpdate">
-                <i class="fas fa-sync-alt"></i> Dernière mise à jour : Chargement...
+            <div class="stats-bar">
+                <div class="last-update" id="lastUpdate">
+                    <i class="fas fa-sync-alt"></i> Dernière mise à jour : Chargement...
+                </div>
+                <div class="articles-count" id="articlesCount">
+                    <i class="fas fa-newspaper"></i> <span id="countNumber">0</span> article(s) aujourd'hui
+                </div>
+            </div>
+
+            <div class="subscription-section">
+                <div class="subscription-box">
+                    <div class="subscription-content">
+                        <h3><i class="fas fa-bell"></i> Restez informé</h3>
+                        <p>Recevez un résumé hebdomadaire des meilleures actualités tech, IA et data directement dans votre boîte mail.</p>
+                        <form class="newsletter-form" id="newsletterForm" onsubmit="handleNewsletterSubmit(event)">
+                            <input type="email" 
+                                   id="newsletterEmail" 
+                                   placeholder="Votre adresse email" 
+                                   required
+                                   aria-label="Adresse email pour la newsletter">
+                            <button type="submit" class="newsletter-btn">
+                                <i class="fas fa-paper-plane"></i> S'abonner
+                            </button>
+                        </form>
+                        <div class="rss-link">
+                            <a href="rss.xml" target="_blank" rel="noopener noreferrer" title="Flux RSS des actualités tech">
+                                <i class="fas fa-rss"></i> S'abonner via RSS
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="top-3-section" id="top3Section" style="display: none;">
+                <h2 class="section-title">
+                    <i class="fas fa-star"></i> Top 3 du jour
+                    <span class="subtitle">Les articles les plus pertinents sélectionnés par l'IA</span>
+                </h2>
+                <div class="top-3-grid" id="top3Container">
+                    <!-- Top 3 articles seront insérés ici -->
+                </div>
             </div>
 
             <div class="filter-buttons">
@@ -503,6 +772,24 @@
             if (articles.length === 0) {
                 container.innerHTML = '<div class="no-articles"><i class="fas fa-newspaper"></i><p>Aucun article disponible pour le moment.</p></div>';
                 return;
+            }
+
+            // Compter les articles du jour
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+            const articlesToday = articles.filter(article => {
+                const articleDate = new Date(article.publishedAt);
+                articleDate.setHours(0, 0, 0, 0);
+                return articleDate.getTime() === today.getTime();
+            });
+            
+            // Afficher le compteur
+            document.getElementById('countNumber').textContent = articlesToday.length;
+            
+            // Créer le Top 3 (les 3 premiers articles, ou les plus récents)
+            const top3Articles = articles.slice(0, 3);
+            if (top3Articles.length > 0) {
+                displayTop3(top3Articles);
             }
 
             container.innerHTML = articles.map(article => {
@@ -604,6 +891,66 @@
                     });
                 });
             });
+        }
+
+        function displayTop3(articles) {
+            const top3Container = document.getElementById('top3Container');
+            const top3Section = document.getElementById('top3Section');
+            
+            top3Container.innerHTML = articles.map((article, index) => {
+                const isYouTube = article.isYouTube || false;
+                const thumbnail = article.thumbnail || '';
+                const encodedTitle = encodeURIComponent(article.title);
+                const encodedUrl = encodeURIComponent(article.url);
+                
+                return `
+                    <div class="top-3-card">
+                        <div class="top-3-badge">#${index + 1}</div>
+                        ${isYouTube && thumbnail ? `
+                            <div class="youtube-thumbnail" style="margin-bottom: 1rem;">
+                                <a href="${article.url}" target="_blank" rel="noopener noreferrer">
+                                    <img src="${thumbnail}" alt="${article.title}" loading="lazy" style="width: 100%; border-radius: 8px;">
+                                    <div class="youtube-badge-overlay">
+                                        <i class="fab fa-youtube"></i>
+                                        <span>YouTube</span>
+                                    </div>
+                                </a>
+                            </div>
+                        ` : ''}
+                        <div class="top-3-source">
+                            <i class="${isYouTube ? 'fab fa-youtube' : 'fas fa-globe'}"></i> ${article.source || 'Source inconnue'}
+                        </div>
+                        <h4>
+                            <a href="${article.url}" target="_blank" rel="noopener noreferrer">
+                                ${article.title}
+                            </a>
+                        </h4>
+                        <p class="top-3-description">${article.description ? article.description.substring(0, 150) + '...' : ''}</p>
+                        <div style="margin-top: 1rem;">
+                            <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="article-link" style="color: var(--secondary-color);">
+                                ${isYouTube ? 'Voir la vidéo' : 'Lire l\'article'} <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+            
+            top3Section.style.display = 'block';
+        }
+
+        function handleNewsletterSubmit(event) {
+            event.preventDefault();
+            const email = document.getElementById('newsletterEmail').value;
+            
+            // Ici vous pouvez ajouter l'intégration avec votre service d'emailing
+            // Pour l'instant, on affiche juste un message de confirmation
+            alert(`Merci ! Votre adresse ${email} a été enregistrée. Vous recevrez bientôt notre newsletter hebdomadaire.`);
+            
+            // Réinitialiser le formulaire
+            document.getElementById('newsletterForm').reset();
+            
+            // Optionnel : Envoyer les données à un endpoint
+            // fetch('/api/newsletter', { method: 'POST', body: JSON.stringify({ email }) });
         }
 
         // Charger les articles au chargement de la page

@@ -40,8 +40,8 @@ jobs:
         # Récupérer les derniers changements (sans merger)
         git fetch origin main
         
-        # Ajouter le fichier généré
-        git add docs/tech-news.json
+        # Ajouter les fichiers générés
+        git add docs/tech-news.json docs/rss.xml
         
         # Vérifier s'il y a des changements
         if git diff --staged --quiet; then
@@ -51,13 +51,13 @@ jobs:
           git commit -m "Auto-update: Actualités tech du $(date +'%Y-%m-%d')"
           
           # Essayer de récupérer et merger les changements distants
-          # En cas de conflit sur tech-news.json, utiliser notre version (la plus récente générée)
+          # En cas de conflit sur tech-news.json ou rss.xml, utiliser notre version (la plus récente générée)
           git pull origin main --no-edit || {
             echo "Conflit détecté, résolution..."
-            # Si conflit, utiliser notre version de tech-news.json (la plus récente)
-            git checkout --ours docs/tech-news.json 2>/dev/null || true
-            git add docs/tech-news.json
-            git commit -m "Résolution conflit: utiliser la version générée de tech-news.json" || true
+            # Si conflit, utiliser notre version des fichiers générés (la plus récente)
+            git checkout --ours docs/tech-news.json docs/rss.xml 2>/dev/null || true
+            git add docs/tech-news.json docs/rss.xml
+            git commit -m "Résolution conflit: utiliser la version générée des fichiers" || true
           }
           
           # Pousser les changements

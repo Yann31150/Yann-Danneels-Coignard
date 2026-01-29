@@ -10,6 +10,7 @@ import requests
 from datetime import datetime, timedelta
 from typing import List, Dict
 import sys
+from email.utils import formatdate
 
 # Configuration
 NEWS_API_KEY = os.getenv('NEWS_API_KEY', '')  # À configurer dans GitHub Secrets
@@ -558,6 +559,59 @@ def save_articles(articles: List[Dict]):
     
     print(f"✅ {len(articles)} articles sauvegardés dans {OUTPUT_FILE}")
 
+def generate_rss(articles: List[Dict], output_file: str = 'docs/rss.xml'):
+    """Génère un fichier RSS à partir des articles"""
+    rss_items = []
+    
+    for article in articles[:20]:  # Limiter à 20 articles pour le RSS
+        pub_date = article.get('publishedAt', datetime.now().isoformat())
+        try:
+            pub_datetime = datetime.fromisoformat(pub_date.replace('Z', '+00:00'))
+        except:
+            pub_datetime = datetime.now()
+        
+        # Formater la date pour RSS
+        rss_date = formatdate(pub_datetime.timestamp())
+        
+        title = article.get('title', '').replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+        description = article.get('description', '').replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+        url = article.get('url', '')
+        source = article.get('source', 'Source inconnue')
+        
+        item = f"""        <item>
+            <title>{title}</title>
+            <link>{url}</link>
+            <description><![CDATA[{description}]]></description>
+            <pubDate>{rss_date}</pubDate>
+            <guid isPermaLink="true">{url}</guid>
+            <source>{source}</source>
+        </item>"""
+        rss_items.append(item)
+    
+    rss_content = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Actualités Tech, IA et Data | Yann Danneels-Coignard</title>
+        <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
+        <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
+        <language>fr-FR</language>
+        <lastBuildDate>{formatdate(datetime.now().timestamp())}</lastBuildDate>
+        <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
+        <image>
+            <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
+            <title>Actualités Tech, IA et Data</title>
+            <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
+        </image>
+{chr(10).join(rss_items)}
+    </channel>
+</rss>"""
+    
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write(rss_content)
+    
+    print(f"✅ Fichier RSS généré : {output_file}")
+
 def main():
     try:
         print("🚀 Récupération des actualités tech...")
@@ -587,6 +641,9 @@ def main():
         # Sauvegarder
         save_articles(processed_articles)
         
+        # Générer le fichier RSS
+        generate_rss(processed_articles)
+        
         print("✅ Terminé !")
         return 0
     except Exception as e:
@@ -598,6 +655,7 @@ def main():
             example_articles = get_example_articles()
             processed_articles = filter_and_process_articles(example_articles)
             save_articles(processed_articles)
+            generate_rss(processed_articles)
             print("✅ Articles d'exemple sauvegardés en cas d'erreur")
         except:
             pass
