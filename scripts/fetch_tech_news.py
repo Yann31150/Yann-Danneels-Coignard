@@ -89,7 +89,7 @@ def get_example_articles() -> List[Dict]:
     return [
         {
             'title': 'Les tendances de l\'IA en 2026',
-            'description': 'Découvrez les dernières innovations en intelligence artificielle et leur impact sur le monde de la data.',
+            'description': 'Découvrez les dernières innovations en intelligence artificielle et leur impact sur le monde de la data. L\'intelligence artificielle continue de transformer les entreprises et les métiers de la data.',
             'url': 'https://example.com/ai-trends-2026',
             'source': {'name': 'Tech News'},
             'publishedAt': datetime.now().isoformat(),
@@ -97,10 +97,18 @@ def get_example_articles() -> List[Dict]:
         },
         {
             'title': 'Power BI : Nouvelles fonctionnalités',
-            'description': 'Microsoft annonce de nouvelles fonctionnalités pour Power BI qui facilitent l\'analyse de données.',
+            'description': 'Microsoft annonce de nouvelles fonctionnalités pour Power BI qui facilitent l\'analyse de données et la visualisation pour les data analysts.',
             'url': 'https://example.com/power-bi-updates',
             'source': {'name': 'Data Weekly'},
             'publishedAt': (datetime.now() - timedelta(hours=5)).isoformat(),
+            'category': 'data'
+        },
+        {
+            'title': 'Python et Data Science : Les outils essentiels',
+            'description': 'Un aperçu des bibliothèques Python les plus utilisées en data science : Pandas, NumPy, et Scikit-learn pour l\'analyse de données.',
+            'url': 'https://example.com/python-data-science',
+            'source': {'name': 'Tech Innovation'},
+            'publishedAt': (datetime.now() - timedelta(hours=10)).isoformat(),
             'category': 'data'
         }
     ]
@@ -167,20 +175,42 @@ def save_articles(articles: List[Dict]):
     print(f"✅ {len(articles)} articles sauvegardés dans {OUTPUT_FILE}")
 
 def main():
-    print("🚀 Récupération des actualités tech...")
-    
-    # Récupérer les articles
-    raw_articles = fetch_news_from_api()
-    print(f"📰 {len(raw_articles)} articles récupérés")
-    
-    # Filtrer et traiter
-    processed_articles = filter_and_process_articles(raw_articles)
-    print(f"✨ {len(processed_articles)} articles pertinents sélectionnés")
-    
-    # Sauvegarder
-    save_articles(processed_articles)
-    
-    print("✅ Terminé !")
+    try:
+        print("🚀 Récupération des actualités tech...")
+        
+        # Récupérer les articles
+        raw_articles = fetch_news_from_api()
+        print(f"📰 {len(raw_articles)} articles récupérés")
+        
+        # Filtrer et traiter
+        processed_articles = filter_and_process_articles(raw_articles)
+        print(f"✨ {len(processed_articles)} articles pertinents sélectionnés")
+        
+        # S'assurer qu'on a au moins quelques articles
+        if len(processed_articles) == 0:
+            print("⚠️  Aucun article trouvé, utilisation d'articles d'exemple")
+            example_articles = get_example_articles()
+            processed_articles = filter_and_process_articles(example_articles)
+        
+        # Sauvegarder
+        save_articles(processed_articles)
+        
+        print("✅ Terminé !")
+        return 0
+    except Exception as e:
+        print(f"❌ Erreur: {e}")
+        import traceback
+        traceback.print_exc()
+        # En cas d'erreur, sauvegarder au moins les articles d'exemple
+        try:
+            example_articles = get_example_articles()
+            processed_articles = filter_and_process_articles(example_articles)
+            save_articles(processed_articles)
+            print("✅ Articles d'exemple sauvegardés en cas d'erreur")
+        except:
+            pass
+        return 1
 
 if __name__ == '__main__':
-    main()
+    exit_code = main()
+    sys.exit(exit_code)
