@@ -132,27 +132,37 @@ def fetch_youtube_videos() -> List[Dict]:
         print("⚠️  YOUTUBE_API_KEY non configurée. Pas de vidéos YouTube.")
         return []
     
-    # Recherches YouTube pour Data et IA
+    # Recherches YouTube pour Data et IA - UNIQUEMENT EN FRANÇAIS
     search_queries = [
-        'intelligence artificielle français',
-        'data science français',
-        'machine learning français',
-        'power bi tutorial français',
-        'python data analysis français',
-        'sql tutorial français'
+        'intelligence artificielle tutoriel français',
+        'data science cours français',
+        'machine learning explication français',
+        'power bi formation français',
+        'python analyse données français',
+        'sql apprendre français',
+        'tableau de bord power bi français',
+        'data analyst métier français'
     ]
     
-    for query in search_queries[:4]:  # Limiter à 4 requêtes pour éviter les quotas
+    # Mots-clés français pour vérifier que la vidéo est vraiment en français
+    FRENCH_INDICATORS = [
+        'français', 'france', 'tutoriel', 'cours', 'formation', 'explication',
+        'apprendre', 'débutant', 'débutants', 'guide', 'comprendre',
+        'comment', 'pourquoi', 'qu\'est-ce', 'c\'est quoi', 'définition'
+    ]
+    
+    for query in search_queries[:6]:  # Augmenter à 6 requêtes pour plus de vidéos françaises
         try:
             url = 'https://www.googleapis.com/youtube/v3/search'
             params = {
                 'part': 'snippet',
                 'q': query,
                 'type': 'video',
-                'maxResults': 3,  # Réduire pour éviter les quotas
+                'maxResults': 5,  # Plus de résultats pour filtrer ensuite
                 'order': 'relevance',
-                'relevanceLanguage': 'fr',
-                'publishedAfter': (datetime.now() - timedelta(days=30)).strftime('%Y-%m-%dT%H:%M:%SZ'),
+                'relevanceLanguage': 'fr',  # Priorité aux vidéos françaises
+                'regionCode': 'FR',  # Restreindre à la France
+                'publishedAfter': (datetime.now() - timedelta(days=60)).strftime('%Y-%m-%dT%H:%M:%SZ'),  # 60 jours pour plus de choix
                 'key': YOUTUBE_API_KEY
             }
             
@@ -160,13 +170,41 @@ def fetch_youtube_videos() -> List[Dict]:
             if response.status_code == 200:
                 data = response.json()
                 items = data.get('items', [])
+                french_videos_count = 0
+                
                 for item in items:
                     try:
                         snippet = item.get('snippet', {})
                         video_id_obj = item.get('id', {})
                         video_id = video_id_obj.get('videoId', '') if isinstance(video_id_obj, dict) else ''
                         
-                        if video_id:
+                        if not video_id:
+                            continue
+                        
+                        # Vérifier que la vidéo est vraiment en français
+                        title = str(snippet.get('title', '')).lower()
+                        description = str(snippet.get('description', '')).lower()
+                        content = title + ' ' + description
+                        
+                        # Vérifier la présence de mots français ou de caractères accentués français
+                        has_french_content = (
+                            any(indicator in content for indicator in FRENCH_INDICATORS) or
+                            any(char in content for char in ['é', 'è', 'ê', 'à', 'ç', 'ù', 'ô', 'î', 'û']) or
+                            'français' in query.lower()  # Si la requête contient "français", c'est bon
+                        )
+                        
+                        # Exclure les vidéos qui semblent être en anglais uniquement
+                        english_only_indicators = ['tutorial', 'how to', 'learn', 'course', 'explained']
+                        has_english_only = (
+                            any(indicator in content for indicator in english_only_indicators) and
+                            not any(indicator in content for indicator in FRENCH_INDICATORS) and
+                            not any(char in content for char in ['é', 'è', 'ê', 'à', 'ç', 'ù'])
+                        )
+                        
+                        if has_english_only:
+                            continue  # Exclure les vidéos uniquement en anglais
+                        
+                        if has_french_content or 'français' in query.lower():
                             thumbnails = snippet.get('thumbnails', {})
                             thumbnail_url = ''
                             if isinstance(thumbnails, dict):
@@ -183,11 +221,12 @@ def fetch_youtube_videos() -> List[Dict]:
                                 'videoId': video_id,
                                 'isYouTube': True
                             })
+                            french_videos_count += 1
                     except Exception as e:
                         print(f"    ⚠️  Erreur traitement vidéo: {e}")
                         continue
                         
-                print(f"  ✓ {len(items)} vidéos trouvées pour '{query}'")
+                print(f"  ✓ {french_videos_count}/{len(items)} vidéos françaises trouvées pour '{query}'")
             elif response.status_code == 403:
                 print(f"  ⚠️  Quota YouTube API dépassé ou clé invalide pour '{query}'")
                 break
