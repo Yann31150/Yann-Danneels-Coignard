@@ -1,219 +1,30 @@
 {
-  "lastUpdate": "2026-01-29T10:04:30.632084",
+  "lastUpdate": "2026-01-29T10:30:43.513493",
   "articles": [
     {
-      "title": "Actualité : Amazon Fire TV Stick HD : streaming et TV en direct à 27,99 €",
-      "description": "On bascule d'une série à un match en direct en deux clics. L'accès reste simple, même si on n'est pas féru de technologie.",
-      "url": "https://www.lesnumeriques.com/disque-dur-multimedia/amazon-fire-tv-stick-hd-streaming-et-tv-en-direct-a-27-99-n250602.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-01-28T10:00:00Z",
-      "category": "tech",
-      "hasVideo": false
-    },
-    {
-      "title": "Atos reconnu « Best in Class » en services de cybersécurité IT/OT en 2025 par PAC Innovation Radar France",
-      "description": "Atos reconnu « Best in Class » en services de cybersécurité IT/OT en 2025 par PAC Innovation Radar France ...",
-      "url": "https://www.globenewswire.com/news-release/2026/01/28/3227252/0/fr/Atos-reconnu-Best-in-Class-en-services-de-cybers%C3%A9curit%C3%A9-IT-OT-en-2025-par-PAC-Innovation-Radar-France.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-01-28T09:05:00Z",
-      "category": "innovation",
-      "hasVideo": false
-    },
-    {
-      "title": "Soldes d’hiver Dyson : profitez des dernières innovations jusqu’à 250 € moins chères",
-      "description": "Sautez sur l’occasion des soldes d’hiver, et donnez un nouveau souffle à vos sessions de ménage ! En ce moment, trois offres très avantageuses sur sa gamme V15 et même son aspirateur robot, le plus di...",
-      "url": "https://www.lesnumeriques.com/aspirateur-balai/soldes-d-hiver-dyson-profitez-des-dernieres-innovations-jusqu-a-250-moins-cheres-na250507.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-01-28T09:00:00Z",
-      "category": "innovation",
-      "hasVideo": false
-    },
-    {
-      "title": "MàJ firmware v1.10 Nikon ZR : jusqu’à 6h d’enregistrement, R3D NE en mode Auto et synchro timecode via jack",
-      "description": "Nikon propose une mise à jour firmware v1.10 pour la Nikon ZR, lancée en septembre 2025. Cette première mise à jour répond à plusieurs demandes et améliore les capacités de la caméra, particulièrement...",
-      "url": "https://phototrend.fr/2026/01/maj-firmware-v1-10-nikon-zr/",
-      "source": "Phototrend.fr",
-      "publishedAt": "2026-01-28T09:23:11Z",
-      "category": "tech",
-      "hasVideo": false
-    },
-    {
-      "title": "Enseignement supérieur : à quoi les jeunes diplômés doivent-ils s’attendre en 2030 ?",
-      "description": "La révolution de l’IA brouille le paysage de l’emploi. Seules certitudes : les jeunes diplômés devront cultiver leur esprit critique et leurs qualités comportementales.",
-      "url": "https://www.lexpress.fr/campus/enseignement-superieur-a-quoi-les-jeunes-diplomes-doivent-ils-sattendre-en-2030-RZDVF7WR2JG6ZCC6MKCIE2NE3A/",
-      "source": "L'Express",
-      "publishedAt": "2026-01-28T09:00:00Z",
-      "category": "tech",
-      "hasVideo": false
-    },
-    {
-      "title": "Etats-Unis : TikTok conclut un accord avant un procès-clé sur l’addiction aux réseaux sociaux",
-      "description": "Meta, TikTok, Youtube et Snapchat sont visés par plusieurs procédures leur reprochant d’avoir sciemment conçu leurs applications, en particulier leurs algorithmes de recommandation personnalisés, pour...",
-      "url": "https://www.lemonde.fr/pixels/article/2026/01/28/etats-unis-tiktok-conclut-un-accord-avant-un-proces-cle-sur-l-addiction-aux-reseaux-sociaux_6664416_4408996.html",
-      "source": "Le Monde",
-      "publishedAt": "2026-01-28T07:38:02Z",
-      "category": "tech",
-      "hasVideo": false
-    },
-    {
-      "title": "Comment un personnage fictif de jeu vidéo éducatif est devenu la star de l'extrême droite au Royaume-Uni",
-      "description": "Personnage fictif d’un jeu britannique de prévention de la radicalisation, Amelia est devenue un mème viral détourné par des réseaux d’extrême droite sur les réseaux sociaux. ...",
-      "url": "https://www.dhnet.be/actu/monde/2026/01/27/comment-un-personnage-fictif-de-jeu-video-educatif-est-devenu-la-star-de-lextreme-droite-au-royaume-uni-EYB2BVF7AZC53ATAVA33VKHIOU/",
-      "source": "dh.be",
-      "publishedAt": "2026-01-27T17:48:15Z",
-      "category": "tech",
-      "hasVideo": false
-    },
-    {
-      "title": "L’explication scientifique derrière les arbres qui « explosent » avec le froid aux États-Unis",
-      "description": "Des vidéos montrant des arbres explosés à cause de la tempête hivernale aux États-Unis tournent sur les réseaux sociaux.",
-      "url": "https://www.huffingtonpost.fr/international/video/l-explication-scientifique-derriere-les-arbres-qui-explosent-avec-le-froid-aux-etats-unis_259695.html",
-      "source": "Le HuffPost",
-      "publishedAt": "2026-01-27T17:15:07Z",
-      "category": "tech",
-      "hasVideo": false
-    },
-    {
-      "title": "Comment Amelia, personnage fictif de jeu vidéo éducatif, est devenue la star IA de l'extrême droite britannique",
-      "description": "Personnage fictif d’un jeu britannique de prévention de la radicalisation, Amelia est devenue un mème viral détourné par des réseaux d’extrême droite sur les réseaux sociaux. ...",
-      "url": "https://www.lalibre.be/economie/digital/2026/01/27/comment-amelia-personnage-fictif-de-jeu-video-educatif-est-devenue-la-star-ia-de-lextreme-droite-britannique-E3URVXVOQZHEDISYXJJMYUMPSQ/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-01-27T17:10:59Z",
-      "category": "tech",
-      "hasVideo": false
-    },
-    {
-      "title": "Découvrez le meilleur deal des soldes d'hiver : le Galaxy S25 FE à moins de 600 € seulement !",
-      "description": "Vous rêvez des innovations Galaxy AI mais le prix des modèles flagship vous freine ? Les soldes d'hiver 2026 chez Amazon débloquent l'accès à cette expérience.",
-      "url": "https://www.futura-sciences.com/conso/bons-plans/soldes-hiver-decouvrez-meilleur-deal-soldes-hiver-galaxy-s25-fe-moins-600-seulement-9070/",
-      "source": "Futura",
-      "publishedAt": "2026-01-28T10:00:08Z",
-      "category": "ai",
-      "hasVideo": false
-    },
-    {
-      "title": "Épisode d'émission : Live Twitch des Nums : Souveraineté, TikTok & Oscars",
-      "description": "Rejoignez-nous dès 11h30 sur Twitch pour un live tech & ciné-séries avec Bastien et Thibaud. Aujourd'hui on fait le point sur les dernières dingueries Trumpiennes et leurs conséquences, et on se pench...",
-      "url": "https://www.lesnumeriques.com/emission/live-twitch-des-nums-souverainete-tiktok-oscars-em250614.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-01-28T10:00:00Z",
-      "category": "ai",
-      "hasVideo": false
-    },
-    {
-      "title": "Fnac et Darty multiplient les bonnes affaires avec ces dernières offres à saisir avant la fin des soldes",
-      "description": "C'est l'heure de la dernière démarque ! Il reste encore quelques jours pour profiter des soldes d'hiver, et les enseignes Fnac et Darty n'ont pas dit leur dernier mot. On trouve tout un tas d'offres T...",
-      "url": "https://www.frandroid.com/bons-plans/2930751_fnac-et-darty-multiplient-les-bonnes-affaires-avec-ces-dernieres-offres-a-saisir-avant-la-fin-des-soldes",
-      "source": "Frandroid",
-      "publishedAt": "2026-01-28T09:37:00Z",
-      "category": "ai",
-      "hasVideo": false
-    },
-    {
-      "title": "L’IA rafle tout : ce géant de la mémoire a déjà vendu toute sa production pour 2026",
-      "description": "SK Hynix, l'un des principaux fournisseurs de mémoire du monde, dévoile des résultats records pour l'année 2025. Et au vu de la situation actuelle du marché, cela ne fait que commencer.",
-      "url": "https://www.frandroid.com/produits-android/hardware/memoire/2957545_lia-rafle-tout-ce-geant-de-la-memoire-a-deja-vendu-toute-sa-production-pour-2026",
-      "source": "Frandroid",
-      "publishedAt": "2026-01-28T09:32:30Z",
-      "category": "ai",
-      "hasVideo": false
-    },
-    {
-      "title": "Des serrures plus coriaces et un peu plus de bon sens pour protéger les smartphones Android",
-      "description": "Se faire voler son smartphone, ce n’est jamais anodin. Au-delà de l’appareil, ce sont souvent des photos, des comptes et parfois un portefeuille numérique entier qui disparaissent. Google a donc décid...",
-      "url": "https://www.journaldugeek.com/2026/01/28/des-serrures-plus-coriaces-et-un-peu-plus-de-bon-sens-pour-proteger-les-smartphones-android/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-01-28T09:30:40Z",
-      "category": "ai",
-      "hasVideo": false
-    },
-    {
-      "title": "Citizens of Humanity‑Agolde : le denim durable qui mêle style, seventies et détails modernes irrésistibles",
-      "description": "Entre style vintage et innovations durables, Citizens of Humanity-Agolde transforment le jean en pièce mode responsable et irrésistiblement chic.",
-      "url": "https://www.challenges.fr/luxe/citizens-of-humanity-agolde-le-denim-durable-qui-mele-style-seventies-et-details-modernes-irresistibles_638153",
+      "title": "SILAE, CHAMPION DU DIALOGUE SOCIAL EN ENTREPRISE",
+      "description": "Avec 40 % des bulletins de paie français produits via ses solutions, Silae s'impose comme l'acteur incontournable du dialogue social en France. Son nouveau directeur général, Pierre Cesarini, dévoile ...",
+      "url": "https://www.challenges.fr/partenaires/le-talk-entreprise/silae-champion-du-dialogue-social-en-entreprise_638044",
       "source": "Challenges",
-      "publishedAt": "2026-01-28T09:18:00Z",
+      "publishedAt": "2026-01-28T08:00:00Z",
       "category": "ai",
       "hasVideo": false
     },
     {
-      "title": "Levées de fonds en région Paca : hausse des montants levés mais recul du nombre d''opérations",
-      "description": "En 2025, le marché du capital-risque s’est caractérisé par une sélectivité accrue, selon le dernier baromètre In Extenso Innovation Croissance. C’est vrai en France, comme en région Paca.",
-      "url": "https://www.lejournaldesentreprises.com/breve/levees-de-fonds-en-region-paca-hausse-des-montants-leves-mais-recul-du-nombre-doperations-2135553",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-01-28T09:04:00Z",
+      "title": "Journée mondiale de la protection des données : pourquoi la protection des données personnelles est essentielle pour la confiance dans un monde piloté par l'IA ?",
+      "description": "Pour la Journée mondiale de la protection des données, cet article met en lumière les nouveaux défis de sécurité à l'ère de l'IA où les méthodes traditionnelles de protection ne suffisent plus.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1547531-journee-mondiale-de-la-protection-des-donnees-pourquoi-la-protection-des-donnees-personnelles-est-essentielle-pour-la-confiance-dans-un-monde-pilote-par-l-ia/",
+      "source": "JDN",
+      "publishedAt": "2026-01-28T10:08:33Z",
       "category": "ai",
       "hasVideo": false
     },
     {
-      "title": "Réseau des halles METRO FRANCE",
-      "description": "Ce dataset recense l’ensemble des **halles METRO en France**, avec leurs informations de localisation, de contact et d’horaires d’ouverture.\n\nIl est destiné à des usages de :\n\n* cartographie et géoloc...",
-      "url": "https://www.data.gouv.fr/datasets/reseau-des-halles-metro-france",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-01-28T08:57:07Z",
-      "category": "ai",
-      "hasVideo": false
-    },
-    {
-      "title": "Souveraineté numérique : en premier lieu, mesurer l'ampleur des dégâts",
-      "description": "L'État et le secteur privé lancent simultanément des outils pour mesurer les dépendances technologiques critiques des entreprises.",
-      "url": "https://www.zdnet.fr/actualites/souverainete-numerique-en-premier-lieu-mesurer-lampleur-des-degats-488985.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-01-28T08:01:08Z",
-      "category": "ai",
-      "hasVideo": false
-    },
-    {
-      "title": "L'ENS crée une voie dédiée pour former les futurs champions de l'IA",
-      "description": "L'ENS lance son IA Lab pour accélérer la formation d'experts et l'innovation de rupture. Découvrez la stratégie de l'école qui a vu naître Mistral AI.",
-      "url": "https://www.zdnet.fr/actualites/lens-cree-une-voie-dediee-pour-former-les-futurs-champions-de-lia-488991.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-01-28T07:01:15Z",
-      "category": "ai",
-      "hasVideo": false
-    },
-    {
-      "title": "Google Photos dope sa création vidéo à l'IA, mais pas pour vous",
-      "description": "Google Photos muscle sa fonction de création vidéo. Fini les animations basiques, l'application intègre désormais des prompts textuels pour diriger l'IA et générer des clips sur mesure. Vous pourrez d...",
-      "url": "https://www.generation-nt.com/actualites/google-photos-ia-video-prompt-mise-jour-creation-2069752",
-      "source": "Génération NT",
-      "publishedAt": "2026-01-28T06:10:01Z",
-      "category": "ai",
-      "hasVideo": false
-    },
-    {
-      "title": "Pollution aux microplastiques : un protocole de « scène de crime » pour fiabiliser la recherche",
-      "description": "Face à la prolifération de publications alarmistes mais contestées, un consortium international de 30 chercheurs définit un cadre méthodologique strict pour certifier la présence réelle de polymères d...",
-      "url": "https://www.latribune.fr/article/climat/agriculture-agroalimentaire/15102332997605/pollution-aux-microplastiques-un-protocole-de-scene-de-crime-pour-fiabiliser-la-recherche",
-      "source": "La Tribune.fr",
-      "publishedAt": "2026-01-27T22:12:12Z",
-      "category": "ai",
-      "hasVideo": false
-    },
-    {
-      "title": "Comment des applications \"nudify\" prolifèrent-elles sur les stores de Google et Apple ?",
-      "description": "Un rapport accablant du Tech Transparency Project révèle que des dizaines d'applications \"nudify\", utilisant l'IA pour déshabiller numériquement des personnes, sont disponibles sur l'App Store et le G...",
-      "url": "https://www.generation-nt.com/actualites/applications-ia-nudify-apple-google-securite-app-store-2069764",
-      "source": "Génération NT",
-      "publishedAt": "2026-01-27T19:30:01Z",
-      "category": "ai",
-      "hasVideo": false
-    },
-    {
-      "title": "Les inventions assistées par l’IA sont déjà là et ce n’est que le début",
-      "description": "L’IA est aussi utilisée par les chercheurs. Et elle pourrait, un jour, contribuer à de grandes découvertes scientifiques.",
-      "url": "https://www.presse-citron.net/les-inventions-assistees-par-lia-sont-deja-la-et-ce-nest-que-le-debut/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-01-27T16:01:13Z",
-      "category": "ai",
-      "hasVideo": false
-    },
-    {
-      "title": "Qu’est-ce que l’intégrité scientifique aujourd’hui ?",
-      "description": "Dans un contexte où la production scientifique est soumise à des pressions multiples, où les théories pseudoscientifiques circulent sur les réseaux sociaux, l’intégrité scientifique apparaît plus que ...",
-      "url": "https://theconversation.com/quest-ce-que-lintegrite-scientifique-aujourdhui-273594",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-01-27T15:26:32Z",
+      "title": "Cette appli pourrait faire de vous le prochain découvreur de dinosaures !",
+      "description": "L'intelligence artificielle ne cesse de s'intégrer dans nos vies, après avoir commencé par celles des scientifiques. Aujourd'hui, avec l'apprentissage automatique (en anglais : machine learning ou ML)...",
+      "url": "https://www.futura-sciences.com/planete/actualites/dinosaure-cette-appli-pourrait-faire-vous-prochain-decouvreur-dinosaures-130551/",
+      "source": "Futura",
+      "publishedAt": "2026-01-27T09:57:57Z",
       "category": "ai",
       "hasVideo": false
     },
@@ -223,6 +34,60 @@
       "url": "https://www.lejournaldesentreprises.com/breve/le-chiffre-daffaires-de-la-biotech-lyonnaise-genoway-en-legere-regression-2135439",
       "source": "Le Journal des Entreprises",
       "publishedAt": "2026-01-27T08:01:52Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "Platform Engineering & IA",
+      "description": "L'IA sans plateforme = coût. L'IA industrialisée = levier stratégique. Platform Engineering + IA : votre avantage compétitif. Les gagnants ne seront pas ceux qui expérimentent, mais ceux qui scalent.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1547439-platform-engineering-ia/",
+      "source": "JDN",
+      "publishedAt": "2026-01-28T10:07:49Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "Pourquoi la startup Hugging Face a refusé 500 millions $ à NVIDIA",
+      "description": "Hugging Face, pépite de l'intelligence artificielle (IA) ouverte, vient de décliner une offre de rachat partielle de 500 millions de dollars de la part du géant NVIDIA. Dans un secteur où les milliard...",
+      "url": "https://www.presse-citron.net/pourquoi-startup-hugging-face-refuse-500-millions-nvidia/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-01-28T10:00:50Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "Pourquoi cette nouvelle IA qui \"comprend le monde réel\" va totalement transformer la gestion des flottes ?",
+      "description": "L’annonce du partenariat entre Valeo et NATIX Network dessine bien plus qu’une avancée technologique pour la conduite autonome. En développant l’un des plus grand modèle d’intelligence artificielle, l...",
+      "url": "https://www.caradisiac.com/pourquoi-cette-nouvelle-ia-qui-comprend-le-monde-reel-va-totalement-transformer-la-gestion-des-flottes-220091.htm",
+      "source": "Caradisiac.com",
+      "publishedAt": "2026-01-28T10:03:05Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "Cinq questions que les dirigeants d'entreprise doivent se poser sur l'IA en 2026",
+      "description": "Le potentiel de l'IA est considérable, mais sa valeur dépend de fondations solides : données fiables, gouvernance et processus repensés. Sans cela, l'automatisation amplifie l'inefficacité.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1547571-cinq-questions-que-les-dirigeants-d-entreprise-doivent-se-poser-sur-l-ia-en-2026/",
+      "source": "JDN",
+      "publishedAt": "2026-01-28T10:10:15Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "L'IA ne détruira pas les emplois, elle détruira les organigrammes",
+      "description": "L'IA ne détruit pas l'emploi mais les structures. Elle supprime les couches intermédiaires, rend les organigrammes obsolètes et oblige les dirigeants à repenser gouvernance, pouvoir et performance.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1547557-l-ia-ne-detruira-pas-les-emplois-elle-detruira-les-organigrammes/",
+      "source": "JDN",
+      "publishedAt": "2026-01-28T10:09:24Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "Le RGPD est-il dépassé à l’ère de l’IA générative ?",
+      "description": "[Data Privacy Day] L’adoption massive de l’IA générative fait planer une lourde menace sur la protection des données personnelles. Si le règlement européen fournit un socle juridique et technique soli...",
+      "url": "https://www.zdnet.fr/actualites/le-rgpd-est-il-depasse-a-lere-de-lia-generative-488959.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-01-28T03:01:48Z",
       "category": "ai",
       "hasVideo": false
     }
