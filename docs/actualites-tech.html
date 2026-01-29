@@ -344,6 +344,33 @@
             font-size: 0.9rem;
         }
         
+        /* Newsletter animations */
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        @keyframes slideOut {
+            from {
+                opacity: 1;
+                transform: translateY(0);
+            }
+            to {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+        }
+        .newsletter-success i,
+        .newsletter-error i {
+            margin-right: 0.5rem;
+            font-size: 1.2rem;
+        }
+        
         /* Stats Bar */
         .stats-bar {
             display: flex;
@@ -948,16 +975,127 @@
         function handleNewsletterSubmit(event) {
             event.preventDefault();
             const email = document.getElementById('newsletterEmail').value;
+            const submitButton = event.target.querySelector('.newsletter-btn');
+            const originalText = submitButton.innerHTML;
             
-            // Ici vous pouvez ajouter l'intégration avec votre service d'emailing
-            // Pour l'instant, on affiche juste un message de confirmation
-            alert(`Merci ! Votre adresse ${email} a été enregistrée. Vous recevrez bientôt notre newsletter hebdomadaire.`);
+            // Désactiver le bouton pendant l'envoi
+            submitButton.disabled = true;
+            submitButton.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Envoi...';
             
-            // Réinitialiser le formulaire
-            document.getElementById('newsletterForm').reset();
+            // Option 1 : Utiliser EmailJS (gratuit jusqu'à 200 emails/mois)
+            // Pour activer : 1) Créer un compte sur https://www.emailjs.com/
+            // 2) Créer un service email (Gmail, Outlook, etc.)
+            // 3) Créer un template email
+            // 4) Remplacer YOUR_SERVICE_ID, YOUR_TEMPLATE_ID, YOUR_PUBLIC_KEY ci-dessous
             
-            // Optionnel : Envoyer les données à un endpoint
-            // fetch('/api/newsletter', { method: 'POST', body: JSON.stringify({ email }) });
+            // EmailJS.send('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', {
+            //     to_email: 'votre-email@example.com',
+            //     subscriber_email: email,
+            //     subject: 'Nouvel abonné à la newsletter'
+            // })
+            // .then(() => {
+            //     showNewsletterSuccess(email);
+            //     document.getElementById('newsletterForm').reset();
+            // })
+            // .catch((error) => {
+            //     showNewsletterError();
+            //     console.error('Erreur EmailJS:', error);
+            // })
+            // .finally(() => {
+            //     submitButton.disabled = false;
+            //     submitButton.innerHTML = originalText;
+            // });
+            
+            // Stockage des emails avec Formspree
+            // Tous les emails sont automatiquement stockés dans votre compte Formspree
+            // Vous pouvez les voir dans "Submissions" et les exporter en CSV
+            
+            fetch('https://formspree.io/f/mgvkokkr', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    email: email,
+                    _subject: 'Nouvel abonné newsletter Actualités Tech',
+                    _replyto: email,
+                    message: `Nouvel abonné à la newsletter: ${email}`
+                })
+            })
+            .then(response => {
+                if (response.ok) {
+                    return response.json();
+                }
+                throw new Error('Erreur réseau');
+            })
+            .then(data => {
+                showNewsletterSuccess(email);
+                document.getElementById('newsletterForm').reset();
+            })
+            .catch(error => {
+                showNewsletterError();
+                console.error('Erreur Formspree:', error);
+            })
+            .finally(() => {
+                submitButton.disabled = false;
+                submitButton.innerHTML = originalText;
+            });
+        }
+        
+        function showNewsletterSuccess(email) {
+            // Créer un message de succès stylisé
+            const successMessage = document.createElement('div');
+            successMessage.className = 'newsletter-success';
+            successMessage.innerHTML = `
+                <i class="fas fa-check-circle"></i>
+                <strong>Merci !</strong> Votre adresse ${email} a été enregistrée.
+                <br>Vous recevrez bientôt notre newsletter hebdomadaire.
+            `;
+            successMessage.style.cssText = `
+                background: linear-gradient(135deg, #28a745 0%, #20c997 100%);
+                color: white;
+                padding: 1rem 1.5rem;
+                border-radius: 8px;
+                margin-top: 1rem;
+                text-align: center;
+                box-shadow: 0 4px 12px rgba(40, 167, 69, 0.3);
+                animation: slideIn 0.3s ease;
+            `;
+            
+            const form = document.getElementById('newsletterForm');
+            form.parentNode.insertBefore(successMessage, form.nextSibling);
+            
+            // Retirer le message après 5 secondes
+            setTimeout(() => {
+                successMessage.style.animation = 'slideOut 0.3s ease';
+                setTimeout(() => successMessage.remove(), 300);
+            }, 5000);
+        }
+        
+        function showNewsletterError() {
+            const errorMessage = document.createElement('div');
+            errorMessage.className = 'newsletter-error';
+            errorMessage.innerHTML = `
+                <i class="fas fa-exclamation-circle"></i>
+                <strong>Erreur</strong> Une erreur s'est produite. Veuillez réessayer plus tard.
+            `;
+            errorMessage.style.cssText = `
+                background: linear-gradient(135deg, #dc3545 0%, #c82333 100%);
+                color: white;
+                padding: 1rem 1.5rem;
+                border-radius: 8px;
+                margin-top: 1rem;
+                text-align: center;
+                box-shadow: 0 4px 12px rgba(220, 53, 69, 0.3);
+            `;
+            
+            const form = document.getElementById('newsletterForm');
+            form.parentNode.insertBefore(errorMessage, form.nextSibling);
+            
+            setTimeout(() => {
+                errorMessage.style.opacity = '0';
+                setTimeout(() => errorMessage.remove(), 300);
+            }, 5000);
         }
 
         // Charger les articles au chargement de la page
