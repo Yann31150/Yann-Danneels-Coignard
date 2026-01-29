@@ -3,16 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Actualités Tech - Yann Danneels-Coignard</title>
-    <meta name="description" content="Actualités quotidiennes sur la technologie, l'IA, la data et l'innovation, sélectionnées par intelligence artificielle." />
+    <title>Actualités Tech, IA et Data | Sélection par IA | Yann Danneels-Coignard</title>
+    <meta name="description" content="Découvrez les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes avec vidéos YouTube." />
     <meta name="robots" content="index,follow" />
-    <meta property="og:title" content="Actualités Tech - Yann Danneels-Coignard" />
-    <meta property="og:description" content="Actualités quotidiennes sur la technologie, l'IA, la data et l'innovation." />
+    <meta name="keywords" content="actualités tech, intelligence artificielle, data science, machine learning, python, power bi, tableau, innovation technologique" />
+    <meta property="og:title" content="Actualités Tech, IA et Data | Sélection par IA | Yann Danneels-Coignard" />
+    <meta property="og:description" content="Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.yanndanneelscoignard.fr/actualites-tech.html" />
     <meta property="og:image" content="https://www.yanndanneelscoignard.fr/og-image.svg" />
     <link rel="stylesheet" href="styles.css?v=20260127c">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "Actualités Tech, IA et Data",
+      "description": "Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle.",
+      "url": "https://www.yanndanneelscoignard.fr/actualites-tech.html",
+      "author": {
+        "@type": "Person",
+        "name": "Yann Danneels-Coignard",
+        "url": "https://www.yanndanneelscoignard.fr"
+      },
+      "publisher": {
+        "@type": "Person",
+        "name": "Yann Danneels-Coignard"
+      },
+      "dateModified": "2026-01-29"
+    }
+    </script>
     <style>
         .tech-news-section {
             padding-top: 120px;
@@ -237,9 +257,19 @@
             padding: 3rem;
             color: #666;
         }
+        .spinner {
+            border: 4px solid rgba(52, 152, 219, 0.1);
+            border-radius: 50%;
+            border-top: 4px solid var(--secondary-color);
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
         .loading i {
             font-size: 2rem;
             animation: spin 1s linear infinite;
+            color: var(--secondary-color);
         }
         @keyframes spin {
             from { transform: rotate(0deg); }
@@ -272,6 +302,41 @@
             background: var(--secondary-color);
             color: var(--white);
         }
+        .share-buttons {
+            display: flex;
+            gap: 0.5rem;
+            margin-top: 0.75rem;
+            padding-top: 0.75rem;
+            border-top: 1px solid #eee;
+        }
+        .share-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            padding: 0.4rem 0.8rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 0.85rem;
+            transition: all 0.3s ease;
+            color: var(--white);
+        }
+        .share-btn.twitter {
+            background: #1DA1F2;
+        }
+        .share-btn.twitter:hover {
+            background: #0d8bd9;
+            transform: translateY(-2px);
+        }
+        .share-btn.linkedin {
+            background: #0077B5;
+        }
+        .share-btn.linkedin:hover {
+            background: #005885;
+            transform: translateY(-2px);
+        }
+        .share-btn i {
+            font-size: 0.9rem;
+        }
     </style>
 </head>
 <body>
@@ -299,7 +364,7 @@
         <div class="container">
             <div class="tech-news-header">
                 <h1><i class="fas fa-newspaper"></i> Actualités Tech</h1>
-                <p>Les dernières actualités sur la technologie, l'IA, la data et l'innovation<br>Sélectionnées et analysées par intelligence artificielle</p>
+                <p>Plongez dans l'actualité tech, IA et data, triée et analysée par intelligence artificielle pour vous offrir les infos les plus pertinentes.<br>Mises à jour quotidiennes pour rester à la pointe de l'innovation !</p>
             </div>
             
             <div class="last-update" id="lastUpdate">
@@ -314,12 +379,12 @@
                 <button class="filter-btn" data-filter="innovation">Innovation</button>
             </div>
 
-            <div id="articlesContainer" class="articles-grid">
+            <section id="articlesContainer" class="articles-grid" aria-label="Liste des actualités tech">
                 <div class="loading">
-                    <i class="fas fa-spinner"></i>
+                    <div class="spinner"></div>
                     <p>Chargement des actualités...</p>
                 </div>
-            </div>
+            </section>
         </div>
     </section>
 
@@ -372,13 +437,15 @@
                 const isYouTube = article.isYouTube || false;
                 const thumbnail = article.thumbnail || '';
                 const videoId = article.videoId || '';
+                const encodedTitle = encodeURIComponent(article.title);
+                const encodedUrl = encodeURIComponent(article.url);
                 
                 return `
-                <div class="article-card ${isYouTube ? 'youtube-card' : ''}" data-category="${article.category || 'tech'}">
+                <article class="article-card ${isYouTube ? 'youtube-card' : ''}" data-category="${article.category || 'tech'}" itemscope itemtype="https://schema.org/NewsArticle">
                     ${isYouTube && thumbnail ? `
                         <div class="youtube-thumbnail">
                             <a href="${article.url}" target="_blank" rel="noopener noreferrer" title="Voir la vidéo sur YouTube">
-                                <img src="${thumbnail}" alt="${article.title}" loading="lazy">
+                                <img src="${thumbnail}" alt="${article.title}" loading="lazy" itemprop="image">
                                 <div class="youtube-badge-overlay">
                                     <i class="fab fa-youtube"></i>
                                     <span>YouTube</span>
@@ -390,25 +457,43 @@
                     ` : ''}
                     <div class="article-source">
                         <i class="${isYouTube ? 'fab fa-youtube' : 'fas fa-globe'}"></i>
-                        <span>${article.source || 'Source inconnue'}</span>
+                        <span itemprop="publisher">${article.source || 'Source inconnue'}</span>
                         ${article.hasVideo || isYouTube ? '<span class="video-badge"><i class="fas fa-video"></i> Vidéo</span>' : ''}
                     </div>
-                    <h3 class="article-title">
-                        <a href="${article.url}" target="_blank" rel="noopener noreferrer">
+                    <h3 class="article-title" itemprop="headline">
+                        <a href="${article.url}" target="_blank" rel="noopener noreferrer" itemprop="url">
                             ${article.title}
                         </a>
                     </h3>
-                    <p class="article-description">${article.description || ''}</p>
+                    <p class="article-description" itemprop="description">${article.description || ''}</p>
                     <div class="article-meta">
                         <div class="article-date">
                             <i class="far fa-calendar"></i>
-                            <span>${formatDate(article.publishedAt)}</span>
+                            <time datetime="${article.publishedAt}" itemprop="datePublished">${formatDate(article.publishedAt)}</time>
                         </div>
                         <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="article-link">
                             ${isYouTube ? 'Voir la vidéo' : 'Lire l\'article'} <i class="fas fa-arrow-right"></i>
                         </a>
                     </div>
-                </div>
+                    <div class="share-buttons">
+                        <a href="https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedUrl}" 
+                           target="_blank" 
+                           rel="noopener noreferrer" 
+                           class="share-btn twitter"
+                           aria-label="Partager sur Twitter">
+                            <i class="fab fa-twitter"></i>
+                            <span>Twitter</span>
+                        </a>
+                        <a href="https://www.linkedin.com/shareArticle?mini=true&url=${encodedUrl}&title=${encodedTitle}" 
+                           target="_blank" 
+                           rel="noopener noreferrer" 
+                           class="share-btn linkedin"
+                           aria-label="Partager sur LinkedIn">
+                            <i class="fab fa-linkedin"></i>
+                            <span>LinkedIn</span>
+                        </a>
+                    </div>
+                </article>
             `;
             }).join('');
 
