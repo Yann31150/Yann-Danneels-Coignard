@@ -206,6 +206,17 @@
             display: grid;
             gap: 2rem;
         }
+        
+        /* Optimisation pour PDF paysage */
+        @media print {
+            .conseil-card {
+                page-break-inside: avoid !important;
+                break-inside: avoid !important;
+            }
+            .conseil-description {
+                line-height: 1.6 !important;
+            }
+        }
         .conseil-card {
             background: var(--white);
             border-radius: 16px;
@@ -697,21 +708,22 @@
             document.head.appendChild(style);
             
             const opt = {
-                margin: [10, 10, 10, 10],
+                margin: [15, 15, 15, 15],
                 filename: 'guide-cybersecurite-2026.pdf',
                 image: { type: 'jpeg', quality: 0.98 },
                 html2canvas: { 
-                    scale: 2,
+                    scale: 1.5,
                     useCORS: true,
                     letterRendering: true,
                     logging: false,
                     windowWidth: element.scrollWidth,
-                    windowHeight: element.scrollHeight
+                    windowHeight: element.scrollHeight,
+                    allowTaint: true
                 },
                 jsPDF: { 
                     unit: 'mm', 
                     format: 'a4', 
-                    orientation: 'portrait',
+                    orientation: 'landscape',
                     compress: true
                 },
                 pagebreak: { 
