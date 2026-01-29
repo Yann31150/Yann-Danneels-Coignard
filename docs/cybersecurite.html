@@ -123,6 +123,47 @@
             box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
         }
         
+        /* CTA Final - Fond blanc */
+        .cta-final {
+            background: var(--white);
+            border-radius: 20px;
+            padding: 3rem 2rem;
+            margin-top: 3rem;
+            text-align: center;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            border: 2px solid #e9ecef;
+        }
+        .cta-final h2 {
+            color: var(--primary-color);
+            font-size: 2rem;
+            margin-bottom: 1rem;
+        }
+        .cta-final p {
+            color: #555;
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+        }
+        .cta-final .cta-button {
+            background: linear-gradient(135deg, #2E86C1 0%, #1a5490 100%);
+            color: var(--white);
+            display: inline-flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 1rem 2.5rem;
+            border: none;
+            border-radius: 50px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(46, 134, 193, 0.3);
+        }
+        .cta-final .cta-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(46, 134, 193, 0.4);
+        }
+        
         /* Introduction */
         .intro-section {
             background: var(--white);
@@ -271,6 +312,15 @@
                 font-size: 2rem;
             }
             .cyber-hero p {
+                font-size: 1rem;
+            }
+            .cta-final {
+                padding: 2rem 1.5rem;
+            }
+            .cta-final h2 {
+                font-size: 1.5rem;
+            }
+            .cta-final p {
                 font-size: 1rem;
             }
             .intro-section .stats-grid {
@@ -563,9 +613,9 @@
             </div>
 
             <!-- CTA Final -->
-            <div class="cyber-hero" style="margin-top: 3rem;">
-                <h2 style="font-size: 2rem; margin-bottom: 1rem;">Prêt à renforcer votre cybersécurité ?</h2>
-                <p style="font-size: 1.1rem; margin-bottom: 2rem;">Téléchargez notre guide complet au format PDF pour avoir tous ces conseils à portée de main.</p>
+            <div class="cta-final">
+                <h2>Prêt à renforcer votre cybersécurité ?</h2>
+                <p>Téléchargez notre guide complet au format PDF pour avoir tous ces conseils à portée de main.</p>
                 <a href="#" onclick="downloadPDF(); return false;" class="cta-button" id="downloadBtnBottom">
                     <i class="fas fa-download"></i> Télécharger le Guide PDF Complet
                 </a>
