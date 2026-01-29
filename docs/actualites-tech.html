@@ -337,6 +337,76 @@
         .share-btn i {
             font-size: 0.9rem;
         }
+        
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .articles-grid {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+            
+            .filter-buttons {
+                flex-direction: column;
+                gap: 0.75rem;
+            }
+            
+            .filter-btn {
+                width: 100%;
+            }
+            
+            .share-buttons {
+                flex-direction: column;
+                gap: 0.5rem;
+            }
+            
+            .share-btn {
+                width: 100%;
+                justify-content: center;
+            }
+            
+            .tech-news-header h1 {
+                font-size: 2rem;
+            }
+            
+            .tech-news-header p {
+                font-size: 1rem;
+            }
+            
+            .article-card {
+                padding: 1.25rem;
+            }
+            
+            .youtube-thumbnail {
+                margin-bottom: 0.75rem;
+            }
+            
+            .play-button {
+                width: 60px;
+                height: 60px;
+                font-size: 1.5rem;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .tech-news-header h1 {
+                font-size: 1.75rem;
+            }
+            
+            .article-title {
+                font-size: 1.1rem;
+            }
+            
+            .play-button {
+                width: 50px;
+                height: 50px;
+            }
+            
+            .play-button::before {
+                border-left-width: 15px;
+                border-top-width: 9px;
+                border-bottom-width: 9px;
+            }
+        }
     </style>
 </head>
 <body>
