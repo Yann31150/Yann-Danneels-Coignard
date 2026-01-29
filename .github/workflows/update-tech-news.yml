@@ -23,7 +23,7 @@ jobs:
         
     - name: Install dependencies
       run: |
-        pip install requests
+        pip install requests>=2.32.5
         
     - name: Fetch tech news
       env:
