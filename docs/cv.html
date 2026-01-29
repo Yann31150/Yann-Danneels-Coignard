@@ -1,0 +1,283 @@
+<!-- Force update for GitHub Pages -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon CV - Yann Danneels-Coignard</title>
+    <meta name="description" content="CV de Yann Danneels-Coignard, Data Analyst. Téléchargement PDF et aperçu." />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:title" content="Mon CV - Yann Danneels-Coignard" />
+    <meta property="og:description" content="CV de Yann Danneels-Coignard, Data Analyst. Téléchargement PDF et aperçu." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.yanndanneelscoignard.fr/cv.html" />
+    <meta property="og:image" content="https://www.yanndanneelscoignard.fr/og-image.svg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Mon CV - Yann Danneels-Coignard" />
+    <meta name="twitter:description" content="CV de Yann Danneels-Coignard, Data Analyst. Téléchargement PDF et aperçu." />
+    <meta name="twitter:image" content="https://www.yanndanneelscoignard.fr/og-image.svg" />
+    <link rel="stylesheet" href="styles.css?v=20260127c">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        .cv-container {
+            max-width: 900px;
+            margin: 3rem auto;
+            background: #fff;
+            border-radius: 16px;
+            box-shadow: 0 4px 24px rgba(44,62,80,0.08);
+            padding: 2.5rem 2rem;
+        }
+        .cv-header {
+            text-align: center;
+            margin-bottom: 2.5rem;
+        }
+        .cv-header h1 {
+            color: #2166c2;
+            font-size: 2.3rem;
+            letter-spacing: 2px;
+            margin-bottom: 0.5rem;
+        }
+        .cv-header .cv-contact {
+            color: #333;
+            font-size: 1.05rem;
+            margin-bottom: 0.5rem;
+        }
+        .cv-header .cv-links {
+            margin-top: 0.5rem;
+        }
+        .cv-header .cv-links a {
+            color: #2166c2;
+            text-decoration: none;
+            margin: 0 0.5rem;
+            font-weight: 500;
+        }
+        .cv-pdf-wrapper {
+            margin-top: 2rem;
+            border-radius: 12px;
+            overflow: hidden;
+            border: 1px solid #e6ebf2;
+        }
+        .cv-pdf {
+            width: 100%;
+            height: 80vh;
+            min-height: 600px;
+            border: 0;
+            display: block;
+        }
+        .cv-section {
+            margin-bottom: 0;
+        }
+        .cv-section h2,
+        .cv-section ul,
+        .cv-section li,
+        .cv-section p {
+            margin-top: 0;
+            margin-bottom: 0;
+            padding-top: 0;
+            padding-bottom: 0;
+        }
+        .cv-section h2 {
+            color: #2166c2;
+            font-size: 1.2rem;
+            display: flex;
+            align-items: center;
+            gap: 0.7rem;
+        }
+        .cv-section ul, .cv-section p {
+            margin-left: 1rem;
+            margin-bottom: 0.05rem;
+            font-size: 1.08rem;
+        }
+        .cv-section ul {
+            margin-bottom: 0.1rem;
+        }
+        .cv-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2.5rem 2rem;
+        }
+        @media (max-width: 800px) {
+            .cv-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+        /* Menu burger styles */
+        .burger {
+          display: none;
+          flex-direction: column;
+          cursor: pointer;
+          margin-left: 1rem;
+        }
+        .burger span {
+          height: 3px;
+          width: 25px;
+          background: #2166c2;
+          margin: 4px 0;
+          border-radius: 2px;
+          transition: 0.3s;
+        }
+        @media (max-width: 768px) {
+          .nav-links {
+            display: none;
+            position: absolute;
+            top: 60px;
+            left: 0;
+            width: 100%;
+            background: #fff;
+            flex-direction: column;
+            box-shadow: 0 2px 8px rgba(44,62,80,0.08);
+            z-index: 999;
+          }
+          .nav-links.open {
+            display: flex;
+          }
+          .burger {
+            display: flex;
+          }
+          nav {
+            position: relative;
+          }
+        }
+        /* Animation fade-in et transitions modernes */
+        .fade-in {
+            opacity: 0;
+            transform: translateY(40px);
+            transition: opacity 0.8s cubic-bezier(.4,2,.6,1), transform 0.8s cubic-bezier(.4,2,.6,1);
+        }
+        .fade-in.visible {
+            opacity: 1;
+            transform: none;
+        }
+        .cta-button, .project-link, .chatbot-fab {
+            transition: background 0.3s, color 0.3s, box-shadow 0.3s, transform 0.3s;
+        }
+        .cta-button:hover, .project-link:hover, .chatbot-fab:hover {
+            background: #3498db;
+            color: #fff;
+            box-shadow: 0 8px 24px rgba(44,62,80,0.15);
+            transform: translateY(-3px) scale(1.04);
+        }
+        .nav-links a {
+            transition: color 0.3s, border-bottom 0.3s;
+            border-bottom: 2px solid transparent;
+        }
+        .nav-links a:hover {
+            color: #3498db;
+            border-bottom: 2px solid #3498db;
+        }
+        .burger span {
+            transition: all 0.4s cubic-bezier(.4,2,.6,1);
+        }
+        .burger.active span:nth-child(1) {
+            transform: translateY(7px) rotate(45deg);
+        }
+        .burger.active span:nth-child(2) {
+            opacity: 0;
+        }
+        .burger.active span:nth-child(3) {
+            transform: translateY(-7px) rotate(-45deg);
+        }
+        .project-card {
+            transition: box-shadow 0.3s, transform 0.3s;
+        }
+        .project-card:hover {
+            box-shadow: 0 8px 32px rgba(44,62,80,0.18);
+            transform: translateY(-6px) scale(1.03);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <span class="logo-initial">Y</span>
+                <span class="logo-initial">D</span>
+                <span class="logo-initial">C</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="apropos.html">À propos</a></li>
+                <li><a href="competences.html">Compétences</a></li>
+                <li><a href="outils.html">Outils</a></li>
+                <li><a href="passions.html">Passions</a></li>
+                <li><a href="projets.html">Projets</a></li>
+                <li><a href="cv.html" class="active">Mon CV</a></li>
+                <li><a href="databridge.html">Databridge</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="burger" id="burger-menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+    </header>
+    <main>
+        <div class="cv-container fade-in">
+            <div class="cv-header">
+                <h1>Mon CV</h1>
+                <div class="cv-links">
+                    <a href="cv.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Télécharger le CV (PDF)</a>
+                </div>
+            </div>
+            <div class="cv-pdf-wrapper">
+                <object class="cv-pdf" data="cv.pdf" type="application/pdf">
+                    <p>
+                        Votre navigateur ne peut pas afficher le PDF.
+                        <a href="cv.pdf" target="_blank" rel="noopener">Cliquez ici pour le télécharger.</a>
+                    </p>
+                </object>
+            </div>
+        </div>
+    </main>
+    <footer class="fade-in">
+        <div class="container">
+            <div class="social-links">
+                <a href="https://www.linkedin.com/in/yann-danneels-coignard-567657aa/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+                <a href="#"><i class="fab fa-github"></i></a>
+                <a href="https://studio.youtube.com/channel/UCdy22nIUUqIyEkxijA5hmEw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
+            </div>
+            <p class="visitor-count">Visites : <span data-visit-counter>—</span></p>
+            <p>&copy; 2025 Yann Danneels-Coignard. Tous droits réservés.</p>
+        </div>
+    </footer>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const burger = document.getElementById('burger-menu');
+      const navLinks = document.querySelector('.nav-links');
+      if (burger && navLinks) {
+        burger.addEventListener('click', () => {
+          navLinks.classList.toggle('open');
+        });
+      }
+      // Chatbot floating button
+      const chatbotFab = document.getElementById('chatbot-fab');
+      const chatbotContainer = document.getElementById('chatbot-container');
+      let chatbotOpen = false;
+      if (chatbotFab && chatbotContainer) {
+        chatbotFab.addEventListener('click', () => {
+          chatbotOpen = !chatbotOpen;
+          chatbotContainer.classList.toggle('open', chatbotOpen);
+          chatbotFab.classList.toggle('active', chatbotOpen);
+          if (chatbotOpen) {
+            chatbotFab.innerHTML = '<i class="fas fa-times"></i>';
+          } else {
+            chatbotFab.innerHTML = '<i class="fas fa-comments"></i>';
+          }
+        });
+      }
+      const fadeEls = document.querySelectorAll('.fade-in');
+      const observer = new window.IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.15 });
+      fadeEls.forEach(el => observer.observe(el));
+    });
+    </script>
+    <script src="visitor-counter.js" defer></script>
+</body>
+</html> 

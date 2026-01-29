@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compétences - Yann Danneels-Coignard</title>
+    <meta name="description" content="Compétences data analyse, SQL, Power BI, Python, reporting et data storytelling." />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:title" content="Compétences - Yann Danneels-Coignard" />
+    <meta property="og:description" content="Compétences data analyse, SQL, Power BI, Python, reporting et data storytelling." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.yanndanneelscoignard.fr/competences.html" />
+    <meta property="og:image" content="https://www.yanndanneelscoignard.fr/og-image.svg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Compétences - Yann Danneels-Coignard" />
+    <meta name="twitter:description" content="Compétences data analyse, SQL, Power BI, Python, reporting et data storytelling." />
+    <meta name="twitter:image" content="https://www.yanndanneelscoignard.fr/og-image.svg" />
+    <link rel="stylesheet" href="styles.css?v=20260127c">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+    /* Menu burger styles */
+    .burger {
+      display: none;
+      flex-direction: column;
+      cursor: pointer;
+      margin-left: 1rem;
+    }
+    .burger span {
+      height: 3px;
+      width: 25px;
+      background: #2166c2;
+      margin: 4px 0;
+      border-radius: 2px;
+      transition: 0.3s;
+    }
+    @media (max-width: 768px) {
+      .nav-links {
+        display: none;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        width: 100%;
+        background: #fff;
+        flex-direction: column;
+        box-shadow: 0 2px 8px rgba(44,62,80,0.08);
+        z-index: 999;
+      }
+      .nav-links.open {
+        display: flex;
+      }
+      .burger {
+        display: flex;
+      }
+      nav {
+        position: relative;
+      }
+    }
+    .fade-in {
+      opacity: 0;
+      transform: translateY(40px);
+      transition: opacity 0.8s cubic-bezier(.4,2,.6,1), transform 0.8s cubic-bezier(.4,2,.6,1);
+    }
+    .fade-in.visible {
+      opacity: 1;
+      transform: none;
+    }
+    .cta-button, .project-link, .chatbot-fab {
+      transition: background 0.3s, color 0.3s, box-shadow 0.3s, transform 0.3s;
+    }
+    .cta-button:hover, .project-link:hover, .chatbot-fab:hover {
+      background: #3498db;
+      color: #fff;
+      box-shadow: 0 8px 24px rgba(44,62,80,0.15);
+      transform: translateY(-3px) scale(1.04);
+    }
+    .nav-links a {
+      transition: color 0.3s, border-bottom 0.3s;
+      border-bottom: 2px solid transparent;
+    }
+    .nav-links a:hover {
+      color: #3498db;
+      border-bottom: 2px solid #3498db;
+    }
+    .burger span {
+      transition: all 0.4s cubic-bezier(.4,2,.6,1);
+    }
+    .burger.active span:nth-child(1) {
+      transform: translateY(7px) rotate(45deg);
+    }
+    .burger.active span:nth-child(2) {
+      opacity: 0;
+    }
+    .burger.active span:nth-child(3) {
+      transform: translateY(-7px) rotate(-45deg);
+    }
+    .project-card {
+      transition: box-shadow 0.3s, transform 0.3s;
+    }
+    .project-card:hover {
+      box-shadow: 0 8px 32px rgba(44,62,80,0.18);
+      transform: translateY(-6px) scale(1.03);
+    }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <span class="logo-initial">Y</span>
+                <span class="logo-initial">D</span>
+                <span class="logo-initial">C</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="apropos.html">À propos</a></li>
+                <li><a href="competences.html">Compétences</a></li>
+                <li><a href="outils.html">Outils</a></li>
+                <li><a href="passions.html">Passions</a></li>
+                <li><a href="projets.html">Projets</a></li>
+                <li><a href="cv.html">Mon CV</a></li>
+                <li><a href="databridge.html">Databridge</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="burger" id="burger-menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+    </header>
+    <section id="competences" class="skills fade-in">
+        <div class="container">
+            <h2>DATA ANALYSE</h2>
+            <div class="skills-grid">
+                <div class="skill-card">
+                    <i class="fas fa-chart-line"></i>
+                    <span>Analyse de données</span>
+                </div>
+                <div class="skill-card">
+                    <i class="fas fa-chart-bar"></i>
+                    <span>Visualisation de données</span>
+                </div>
+                <div class="skill-card">
+                    <i class="fas fa-database"></i>
+                    <span>Gestion de bases de données</span>
+                </div>
+                <div class="skill-card">
+                    <i class="fas fa-percent"></i>
+                    <span>Statistiques descriptives et avancées</span>
+                </div>
+                <div class="skill-card">
+                    <i class="fas fa-file-alt"></i>
+                    <span>Reporting et création de dashboards</span>
+                </div>
+                <div class="skill-card">
+                    <i class="fas fa-lightbulb"></i>
+                    <span>Résolution de problèmes et esprit critique</span>
+                </div>
+                <div class="skill-card">
+                    <i class="fas fa-comments"></i>
+                    <span>Communication et vulgarisation de résultats</span>
+                </div>
+            </div>
+            <div style="font-size:2rem; text-align:center; margin:2rem 0;">⸻</div>
+            <h2>COMPETENCES BANCAIRES</h2>
+            <h3 style="font-size:1.5rem; margin-bottom:1rem;">🧠 Compétences techniques et professionnelles</h3>
+            <ul class="competence-list">
+                <li>Analyse financière (crédits entreprises, gestion des risques, financements syndiqués)</li>
+                <li>Analyse juridique de dossiers de successions</li>
+                <li>Montage et gestion de financements professionnels et immobiliers</li>
+                <li>Gestion de sûretés et décaissements</li>
+                <li>Traitement de dossiers de prêts immobiliers (y compris prêts réglementés)</li>
+                <li>Maîtrise du cycle bancaire (front, middle, back office)</li>
+                <li>Utilisation d'applicatifs bancaires : IPPI, CPM, Contact</li>
+                <li>Logiciels bureautiques : Word, Excel, Outlook</li>
+                <li>Validation AMF (Société Générale, 2016)</li>
+            </ul>
+            <div style="font-size:2rem; text-align:center; margin:2rem 0;">⸻</div>
+            <h3 style="font-size:1.5rem; margin-bottom:1rem;">🤝 Compétences relationnelles et organisationnelles</h3>
+            <ul class="competence-list">
+                <li>Gestion de portefeuille clients (jusqu'à 1200 comptes)</li>
+                <li>Satisfaction client et sens du service</li>
+                <li>Autonomie et sérieux</li>
+                <li>Capacité d'adaptation</li>
+                <li>Travail en équipe</li>
+            </ul>
+        </div>
+    </section>
+    <footer class="fade-in">
+        <div class="container">
+            <div class="social-links">
+                <a href="https://www.linkedin.com/in/yann-danneels-coignard-567657aa/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+                <a href="#"><i class="fab fa-github"></i></a>
+                <a href="https://studio.youtube.com/channel/UCdy22nIUUqIyEkxijA5hmEw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
+            </div>
+            <p class="visitor-count">Visites : <span data-visit-counter>—</span></p>
+            <p>&copy; 2025 Yann Danneels-Coignard. Tous droits réservés.</p>
+        </div>
+    </footer>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const burger = document.getElementById('burger-menu');
+      const navLinks = document.querySelector('.nav-links');
+      if (burger && navLinks) {
+        burger.addEventListener('click', () => {
+          navLinks.classList.toggle('open');
+        });
+      }
+      // Chatbot floating button
+      const chatbotFab = document.getElementById('chatbot-fab');
+      const chatbotContainer = document.getElementById('chatbot-container');
+      let chatbotOpen = false;
+      if (chatbotFab && chatbotContainer) {
+        chatbotFab.addEventListener('click', () => {
+          chatbotOpen = !chatbotOpen;
+          chatbotContainer.classList.toggle('open', chatbotOpen);
+          chatbotFab.classList.toggle('active', chatbotOpen);
+          if (chatbotOpen) {
+            chatbotFab.innerHTML = '<i class="fas fa-times"></i>';
+          } else {
+            chatbotFab.innerHTML = '<i class="fas fa-comments"></i>';
+          }
+        });
+      }
+      const fadeEls = document.querySelectorAll('.fade-in');
+      const observer = new window.IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.15 });
+      fadeEls.forEach(el => observer.observe(el));
+    });
+    </script>
+    <script src="visitor-counter.js" defer></script>
+</body>
+</html> 

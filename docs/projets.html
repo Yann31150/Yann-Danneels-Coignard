@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projets - Yann Danneels-Coignard</title>
+    <meta name="description" content="Projets data : dashboards Power BI, recommandations, analyses et automatisations." />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:title" content="Projets - Yann Danneels-Coignard" />
+    <meta property="og:description" content="Projets data : dashboards Power BI, recommandations, analyses et automatisations." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.yanndanneelscoignard.fr/projets.html" />
+    <meta property="og:image" content="https://www.yanndanneelscoignard.fr/og-image.svg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Projets - Yann Danneels-Coignard" />
+    <meta name="twitter:description" content="Projets data : dashboards Power BI, recommandations, analyses et automatisations." />
+    <meta name="twitter:image" content="https://www.yanndanneelscoignard.fr/og-image.svg" />
+    <link rel="stylesheet" href="styles.css?v=20260127c">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+    /* Menu burger styles */
+    .burger {
+      display: none;
+      flex-direction: column;
+      cursor: pointer;
+      margin-left: 1rem;
+    }
+    .burger span {
+      height: 3px;
+      width: 25px;
+      background: #2166c2;
+      margin: 4px 0;
+      border-radius: 2px;
+      transition: 0.3s;
+    }
+    @media (max-width: 768px) {
+      .nav-links {
+        display: none;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        width: 100%;
+        background: #fff;
+        flex-direction: column;
+        box-shadow: 0 2px 8px rgba(44,62,80,0.08);
+        z-index: 999;
+      }
+      .nav-links.open {
+        display: flex;
+      }
+      .burger {
+        display: flex;
+      }
+      nav {
+        position: relative;
+      }
+    }
+    .fade-in {
+      opacity: 0;
+      transform: translateY(40px);
+      transition: opacity 0.8s cubic-bezier(.4,2,.6,1), transform 0.8s cubic-bezier(.4,2,.6,1);
+    }
+    .fade-in.visible {
+      opacity: 1;
+      transform: none;
+    }
+    .cta-button, .project-link, .chatbot-fab {
+      transition: background 0.3s, color 0.3s, box-shadow 0.3s, transform 0.3s;
+    }
+    .cta-button:hover, .project-link:hover, .chatbot-fab:hover {
+      background: #3498db;
+      color: #fff;
+      box-shadow: 0 8px 24px rgba(44,62,80,0.15);
+      transform: translateY(-3px) scale(1.04);
+    }
+    .nav-links a {
+      transition: color 0.3s, border-bottom 0.3s;
+      border-bottom: 2px solid transparent;
+    }
+    .nav-links a:hover {
+      color: #3498db;
+      border-bottom: 2px solid #3498db;
+    }
+    .burger span {
+      transition: all 0.4s cubic-bezier(.4,2,.6,1);
+    }
+    .burger.active span:nth-child(1) {
+      transform: translateY(7px) rotate(45deg);
+    }
+    .burger.active span:nth-child(2) {
+      opacity: 0;
+    }
+    .burger.active span:nth-child(3) {
+      transform: translateY(-7px) rotate(-45deg);
+    }
+    .project-card {
+      transition: box-shadow 0.3s, transform 0.3s;
+    }
+    .project-card:hover {
+      box-shadow: 0 8px 32px rgba(44,62,80,0.18);
+      transform: translateY(-6px) scale(1.03);
+    }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <span class="logo-initial">Y</span>
+                <span class="logo-initial">D</span>
+                <span class="logo-initial">C</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="apropos.html">À propos</a></li>
+                <li><a href="competences.html">Compétences</a></li>
+                <li><a href="outils.html">Outils</a></li>
+                <li><a href="passions.html">Passions</a></li>
+                <li><a href="projets.html" class="active">Projets</a></li>
+                <li><a href="cv.html">Mon CV</a></li>
+                <li><a href="databridge.html">Databridge</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="burger" id="burger-menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+    </header>
+    <section id="projets" class="projects fade-in">
+        <div class="container">
+            <h2>Mes Projets</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <h3>Tableau de Bord pour une Entreprise de Maquettes</h3>
+                    <div class="project-details">
+                        <h4>🎯 Objectif</h4>
+                        <p>Création d'un tableau de bord interactif pour la direction d'une entreprise spécialisée dans la vente de modèles et de maquettes, centré sur 4 axes clés : Ventes, Finances, Logistique et Ressources humaines.</p>
+                        <h4>🔍 Démarche</h4>
+                        <ol>
+                            <li>
+                                <strong>Exploration des données & extraction des KPI en SQL</strong>
+                                <ul>
+                                    <li>Connexion à une base MySQL transactionnelle (OLTP)</li>
+                                    <li>Rédaction de requêtes SQL avancées pour calculer les KPI</li>
+                                    <li>Création de vues SQL pour faciliter l'import dans Power BI</li>
+                                </ul>
+                            </li>
+                            <li>
+                                <strong>Modélisation analytique (OLAP)</strong>
+                                <ul>
+                                    <li>Transformation vers un modèle en étoile</li>
+                                    <li>Mise en place de tables de faits et dimensions</li>
+                                    <li>Optimisation des performances</li>
+                                </ul>
+                            </li>
+                            <li>
+                                <strong>Construction du tableau de bord Power BI</strong>
+                                <ul>
+                                    <li>Intégration des vues SQL et modélisation</li>
+                                    <li>Création de visuels pertinents</li>
+                                    <li>Mise en place de filtres interactifs</li>
+                                </ul>
+                            </li>
+                        </ol>
+                        <h4>🧾 Résultat</h4>
+                        <p>Livraison d'un tableau de bord professionnel, interactif et actualisable permettant au directeur de piloter l'activité de son entreprise avec une vision claire et structurée.</p>
+                    </div>
+                    <a href="tableau_de_bord_maquettes.pbix" class="project-link" download>Télécharger le fichier Power BI</a>
+                </div>
+                <div class="project-card">
+                    <h3>Système de recommandation de vins <span style="color:#e67e22; font-size:1rem;">(en cours)</span></h3>
+                    <p>Projet de moteur de recommandation de vins pour un caviste local, avec analyse de données et machine learning.</p>
+                    <div class="project-details">
+                        <h4>🎯 Objectif</h4>
+                        <p>Proposer des recommandations personnalisées (accords mets-vins et préférences clients) pour augmenter la satisfaction et les ventes.</p>
+                        <h4>🔍 Démarche</h4>
+                        <ul>
+                            <li>Nettoyage et structuration du catalogue (cépages, régions, prix, notes, styles).</li>
+                            <li>Création de profils de goût à partir d’historiques d’achat et de retours clients.</li>
+                            <li>Modèle hybride : similarité de contenu + popularité + contraintes métier.</li>
+                            <li>Évaluation via tests A/B et métriques de pertinence (top-N).</li>
+                        </ul>
+                        <h4>🧾 Livrables</h4>
+                        <ul>
+                            <li>Recommandations actionnables pour les vendeurs.</li>
+                            <li>Tableau de bord des tendances et des paniers types.</li>
+                            <li>Documentation d’usage et règles métier.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <h3>Ludrun : Votre Guide Intelligent pour Trouver Votre Prochain Jeu Vidéo <span style="color:#e67e22; font-size:1rem;">(en cours)</span></h3>
+                    <p>Découvrez des jeux qui vous ressemblent, grâce à l’IA.</p>
+                    <div class="project-details">
+                        <h4>🎯 Vision</h4>
+                        <p>Une plateforme de recommandations personnalisées, précises et surprenantes, basée sur le Machine Learning et l’IA avancée.</p>
+                        <h4>🔍 Comment ça marche ?</h4>
+                        <ul>
+                            <li><strong>Vos goûts, notre matière première :</strong> analyse des jeux préférés, notes, heures de jeu et avis.</li>
+                            <li><strong>Une IA qui apprend en continu :</strong> modèles hybrides (collaboratif, contenu, contextuel) + données riches (genres, mécaniques, ambiances, tendances).</li>
+                            <li><strong>Des recommandations qui évoluent :</strong> suggestions selon l’humeur, sorties de zone de confort, styles ciblés.</li>
+                            <li><strong>Communauté de joueurs passionnés :</strong> listes partagées, comparaisons de goûts, recommandations validées.</li>
+                        </ul>
+                        <h4>✅ Pourquoi choisir Ludrun ?</h4>
+                        <ul>
+                            <li>Une IA qui comprend vos préférences, pas seulement vos achats.</li>
+                            <li>Découvertes intelligentes de pépites et classiques sous-estimés.</li>
+                            <li>Gain de temps : fini les recherches interminables.</li>
+                            <li>Gratuit, sans publicité intrusive.</li>
+                        </ul>
+                        <h4>🚀 Notre vision</h4>
+                        <p>Réinventer la découverte de jeux face à des recommandations souvent génériques, en combinant :</p>
+                        <ul>
+                            <li>Analyse comportementale (votre façon de jouer).</li>
+                            <li>Sémantique des jeux (mécaniques, ambiance, style narratif).</li>
+                            <li>Apprentissage continu (amélioration à chaque interaction).</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="fade-in">
+        <div class="container">
+            <div class="social-links">
+                <a href="https://www.linkedin.com/in/yann-danneels-coignard-567657aa/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+                <a href="#"><i class="fab fa-github"></i></a>
+                <a href="https://studio.youtube.com/channel/UCdy22nIUUqIyEkxijA5hmEw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
+            </div>
+            <p class="visitor-count">Visites : <span data-visit-counter>—</span></p>
+            <p>&copy; 2025 Yann Danneels-Coignard. Tous droits réservés.</p>
+        </div>
+    </footer>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const burger = document.getElementById('burger-menu');
+      const navLinks = document.querySelector('.nav-links');
+      if (burger && navLinks) {
+        burger.addEventListener('click', () => {
+          navLinks.classList.toggle('open');
+        });
+      }
+      // Chatbot floating button
+      const chatbotFab = document.getElementById('chatbot-fab');
+      const chatbotContainer = document.getElementById('chatbot-container');
+      let chatbotOpen = false;
+      if (chatbotFab && chatbotContainer) {
+        chatbotFab.addEventListener('click', () => {
+          chatbotOpen = !chatbotOpen;
+          chatbotContainer.classList.toggle('open', chatbotOpen);
+          chatbotFab.classList.toggle('active', chatbotOpen);
+          if (chatbotOpen) {
+            chatbotFab.innerHTML = '<i class="fas fa-times"></i>';
+          } else {
+            chatbotFab.innerHTML = '<i class="fas fa-comments"></i>';
+          }
+        });
+      }
+      const fadeEls = document.querySelectorAll('.fade-in');
+      const observer = new window.IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.15 });
+      fadeEls.forEach(el => observer.observe(el));
+    });
+    </script>
+    <script src="visitor-counter.js" defer></script>
+</body>
+</html> 

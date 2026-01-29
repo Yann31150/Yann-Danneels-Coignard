@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yann Danneels-Coignard - Data Analyst | Alternance 2025</title>
+    <meta name="description" content="Yann Danneels-Coignard, Data Analyst. Disponible pour alternance dès septembre 2025 à Toulouse ou en télétravail. SQL, Power BI, Python." />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:title" content="Yann Danneels-Coignard - Data Analyst" />
+    <meta property="og:description" content="Disponible pour alternance Data Analyst dès septembre 2025. SQL, Power BI, Python. Toulouse ou télétravail." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.yanndanneelscoignard.fr/" />
+    <meta property="og:image" content="https://www.yanndanneelscoignard.fr/og-image.svg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Yann Danneels-Coignard - Data Analyst" />
+    <meta name="twitter:description" content="Disponible pour alternance Data Analyst dès septembre 2025. SQL, Power BI, Python." />
+    <meta name="twitter:image" content="https://www.yanndanneelscoignard.fr/og-image.svg" />
+    <link rel="stylesheet" href="styles.css?v=20260127c">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+    #sfcby3p5fjtaqxerydkmydp11cxm65p92kf {
+      position: fixed !important;
+      bottom: 20px !important;
+      left: 20px !important;
+      right: auto !important;
+      z-index: 10000 !important;
+    }
+    /* Menu burger styles */
+    .burger {
+      display: none;
+      flex-direction: column;
+      cursor: pointer;
+      margin-left: 1rem;
+    }
+    .burger span {
+      height: 3px;
+      width: 25px;
+      background: #2166c2;
+      margin: 4px 0;
+      border-radius: 2px;
+      transition: 0.3s;
+    }
+    @media (max-width: 768px) {
+      .nav-links {
+        display: none;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        width: 100%;
+        background: #fff;
+        flex-direction: column;
+        box-shadow: 0 2px 8px rgba(44,62,80,0.08);
+        z-index: 999;
+      }
+      .nav-links.open {
+        display: flex;
+      }
+      .burger {
+        display: flex;
+      }
+      nav {
+        position: relative;
+      }
+    }
+    /* Chatbot floating button */
+    .chatbot-fab {
+      position: fixed;
+      bottom: 30px;
+      right: 30px;
+      width: 60px;
+      height: 60px;
+      background: #2166c2;
+      color: #fff;
+      border-radius: 50%;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2rem;
+      cursor: pointer;
+      z-index: 10001;
+      transition: background 0.2s;
+    }
+    .chatbot-fab:hover {
+      background: #3498db;
+    }
+    .chatbot-iframe-container {
+      position: fixed;
+      bottom: 100px;
+      right: 30px;
+      z-index: 10000;
+      width: 400px;
+      max-width: 95vw;
+      height: 0;
+      overflow: hidden;
+      transition: height 0.4s cubic-bezier(.4,2,.6,1);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+      border-radius: 16px 16px 0 0;
+      background: transparent;
+    }
+    .chatbot-iframe-container.open {
+      height: 600px;
+      transition: height 0.4s cubic-bezier(.4,2,.6,1);
+    }
+    .chatbot-iframe-container iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      border-radius: 16px 16px 0 0;
+      background: transparent;
+    }
+    @media (max-width: 500px) {
+      .chatbot-iframe-container {
+        width: 95vw;
+        right: 2.5vw;
+      }
+    }
+    /* Apparition douce des sections */
+    .fade-in {
+      opacity: 0;
+      transform: translateY(40px);
+      transition: opacity 0.8s cubic-bezier(.4,2,.6,1), transform 0.8s cubic-bezier(.4,2,.6,1);
+    }
+    .fade-in.visible {
+      opacity: 1;
+      transform: none;
+    }
+    /* Transitions sur les boutons */
+    .cta-button, .project-link, .chatbot-fab {
+      transition: background 0.3s, color 0.3s, box-shadow 0.3s, transform 0.3s;
+    }
+    .cta-button:hover, .project-link:hover, .chatbot-fab:hover {
+      background: #3498db;
+      color: #fff;
+      box-shadow: 0 8px 24px rgba(44,62,80,0.15);
+      transform: translateY(-3px) scale(1.04);
+    }
+    /* Transitions sur les liens de navigation */
+    .nav-links a {
+      transition: color 0.3s, border-bottom 0.3s;
+      border-bottom: 2px solid transparent;
+    }
+    .nav-links a:hover {
+      color: #3498db;
+      border-bottom: 2px solid #3498db;
+    }
+    /* Animation menu burger */
+    .burger span {
+      transition: all 0.4s cubic-bezier(.4,2,.6,1);
+    }
+    .burger.active span:nth-child(1) {
+      transform: translateY(7px) rotate(45deg);
+    }
+    .burger.active span:nth-child(2) {
+      opacity: 0;
+    }
+    .burger.active span:nth-child(3) {
+      transform: translateY(-7px) rotate(-45deg);
+    }
+    /* Animation sur les cartes projets */
+    .project-card {
+      transition: box-shadow 0.3s, transform 0.3s;
+    }
+    .project-card:hover {
+      box-shadow: 0 8px 32px rgba(44,62,80,0.18);
+      transform: translateY(-6px) scale(1.03);
+    }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <span class="logo-initial">Y</span>
+                <span class="logo-initial">D</span>
+                <span class="logo-initial">C</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="apropos.html">À propos</a></li>
+                <li><a href="competences.html">Compétences</a></li>
+                <li><a href="outils.html">Outils</a></li>
+                <li><a href="passions.html">Passions</a></li>
+                <li><a href="projets.html">Projets</a></li>
+                <li><a href="cv.html">Mon CV</a></li>
+                <li><a href="databridge.html">Databridge</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="burger" id="burger-menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+    </header>
+
+    <section id="accueil" class="hero fade-in">
+        <div class="hero-content">
+            <h1>Yann Danneels-Coignard</h1>
+            <h2>Data Analyst</h2>
+            <p class="hero-subtitle">Transformez vos données en insights stratégiques</p>
+            <div class="hero-actions">
+                <a href="cv.html" class="cta-button">Voir mon CV</a>
+                <a href="cv.pdf" class="cta-button cta-secondary" download>Télécharger le CV</a>
+            </div>
+            <p class="hero-availability">Disponible pour CDD, CDI et alternance · Région toulousaine · Télétravail</p>
+        </div>
+    </section>
+
+    <section class="job-focus fade-in">
+        <div class="container">
+            <h2>Recruter un Data Analyst sérieux et motivé</h2>
+            <div class="job-highlight">
+                <div>
+                    <h3>Ce que j’apporte</h3>
+                    <ul>
+                        <li>Analyse claire des données pour soutenir vos décisions.</li>
+                        <li>Tableaux de bord efficaces sous Power BI.</li>
+                        <li>SQL pour extraire, transformer et fiabiliser les KPI.</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>Compétences clés</h3>
+                    <div class="pill-list">
+                        <span class="pill">SQL</span>
+                        <span class="pill">Power BI</span>
+                        <span class="pill">Python</span>
+                        <span class="pill">Data storytelling</span>
+                        <span class="pill">Reporting</span>
+                    </div>
+                    <div class="job-cta">
+                        <a href="contact.html" class="cta-button">Me contacter</a>
+                        <a href="projets.html" class="cta-button cta-secondary">Voir mes projets</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="fade-in">
+        <div class="container">
+            <div class="social-links">
+                <a href="https://www.linkedin.com/in/yann-danneels-coignard-567657aa/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+                <a href="#"><i class="fab fa-github"></i></a>
+                <a href="https://studio.youtube.com/channel/UCdy22nIUUqIyEkxijA5hmEw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
+            </div>
+            <p class="visitor-count">Visites : <span data-visit-counter>—</span></p>
+            <p>&copy; 2025 Yann Danneels-Coignard. Tous droits réservés.</p>
+        </div>
+    </footer>
+    <script>
+      window.chatbaseConfig = {
+        chatbotId: "KdI4_TZr5ZjhbRPbejVCj"
+      }
+    </script>
+    <script src="https://www.chatbase.co/embed.min.js" id="chatbase-script" defer></script>
+    <div id="sfcby3p5fjtaqxerydkmydp11cxm65p92kf"></div>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Apparition douce des sections au scroll
+      const fadeEls = document.querySelectorAll('.fade-in');
+      const observer = new window.IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.15 });
+      fadeEls.forEach(el => observer.observe(el));
+
+      // Menu burger JS
+      const burger = document.getElementById('burger-menu');
+      const navLinks = document.querySelector('.nav-links');
+      if (burger && navLinks) {
+        burger.addEventListener('click', () => {
+          navLinks.classList.toggle('open');
+          burger.classList.toggle('active');
+        });
+      }
+      // Chatbot floating button
+      const chatbotFab = document.getElementById('chatbot-fab');
+      const chatbotContainer = document.getElementById('chatbot-container');
+      let chatbotOpen = false;
+      if (chatbotFab && chatbotContainer) {
+        chatbotFab.addEventListener('click', () => {
+          chatbotOpen = !chatbotOpen;
+          chatbotContainer.classList.toggle('open', chatbotOpen);
+          chatbotFab.classList.toggle('active', chatbotOpen);
+          if (chatbotOpen) {
+            chatbotFab.innerHTML = '<i class="fas fa-times"></i>';
+          } else {
+            chatbotFab.innerHTML = '<i class="fas fa-comments"></i>';
+          }
+        });
+      }
+    });
+    </script>
+    <script src="visitor-counter.js" defer></script>
+    <div class="chatbot-iframe-container" id="chatbot-container">
+      <iframe src="https://www.chatbase.co/chatbot-iframe/KdI4_TZr5ZjhbRPbejVCj" allow="clipboard-write"></iframe>
+    </div>
+    <div class="chatbot-fab" id="chatbot-fab" title="Discuter avec le chatbot">
+      <i class="fas fa-comments"></i>
+    </div>
+</body>
+</html>

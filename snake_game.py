@@ -54,7 +54,7 @@ class Snake:
     def render(self, surface):
         for p in self.positions:
             pygame.draw.rect(surface, self.color, 
-                            (p[0] * GRID_SIZE, p[1] * GRID_SIZE, GRID_SIZE, GRID_SIZE))
+                           (p[0] * GRID_SIZE, p[1] * GRID_SIZE, GRID_SIZE, GRID_SIZE))
 
 class Food:
     def __init__(self):
@@ -119,4 +119,4 @@ def main():
         clock.tick(FPS)
 
 if __name__ == '__main__':
-    main()
+    main() 

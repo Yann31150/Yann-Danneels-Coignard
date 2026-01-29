@@ -40,4 +40,4 @@ python snake_game.py
 - Système de score
 - Traversée des murs
 - Réinitialisation automatique en cas de collision
-- Vitesse de jeu adaptée pour une expérience agréable
+- Vitesse de jeu adaptée pour une expérience agréable 
