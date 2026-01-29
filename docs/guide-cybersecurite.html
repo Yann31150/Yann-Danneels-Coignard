@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guide Cybersécurité 2026 - 10 Conseils Essentiels</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 2cm;
+        }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            background: white;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 3px solid #2E86C1;
+        }
+        .header h1 {
+            color: #2E86C1;
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        .header .subtitle {
+            color: #666;
+            font-size: 1.1rem;
+        }
+        .intro {
+            background: #f8f9fa;
+            padding: 2rem;
+            border-radius: 10px;
+            margin-bottom: 2rem;
+            border-left: 5px solid #2E86C1;
+        }
+        .intro h2 {
+            color: #2C3E50;
+            margin-bottom: 1rem;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
+            margin: 1.5rem 0;
+        }
+        .stat-box {
+            background: white;
+            padding: 1rem;
+            border-radius: 8px;
+            text-align: center;
+            border: 2px solid #e9ecef;
+        }
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #2E86C1;
+        }
+        .stat-label {
+            font-size: 0.9rem;
+            color: #666;
+            margin-top: 0.5rem;
+        }
+        .conseil {
+            margin-bottom: 2.5rem;
+            page-break-inside: avoid;
+        }
+        .conseil-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+        .conseil-number {
+            background: linear-gradient(135deg, #2E86C1, #1a5490);
+            color: white;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-right: 1rem;
+        }
+        .conseil h3 {
+            color: #2C3E50;
+            font-size: 1.5rem;
+            flex: 1;
+        }
+        .conseil-content {
+            margin-left: 70px;
+        }
+        .conseil-description {
+            margin-bottom: 1rem;
+            line-height: 1.8;
+        }
+        .statistique {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 1rem;
+            margin: 1rem 0;
+            border-radius: 5px;
+        }
+        .statistique strong {
+            color: #856404;
+        }
+        .outils {
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid #eee;
+        }
+        .outils h4 {
+            color: #2C3E50;
+            margin-bottom: 0.5rem;
+            font-size: 1.1rem;
+        }
+        .outils-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+        .outil {
+            background: #e3f2fd;
+            color: #2C3E50;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+        }
+        .footer {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 2px solid #eee;
+            text-align: center;
+            color: #666;
+            font-size: 0.9rem;
+        }
+        @media print {
+            body {
+                padding: 0;
+            }
+            .conseil {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🔒 Cybersécurité 2026</h1>
+        <p class="subtitle">10 Conseils Validés par l'IA pour Protéger Vos Données</p>
+        <p style="margin-top: 1rem; color: #999;">Yann Danneels-Coignard | www.yanndanneelscoignard.fr</p>
+    </div>
+
+    <div class="intro">
+        <h2>Pourquoi la cybersécurité est-elle critique en 2026 ?</h2>
+        <p>D'après le rapport 2024 de l'ANSSI, <strong>60% des cyberattaques ciblent les PME</strong>, et <strong>80% des fuites de données</strong> sont dues à des erreurs humaines (source : IBM). Pourtant, <strong>5 gestes simples</strong> suffisent à bloquer 90% des attaques.</p>
+        
+        <div class="stats">
+            <div class="stat-box">
+                <div class="stat-number">60%</div>
+                <div class="stat-label">des cyberattaques ciblent les PME</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-number">80%</div>
+                <div class="stat-label">des fuites dues à des erreurs humaines</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-number">90%</div>
+                <div class="stat-label">des attaques bloquées par 5 gestes simples</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-number">3s</div>
+                <div class="stat-label">pour cracker un mot de passe faible</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Conseil 1 -->
+    <div class="conseil">
+        <div class="conseil-header">
+            <div class="conseil-number">1</div>
+            <h3>Utilisez des mots de passe forts et uniques</h3>
+        </div>
+        <div class="conseil-content">
+            <p class="conseil-description">
+                Un mot de passe faible peut être cracké en <strong>moins de 3 secondes</strong> avec les outils modernes. Utilisez au minimum 12 caractères avec majuscules, minuscules, chiffres et symboles.
+            </p>
+            <div class="statistique">
+                <strong>📊 Statistique :</strong> 81% des fuites de données sont dues à des mots de passe faibles ou réutilisés (Verizon Data Breach Report 2024).
+            </div>
+            <div class="outils">
+                <h4>🛠️ Outils recommandés</h4>
+                <div class="outils-list">
+                    <span class="outil">Bitwarden (Gratuit)</span>
+                    <span class="outil">1Password</span>
+                    <span class="outil">LastPass</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Conseil 2 -->
+    <div class="conseil">
+        <div class="conseil-header">
+            <div class="conseil-number">2</div>
+            <h3>Activez l'authentification à deux facteurs (2FA)</h3>
+        </div>
+        <div class="conseil-content">
+            <p class="conseil-description">
+                La 2FA ajoute une couche de sécurité supplémentaire. Même si votre mot de passe est compromis, l'attaquant ne pourra pas accéder à votre compte sans votre téléphone.
+            </p>
+            <div class="statistique">
+                <strong>📊 Statistique :</strong> L'activation de la 2FA bloque 99.9% des tentatives d'intrusion automatisées (Google Security Blog).
+            </div>
+            <div class="outils">
+                <h4>🛠️ Outils recommandés</h4>
+                <div class="outils-list">
+                    <span class="outil">Authy (Gratuit)</span>
+                    <span class="outil">Microsoft Authenticator</span>
+                    <span class="outil">Google Authenticator</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Conseil 3 -->
+    <div class="conseil">
+        <div class="conseil-header">
+            <div class="conseil-number">3</div>
+            <h3>Mettez à jour régulièrement vos logiciels</h3>
+        </div>
+        <div class="conseil-content">
+            <p class="conseil-description">
+                Les mises à jour corrigent les failles de sécurité découvertes. Un logiciel non mis à jour est une porte ouverte pour les cybercriminels.
+            </p>
+            <div class="statistique">
+                <strong>📊 Statistique :</strong> 60% des cyberattaques exploitent des vulnérabilités pour lesquelles un correctif existe déjà (Ponemon Institute).
+            </div>
+            <div class="outils">
+                <h4>🛠️ Outils recommandés</h4>
+                <div class="outils-list">
+                    <span class="outil">Patch My PC</span>
+                    <span class="outil">Desktop Central</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Conseil 4 -->
+    <div class="conseil">
+        <div class="conseil-header">
+            <div class="conseil-number">4</div>
+            <h3>Méfiez-vous des emails suspects (phishing)</h3>
+        </div>
+        <div class="conseil-content">
+            <p class="conseil-description">
+                Ne cliquez jamais sur des liens ou pièces jointes dans des emails non sollicités. Vérifiez toujours l'expéditeur et l'URL avant de cliquer.
+            </p>
+            <div class="statistique">
+                <strong>📊 Statistique :</strong> 91% des cyberattaques commencent par un email de phishing (FBI Internet Crime Report 2024).
+            </div>
+            <div class="outils">
+                <h4>🛠️ Outils recommandés</h4>
+                <div class="outils-list">
+                    <span class="outil">Mail Tester</span>
+                    <span class="outil">VirusTotal</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Conseil 5 -->
+    <div class="conseil">
+        <div class="conseil-header">
+            <div class="conseil-number">5</div>
+            <h3>Utilisez un VPN sur les réseaux publics</h3>
+        </div>
+        <div class="conseil-content">
+            <p class="conseil-description">
+                Les réseaux Wi-Fi publics sont souvent non sécurisés. Un VPN chiffre vos données et protège votre trafic contre les interceptions.
+            </p>
+            <div class="statistique">
+                <strong>📊 Statistique :</strong> 87% des utilisateurs de Wi-Fi public partagent des données sensibles sans protection (Symantec).
+            </div>
+            <div class="outils">
+                <h4>🛠️ Outils recommandés</h4>
+                <div class="outils-list">
+                    <span class="outil">ProtonVPN (Gratuit)</span>
+                    <span class="outil">Mullvad VPN</span>
+                    <span class="outil">NordVPN</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Conseil 6 -->
+    <div class="conseil">
+        <div class="conseil-header">
+            <div class="conseil-number">6</div>
+            <h3>Sauvegardez régulièrement vos données</h3>
+        </div>
+        <div class="conseil-content">
+            <p class="conseil-description">
+                La règle du 3-2-1 : 3 copies de vos données, sur 2 supports différents, dont 1 hors site. Protégez-vous contre les ransomwares.
+            </p>
+            <div class="statistique">
+                <strong>📊 Statistique :</strong> Les ransomwares ont augmenté de 41% en 2024, causant des pertes moyennes de 4,45 millions de dollars par attaque (IBM).
+            </div>
+            <div class="outils">
+                <h4>🛠️ Outils recommandés</h4>
+                <div class="outils-list">
+                    <span class="outil">Backblaze</span>
+                    <span class="outil">CrashPlan</span>
+                    <span class="outil">Acronis</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Conseil 7 -->
+    <div class="conseil">
+        <div class="conseil-header">
+            <div class="conseil-number">7</div>
+            <h3>Surveillez vos comptes bancaires et financiers</h3>
+        </div>
+        <div class="conseil-content">
+            <p class="conseil-description">
+                Vérifiez régulièrement vos relevés bancaires et transactions. Signalez immédiatement toute activité suspecte à votre banque.
+            </p>
+            <div class="statistique">
+                <strong>📊 Statistique :</strong> Les fraudes bancaires en ligne ont coûté 32 milliards de dollars en 2024 (Javelin Strategy).
+            </div>
+            <div class="outils">
+                <h4>🛠️ Outils recommandés</h4>
+                <div class="outils-list">
+                    <span class="outil">Have I Been Pwned</span>
+                    <span class="outil">Credit Karma</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Conseil 8 -->
+    <div class="conseil">
+        <div class="conseil-header">
+            <div class="conseil-number">8</div>
+            <h3>Sécurisez votre réseau domestique</h3>
+        </div>
+        <div class="conseil-content">
+            <p class="conseil-description">
+                Changez le mot de passe par défaut de votre routeur, activez le chiffrement WPA3, et désactivez les fonctionnalités non utilisées.
+            </p>
+            <div class="statistique">
+                <strong>📊 Statistique :</strong> 70% des routeurs domestiques ont des vulnérabilités critiques non corrigées (Avast).
+            </div>
+            <div class="outils">
+                <h4>🛠️ Outils recommandés</h4>
+                <div class="outils-list">
+                    <span class="outil">ShieldsUP!</span>
+                    <span class="outil">Fing</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Conseil 9 -->
+    <div class="conseil">
+        <div class="conseil-header">
+            <div class="conseil-number">9</div>
+            <h3>Limitez les informations partagées sur les réseaux sociaux</h3>
+        </div>
+        <div class="conseil-content">
+            <p class="conseil-description">
+                Les cybercriminels utilisent les informations publiques pour personnaliser leurs attaques. Réduisez votre exposition numérique.
+            </p>
+            <div class="statistique">
+                <strong>📊 Statistique :</strong> 73% des utilisateurs partagent trop d'informations personnelles en ligne, facilitant l'ingénierie sociale (Kaspersky).
+            </div>
+            <div class="outils">
+                <h4>🛠️ Outils recommandés</h4>
+                <div class="outils-list">
+                    <span class="outil">Avast Privacy Scan</span>
+                    <span class="outil">DeleteMe</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Conseil 10 -->
+    <div class="conseil">
+        <div class="conseil-header">
+            <div class="conseil-number">10</div>
+            <h3>Formez-vous et restez informé</h3>
+        </div>
+        <div class="conseil-content">
+            <p class="conseil-description">
+                La cybersécurité évolue constamment. Suivez les actualités, participez à des formations, et restez vigilant face aux nouvelles menaces.
+            </p>
+            <div class="statistique">
+                <strong>📊 Statistique :</strong> Les entreprises avec des programmes de formation à la cybersécurité réduisent les incidents de 70% (IBM Security).
+            </div>
+            <div class="outils">
+                <h4>🛠️ Ressources recommandées</h4>
+                <div class="outils-list">
+                    <span class="outil">ANSSI</span>
+                    <span class="outil">CERT-FR</span>
+                    <span class="outil">CISA</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p><strong>Guide Cybersécurité 2026</strong> | Yann Danneels-Coignard</p>
+        <p>www.yanndanneelscoignard.fr | Tous droits réservés © 2026</p>
+        <p style="margin-top: 1rem; font-size: 0.8rem; color: #999;">
+            Ce guide a été créé avec l'aide de l'intelligence artificielle pour sélectionner et analyser les meilleures pratiques en cybersécurité.
+        </p>
+    </div>
+</body>
+</html>
