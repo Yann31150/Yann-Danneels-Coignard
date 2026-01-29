@@ -169,9 +169,36 @@ def get_example_articles() -> List[Dict]:
     ]
 
 def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
-    """Filtre et traite les articles pour ne garder que les plus pertinents"""
+    """Filtre et traite les articles pour ne garder que les plus pertinents avec catégorisation stricte"""
     processed = []
     seen_titles = set()
+    
+    # Mots-clés STRICTS pour l'IA (doivent être présents pour catégoriser en IA)
+    STRICT_AI_KEYWORDS = [
+        'intelligence artificielle', 'ia', 'artificial intelligence', 'ai',
+        'machine learning', 'apprentissage automatique', 'deep learning',
+        'apprentissage profond', 'neural network', 'réseau de neurones',
+        'chatgpt', 'gpt', 'llm', 'large language model', 'modèle de langage',
+        'transformer', 'reinforcement learning', 'apprentissage par renforcement',
+        'computer vision', 'vision par ordinateur', 'nlp', 'traitement du langage naturel'
+    ]
+    
+    # Mots-clés STRICTS pour la Data (doivent être présents pour catégoriser en Data)
+    STRICT_DATA_KEYWORDS = [
+        'data science', 'science des données', 'data analyst', 'analyste de données',
+        'analyse de données', 'data analysis', 'big data', 'données',
+        'analytics', 'business intelligence', 'bi', 'intelligence d\'affaires',
+        'power bi', 'tableau', 'visualisation de données', 'data visualization',
+        'sql', 'python data', 'pandas', 'numpy', 'data mining', 'fouille de données',
+        'data warehouse', 'entrepôt de données', 'etl', 'extract transform load'
+    ]
+    
+    # Mots d'exclusion pour éviter les faux positifs
+    EXCLUSION_KEYWORDS = [
+        'sport', 'football', 'soccer', 'basketball', 'tennis', 'jeux olympiques',
+        'politique', 'élection', 'vote', 'gouvernement', 'ministre', 'président',
+        'crypto', 'bitcoin', 'blockchain', 'nft'  # Exclure crypto sauf si combiné avec data/ia
+    ]
     
     for article in raw_articles:
         # Récupérer et nettoyer les valeurs (gérer les None)
@@ -184,56 +211,83 @@ def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
             continue
         
         title_lower = title.lower()
+        description_lower = description.lower()
+        content = (title_lower + ' ' + description_lower).lower()
         
         # Éviter les doublons
         if title_lower in seen_titles:
             continue
         seen_titles.add(title_lower)
         
-        # Filtrer par mots-clés (priorité aux mots-clés français Data/IA)
-        content = (title_lower + ' ' + description.lower()).lower()
+        # EXCLURE les articles avec des mots-clés non pertinents (sauf si vraiment liés à data/ia)
+        has_exclusion = any(excl in content for excl in EXCLUSION_KEYWORDS)
+        has_data_ai = any(kw in content for kw in STRICT_AI_KEYWORDS + STRICT_DATA_KEYWORDS)
+        
+        # Si contient des mots d'exclusion ET pas de mots data/ia, exclure
+        if has_exclusion and not has_data_ai:
+            continue
+        
+        # Vérifier la pertinence générale
         all_keywords = FRENCH_KEYWORDS_DATA_AI + FRENCH_KEYWORDS_GENERAL + TECH_KEYWORDS
         is_relevant = any(keyword.lower() in content for keyword in all_keywords)
         
         if not is_relevant:
             continue
         
-        # Calculer un score de pertinence (priorité Data et IA)
+        # Calculer un score de pertinence strict
         relevance_score = 0
-        data_ai_keywords_fr = ['intelligence artificielle', 'ia', 'apprentissage automatique', 
-                               'science des données', 'data science', 'analyse de données', 
-                               'data analyst', 'big data', 'données', 'analytics', 
-                               'business intelligence', 'power bi', 'tableau', 'python', 'sql']
-        data_ai_keywords_en = ['artificial intelligence', 'ai', 'machine learning', 
-                               'data science', 'data analyst', 'big data', 'analytics']
+        ai_score = 0
+        data_score = 0
+        
+        # Compter les occurrences de mots-clés IA STRICTS
+        for kw in STRICT_AI_KEYWORDS:
+            count = content.count(kw.lower())
+            if count > 0:
+                ai_score += count * 5  # Score élevé pour chaque occurrence
+                relevance_score += count * 5
+        
+        # Compter les occurrences de mots-clés Data STRICTS
+        for kw in STRICT_DATA_KEYWORDS:
+            count = content.count(kw.lower())
+            if count > 0:
+                data_score += count * 5  # Score élevé pour chaque occurrence
+                relevance_score += count * 5
         
         # Bonus pour les articles français
         if any(kw in content for kw in FRENCH_KEYWORDS_DATA_AI):
-            relevance_score += 10
+            relevance_score += 3
         
-        # Bonus pour Data et IA
-        if any(kw in content for kw in data_ai_keywords_fr + data_ai_keywords_en):
-            relevance_score += 5
-        
-        # Déterminer la catégorie (priorité Data et IA)
+        # Déterminer la catégorie de manière STRICTE
+        # Pour être catégorisé en IA, il faut au moins 2 mots-clés IA ou un score IA > 5
+        # Pour être catégorisé en Data, il faut au moins 2 mots-clés Data ou un score Data > 5
         category = 'tech'
-        ai_keywords = ['ai', 'artificial intelligence', 'machine learning', 'deep learning',
-                       'intelligence artificielle', 'apprentissage automatique', 'neural network']
-        data_keywords = ['data', 'analytics', 'big data', 'données', 'data science', 
-                        'science des données', 'analyse de données', 'data analyst',
-                        'power bi', 'tableau', 'business intelligence', 'visualisation']
         
-        if any(kw in content for kw in ai_keywords):
+        if ai_score >= 5 and ai_score >= data_score:
+            # Article vraiment sur l'IA
             category = 'ai'
-            relevance_score += 3
-        elif any(kw in content for kw in data_keywords):
+            relevance_score += 10  # Bonus pour catégorie IA
+        elif data_score >= 5 and data_score > ai_score:
+            # Article vraiment sur la Data
             category = 'data'
-            relevance_score += 3
-        elif any(kw in content for kw in ['innovation', 'startup', 'nouveau']):
+            relevance_score += 10  # Bonus pour catégorie Data
+        elif ai_score > 0 and data_score > 0:
+            # Article mixte IA + Data, priorité à celui avec le score le plus élevé
+            if ai_score >= data_score:
+                category = 'ai'
+            else:
+                category = 'data'
+            relevance_score += 8
+        elif any(kw in content for kw in ['innovation', 'startup tech', 'technologie']):
             category = 'innovation'
+        
+        # Ne garder que les articles avec un score minimum (évite les faux positifs)
+        if relevance_score < 3:
+            continue
         
         # Ajouter le score de pertinence à l'article pour le tri
         article['_relevance_score'] = relevance_score
+        article['_ai_score'] = ai_score
+        article['_data_score'] = data_score
         
         # Vérifier s'il y a une vidéo (basé sur l'URL ou le contenu)
         url_lower = url.lower()
@@ -259,17 +313,34 @@ def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
             'publishedAt': article.get('publishedAt') or datetime.now().isoformat(),
             'category': category,
             'hasVideo': has_video,
-            '_relevance_score': article.get('_relevance_score', 0)
+            '_relevance_score': article.get('_relevance_score', 0),
+            '_ai_score': article.get('_ai_score', 0),
+            '_data_score': article.get('_data_score', 0)
         })
     
     # Trier par score de pertinence (Data/IA en premier), puis par date
-    processed.sort(key=lambda x: (-x['_relevance_score'], x['publishedAt']), reverse=True)
+    # Priorité aux articles avec catégorie IA ou Data, puis par score, puis par date
+    processed.sort(key=lambda x: (
+        x['category'] not in ['ai', 'data'],  # IA et Data en premier
+        -x['_relevance_score'],  # Score décroissant
+        x['publishedAt']  # Date décroissante
+    ))
     
-    # Retirer le score de pertinence avant de retourner
+    # Retirer les scores internes avant de retourner
     for article in processed:
         article.pop('_relevance_score', None)
+        article.pop('_ai_score', None)
+        article.pop('_data_score', None)
     
-    return processed[:25]  # Plus d'articles pour avoir plus de choix
+    # Filtrer pour avoir un bon équilibre : priorité aux articles vraiment IA et Data
+    ai_articles = [a for a in processed if a['category'] == 'ai']
+    data_articles = [a for a in processed if a['category'] == 'data']
+    other_articles = [a for a in processed if a['category'] not in ['ai', 'data']]
+    
+    # Prendre jusqu'à 10 articles IA, 10 articles Data, et 5 autres
+    final_articles = ai_articles[:10] + data_articles[:10] + other_articles[:5]
+    
+    return final_articles[:25]  # Maximum 25 articles
 
 def save_articles(articles: List[Dict]):
     """Sauvegarde les articles dans le fichier JSON"""
