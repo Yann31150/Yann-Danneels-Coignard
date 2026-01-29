@@ -139,19 +139,17 @@ def fetch_youtube_videos() -> List[Dict]:
         'machine learning français',
         'power bi tutorial français',
         'python data analysis français',
-        'sql tutorial français',
-        'tableau tutorial français',
-        'data analyst français'
+        'sql tutorial français'
     ]
     
-    for query in search_queries[:6]:  # Limiter à 6 requêtes
+    for query in search_queries[:4]:  # Limiter à 4 requêtes pour éviter les quotas
         try:
             url = 'https://www.googleapis.com/youtube/v3/search'
             params = {
                 'part': 'snippet',
                 'q': query,
                 'type': 'video',
-                'maxResults': 5,
+                'maxResults': 3,  # Réduire pour éviter les quotas
                 'order': 'relevance',
                 'relevanceLanguage': 'fr',
                 'publishedAfter': (datetime.now() - timedelta(days=30)).strftime('%Y-%m-%dT%H:%M:%SZ'),
@@ -161,27 +159,49 @@ def fetch_youtube_videos() -> List[Dict]:
             response = requests.get(url, params=params, timeout=10)
             if response.status_code == 200:
                 data = response.json()
-                for item in data.get('items', []):
-                    snippet = item.get('snippet', {})
-                    video_id = item.get('id', {}).get('videoId', '')
-                    
-                    if video_id:
-                        videos.append({
-                            'title': snippet.get('title', ''),
-                            'description': snippet.get('description', ''),
-                            'url': f'https://www.youtube.com/watch?v={video_id}',
-                            'source': snippet.get('channelTitle', 'YouTube'),
-                            'publishedAt': snippet.get('publishedAt', datetime.now().isoformat()),
-                            'thumbnail': snippet.get('thumbnails', {}).get('high', {}).get('url', ''),
-                            'videoId': video_id,
-                            'isYouTube': True
-                        })
-                print(f"  ✓ {len(data.get('items', []))} vidéos trouvées pour '{query}'")
+                items = data.get('items', [])
+                for item in items:
+                    try:
+                        snippet = item.get('snippet', {})
+                        video_id_obj = item.get('id', {})
+                        video_id = video_id_obj.get('videoId', '') if isinstance(video_id_obj, dict) else ''
+                        
+                        if video_id:
+                            thumbnails = snippet.get('thumbnails', {})
+                            thumbnail_url = ''
+                            if isinstance(thumbnails, dict):
+                                high_thumb = thumbnails.get('high', {})
+                                thumbnail_url = high_thumb.get('url', '') if isinstance(high_thumb, dict) else ''
+                            
+                            videos.append({
+                                'title': str(snippet.get('title', '')),
+                                'description': str(snippet.get('description', '')),
+                                'url': f'https://www.youtube.com/watch?v={video_id}',
+                                'source': str(snippet.get('channelTitle', 'YouTube')),
+                                'publishedAt': str(snippet.get('publishedAt', datetime.now().isoformat())),
+                                'thumbnail': thumbnail_url,
+                                'videoId': video_id,
+                                'isYouTube': True
+                            })
+                    except Exception as e:
+                        print(f"    ⚠️  Erreur traitement vidéo: {e}")
+                        continue
+                        
+                print(f"  ✓ {len(items)} vidéos trouvées pour '{query}'")
             elif response.status_code == 403:
-                print(f"  ⚠️  Quota YouTube API dépassé ou clé invalide")
+                print(f"  ⚠️  Quota YouTube API dépassé ou clé invalide pour '{query}'")
                 break
+            elif response.status_code == 400:
+                print(f"  ⚠️  Requête YouTube invalide pour '{query}'")
+                continue
+            else:
+                print(f"  ⚠️  Erreur YouTube API (code {response.status_code}) pour '{query}'")
+        except requests.exceptions.Timeout:
+            print(f"  ⚠️  Timeout pour '{query}'")
+            continue
         except Exception as e:
             print(f"  ❌ Erreur YouTube pour '{query}': {e}")
+            continue
     
     return videos
 
@@ -399,10 +419,10 @@ def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
         
         # Vérifier s'il y a une vidéo (basé sur l'URL ou le contenu)
         url_lower = url.lower()
-        has_video = 'video' in content or 'youtube' in url_lower or 'vimeo' in url_lower
-        is_youtube = 'youtube' in url_lower or article.get('isYouTube', False)
-        video_id = article.get('videoId', '')
-        thumbnail = article.get('thumbnail', '')
+        is_youtube = article.get('isYouTube', False) or 'youtube.com' in url_lower or 'youtu.be' in url_lower
+        has_video = is_youtube or 'video' in content or 'vimeo' in url_lower
+        video_id = article.get('videoId', '') if is_youtube else ''
+        thumbnail = article.get('thumbnail', '') if is_youtube else ''
         
         # Traiter la source
         source_obj = article.get('source')
