@@ -1,13 +1,130 @@
 {
-  "lastUpdate": "2026-01-29T10:00:00Z",
+  "lastUpdate": "2026-01-29T09:53:06.207017",
   "articles": [
     {
-      "title": "Exemple d'article tech",
-      "description": "Ceci est un exemple d'article. Les articles seront automatiquement mis à jour quotidiennement.",
-      "url": "https://example.com",
-      "source": "Tech News",
-      "publishedAt": "2026-01-29T10:00:00Z",
+      "title": "Fabrication Gold Strategic Industry Research Report 2026: A $206.7 Billion Market by 2030, Driven by Increasing Demand for High Purity Gold in Electronics and Semiconductor Manufacturing",
+      "description": "Key opportunities in the Fabrication Gold market center around its expanding role in the jewelry and electronics sectors, fueled by innovations like 3D printing and nanotechnology. Growth is also driv...",
+      "url": "https://www.globenewswire.com/news-release/2026/01/28/3227306/28124/en/Fabrication-Gold-Strategic-Industry-Research-Report-2026-A-206-7-Billion-Market-by-2030-Driven-by-Increasing-Demand-for-High-Purity-Gold-in-Electronics-and-Semiconductor-Manufactur.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-01-28T09:49:00Z",
+      "category": "innovation",
+      "hasVideo": false
+    },
+    {
+      "title": "braindecode 1.3.2.dev179324568",
+      "description": "Deep learning software to decode EEG, ECG or MEG signals",
+      "url": "https://pypi.org/project/braindecode/1.3.2.dev179324568/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-01-28T09:48:22Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "Automotive Machine Vision Industry Research 2026 - Global Market Size, Share, Trends, Opportunities, and Forecasts, 2021-2025 & 2026-2031",
+      "description": "The Global Automotive Machine Vision Market is driven by the need for zero-defect production, EV battery complexity, and safety-critical part traceability. Key trends include AI and deep learning for ...",
+      "url": "https://www.globenewswire.com/news-release/2026/01/28/3227305/28124/en/Automotive-Machine-Vision-Industry-Research-2026-Global-Market-Size-Share-Trends-Opportunities-and-Forecasts-2021-2025-2026-2031.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-01-28T09:48:00Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "Collaborative Robot Industry Research 2026 - Global Market Size, Share, Trends, Opportunities, and Forecasts, 2021-2025 & 2026-2031",
+      "description": "Significant growth in the Global Collaborative Robot Market is driven by increasing demand for flexible manufacturing and workforce automation amid labor shortages. Opportunities exist in AI-enhanced ...",
+      "url": "https://www.globenewswire.com/news-release/2026/01/28/3227303/28124/en/Collaborative-Robot-Industry-Research-2026-Global-Market-Size-Share-Trends-Opportunities-and-Forecasts-2021-2025-2026-2031.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-01-28T09:47:00Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "Machine Vision Industry Research 2026 - Global Market Size, Share, Trends, Opportunities, and Forecasts, 2021-2025 & 2026-2031",
+      "description": "The machine vision market offers opportunities in AI-driven defect detection, expansion into logistics and agriculture, and the rise of 3D vision technology. Challenges include integration complexity,...",
+      "url": "https://www.globenewswire.com/news-release/2026/01/28/3227300/28124/en/Machine-Vision-Industry-Research-2026-Global-Market-Size-Share-Trends-Opportunities-and-Forecasts-2021-2025-2026-2031.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-01-28T09:44:00Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "Generative AI with C#: Architecture, Use Cases, and a Practical Comparison with Python",
+      "description": "Explore C# for enterprise Generative AI! Discover its architecture, use cases, and advantages over Python for building scalable, secure, and production-ready AI solutions.",
+      "url": "https://www.c-sharpcorner.com/article/generative-ai-with-c-sharp-architecture-use-cases-and-a-practical-comparison-with/",
+      "source": "C-sharpcorner.com",
+      "publishedAt": "2026-01-28T09:37:37Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "Automation Testing Industry Research 2026 - Global Market Size, Share, Trends, Opportunities, and Forecasts, 2021-2025 & 2026-2031",
+      "description": "Opportunities in the Global Automation Testing Market include leveraging AI/ML for efficient test automation and capitalizing on the demand for cloud-based infrastructures. The rise of low-code tools ...",
+      "url": "https://www.globenewswire.com/news-release/2026/01/28/3227292/28124/en/Automation-Testing-Industry-Research-2026-Global-Market-Size-Share-Trends-Opportunities-and-Forecasts-2021-2025-2026-2031.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-01-28T09:36:00Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "Helix 02: Figure AI’s Humanoid Control Trick That Treats Walking And Dishwashing As One Skill",
+      "description": "Helix 02 matters because it reframes a classical robotics dilemma into a single engineering decision: should walking and fine manipulation be separate modules or one continuous behavior? Figure AI is ...",
+      "url": "https://bitrebels.com/technology/helix-02-figure-ais-humanoid-control-trick-that-treats-walking-and-dishwashing-as-one-skill/",
+      "source": "Bitrebels.com",
+      "publishedAt": "2026-01-28T08:35:58Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "Astronomers discover over 800 cosmic anomalies using a new AI tool",
+      "description": "Here’s a use of AI that appears to do more good than harm. A pair of astronomers at the European Space Agency (ESA) developed a neural network that searches through space images for anomalies. The res...",
+      "url": "https://www.madshrimps.be/news/astronomers-discover-over-800-cosmic-anomalies-using-a-new-ai-tool/",
+      "source": "Madshrimps.be",
+      "publishedAt": "2026-01-28T08:16:26Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "SILAE, CHAMPION DU DIALOGUE SOCIAL EN ENTREPRISE",
+      "description": "Avec 40 % des bulletins de paie français produits via ses solutions, Silae s'impose comme l'acteur incontournable du dialogue social en France. Son nouveau directeur général, Pierre Cesarini, dévoile ...",
+      "url": "https://www.challenges.fr/partenaires/le-talk-entreprise/silae-champion-du-dialogue-social-en-entreprise_638044",
+      "source": "Challenges",
+      "publishedAt": "2026-01-28T08:00:00Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "Actualité : Voitures électriques : la science prouve leur effet antipollution, une première",
+      "description": "Une équipe californienne vient de quantifier pour la première fois l'impact réel de l'électrification automobile sur la qualité de l'air. Leurs travaux, publiés dans The Lancet Planetary Health, explo...",
+      "url": "https://www.lesnumeriques.com/voiture-electrique/voitures-electriques-la-science-a-prouve-leur-effet-sur-la-qualite-de-l-air-c-est-une-premiere-n250595.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-01-28T07:53:00Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "L'ENS crée une voie dédiée pour former les futurs champions de l'IA",
+      "description": "L'ENS lance son IA Lab pour accélérer la formation d'experts et l'innovation de rupture. Découvrez la stratégie de l'école qui a vu naître Mistral AI.",
+      "url": "https://www.zdnet.fr/actualites/lens-cree-une-voie-dediee-pour-former-les-futurs-champions-de-lia-488991.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-01-28T07:01:15Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "canns 0.14.1",
+      "description": "A Python Library for Continuous Attractor Neural Networks",
+      "url": "https://pypi.org/project/canns/0.14.1/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-01-28T07:01:02Z",
       "category": "tech",
+      "hasVideo": false
+    },
+    {
+      "title": "Quantique, intelligence artificielle... L'Europe à la traîne face à la Chine et aux Etats-Unis",
+      "description": "Une étude de l’équipe de recherche de Natixis CIB pointe une nette avance de la Chine et des Etats-Unis dans plusieurs secteurs stratégiques.",
+      "url": "https://www.lexpress.fr/economie/quantique-intelligence-artificielle-leurope-a-la-traine-face-a-la-chine-et-aux-etats-unis-UNVXIXK34ZFXHFLPYM4VTXZOZY/",
+      "source": "L'Express",
+      "publishedAt": "2026-01-28T06:00:00Z",
+      "category": "ai",
       "hasVideo": false
     }
   ]
