@@ -38,7 +38,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # Récupérer les derniers changements
+        # Récupérer les derniers changements (sans merger)
         git fetch origin main
         
         # Ajouter le fichier généré
@@ -51,15 +51,15 @@ jobs:
           # Créer le commit
           git commit -m "Auto-update: Actualités tech du $(date +'%Y-%m-%d')"
           
-          # Récupérer les changements distants et merger (en favorisant notre version pour tech-news.json)
-          git pull origin main --no-rebase --strategy-option=ours -X theirs docs/tech-news.json || git pull origin main --no-rebase || true
-          
-          # Si conflit sur tech-news.json, utiliser notre version (la plus récente)
-          if [ -f docs/tech-news.json ]; then
-            git checkout --ours docs/tech-news.json || true
+          # Essayer de récupérer et merger les changements distants
+          # En cas de conflit sur tech-news.json, utiliser notre version (la plus récente générée)
+          git pull origin main --no-edit || {
+            echo "Conflit détecté, résolution..."
+            # Si conflit, utiliser notre version de tech-news.json (la plus récente)
+            git checkout --ours docs/tech-news.json 2>/dev/null || true
             git add docs/tech-news.json
             git commit -m "Résolution conflit: utiliser la version générée de tech-news.json" || true
-          fi
+          }
           
           # Pousser les changements
           git push origin main
