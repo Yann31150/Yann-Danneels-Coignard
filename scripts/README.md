@@ -10,14 +10,27 @@ Ce dossier contient les scripts pour automatiser la récupération des actualit�
 2. Créez un compte gratuit
 3. Récupérez votre clé API (gratuite jusqu'à 100 requêtes/jour)
 
-### 2. Configurer la clé API dans GitHub Secrets
+### 2. Configurer les clés API dans GitHub Secrets
 
 1. Allez sur votre dépôt GitHub : `https://github.com/Yann31150/Yann-Danneels-Coignard`
 2. Cliquez sur **Settings** → **Secrets and variables** → **Actions**
+
+**Pour NewsAPI :**
 3. Cliquez sur **New repository secret**
 4. Nom : `NEWS_API_KEY`
 5. Valeur : Collez votre clé API NewsAPI
 6. Cliquez sur **Add secret**
+
+**Pour YouTube (optionnel mais recommandé) :**
+7. Allez sur https://console.cloud.google.com/
+8. Créez un projet ou sélectionnez-en un
+9. Activez l'API YouTube Data API v3
+10. Créez des identifiants (clé API)
+11. Retournez sur GitHub Secrets
+12. Cliquez sur **New repository secret**
+13. Nom : `YOUTUBE_API_KEY`
+14. Valeur : Collez votre clé API YouTube
+15. Cliquez sur **Add secret**
 
 ### 3. Tester le script localement
 

@@ -13,6 +13,7 @@ import sys
 
 # Configuration
 NEWS_API_KEY = os.getenv('NEWS_API_KEY', '')  # À configurer dans GitHub Secrets
+YOUTUBE_API_KEY = os.getenv('YOUTUBE_API_KEY', '')  # À configurer dans GitHub Secrets
 OUTPUT_FILE = 'docs/tech-news.json'
 
 # Mots-clés pour filtrer les articles pertinents
@@ -123,6 +124,67 @@ def fetch_news_from_api() -> List[Dict]:
     
     return articles
 
+def fetch_youtube_videos() -> List[Dict]:
+    """Récupère des vidéos YouTube pertinentes sur la tech, data et IA"""
+    videos = []
+    
+    if not YOUTUBE_API_KEY:
+        print("⚠️  YOUTUBE_API_KEY non configurée. Pas de vidéos YouTube.")
+        return []
+    
+    # Recherches YouTube pour Data et IA
+    search_queries = [
+        'intelligence artificielle français',
+        'data science français',
+        'machine learning français',
+        'power bi tutorial français',
+        'python data analysis français',
+        'sql tutorial français',
+        'tableau tutorial français',
+        'data analyst français'
+    ]
+    
+    for query in search_queries[:6]:  # Limiter à 6 requêtes
+        try:
+            url = 'https://www.googleapis.com/youtube/v3/search'
+            params = {
+                'part': 'snippet',
+                'q': query,
+                'type': 'video',
+                'maxResults': 5,
+                'order': 'relevance',
+                'relevanceLanguage': 'fr',
+                'publishedAfter': (datetime.now() - timedelta(days=30)).strftime('%Y-%m-%dT%H:%M:%SZ'),
+                'key': YOUTUBE_API_KEY
+            }
+            
+            response = requests.get(url, params=params, timeout=10)
+            if response.status_code == 200:
+                data = response.json()
+                for item in data.get('items', []):
+                    snippet = item.get('snippet', {})
+                    video_id = item.get('id', {}).get('videoId', '')
+                    
+                    if video_id:
+                        videos.append({
+                            'title': snippet.get('title', ''),
+                            'description': snippet.get('description', ''),
+                            'url': f'https://www.youtube.com/watch?v={video_id}',
+                            'source': snippet.get('channelTitle', 'YouTube'),
+                            'publishedAt': snippet.get('publishedAt', datetime.now().isoformat()),
+                            'thumbnail': snippet.get('thumbnails', {}).get('high', {}).get('url', ''),
+                            'videoId': video_id,
+                            'isYouTube': True
+                        })
+                print(f"  ✓ {len(data.get('items', []))} vidéos trouvées pour '{query}'")
+            elif response.status_code == 403:
+                print(f"  ⚠️  Quota YouTube API dépassé ou clé invalide")
+                break
+        except Exception as e:
+            print(f"  ❌ Erreur YouTube pour '{query}': {e}")
+    
+    return videos
+
 def get_example_articles() -> List[Dict]:
     """Retourne des articles d'exemple en français sur Data et IA si l'API n'est pas disponible"""
     return [
@@ -173,14 +235,35 @@ def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
     processed = []
     seen_titles = set()
     
-    # Mots-clés STRICTS pour l'IA (doivent être présents pour catégoriser en IA)
-    STRICT_AI_KEYWORDS = [
-        'intelligence artificielle', 'ia', 'artificial intelligence', 'ai',
-        'machine learning', 'apprentissage automatique', 'deep learning',
-        'apprentissage profond', 'neural network', 'réseau de neurones',
-        'chatgpt', 'gpt', 'llm', 'large language model', 'modèle de langage',
+    # Mots-clés STRICTS pour l'IA - Version renforcée avec combinaisons obligatoires
+    # Pour être catégorisé en IA, l'article doit contenir au moins 2 de ces termes
+    STRICT_AI_KEYWORDS_PRIMARY = [
+        'intelligence artificielle', 'artificial intelligence',
+        'machine learning', 'apprentissage automatique',
+        'deep learning', 'apprentissage profond',
+        'neural network', 'réseau de neurones',
+        'chatgpt', 'gpt-', 'gpt ', 'llm', 'large language model', 'modèle de langage',
         'transformer', 'reinforcement learning', 'apprentissage par renforcement',
-        'computer vision', 'vision par ordinateur', 'nlp', 'traitement du langage naturel'
+        'computer vision', 'vision par ordinateur',
+        'nlp', 'traitement du langage naturel', 'natural language processing'
+    ]
+    
+    STRICT_AI_KEYWORDS_SECONDARY = [
+        'ia', 'ai ', 'ai,', 'ai.', 'ai:', 'ai;',  # "ai" seul peut être ambigu
+        'algorithm', 'algorithme', 'modèle', 'model',
+        'entraînement', 'training', 'dataset', 'jeu de données'
+    ]
+    
+    # Combinaisons qui garantissent que c'est vraiment sur l'IA
+    AI_REQUIRED_COMBINATIONS = [
+        ['intelligence artificielle', 'machine learning'],
+        ['artificial intelligence', 'neural'],
+        ['deep learning', 'réseau'],
+        ['chatgpt', 'ia'],
+        ['gpt', 'intelligence'],
+        ['llm', 'artificielle'],
+        ['transformer', 'learning'],
+        ['computer vision', 'ai']
     ]
     
     # Mots-clés STRICTS pour la Data (doivent être présents pour catégoriser en Data)
@@ -221,7 +304,7 @@ def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
         
         # EXCLURE les articles avec des mots-clés non pertinents (sauf si vraiment liés à data/ia)
         has_exclusion = any(excl in content for excl in EXCLUSION_KEYWORDS)
-        has_data_ai = any(kw in content for kw in STRICT_AI_KEYWORDS + STRICT_DATA_KEYWORDS)
+        has_data_ai = any(kw in content for kw in STRICT_AI_KEYWORDS_PRIMARY + STRICT_DATA_KEYWORDS)
         
         # Si contient des mots d'exclusion ET pas de mots data/ia, exclure
         if has_exclusion and not has_data_ai:
@@ -234,17 +317,43 @@ def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
         if not is_relevant:
             continue
         
-        # Calculer un score de pertinence strict
+        # Calculer un score de pertinence strict avec validation renforcée pour l'IA
         relevance_score = 0
         ai_score = 0
         data_score = 0
         
-        # Compter les occurrences de mots-clés IA STRICTS
-        for kw in STRICT_AI_KEYWORDS:
+        # Compter les occurrences de mots-clés IA PRIMAIRES (score élevé)
+        primary_ai_count = 0
+        for kw in STRICT_AI_KEYWORDS_PRIMARY:
             count = content.count(kw.lower())
             if count > 0:
-                ai_score += count * 5  # Score élevé pour chaque occurrence
-                relevance_score += count * 5
+                primary_ai_count += count
+                ai_score += count * 10  # Score très élevé pour les mots-clés primaires
+                relevance_score += count * 10
+        
+        # Compter les occurrences de mots-clés IA SECONDAIRES (score moyen)
+        secondary_ai_count = 0
+        for kw in STRICT_AI_KEYWORDS_SECONDARY:
+            count = content.count(kw.lower())
+            if count > 0:
+                secondary_ai_count += count
+                ai_score += count * 2  # Score moyen pour les mots-clés secondaires
+                relevance_score += count * 2
+        
+        # VALIDATION RENFORCÉE : Vérifier les combinaisons obligatoires
+        has_ai_combination = False
+        for combo in AI_REQUIRED_COMBINATIONS:
+            if all(term.lower() in content for term in combo):
+                has_ai_combination = True
+                ai_score += 20  # Bonus important pour les combinaisons
+                relevance_score += 20
+                break
+        
+        # Pour être vraiment catégorisé en IA, il faut :
+        # - Soit au moins 2 mots-clés primaires
+        # - Soit 1 mot-clé primaire + 1 combinaison valide
+        # - Soit une combinaison obligatoire
+        is_really_ai = (primary_ai_count >= 2) or (primary_ai_count >= 1 and has_ai_combination) or has_ai_combination
         
         # Compter les occurrences de mots-clés Data STRICTS
         for kw in STRICT_DATA_KEYWORDS:
@@ -257,15 +366,14 @@ def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
         if any(kw in content for kw in FRENCH_KEYWORDS_DATA_AI):
             relevance_score += 3
         
-        # Déterminer la catégorie de manière STRICTE
-        # Pour être catégorisé en IA, il faut au moins 2 mots-clés IA ou un score IA > 5
-        # Pour être catégorisé en Data, il faut au moins 2 mots-clés Data ou un score Data > 5
+        # Déterminer la catégorie de manière TRÈS STRICTE
         category = 'tech'
         
-        if ai_score >= 5 and ai_score >= data_score:
-            # Article vraiment sur l'IA
+        # Pour être catégorisé en IA : validation renforcée obligatoire
+        if is_really_ai and ai_score >= 10 and ai_score >= data_score:
+            # Article vraiment sur l'IA (validation renforcée passée)
             category = 'ai'
-            relevance_score += 10  # Bonus pour catégorie IA
+            relevance_score += 15  # Bonus pour catégorie IA validée
         elif data_score >= 5 and data_score > ai_score:
             # Article vraiment sur la Data
             category = 'data'
@@ -292,6 +400,9 @@ def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
         # Vérifier s'il y a une vidéo (basé sur l'URL ou le contenu)
         url_lower = url.lower()
         has_video = 'video' in content or 'youtube' in url_lower or 'vimeo' in url_lower
+        is_youtube = 'youtube' in url_lower or article.get('isYouTube', False)
+        video_id = article.get('videoId', '')
+        thumbnail = article.get('thumbnail', '')
         
         # Traiter la source
         source_obj = article.get('source')
@@ -312,7 +423,10 @@ def filter_and_process_articles(raw_articles: List[Dict]) -> List[Dict]:
             'source': source_name,
             'publishedAt': article.get('publishedAt') or datetime.now().isoformat(),
             'category': category,
-            'hasVideo': has_video,
+            'hasVideo': has_video or is_youtube,
+            'isYouTube': is_youtube,
+            'videoId': video_id,
+            'thumbnail': thumbnail,
             '_relevance_score': article.get('_relevance_score', 0),
             '_ai_score': article.get('_ai_score', 0),
             '_data_score': article.get('_data_score', 0)
@@ -365,13 +479,21 @@ def main():
         raw_articles = fetch_news_from_api()
         print(f"📰 {len(raw_articles)} articles récupérés")
         
+        # Récupérer les vidéos YouTube
+        print("🎥 Récupération des vidéos YouTube...")
+        youtube_videos = fetch_youtube_videos()
+        print(f"📺 {len(youtube_videos)} vidéos YouTube récupérées")
+        
+        # Combiner articles et vidéos
+        all_content = raw_articles + youtube_videos
+        
         # Filtrer et traiter
-        processed_articles = filter_and_process_articles(raw_articles)
-        print(f"✨ {len(processed_articles)} articles pertinents sélectionnés")
+        processed_articles = filter_and_process_articles(all_content)
+        print(f"✨ {len(processed_articles)} contenus pertinents sélectionnés")
         
         # S'assurer qu'on a au moins quelques articles
         if len(processed_articles) == 0:
-            print("⚠️  Aucun article trouvé, utilisation d'articles d'exemple")
+            print("⚠️  Aucun contenu trouvé, utilisation d'articles d'exemple")
             example_articles = get_example_articles()
             processed_articles = filter_and_process_articles(example_articles)
         
