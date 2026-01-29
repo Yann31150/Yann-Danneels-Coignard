@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-29T10:08:14.244874",
+  "lastUpdate": "2026-01-29T10:30:43.513493",
   "articles": [
     {
       "title": "SILAE, CHAMPION DU DIALOGUE SOCIAL EN ENTREPRISE",
@@ -11,20 +11,20 @@
       "hasVideo": false
     },
     {
+      "title": "Journée mondiale de la protection des données : pourquoi la protection des données personnelles est essentielle pour la confiance dans un monde piloté par l'IA ?",
+      "description": "Pour la Journée mondiale de la protection des données, cet article met en lumière les nouveaux défis de sécurité à l'ère de l'IA où les méthodes traditionnelles de protection ne suffisent plus.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1547531-journee-mondiale-de-la-protection-des-donnees-pourquoi-la-protection-des-donnees-personnelles-est-essentielle-pour-la-confiance-dans-un-monde-pilote-par-l-ia/",
+      "source": "JDN",
+      "publishedAt": "2026-01-28T10:08:33Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
       "title": "Cette appli pourrait faire de vous le prochain découvreur de dinosaures !",
       "description": "L'intelligence artificielle ne cesse de s'intégrer dans nos vies, après avoir commencé par celles des scientifiques. Aujourd'hui, avec l'apprentissage automatique (en anglais : machine learning ou ML)...",
       "url": "https://www.futura-sciences.com/planete/actualites/dinosaure-cette-appli-pourrait-faire-vous-prochain-decouvreur-dinosaures-130551/",
       "source": "Futura",
       "publishedAt": "2026-01-27T09:57:57Z",
-      "category": "ai",
-      "hasVideo": false
-    },
-    {
-      "title": "L’IA découvre des centaines d’anomalies spatiales en 2 jours, en voici quelques unes",
-      "description": "Des astronomes ont confié les données de l'observatoire Hubble à une IA chargée de repérer des bizarreries. Il se trouve que sur les 100 millions d'images analysées, plus de 1 000 sont étranges. “L'un...",
-      "url": "https://www.phonandroid.com/lia-decouvre-des-centaines-danomalies-spatiales-en-2-jours-en-voici-quelques-unes.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-01-28T09:52:24Z",
       "category": "ai",
       "hasVideo": false
     },
@@ -65,29 +65,29 @@
       "hasVideo": false
     },
     {
+      "title": "Cinq questions que les dirigeants d'entreprise doivent se poser sur l'IA en 2026",
+      "description": "Le potentiel de l'IA est considérable, mais sa valeur dépend de fondations solides : données fiables, gouvernance et processus repensés. Sans cela, l'automatisation amplifie l'inefficacité.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1547571-cinq-questions-que-les-dirigeants-d-entreprise-doivent-se-poser-sur-l-ia-en-2026/",
+      "source": "JDN",
+      "publishedAt": "2026-01-28T10:10:15Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
+      "title": "L'IA ne détruira pas les emplois, elle détruira les organigrammes",
+      "description": "L'IA ne détruit pas l'emploi mais les structures. Elle supprime les couches intermédiaires, rend les organigrammes obsolètes et oblige les dirigeants à repenser gouvernance, pouvoir et performance.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1547557-l-ia-ne-detruira-pas-les-emplois-elle-detruira-les-organigrammes/",
+      "source": "JDN",
+      "publishedAt": "2026-01-28T10:09:24Z",
+      "category": "ai",
+      "hasVideo": false
+    },
+    {
       "title": "Le RGPD est-il dépassé à l’ère de l’IA générative ?",
       "description": "[Data Privacy Day] L’adoption massive de l’IA générative fait planer une lourde menace sur la protection des données personnelles. Si le règlement européen fournit un socle juridique et technique soli...",
       "url": "https://www.zdnet.fr/actualites/le-rgpd-est-il-depasse-a-lere-de-lia-generative-488959.htm",
       "source": "ZDNet France",
       "publishedAt": "2026-01-28T03:01:48Z",
-      "category": "ai",
-      "hasVideo": false
-    },
-    {
-      "title": "Actualité : Voitures électriques : la science prouve leur effet antipollution, une première",
-      "description": "Une équipe californienne vient de quantifier pour la première fois l'impact réel de l'électrification automobile sur la qualité de l'air. Leurs travaux, publiés dans The Lancet Planetary Health, explo...",
-      "url": "https://www.lesnumeriques.com/voiture-electrique/voitures-electriques-la-science-a-prouve-leur-effet-sur-la-qualite-de-l-air-c-est-une-premiere-n250595.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-01-28T07:53:00Z",
-      "category": "ai",
-      "hasVideo": false
-    },
-    {
-      "title": "Pollution aux microplastiques : un protocole de « scène de crime » pour fiabiliser la recherche",
-      "description": "Face à la prolifération de publications alarmistes mais contestées, un consortium international de 30 chercheurs définit un cadre méthodologique strict pour certifier la présence réelle de polymères d...",
-      "url": "https://www.latribune.fr/article/climat/agriculture-agroalimentaire/15102332997605/pollution-aux-microplastiques-un-protocole-de-scene-de-crime-pour-fiabiliser-la-recherche",
-      "source": "La Tribune.fr",
-      "publishedAt": "2026-01-27T22:12:12Z",
       "category": "ai",
       "hasVideo": false
     }
