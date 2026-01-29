@@ -388,8 +388,8 @@ section h2 {
 
 .tools-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
-    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 1.2rem;
     margin-top: 1.6rem;
     justify-items: center;
 }
@@ -401,34 +401,47 @@ section h2 {
 .tool-item {
     background: #fff;
     border: 1px solid #e2e6ee;
-    border-radius: 10px;
-    padding: 0.7rem 0.6rem;
+    border-radius: 12px;
+    padding: 1rem 0.8rem;
     text-align: center;
     box-shadow: 0 6px 14px rgba(15, 23, 42, 0.08);
+    transition: all 0.3s ease;
+    width: 100%;
+}
+
+.tool-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(15, 23, 42, 0.12);
+    border-color: var(--secondary-color);
 }
 
 .tool-icon {
-    height: 44px;
+    height: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 0.4rem;
+    margin-bottom: 0.5rem;
 }
 
 .tool-icon img {
-    max-height: 38px;
-    max-width: 68px;
+    max-height: 52px;
+    max-width: 90px;
     width: auto;
+    object-fit: contain;
 }
 
 .tool-icon-text {
     font-weight: 700;
-    font-size: 0.82rem;
+    font-size: 0.9rem;
     color: var(--primary-color);
     background: #f1f5fb;
     border: 1px solid #dbe3f2;
     border-radius: 8px;
-    padding: 0.25rem 0.45rem;
+    padding: 0.4rem 0.6rem;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .tool-label {
