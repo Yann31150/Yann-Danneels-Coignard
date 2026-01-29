@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="styles.css?v=20260129">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -707,8 +708,9 @@
             `;
             document.head.appendChild(style);
             
+            // Configuration pour format paysage A4 (297mm x 210mm)
             const opt = {
-                margin: [15, 15, 15, 15],
+                margin: [10, 10, 10, 10],
                 filename: 'guide-cybersecurite-2026.pdf',
                 image: { type: 'jpeg', quality: 0.98 },
                 html2canvas: { 
@@ -722,8 +724,7 @@
                 },
                 jsPDF: { 
                     unit: 'mm', 
-                    format: 'a4', 
-                    orientation: 'landscape',
+                    format: [297, 210],  // A4 paysage : largeur 297mm x hauteur 210mm (format explicite)
                     compress: true
                 },
                 pagebreak: { 
@@ -734,8 +735,19 @@
                 }
             };
 
-            // Générer et télécharger le PDF
-            html2pdf().set(opt).from(element).save().then(() => {
+            // Générer et télécharger le PDF en format paysage
+            // Utiliser html2pdf avec configuration paysage explicite
+            html2pdf()
+                .set(opt)
+                .from(element)
+                .set({
+                    jsPDF: {
+                        format: [297, 210],  // Forcer paysage A4
+                        unit: 'mm'
+                    }
+                })
+                .save()
+                .then(() => {
                 buttons.forEach(btn => {
                     btn.innerHTML = '<i class="fas fa-check"></i> PDF Téléchargé !';
                     setTimeout(() => {
