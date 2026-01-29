@@ -673,8 +673,8 @@
                 <div class="last-update" id="lastUpdate">
                     <i class="fas fa-sync-alt"></i> Dernière mise à jour : Chargement...
                 </div>
-                <div class="articles-count" id="articlesCount">
-                    <i class="fas fa-newspaper"></i> <span id="countNumber">0</span> article(s) aujourd'hui
+                <div class="articles-count" id="articlesCount" style="display: none;">
+                    <i class="fas fa-newspaper"></i> <span id="countNumber">0</span> articles aujourd'hui
                 </div>
             </div>
 
@@ -783,8 +783,15 @@
                 return articleDate.getTime() === today.getTime();
             });
             
-            // Afficher le compteur
-            document.getElementById('countNumber').textContent = articlesToday.length;
+            // Afficher le compteur seulement s'il y a des articles aujourd'hui
+            const articlesCountElement = document.getElementById('articlesCount');
+            if (articlesToday.length > 0) {
+                const countText = articlesToday.length === 1 ? 'article' : 'articles';
+                articlesCountElement.innerHTML = `<i class="fas fa-newspaper"></i> <span id="countNumber">${articlesToday.length}</span> ${countText} aujourd'hui`;
+                articlesCountElement.style.display = 'flex';
+            } else {
+                articlesCountElement.style.display = 'none';
+            }
             
             // Créer le Top 3 (les 3 premiers articles, ou les plus récents)
             const top3Articles = articles.slice(0, 3);
