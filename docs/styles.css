@@ -711,6 +711,11 @@ footer {
     margin-bottom: 0.75rem;
     font-size: 0.95rem;
     opacity: 0.9;
+    display: none; /* Masqué par défaut */
+}
+
+.visitor-count.show {
+    display: block; /* Affiché uniquement si la classe 'show' est ajoutée */
 }
 
 .social-links {
