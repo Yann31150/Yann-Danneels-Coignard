@@ -1,0 +1,33 @@
+# Fichiers de configuration avec secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+config.json
+secrets.json
+credentials.json
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
