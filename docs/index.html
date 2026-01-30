@@ -15,7 +15,7 @@
     <meta name="twitter:title" content="Yann Danneels-Coignard - Data Analyst" />
     <meta name="twitter:description" content="Disponible pour alternance Data Analyst dès septembre 2026. SQL, Power BI, Python." />
     <meta name="twitter:image" content="https://www.yanndanneelscoignard.fr/og-image.svg" />
-    <link rel="stylesheet" href="styles.css?v=20260130">
+    <link rel="stylesheet" href="styles.css?v=20260131">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
     #sfcby3p5fjtaqxerydkmydp11cxm65p92kf {
@@ -131,10 +131,76 @@
       border-radius: 16px 16px 0 0;
       background: transparent;
     }
-    @media (max-width: 500px) {
+    @media (max-width: 768px) {
+      .about-intro-inline {
+        padding: 0 15px;
+        margin: 1.5rem auto;
+      }
+      
+      .about-intro-inline h3 {
+        font-size: 1.4rem;
+        margin-bottom: 1rem;
+      }
+      
+      .about-intro-content {
+        font-size: 0.95rem;
+      }
+      
+      .about-intro-content p {
+        margin-bottom: 1rem;
+      }
+    }
+    
+    @media (max-width: 768px) {
+      .chatbot-fab {
+        width: 50px;
+        height: 50px;
+        bottom: 20px;
+        right: 20px;
+        font-size: 1.5rem;
+      }
+      
       .chatbot-iframe-container {
-        width: 95vw;
-        right: 2.5vw;
+        width: calc(100vw - 40px);
+        max-width: 400px;
+        right: 20px;
+        bottom: 80px;
+      }
+      
+      .chatbot-iframe-container.open {
+        height: 500px;
+      }
+    }
+    
+    @media (max-width: 500px) {
+      .chatbot-fab {
+        width: 48px;
+        height: 48px;
+        bottom: 15px;
+        right: 15px;
+        font-size: 1.4rem;
+      }
+      
+      .chatbot-iframe-container {
+        width: calc(100vw - 30px);
+        right: 15px;
+        bottom: 70px;
+      }
+      
+      .chatbot-iframe-container.open {
+        height: 450px;
+      }
+      
+      .about-intro-inline {
+        padding: 0 10px;
+      }
+      
+      .about-intro-inline h3 {
+        font-size: 1.2rem;
+      }
+      
+      .about-intro-content {
+        font-size: 0.9rem;
       }
     }
     /* Apparition douce des sections */

@@ -15,7 +15,7 @@
     <meta name="twitter:title" content="À propos - Yann Danneels-Coignard" />
     <meta name="twitter:description" content="Parcours professionnel, compétences et passions." />
     <meta name="twitter:image" content="https://www.yanndanneelscoignard.fr/og-image.svg" />
-    <link rel="stylesheet" href="styles.css?v=20260127c">
+    <link rel="stylesheet" href="styles.css?v=20260131">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
         /* Menu burger styles */
@@ -304,7 +304,40 @@
             color: var(--text-color);
         }
         
+        @media (max-width: 1024px) {
+            .timeline-container {
+                padding: 0 15px;
+            }
+            
+            .timeline-title {
+                font-size: 2rem;
+            }
+            
+            .timeline-content {
+                padding: 1.5rem;
+            }
+        }
+        
         @media (max-width: 768px) {
+            .timeline-section {
+                padding: 40px 0;
+            }
+            
+            .timeline-container {
+                padding: 0 10px;
+            }
+            
+            .timeline-title {
+                font-size: 1.75rem;
+                margin-bottom: 2rem;
+            }
+            
+            .timeline-intro {
+                font-size: 1rem;
+                padding: 0 10px;
+                margin-bottom: 2rem;
+            }
+            
             .timeline::before {
                 left: 30px;
             }
@@ -313,6 +346,7 @@
                 padding-left: 70px !important;
                 padding-right: 0 !important;
                 text-align: left !important;
+                margin-bottom: 2.5rem;
             }
             
             .timeline-item::after,
@@ -324,16 +358,199 @@
             .timeline-content {
                 border-left: 4px solid var(--secondary-color) !important;
                 border-right: none !important;
+                padding: 1.25rem;
             }
             
-            .timeline-title {
-                font-size: 2rem;
+            .timeline-title-item {
+                font-size: 1.25rem;
+            }
+            
+            .timeline-subtitle {
+                font-size: 1rem;
+            }
+            
+            .timeline-description {
+                font-size: 0.95rem;
+                line-height: 1.6;
+            }
+            
+            .timeline-year {
+                font-size: 0.95rem;
+                padding: 0.4rem 1rem;
+            }
+            
+            .timeline-skills {
+                gap: 0.4rem;
+            }
+            
+            .timeline-skill {
+                font-size: 0.8rem;
+                padding: 0.3rem 0.8rem;
             }
             
             .section-nav {
                 top: 60px;
+                padding: 0.75rem 0;
+                position: sticky;
             }
             
+            .section-nav ul {
+                gap: 0.75rem;
+                padding: 0 10px;
+                flex-wrap: wrap;
+            }
+            
+            .section-nav a {
+                font-size: 0.85rem;
+                padding: 0.4rem 0.75rem;
+                white-space: nowrap;
+            }
+            
+            .about-section,
+            .timeline-section {
+                scroll-margin-top: 120px;
+            }
+            
+            /* Sections compétences et passions */
+            .about-section {
+                padding: 40px 0;
+            }
+            
+            .about-section h2 {
+                font-size: 1.75rem;
+                margin-bottom: 1.5rem;
+            }
+            
+            .about-section h3 {
+                font-size: 1.25rem;
+            }
+            
+            .skills-grid {
+                grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+                gap: 1rem;
+            }
+            
+            .skill-card {
+                padding: 1.5rem;
+            }
+            
+            .competence-list {
+                padding-left: 1.5rem;
+            }
+            
+            .competence-list li {
+                margin-bottom: 0.75rem;
+                font-size: 0.95rem;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .timeline-section {
+                padding: 30px 0;
+            }
+            
+            .timeline-container {
+                padding: 0 8px;
+            }
+            
+            .timeline-title {
+                font-size: 1.5rem;
+                margin-bottom: 1.5rem;
+            }
+            
+            .timeline::before {
+                left: 20px;
+            }
+            
+            .timeline-item {
+                padding-left: 55px !important;
+                margin-bottom: 2rem;
+            }
+            
+            .timeline-item::after,
+            .timeline-icon {
+                left: 20px !important;
+            }
+            
+            .timeline-content {
+                padding: 1rem;
+            }
+            
+            .timeline-title-item {
+                font-size: 1.1rem;
+            }
+            
+            .timeline-subtitle {
+                font-size: 0.95rem;
+            }
+            
+            .timeline-description {
+                font-size: 0.9rem;
+            }
+            
+            .timeline-year {
+                font-size: 0.85rem;
+                padding: 0.35rem 0.85rem;
+            }
+            
+            .timeline-skill {
+                font-size: 0.75rem;
+                padding: 0.25rem 0.65rem;
+            }
+            
+            .section-nav {
+                top: 60px;
+                padding: 0.5rem 0;
+            }
+            
+            .section-nav ul {
+                flex-direction: row;
+                gap: 0.5rem;
+                padding: 0 8px;
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+                scrollbar-width: none;
+            }
+            
+            .section-nav ul::-webkit-scrollbar {
+                display: none;
+            }
+            
+            .section-nav a {
+                font-size: 0.8rem;
+                padding: 0.35rem 0.65rem;
+                white-space: nowrap;
+                flex-shrink: 0;
+            }
+            
+            .about-section {
+                padding: 30px 0;
+            }
+            
+            .about-section h2 {
+                font-size: 1.5rem;
+            }
+            
+            .about-section h3 {
+                font-size: 1.1rem;
+            }
+            
+            .skills-grid {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+            
+            .skill-card {
+                padding: 1.25rem;
+            }
+            
+            .competence-list {
+                padding-left: 1.25rem;
+            }
+            
+            .competence-list li {
+                font-size: 0.9rem;
+            }
         }
         
         .fade-in {

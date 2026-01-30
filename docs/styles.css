@@ -24,6 +24,8 @@ body {
     color: var(--text-color);
     background-color: #f7f8fb;
     position: relative;
+    overflow-x: hidden; /* Empêche le scroll horizontal */
+    width: 100%;
 }
 
 body::before {
@@ -65,6 +67,31 @@ nav {
     display: flex;
     align-items: center;
     gap: 0.2rem;
+}
+
+@media (max-width: 768px) {
+    nav {
+        padding: 0.75rem 1rem;
+    }
+    
+    .logo {
+        font-size: 1.4rem;
+    }
+}
+
+@media (max-width: 480px) {
+    nav {
+        padding: 0.5rem 0.75rem;
+    }
+    
+    .logo {
+        font-size: 1.2rem;
+    }
+    
+    .logo-initial {
+        padding: 0.2rem 0.4rem;
+        font-size: 0.9rem;
+    }
 }
 
 .logo-initial {
@@ -734,21 +761,391 @@ footer {
 }
 
 /* Responsive Design */
+@media (max-width: 1024px) {
+    .container {
+        padding: 0 15px;
+    }
+    
+    .hero-content {
+        padding: 1.5rem 2rem;
+    }
+    
+    .hero-content h1 {
+        font-size: 3rem;
+    }
+    
+    .hero-content h2 {
+        font-size: 2.5rem;
+    }
+    
+    .hero-subtitle {
+        font-size: 1.8rem;
+    }
+    
+    section {
+        padding: 3rem 0;
+    }
+    
+    section h2 {
+        font-size: 2rem;
+        margin-bottom: 2rem;
+    }
+}
+
 @media (max-width: 768px) {
     .nav-links {
         display: none;
     }
     
-    .about-content,
-    .contact-content {
-        grid-template-columns: 1fr;
+    .container {
+        padding: 0 15px;
+    }
+    
+    /* Images responsive */
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    /* Empêche le débordement horizontal */
+    * {
+        max-width: 100%;
+    }
+    
+    /* Exceptions pour les éléments qui doivent pouvoir dépasser */
+    .hero-content,
+    .container,
+    .timeline-container {
+        max-width: 100%;
+    }
+    
+    /* Hero responsive */
+    .hero {
+        height: auto;
+        min-height: 100vh;
+        padding: 80px 0 40px;
+    }
+    
+    .hero-content {
+        padding: 1.5rem 1.25rem;
+        margin: 0 10px;
+        width: calc(100% - 20px);
+        max-width: 100%;
     }
     
     .hero-content h1 {
-        font-size: 2.5rem;
+        font-size: 2rem;
+        margin-bottom: 0.75rem;
+        line-height: 1.2;
     }
     
     .hero-content h2 {
         font-size: 1.5rem;
+        margin-bottom: 1.5rem;
+        line-height: 1.3;
+    }
+    
+    .hero-subtitle {
+        font-size: 1.2rem;
+        margin-bottom: 1.5rem;
+        line-height: 1.4;
+    }
+    
+    .hero-availability {
+        font-size: 0.9rem;
+        margin-top: 1rem;
+        padding: 0 10px;
+        line-height: 1.5;
+    }
+    
+    /* Sections responsive */
+    section {
+        padding: 2.5rem 0;
+    }
+    
+    section h2 {
+        font-size: 1.75rem;
+        margin-bottom: 1.5rem;
+        padding: 0 15px;
+        line-height: 1.3;
+    }
+    
+    /* About intro inline */
+    .about-intro-inline {
+        padding: 0 10px;
+        margin: 1.5rem auto;
+    }
+    
+    .about-intro-inline h3 {
+        font-size: 1.4rem;
+        margin-bottom: 1rem;
+    }
+    
+    .about-intro-content {
+        font-size: 0.95rem;
+        line-height: 1.6;
+    }
+    
+    .about-intro-content p {
+        margin-bottom: 1rem;
+    }
+    
+    /* Job focus */
+    .job-focus {
+        padding: 2rem 0;
+    }
+    
+    .job-highlight {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .job-highlight > div {
+        padding: 1.5rem;
+    }
+    
+    .job-cta {
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+    
+    .job-cta .cta-button {
+        width: 100%;
+        text-align: center;
+        margin-top: 0;
+    }
+    
+    /* Grilles responsive */
+    .about-content,
+    .contact-content {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    /* Tools grid */
+    .tools-grid {
+        grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
+        gap: 1rem;
+    }
+    
+    /* Projects grid */
+    .projects-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .project-card {
+        padding: 1.5rem;
+    }
+    
+    .project-details {
+        margin: 1.25rem 0;
+    }
+    
+    .project-details h4 {
+        font-size: 1.1rem;
+    }
+    
+    /* Footer */
+    footer {
+        padding: 1.5rem 0;
+    }
+    
+    .social-links a {
+        font-size: 1.2rem;
+        margin: 0 0.5rem;
+    }
+    
+    /* Databridge section */
+    .databridge-content {
+        padding: 2rem 0;
+    }
+    
+    .databridge-lead {
+        font-size: 1rem;
+        padding: 0 15px;
+    }
+    
+    .databridge-hero h1 {
+        font-size: 2rem;
+    }
+    
+    .databridge-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    /* Contact form */
+    .contact-form-modern {
+        padding: 1.5rem;
+    }
+    
+    .contact-form input,
+    .contact-form textarea {
+        font-size: 16px; /* Évite le zoom sur iOS */
+        width: 100%;
+        box-sizing: border-box;
+    }
+    
+    /* Tableaux responsive */
+    table {
+        width: 100%;
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+    
+    /* Skills grid */
+    .skills-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    /* Empêche le zoom sur les inputs iOS */
+    input[type="text"],
+    input[type="email"],
+    input[type="tel"],
+    textarea,
+    select {
+        font-size: 16px !important;
+    }
+    
+    .hero {
+        padding: 70px 0 30px;
+    }
+    
+    .hero-content {
+        padding: 1.25rem 1rem;
+        margin: 0 8px;
+        width: calc(100% - 16px);
+    }
+    
+    .hero-content h1 {
+        font-size: 1.75rem;
+        line-height: 1.2;
+    }
+    
+    .hero-content h2 {
+        font-size: 1.25rem;
+        line-height: 1.3;
+    }
+    
+    .hero-subtitle {
+        font-size: 1rem;
+        line-height: 1.4;
+    }
+    
+    .hero-availability {
+        font-size: 0.85rem;
+        line-height: 1.5;
+    }
+    
+    section {
+        padding: 2rem 0;
+    }
+    
+    section h2 {
+        font-size: 1.5rem;
+        line-height: 1.3;
+        padding: 0 10px;
+    }
+    
+    .about-intro-inline {
+        padding: 0 8px;
+        margin: 1.25rem auto;
+    }
+    
+    .about-intro-inline h3 {
+        font-size: 1.2rem;
+    }
+    
+    .about-intro-content {
+        font-size: 0.9rem;
+        line-height: 1.6;
+    }
+    
+    .cta-button {
+        padding: 0.875rem 1.25rem;
+        font-size: 0.9rem;
+        width: 100%;
+    }
+    
+    .container {
+        padding: 0 10px;
+    }
+    
+    .tools-grid {
+        grid-template-columns: repeat(auto-fit, minmax(75px, 1fr));
+        gap: 0.75rem;
+    }
+    
+    .tool-item {
+        padding: 0.75rem 0.5rem;
+    }
+    
+    .tool-icon {
+        height: 50px;
+    }
+    
+    .tool-icon img {
+        max-height: 45px;
+        max-width: 80px;
+    }
+    
+    .project-card {
+        padding: 1.25rem;
+    }
+    
+    .project-details h4 {
+        font-size: 1rem;
+    }
+    
+    .project-details p,
+    .project-details li {
+        font-size: 0.9rem;
+        line-height: 1.6;
+    }
+    
+    .databridge-lead {
+        font-size: 0.95rem;
+        padding: 0 10px;
+    }
+    
+    .databridge-hero h1 {
+        font-size: 1.75rem;
+    }
+    
+    .databridge-card {
+        padding: 1.25rem;
+    }
+    
+    .job-highlight > div {
+        padding: 1.25rem;
+    }
+    
+    .pill {
+        font-size: 0.85rem;
+        padding: 0.35rem 0.7rem;
+    }
+    
+    footer {
+        padding: 1.25rem 0;
+    }
+    
+    .social-links a {
+        font-size: 1.1rem;
+        margin: 0 0.4rem;
+    }
+    
+    .contact-form input,
+    .contact-form textarea {
+        padding: 0.875rem;
+        font-size: 16px; /* Évite le zoom sur iOS */
+    }
+    
+    .contact-form textarea {
+        height: 120px;
     }
 } 
