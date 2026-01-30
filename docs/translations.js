@@ -80,7 +80,8 @@ const translations = {
             article2Title: "5 erreurs à éviter en visualisation",
             article2Desc: "Les pièges courants et comment les éviter.",
             article3Title: "SQL vs Excel : quand utiliser quoi ?",
-            article3Desc: "Comparaison et guide de choix selon vos besoins."
+            article3Desc: "Comparaison et guide de choix selon vos besoins.",
+            comingSoon: "Bientôt disponible"
         },
         // Page projets
         projects: {
@@ -394,7 +395,8 @@ const translations = {
             article2Title: "5 Mistakes to Avoid in Visualization",
             article2Desc: "Common pitfalls and how to avoid them.",
             article3Title: "SQL vs Excel: When to Use What?",
-            article3Desc: "Comparison and selection guide based on your needs."
+            article3Desc: "Comparison and selection guide based on your needs.",
+            comingSoon: "Coming soon"
         },
         // Page projets
         projects: {
