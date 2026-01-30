@@ -908,6 +908,14 @@
                 return;
             }
 
+            // Trier les articles par date (les plus récents en premier)
+            // Les articles du jour apparaîtront automatiquement en premier
+            articles.sort((a, b) => {
+                const dateA = new Date(a.publishedAt || 0);
+                const dateB = new Date(b.publishedAt || 0);
+                return dateB - dateA; // Ordre décroissant (plus récent en premier)
+            });
+
             // Compter les articles du jour
             const today = new Date();
             today.setHours(0, 0, 0, 0);
@@ -927,7 +935,7 @@
                 articlesCountElement.style.display = 'none';
             }
             
-            // Créer le Top 3 (les 3 premiers articles, ou les plus récents)
+            // Créer le Top 3 (les 3 premiers articles après tri, donc les plus récents)
             const top3Articles = articles.slice(0, 3);
             if (top3Articles.length > 0) {
                 displayTop3(top3Articles);
