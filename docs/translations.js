@@ -652,6 +652,7 @@ function applyTranslations(lang) {
     // Traduire les éléments avec data-translate
     document.querySelectorAll('[data-translate]').forEach(element => {
         const key = element.getAttribute('data-translate');
+        const allowHTML = element.hasAttribute('data-translate-html');
         const keys = key.split('.');
         let value = t;
         
@@ -665,7 +666,12 @@ function applyTranslations(lang) {
             } else if (element.tagName === 'INPUT' || element.tagName === 'TEXTAREA') {
                 element.placeholder = value;
             } else {
-                element.textContent = value;
+                // Utiliser innerHTML si le texte contient des balises HTML, sinon textContent
+                if (value.includes('<') && value.includes('>')) {
+                    element.innerHTML = value;
+                } else {
+                    element.textContent = value;
+                }
             }
         }
     });
