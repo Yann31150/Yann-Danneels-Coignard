@@ -6,82 +6,83 @@
     <title>Débuter avec Power BI - Guide Gratuit</title>
     <meta name="description" content="Guide pratique pour créer vos premiers tableaux de bord avec Power BI. Téléchargement gratuit." />
     <link rel="stylesheet" href="styles.css?v=20260131">
+    <link rel="stylesheet" href="guide-article-styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
-        body {
-            background: #fff;
-            padding: 2rem;
-            max-width: 900px;
-            margin: 0 auto;
-            font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        .burger {
+            display: none;
+            flex-direction: column;
+            cursor: pointer;
+            margin-left: 1rem;
         }
-        .guide-header {
-            text-align: center;
-            margin-bottom: 3rem;
-            padding-bottom: 2rem;
-            border-bottom: 3px solid var(--secondary-color);
+        .burger span {
+            height: 3px;
+            width: 25px;
+            background: #2166c2;
+            margin: 4px 0;
+            border-radius: 2px;
+            transition: 0.3s;
         }
-        .guide-header h1 {
-            color: var(--primary-color);
-            font-size: 2.5rem;
-            margin-bottom: 1rem;
-        }
-        .section {
-            background: #f8f9fa;
-            padding: 2rem;
-            margin-bottom: 2rem;
-            border-radius: 12px;
-            border-left: 4px solid var(--secondary-color);
-        }
-        .section h2 {
-            color: var(--primary-color);
-            font-size: 1.5rem;
-            margin-bottom: 1rem;
-        }
-        .section h3 {
-            color: var(--secondary-color);
-            font-size: 1.2rem;
-            margin-top: 1.5rem;
-            margin-bottom: 0.75rem;
-        }
-        .section ul, .section ol {
-            padding-left: 1.5rem;
-            line-height: 1.8;
-        }
-        .section li {
-            margin-bottom: 0.5rem;
-        }
-        .download-section {
-            text-align: center;
-            margin-top: 3rem;
-            padding: 2rem;
-            background: linear-gradient(135deg, rgba(52, 152, 219, 0.1), rgba(52, 152, 219, 0.05));
-            border-radius: 12px;
-        }
-        .download-btn {
-            display: inline-block;
-            padding: 1rem 2rem;
-            background: var(--secondary-color);
-            color: white;
-            text-decoration: none;
-            border-radius: 8px;
-            font-weight: 600;
-            margin-top: 1rem;
-        }
-        @media print {
-            body { padding: 0; }
-            .download-section { display: none; }
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+                position: absolute;
+                top: 60px;
+                left: 0;
+                width: 100%;
+                background: #fff;
+                flex-direction: column;
+                box-shadow: 0 2px 8px rgba(44,62,80,0.08);
+                z-index: 999;
+            }
+            .nav-links.open {
+                display: flex;
+            }
+            .burger {
+                display: flex;
+            }
+            nav {
+                position: relative;
+            }
         }
     </style>
 </head>
 <body>
-    <div class="guide-header">
-        <h1>Débuter avec Power BI</h1>
-        <p>Guide pratique pour créer vos premiers tableaux de bord</p>
-        <p><strong>Par Yann Danneels-Coignard - Data Analyst</strong></p>
-    </div>
+    <header>
+        <nav>
+            <div class="logo">
+                <span class="logo-initial">Y</span>
+                <span class="logo-initial">D</span>
+                <span class="logo-initial">C</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="actualites-tech.html">Actualités Tech</a></li>
+                <li><a href="apropos.html">À propos</a></li>
+                <li><a href="outils.html">Outils</a></li>
+                <li><a href="projets.html">Projets</a></li>
+                <li><a href="cv.html">Mon CV</a></li>
+                <li><a href="databridge.html">Databridge</a></li>
+                <li><a href="cybersecurite.html">Cybersécurité</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <div class="burger" id="burger-menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
 
-    <div class="section">
-        <h2>1. Qu'est-ce que Power BI ?</h2>
+    <div class="guide-container">
+        <div class="guide-header">
+            <h1>Débuter avec Power BI</h1>
+            <p class="subtitle">Guide pratique pour créer vos premiers tableaux de bord</p>
+            <p class="author"><i class="fas fa-user"></i> Par Yann Danneels-Coignard - Data Analyst</p>
+        </div>
+
+        <div class="section">
+            <h2><span class="section-number">1</span> Qu'est-ce que Power BI ?</h2>
         <p>Power BI est un outil de visualisation de données développé par Microsoft qui permet de créer des tableaux de bord interactifs et des rapports à partir de vos données.</p>
         <h3>Avantages :</h3>
         <ul>
@@ -92,8 +93,8 @@
         </ul>
     </div>
 
-    <div class="section">
-        <h2>2. Installation de Power BI Desktop</h2>
+        <div class="section">
+            <h2><span class="section-number">2</span> Installation de Power BI Desktop</h2>
         <h3>Étape 1 : Téléchargement</h3>
         <ol>
             <li>Allez sur <strong>powerbi.microsoft.com</strong></li>
@@ -110,8 +111,8 @@
         </ul>
     </div>
 
-    <div class="section">
-        <h2>3. Importer vos premières données</h2>
+        <div class="section">
+            <h2><span class="section-number">3</span> Importer vos premières données</h2>
         <h3>Depuis Excel :</h3>
         <ol>
             <li>Cliquez sur "Obtenir des données"</li>
@@ -129,8 +130,8 @@
         </ol>
     </div>
 
-    <div class="section">
-        <h2>4. Créer votre premier graphique</h2>
+        <div class="section">
+            <h2><span class="section-number">4</span> Créer votre premier graphique</h2>
         <h3>Étape par étape :</h3>
         <ol>
             <li><strong>Sélectionnez un type de visualisation</strong> dans le volet "Visualisations" (ex: Graphique en colonnes)</li>
@@ -147,8 +148,8 @@
         </ul>
     </div>
 
-    <div class="section">
-        <h2>5. Personnaliser vos visualisations</h2>
+        <div class="section">
+            <h2><span class="section-number">5</span> Personnaliser vos visualisations</h2>
         <h3>Formatage :</h3>
         <ul>
             <li>Cliquez sur votre graphique pour le sélectionner</li>
@@ -163,8 +164,8 @@
         </ul>
     </div>
 
-    <div class="section">
-        <h2>6. Créer des mesures avec DAX</h2>
+        <div class="section">
+            <h2><span class="section-number">6</span> Créer des mesures avec DAX</h2>
         <p>DAX (Data Analysis Expressions) est le langage de Power BI pour créer des calculs.</p>
         <h3>Mesures de base :</h3>
         <ul>
@@ -181,8 +182,8 @@
         </ol>
     </div>
 
-    <div class="section">
-        <h2>7. Créer un tableau de bord complet</h2>
+        <div class="section">
+            <h2><span class="section-number">7</span> Créer un tableau de bord complet</h2>
         <h3>Structure recommandée :</h3>
         <ol>
             <li><strong>Titre en haut</strong> : Nom de votre tableau de bord</li>
@@ -199,8 +200,8 @@
         </ul>
     </div>
 
-    <div class="section">
-        <h2>8. Publier et partager</h2>
+        <div class="section">
+            <h2><span class="section-number">8</span> Publier et partager</h2>
         <h3>Option 1 : Power BI Service (gratuit)</h3>
         <ol>
             <li>Créez un compte gratuit sur powerbi.microsoft.com</li>
@@ -215,8 +216,8 @@
         </ul>
     </div>
 
-    <div class="section">
-        <h2>9. Ressources pour aller plus loin</h2>
+        <div class="section">
+            <h2><span class="section-number">9</span> Ressources pour aller plus loin</h2>
         <ul>
             <li><strong>Documentation officielle</strong> : docs.microsoft.com/power-bi</li>
             <li><strong>Vidéos YouTube</strong> : Recherchez "Power BI tutorial français"</li>
@@ -225,11 +226,25 @@
         </ul>
     </div>
 
-    <div class="download-section">
-        <p><strong>Besoin d'aide pour créer votre tableau de bord ?</strong></p>
-        <p>Je peux vous accompagner dans la création de vos visualisations Power BI.</p>
-        <a href="contact.html" class="download-btn">Me contacter</a>
-        <p style="margin-top: 1rem;"><a href="index.html">← Retour à l'accueil</a></p>
+        <div class="download-section">
+            <p style="font-size: 1.2rem; margin-bottom: 0.5rem;"><strong>Besoin d'aide pour créer votre tableau de bord ?</strong></p>
+            <p style="color: #666; margin-bottom: 1.5rem;">Je peux vous accompagner dans la création de vos visualisations Power BI.</p>
+            <a href="contact.html" class="download-btn"><i class="fas fa-envelope"></i> Me contacter</a>
+            <p style="margin-top: 2rem;"><a href="index.html" style="color: var(--secondary-color); text-decoration: none;"><i class="fas fa-arrow-left"></i> Retour à l'accueil</a></p>
+        </div>
     </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const burger = document.getElementById('burger-menu');
+      const navLinks = document.querySelector('.nav-links');
+      if (burger && navLinks) {
+        burger.addEventListener('click', () => {
+          navLinks.classList.toggle('open');
+          burger.classList.toggle('active');
+        });
+      }
+    });
+    </script>
 </body>
 </html>

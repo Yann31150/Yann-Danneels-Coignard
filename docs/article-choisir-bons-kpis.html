@@ -6,76 +6,83 @@
     <title>Comment choisir les bons KPIs - Article Data</title>
     <meta name="description" content="Guide pratique pour identifier les KPIs pertinents pour votre entreprise. Conseils d'un Data Analyst." />
     <link rel="stylesheet" href="styles.css?v=20260131">
+    <link rel="stylesheet" href="guide-article-styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
-        body {
-            background: #fff;
-            padding: 2rem;
-            max-width: 900px;
-            margin: 0 auto;
-            font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        .burger {
+            display: none;
+            flex-direction: column;
+            cursor: pointer;
+            margin-left: 1rem;
         }
-        .article-header {
-            text-align: center;
-            margin-bottom: 3rem;
-            padding-bottom: 2rem;
-            border-bottom: 2px solid #e0e0e0;
+        .burger span {
+            height: 3px;
+            width: 25px;
+            background: #2166c2;
+            margin: 4px 0;
+            border-radius: 2px;
+            transition: 0.3s;
         }
-        .article-header h1 {
-            color: var(--primary-color);
-            font-size: 2.5rem;
-            margin-bottom: 1rem;
-        }
-        .article-meta {
-            color: #666;
-            font-size: 0.95rem;
-        }
-        .article-content {
-            line-height: 1.8;
-            font-size: 1.05rem;
-        }
-        .article-content h2 {
-            color: var(--primary-color);
-            font-size: 1.8rem;
-            margin-top: 2.5rem;
-            margin-bottom: 1rem;
-        }
-        .article-content h3 {
-            color: var(--secondary-color);
-            font-size: 1.3rem;
-            margin-top: 1.5rem;
-            margin-bottom: 0.75rem;
-        }
-        .article-content ul, .article-content ol {
-            padding-left: 1.5rem;
-            margin: 1rem 0;
-        }
-        .article-content li {
-            margin-bottom: 0.75rem;
-        }
-        .highlight-box {
-            background: #e3f2fd;
-            border-left: 4px solid var(--secondary-color);
-            padding: 1.5rem;
-            margin: 2rem 0;
-            border-radius: 8px;
-        }
-        .back-link {
-            text-align: center;
-            margin-top: 3rem;
-            padding-top: 2rem;
-            border-top: 2px solid #e0e0e0;
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+                position: absolute;
+                top: 60px;
+                left: 0;
+                width: 100%;
+                background: #fff;
+                flex-direction: column;
+                box-shadow: 0 2px 8px rgba(44,62,80,0.08);
+                z-index: 999;
+            }
+            .nav-links.open {
+                display: flex;
+            }
+            .burger {
+                display: flex;
+            }
+            nav {
+                position: relative;
+            }
         }
     </style>
 </head>
 <body>
-    <div class="article-header">
-        <h1>Comment choisir les bons KPIs</h1>
-        <div class="article-meta">
-            <p>Par Yann Danneels-Coignard - Data Analyst | Publié le 29 janvier 2026</p>
-        </div>
-    </div>
+    <header>
+        <nav>
+            <div class="logo">
+                <span class="logo-initial">Y</span>
+                <span class="logo-initial">D</span>
+                <span class="logo-initial">C</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="actualites-tech.html">Actualités Tech</a></li>
+                <li><a href="apropos.html">À propos</a></li>
+                <li><a href="outils.html">Outils</a></li>
+                <li><a href="projets.html">Projets</a></li>
+                <li><a href="cv.html">Mon CV</a></li>
+                <li><a href="databridge.html">Databridge</a></li>
+                <li><a href="cybersecurite.html">Cybersécurité</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <div class="burger" id="burger-menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
 
-    <div class="article-content">
+    <div class="article-container">
+        <div class="article-header">
+            <h1>Comment choisir les bons KPIs</h1>
+            <div class="article-meta">
+                <p><i class="fas fa-user"></i> Par Yann Danneels-Coignard - Data Analyst | <i class="fas fa-calendar"></i> Publié le 29 janvier 2026</p>
+            </div>
+        </div>
+
+        <div class="article-content">
         <p>Choisir les bons KPIs (Indicateurs Clés de Performance) est crucial pour piloter efficacement votre entreprise. Trop de KPIs et vous vous noyez dans les données. Pas assez et vous naviguez à l'aveugle. Voici comment faire les bons choix.</p>
 
         <h2>1. Alignez les KPIs avec vos objectifs stratégiques</h2>
@@ -146,8 +153,22 @@
         </div>
     </div>
 
-    <div class="back-link">
-        <p><a href="index.html">← Retour à l'accueil</a> | <a href="index.html#resources-section">Voir toutes les ressources</a></p>
+        <div class="back-link">
+            <p><a href="index.html"><i class="fas fa-arrow-left"></i> Retour à l'accueil</a> | <a href="index.html#resources-section"><i class="fas fa-book"></i> Voir toutes les ressources</a></p>
+        </div>
     </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const burger = document.getElementById('burger-menu');
+      const navLinks = document.querySelector('.nav-links');
+      if (burger && navLinks) {
+        burger.addEventListener('click', () => {
+          navLinks.classList.toggle('open');
+          burger.classList.toggle('active');
+        });
+      }
+    });
+    </script>
 </body>
 </html>

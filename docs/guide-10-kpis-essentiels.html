@@ -6,86 +6,228 @@
     <title>10 KPIs Essentiels pour votre Entreprise - Guide Gratuit</title>
     <meta name="description" content="Guide complet pour identifier et suivre les 10 KPIs les plus importants pour votre entreprise. Téléchargement gratuit." />
     <link rel="stylesheet" href="styles.css?v=20260131">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
         body {
-            background: #fff;
-            padding: 2rem;
-            max-width: 900px;
+            background-color: #f7f8fb;
+            position: relative;
+            padding-top: 80px;
+        }
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            background: url('https://www.yanndanneelscoignard.fr/fondecran.png?v=20260127c') center/cover no-repeat;
+            z-index: -1;
+            opacity: 0.3;
+        }
+        .guide-container {
+            max-width: 1000px;
             margin: 0 auto;
-            font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding: 3rem 2rem;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.1);
+            margin-bottom: 3rem;
         }
         .guide-header {
             text-align: center;
-            margin-bottom: 3rem;
-            padding-bottom: 2rem;
+            margin-bottom: 4rem;
+            padding-bottom: 2.5rem;
             border-bottom: 3px solid var(--secondary-color);
+            position: relative;
+        }
+        .guide-header::after {
+            content: '';
+            position: absolute;
+            bottom: -3px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100px;
+            height: 3px;
+            background: linear-gradient(90deg, var(--secondary-color), var(--accent-color));
         }
         .guide-header h1 {
             color: var(--primary-color);
-            font-size: 2.5rem;
+            font-size: 2.8rem;
             margin-bottom: 1rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
         }
-        .guide-header p {
+        .guide-header .subtitle {
             color: #666;
-            font-size: 1.1rem;
+            font-size: 1.2rem;
+            margin-bottom: 0.5rem;
+        }
+        .guide-header .author {
+            color: var(--secondary-color);
+            font-weight: 600;
+            font-size: 1rem;
         }
         .kpi-item {
-            background: #f8f9fa;
-            padding: 2rem;
-            margin-bottom: 2rem;
-            border-radius: 12px;
-            border-left: 4px solid var(--secondary-color);
+            background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+            padding: 2.5rem;
+            margin-bottom: 2.5rem;
+            border-radius: 16px;
+            border-left: 5px solid var(--secondary-color);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        .kpi-item::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 5px;
+            height: 100%;
+            background: linear-gradient(180deg, var(--secondary-color), var(--accent-color));
+        }
+        .kpi-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
         }
         .kpi-item h2 {
             color: var(--primary-color);
-            font-size: 1.5rem;
+            font-size: 1.6rem;
             margin-bottom: 1rem;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+        .kpi-number {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg, var(--secondary-color), var(--accent-color));
+            color: white;
+            border-radius: 50%;
+            font-weight: 800;
+            font-size: 1.2rem;
+            flex-shrink: 0;
         }
         .kpi-item h3 {
             color: var(--secondary-color);
-            font-size: 1.2rem;
+            font-size: 1.25rem;
             margin-top: 1.5rem;
             margin-bottom: 0.75rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        .kpi-item h3::before {
+            content: '▸';
+            color: var(--accent-color);
+            font-size: 1rem;
         }
         .kpi-item ul {
             padding-left: 1.5rem;
-            line-height: 1.8;
+            line-height: 1.9;
         }
         .kpi-item li {
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.75rem;
+            position: relative;
+        }
+        .kpi-item li::marker {
+            color: var(--secondary-color);
+            font-weight: bold;
+        }
+        .kpi-item strong {
+            color: var(--primary-color);
         }
         .download-section {
             text-align: center;
-            margin-top: 3rem;
-            padding: 2rem;
-            background: linear-gradient(135deg, rgba(52, 152, 219, 0.1), rgba(52, 152, 219, 0.05));
-            border-radius: 12px;
+            margin-top: 4rem;
+            padding: 3rem 2rem;
+            background: linear-gradient(135deg, rgba(52, 152, 219, 0.1), rgba(231, 76, 60, 0.1));
+            border-radius: 16px;
+            border: 2px solid rgba(52, 152, 219, 0.2);
         }
         .download-btn {
             display: inline-block;
-            padding: 1rem 2rem;
-            background: var(--secondary-color);
+            padding: 1rem 2.5rem;
+            background: linear-gradient(135deg, var(--secondary-color), var(--accent-color));
             color: white;
             text-decoration: none;
-            border-radius: 8px;
+            border-radius: 10px;
             font-weight: 600;
             margin-top: 1rem;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(52, 152, 219, 0.3);
+        }
+        .download-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(52, 152, 219, 0.4);
+        }
+        @media (max-width: 768px) {
+            .guide-container {
+                padding: 2rem 1.5rem;
+                margin: 1rem;
+                border-radius: 16px;
+            }
+            .guide-header h1 {
+                font-size: 2rem;
+            }
+            .kpi-item {
+                padding: 1.5rem;
+            }
+            .kpi-item h2 {
+                font-size: 1.3rem;
+            }
         }
         @media print {
-            body { padding: 0; }
+            body { padding: 0; background: white; }
             .download-section { display: none; }
+            header { display: none; }
+            .guide-container { box-shadow: none; }
         }
     </style>
 </head>
 <body>
-    <div class="guide-header">
-        <h1>10 KPIs Essentiels pour votre Entreprise</h1>
-        <p>Guide pratique pour identifier et suivre les indicateurs clés de performance</p>
-        <p><strong>Par Yann Danneels-Coignard - Data Analyst</strong></p>
-    </div>
+    <header>
+        <nav>
+            <div class="logo">
+                <span class="logo-initial">Y</span>
+                <span class="logo-initial">D</span>
+                <span class="logo-initial">C</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="actualites-tech.html">Actualités Tech</a></li>
+                <li><a href="apropos.html">À propos</a></li>
+                <li><a href="outils.html">Outils</a></li>
+                <li><a href="projets.html">Projets</a></li>
+                <li><a href="cv.html">Mon CV</a></li>
+                <li><a href="databridge.html">Databridge</a></li>
+                <li><a href="cybersecurite.html">Cybersécurité</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <div class="burger" id="burger-menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
 
-    <div class="kpi-item">
-        <h2>1. Chiffre d'Affaires (CA)</h2>
+    <div class="guide-container">
+        <div class="guide-header">
+            <h1>10 KPIs Essentiels pour votre Entreprise</h1>
+            <p class="subtitle">Guide pratique pour identifier et suivre les indicateurs clés de performance</p>
+            <p class="author"><i class="fas fa-user"></i> Par Yann Danneels-Coignard - Data Analyst</p>
+        </div>
+
+        <div class="kpi-item">
+            <h2><span class="kpi-number">1</span> Chiffre d'Affaires (CA)</h2>
         <p><strong>Pourquoi c'est important :</strong> Le CA mesure la performance commerciale globale de votre entreprise. C'est l'indicateur principal de votre activité.</p>
         <h3>Comment le calculer :</h3>
         <ul>
@@ -97,8 +239,8 @@
         <p>Augmenter le CA de manière constante tout en maintenant la rentabilité.</p>
     </div>
 
-    <div class="kpi-item">
-        <h2>2. Marge Brute</h2>
+        <div class="kpi-item">
+            <h2><span class="kpi-number">2</span> Marge Brute</h2>
         <p><strong>Pourquoi c'est important :</strong> La marge brute indique votre capacité à générer des profits sur vos ventes avant les frais fixes.</p>
         <h3>Comment le calculer :</h3>
         <ul>
@@ -110,8 +252,8 @@
         <p>Optimiser vos coûts pour améliorer la marge tout en restant compétitif.</p>
     </div>
 
-    <div class="kpi-item">
-        <h2>3. Taux de Conversion</h2>
+        <div class="kpi-item">
+            <h2><span class="kpi-number">3</span> Taux de Conversion</h2>
         <p><strong>Pourquoi c'est important :</strong> Mesure l'efficacité de votre processus commercial et marketing.</p>
         <h3>Comment le calculer :</h3>
         <ul>
@@ -123,8 +265,8 @@
         <p>Transformer plus de prospects en clients avec les mêmes ressources.</p>
     </div>
 
-    <div class="kpi-item">
-        <h2>4. Coût d'Acquisition Client (CAC)</h2>
+        <div class="kpi-item">
+            <h2><span class="kpi-number">4</span> Coût d'Acquisition Client (CAC)</h2>
         <p><strong>Pourquoi c'est important :</strong> Indique combien vous dépensez pour acquérir un nouveau client.</p>
         <h3>Comment le calculer :</h3>
         <ul>
@@ -136,8 +278,8 @@
         <p>Optimiser vos dépenses marketing pour réduire le CAC tout en maintenant la croissance.</p>
     </div>
 
-    <div class="kpi-item">
-        <h2>5. Taux de Rétention Client</h2>
+        <div class="kpi-item">
+            <h2><span class="kpi-number">5</span> Taux de Rétention Client</h2>
         <p><strong>Pourquoi c'est important :</strong> Mesure la fidélité de vos clients et la qualité de votre service.</p>
         <h3>Comment le calculer :</h3>
         <ul>
@@ -149,8 +291,8 @@
         <p>Fidéliser vos clients existants, plus rentables que d'en acquérir de nouveaux.</p>
     </div>
 
-    <div class="kpi-item">
-        <h2>6. Délai de Paiement Moyen</h2>
+        <div class="kpi-item">
+            <h2><span class="kpi-number">6</span> Délai de Paiement Moyen</h2>
         <p><strong>Pourquoi c'est important :</strong> Impacte directement votre trésorerie et votre capacité d'investissement.</p>
         <h3>Comment le calculer :</h3>
         <ul>
@@ -162,8 +304,8 @@
         <p>Améliorer votre trésorerie en réduisant les délais de paiement.</p>
     </div>
 
-    <div class="kpi-item">
-        <h2>7. Productivité par Employé</h2>
+        <div class="kpi-item">
+            <h2><span class="kpi-number">7</span> Productivité par Employé</h2>
         <p><strong>Pourquoi c'est important :</strong> Mesure l'efficacité de vos ressources humaines.</p>
         <h3>Comment le calculer :</h3>
         <ul>
@@ -175,8 +317,8 @@
         <p>Optimiser l'efficacité de vos équipes pour améliorer la rentabilité.</p>
     </div>
 
-    <div class="kpi-item">
-        <h2>8. Taux de Rotation des Stocks</h2>
+        <div class="kpi-item">
+            <h2><span class="kpi-number">8</span> Taux de Rotation des Stocks</h2>
         <p><strong>Pourquoi c'est important :</strong> Indique si vos stocks sont optimisés ou si vous avez trop de capital immobilisé.</p>
         <h3>Comment le calculer :</h3>
         <ul>
@@ -188,8 +330,8 @@
         <p>Optimiser vos stocks pour libérer du capital tout en évitant les ruptures.</p>
     </div>
 
-    <div class="kpi-item">
-        <h2>9. Taux de Satisfaction Client (NPS)</h2>
+        <div class="kpi-item">
+            <h2><span class="kpi-number">9</span> Taux de Satisfaction Client (NPS)</h2>
         <p><strong>Pourquoi c'est important :</strong> Prédit la croissance future et la fidélité de vos clients.</p>
         <h3>Comment le calculer :</h3>
         <ul>
@@ -201,8 +343,8 @@
         <p>Améliorer continuellement l'expérience client pour augmenter le NPS.</p>
     </div>
 
-    <div class="kpi-item">
-        <h2>10. Retour sur Investissement (ROI)</h2>
+        <div class="kpi-item">
+            <h2><span class="kpi-number">10</span> Retour sur Investissement (ROI)</h2>
         <p><strong>Pourquoi c'est important :</strong> Mesure la rentabilité de vos investissements et décisions stratégiques.</p>
         <h3>Comment le calculer :</h3>
         <ul>
@@ -226,11 +368,25 @@
         </ul>
     </div>
 
-    <div class="download-section">
-        <p><strong>Besoin d'aide pour mettre en place ces KPIs ?</strong></p>
-        <p>Contactez-moi pour créer un tableau de bord personnalisé pour votre entreprise.</p>
-        <a href="contact.html" class="download-btn">Me contacter</a>
-        <p style="margin-top: 1rem;"><a href="index.html">← Retour à l'accueil</a></p>
+        <div class="download-section">
+            <p style="font-size: 1.2rem; margin-bottom: 0.5rem;"><strong>Besoin d'aide pour mettre en place ces KPIs ?</strong></p>
+            <p style="color: #666; margin-bottom: 1.5rem;">Contactez-moi pour créer un tableau de bord personnalisé pour votre entreprise.</p>
+            <a href="contact.html" class="download-btn"><i class="fas fa-envelope"></i> Me contacter</a>
+            <p style="margin-top: 2rem;"><a href="index.html" style="color: var(--secondary-color); text-decoration: none;"><i class="fas fa-arrow-left"></i> Retour à l'accueil</a></p>
+        </div>
     </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const burger = document.getElementById('burger-menu');
+      const navLinks = document.querySelector('.nav-links');
+      if (burger && navLinks) {
+        burger.addEventListener('click', () => {
+          navLinks.classList.toggle('open');
+          burger.classList.toggle('active');
+        });
+      }
+    });
+    </script>
 </body>
 </html>

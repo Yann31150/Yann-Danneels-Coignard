@@ -6,96 +6,83 @@
     <title>SQL pour Débutants - Guide Gratuit</title>
     <meta name="description" content="Apprenez les bases du SQL avec des exemples pratiques. Guide gratuit pour débutants." />
     <link rel="stylesheet" href="styles.css?v=20260131">
+    <link rel="stylesheet" href="guide-article-styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
-        body {
-            background: #fff;
-            padding: 2rem;
-            max-width: 900px;
-            margin: 0 auto;
-            font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        .burger {
+            display: none;
+            flex-direction: column;
+            cursor: pointer;
+            margin-left: 1rem;
         }
-        .guide-header {
-            text-align: center;
-            margin-bottom: 3rem;
-            padding-bottom: 2rem;
-            border-bottom: 3px solid var(--secondary-color);
+        .burger span {
+            height: 3px;
+            width: 25px;
+            background: #2166c2;
+            margin: 4px 0;
+            border-radius: 2px;
+            transition: 0.3s;
         }
-        .guide-header h1 {
-            color: var(--primary-color);
-            font-size: 2.5rem;
-            margin-bottom: 1rem;
-        }
-        .section {
-            background: #f8f9fa;
-            padding: 2rem;
-            margin-bottom: 2rem;
-            border-radius: 12px;
-            border-left: 4px solid var(--secondary-color);
-        }
-        .section h2 {
-            color: var(--primary-color);
-            font-size: 1.5rem;
-            margin-bottom: 1rem;
-        }
-        .section h3 {
-            color: var(--secondary-color);
-            font-size: 1.2rem;
-            margin-top: 1.5rem;
-            margin-bottom: 0.75rem;
-        }
-        .code-block {
-            background: #2c3e50;
-            color: #ecf0f1;
-            padding: 1.5rem;
-            border-radius: 8px;
-            overflow-x: auto;
-            margin: 1rem 0;
-            font-family: 'Courier New', monospace;
-            font-size: 0.95rem;
-            line-height: 1.6;
-        }
-        .code-block code {
-            color: #ecf0f1;
-        }
-        .section ul, .section ol {
-            padding-left: 1.5rem;
-            line-height: 1.8;
-        }
-        .section li {
-            margin-bottom: 0.5rem;
-        }
-        .download-section {
-            text-align: center;
-            margin-top: 3rem;
-            padding: 2rem;
-            background: linear-gradient(135deg, rgba(52, 152, 219, 0.1), rgba(52, 152, 219, 0.05));
-            border-radius: 12px;
-        }
-        .download-btn {
-            display: inline-block;
-            padding: 1rem 2rem;
-            background: var(--secondary-color);
-            color: white;
-            text-decoration: none;
-            border-radius: 8px;
-            font-weight: 600;
-            margin-top: 1rem;
-        }
-        @media print {
-            body { padding: 0; }
-            .download-section { display: none; }
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+                position: absolute;
+                top: 60px;
+                left: 0;
+                width: 100%;
+                background: #fff;
+                flex-direction: column;
+                box-shadow: 0 2px 8px rgba(44,62,80,0.08);
+                z-index: 999;
+            }
+            .nav-links.open {
+                display: flex;
+            }
+            .burger {
+                display: flex;
+            }
+            nav {
+                position: relative;
+            }
         }
     </style>
 </head>
 <body>
-    <div class="guide-header">
-        <h1>SQL pour Débutants</h1>
-        <p>Apprenez les bases du SQL avec des exemples pratiques</p>
-        <p><strong>Par Yann Danneels-Coignard - Data Analyst</strong></p>
-    </div>
+    <header>
+        <nav>
+            <div class="logo">
+                <span class="logo-initial">Y</span>
+                <span class="logo-initial">D</span>
+                <span class="logo-initial">C</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="actualites-tech.html">Actualités Tech</a></li>
+                <li><a href="apropos.html">À propos</a></li>
+                <li><a href="outils.html">Outils</a></li>
+                <li><a href="projets.html">Projets</a></li>
+                <li><a href="cv.html">Mon CV</a></li>
+                <li><a href="databridge.html">Databridge</a></li>
+                <li><a href="cybersecurite.html">Cybersécurité</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <div class="burger" id="burger-menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
 
-    <div class="section">
-        <h2>1. Qu'est-ce que SQL ?</h2>
+    <div class="guide-container">
+        <div class="guide-header">
+            <h1>SQL pour Débutants</h1>
+            <p class="subtitle">Apprenez les bases du SQL avec des exemples pratiques</p>
+            <p class="author"><i class="fas fa-user"></i> Par Yann Danneels-Coignard - Data Analyst</p>
+        </div>
+
+        <div class="section">
+            <h2><span class="section-number">1</span> Qu'est-ce que SQL ?</h2>
         <p>SQL (Structured Query Language) est un langage de programmation utilisé pour gérer et manipuler des bases de données relationnelles.</p>
         <h3>À quoi ça sert ?</h3>
         <ul>
@@ -106,8 +93,8 @@
         </ul>
     </div>
 
-    <div class="section">
-        <h2>2. Concepts de base</h2>
+        <div class="section">
+            <h2><span class="section-number">2</span> Concepts de base</h2>
         <h3>Base de données (Database)</h3>
         <p>Conteneur qui regroupe toutes vos données.</p>
         <h3>Table</h3>
@@ -118,8 +105,8 @@
         <p>Représente une entrée complète dans la table.</p>
     </div>
 
-    <div class="section">
-        <h2>3. La commande SELECT</h2>
+        <div class="section">
+            <h2><span class="section-number">3</span> La commande SELECT</h2>
         <p>SELECT est la commande la plus utilisée pour récupérer des données.</p>
         <h3>Syntaxe de base :</h3>
         <div class="code-block">
@@ -142,8 +129,8 @@ FROM clients;</code>
         </div>
     </div>
 
-    <div class="section">
-        <h2>4. Filtrer avec WHERE</h2>
+        <div class="section">
+            <h2><span class="section-number">4</span> Filtrer avec WHERE</h2>
         <p>WHERE permet de filtrer les résultats selon des conditions.</p>
         <h3>Exemples :</h3>
         <div class="code-block">
@@ -169,8 +156,8 @@ WHERE categorie = 'Électronique' OR prix < 50;</code>
         </div>
     </div>
 
-    <div class="section">
-        <h2>5. Trier avec ORDER BY</h2>
+        <div class="section">
+            <h2><span class="section-number">5</span> Trier avec ORDER BY</h2>
         <p>ORDER BY permet de trier les résultats.</p>
         <div class="code-block">
 <code>-- Trier par montant croissant
@@ -190,8 +177,8 @@ ORDER BY ville ASC, nom ASC;</code>
         </div>
     </div>
 
-    <div class="section">
-        <h2>6. Agrégations : COUNT, SUM, AVG</h2>
+        <div class="section">
+            <h2><span class="section-number">6</span> Agrégations : COUNT, SUM, AVG</h2>
         <p>Les fonctions d'agrégation permettent de calculer des statistiques.</p>
         <div class="code-block">
 <code>-- Compter le nombre de clients
@@ -213,8 +200,8 @@ FROM commandes;</code>
         </div>
     </div>
 
-    <div class="section">
-        <h2>7. GROUP BY : Grouper les données</h2>
+        <div class="section">
+            <h2><span class="section-number">7</span> GROUP BY : Grouper les données</h2>
         <p>GROUP BY permet de regrouper les données et calculer des statistiques par groupe.</p>
         <div class="code-block">
 <code>-- Ventes par ville
@@ -234,8 +221,8 @@ GROUP BY categorie;</code>
         </div>
     </div>
 
-    <div class="section">
-        <h2>8. JOIN : Joindre des tables</h2>
+        <div class="section">
+            <h2><span class="section-number">8</span> JOIN : Joindre des tables</h2>
         <p>JOIN permet de combiner des données de plusieurs tables.</p>
         <h3>Types de JOIN :</h3>
         <ul>
@@ -256,8 +243,8 @@ LEFT JOIN commandes co ON c.id = co.client_id;</code>
         </div>
     </div>
 
-    <div class="section">
-        <h2>9. HAVING : Filtrer les groupes</h2>
+        <div class="section">
+            <h2><span class="section-number">9</span> HAVING : Filtrer les groupes</h2>
         <p>HAVING permet de filtrer les résultats après GROUP BY.</p>
         <div class="code-block">
 <code>-- Villes avec plus de 10 clients
@@ -274,8 +261,8 @@ HAVING SUM(montant) > 1000;</code>
         </div>
     </div>
 
-    <div class="section">
-        <h2>10. Requêtes complexes : Exemple complet</h2>
+        <div class="section">
+            <h2><span class="section-number">10</span> Requêtes complexes : Exemple complet</h2>
         <div class="code-block">
 <code>-- Top 5 des clients par chiffre d'affaires
 SELECT 
@@ -293,8 +280,8 @@ LIMIT 5;</code>
         </div>
     </div>
 
-    <div class="section">
-        <h2>11. Outils pour pratiquer</h2>
+        <div class="section">
+            <h2><span class="section-number">11</span> Outils pour pratiquer</h2>
         <h3>Gratuits :</h3>
         <ul>
             <li><strong>SQLite</strong> : Base de données légère, facile à installer</li>
@@ -310,11 +297,25 @@ LIMIT 5;</code>
         </ul>
     </div>
 
-    <div class="download-section">
-        <p><strong>Besoin d'aide pour vos requêtes SQL ?</strong></p>
-        <p>Je peux vous aider à créer des requêtes SQL pour analyser vos données.</p>
-        <a href="contact.html" class="download-btn">Me contacter</a>
-        <p style="margin-top: 1rem;"><a href="index.html">← Retour à l'accueil</a></p>
+        <div class="download-section">
+            <p style="font-size: 1.2rem; margin-bottom: 0.5rem;"><strong>Besoin d'aide pour vos requêtes SQL ?</strong></p>
+            <p style="color: #666; margin-bottom: 1.5rem;">Je peux vous aider à créer des requêtes SQL pour analyser vos données.</p>
+            <a href="contact.html" class="download-btn"><i class="fas fa-envelope"></i> Me contacter</a>
+            <p style="margin-top: 2rem;"><a href="index.html" style="color: var(--secondary-color); text-decoration: none;"><i class="fas fa-arrow-left"></i> Retour à l'accueil</a></p>
+        </div>
     </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const burger = document.getElementById('burger-menu');
+      const navLinks = document.querySelector('.nav-links');
+      if (burger && navLinks) {
+        burger.addEventListener('click', () => {
+          navLinks.classList.toggle('open');
+          burger.classList.toggle('active');
+        });
+      }
+    });
+    </script>
 </body>
 </html>
