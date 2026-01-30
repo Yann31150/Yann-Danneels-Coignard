@@ -261,7 +261,7 @@ const translations = {
             year2: "2010 - 2020",
             step2Title: "Expertise et Spécialisation",
             step2Subtitle: "Analyste Senior & Gestion de Risques",
-            step2Desc: "Développement d'une expertise approfondie en analyse financière, gestion des risques et financements complexes.<br><br>Analyse juridique de dossiers de successions jusqu'en 2024, validation AMF.",
+            step2Desc: "Développement d'une expertise approfondie en analyse financière, gestion des risques et financements complexes.<br><br>Analyse juridique de dossiers de successions jusqu'en 2020, validation AMF.",
             step2Skill1: "Gestion de risques",
             step2Skill2: "Financements syndiqués",
             step2Skill3: "Analyse juridique",
