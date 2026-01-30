@@ -408,6 +408,21 @@ section h2 {
     display: flex;
     justify-content: center;
     margin-top: 1.5rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+@media (max-width: 768px) {
+    .databridge-cta {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .databridge-cta .cta-button {
+        width: 100%;
+        max-width: 300px;
+        margin-left: 0 !important;
+    }
 }
 
 .databridge-section {
@@ -457,6 +472,103 @@ section h2 {
     font-size: 1.2rem;
     max-width: 900px;
     margin: 0 auto;
+}
+
+/* PDF Viewer Section */
+.pdf-viewer-container {
+    background: var(--white);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    margin: 2rem 0;
+}
+
+.pdf-viewer-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.pdf-viewer-header p {
+    margin: 0;
+    color: var(--text-color);
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.pdf-viewer-header i {
+    color: var(--accent-color);
+    margin-right: 0.5rem;
+}
+
+.pdf-viewer-wrapper {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%; /* Ratio 16:9 */
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    background: #f5f5f5;
+}
+
+.pdf-viewer-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.pdf-viewer-fallback {
+    margin-top: 1rem;
+    text-align: center;
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.pdf-viewer-fallback a {
+    color: var(--secondary-color);
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .pdf-viewer-container {
+        padding: 1rem;
+    }
+    
+    .pdf-viewer-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .pdf-viewer-header .cta-button {
+        width: 100%;
+        text-align: center;
+    }
+    
+    .pdf-viewer-wrapper {
+        padding-bottom: 75%; /* Plus haut sur mobile */
+    }
+}
+
+@media (max-width: 480px) {
+    .pdf-viewer-container {
+        padding: 0.75rem;
+    }
+    
+    .pdf-viewer-header p {
+        font-size: 0.9rem;
+    }
+    
+    .pdf-viewer-wrapper {
+        padding-bottom: 100%; /* Encore plus haut sur très petits écrans */
+    }
 }
 
 /* Outils */
