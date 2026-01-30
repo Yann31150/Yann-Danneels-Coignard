@@ -5,13 +5,172 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>2026-01-29T00:00:00+00:00</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 08:23:00 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <!-- Les articles seront générés dynamiquement par le script Python -->
+        <item>
+            <title>[5/21] - Transformers expliqué : L&amp;#39;IA qui lit TOUT en même temps | 2024</title>
+            <link>https://www.youtube.com/watch?v=6SgwGw6Cxn8</link>
+            <description><![CDATA[Quand ChatGPT traite votre texte, il ne lit pas mot par mot comme vous. Il regarde TOUT simultanément grâce aux Transformers, ...]]></description>
+            <pubDate>Sat, 13 Dec 2025 15:00:19 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=6SgwGw6Cxn8</guid>
+            <source>Deep Learner, One Step at a Time</source>
+        </item>
+        <item>
+            <title>22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)</title>
+            <link>https://www.youtube.com/watch?v=p0D5zWVTkUU</link>
+            <description><![CDATA[Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...]]></description>
+            <pubDate>Thu, 08 Jan 2026 19:12:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=p0D5zWVTkUU</guid>
+            <source>Ludo Salenne</source>
+        </item>
+        <item>
+            <title>L’IA de Google vient de DÉTRUIRE le règne de ChatGPT</title>
+            <link>https://www.youtube.com/watch?v=lh8QAo4oXFw</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/48pg0VS Rejoins ma communauté ...]]></description>
+            <pubDate>Sun, 07 Dec 2025 16:01:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=lh8QAo4oXFw</guid>
+            <source>Yassine Sdiri</source>
+        </item>
+        <item>
+            <title>[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning</title>
+            <link>https://www.youtube.com/watch?v=DnyIUzoKGsQ</link>
+            <description><![CDATA[Paradoxe du deep learning : plus on ajoute de couches, plus le réseau devient... stupide. Jusqu'à ce qu'une idée géniale change ...]]></description>
+            <pubDate>Sat, 13 Dec 2025 15:00:30 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=DnyIUzoKGsQ</guid>
+            <source>Deep Learner, One Step at a Time</source>
+        </item>
+        <item>
+            <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
+            <link>https://www.youtube.com/watch?v=N0gTIxg9l2A</link>
+            <description><![CDATA[Plus de 15 outils IA, 15 abonnements, des onglets partout... ChatGPT, Gemini, Perplexity, Gamma... C'était le gros bordel alors ...]]></description>
+            <pubDate>Sat, 17 Jan 2026 17:49:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=N0gTIxg9l2A</guid>
+            <source>Ludo Salenne</source>
+        </item>
+        <item>
+            <title>Entre intelligence artificielle et recyclage avancé, les matériaux de demain s’affirment dès aujourd’hui</title>
+            <link>https://www.usinenouvelle.com/polymeres-materiaux/entre-intelligence-artificielle-et-recyclage-avance-les-materiaux-de-demain-saffirment-des-aujourdhui.YQKZVAMYC5BHHNDTWZTNSVXOAM.html</link>
+            <description><![CDATA[Dans le contexte des transitions écologique et énergétique, les enjeux autour de la découverte et la production de nouveaux matériaux sont cruciaux. De l’intelligence artificielle générative au recycl...]]></description>
+            <pubDate>Wed, 28 Jan 2026 17:54:56 -0000</pubDate>
+            <guid isPermaLink="true">https://www.usinenouvelle.com/polymeres-materiaux/entre-intelligence-artificielle-et-recyclage-avance-les-materiaux-de-demain-saffirment-des-aujourdhui.YQKZVAMYC5BHHNDTWZTNSVXOAM.html</guid>
+            <source>L'Usine Nouvelle</source>
+        </item>
+        <item>
+            <title>Power BI Tutorial : Star Schema &amp;amp; Relations | Modélisation de Données (Partie 4/8)</title>
+            <link>https://www.youtube.com/watch?v=LvDJvz48M9E</link>
+            <description><![CDATA[Apprenez à créer un Star Schema professionnel dans Power BI et à modéliser vos données comme un expert. Dans ce tutoriel ...]]></description>
+            <pubDate>Wed, 21 Jan 2026 08:00:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=LvDJvz48M9E</guid>
+            <source>Ngroup Media & Digital</source>
+        </item>
+        <item>
+            <title>Détection des anomalies – Isolation Forest et Local Outlier Factor</title>
+            <link>https://www.youtube.com/watch?v=qCaA6vGDRUw</link>
+            <description><![CDATA[Machine Learning. Data Science. La problématique de la détection des anomalies en machine learning, applicable par exemple ...]]></description>
+            <pubDate>Thu, 15 Jan 2026 09:21:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=qCaA6vGDRUw</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Règles d’association avec KNIME</title>
+            <link>https://www.youtube.com/watch?v=I-L2k_lzopQ</link>
+            <description><![CDATA[Machine learning. Data Mining. Data Science. Extraction des règles d'association à partir de données tabulaires avec le ...]]></description>
+            <pubDate>Wed, 21 Jan 2026 10:01:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=I-L2k_lzopQ</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>De fausses policières créées par intelligence artificielle attirent les internautes vers des contenus pornographiques</title>
+            <link>https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/de-fausses-policieres-creees-par-intelligence-artificielle-attirent-les-internautes-vers-des-contenus-pornographiques_7742575.html</link>
+            <description><![CDATA[Les réseaux sociaux sont envahis d'images créées par intelligence artificielle. Ces dernières semaines, des vidéos de fausses policières générées par IA sont apparues et orientent les internautes vers...]]></description>
+            <pubDate>Thu, 29 Jan 2026 07:08:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/de-fausses-policieres-creees-par-intelligence-artificielle-attirent-les-internautes-vers-des-contenus-pornographiques_7742575.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
+            <title>Maîtriser Power Query : Automatisez votre nettoyage de données sur Excel et Power BI</title>
+            <link>https://www.youtube.com/watch?v=Q-mQB9OAp50</link>
+            <description><![CDATA[Cette formation complète vous présente Power Query, l'outil incontournable d'Excel et Power BI pour automatiser la préparation ...]]></description>
+            <pubDate>Fri, 16 Jan 2026 11:01:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Q-mQB9OAp50</guid>
+            <source>Cabinet Smart Otobos Consulting</source>
+        </item>
+        <item>
+            <title>Free Data Science &amp;amp; Data Analyst Certifications &amp;amp; Projects for Beginners</title>
+            <link>https://www.youtube.com/watch?v=83vJcVT_Mtg</link>
+            <description><![CDATA[In this video, I share the best free Data Science and Data Analyst courses that include real projects and certifications.]]></description>
+            <pubDate>Thu, 18 Dec 2025 03:53:53 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=83vJcVT_Mtg</guid>
+            <source>PySolanki</source>
+        </item>
+        <item>
+            <title>Data Science Course FREE | Intellipaat</title>
+            <link>https://www.youtube.com/watch?v=ZHGIOxGMD1w</link>
+            <description><![CDATA[This Data Science Course FREE video is your complete learning companion. We begin with a clear Data Science Roadmap, ...]]></description>
+            <pubDate>Wed, 10 Dec 2025 11:46:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ZHGIOxGMD1w</guid>
+            <source>Intellipaat</source>
+        </item>
+        <item>
+            <title>Introduction | SQL - EP1</title>
+            <link>https://www.youtube.com/watch?v=0AJ_fS6kLgg</link>
+            <description><![CDATA[Soutenir EvoluNoob grâce au financement participatif : https://liberapay.com/EvoluNoob Bienvenue dans ce cours SQL en ...]]></description>
+            <pubDate>Fri, 19 Dec 2025 19:00:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=0AJ_fS6kLgg</guid>
+            <source>EvoluNoob</source>
+        </item>
+        <item>
+            <title>Formation SQL partie 5 : SQL GROUP BY — Comprendre enfin simplement</title>
+            <link>https://www.youtube.com/watch?v=hGbgeWMD4Dc</link>
+            <description><![CDATA[Dans cette partie 5 de la formation SQL pour débutants, nous découvrons la commande GROUP BY. Tu apprendras à regrouper ...]]></description>
+            <pubDate>Wed, 24 Dec 2025 21:22:41 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=hGbgeWMD4Dc</guid>
+            <source>MedData -Tech</source>
+        </item>
+        <item>
+            <title>Data Science Course (FREE) | Intellipaat</title>
+            <link>https://www.youtube.com/watch?v=0z0DjJpo0Fs</link>
+            <description><![CDATA[Step into the world of Data Science with this complete Data Science Full Course 2025, designed for beginners as well as ...]]></description>
+            <pubDate>Wed, 31 Dec 2025 18:19:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=0z0DjJpo0Fs</guid>
+            <source>Intellipaat</source>
+        </item>
+        <item>
+            <title>Excel pour l’Analyse des Données — Cours Complet (10h) | Gratuit + Certificat (2026)</title>
+            <link>https://www.youtube.com/watch?v=saGefucxol4</link>
+            <description><![CDATA[Bienvenue dans ce cours complet et gratuit sur Microsoft Excel pour l'Analyse des Données (Version 2026) ! En 10 heures, vous ...]]></description>
+            <pubDate>Fri, 09 Jan 2026 21:03:38 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=saGefucxol4</guid>
+            <source>Oscar Aksanti</source>
+        </item>
+        <item>
+            <title>2-Data Mining :Arbres de Décision#notebooklm</title>
+            <link>https://www.youtube.com/watch?v=_Fe5ju7H5LI</link>
+            <description><![CDATA[Introduction au Data Mining Dans cette vidéo, nous expliquons les concepts fondamentaux du Data Mining, ses techniques ...]]></description>
+            <pubDate>Thu, 25 Dec 2025 00:02:20 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=_Fe5ju7H5LI</guid>
+            <source>AllAboutData</source>
+        </item>
+        <item>
+            <title>Tesla fait presque deux fois moins bien qu'attendu au quatrième trimestre 2025</title>
+            <link>https://www.latribune.fr/article/transports/automobile/1226047323305814/tesla-fait-presque-deux-fois-moins-bien-quattendu-au-quatrieme-trimestre-2025</link>
+            <description><![CDATA[Le constructeur automobile américain dirigé par le milliardaire Elon Musk a annoncé mercredi un bénéfice net en chute de 61 %, à 840 millions de dollars au quatrième trimestre 2025, dans le sillage d'...]]></description>
+            <pubDate>Thu, 29 Jan 2026 07:50:27 -0000</pubDate>
+            <guid isPermaLink="true">https://www.latribune.fr/article/transports/automobile/1226047323305814/tesla-fait-presque-deux-fois-moins-bien-quattendu-au-quatrieme-trimestre-2025</guid>
+            <source>La Tribune.fr</source>
+        </item>
+        <item>
+            <title>REDIS  BD NoSQL (Clé-Valeur) Master MP2L - M1  (Séance de tutorat 11/11/2024)</title>
+            <link>https://www.youtube.com/watch?v=gnDUGKIj6Fk</link>
+            <description><![CDATA[Séance synchrone enregistrée le 11 11 2024 entre 20h00 et 21h00 Module 6 (Partie 2) : REDIS BD NoSQL (Clé-Valeur) Cours ...]]></description>
+            <pubDate>Tue, 09 Dec 2025 09:45:30 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=gnDUGKIj6Fk</guid>
+            <source>Riadh Zaafrani</source>
+        </item>
     </channel>
 </rss>
