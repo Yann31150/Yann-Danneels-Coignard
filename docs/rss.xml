@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 30 Jan 2026 20:20:23 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 20:24:01 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)</title>
-            <link>https://www.youtube.com/watch?v=p0D5zWVTkUU</link>
-            <description><![CDATA[Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...]]></description>
-            <pubDate>Thu, 08 Jan 2026 19:12:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=p0D5zWVTkUU</guid>
-            <source>Ludo Salenne</source>
-        </item>
-        <item>
-            <title>L’IA de Google vient de DÉTRUIRE le règne de ChatGPT</title>
-            <link>https://www.youtube.com/watch?v=lh8QAo4oXFw</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/48pg0VS Rejoins ma communauté ...]]></description>
-            <pubDate>Sun, 07 Dec 2025 16:01:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=lh8QAo4oXFw</guid>
-            <source>Yassine Sdiri</source>
+            <title>[5/21] - Transformers expliqué : L&amp;#39;IA qui lit TOUT en même temps | 2024</title>
+            <link>https://www.youtube.com/watch?v=6SgwGw6Cxn8</link>
+            <description><![CDATA[Quand ChatGPT traite votre texte, il ne lit pas mot par mot comme vous. Il regarde TOUT simultanément grâce aux Transformers, ...]]></description>
+            <pubDate>Sat, 13 Dec 2025 15:00:19 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=6SgwGw6Cxn8</guid>
+            <source>Deep Learner, One Step at a Time</source>
         </item>
         <item>
             <title>[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning</title>
@@ -45,20 +37,20 @@
             <source>Ludo Salenne</source>
         </item>
         <item>
+            <title>Python Machine Learning sous Excel avec « xlwings lite »</title>
+            <link>https://www.youtube.com/watch?v=feDNuaLVDLk</link>
+            <description><![CDATA[Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...]]></description>
+            <pubDate>Mon, 22 Dec 2025 15:26:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=feDNuaLVDLk</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
             <title>Power BI Desktop Installation TUTO GRATUIT 2025</title>
             <link>https://www.youtube.com/watch?v=FOj5HTd4EAs</link>
             <description><![CDATA[BIENVENUE ! Cette vidéo est l'étape #3 de la formation Power BI Pro 2025. Vous avez choisi l'outil, maintenant on l'installe !]]></description>
             <pubDate>Tue, 30 Dec 2025 17:11:13 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=FOj5HTd4EAs</guid>
             <source>BI & Data Pro</source>
-        </item>
-        <item>
-            <title>Accès GRATUIT et ILLIMITÉ à GPT-5 , VEO3, Claude, Google Gemini dans un seul outil</title>
-            <link>https://www.youtube.com/watch?v=Y78os35EO_0</link>
-            <description><![CDATA[______   Dans Cette Video  ______   Et si tu pouvais utiliser GPT-5, Claude, VEO3, Gemini et Grok gratuitement ...]]></description>
-            <pubDate>Sat, 27 Dec 2025 19:57:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Y78os35EO_0</guid>
-            <source>Cœur Bestial</source>
         </item>
         <item>
             <title>Qu&amp;#39;est-ce que Power BI ? (Tuto Intro 2025)</title>
@@ -69,44 +61,36 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
+            <title>Comment je deviendrais analyste de données en 2026 (feuille de route complète)</title>
+            <link>https://www.youtube.com/watch?v=hGCKdMsfU7g</link>
+            <description><![CDATA[👉 MENTORAT – Prêt(e) à devenir un analyste de données d'exception ? Les candidatures pour la promotion de mars 2026 sont ...]]></description>
+            <pubDate>Fri, 02 Jan 2026 14:01:10 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=hGCKdMsfU7g</guid>
+            <source>Christine Jiang</source>
+        </item>
+        <item>
+            <title>Data Analysis with Python Full Course Tutorial</title>
+            <link>https://www.youtube.com/watch?v=bLDbzcHwxM4</link>
+            <description><![CDATA[Data Analysis with Python Full Course Tutorial Get Ad-Free Training by becoming a member today!]]></description>
+            <pubDate>Fri, 23 Jan 2026 17:30:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=bLDbzcHwxM4</guid>
+            <source>Learn Skills Daily</source>
+        </item>
+        <item>
+            <title>Top 6 YouTube Channels to Master Data Analysis 🚀 #dataanalysis #python #career</title>
+            <link>https://www.youtube.com/watch?v=5BpNnoedIlo</link>
+            <description><![CDATA[If you want to become a Data Analyst, these Top 6 YouTube channels are a good place to begin. They explain data analysis ...]]></description>
+            <pubDate>Wed, 17 Dec 2025 10:39:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=5BpNnoedIlo</guid>
+            <source>Aryu Academy </source>
+        </item>
+        <item>
             <title>Connexion entre Python (notebook) et Excel via « xlwings »</title>
             <link>https://www.youtube.com/watch?v=-ONGM2pg3tc</link>
             <description><![CDATA[Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...]]></description>
             <pubDate>Sun, 21 Dec 2025 10:20:45 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=-ONGM2pg3tc</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>Comment les Machines Comprennent le Langage Humain en 10 Secondes #aiart</title>
-            <link>https://www.youtube.com/watch?v=KT6DIPrVoYg</link>
-            <description><![CDATA[NLP : Comment les Machines Comprennent le Langage Humain en 10 Secondes Bienvenue dans cette nouvelle vidéo sur ...]]></description>
-            <pubDate>Wed, 10 Dec 2025 18:11:22 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=KT6DIPrVoYg</guid>
-            <source>INFOTIQUE</source>
-        </item>
-        <item>
-            <title>Le VRAI ordre d&amp;#39;exécution SQL #sql #datascience #français</title>
-            <link>https://www.youtube.com/watch?v=PjUGOwDQsmk</link>
-            <description><![CDATA[Le secret est ici Tu as du mal à retenir la différence entre WHERE et HAVING ? Tu ne comprends pas pourquoi tu ne peux pas ...]]></description>
-            <pubDate>Fri, 09 Jan 2026 16:54:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=PjUGOwDQsmk</guid>
-            <source>ASSA Immo</source>
-        </item>
-        <item>
-            <title>Learn Power BI FAST – Full Beginner Crash Course (1 Hour)</title>
-            <link>https://www.youtube.com/watch?v=WdCltDhmRLo</link>
-            <description><![CDATA[Learn Power BI from zero in under 1 hour. This fast Power BI crash course for beginners takes you through the full Power BI ...]]></description>
-            <pubDate>Tue, 09 Dec 2025 13:30:07 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=WdCltDhmRLo</guid>
-            <source>Data with Baraa</source>
-        </item>
-        <item>
-            <title>Maîtriser Power Query : Automatisez votre nettoyage de données sur Excel et Power BI</title>
-            <link>https://www.youtube.com/watch?v=Q-mQB9OAp50</link>
-            <description><![CDATA[Cette formation complète vous présente Power Query, l'outil incontournable d'Excel et Power BI pour automatiser la préparation ...]]></description>
-            <pubDate>Fri, 16 Jan 2026 11:01:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Q-mQB9OAp50</guid>
-            <source>Cabinet Smart Otobos Consulting</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -125,12 +109,28 @@
             <source>MedData -Tech</source>
         </item>
         <item>
+            <title>Entretien Analyste Données – Que Répondre aux 10 Questions Clés</title>
+            <link>https://www.youtube.com/watch?v=Q65w9BSeS-w</link>
+            <description><![CDATA[Entretien Analyste Données – Que Répondre aux 10 Questions Clés? Entretien Analyste Données: savoir que répondre aux ...]]></description>
+            <pubDate>Fri, 02 Jan 2026 14:59:27 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Q65w9BSeS-w</guid>
+            <source>Damal Consult Carrière TV- Français</source>
+        </item>
+        <item>
             <title>Excel pour l’Analyse des Données — Cours Complet (10h) | Gratuit + Certificat (2026)</title>
             <link>https://www.youtube.com/watch?v=saGefucxol4</link>
             <description><![CDATA[Bienvenue dans ce cours complet et gratuit sur Microsoft Excel pour l'Analyse des Données (Version 2026) ! En 10 heures, vous ...]]></description>
             <pubDate>Fri, 09 Jan 2026 21:03:38 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=saGefucxol4</guid>
             <source>Oscar Aksanti</source>
+        </item>
+        <item>
+            <title>Data Analysis Python Project | Real Time Swiggy Sales Analysis | Zero to Hero | Edition 2026</title>
+            <link>https://www.youtube.com/watch?v=RWrnqhSYUmk</link>
+            <description><![CDATA[python #dataanalysis #datascience ⭐ Power BI Complete Video Course - Basic to Advanced ...]]></description>
+            <pubDate>Mon, 19 Jan 2026 04:52:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=RWrnqhSYUmk</guid>
+            <source>Data Tutorials</source>
         </item>
         <item>
             <title>Au Mozambique, TotalEnergies relance son projet gazier controversé, trop gros pour être abandonné</title>
@@ -149,6 +149,14 @@
             <source>AllAboutData</source>
         </item>
         <item>
+            <title>Project – 14 (with Dashboard) | Salary Data Analysis | Python Coding for Data Science #python</title>
+            <link>https://www.youtube.com/watch?v=TLIotspGcng</link>
+            <description><![CDATA[Free For All Subscribers - Download All 15 Projects Source Codes + Datasets ...]]></description>
+            <pubDate>Mon, 12 Jan 2026 16:31:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=TLIotspGcng</guid>
+            <source>DATA SCIENCE LOVERS</source>
+        </item>
+        <item>
             <title>REDIS  BD NoSQL (Clé-Valeur) Master MP2L - M1  (Séance de tutorat 11/11/2024)</title>
             <link>https://www.youtube.com/watch?v=gnDUGKIj6Fk</link>
             <description><![CDATA[Séance synchrone enregistrée le 11 11 2024 entre 20h00 et 21h00 Module 6 (Partie 2) : REDIS BD NoSQL (Clé-Valeur) Cours ...]]></description>
@@ -157,22 +165,12 @@
             <source>Riadh Zaafrani</source>
         </item>
         <item>
-            <title>Power Query - Automatiser le rajout d&amp;#39;une nouvelle colonne d&amp;#39;une source de données</title>
-            <link>https://www.youtube.com/watch?v=vh8ktYfArUY</link>
-            <description><![CDATA[Bonjour, Dans cette vidéo vous allez apprendre comment automatiser l'ajout d'une nouvelle colonne d'une source de données ...]]></description>
-            <pubDate>Sat, 03 Jan 2026 11:01:44 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=vh8ktYfArUY</guid>
-            <source>Learnaccess</source>
-        </item>
-        <item>
-            <title>Comment récupérer des données à partir d'un tableau ou d'une plage dans Excel pour le Web ?</title>
-            <link>https://www.youtube.com/watch?v=w0_st7-Fw0I</link>
-            <description><![CDATA[🫶🏻 Rejoignez la chaîne pour accéder à des avantages exclusifs :
-
-https://www.youtube.com/channel/UCvD2rJJrp0aS48-KCk0eMHQ/join ...]]></description>
-            <pubDate>Thu, 08 Jan 2026 07:35:12 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=w0_st7-Fw0I</guid>
-            <source>Access Analytic</source>
+            <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
+            <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
+            <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
+            <pubDate>Fri, 09 Jan 2026 17:01:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=gcbiOQCR-O8</guid>
+            <source>WeData</source>
         </item>
     </channel>
 </rss>

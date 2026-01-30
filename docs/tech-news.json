@@ -1,29 +1,17 @@
 {
-  "lastUpdate": "2026-01-30T20:20:23.022212",
+  "lastUpdate": "2026-01-30T20:24:01.685910",
   "articles": [
     {
-      "title": "22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)",
-      "description": "Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...",
-      "url": "https://www.youtube.com/watch?v=p0D5zWVTkUU",
-      "source": "Ludo Salenne",
-      "publishedAt": "2026-01-08T19:12:40Z",
+      "title": "[5/21] - Transformers expliqué : L&#39;IA qui lit TOUT en même temps | 2024",
+      "description": "Quand ChatGPT traite votre texte, il ne lit pas mot par mot comme vous. Il regarde TOUT simultanément grâce aux Transformers, ...",
+      "url": "https://www.youtube.com/watch?v=6SgwGw6Cxn8",
+      "source": "Deep Learner, One Step at a Time",
+      "publishedAt": "2025-12-13T15:00:19Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "p0D5zWVTkUU",
-      "thumbnail": "https://i.ytimg.com/vi/p0D5zWVTkUU/hqdefault.jpg"
-    },
-    {
-      "title": "L’IA de Google vient de DÉTRUIRE le règne de ChatGPT",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/48pg0VS Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=lh8QAo4oXFw",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2025-12-07T16:01:11Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "lh8QAo4oXFw",
-      "thumbnail": "https://i.ytimg.com/vi/lh8QAo4oXFw/hqdefault.jpg"
+      "videoId": "6SgwGw6Cxn8",
+      "thumbnail": "https://i.ytimg.com/vi/6SgwGw6Cxn8/hqdefault.jpg"
     },
     {
       "title": "[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning",
@@ -50,6 +38,18 @@
       "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
     },
     {
+      "title": "Python Machine Learning sous Excel avec « xlwings lite »",
+      "description": "Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...",
+      "url": "https://www.youtube.com/watch?v=feDNuaLVDLk",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2025-12-22T15:26:03Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "feDNuaLVDLk",
+      "thumbnail": "https://i.ytimg.com/vi/feDNuaLVDLk/hqdefault.jpg"
+    },
+    {
       "title": "Power BI Desktop Installation TUTO GRATUIT 2025",
       "description": "BIENVENUE ! Cette vidéo est l'étape #3 de la formation Power BI Pro 2025. Vous avez choisi l'outil, maintenant on l'installe !",
       "url": "https://www.youtube.com/watch?v=FOj5HTd4EAs",
@@ -60,18 +60,6 @@
       "isYouTube": true,
       "videoId": "FOj5HTd4EAs",
       "thumbnail": "https://i.ytimg.com/vi/FOj5HTd4EAs/hqdefault.jpg"
-    },
-    {
-      "title": "Accès GRATUIT et ILLIMITÉ à GPT-5 , VEO3, Claude, Google Gemini dans un seul outil",
-      "description": "______   Dans Cette Video  ______   Et si tu pouvais utiliser GPT-5, Claude, VEO3, Gemini et Grok gratuitement ...",
-      "url": "https://www.youtube.com/watch?v=Y78os35EO_0",
-      "source": "Cœur Bestial",
-      "publishedAt": "2025-12-27T19:57:18Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Y78os35EO_0",
-      "thumbnail": "https://i.ytimg.com/vi/Y78os35EO_0/hqdefault.jpg"
     },
     {
       "title": "Qu&#39;est-ce que Power BI ? (Tuto Intro 2025)",
@@ -86,6 +74,42 @@
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
     },
     {
+      "title": "Comment je deviendrais analyste de données en 2026 (feuille de route complète)",
+      "description": "👉 MENTORAT – Prêt(e) à devenir un analyste de données d'exception ? Les candidatures pour la promotion de mars 2026 sont ...",
+      "url": "https://www.youtube.com/watch?v=hGCKdMsfU7g",
+      "source": "Christine Jiang",
+      "publishedAt": "2026-01-02T14:01:10Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "hGCKdMsfU7g",
+      "thumbnail": "https://i.ytimg.com/vi/hGCKdMsfU7g/hqdefault.jpg"
+    },
+    {
+      "title": "Data Analysis with Python Full Course Tutorial",
+      "description": "Data Analysis with Python Full Course Tutorial Get Ad-Free Training by becoming a member today!",
+      "url": "https://www.youtube.com/watch?v=bLDbzcHwxM4",
+      "source": "Learn Skills Daily",
+      "publishedAt": "2026-01-23T17:30:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "bLDbzcHwxM4",
+      "thumbnail": "https://i.ytimg.com/vi/bLDbzcHwxM4/hqdefault.jpg"
+    },
+    {
+      "title": "Top 6 YouTube Channels to Master Data Analysis 🚀 #dataanalysis #python #career",
+      "description": "If you want to become a Data Analyst, these Top 6 YouTube channels are a good place to begin. They explain data analysis ...",
+      "url": "https://www.youtube.com/watch?v=5BpNnoedIlo",
+      "source": "Aryu Academy ",
+      "publishedAt": "2025-12-17T10:39:16Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "5BpNnoedIlo",
+      "thumbnail": "https://i.ytimg.com/vi/5BpNnoedIlo/hqdefault.jpg"
+    },
+    {
       "title": "Connexion entre Python (notebook) et Excel via « xlwings »",
       "description": "Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...",
       "url": "https://www.youtube.com/watch?v=-ONGM2pg3tc",
@@ -96,54 +120,6 @@
       "isYouTube": true,
       "videoId": "-ONGM2pg3tc",
       "thumbnail": "https://i.ytimg.com/vi/-ONGM2pg3tc/hqdefault.jpg"
-    },
-    {
-      "title": "Comment les Machines Comprennent le Langage Humain en 10 Secondes #aiart",
-      "description": "NLP : Comment les Machines Comprennent le Langage Humain en 10 Secondes Bienvenue dans cette nouvelle vidéo sur ...",
-      "url": "https://www.youtube.com/watch?v=KT6DIPrVoYg",
-      "source": "INFOTIQUE",
-      "publishedAt": "2025-12-10T18:11:22Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "KT6DIPrVoYg",
-      "thumbnail": "https://i.ytimg.com/vi/KT6DIPrVoYg/hqdefault.jpg"
-    },
-    {
-      "title": "Le VRAI ordre d&#39;exécution SQL #sql #datascience #français",
-      "description": "Le secret est ici Tu as du mal à retenir la différence entre WHERE et HAVING ? Tu ne comprends pas pourquoi tu ne peux pas ...",
-      "url": "https://www.youtube.com/watch?v=PjUGOwDQsmk",
-      "source": "ASSA Immo",
-      "publishedAt": "2026-01-09T16:54:34Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "PjUGOwDQsmk",
-      "thumbnail": "https://i.ytimg.com/vi/PjUGOwDQsmk/hqdefault.jpg"
-    },
-    {
-      "title": "Learn Power BI FAST – Full Beginner Crash Course (1 Hour)",
-      "description": "Learn Power BI from zero in under 1 hour. This fast Power BI crash course for beginners takes you through the full Power BI ...",
-      "url": "https://www.youtube.com/watch?v=WdCltDhmRLo",
-      "source": "Data with Baraa",
-      "publishedAt": "2025-12-09T13:30:07Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "WdCltDhmRLo",
-      "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg"
-    },
-    {
-      "title": "Maîtriser Power Query : Automatisez votre nettoyage de données sur Excel et Power BI",
-      "description": "Cette formation complète vous présente Power Query, l'outil incontournable d'Excel et Power BI pour automatiser la préparation ...",
-      "url": "https://www.youtube.com/watch?v=Q-mQB9OAp50",
-      "source": "Cabinet Smart Otobos Consulting",
-      "publishedAt": "2026-01-16T11:01:06Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Q-mQB9OAp50",
-      "thumbnail": "https://i.ytimg.com/vi/Q-mQB9OAp50/hqdefault.jpg"
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -170,6 +146,18 @@
       "thumbnail": "https://i.ytimg.com/vi/hGbgeWMD4Dc/hqdefault.jpg"
     },
     {
+      "title": "Entretien Analyste Données – Que Répondre aux 10 Questions Clés",
+      "description": "Entretien Analyste Données – Que Répondre aux 10 Questions Clés? Entretien Analyste Données: savoir que répondre aux ...",
+      "url": "https://www.youtube.com/watch?v=Q65w9BSeS-w",
+      "source": "Damal Consult Carrière TV- Français",
+      "publishedAt": "2026-01-02T14:59:27Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Q65w9BSeS-w",
+      "thumbnail": "https://i.ytimg.com/vi/Q65w9BSeS-w/hqdefault_live.jpg"
+    },
+    {
       "title": "Excel pour l’Analyse des Données — Cours Complet (10h) | Gratuit + Certificat (2026)",
       "description": "Bienvenue dans ce cours complet et gratuit sur Microsoft Excel pour l'Analyse des Données (Version 2026) ! En 10 heures, vous ...",
       "url": "https://www.youtube.com/watch?v=saGefucxol4",
@@ -180,6 +168,18 @@
       "isYouTube": true,
       "videoId": "saGefucxol4",
       "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
+    },
+    {
+      "title": "Data Analysis Python Project | Real Time Swiggy Sales Analysis | Zero to Hero | Edition 2026",
+      "description": "python #dataanalysis #datascience ⭐ Power BI Complete Video Course - Basic to Advanced ...",
+      "url": "https://www.youtube.com/watch?v=RWrnqhSYUmk",
+      "source": "Data Tutorials",
+      "publishedAt": "2026-01-19T04:52:51Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "RWrnqhSYUmk",
+      "thumbnail": "https://i.ytimg.com/vi/RWrnqhSYUmk/hqdefault.jpg"
     },
     {
       "title": "Au Mozambique, TotalEnergies relance son projet gazier controversé, trop gros pour être abandonné",
@@ -206,6 +206,18 @@
       "thumbnail": "https://i.ytimg.com/vi/_Fe5ju7H5LI/hqdefault.jpg"
     },
     {
+      "title": "Project – 14 (with Dashboard) | Salary Data Analysis | Python Coding for Data Science #python",
+      "description": "Free For All Subscribers - Download All 15 Projects Source Codes + Datasets ...",
+      "url": "https://www.youtube.com/watch?v=TLIotspGcng",
+      "source": "DATA SCIENCE LOVERS",
+      "publishedAt": "2026-01-12T16:31:02Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "TLIotspGcng",
+      "thumbnail": "https://i.ytimg.com/vi/TLIotspGcng/hqdefault.jpg"
+    },
+    {
       "title": "REDIS  BD NoSQL (Clé-Valeur) Master MP2L - M1  (Séance de tutorat 11/11/2024)",
       "description": "Séance synchrone enregistrée le 11 11 2024 entre 20h00 et 21h00 Module 6 (Partie 2) : REDIS BD NoSQL (Clé-Valeur) Cours ...",
       "url": "https://www.youtube.com/watch?v=gnDUGKIj6Fk",
@@ -218,40 +230,28 @@
       "thumbnail": "https://i.ytimg.com/vi/gnDUGKIj6Fk/hqdefault.jpg"
     },
     {
-      "title": "Power Query - Automatiser le rajout d&#39;une nouvelle colonne d&#39;une source de données",
-      "description": "Bonjour, Dans cette vidéo vous allez apprendre comment automatiser l'ajout d'une nouvelle colonne d'une source de données ...",
-      "url": "https://www.youtube.com/watch?v=vh8ktYfArUY",
-      "source": "Learnaccess",
-      "publishedAt": "2026-01-03T11:01:44Z",
+      "title": "Introduction à Positron: VSCode + RStudio pour la data science",
+      "description": "Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...",
+      "url": "https://www.youtube.com/watch?v=gcbiOQCR-O8",
+      "source": "WeData",
+      "publishedAt": "2026-01-09T17:01:15Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "vh8ktYfArUY",
-      "thumbnail": "https://i.ytimg.com/vi/vh8ktYfArUY/hqdefault.jpg"
+      "videoId": "gcbiOQCR-O8",
+      "thumbnail": "https://i.ytimg.com/vi/gcbiOQCR-O8/hqdefault.jpg"
     },
     {
-      "title": "Comment récupérer des données à partir d'un tableau ou d'une plage dans Excel pour le Web ?",
-      "description": "🫶🏻 Rejoignez la chaîne pour accéder à des avantages exclusifs :\n\nhttps://www.youtube.com/channel/UCvD2rJJrp0aS48-KCk0eMHQ/join ...",
-      "url": "https://www.youtube.com/watch?v=w0_st7-Fw0I",
-      "source": "Access Analytic",
-      "publishedAt": "2026-01-08T07:35:12Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "w0_st7-Fw0I",
-      "thumbnail": "https://i.ytimg.com/vi/w0_st7-Fw0I/hqdefault.jpg"
-    },
-    {
-      "title": "COMMENT BIEN PARAMÉTRER DLS 26 | BIEN JOUER À DREAM LEAGUE SOCCER 2026 SUR ANDROID &amp; IOS",
-      "description": "Salut les amis Dans cette vidéo, Je vous montre comment bien Paramétrer DLS 26, Je vous montre également comment bien ...",
-      "url": "https://www.youtube.com/watch?v=ECOE8OCxDR0",
-      "source": "Marcobykendy",
-      "publishedAt": "2025-12-11T15:00:23Z",
+      "title": "Devenir 100% EXPERT : ChaGPT 5.2 ! Pourquoi TOUT a changé.",
+      "description": "Découvrez la méthode incroyable pour débloquer GPT 5.2 à 100% et exploiter pleinement son potentiel. Dans cette vidéo, nous ...",
+      "url": "https://www.youtube.com/watch?v=8CLJXAu1UUY",
+      "source": "Parlons IA",
+      "publishedAt": "2025-12-14T08:00:18Z",
       "category": "tech",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "ECOE8OCxDR0",
-      "thumbnail": "https://i.ytimg.com/vi/ECOE8OCxDR0/hqdefault.jpg"
+      "videoId": "8CLJXAu1UUY",
+      "thumbnail": "https://i.ytimg.com/vi/8CLJXAu1UUY/hqdefault.jpg"
     },
     {
       "title": "Apple rachète Q.ai, une start-up d’IA pour 2 milliards de dollars",
