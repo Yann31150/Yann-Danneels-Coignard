@@ -344,6 +344,149 @@
                         Découvrir le guide <i class="fas fa-arrow-right"></i>
                     </a>
                 </div>
+
+                <!-- Carte Ressources gratuites -->
+                <div class="featured-card featured-card-resources">
+                    <div class="featured-card-icon">
+                        <i class="fas fa-gift"></i>
+                    </div>
+                    <h3 data-translate="home.resourcesTitle">Ressources gratuites</h3>
+                    <p data-translate="home.resourcesDesc">Guides téléchargeables, templates Excel/Power BI et articles de blog pour vous aider dans vos projets data.</p>
+                    <div class="resources-categories">
+                        <div class="resource-category">
+                            <i class="fas fa-book"></i>
+                            <span data-translate="home.resourcesGuides">Guides PDF</span>
+                        </div>
+                        <div class="resource-category">
+                            <i class="fas fa-file-excel"></i>
+                            <span data-translate="home.resourcesTemplates">Templates</span>
+                        </div>
+                        <div class="resource-category">
+                            <i class="fas fa-blog"></i>
+                            <span data-translate="home.resourcesArticles">Articles</span>
+                        </div>
+                    </div>
+                    <ul class="featured-list">
+                        <li><i class="fas fa-check"></i> <span data-translate="home.resourcesItem1">Guides pratiques téléchargeables</span></li>
+                        <li><i class="fas fa-check"></i> <span data-translate="home.resourcesItem2">Templates Excel & Power BI</span></li>
+                        <li><i class="fas fa-check"></i> <span data-translate="home.resourcesItem3">Articles de blog data</span></li>
+                    </ul>
+                    <a href="#resources" class="featured-button" data-translate="home.resourcesButton" onclick="event.preventDefault(); document.getElementById('resources-section').scrollIntoView({behavior: 'smooth'});">
+                        Voir les ressources <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section détaillée des ressources -->
+    <section id="resources-section" class="resources-detailed fade-in">
+        <div class="container">
+            <h2 data-translate="home.resourcesSectionTitle">Ressources gratuites</h2>
+            <p class="resources-intro" data-translate="home.resourcesSectionDesc">Téléchargez gratuitement nos guides, templates et découvrez nos articles pour améliorer vos compétences en data.</p>
+            
+            <div class="resources-grid">
+                <!-- Guides -->
+                <div class="resource-block">
+                    <div class="resource-block-header">
+                        <i class="fas fa-book"></i>
+                        <h3 data-translate="home.resourcesGuides">Guides PDF</h3>
+                    </div>
+                    <div class="resource-items">
+                        <div class="resource-item">
+                            <i class="fas fa-file-pdf"></i>
+                            <div class="resource-item-content">
+                                <h4 data-translate="home.guide1Title">10 KPIs essentiels pour votre entreprise</h4>
+                                <p data-translate="home.guide1Desc">Guide complet pour identifier et suivre les KPIs les plus importants.</p>
+                                <a href="#" class="resource-download" data-translate="home.downloadGuide">Télécharger <i class="fas fa-download"></i></a>
+                            </div>
+                        </div>
+                        <div class="resource-item">
+                            <i class="fas fa-file-pdf"></i>
+                            <div class="resource-item-content">
+                                <h4 data-translate="home.guide2Title">Débuter avec Power BI</h4>
+                                <p data-translate="home.guide2Desc">Guide pratique pour créer vos premiers tableaux de bord.</p>
+                                <a href="#" class="resource-download" data-translate="home.downloadGuide">Télécharger <i class="fas fa-download"></i></a>
+                            </div>
+                        </div>
+                        <div class="resource-item">
+                            <i class="fas fa-file-pdf"></i>
+                            <div class="resource-item-content">
+                                <h4 data-translate="home.guide3Title">SQL pour débutants</h4>
+                                <p data-translate="home.guide3Desc">Apprenez les bases du SQL avec des exemples pratiques.</p>
+                                <a href="#" class="resource-download" data-translate="home.downloadGuide">Télécharger <i class="fas fa-download"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Templates -->
+                <div class="resource-block">
+                    <div class="resource-block-header">
+                        <i class="fas fa-file-excel"></i>
+                        <h3 data-translate="home.resourcesTemplates">Templates</h3>
+                    </div>
+                    <div class="resource-items">
+                        <div class="resource-item">
+                            <i class="fas fa-chart-line"></i>
+                            <div class="resource-item-content">
+                                <h4 data-translate="home.template1Title">Dashboard Ventes (Power BI)</h4>
+                                <p data-translate="home.template1Desc">Template prêt à l'emploi pour analyser vos ventes.</p>
+                                <a href="#" class="resource-download" data-translate="home.downloadTemplate">Télécharger <i class="fas fa-download"></i></a>
+                            </div>
+                        </div>
+                        <div class="resource-item">
+                            <i class="fas fa-calculator"></i>
+                            <div class="resource-item-content">
+                                <h4 data-translate="home.template2Title">Analyse Financière (Excel)</h4>
+                                <p data-translate="home.template2Desc">Template Excel pour suivre vos finances.</p>
+                                <a href="#" class="resource-download" data-translate="home.downloadTemplate">Télécharger <i class="fas fa-download"></i></a>
+                            </div>
+                        </div>
+                        <div class="resource-item">
+                            <i class="fas fa-users"></i>
+                            <div class="resource-item-content">
+                                <h4 data-translate="home.template3Title">Suivi RH/KPI (Excel)</h4>
+                                <p data-translate="home.template3Desc">Template pour suivre les indicateurs RH.</p>
+                                <a href="#" class="resource-download" data-translate="home.downloadTemplate">Télécharger <i class="fas fa-download"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Articles -->
+                <div class="resource-block">
+                    <div class="resource-block-header">
+                        <i class="fas fa-blog"></i>
+                        <h3 data-translate="home.resourcesArticles">Articles</h3>
+                    </div>
+                    <div class="resource-items">
+                        <div class="resource-item">
+                            <i class="fas fa-newspaper"></i>
+                            <div class="resource-item-content">
+                                <h4 data-translate="home.article1Title">Comment choisir les bons KPIs</h4>
+                                <p data-translate="home.article1Desc">Guide pratique pour identifier les KPIs pertinents.</p>
+                                <a href="#" class="resource-read" data-translate="home.readArticle">Lire l'article <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                        <div class="resource-item">
+                            <i class="fas fa-newspaper"></i>
+                            <div class="resource-item-content">
+                                <h4 data-translate="home.article2Title">5 erreurs à éviter en visualisation</h4>
+                                <p data-translate="home.article2Desc">Les pièges courants et comment les éviter.</p>
+                                <a href="#" class="resource-read" data-translate="home.readArticle">Lire l'article <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                        <div class="resource-item">
+                            <i class="fas fa-newspaper"></i>
+                            <div class="resource-item-content">
+                                <h4 data-translate="home.article3Title">SQL vs Excel : quand utiliser quoi ?</h4>
+                                <p data-translate="home.article3Desc">Comparaison et guide de choix selon vos besoins.</p>
+                                <a href="#" class="resource-read" data-translate="home.readArticle">Lire l'article <i class="fas fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
