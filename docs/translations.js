@@ -33,7 +33,12 @@ const translations = {
             contactMe: "Me contacter",
             viewProjects: "Voir mes projets",
             visits: "Visites",
-            rights: "Tous droits réservés"
+            rights: "Tous droits réservés",
+            aboutTitle: "À propos de moi",
+            aboutText1: "Après plus de 20 ans d'expérience dans le secteur bancaire, j'ai décidé de me réinventer professionnellement en me tournant vers un domaine qui me passionne : la data et la tech.",
+            aboutText2: "Actuellement en formation de Data Analyst à la Wild Code School de Toulouse, j'apprends à maîtriser les outils modernes d'analyse de données pour transformer l'information brute en leviers de décision pertinents.",
+            aboutText3: "Passionné par les technologies, l'analyse de données et leur impact stratégique, je suis à la recherche d'une alternance dans le domaine de la data.",
+            aboutText4: "Mon objectif : mettre mes compétences au service des entreprises pour comprendre les tendances, révéler des insights et améliorer la prise de décision."
         },
         // Page projets
         projects: {
@@ -300,7 +305,12 @@ const translations = {
             contactMe: "Contact me",
             viewProjects: "View my projects",
             visits: "Visits",
-            rights: "All rights reserved"
+            rights: "All rights reserved",
+            aboutTitle: "About me",
+            aboutText1: "After more than 20 years of experience in the banking sector, I decided to professionally reinvent myself by turning to a field that I am passionate about: data and tech.",
+            aboutText2: "Currently training as a Data Analyst at Wild Code School in Toulouse, I am learning to master modern data analysis tools to transform raw information into relevant decision-making levers.",
+            aboutText3: "Passionate about technologies, data analysis and their strategic impact, I am looking for an apprenticeship in the data field.",
+            aboutText4: "My goal: put my skills at the service of companies to understand trends, reveal insights and improve decision-making."
         },
         // Page projets
         projects: {

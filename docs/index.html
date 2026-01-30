@@ -98,6 +98,27 @@
       border-radius: 16px 16px 0 0;
       background: transparent;
     }
+    /* Section À propos de moi sur la page d'accueil */
+    .about-intro {
+      padding: 80px 0;
+      background: var(--white);
+    }
+    .about-intro h2 {
+      font-size: 2.5rem;
+      color: var(--primary-color);
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+    .about-intro-content {
+      max-width: 800px;
+      margin: 0 auto;
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: var(--text-color);
+    }
+    .about-intro-content p {
+      margin-bottom: 1.5rem;
+    }
     .chatbot-iframe-container.open {
       height: 600px;
       transition: height 0.4s cubic-bezier(.4,2,.6,1);
@@ -205,11 +226,18 @@
             <h1 data-translate="home.title">Yann Danneels-Coignard</h1>
             <h2 data-translate="home.subtitle">Data Analyst</h2>
             <p class="hero-subtitle" data-translate="home.heroSubtitle">Transformez vos données en insights stratégiques</p>
-            <div class="hero-actions">
-                <a href="cv.html" class="cta-button" data-translate="home.viewCV">Voir mon CV</a>
-                <a href="cv.pdf" class="cta-button cta-secondary" download data-translate="home.downloadCV">Télécharger le CV</a>
-            </div>
             <p class="hero-availability" data-translate="home.availability">Disponible pour CDD, CDI et alternance · Région toulousaine · Télétravail</p>
+        </div>
+    </section>
+
+    <section class="about-intro fade-in">
+        <div class="container">
+            <h2 data-translate="home.aboutTitle">À propos de moi</h2>
+            <div class="about-intro-content">
+                <p data-translate="home.aboutText1">Après plus de 20 ans d'expérience dans le secteur bancaire, j'ai décidé de me réinventer professionnellement en me tournant vers un domaine qui me passionne : la data et la tech.</p>
+                <p data-translate="home.aboutText2">Actuellement en formation de Data Analyst à la Wild Code School de Toulouse, j'apprends à maîtriser les outils modernes d'analyse de données pour transformer l'information brute en leviers de décision pertinents.</p>
+                <p><span data-translate="home.aboutText3">Passionné par les technologies, l'analyse de données et leur impact stratégique, je suis à la recherche d'une alternance dans le domaine de la data.</span><br><span data-translate="home.aboutText4">Mon objectif : mettre mes compétences au service des entreprises pour comprendre les tendances, révéler des insights et améliorer la prise de décision.</span></p>
+            </div>
         </div>
     </section>
 
