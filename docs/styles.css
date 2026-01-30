@@ -885,6 +885,220 @@ section h2 {
     background-color: var(--primary-color);
 }
 
+/* Section Featured (Actualités Tech & Cybersécurité) */
+.featured-sections {
+    padding: 5rem 0;
+    background: linear-gradient(135deg, rgba(52, 152, 219, 0.05) 0%, rgba(231, 76, 60, 0.05) 100%);
+}
+
+.featured-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2.5rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.featured-card {
+    background: var(--white);
+    border-radius: 16px;
+    padding: 2.5rem;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid transparent;
+}
+
+.featured-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--secondary-color), var(--accent-color));
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+}
+
+.featured-card:hover::before {
+    transform: scaleX(1);
+}
+
+.featured-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+    border-color: rgba(52, 152, 219, 0.2);
+}
+
+.featured-card-tech:hover {
+    border-color: rgba(52, 152, 219, 0.3);
+}
+
+.featured-card-cyber:hover {
+    border-color: rgba(231, 76, 60, 0.3);
+}
+
+.featured-card-icon {
+    width: 70px;
+    height: 70px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+    transition: transform 0.3s ease;
+}
+
+.featured-card-tech .featured-card-icon {
+    background: linear-gradient(135deg, rgba(52, 152, 219, 0.1), rgba(52, 152, 219, 0.2));
+    color: var(--secondary-color);
+}
+
+.featured-card-cyber .featured-card-icon {
+    background: linear-gradient(135deg, rgba(231, 76, 60, 0.1), rgba(231, 76, 60, 0.2));
+    color: var(--accent-color);
+}
+
+.featured-card:hover .featured-card-icon {
+    transform: scale(1.1) rotate(5deg);
+}
+
+.featured-card h3 {
+    font-size: 1.8rem;
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.featured-card p {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: var(--text-color);
+    margin-bottom: 1.5rem;
+}
+
+.featured-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 2rem 0;
+}
+
+.featured-list li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.75rem;
+    font-size: 1rem;
+    color: var(--text-color);
+}
+
+.featured-list i {
+    color: var(--secondary-color);
+    margin-right: 0.75rem;
+    font-size: 0.9rem;
+}
+
+.featured-card-cyber .featured-list i {
+    color: var(--accent-color);
+}
+
+.featured-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.875rem 1.75rem;
+    background: var(--secondary-color);
+    color: var(--white);
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    font-size: 1rem;
+}
+
+.featured-card-cyber .featured-button {
+    background: var(--accent-color);
+}
+
+.featured-button:hover {
+    transform: translateX(5px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.featured-button i {
+    transition: transform 0.3s ease;
+}
+
+.featured-button:hover i {
+    transform: translateX(3px);
+}
+
+@media (max-width: 1024px) {
+    .featured-grid {
+        gap: 2rem;
+    }
+    
+    .featured-card {
+        padding: 2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .featured-sections {
+        padding: 3rem 0;
+    }
+    
+    .featured-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+    
+    .featured-card {
+        padding: 2rem;
+    }
+    
+    .featured-card-icon {
+        width: 60px;
+        height: 60px;
+        font-size: 1.75rem;
+    }
+    
+    .featured-card h3 {
+        font-size: 1.6rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .featured-sections {
+        padding: 2.5rem 0;
+    }
+    
+    .featured-card {
+        padding: 1.5rem;
+    }
+    
+    .featured-card-icon {
+        width: 55px;
+        height: 55px;
+        font-size: 1.5rem;
+    }
+    
+    .featured-card h3 {
+        font-size: 1.4rem;
+    }
+    
+    .featured-card p {
+        font-size: 1rem;
+    }
+    
+    .featured-button {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
 /* Footer */
 footer {
     background-color: var(--primary-color);
