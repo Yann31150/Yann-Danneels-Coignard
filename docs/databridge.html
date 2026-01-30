@@ -251,14 +251,16 @@
       pdfjsLib.getDocument('Databridge.pdf').promise.then(function(pdf) {
         loadingDiv.style.display = 'none';
         
-        // Calculer la largeur pour afficher 2 pages côte à côte
+        // Calculer la largeur pour afficher les pages en grand format
         const containerWidth = pagesContainer.offsetWidth || 1200;
-        const pageWidth = Math.min(containerWidth / 2 - 20, 600); // 2 pages avec espace
+        // Utiliser presque toute la largeur disponible (95% pour laisser de la marge)
+        const pageWidth = containerWidth * 0.95;
         
         // Afficher toutes les pages
         for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
           pdf.getPage(pageNum).then(function(page) {
-            const viewport = page.getViewport({ scale: 1.5 });
+            const viewport = page.getViewport({ scale: 1.0 });
+            // Calculer le scale pour que la page occupe presque toute la largeur
             const scale = pageWidth / viewport.width;
             const scaledViewport = page.getViewport({ scale: scale });
             
@@ -266,12 +268,14 @@
             const context = canvas.getContext('2d');
             canvas.height = scaledViewport.height;
             canvas.width = scaledViewport.width;
+            canvas.style.width = '100%';
             canvas.style.maxWidth = '100%';
             canvas.style.height = 'auto';
             canvas.style.display = 'block';
             canvas.style.margin = '0 auto';
-            canvas.style.boxShadow = '0 2px 8px rgba(0,0,0,0.1)';
-            canvas.style.borderRadius = '4px';
+            canvas.style.boxShadow = '0 4px 12px rgba(0,0,0,0.15)';
+            canvas.style.borderRadius = '8px';
+            canvas.style.background = 'white';
             
             const renderContext = {
               canvasContext: context,
