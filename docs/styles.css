@@ -896,9 +896,9 @@ section h2 {
 
 .featured-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 2rem;
-    max-width: 1400px;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2.5rem;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
@@ -1072,8 +1072,8 @@ section h2 {
 
 @media (max-width: 1024px) {
     .featured-grid {
-        grid-template-columns: repeat(3, 1fr);
-        gap: 1.5rem;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2rem;
     }
     
     .featured-card {
@@ -1087,21 +1087,12 @@ section h2 {
     .featured-card p {
         font-size: 0.95rem;
     }
-    
-    .resources-categories {
-        gap: 0.5rem;
-    }
-    
-    .resource-category {
-        font-size: 0.85rem;
-        padding: 0.4rem 0.8rem;
-    }
 }
 
 @media (max-width: 900px) {
     .featured-grid {
-        grid-template-columns: repeat(3, 1fr);
-        gap: 1rem;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
     }
     
     .featured-card {
@@ -1130,16 +1121,6 @@ section h2 {
         font-size: 0.9rem;
         padding: 0.75rem 1.25rem;
     }
-    
-    .resources-categories {
-        flex-direction: column;
-        gap: 0.5rem;
-    }
-    
-    .resource-category {
-        width: 100%;
-        justify-content: center;
-    }
 }
 
 @media (max-width: 768px) {
@@ -1148,43 +1129,43 @@ section h2 {
     }
     
     .featured-grid {
-        grid-template-columns: repeat(3, 1fr);
-        gap: 0.75rem;
+        grid-template-columns: 1fr;
+        gap: 2rem;
     }
     
     .featured-card {
-        padding: 1.25rem;
+        padding: 2rem;
     }
     
     .featured-card-icon {
-        width: 50px;
-        height: 50px;
-        font-size: 1.4rem;
+        width: 60px;
+        height: 60px;
+        font-size: 1.75rem;
         margin-bottom: 1rem;
     }
     
     .featured-card h3 {
-        font-size: 1.2rem;
-        margin-bottom: 0.75rem;
+        font-size: 1.6rem;
+        margin-bottom: 1rem;
     }
     
     .featured-card p {
-        font-size: 0.85rem;
-        margin-bottom: 1rem;
+        font-size: 1rem;
+        margin-bottom: 1.5rem;
     }
     
     .featured-list {
-        font-size: 0.85rem;
-        margin-bottom: 1rem;
+        font-size: 0.95rem;
+        margin-bottom: 1.5rem;
     }
     
     .featured-list li {
-        margin-bottom: 0.5rem;
+        margin-bottom: 0.75rem;
     }
     
     .featured-button {
-        font-size: 0.85rem;
-        padding: 0.65rem 1rem;
+        font-size: 0.95rem;
+        padding: 0.875rem 1.5rem;
         width: 100%;
         justify-content: center;
     }
@@ -1397,73 +1378,36 @@ section h2 {
     }
 }
 
-@media (max-width: 600px) {
-    .featured-grid {
-        grid-template-columns: repeat(3, 1fr);
-        gap: 0.5rem;
-    }
-    
-    .featured-card {
-        padding: 1rem;
-    }
-    
-    .featured-card-icon {
-        width: 45px;
-        height: 45px;
-        font-size: 1.2rem;
-        margin-bottom: 0.75rem;
-    }
-    
-    .featured-card h3 {
-        font-size: 1.1rem;
-        margin-bottom: 0.5rem;
-    }
-    
-    .featured-card p {
-        font-size: 0.8rem;
-        margin-bottom: 0.75rem;
-        display: none; /* Cache la description sur très petits écrans */
-    }
-    
-    .featured-list {
-        display: none; /* Cache la liste sur très petits écrans */
-    }
-    
-    .featured-button {
-        font-size: 0.8rem;
-        padding: 0.6rem 0.85rem;
-    }
-    
-    .resources-categories {
-        display: none; /* Cache les badges sur très petits écrans */
-    }
-}
-
 @media (max-width: 480px) {
+    .featured-sections {
+        padding: 2.5rem 0;
+    }
+    
     .featured-grid {
         grid-template-columns: 1fr;
-        gap: 1rem;
+        gap: 1.5rem;
     }
     
     .featured-card {
         padding: 1.5rem;
     }
     
-    .featured-card p,
-    .featured-list {
-        display: block; /* Réaffiche sur mobile en colonne */
+    .featured-card-icon {
+        width: 55px;
+        height: 55px;
+        font-size: 1.5rem;
+    }
+    
+    .featured-card h3 {
+        font-size: 1.4rem;
     }
     
     .featured-card p {
-        font-size: 0.9rem;
+        font-size: 0.95rem;
     }
     
     .featured-list {
         font-size: 0.9rem;
-    }
-    
-    .resources-categories {
-        display: flex;
     }
     
     .resources-detailed {
