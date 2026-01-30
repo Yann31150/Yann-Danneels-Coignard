@@ -1,29 +1,29 @@
 {
-  "lastUpdate": "2026-01-30T08:47:17.255654",
+  "lastUpdate": "2026-01-30T09:32:44.333180",
   "articles": [
     {
-      "title": "22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)",
-      "description": "Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...",
-      "url": "https://www.youtube.com/watch?v=p0D5zWVTkUU",
-      "source": "Ludo Salenne",
-      "publishedAt": "2026-01-08T19:12:40Z",
+      "title": "Il y a une mise à jour majeure de Google Chrome : Gemini met la pression à ChatGPT et Perplexity",
+      "description": "L'intelligence artificielle Gemini est désormais pleinement intégrée à Google Chrome, avec un volet latéral pour la solliciter à tout moment. Gemini peut naviguer sur le web à votre place, remplir des...",
+      "url": "https://www.numerama.com/tech/2169909-il-y-a-une-mise-a-jour-majeure-de-google-chrome-gemini-met-la-pression-a-chatgpt-et-perplexity.html",
+      "source": "Numerama",
+      "publishedAt": "2026-01-29T09:19:55Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "p0D5zWVTkUU",
-      "thumbnail": "https://i.ytimg.com/vi/p0D5zWVTkUU/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "L’IA de Google vient de DÉTRUIRE le règne de ChatGPT",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/48pg0VS Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=lh8QAo4oXFw",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2025-12-07T16:01:11Z",
+      "title": "Sur Google ou ChatGPT, le basculement de la recherche sur Internet vers l’IA inquiète les médias",
+      "description": "Des éditeurs de presse redoutent que les réponses des assistants d’intelligence artificielle génèrent moins de clics que les moteurs de recherche classiques. Ils cherchent des parades.",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/29/sur-google-ou-chatgpt-le-basculement-de-la-recherche-sur-internet-vers-l-ia-inquiete-les-medias_6664582_3234.html",
+      "source": "Le Monde",
+      "publishedAt": "2026-01-29T09:30:06Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "lh8QAo4oXFw",
-      "thumbnail": "https://i.ytimg.com/vi/lh8QAo4oXFw/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning",
@@ -50,18 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
     },
     {
-      "title": "Python Machine Learning sous Excel avec « xlwings lite »",
-      "description": "Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...",
-      "url": "https://www.youtube.com/watch?v=feDNuaLVDLk",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2025-12-22T15:26:03Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "feDNuaLVDLk",
-      "thumbnail": "https://i.ytimg.com/vi/feDNuaLVDLk/hqdefault.jpg"
-    },
-    {
       "title": "De fausses policières créées par intelligence artificielle attirent les internautes vers des contenus pornographiques",
       "description": "Les réseaux sociaux sont envahis d'images créées par intelligence artificielle. Ces dernières semaines, des vidéos de fausses policières générées par IA sont apparues et orientent les internautes vers...",
       "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/de-fausses-policieres-creees-par-intelligence-artificielle-attirent-les-internautes-vers-des-contenus-pornographiques_7742575.html",
@@ -86,18 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/FOj5HTd4EAs/hqdefault.jpg"
     },
     {
-      "title": "Accès GRATUIT et ILLIMITÉ à GPT-5 , VEO3, Claude, Google Gemini dans un seul outil",
-      "description": "______   Dans Cette Video  ______   Et si tu pouvais utiliser GPT-5, Claude, VEO3, Gemini et Grok gratuitement ...",
-      "url": "https://www.youtube.com/watch?v=Y78os35EO_0",
-      "source": "Cœur Bestial",
-      "publishedAt": "2025-12-27T19:57:18Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Y78os35EO_0",
-      "thumbnail": "https://i.ytimg.com/vi/Y78os35EO_0/hqdefault.jpg"
-    },
-    {
       "title": "Qu&#39;est-ce que Power BI ? (Tuto Intro 2025)",
       "description": "Vous entendez parler de \"Data\" partout, mais c'est quoi concrètement Power BI ? En 2025, c'est l'outil indispensable pour booster ...",
       "url": "https://www.youtube.com/watch?v=wBsvjPNqUco",
@@ -110,28 +86,52 @@
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
     },
     {
-      "title": "Comment je deviendrais analyste de données en 2026 (feuille de route complète)",
-      "description": "👉 MENTORAT – Prêt(e) à devenir un analyste de données d'exception ? Les candidatures pour la promotion de mars 2026 sont ...",
-      "url": "https://www.youtube.com/watch?v=hGCKdMsfU7g",
-      "source": "Christine Jiang",
-      "publishedAt": "2026-01-02T14:01:10Z",
+      "title": "Connexion entre Python (notebook) et Excel via « xlwings »",
+      "description": "Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...",
+      "url": "https://www.youtube.com/watch?v=-ONGM2pg3tc",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2025-12-21T10:20:45Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "hGCKdMsfU7g",
-      "thumbnail": "https://i.ytimg.com/vi/hGCKdMsfU7g/hqdefault.jpg"
+      "videoId": "-ONGM2pg3tc",
+      "thumbnail": "https://i.ytimg.com/vi/-ONGM2pg3tc/hqdefault.jpg"
     },
     {
-      "title": "Learn Power BI FAST – Full Beginner Crash Course (1 Hour)",
-      "description": "Learn Power BI from zero in under 1 hour. This fast Power BI crash course for beginners takes you through the full Power BI ...",
-      "url": "https://www.youtube.com/watch?v=WdCltDhmRLo",
-      "source": "Data with Baraa",
-      "publishedAt": "2025-12-09T13:30:07Z",
+      "title": "DeepSeek MHC : La Nouvelle Architecture qui RÉINVENTE l’IA (Adieu les Transformers ?) 😱🔥",
+      "description": "DeepSeek vient de briser les règles du jeu avec mHC. Alors que la Big Tech mise tout sur la force brute et les milliards de ...",
+      "url": "https://www.youtube.com/watch?v=-rFx2b3ZuXQ",
+      "source": "Nerdy Kings",
+      "publishedAt": "2026-01-03T19:35:51Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "-rFx2b3ZuXQ",
+      "thumbnail": "https://i.ytimg.com/vi/-rFx2b3ZuXQ/hqdefault.jpg"
+    },
+    {
+      "title": "Comment les Machines Comprennent le Langage Humain en 10 Secondes #aiart",
+      "description": "NLP : Comment les Machines Comprennent le Langage Humain en 10 Secondes Bienvenue dans cette nouvelle vidéo sur ...",
+      "url": "https://www.youtube.com/watch?v=KT6DIPrVoYg",
+      "source": "INFOTIQUE",
+      "publishedAt": "2025-12-10T18:11:22Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "KT6DIPrVoYg",
+      "thumbnail": "https://i.ytimg.com/vi/KT6DIPrVoYg/hqdefault.jpg"
+    },
+    {
+      "title": "MySQL vs PostgreSQL vs MongoDB : Différences 2026",
+      "description": "SQL ou NoSQL ? Comprendre les différences entre MySQL, PostgreSQL et MongoDB. #dev #data #tech.",
+      "url": "https://www.youtube.com/watch?v=KD53CSQtsHQ",
+      "source": "TechVantage FR",
+      "publishedAt": "2025-12-25T19:39:02Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "WdCltDhmRLo",
-      "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg"
+      "videoId": "KD53CSQtsHQ",
+      "thumbnail": "https://i.ytimg.com/vi/KD53CSQtsHQ/hqdefault.jpg"
     },
     {
       "title": "Maîtriser Power Query : Automatisez votre nettoyage de données sur Excel et Power BI",
@@ -144,6 +144,54 @@
       "isYouTube": true,
       "videoId": "Q-mQB9OAp50",
       "thumbnail": "https://i.ytimg.com/vi/Q-mQB9OAp50/hqdefault.jpg"
+    },
+    {
+      "title": "SQL | Maîtriser l&#39;Opérateur INTERSECT (Trouver les Doublons Communs) [Opérateurs d&#39;Ensemble #2] #sql",
+      "description": "Bienvenue dans l'Épisode 2 de notre série sur les Opérateurs d'Ensemble SQL ! L'opérateur INTERSECT est l'outil d'audit ultime ...",
+      "url": "https://www.youtube.com/watch?v=_ZnaKkb3vzQ",
+      "source": "Oracle SQL Tips FR",
+      "publishedAt": "2025-12-21T04:49:47Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "_ZnaKkb3vzQ",
+      "thumbnail": "https://i.ytimg.com/vi/_ZnaKkb3vzQ/hqdefault.jpg"
+    },
+    {
+      "title": "SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips",
+      "description": "Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...",
+      "url": "https://www.youtube.com/watch?v=qup-uitBx58",
+      "source": "Oracle SQL Tips FR",
+      "publishedAt": "2026-01-04T03:10:49Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "qup-uitBx58",
+      "thumbnail": "https://i.ytimg.com/vi/qup-uitBx58/hqdefault.jpg"
+    },
+    {
+      "title": "Le secret des pros : automatiser l&#39;organisation de vos mesures dans Power BI",
+      "description": "Vos mesures Power BI sont dispersées dans toutes vos tables ? Découvrez comment utiliser Tabular Editor pour centraliser et ...",
+      "url": "https://www.youtube.com/watch?v=GQN9jmpejhw",
+      "source": "Barthelemy Montreuil",
+      "publishedAt": "2026-01-18T16:45:06Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "GQN9jmpejhw",
+      "thumbnail": "https://i.ytimg.com/vi/GQN9jmpejhw/hqdefault.jpg"
+    },
+    {
+      "title": "Introduction aux bases NoSQL – DB Engineering &amp; Code – FR",
+      "description": "Bienvenue sur DB Engineering & Code – FR ! Dans cette vidéo, découvrez une introduction aux bases NoSQL : Qu'est-ce ...",
+      "url": "https://www.youtube.com/watch?v=aYc-C0qweJ8",
+      "source": "DB Engineering & Code – FR",
+      "publishedAt": "2025-12-02T00:30:01Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "aYc-C0qweJ8",
+      "thumbnail": "https://i.ytimg.com/vi/aYc-C0qweJ8/hqdefault.jpg"
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -170,18 +218,6 @@
       "thumbnail": "https://i.ytimg.com/vi/hGbgeWMD4Dc/hqdefault.jpg"
     },
     {
-      "title": "Entretien Analyste Données – Que Répondre aux 10 Questions Clés",
-      "description": "Entretien Analyste Données – Que Répondre aux 10 Questions Clés? Entretien Analyste Données: savoir que répondre aux ...",
-      "url": "https://www.youtube.com/watch?v=Q65w9BSeS-w",
-      "source": "Damal Consult Carrière TV- Français",
-      "publishedAt": "2026-01-02T14:59:27Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Q65w9BSeS-w",
-      "thumbnail": "https://i.ytimg.com/vi/Q65w9BSeS-w/hqdefault_live.jpg"
-    },
-    {
       "title": "Excel pour l’Analyse des Données — Cours Complet (10h) | Gratuit + Certificat (2026)",
       "description": "Bienvenue dans ce cours complet et gratuit sur Microsoft Excel pour l'Analyse des Données (Version 2026) ! En 10 heures, vous ...",
       "url": "https://www.youtube.com/watch?v=saGefucxol4",
@@ -192,18 +228,6 @@
       "isYouTube": true,
       "videoId": "saGefucxol4",
       "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
-    },
-    {
-      "title": "Data Analysis Python Project | Real Time Swiggy Sales Analysis | Zero to Hero | Edition 2026",
-      "description": "python #dataanalysis #datascience ⭐ Power BI Complete Video Course - Basic to Advanced ...",
-      "url": "https://www.youtube.com/watch?v=RWrnqhSYUmk",
-      "source": "Data Tutorials",
-      "publishedAt": "2026-01-19T04:52:51Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "RWrnqhSYUmk",
-      "thumbnail": "https://i.ytimg.com/vi/RWrnqhSYUmk/hqdefault.jpg"
     },
     {
       "title": "2-Data Mining :Arbres de Décision#notebooklm",
@@ -218,59 +242,23 @@
       "thumbnail": "https://i.ytimg.com/vi/_Fe5ju7H5LI/hqdefault.jpg"
     },
     {
-      "title": "Project – 14 (with Dashboard) | Salary Data Analysis | Python Coding for Data Science #python",
-      "description": "Free Download All 15 Projects Source Codes + Datasets ...",
-      "url": "https://www.youtube.com/watch?v=TLIotspGcng",
-      "source": "DATA SCIENCE LOVERS",
-      "publishedAt": "2026-01-12T16:31:02Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "TLIotspGcng",
-      "thumbnail": "https://i.ytimg.com/vi/TLIotspGcng/hqdefault.jpg"
-    },
-    {
-      "title": "REDIS  BD NoSQL (Clé-Valeur) Master MP2L - M1  (Séance de tutorat 11/11/2024)",
-      "description": "Séance synchrone enregistrée le 11 11 2024 entre 20h00 et 21h00 Module 6 (Partie 2) : REDIS BD NoSQL (Clé-Valeur) Cours ...",
-      "url": "https://www.youtube.com/watch?v=gnDUGKIj6Fk",
-      "source": "Riadh Zaafrani",
-      "publishedAt": "2025-12-09T09:45:30Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "gnDUGKIj6Fk",
-      "thumbnail": "https://i.ytimg.com/vi/gnDUGKIj6Fk/hqdefault.jpg"
-    },
-    {
-      "title": "Devenir 100% EXPERT : ChaGPT 5.2 ! Pourquoi TOUT a changé.",
-      "description": "Découvrez la méthode incroyable pour débloquer GPT 5.2 à 100% et exploiter pleinement son potentiel. Dans cette vidéo, nous ...",
-      "url": "https://www.youtube.com/watch?v=8CLJXAu1UUY",
-      "source": "Parlons IA",
-      "publishedAt": "2025-12-14T08:00:18Z",
-      "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "8CLJXAu1UUY",
-      "thumbnail": "https://i.ytimg.com/vi/8CLJXAu1UUY/hqdefault.jpg"
-    },
-    {
-      "title": "COMMENT BIEN PARAMÉTRER DLS 26 | BIEN JOUER À DREAM LEAGUE SOCCER 2026 SUR ANDROID &amp; IOS",
-      "description": "Salut les amis Dans cette vidéo, Je vous montre comment bien Paramétrer DLS 26, Je vous montre également comment bien ...",
-      "url": "https://www.youtube.com/watch?v=ECOE8OCxDR0",
-      "source": "Marcobykendy",
-      "publishedAt": "2025-12-11T15:00:23Z",
-      "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ECOE8OCxDR0",
-      "thumbnail": "https://i.ytimg.com/vi/ECOE8OCxDR0/hqdefault.jpg"
-    },
-    {
       "title": "IA : L'ESA découvre 800 nouvelles anomalies cosmiques en un temps record",
       "description": "Un modèle d’intelligence artificielle développé par l’Agence spatiale européenne a passé au crible près de 100 millions d’images issues du télescope Hubble. Baptisé AnomalyMatch, cet outil a permis d’...",
       "url": "https://www.zdnet.fr/actualites/lesa-mise-sur-lia-pour-percer-les-mysteres-du-cosmos-800-anomalies-detectees-en-quelques-jours-489000.htm",
       "source": "ZDNet France",
       "publishedAt": "2026-01-29T07:39:01Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Réseaux sociaux et IA, première source d’info pour plus de la moitié des moins de 25 ans",
+      "description": "Réseaux sociaux, plateformes vidéo et outils d’intelligence artificielle sont devenus le principal moyen d’accès aux informations pour 54 % des moins de 25 ans et pour un cinquième des Français de tou...",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/29/reseaux-sociaux-et-ia-premiere-source-d-info-pour-plus-de-la-moitie-des-moins-de-25-ans_6664581_3234.html",
+      "source": "Le Monde",
+      "publishedAt": "2026-01-29T09:29:58Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -295,6 +283,18 @@
       "url": "https://www.generation-nt.com/actualites/dario-amodei-anthropic-ia-danger-regulation-claude-2069757",
       "source": "Génération NT",
       "publishedAt": "2026-01-28T15:10:01Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "C'est une « démonstration éloquente » : une IA a détecté 1 300 objets cosmiques inconnus dans les images d'Hubble !",
+      "description": "Visionner 100 millions d’images en deux jours, l’humain en est incapable. Mais la machine peut le faire. C’est ce que montrent aujourd’hui des astronomes qui ont utilisé le pouvoir de l’intelligence a...",
+      "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-cest-demonstration-eloquente-ia-detecte-1-300-objets-cosmiques-inconnus-images-hubble-130676/",
+      "source": "Futura",
+      "publishedAt": "2026-01-29T07:01:12Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
