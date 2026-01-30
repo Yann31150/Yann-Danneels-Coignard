@@ -248,12 +248,15 @@ const translations = {
             step6Skill4: "Projets réels",
             year7: "2026",
             step7Title: "Aujourd'hui : Disponible en tant que Data Analyst",
-            step7Subtitle: "Alternance, CDD ou CDI",
-            step7Desc: "Recherche active d'une opportunité en tant que Data Analyst : alternance pour continuer à apprendre, CDD ou CDI pour mettre immédiatement mes compétences au service des entreprises. Disponible dès septembre 2026, région toulousaine ou télétravail. Prêt à transformer vos données en insights stratégiques.",
-            step7Skill1: "Alternance",
-            step7Skill2: "CDD/CDI",
-            step7Skill3: "Toulouse",
-            step7Skill4: "Télétravail"
+            step7Subtitle: "Alternance, CDD ou CDI - Data Analyst, Data Scientist ou Data Engineer",
+            step7Desc: "Recherche active d'une opportunité en tant que Data Analyst (CDD/CDI), ou alternance en tant que Data Analyst, Data Scientist ou Data Engineer pour continuer à apprendre tout en apportant ma valeur ajoutée. Disponible dès septembre 2026, région toulousaine ou télétravail. Prêt à transformer vos données en insights stratégiques.",
+            step7Skill1: "Data Analyst",
+            step7Skill2: "Data Scientist",
+            step7Skill3: "Data Engineer",
+            step7Skill4: "Alternance",
+            step7Skill5: "CDD/CDI",
+            step7Skill6: "Toulouse",
+            step7Skill7: "Télétravail"
         }
     },
     en: {
@@ -504,12 +507,15 @@ const translations = {
             step6Skill4: "Real projects",
             year7: "2026",
             step7Title: "Today: Available as a Data Analyst",
-            step7Subtitle: "Apprenticeship, Fixed-term or Permanent Contract",
-            step7Desc: "Active search for an opportunity as a Data Analyst: apprenticeship to continue learning, fixed-term or permanent contract to immediately put my skills at the service of companies. Available from September 2026, Toulouse region or remote work. Ready to transform your data into strategic insights.",
-            step7Skill1: "Apprenticeship",
-            step7Skill2: "Fixed-term/Permanent",
-            step7Skill3: "Toulouse",
-            step7Skill4: "Remote work"
+            step7Subtitle: "Apprenticeship, Fixed-term or Permanent Contract - Data Analyst, Data Scientist or Data Engineer",
+            step7Desc: "Active search for an opportunity as a Data Analyst (fixed-term or permanent contract), or apprenticeship as a Data Analyst, Data Scientist or Data Engineer to continue learning while bringing my added value. Available from September 2026, Toulouse region or remote work. Ready to transform your data into strategic insights.",
+            step7Skill1: "Data Analyst",
+            step7Skill2: "Data Scientist",
+            step7Skill3: "Data Engineer",
+            step7Skill4: "Apprenticeship",
+            step7Skill5: "Fixed-term/Permanent",
+            step7Skill6: "Toulouse",
+            step7Skill7: "Remote work"
         }
     }
 };
