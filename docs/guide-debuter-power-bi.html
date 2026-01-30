@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Débuter avec Power BI - Guide Gratuit</title>
+    <meta name="description" content="Guide pratique pour créer vos premiers tableaux de bord avec Power BI. Téléchargement gratuit." />
+    <link rel="stylesheet" href="styles.css?v=20260131">
+    <style>
+        body {
+            background: #fff;
+            padding: 2rem;
+            max-width: 900px;
+            margin: 0 auto;
+            font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .guide-header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 3px solid var(--secondary-color);
+        }
+        .guide-header h1 {
+            color: var(--primary-color);
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        .section {
+            background: #f8f9fa;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border-radius: 12px;
+            border-left: 4px solid var(--secondary-color);
+        }
+        .section h2 {
+            color: var(--primary-color);
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+        }
+        .section h3 {
+            color: var(--secondary-color);
+            font-size: 1.2rem;
+            margin-top: 1.5rem;
+            margin-bottom: 0.75rem;
+        }
+        .section ul, .section ol {
+            padding-left: 1.5rem;
+            line-height: 1.8;
+        }
+        .section li {
+            margin-bottom: 0.5rem;
+        }
+        .download-section {
+            text-align: center;
+            margin-top: 3rem;
+            padding: 2rem;
+            background: linear-gradient(135deg, rgba(52, 152, 219, 0.1), rgba(52, 152, 219, 0.05));
+            border-radius: 12px;
+        }
+        .download-btn {
+            display: inline-block;
+            padding: 1rem 2rem;
+            background: var(--secondary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            margin-top: 1rem;
+        }
+        @media print {
+            body { padding: 0; }
+            .download-section { display: none; }
+        }
+    </style>
+</head>
+<body>
+    <div class="guide-header">
+        <h1>Débuter avec Power BI</h1>
+        <p>Guide pratique pour créer vos premiers tableaux de bord</p>
+        <p><strong>Par Yann Danneels-Coignard - Data Analyst</strong></p>
+    </div>
+
+    <div class="section">
+        <h2>1. Qu'est-ce que Power BI ?</h2>
+        <p>Power BI est un outil de visualisation de données développé par Microsoft qui permet de créer des tableaux de bord interactifs et des rapports à partir de vos données.</p>
+        <h3>Avantages :</h3>
+        <ul>
+            <li><strong>Gratuit</strong> : La version Desktop est entièrement gratuite</li>
+            <li><strong>Facile à utiliser</strong> : Interface intuitive, pas besoin de coder</li>
+            <li><strong>Puissant</strong> : Gère des millions de lignes de données</li>
+            <li><strong>Connectivité</strong> : Se connecte à Excel, SQL, fichiers CSV, APIs, etc.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>2. Installation de Power BI Desktop</h2>
+        <h3>Étape 1 : Téléchargement</h3>
+        <ol>
+            <li>Allez sur <strong>powerbi.microsoft.com</strong></li>
+            <li>Cliquez sur "Télécharger gratuitement"</li>
+            <li>Choisissez "Power BI Desktop"</li>
+            <li>Téléchargez et installez l'application</li>
+        </ol>
+        <h3>Étape 2 : Première ouverture</h3>
+        <p>À l'ouverture, vous verrez l'interface principale avec :</p>
+        <ul>
+            <li>Le ruban en haut (comme Excel)</li>
+            <li>Les volets à droite (Champs, Visualisations, Filtres)</li>
+            <li>La zone de travail au centre</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>3. Importer vos premières données</h2>
+        <h3>Depuis Excel :</h3>
+        <ol>
+            <li>Cliquez sur "Obtenir des données"</li>
+            <li>Sélectionnez "Excel"</li>
+            <li>Choisissez votre fichier</li>
+            <li>Sélectionnez les feuilles à importer</li>
+            <li>Cliquez sur "Charger"</li>
+        </ol>
+        <h3>Depuis un fichier CSV :</h3>
+        <ol>
+            <li>Cliquez sur "Obtenir des données" → "Texte/CSV"</li>
+            <li>Sélectionnez votre fichier CSV</li>
+            <li>Vérifiez l'aperçu des données</li>
+            <li>Cliquez sur "Charger"</li>
+        </ol>
+    </div>
+
+    <div class="section">
+        <h2>4. Créer votre premier graphique</h2>
+        <h3>Étape par étape :</h3>
+        <ol>
+            <li><strong>Sélectionnez un type de visualisation</strong> dans le volet "Visualisations" (ex: Graphique en colonnes)</li>
+            <li><strong>Glissez un champ</strong> dans "Axe" (ex: Mois)</li>
+            <li><strong>Glissez un champ</strong> dans "Valeurs" (ex: Ventes)</li>
+            <li>Votre graphique apparaît automatiquement !</li>
+        </ol>
+        <h3>Types de graphiques recommandés :</h3>
+        <ul>
+            <li><strong>Colonnes</strong> : Pour comparer des valeurs</li>
+            <li><strong>Lignes</strong> : Pour voir des tendances dans le temps</li>
+            <li><strong>Camembert</strong> : Pour montrer des proportions</li>
+            <li><strong>Tableau</strong> : Pour afficher des données détaillées</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>5. Personnaliser vos visualisations</h2>
+        <h3>Formatage :</h3>
+        <ul>
+            <li>Cliquez sur votre graphique pour le sélectionner</li>
+            <li>Dans le volet "Visualisations", cliquez sur l'icône "Format" (rouleau de peinture)</li>
+            <li>Personnalisez les couleurs, les titres, les axes</li>
+        </ul>
+        <h3>Astuces :</h3>
+        <ul>
+            <li>Utilisez des couleurs cohérentes dans tout votre tableau de bord</li>
+            <li>Ajoutez des titres clairs à chaque visualisation</li>
+            <li>Limitez-vous à 3-5 graphiques par page pour la clarté</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>6. Créer des mesures avec DAX</h2>
+        <p>DAX (Data Analysis Expressions) est le langage de Power BI pour créer des calculs.</p>
+        <h3>Mesures de base :</h3>
+        <ul>
+            <li><strong>Total Ventes</strong> : <code>=SUM(Table[Ventes])</code></li>
+            <li><strong>Moyenne</strong> : <code>=AVERAGE(Table[Ventes])</code></li>
+            <li><strong>Compte</strong> : <code>=COUNT(Table[ID])</code></li>
+        </ul>
+        <h3>Comment créer une mesure :</h3>
+        <ol>
+            <li>Clic droit sur votre table → "Nouvelle mesure"</li>
+            <li>Écrivez votre formule DAX</li>
+            <li>Donnez un nom à votre mesure</li>
+            <li>Utilisez-la dans vos visualisations</li>
+        </ol>
+    </div>
+
+    <div class="section">
+        <h2>7. Créer un tableau de bord complet</h2>
+        <h3>Structure recommandée :</h3>
+        <ol>
+            <li><strong>Titre en haut</strong> : Nom de votre tableau de bord</li>
+            <li><strong>KPIs principaux</strong> : Cartes avec les chiffres clés</li>
+            <li><strong>Graphiques de tendance</strong> : Évolution dans le temps</li>
+            <li><strong>Répartition</strong> : Graphiques en camembert ou barres</li>
+            <li><strong>Tableau détaillé</strong> : Données brutes si nécessaire</li>
+        </ol>
+        <h3>Bonnes pratiques :</h3>
+        <ul>
+            <li>Organisez les éléments de gauche à droite, de haut en bas</li>
+            <li>Utilisez des filtres pour permettre l'interaction</li>
+            <li>Testez votre tableau de bord avec des utilisateurs finaux</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>8. Publier et partager</h2>
+        <h3>Option 1 : Power BI Service (gratuit)</h3>
+        <ol>
+            <li>Créez un compte gratuit sur powerbi.microsoft.com</li>
+            <li>Dans Power BI Desktop, cliquez sur "Publier"</li>
+            <li>Connectez-vous à votre compte</li>
+            <li>Votre rapport est maintenant en ligne !</li>
+        </ol>
+        <h3>Option 2 : Exporter en PDF</h3>
+        <ul>
+            <li>Fichier → Exporter → PDF</li>
+            <li>Parfait pour partager des rapports statiques</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>9. Ressources pour aller plus loin</h2>
+        <ul>
+            <li><strong>Documentation officielle</strong> : docs.microsoft.com/power-bi</li>
+            <li><strong>Vidéos YouTube</strong> : Recherchez "Power BI tutorial français"</li>
+            <li><strong>Communauté</strong> : community.powerbi.com</li>
+            <li><strong>Formations</strong> : Microsoft Learn (gratuit)</li>
+        </ul>
+    </div>
+
+    <div class="download-section">
+        <p><strong>Besoin d'aide pour créer votre tableau de bord ?</strong></p>
+        <p>Je peux vous accompagner dans la création de vos visualisations Power BI.</p>
+        <a href="contact.html" class="download-btn">Me contacter</a>
+        <p style="margin-top: 1rem;"><a href="index.html">← Retour à l'accueil</a></p>
+    </div>
+</body>
+</html>

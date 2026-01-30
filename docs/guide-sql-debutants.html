@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SQL pour Débutants - Guide Gratuit</title>
+    <meta name="description" content="Apprenez les bases du SQL avec des exemples pratiques. Guide gratuit pour débutants." />
+    <link rel="stylesheet" href="styles.css?v=20260131">
+    <style>
+        body {
+            background: #fff;
+            padding: 2rem;
+            max-width: 900px;
+            margin: 0 auto;
+            font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .guide-header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 3px solid var(--secondary-color);
+        }
+        .guide-header h1 {
+            color: var(--primary-color);
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        .section {
+            background: #f8f9fa;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border-radius: 12px;
+            border-left: 4px solid var(--secondary-color);
+        }
+        .section h2 {
+            color: var(--primary-color);
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+        }
+        .section h3 {
+            color: var(--secondary-color);
+            font-size: 1.2rem;
+            margin-top: 1.5rem;
+            margin-bottom: 0.75rem;
+        }
+        .code-block {
+            background: #2c3e50;
+            color: #ecf0f1;
+            padding: 1.5rem;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 1rem 0;
+            font-family: 'Courier New', monospace;
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+        .code-block code {
+            color: #ecf0f1;
+        }
+        .section ul, .section ol {
+            padding-left: 1.5rem;
+            line-height: 1.8;
+        }
+        .section li {
+            margin-bottom: 0.5rem;
+        }
+        .download-section {
+            text-align: center;
+            margin-top: 3rem;
+            padding: 2rem;
+            background: linear-gradient(135deg, rgba(52, 152, 219, 0.1), rgba(52, 152, 219, 0.05));
+            border-radius: 12px;
+        }
+        .download-btn {
+            display: inline-block;
+            padding: 1rem 2rem;
+            background: var(--secondary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            margin-top: 1rem;
+        }
+        @media print {
+            body { padding: 0; }
+            .download-section { display: none; }
+        }
+    </style>
+</head>
+<body>
+    <div class="guide-header">
+        <h1>SQL pour Débutants</h1>
+        <p>Apprenez les bases du SQL avec des exemples pratiques</p>
+        <p><strong>Par Yann Danneels-Coignard - Data Analyst</strong></p>
+    </div>
+
+    <div class="section">
+        <h2>1. Qu'est-ce que SQL ?</h2>
+        <p>SQL (Structured Query Language) est un langage de programmation utilisé pour gérer et manipuler des bases de données relationnelles.</p>
+        <h3>À quoi ça sert ?</h3>
+        <ul>
+            <li><strong>Extraire des données</strong> : Récupérer des informations depuis une base</li>
+            <li><strong>Analyser</strong> : Calculer des statistiques, agrégations</li>
+            <li><strong>Transformer</strong> : Nettoyer et préparer les données</li>
+            <li><strong>Créer des rapports</strong> : Générer des tableaux pour l'analyse</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>2. Concepts de base</h2>
+        <h3>Base de données (Database)</h3>
+        <p>Conteneur qui regroupe toutes vos données.</p>
+        <h3>Table</h3>
+        <p>Structure qui contient des données organisées en lignes et colonnes.</p>
+        <h3>Colonne (Champ)</h3>
+        <p>Représente un type d'information (ex: Nom, Prénom, Age).</p>
+        <h3>Ligne (Enregistrement)</h3>
+        <p>Représente une entrée complète dans la table.</p>
+    </div>
+
+    <div class="section">
+        <h2>3. La commande SELECT</h2>
+        <p>SELECT est la commande la plus utilisée pour récupérer des données.</p>
+        <h3>Syntaxe de base :</h3>
+        <div class="code-block">
+<code>SELECT colonne1, colonne2
+FROM nom_table;</code>
+        </div>
+        <h3>Exemples pratiques :</h3>
+        <div class="code-block">
+<code>-- Sélectionner toutes les colonnes
+SELECT *
+FROM clients;
+
+-- Sélectionner des colonnes spécifiques
+SELECT nom, prenom, email
+FROM clients;
+
+-- Sélectionner avec un alias
+SELECT nom AS Nom_Client, email AS Email_Contact
+FROM clients;</code>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>4. Filtrer avec WHERE</h2>
+        <p>WHERE permet de filtrer les résultats selon des conditions.</p>
+        <h3>Exemples :</h3>
+        <div class="code-block">
+<code>-- Clients de Paris
+SELECT *
+FROM clients
+WHERE ville = 'Paris';
+
+-- Clients avec plus de 1000€ de commandes
+SELECT *
+FROM commandes
+WHERE montant > 1000;
+
+-- Plusieurs conditions avec AND
+SELECT *
+FROM clients
+WHERE ville = 'Paris' AND age > 30;
+
+-- Conditions avec OR
+SELECT *
+FROM produits
+WHERE categorie = 'Électronique' OR prix < 50;</code>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>5. Trier avec ORDER BY</h2>
+        <p>ORDER BY permet de trier les résultats.</p>
+        <div class="code-block">
+<code>-- Trier par montant croissant
+SELECT *
+FROM commandes
+ORDER BY montant ASC;
+
+-- Trier par date décroissante
+SELECT *
+FROM commandes
+ORDER BY date_commande DESC;
+
+-- Trier par plusieurs colonnes
+SELECT *
+FROM clients
+ORDER BY ville ASC, nom ASC;</code>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>6. Agrégations : COUNT, SUM, AVG</h2>
+        <p>Les fonctions d'agrégation permettent de calculer des statistiques.</p>
+        <div class="code-block">
+<code>-- Compter le nombre de clients
+SELECT COUNT(*) AS nombre_clients
+FROM clients;
+
+-- Somme des ventes
+SELECT SUM(montant) AS total_ventes
+FROM commandes;
+
+-- Moyenne des montants
+SELECT AVG(montant) AS moyenne_commande
+FROM commandes;
+
+-- Maximum et minimum
+SELECT MAX(montant) AS commande_max,
+       MIN(montant) AS commande_min
+FROM commandes;</code>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>7. GROUP BY : Grouper les données</h2>
+        <p>GROUP BY permet de regrouper les données et calculer des statistiques par groupe.</p>
+        <div class="code-block">
+<code>-- Ventes par ville
+SELECT ville, SUM(montant) AS total_ventes
+FROM commandes
+GROUP BY ville;
+
+-- Nombre de commandes par client
+SELECT client_id, COUNT(*) AS nb_commandes
+FROM commandes
+GROUP BY client_id;
+
+-- Moyenne des ventes par catégorie
+SELECT categorie, AVG(prix) AS prix_moyen
+FROM produits
+GROUP BY categorie;</code>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>8. JOIN : Joindre des tables</h2>
+        <p>JOIN permet de combiner des données de plusieurs tables.</p>
+        <h3>Types de JOIN :</h3>
+        <ul>
+            <li><strong>INNER JOIN</strong> : Retourne seulement les correspondances</li>
+            <li><strong>LEFT JOIN</strong> : Retourne toutes les lignes de la table de gauche</li>
+            <li><strong>RIGHT JOIN</strong> : Retourne toutes les lignes de la table de droite</li>
+        </ul>
+        <div class="code-block">
+<code>-- Joindre clients et commandes
+SELECT c.nom, c.prenom, co.montant, co.date_commande
+FROM clients c
+INNER JOIN commandes co ON c.id = co.client_id;
+
+-- LEFT JOIN pour voir tous les clients même sans commande
+SELECT c.nom, c.prenom, co.montant
+FROM clients c
+LEFT JOIN commandes co ON c.id = co.client_id;</code>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>9. HAVING : Filtrer les groupes</h2>
+        <p>HAVING permet de filtrer les résultats après GROUP BY.</p>
+        <div class="code-block">
+<code>-- Villes avec plus de 10 clients
+SELECT ville, COUNT(*) AS nb_clients
+FROM clients
+GROUP BY ville
+HAVING COUNT(*) > 10;
+
+-- Clients avec plus de 1000€ de commandes totales
+SELECT client_id, SUM(montant) AS total
+FROM commandes
+GROUP BY client_id
+HAVING SUM(montant) > 1000;</code>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>10. Requêtes complexes : Exemple complet</h2>
+        <div class="code-block">
+<code>-- Top 5 des clients par chiffre d'affaires
+SELECT 
+    c.nom,
+    c.prenom,
+    SUM(co.montant) AS total_achats,
+    COUNT(co.id) AS nb_commandes
+FROM clients c
+INNER JOIN commandes co ON c.id = co.client_id
+WHERE co.date_commande >= '2025-01-01'
+GROUP BY c.id, c.nom, c.prenom
+HAVING SUM(co.montant) > 500
+ORDER BY total_achats DESC
+LIMIT 5;</code>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>11. Outils pour pratiquer</h2>
+        <h3>Gratuits :</h3>
+        <ul>
+            <li><strong>SQLite</strong> : Base de données légère, facile à installer</li>
+            <li><strong>MySQL</strong> : Base de données populaire et gratuite</li>
+            <li><strong>PostgreSQL</strong> : Base de données open-source puissante</li>
+            <li><strong>SQL Fiddle</strong> : Pratiquer en ligne sans installation</li>
+            <li><strong>W3Schools SQL</strong> : Tutoriels interactifs</li>
+        </ul>
+        <h3>Pour Excel/Power BI :</h3>
+        <ul>
+            <li>Power Query utilise un langage similaire (M Language)</li>
+            <li>Les concepts SQL s'appliquent aussi à Power Query</li>
+        </ul>
+    </div>
+
+    <div class="download-section">
+        <p><strong>Besoin d'aide pour vos requêtes SQL ?</strong></p>
+        <p>Je peux vous aider à créer des requêtes SQL pour analyser vos données.</p>
+        <a href="contact.html" class="download-btn">Me contacter</a>
+        <p style="margin-top: 1rem;"><a href="index.html">← Retour à l'accueil</a></p>
+    </div>
+</body>
+</html>

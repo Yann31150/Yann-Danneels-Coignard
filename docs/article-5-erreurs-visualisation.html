@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5 Erreurs à Éviter en Visualisation de Données - Article</title>
+    <meta name="description" content="Les pièges courants en visualisation de données et comment les éviter. Conseils pratiques d'un Data Analyst." />
+    <link rel="stylesheet" href="styles.css?v=20260131">
+    <style>
+        body {
+            background: #fff;
+            padding: 2rem;
+            max-width: 900px;
+            margin: 0 auto;
+            font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .article-header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 2px solid #e0e0e0;
+        }
+        .article-header h1 {
+            color: var(--primary-color);
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        .article-meta {
+            color: #666;
+            font-size: 0.95rem;
+        }
+        .article-content {
+            line-height: 1.8;
+            font-size: 1.05rem;
+        }
+        .article-content h2 {
+            color: var(--primary-color);
+            font-size: 1.8rem;
+            margin-top: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        .error-box {
+            background: #ffebee;
+            border-left: 4px solid var(--accent-color);
+            padding: 1.5rem;
+            margin: 2rem 0;
+            border-radius: 8px;
+        }
+        .error-box h3 {
+            color: var(--accent-color);
+            margin-top: 0;
+        }
+        .solution-box {
+            background: #e8f5e9;
+            border-left: 4px solid #4caf50;
+            padding: 1.5rem;
+            margin: 1rem 0;
+            border-radius: 8px;
+        }
+        .back-link {
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 2px solid #e0e0e0;
+        }
+    </style>
+</head>
+<body>
+    <div class="article-header">
+        <h1>5 Erreurs à Éviter en Visualisation de Données</h1>
+        <div class="article-meta">
+            <p>Par Yann Danneels-Coignard - Data Analyst | Publié le 29 janvier 2026</p>
+        </div>
+    </div>
+
+    <div class="article-content">
+        <p>La visualisation de données est un art. Une bonne visualisation éclaire, une mauvaise embrouille. Voici les 5 erreurs les plus courantes que j'observe et comment les éviter.</p>
+
+        <h2>1. Trop d'informations sur un même graphique</h2>
+        <div class="error-box">
+            <h3>❌ L'erreur</h3>
+            <p>Vouloir tout montrer sur un seul graphique : 15 séries de données, 3 axes différents, des annotations partout. Résultat : un graphique illisible qui ne communique rien.</p>
+        </div>
+        <div class="solution-box">
+            <h3>✅ La solution</h3>
+            <ul>
+                <li><strong>Limitez-vous à 3-5 séries maximum</strong> par graphique</li>
+                <li><strong>Créez plusieurs graphiques</strong> plutôt qu'un seul surchargé</li>
+                <li><strong>Utilisez des filtres</strong> pour permettre à l'utilisateur de choisir ce qu'il veut voir</li>
+                <li><strong>Rappelez-vous</strong> : un graphique = un message</li>
+            </ul>
+        </div>
+
+        <h2>2. Mauvais choix du type de graphique</h2>
+        <div class="error-box">
+            <h3>❌ L'erreur</h3>
+            <p>Utiliser un graphique en camembert pour comparer 12 catégories, ou un graphique en ligne pour des données catégorielles. Le message ne passe pas.</p>
+        </div>
+        <div class="solution-box">
+            <h3>✅ La solution</h3>
+            <ul>
+                <li><strong>Comparaisons</strong> → Graphiques en barres (colonnes)</li>
+                <li><strong>Tendances dans le temps</strong> → Graphiques en lignes</li>
+                <li><strong>Proportions</strong> → Camembert (max 5-6 segments) ou barres empilées</li>
+                <li><strong>Relations</strong> → Nuage de points (scatter plot)</li>
+                <li><strong>Distributions</strong> → Histogrammes</li>
+            </ul>
+        </div>
+
+        <h2>3. Échelles trompeuses</h2>
+        <div class="error-box">
+            <h3>❌ L'erreur</h3>
+            <p>Commencer l'axe Y à une valeur autre que 0, ou utiliser des échelles logarithmiques sans le mentionner. Cela peut créer des impressions fausses.</p>
+        </div>
+        <div class="solution-box">
+            <h3>✅ La solution</h3>
+            <ul>
+                <li><strong>Toujours commencer à 0</strong> pour les graphiques en barres (sauf cas très spécifiques)</li>
+                <li><strong>Si vous devez</strong> utiliser une échelle différente, <strong>indiquez-le clairement</strong></li>
+                <li><strong>Utilisez des échelles cohérentes</strong> quand vous comparez plusieurs graphiques</li>
+                <li><strong>Testez</strong> : montrez votre graphique à quelqu'un et voyez ce qu'il comprend</li>
+            </ul>
+        </div>
+
+        <h2>4. Couleurs incohérentes ou inaccessibles</h2>
+        <div class="error-box">
+            <h3>❌ L'erreur</h3>
+            <p>Utiliser 15 couleurs différentes, des couleurs qui se ressemblent trop, ou ignorer le daltonisme. Résultat : confusion et exclusion.</p>
+        </div>
+        <div class="solution-box">
+            <h3>✅ La solution</h3>
+            <ul>
+                <li><strong>Utilisez une palette cohérente</strong> dans tout votre tableau de bord</li>
+                <li><strong>Limitez-vous à 5-7 couleurs</strong> maximum</li>
+                <li><strong>Vérifiez l'accessibilité</strong> : utilisez des outils comme ColorBrewer ou des simulateurs de daltonisme</li>
+                <li><strong>Ajoutez des textures ou formes</strong> en plus des couleurs pour différencier</li>
+                <li><strong>Évitez le rouge/vert</strong> ensemble (problème pour les daltoniens)</li>
+            </ul>
+        </div>
+
+        <h2>5. Absence de contexte et de clarté</h2>
+        <div class="error-box">
+            <h3>❌ L'erreur</h3>
+            <p>Graphiques sans titre, sans légende, sans unités, sans explication. L'utilisateur ne comprend pas ce qu'il regarde ni pourquoi c'est important.</p>
+        </div>
+        <div class="solution-box">
+            <h3>✅ La solution</h3>
+            <ul>
+                <li><strong>Toujours ajouter un titre clair</strong> qui explique ce que montre le graphique</li>
+                <li><strong>Indiquez les unités</strong> (€, %, nombre, etc.)</li>
+                <li><strong>Ajoutez des annotations</strong> pour mettre en évidence les points importants</li>
+                <li><strong>Fournissez du contexte</strong> : comparaison avec la période précédente, objectif, benchmark</li>
+                <li><strong>Rédigez une courte explication</strong> sous le graphique si nécessaire</li>
+            </ul>
+        </div>
+
+        <h2>Bonus : Erreur de débutant</h2>
+        <p><strong>Ne pas penser à l'utilisateur final</strong></p>
+        <p>La meilleure visualisation est celle qui répond à une question précise de votre utilisateur. Avant de créer un graphique, demandez-vous :</p>
+        <ul>
+            <li>Qui va regarder ce graphique ?</li>
+            <li>Quelle question essaie-t-il de résoudre ?</li>
+            <li>Quelle action veut-il prendre avec cette information ?</li>
+        </ul>
+
+        <h2>Conclusion</h2>
+        <p>Éviter ces erreurs vous permettra de créer des visualisations qui communiquent efficacement vos données. Rappelez-vous : <strong>la simplicité et la clarté sont vos meilleures alliées</strong>.</p>
+        <p>Prenez le temps de tester vos visualisations avec des utilisateurs finaux. Leurs retours vous aideront à améliorer continuellement vos tableaux de bord.</p>
+    </div>
+
+    <div class="back-link">
+        <p><a href="index.html">← Retour à l'accueil</a> | <a href="index.html#resources-section">Voir toutes les ressources</a></p>
+    </div>
+</body>
+</html>

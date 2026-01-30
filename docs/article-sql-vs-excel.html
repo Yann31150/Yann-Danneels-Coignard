@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SQL vs Excel : Quand Utiliser Quoi ? - Article</title>
+    <meta name="description" content="Comparaison SQL et Excel : guide de choix selon vos besoins. Conseils d'un Data Analyst." />
+    <link rel="stylesheet" href="styles.css?v=20260131">
+    <style>
+        body {
+            background: #fff;
+            padding: 2rem;
+            max-width: 900px;
+            margin: 0 auto;
+            font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .article-header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 2px solid #e0e0e0;
+        }
+        .article-header h1 {
+            color: var(--primary-color);
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        .article-meta {
+            color: #666;
+            font-size: 0.95rem;
+        }
+        .article-content {
+            line-height: 1.8;
+            font-size: 1.05rem;
+        }
+        .article-content h2 {
+            color: var(--primary-color);
+            font-size: 1.8rem;
+            margin-top: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 2rem 0;
+        }
+        .comparison-table th,
+        .comparison-table td {
+            padding: 1rem;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+        .comparison-table th {
+            background: var(--primary-color);
+            color: white;
+        }
+        .comparison-table tr:nth-child(even) {
+            background: #f8f9fa;
+        }
+        .use-case-box {
+            background: #e3f2fd;
+            border-left: 4px solid var(--secondary-color);
+            padding: 1.5rem;
+            margin: 2rem 0;
+            border-radius: 8px;
+        }
+        .use-case-box h3 {
+            color: var(--secondary-color);
+            margin-top: 0;
+        }
+        .back-link {
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 2px solid #e0e0e0;
+        }
+    </style>
+</head>
+<body>
+    <div class="article-header">
+        <h1>SQL vs Excel : Quand Utiliser Quoi ?</h1>
+        <div class="article-meta">
+            <p>Par Yann Danneels-Coignard - Data Analyst | Publié le 29 janvier 2026</p>
+        </div>
+    </div>
+
+    <div class="article-content">
+        <p>SQL ou Excel ? C'est une question que beaucoup se posent. La réponse : <strong>les deux sont complémentaires</strong>, mais chacun excelle dans des domaines différents. Voici comment choisir selon vos besoins.</p>
+
+        <h2>Comparaison rapide</h2>
+        <table class="comparison-table">
+            <thead>
+                <tr>
+                    <th>Critère</th>
+                    <th>Excel</th>
+                    <th>SQL</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Volume de données</strong></td>
+                    <td>Jusqu'à ~1 million de lignes</td>
+                    <td>Millions à milliards de lignes</td>
+                </tr>
+                <tr>
+                    <td><strong>Complexité des requêtes</strong></td>
+                    <td>Limitée, interface graphique</td>
+                    <td>Très élevée, langage puissant</td>
+                </tr>
+                <tr>
+                    <td><strong>Courbe d'apprentissage</strong></td>
+                    <td>Facile, intuitif</td>
+                    <td>Modérée, nécessite formation</td>
+                </tr>
+                <tr>
+                    <td><strong>Visualisation</strong></td>
+                    <td>Intégrée, graphiques natifs</td>
+                    <td>Nécessite un outil externe (Power BI, Tableau)</td>
+                </tr>
+                <tr>
+                    <td><strong>Collaboration</strong></td>
+                    <td>Facile, partage de fichiers</td>
+                    <td>Base de données centralisée</td>
+                </tr>
+                <tr>
+                    <td><strong>Automatisation</strong></td>
+                    <td>Macros VBA (complexe)</td>
+                    <td>Scripts et procédures stockées</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2>Quand utiliser Excel ?</h2>
+        <div class="use-case-box">
+            <h3>✅ Excel est idéal pour :</h3>
+            <ul>
+                <li><strong>Petits volumes de données</strong> (< 100 000 lignes)</li>
+                <li><strong>Analyses ponctuelles</strong> et exploratoires</li>
+                <li><strong>Calculs financiers</strong> et modélisation</li>
+                <li><strong>Tableaux de bord simples</strong> avec graphiques</li>
+                <li><strong>Travail collaboratif</strong> sur des fichiers partagés</li>
+                <li><strong>Prototypage rapide</strong> d'analyses</li>
+                <li><strong>Présentations</strong> intégrées (graphiques dans Excel)</li>
+            </ul>
+        </div>
+
+        <h3>Exemples concrets :</h3>
+        <ul>
+            <li>Budget mensuel d'une petite équipe</li>
+            <li>Analyse de ventes sur 6 mois</li>
+            <li>Calcul de ROI d'une campagne marketing</li>
+            <li>Tableau de bord RH pour 50 employés</li>
+        </ul>
+
+        <h2>Quand utiliser SQL ?</h2>
+        <div class="use-case-box">
+            <h3>✅ SQL est idéal pour :</h3>
+            <ul>
+                <li><strong>Grands volumes de données</strong> (> 100 000 lignes)</li>
+                <li><strong>Données transactionnelles</strong> en temps réel</li>
+                <li><strong>Requêtes complexes</strong> avec plusieurs jointures</li>
+                <li><strong>Automatisation</strong> de rapports récurrents</li>
+                <li><strong>Intégration</strong> avec d'autres systèmes</li>
+                <li><strong>Données structurées</strong> en base de données</li>
+                <li><strong>Performance</strong> : requêtes rapides sur grandes tables</li>
+            </ul>
+        </div>
+
+        <h3>Exemples concrets :</h3>
+        <ul>
+            <li>Analyse de millions de transactions e-commerce</li>
+            <li>Extraction de données depuis une base CRM</li>
+            <li>Rapports automatisés quotidiens</li>
+            <li>Analyse de logs d'application</li>
+        </ul>
+
+        <h2>Approche hybride : Le meilleur des deux mondes</h2>
+        <p>Dans la pratique, <strong>Excel et SQL sont souvent utilisés ensemble</strong> :</p>
+        <ol>
+            <li><strong>SQL</strong> : Extrait et transforme les données depuis la base</li>
+            <li><strong>Excel</strong> : Reçoit les données et crée les visualisations</li>
+        </ol>
+        <p>Ou encore mieux :</p>
+        <ol>
+            <li><strong>SQL</strong> : Prépare les données agrégées</li>
+            <li><strong>Power BI</strong> : Se connecte à SQL et crée les tableaux de bord</li>
+        </ol>
+
+        <h2>Comment choisir ?</h2>
+        <h3>Posez-vous ces questions :</h3>
+        <ul>
+            <li><strong>Volume :</strong> Combien de lignes de données ? (< 100K → Excel, > 100K → SQL)</li>
+            <li><strong>Source :</strong> D'où viennent les données ? (Fichiers → Excel, Base de données → SQL)</li>
+            <li><strong>Fréquence :</strong> Analyse ponctuelle ou récurrente ? (Ponctuelle → Excel, Récurrente → SQL)</li>
+            <li><strong>Complexité :</strong> Besoin de jointures complexes ? (Oui → SQL, Non → Excel)</li>
+            <li><strong>Performance :</strong> Les calculs sont-ils lents dans Excel ? (Oui → SQL)</li>
+            <li><strong>Collaboration :</strong> Besoin d'une source de vérité unique ? (Oui → SQL)</li>
+        </ul>
+
+        <h2>Recommandations par profil</h2>
+        <h3>Si vous êtes débutant :</h3>
+        <p>Commencez par <strong>Excel</strong>. C'est plus accessible et vous apprendrez les concepts de base (filtres, formules, tableaux croisés dynamiques). Une fois à l'aise, apprenez <strong>SQL</strong> pour passer à l'échelle supérieure.</p>
+
+        <h3>Si vous travaillez avec des bases de données :</h3>
+        <p>Apprenez <strong>SQL</strong> en priorité. C'est indispensable pour extraire et analyser les données stockées dans des systèmes.</p>
+
+        <h3>Si vous créez des tableaux de bord :</h3>
+        <p>Utilisez <strong>SQL</strong> pour préparer les données et <strong>Power BI</strong> (ou Excel) pour la visualisation. C'est la combinaison la plus puissante.</p>
+
+        <h2>Conclusion</h2>
+        <p>Excel et SQL ne sont pas en concurrence, ils sont <strong>complémentaires</strong>. Excel excelle pour l'analyse exploratoire et la visualisation. SQL excelle pour l'extraction et la transformation de grandes quantités de données.</p>
+        <p>La meilleure approche : <strong>maîtrisez les deux</strong>. Utilisez SQL pour préparer vos données, puis Excel ou Power BI pour les analyser et les visualiser. C'est ainsi que vous tirerez le maximum de vos données.</p>
+    </div>
+
+    <div class="back-link">
+        <p><a href="index.html">← Retour à l'accueil</a> | <a href="index.html#resources-section">Voir toutes les ressources</a></p>
+    </div>
+</body>
+</html>
