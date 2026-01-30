@@ -250,7 +250,7 @@ nav {
 }
 
 .hero-subtitle {
-    font-size: 2.1rem;
+    font-size: 2.2rem;
     font-weight: bold;
     color: #fff;
     text-shadow: 2px 2px 8px rgba(44,62,80,0.5);
@@ -272,7 +272,7 @@ nav {
 
 .hero-availability {
     margin-top: 1.5rem;
-    font-size: 1.1rem;
+    font-size: 1.15rem;
     color: #fff;
     opacity: 0.95;
 }
@@ -341,6 +341,7 @@ section h2 {
 .job-highlight h3 {
     color: var(--primary-color);
     margin-bottom: 1rem;
+    font-size: 1.3rem;
 }
 
 .job-highlight ul {
@@ -349,7 +350,8 @@ section h2 {
 
 .job-highlight li {
     margin-bottom: 0.6rem;
-    line-height: 1.6;
+    line-height: 1.7;
+    font-size: 1.05rem;
 }
 
 .pill-list {
@@ -714,10 +716,13 @@ section h2 {
 .about-text {
     max-width: 820px;
     text-align: center;
+    font-size: 1.05rem;
 }
 
 .about-text p {
     margin-bottom: 1rem;
+    font-size: 1.05rem;
+    line-height: 1.7;
 }
 
 /* Compétences */
@@ -734,6 +739,7 @@ section h2 {
     text-align: center;
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
     transition: var(--transition);
+    font-size: 1.05rem;
 }
 
 .skill-card:hover {
