@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-01-30T20:24:01.685910",
+  "lastUpdate": "2026-01-31T08:36:58.644043",
   "articles": [
-    {
-      "title": "[5/21] - Transformers expliqué : L&#39;IA qui lit TOUT en même temps | 2024",
-      "description": "Quand ChatGPT traite votre texte, il ne lit pas mot par mot comme vous. Il regarde TOUT simultanément grâce aux Transformers, ...",
-      "url": "https://www.youtube.com/watch?v=6SgwGw6Cxn8",
-      "source": "Deep Learner, One Step at a Time",
-      "publishedAt": "2025-12-13T15:00:19Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "6SgwGw6Cxn8",
-      "thumbnail": "https://i.ytimg.com/vi/6SgwGw6Cxn8/hqdefault.jpg"
-    },
     {
       "title": "[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning",
       "description": "Paradoxe du deep learning : plus on ajoute de couches, plus le réseau devient... stupide. Jusqu'à ce qu'une idée géniale change ...",
@@ -101,7 +89,7 @@
       "title": "Top 6 YouTube Channels to Master Data Analysis 🚀 #dataanalysis #python #career",
       "description": "If you want to become a Data Analyst, these Top 6 YouTube channels are a good place to begin. They explain data analysis ...",
       "url": "https://www.youtube.com/watch?v=5BpNnoedIlo",
-      "source": "Aryu Academy ",
+      "source": "Aryu Academy Private Limited",
       "publishedAt": "2025-12-17T10:39:16Z",
       "category": "ai",
       "hasVideo": true,
@@ -120,6 +108,30 @@
       "isYouTube": true,
       "videoId": "-ONGM2pg3tc",
       "thumbnail": "https://i.ytimg.com/vi/-ONGM2pg3tc/hqdefault.jpg"
+    },
+    {
+      "title": "Meta veut dominer l’IA en s’appuyant sur tout ce qu’elle sait de vous, vous n’avez pas le choix",
+      "description": "Meta investit massivement pour imposer sa vision de l’intelligence artificielle. L’entreprise s’appuie sur des années de collecte de données personnelles. Cette stratégie se déploie sans que les utili...",
+      "url": "https://www.phonandroid.com/meta-veut-dominer-lia-en-sappuyant-sur-tout-ce-quelle-sait-de-vous-vous-navez-pas-le-choix.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-01-30T08:09:16Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Learn Power BI FAST – Full Beginner Crash Course (1 Hour)",
+      "description": "Learn Power BI from zero in under 1 hour. This fast Power BI crash course for beginners takes you through the full Power BI ...",
+      "url": "https://www.youtube.com/watch?v=WdCltDhmRLo",
+      "source": "Data with Baraa",
+      "publishedAt": "2025-12-09T13:30:07Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "WdCltDhmRLo",
+      "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg"
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -182,11 +194,11 @@
       "thumbnail": "https://i.ytimg.com/vi/RWrnqhSYUmk/hqdefault.jpg"
     },
     {
-      "title": "Au Mozambique, TotalEnergies relance son projet gazier controversé, trop gros pour être abandonné",
-      "description": "En déplacement au Mozambique, jeudi 29 janvier, le PDG de TotalEnergies a officialisé la relance du méga-projet gazier Mozambique LNG, suspendu depuis 2021 après une attaque djihadiste.",
-      "url": "https://www.lemonde.fr/energies/article/2026/01/29/au-mozambique-totalenergies-relance-son-projet-gazier-controverse-trop-gros-pour-etre-abandonne_6664653_1653054.html",
-      "source": "Le Monde",
-      "publishedAt": "2026-01-29T17:49:59Z",
+      "title": "Pour l'IA, l'ogre Microsoft s'offre 15 centres de données sur les ruines de Foxconn !",
+      "description": "Avec un investissement colossal dépassant les 13 milliards de dollars, Microsoft a obtenu le feu vert pour construire 15 nouveaux centres de données dans le Wisconsin. Ce projet titanesque, érigé sur ...",
+      "url": "https://www.generation-nt.com/actualites/microsoft-datacenter-wisconsin-ia-foxconn-environnement-2069895",
+      "source": "Génération NT",
+      "publishedAt": "2026-01-30T07:20:01Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,18 +242,6 @@
       "thumbnail": "https://i.ytimg.com/vi/gnDUGKIj6Fk/hqdefault.jpg"
     },
     {
-      "title": "Introduction à Positron: VSCode + RStudio pour la data science",
-      "description": "Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...",
-      "url": "https://www.youtube.com/watch?v=gcbiOQCR-O8",
-      "source": "WeData",
-      "publishedAt": "2026-01-09T17:01:15Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "gcbiOQCR-O8",
-      "thumbnail": "https://i.ytimg.com/vi/gcbiOQCR-O8/hqdefault.jpg"
-    },
-    {
       "title": "Devenir 100% EXPERT : ChaGPT 5.2 ! Pourquoi TOUT a changé.",
       "description": "Découvrez la méthode incroyable pour débloquer GPT 5.2 à 100% et exploiter pleinement son potentiel. Dans cette vidéo, nous ...",
       "url": "https://www.youtube.com/watch?v=8CLJXAu1UUY",
@@ -252,18 +252,6 @@
       "isYouTube": true,
       "videoId": "8CLJXAu1UUY",
       "thumbnail": "https://i.ytimg.com/vi/8CLJXAu1UUY/hqdefault.jpg"
-    },
-    {
-      "title": "Apple rachète Q.ai, une start-up d’IA pour 2 milliards de dollars",
-      "description": "Apple renforce son arsenal dans l’intelligence artificielle avec l’acquisition de la start-up israélienne Q.ai, spécialisée dans l’analyse des expressions faciales et l’audio. Le montant de la transac...",
-      "url": "https://iphoneaddict.fr/post/news-422743-apple-rachete-q-ai-start-up-dintelligence-artificielle-laudio",
-      "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-01-29T17:34:27Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "IA : L'ESA découvre 800 nouvelles anomalies cosmiques en un temps record",
@@ -278,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Comment la mémoire infinie de l'IA va-t-elle redéfinir le web en 2026 ?",
-      "description": "Sam Altman, patron d'OpenAI, annonce que la prochaine grande avancée de l'IA sera sa « mémoire infinie et parfaite ». Cette capacité transformera les assistants IA en agents autonomes capables d'achet...",
-      "url": "https://www.generation-nt.com/actualites/ia-memoire-seo-2026-agent-commerce-sam-altman-openai-2069910",
-      "source": "Génération NT",
-      "publishedAt": "2026-01-29T16:50:01Z",
+      "title": "C'est une « démonstration éloquente » : une IA a détecté 1 300 objets cosmiques inconnus dans les images d'Hubble !",
+      "description": "Visionner 100 millions d’images en deux jours, l’humain en est incapable. Mais la machine peut le faire. C’est ce que montrent aujourd’hui des astronomes qui ont utilisé le pouvoir de l’intelligence a...",
+      "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-cest-demonstration-eloquente-ia-detecte-1-300-objets-cosmiques-inconnus-images-hubble-130676/",
+      "source": "Futura",
+      "publishedAt": "2026-01-29T07:01:12Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Le patron d'Anthropic a-t-il raison de comparer l'IA aux armes nucléaires ?",
-      "description": "Dario Amodei, le PDG d'Anthropic, sonne l'alarme de manière spectaculaire. Dans un essai choc et lors d'interventions publiques, il prévient que l'intelligence artificielle pourrait surpasser l'intell...",
-      "url": "https://www.generation-nt.com/actualites/dario-amodei-anthropic-ia-danger-regulation-claude-2069757",
-      "source": "Génération NT",
-      "publishedAt": "2026-01-28T15:10:01Z",
+      "title": "Siri IA avec Google Gemini respectera la vie privée, promet Tim Cook",
+      "description": "C’est un message martelé avec insistance par Tim Cook : l’alliance récente avec Google Gemini pour le nouveau Siri utilisant l’intelligence artificielle ne remet pas en cause les principes fondamentau...",
+      "url": "https://iphoneaddict.fr/post/news-422772-siri-ia-google-gemini-respectera-vie-privee-promet-tim-cook",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-01-30T07:03:33Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "La dernière IA de Google vous permet de créer des copies de Zelda Breath of the Wild en plus moche, mais le potentiel est là",
+      "description": "Dévoilée l’année dernière, l’intelligence artificielle générative Genie de Google va être mise à disposition du grand public. Pour le moment, l’outil manque d’imagination et d’optimisation, mais les p...",
+      "url": "https://www.frandroid.com/marques/google/2960841_la-derniere-ia-de-google-vous-permet-de-creer-des-copies-de-zelda-breath-of-the-wild-en-plus-moche-mais-le-potentiel-est-la",
+      "source": "Frandroid",
+      "publishedAt": "2026-01-30T07:43:28Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

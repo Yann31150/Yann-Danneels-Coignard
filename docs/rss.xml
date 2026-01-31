@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 30 Jan 2026 20:24:01 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jan 2026 08:36:58 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>[5/21] - Transformers expliqué : L&amp;#39;IA qui lit TOUT en même temps | 2024</title>
-            <link>https://www.youtube.com/watch?v=6SgwGw6Cxn8</link>
-            <description><![CDATA[Quand ChatGPT traite votre texte, il ne lit pas mot par mot comme vous. Il regarde TOUT simultanément grâce aux Transformers, ...]]></description>
-            <pubDate>Sat, 13 Dec 2025 15:00:19 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=6SgwGw6Cxn8</guid>
-            <source>Deep Learner, One Step at a Time</source>
-        </item>
         <item>
             <title>[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning</title>
             <link>https://www.youtube.com/watch?v=DnyIUzoKGsQ</link>
@@ -82,7 +74,7 @@
             <description><![CDATA[If you want to become a Data Analyst, these Top 6 YouTube channels are a good place to begin. They explain data analysis ...]]></description>
             <pubDate>Wed, 17 Dec 2025 10:39:16 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=5BpNnoedIlo</guid>
-            <source>Aryu Academy </source>
+            <source>Aryu Academy Private Limited</source>
         </item>
         <item>
             <title>Connexion entre Python (notebook) et Excel via « xlwings »</title>
@@ -91,6 +83,22 @@
             <pubDate>Sun, 21 Dec 2025 10:20:45 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=-ONGM2pg3tc</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Meta veut dominer l’IA en s’appuyant sur tout ce qu’elle sait de vous, vous n’avez pas le choix</title>
+            <link>https://www.phonandroid.com/meta-veut-dominer-lia-en-sappuyant-sur-tout-ce-quelle-sait-de-vous-vous-navez-pas-le-choix.html</link>
+            <description><![CDATA[Meta investit massivement pour imposer sa vision de l’intelligence artificielle. L’entreprise s’appuie sur des années de collecte de données personnelles. Cette stratégie se déploie sans que les utili...]]></description>
+            <pubDate>Fri, 30 Jan 2026 08:09:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.phonandroid.com/meta-veut-dominer-lia-en-sappuyant-sur-tout-ce-quelle-sait-de-vous-vous-navez-pas-le-choix.html</guid>
+            <source>Phonandroid</source>
+        </item>
+        <item>
+            <title>Learn Power BI FAST – Full Beginner Crash Course (1 Hour)</title>
+            <link>https://www.youtube.com/watch?v=WdCltDhmRLo</link>
+            <description><![CDATA[Learn Power BI from zero in under 1 hour. This fast Power BI crash course for beginners takes you through the full Power BI ...]]></description>
+            <pubDate>Tue, 09 Dec 2025 13:30:07 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=WdCltDhmRLo</guid>
+            <source>Data with Baraa</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -133,12 +141,12 @@
             <source>Data Tutorials</source>
         </item>
         <item>
-            <title>Au Mozambique, TotalEnergies relance son projet gazier controversé, trop gros pour être abandonné</title>
-            <link>https://www.lemonde.fr/energies/article/2026/01/29/au-mozambique-totalenergies-relance-son-projet-gazier-controverse-trop-gros-pour-etre-abandonne_6664653_1653054.html</link>
-            <description><![CDATA[En déplacement au Mozambique, jeudi 29 janvier, le PDG de TotalEnergies a officialisé la relance du méga-projet gazier Mozambique LNG, suspendu depuis 2021 après une attaque djihadiste.]]></description>
-            <pubDate>Thu, 29 Jan 2026 17:49:59 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lemonde.fr/energies/article/2026/01/29/au-mozambique-totalenergies-relance-son-projet-gazier-controverse-trop-gros-pour-etre-abandonne_6664653_1653054.html</guid>
-            <source>Le Monde</source>
+            <title>Pour l'IA, l'ogre Microsoft s'offre 15 centres de données sur les ruines de Foxconn !</title>
+            <link>https://www.generation-nt.com/actualites/microsoft-datacenter-wisconsin-ia-foxconn-environnement-2069895</link>
+            <description><![CDATA[Avec un investissement colossal dépassant les 13 milliards de dollars, Microsoft a obtenu le feu vert pour construire 15 nouveaux centres de données dans le Wisconsin. Ce projet titanesque, érigé sur ...]]></description>
+            <pubDate>Fri, 30 Jan 2026 07:20:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/microsoft-datacenter-wisconsin-ia-foxconn-environnement-2069895</guid>
+            <source>Génération NT</source>
         </item>
         <item>
             <title>2-Data Mining :Arbres de Décision#notebooklm</title>
@@ -163,14 +171,6 @@
             <pubDate>Tue, 09 Dec 2025 09:45:30 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=gnDUGKIj6Fk</guid>
             <source>Riadh Zaafrani</source>
-        </item>
-        <item>
-            <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
-            <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
-            <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
-            <pubDate>Fri, 09 Jan 2026 17:01:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=gcbiOQCR-O8</guid>
-            <source>WeData</source>
         </item>
     </channel>
 </rss>
