@@ -250,7 +250,7 @@ nav {
 }
 
 .hero-subtitle {
-    font-size: 2.2rem;
+    font-size: 2.4rem;
     font-weight: bold;
     color: #fff;
     text-shadow: 2px 2px 8px rgba(44,62,80,0.5);
@@ -272,7 +272,7 @@ nav {
 
 .hero-availability {
     margin-top: 1.5rem;
-    font-size: 1.15rem;
+    font-size: 1.25rem;
     color: #fff;
     opacity: 0.95;
 }
@@ -1490,7 +1490,7 @@ footer {
     }
     
     .hero-subtitle {
-        font-size: 1.8rem;
+        font-size: 1.9rem;
     }
     
     section {
@@ -1557,13 +1557,13 @@ footer {
     }
     
     .hero-subtitle {
-        font-size: 1.2rem;
+        font-size: 1.3rem;
         margin-bottom: 1.5rem;
         line-height: 1.4;
     }
     
     .hero-availability {
-        font-size: 0.9rem;
+        font-size: 1rem;
         margin-top: 1rem;
         padding: 0 10px;
         line-height: 1.5;
@@ -1588,12 +1588,12 @@ footer {
     }
     
     .about-intro-inline h3 {
-        font-size: 1.4rem;
+        font-size: 1.5rem;
         margin-bottom: 1rem;
     }
     
     .about-intro-content {
-        font-size: 0.95rem;
+        font-size: 1.05rem;
         line-height: 1.6;
     }
     
@@ -1744,12 +1744,12 @@ footer {
     }
     
     .hero-subtitle {
-        font-size: 1rem;
+        font-size: 1.1rem;
         line-height: 1.4;
     }
     
     .hero-availability {
-        font-size: 0.85rem;
+        font-size: 0.95rem;
         line-height: 1.5;
     }
     
