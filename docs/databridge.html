@@ -67,7 +67,7 @@
             </p>
             <div class="databridge-cta">
                 <a href="contact.html" class="cta-button" data-translate="databridge.contactUs">Nous contacter</a>
-                <a href="Databridge.pdf" download class="cta-button cta-secondary">
+                <a href="Databridge%20Plaquette.pdf" download class="cta-button cta-secondary">
                     <i class="fas fa-download"></i> Télécharger la présentation PDF
                 </a>
             </div>
@@ -83,7 +83,7 @@
                         <i class="fas fa-file-pdf"></i>
                         Découvrez notre présentation complète
                     </p>
-                    <a href="Databridge.pdf" download class="cta-button" style="margin: 0; padding: 0.75rem 1.5rem; font-size: 0.95rem;">
+                    <a href="Databridge%20Plaquette.pdf" download class="cta-button" style="margin: 0; padding: 0.75rem 1.5rem; font-size: 0.95rem;">
                         <i class="fas fa-download"></i> Télécharger
                     </a>
                 </div>
@@ -97,7 +97,7 @@
                 </div>
                 <p class="pdf-viewer-fallback">
                     <i class="fas fa-info-circle"></i>
-                    Si le PDF ne s'affiche pas, <a href="Databridge.pdf" download>téléchargez-le ici</a>
+                    Si le PDF ne s'affiche pas, <a href="Databridge%20Plaquette.pdf" download>téléchargez-le ici</a>
                 </p>
             </div>
         </div>
@@ -248,7 +248,7 @@
       const loadingDiv = document.getElementById('pdf-loading');
       const pagesContainer = document.getElementById('pdf-pages-container');
       
-      pdfjsLib.getDocument('Databridge.pdf').promise.then(function(pdf) {
+      pdfjsLib.getDocument('Databridge%20Plaquette.pdf').promise.then(function(pdf) {
         loadingDiv.style.display = 'none';
         
         // Calculer la largeur pour afficher les pages en grand format
@@ -288,7 +288,7 @@
           });
         }
       }).catch(function(error) {
-        loadingDiv.innerHTML = '<p style="color: var(--accent-color);">Erreur lors du chargement du PDF. <a href="Databridge.pdf" download>Téléchargez-le ici</a></p>';
+        loadingDiv.innerHTML = '<p style="color: var(--accent-color);">Erreur lors du chargement du PDF. <a href="Databridge%20Plaquette.pdf" download>Téléchargez-le ici</a></p>';
         console.error('Erreur PDF:', error);
       });
     });
