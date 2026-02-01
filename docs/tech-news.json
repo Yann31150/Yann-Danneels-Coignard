@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-02-01T08:26:53.694489",
+  "lastUpdate": "2026-02-01T08:38:50.485692",
   "articles": [
+    {
+      "title": "[5/21] - Transformers expliqué : L&#39;IA qui lit TOUT en même temps | 2024",
+      "description": "Quand ChatGPT traite votre texte, il ne lit pas mot par mot comme vous. Il regarde TOUT simultanément grâce aux Transformers, ...",
+      "url": "https://www.youtube.com/watch?v=6SgwGw6Cxn8",
+      "source": "Deep Learner, One Step at a Time",
+      "publishedAt": "2025-12-13T15:00:19Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "6SgwGw6Cxn8",
+      "thumbnail": "https://i.ytimg.com/vi/6SgwGw6Cxn8/hqdefault.jpg"
+    },
     {
       "title": "[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning",
       "description": "Paradoxe du deep learning : plus on ajoute de couches, plus le réseau devient... stupide. Jusqu'à ce qu'une idée géniale change ...",
@@ -24,18 +36,6 @@
       "isYouTube": true,
       "videoId": "N0gTIxg9l2A",
       "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
-    },
-    {
-      "title": "Python Machine Learning sous Excel avec « xlwings lite »",
-      "description": "Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...",
-      "url": "https://www.youtube.com/watch?v=feDNuaLVDLk",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2025-12-22T15:26:03Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "feDNuaLVDLk",
-      "thumbnail": "https://i.ytimg.com/vi/feDNuaLVDLk/hqdefault.jpg"
     },
     {
       "title": "Power BI Desktop Installation TUTO GRATUIT 2025",
@@ -62,40 +62,16 @@
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
     },
     {
-      "title": "Comment je deviendrais analyste de données en 2026 (feuille de route complète)",
-      "description": "👉 MENTORAT – Prêt(e) à devenir un analyste de données d'exception ? Les candidatures pour la promotion de mars 2026 sont ...",
-      "url": "https://www.youtube.com/watch?v=hGCKdMsfU7g",
-      "source": "Christine Jiang",
-      "publishedAt": "2026-01-02T14:01:10Z",
+      "title": "SQL | Maîtriser le LEFT JOIN (Jointure Gauche) 🔍 Identifier les Clients Inactifs #oraclesql #sqltips",
+      "description": "Comment obtenir tous vos clients, même ceux qui n'ont jamais passé commande ? Le LEFT JOIN est la réponse ! C'est l'outil ...",
+      "url": "https://www.youtube.com/watch?v=mj7JT8HdBvg",
+      "source": "Oracle SQL Tips FR",
+      "publishedAt": "2025-12-15T02:10:44Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "hGCKdMsfU7g",
-      "thumbnail": "https://i.ytimg.com/vi/hGCKdMsfU7g/hqdefault.jpg"
-    },
-    {
-      "title": "Data Analysis with Python Full Course Tutorial",
-      "description": "Data Analysis with Python Full Course Tutorial Get Ad-Free Training by becoming a member today!",
-      "url": "https://www.youtube.com/watch?v=bLDbzcHwxM4",
-      "source": "Learn Skills Daily",
-      "publishedAt": "2026-01-23T17:30:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "bLDbzcHwxM4",
-      "thumbnail": "https://i.ytimg.com/vi/bLDbzcHwxM4/hqdefault.jpg"
-    },
-    {
-      "title": "Top 6 YouTube Channels to Master Data Analysis 🚀 #dataanalysis #python #career",
-      "description": "If you want to become a Data Analyst, these Top 6 YouTube channels are a good place to begin. They explain data analysis ...",
-      "url": "https://www.youtube.com/watch?v=5BpNnoedIlo",
-      "source": "Aryu Academy Private Limited",
-      "publishedAt": "2025-12-17T10:39:16Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "5BpNnoedIlo",
-      "thumbnail": "https://i.ytimg.com/vi/5BpNnoedIlo/hqdefault.jpg"
+      "videoId": "mj7JT8HdBvg",
+      "thumbnail": "https://i.ytimg.com/vi/mj7JT8HdBvg/hqdefault.jpg"
     },
     {
       "title": "Connexion entre Python (notebook) et Excel via « xlwings »",
@@ -122,28 +98,76 @@
       "thumbnail": ""
     },
     {
-      "title": "Learn Power BI FAST – Full Beginner Crash Course (1 Hour)",
-      "description": "Learn Power BI from zero in under 1 hour. This fast Power BI crash course for beginners takes you through the full Power BI ...",
-      "url": "https://www.youtube.com/watch?v=WdCltDhmRLo",
-      "source": "Data with Baraa",
-      "publishedAt": "2025-12-09T13:30:07Z",
-      "category": "data",
+      "title": "DeepSeek MHC : La Nouvelle Architecture qui RÉINVENTE l’IA (Adieu les Transformers ?) 😱🔥",
+      "description": "DeepSeek vient de briser les règles du jeu avec mHC. Alors que la Big Tech mise tout sur la force brute et les milliards de ...",
+      "url": "https://www.youtube.com/watch?v=-rFx2b3ZuXQ",
+      "source": "Nerdy Kings",
+      "publishedAt": "2026-01-03T19:35:51Z",
+      "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "WdCltDhmRLo",
-      "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg"
+      "videoId": "-rFx2b3ZuXQ",
+      "thumbnail": "https://i.ytimg.com/vi/-rFx2b3ZuXQ/hqdefault.jpg"
     },
     {
-      "title": "Maîtriser Power Query : Automatisez votre nettoyage de données sur Excel et Power BI",
-      "description": "Cette formation complète vous présente Power Query, l'outil incontournable d'Excel et Power BI pour automatiser la préparation ...",
-      "url": "https://www.youtube.com/watch?v=Q-mQB9OAp50",
-      "source": "Cabinet Smart Otobos Consulting",
-      "publishedAt": "2026-01-16T11:01:06Z",
+      "title": "Comment les Machines Comprennent le Langage Humain en 10 Secondes #aiart",
+      "description": "NLP : Comment les Machines Comprennent le Langage Humain en 10 Secondes Bienvenue dans cette nouvelle vidéo sur ...",
+      "url": "https://www.youtube.com/watch?v=KT6DIPrVoYg",
+      "source": "INFOTIQUE",
+      "publishedAt": "2025-12-10T18:11:22Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "KT6DIPrVoYg",
+      "thumbnail": "https://i.ytimg.com/vi/KT6DIPrVoYg/hqdefault.jpg"
+    },
+    {
+      "title": "MySQL vs PostgreSQL vs MongoDB : Différences 2026",
+      "description": "SQL ou NoSQL ? Comprendre les différences entre MySQL, PostgreSQL et MongoDB. #dev #data #tech.",
+      "url": "https://www.youtube.com/watch?v=KD53CSQtsHQ",
+      "source": "TechVantage FR",
+      "publishedAt": "2025-12-25T19:39:02Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Q-mQB9OAp50",
-      "thumbnail": "https://i.ytimg.com/vi/Q-mQB9OAp50/hqdefault.jpg"
+      "videoId": "KD53CSQtsHQ",
+      "thumbnail": "https://i.ytimg.com/vi/KD53CSQtsHQ/hqdefault.jpg"
+    },
+    {
+      "title": "SQL | Maîtriser l&#39;Opérateur INTERSECT (Trouver les Doublons Communs) [Opérateurs d&#39;Ensemble #2] #sql",
+      "description": "Bienvenue dans l'Épisode 2 de notre série sur les Opérateurs d'Ensemble SQL ! L'opérateur INTERSECT est l'outil d'audit ultime ...",
+      "url": "https://www.youtube.com/watch?v=_ZnaKkb3vzQ",
+      "source": "Oracle SQL Tips FR",
+      "publishedAt": "2025-12-21T04:49:47Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "_ZnaKkb3vzQ",
+      "thumbnail": "https://i.ytimg.com/vi/_ZnaKkb3vzQ/hqdefault.jpg"
+    },
+    {
+      "title": "SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips",
+      "description": "Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...",
+      "url": "https://www.youtube.com/watch?v=qup-uitBx58",
+      "source": "Oracle SQL Tips FR",
+      "publishedAt": "2026-01-04T03:10:49Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "qup-uitBx58",
+      "thumbnail": "https://i.ytimg.com/vi/qup-uitBx58/hqdefault.jpg"
+    },
+    {
+      "title": "Le secret des pros : automatiser l&#39;organisation de vos mesures dans Power BI",
+      "description": "Vos mesures Power BI sont dispersées dans toutes vos tables ? Découvrez comment utiliser Tabular Editor pour centraliser et ...",
+      "url": "https://www.youtube.com/watch?v=GQN9jmpejhw",
+      "source": "Barthelemy Montreuil",
+      "publishedAt": "2026-01-18T16:45:06Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "GQN9jmpejhw",
+      "thumbnail": "https://i.ytimg.com/vi/GQN9jmpejhw/hqdefault.jpg"
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -170,18 +194,6 @@
       "thumbnail": "https://i.ytimg.com/vi/hGbgeWMD4Dc/hqdefault.jpg"
     },
     {
-      "title": "Entretien Analyste Données – Que Répondre aux 10 Questions Clés",
-      "description": "Entretien Analyste Données – Que Répondre aux 10 Questions Clés? Entretien Analyste Données: savoir que répondre aux ...",
-      "url": "https://www.youtube.com/watch?v=Q65w9BSeS-w",
-      "source": "Damal Consult Carrière TV- Français",
-      "publishedAt": "2026-01-02T14:59:27Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Q65w9BSeS-w",
-      "thumbnail": "https://i.ytimg.com/vi/Q65w9BSeS-w/hqdefault_live.jpg"
-    },
-    {
       "title": "Excel pour l’Analyse des Données — Cours Complet (10h) | Gratuit + Certificat (2026)",
       "description": "Bienvenue dans ce cours complet et gratuit sur Microsoft Excel pour l'Analyse des Données (Version 2026) ! En 10 heures, vous ...",
       "url": "https://www.youtube.com/watch?v=saGefucxol4",
@@ -206,18 +218,6 @@
       "thumbnail": "https://i.ytimg.com/vi/_Fe5ju7H5LI/hqdefault.jpg"
     },
     {
-      "title": "Project – 14 (with Dashboard) | Salary Data Analysis | Python Coding for Data Science #python",
-      "description": "Free For All Subscribers - Download All 15 Projects Source Codes + Datasets ...",
-      "url": "https://www.youtube.com/watch?v=TLIotspGcng",
-      "source": "DATA SCIENCE LOVERS",
-      "publishedAt": "2026-01-12T16:31:02Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "TLIotspGcng",
-      "thumbnail": "https://i.ytimg.com/vi/TLIotspGcng/hqdefault.jpg"
-    },
-    {
       "title": "L’orbite basse devient un champ de mine : l’incroyable technologie de SpaceX pour éviter les collisions",
       "description": "À mesure que les satellites se multiplient, le risque d’accident en orbite explose. SpaceX, premier occupant de l’orbite basse, affirme avoir frôlé la catastrophe fin 2025. Sa réponse s’appelle Starga...",
       "url": "https://www.presse-citron.net/orbite-basse-devient-champ-mine-incroyable-technologie-spacex-pour-eviter-collisions/",
@@ -240,18 +240,6 @@
       "isYouTube": true,
       "videoId": "gnDUGKIj6Fk",
       "thumbnail": "https://i.ytimg.com/vi/gnDUGKIj6Fk/hqdefault.jpg"
-    },
-    {
-      "title": "Devenir 100% EXPERT : ChaGPT 5.2 ! Pourquoi TOUT a changé.",
-      "description": "Découvrez la méthode incroyable pour débloquer GPT 5.2 à 100% et exploiter pleinement son potentiel. Dans cette vidéo, nous ...",
-      "url": "https://www.youtube.com/watch?v=8CLJXAu1UUY",
-      "source": "Parlons IA",
-      "publishedAt": "2025-12-14T08:00:18Z",
-      "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "8CLJXAu1UUY",
-      "thumbnail": "https://i.ytimg.com/vi/8CLJXAu1UUY/hqdefault.jpg"
     },
     {
       "title": "tech&fest 2026. « L’IA, un dieu salutaire qui ne demande plus d’efforts » : entretien avec la philosophe Gabrielle Halpern",
@@ -288,6 +276,18 @@
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "Loom-X : Combien peut rapporter un contrat de 1 000$ en 3 mois ? #BusinessEnLigne #Opportunité2026",
+      "description": "RevenusEnLigne #BusinessEnLigne #Opportunité2026 Découvrez LoomX, la plateforme quantitative décentralisée qui ...",
+      "url": "https://www.youtube.com/watch?v=hYUk-U8G08k",
+      "source": "Tekki en Ligne",
+      "publishedAt": "2026-01-09T09:38:16Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "hYUk-U8G08k",
+      "thumbnail": "https://i.ytimg.com/vi/hYUk-U8G08k/hqdefault.jpg"
     },
     {
       "title": "IA : Apple s'offre Q.ai pour 2 milliards de dollars",
