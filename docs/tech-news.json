@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-01-31T08:36:58.644043",
+  "lastUpdate": "2026-02-01T08:26:53.694489",
   "articles": [
     {
       "title": "[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning",
@@ -110,11 +110,11 @@
       "thumbnail": "https://i.ytimg.com/vi/-ONGM2pg3tc/hqdefault.jpg"
     },
     {
-      "title": "Meta veut dominer l’IA en s’appuyant sur tout ce qu’elle sait de vous, vous n’avez pas le choix",
-      "description": "Meta investit massivement pour imposer sa vision de l’intelligence artificielle. L’entreprise s’appuie sur des années de collecte de données personnelles. Cette stratégie se déploie sans que les utili...",
-      "url": "https://www.phonandroid.com/meta-veut-dominer-lia-en-sappuyant-sur-tout-ce-quelle-sait-de-vous-vous-navez-pas-le-choix.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-01-30T08:09:16Z",
+      "title": "Gembloux : Peel, le projet musical 100 % IA",
+      "description": "Avec Peel, Christophe Godfroid explore les possibilités créatives de l’intelligence artificielle jusqu’au bout du processus artistique. Un projet musical prolifique qui questionne autant la création q...",
+      "url": "https://www.lavenir.net/regions/namur/gembloux/2026/01/31/gembloux-peel-le-projet-musical-100-ia-AL3IFCALNNHULEF3JHXTCYR3MA/",
+      "source": "Lavenir.net",
+      "publishedAt": "2026-01-31T08:13:40Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -132,6 +132,18 @@
       "isYouTube": true,
       "videoId": "WdCltDhmRLo",
       "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg"
+    },
+    {
+      "title": "Maîtriser Power Query : Automatisez votre nettoyage de données sur Excel et Power BI",
+      "description": "Cette formation complète vous présente Power Query, l'outil incontournable d'Excel et Power BI pour automatiser la préparation ...",
+      "url": "https://www.youtube.com/watch?v=Q-mQB9OAp50",
+      "source": "Cabinet Smart Otobos Consulting",
+      "publishedAt": "2026-01-16T11:01:06Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Q-mQB9OAp50",
+      "thumbnail": "https://i.ytimg.com/vi/Q-mQB9OAp50/hqdefault.jpg"
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -182,30 +194,6 @@
       "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
     },
     {
-      "title": "Data Analysis Python Project | Real Time Swiggy Sales Analysis | Zero to Hero | Edition 2026",
-      "description": "python #dataanalysis #datascience ⭐ Power BI Complete Video Course - Basic to Advanced ...",
-      "url": "https://www.youtube.com/watch?v=RWrnqhSYUmk",
-      "source": "Data Tutorials",
-      "publishedAt": "2026-01-19T04:52:51Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "RWrnqhSYUmk",
-      "thumbnail": "https://i.ytimg.com/vi/RWrnqhSYUmk/hqdefault.jpg"
-    },
-    {
-      "title": "Pour l'IA, l'ogre Microsoft s'offre 15 centres de données sur les ruines de Foxconn !",
-      "description": "Avec un investissement colossal dépassant les 13 milliards de dollars, Microsoft a obtenu le feu vert pour construire 15 nouveaux centres de données dans le Wisconsin. Ce projet titanesque, érigé sur ...",
-      "url": "https://www.generation-nt.com/actualites/microsoft-datacenter-wisconsin-ia-foxconn-environnement-2069895",
-      "source": "Génération NT",
-      "publishedAt": "2026-01-30T07:20:01Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "2-Data Mining :Arbres de Décision#notebooklm",
       "description": "Introduction au Data Mining Dans cette vidéo, nous expliquons les concepts fondamentaux du Data Mining, ses techniques ...",
       "url": "https://www.youtube.com/watch?v=_Fe5ju7H5LI",
@@ -228,6 +216,18 @@
       "isYouTube": true,
       "videoId": "TLIotspGcng",
       "thumbnail": "https://i.ytimg.com/vi/TLIotspGcng/hqdefault.jpg"
+    },
+    {
+      "title": "L’orbite basse devient un champ de mine : l’incroyable technologie de SpaceX pour éviter les collisions",
+      "description": "À mesure que les satellites se multiplient, le risque d’accident en orbite explose. SpaceX, premier occupant de l’orbite basse, affirme avoir frôlé la catastrophe fin 2025. Sa réponse s’appelle Starga...",
+      "url": "https://www.presse-citron.net/orbite-basse-devient-champ-mine-incroyable-technologie-spacex-pour-eviter-collisions/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-01-30T15:00:43Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "REDIS  BD NoSQL (Clé-Valeur) Master MP2L - M1  (Séance de tutorat 11/11/2024)",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/8CLJXAu1UUY/hqdefault.jpg"
     },
     {
-      "title": "IA : L'ESA découvre 800 nouvelles anomalies cosmiques en un temps record",
-      "description": "Un modèle d’intelligence artificielle développé par l’Agence spatiale européenne a passé au crible près de 100 millions d’images issues du télescope Hubble. Baptisé AnomalyMatch, cet outil a permis d’...",
-      "url": "https://www.zdnet.fr/actualites/lesa-mise-sur-lia-pour-percer-les-mysteres-du-cosmos-800-anomalies-detectees-en-quelques-jours-489000.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-01-29T07:39:01Z",
+      "title": "tech&fest 2026. « L’IA, un dieu salutaire qui ne demande plus d’efforts » : entretien avec la philosophe Gabrielle Halpern",
+      "description": "Docteure en philosophie, Gabrielle Halpern sera ce mercredi 4 février sur le festival tech&fest pour parler d’intelligence artificielle (IA) avec humour et sérieux, pour bousculer un peu les esprits e...",
+      "url": "https://www.ledauphine.com/economie/2026/01/31/l-ia-un-dieu-salutaire-qui-ne-demande-plus-d-efforts-entretien-avec-la-philosophe-gabrielle-halpern",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-01-31T05:05:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,23 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "C'est une « démonstration éloquente » : une IA a détecté 1 300 objets cosmiques inconnus dans les images d'Hubble !",
-      "description": "Visionner 100 millions d’images en deux jours, l’humain en est incapable. Mais la machine peut le faire. C’est ce que montrent aujourd’hui des astronomes qui ont utilisé le pouvoir de l’intelligence a...",
-      "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-cest-demonstration-eloquente-ia-detecte-1-300-objets-cosmiques-inconnus-images-hubble-130676/",
-      "source": "Futura",
-      "publishedAt": "2026-01-29T07:01:12Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Siri IA avec Google Gemini respectera la vie privée, promet Tim Cook",
-      "description": "C’est un message martelé avec insistance par Tim Cook : l’alliance récente avec Google Gemini pour le nouveau Siri utilisant l’intelligence artificielle ne remet pas en cause les principes fondamentau...",
-      "url": "https://iphoneaddict.fr/post/news-422772-siri-ia-google-gemini-respectera-vie-privee-promet-tim-cook",
+      "title": "Apple utilise l’IA Claude en interne, mais préfère Gemini pour Siri",
+      "description": "Apple va s’appuyer sur Google Gemini pour Siri, mais l’intelligence artificielle Claude d’Anthropic a aussi été envisagée. En interne, Apple s’appuie beaucoup sur Claude. Mark Gurman de Bloomberg a dé...",
+      "url": "https://iphoneaddict.fr/post/news-422829-apple-utilise-lia-claude-interne-prefere-gemini-siri",
       "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-01-30T07:03:33Z",
+      "publishedAt": "2026-01-31T06:00:38Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,12 +278,24 @@
       "thumbnail": ""
     },
     {
-      "title": "La dernière IA de Google vous permet de créer des copies de Zelda Breath of the Wild en plus moche, mais le potentiel est là",
-      "description": "Dévoilée l’année dernière, l’intelligence artificielle générative Genie de Google va être mise à disposition du grand public. Pour le moment, l’outil manque d’imagination et d’optimisation, mais les p...",
-      "url": "https://www.frandroid.com/marques/google/2960841_la-derniere-ia-de-google-vous-permet-de-creer-des-copies-de-zelda-breath-of-the-wild-en-plus-moche-mais-le-potentiel-est-la",
-      "source": "Frandroid",
-      "publishedAt": "2026-01-30T07:43:28Z",
+      "title": "« Singularité », religion, complot contre les humains : que se passe-t-il vraiment sur Moltbook, le forum réservé aux IA ?",
+      "description": "Moltbook est le dernier objet de fascination pour quiconque observe avec attention les évolutions des IA génératives et autres LLM. Ce clone de Reddit réservé aux IA est-il la chose la plus proche d'u...",
+      "url": "https://www.numerama.com/tech/2171659-singularite-religion-complot-contre-les-humains-que-se-passe-t-il-vraiment-sur-moltbook-le-forum-reserve-aux-ia.html",
+      "source": "Numerama",
+      "publishedAt": "2026-01-31T07:31:52Z",
       "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "IA : Apple s'offre Q.ai pour 2 milliards de dollars",
+      "description": "Apple rachète la start-up Q.ai pour un montant qui serait de l'ordre de 2 milliards de dollars. La deuxième plus grosse acquisition de l'histoire d'Apple concerne une technologie d'IA.",
+      "url": "https://www.generation-nt.com/actualites/apple-acquisition-qai-ia-discours-silencieux-2069959",
+      "source": "Génération NT",
+      "publishedAt": "2026-01-30T08:00:07Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
