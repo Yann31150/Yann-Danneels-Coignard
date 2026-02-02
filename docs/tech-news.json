@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "2026-02-02T06:07:51.739847",
+  "lastUpdate": "2026-02-02T08:52:18.997601",
   "articles": [
     {
-      "title": "22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)",
-      "description": "Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...",
-      "url": "https://www.youtube.com/watch?v=p0D5zWVTkUU",
-      "source": "Ludo Salenne",
-      "publishedAt": "2026-01-08T19:12:40Z",
+      "title": "[5/21] - Transformers expliqué : L&#39;IA qui lit TOUT en même temps | 2024",
+      "description": "Quand ChatGPT traite votre texte, il ne lit pas mot par mot comme vous. Il regarde TOUT simultanément grâce aux Transformers, ...",
+      "url": "https://www.youtube.com/watch?v=6SgwGw6Cxn8",
+      "source": "Deep Learner, One Step at a Time",
+      "publishedAt": "2025-12-13T15:00:19Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "p0D5zWVTkUU",
-      "thumbnail": "https://i.ytimg.com/vi/p0D5zWVTkUU/hqdefault.jpg"
+      "videoId": "6SgwGw6Cxn8",
+      "thumbnail": "https://i.ytimg.com/vi/6SgwGw6Cxn8/hqdefault.jpg"
     },
     {
       "title": "Cette intelligence artificielle est bien plus fiable que ChatGPT : elle est parfaite pour vous rendre plus productif au travail",
@@ -24,18 +24,6 @@
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
-    },
-    {
-      "title": "L’IA de Google vient de DÉTRUIRE le règne de ChatGPT",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/48pg0VS Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=lh8QAo4oXFw",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2025-12-07T16:01:11Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "lh8QAo4oXFw",
-      "thumbnail": "https://i.ytimg.com/vi/lh8QAo4oXFw/hqdefault.jpg"
     },
     {
       "title": "[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning",
@@ -62,18 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
     },
     {
-      "title": "Python Machine Learning sous Excel avec « xlwings lite »",
-      "description": "Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...",
-      "url": "https://www.youtube.com/watch?v=feDNuaLVDLk",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2025-12-22T15:26:03Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "feDNuaLVDLk",
-      "thumbnail": "https://i.ytimg.com/vi/feDNuaLVDLk/hqdefault.jpg"
-    },
-    {
       "title": "Power BI Desktop Installation TUTO GRATUIT 2025",
       "description": "BIENVENUE ! Cette vidéo est l'étape #3 de la formation Power BI Pro 2025. Vous avez choisi l'outil, maintenant on l'installe !",
       "url": "https://www.youtube.com/watch?v=FOj5HTd4EAs",
@@ -84,18 +60,6 @@
       "isYouTube": true,
       "videoId": "FOj5HTd4EAs",
       "thumbnail": "https://i.ytimg.com/vi/FOj5HTd4EAs/hqdefault.jpg"
-    },
-    {
-      "title": "Accès GRATUIT et ILLIMITÉ à GPT-5 , VEO3, Claude, Google Gemini dans un seul outil",
-      "description": "______   Dans Cette Video  ______   Et si tu pouvais utiliser GPT-5, Claude, VEO3, Gemini et Grok gratuitement ...",
-      "url": "https://www.youtube.com/watch?v=Y78os35EO_0",
-      "source": "Cœur Bestial",
-      "publishedAt": "2025-12-27T19:57:18Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Y78os35EO_0",
-      "thumbnail": "https://i.ytimg.com/vi/Y78os35EO_0/hqdefault.jpg"
     },
     {
       "title": "Le premier médicament conçu par une IA entre en phase 3 : un basculement historique dans la médecine mondiale",
@@ -120,6 +84,90 @@
       "isYouTube": true,
       "videoId": "wBsvjPNqUco",
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
+    },
+    {
+      "title": "SQL | Maîtriser le LEFT JOIN (Jointure Gauche) 🔍 Identifier les Clients Inactifs #oraclesql #sqltips",
+      "description": "Comment obtenir tous vos clients, même ceux qui n'ont jamais passé commande ? Le LEFT JOIN est la réponse ! C'est l'outil ...",
+      "url": "https://www.youtube.com/watch?v=mj7JT8HdBvg",
+      "source": "Oracle SQL Tips FR",
+      "publishedAt": "2025-12-15T02:10:44Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "mj7JT8HdBvg",
+      "thumbnail": "https://i.ytimg.com/vi/mj7JT8HdBvg/hqdefault.jpg"
+    },
+    {
+      "title": "Connexion entre Python (notebook) et Excel via « xlwings »",
+      "description": "Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...",
+      "url": "https://www.youtube.com/watch?v=-ONGM2pg3tc",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2025-12-21T10:20:45Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "-ONGM2pg3tc",
+      "thumbnail": "https://i.ytimg.com/vi/-ONGM2pg3tc/hqdefault.jpg"
+    },
+    {
+      "title": "DeepSeek MHC : La Nouvelle Architecture qui RÉINVENTE l’IA (Adieu les Transformers ?) 😱🔥",
+      "description": "DeepSeek vient de briser les règles du jeu avec mHC. Alors que la Big Tech mise tout sur la force brute et les milliards de ...",
+      "url": "https://www.youtube.com/watch?v=-rFx2b3ZuXQ",
+      "source": "Nerdy Kings",
+      "publishedAt": "2026-01-03T19:35:51Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "-rFx2b3ZuXQ",
+      "thumbnail": "https://i.ytimg.com/vi/-rFx2b3ZuXQ/hqdefault.jpg"
+    },
+    {
+      "title": "MySQL vs PostgreSQL vs MongoDB : Différences 2026",
+      "description": "SQL ou NoSQL ? Comprendre les différences entre MySQL, PostgreSQL et MongoDB. #dev #data #tech.",
+      "url": "https://www.youtube.com/watch?v=KD53CSQtsHQ",
+      "source": "TechVantage FR",
+      "publishedAt": "2025-12-25T19:39:02Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "KD53CSQtsHQ",
+      "thumbnail": "https://i.ytimg.com/vi/KD53CSQtsHQ/hqdefault.jpg"
+    },
+    {
+      "title": "SQL | Maîtriser l&#39;Opérateur INTERSECT (Trouver les Doublons Communs) [Opérateurs d&#39;Ensemble #2] #sql",
+      "description": "Bienvenue dans l'Épisode 2 de notre série sur les Opérateurs d'Ensemble SQL ! L'opérateur INTERSECT est l'outil d'audit ultime ...",
+      "url": "https://www.youtube.com/watch?v=_ZnaKkb3vzQ",
+      "source": "Oracle SQL Tips FR",
+      "publishedAt": "2025-12-21T04:49:47Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "_ZnaKkb3vzQ",
+      "thumbnail": "https://i.ytimg.com/vi/_ZnaKkb3vzQ/hqdefault.jpg"
+    },
+    {
+      "title": "SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips",
+      "description": "Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...",
+      "url": "https://www.youtube.com/watch?v=qup-uitBx58",
+      "source": "Oracle SQL Tips FR",
+      "publishedAt": "2026-01-04T03:10:49Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "qup-uitBx58",
+      "thumbnail": "https://i.ytimg.com/vi/qup-uitBx58/hqdefault.jpg"
+    },
+    {
+      "title": "Le secret des pros : automatiser l&#39;organisation de vos mesures dans Power BI",
+      "description": "Vos mesures Power BI sont dispersées dans toutes vos tables ? Découvrez comment utiliser Tabular Editor pour centraliser et ...",
+      "url": "https://www.youtube.com/watch?v=GQN9jmpejhw",
+      "source": "Barthelemy Montreuil",
+      "publishedAt": "2026-01-18T16:45:06Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "GQN9jmpejhw",
+      "thumbnail": "https://i.ytimg.com/vi/GQN9jmpejhw/hqdefault.jpg"
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -182,76 +230,40 @@
       "thumbnail": "https://i.ytimg.com/vi/gnDUGKIj6Fk/hqdefault.jpg"
     },
     {
-      "title": "Introduction à Positron: VSCode + RStudio pour la data science",
-      "description": "Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...",
-      "url": "https://www.youtube.com/watch?v=gcbiOQCR-O8",
-      "source": "WeData",
-      "publishedAt": "2026-01-09T17:01:15Z",
+      "title": "Formation SQL PARTIE 6 - HAVING",
+      "description": "Dans cette partie 5 de la formation SQL, nous expliquons la commande HAVING. Tu comprendras la différence entre WHERE et ...",
+      "url": "https://www.youtube.com/watch?v=bgN8YayL7vM",
+      "source": "MedData -Tech",
+      "publishedAt": "2025-12-24T22:32:26Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "gcbiOQCR-O8",
-      "thumbnail": "https://i.ytimg.com/vi/gcbiOQCR-O8/hqdefault.jpg"
+      "videoId": "bgN8YayL7vM",
+      "thumbnail": "https://i.ytimg.com/vi/bgN8YayL7vM/hqdefault.jpg"
     },
     {
-      "title": "De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)",
-      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
-      "url": "https://www.youtube.com/watch?v=n5uJWNTs-dQ",
-      "source": "Enogne School",
-      "publishedAt": "2026-01-30T23:01:09Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "n5uJWNTs-dQ",
-      "thumbnail": "https://i.ytimg.com/vi/n5uJWNTs-dQ/hqdefault.jpg"
-    },
-    {
-      "title": "Maîtriser Les Statistiques Pour Data Scientist Et Data Analyst : 3h30 De Formation",
-      "description": "Accédez aux ressources (codes Python, datasets, supports) https://natacha-njongwa-yepnga.kit.com/formationstatistique ...",
-      "url": "https://www.youtube.com/watch?v=CzVekeymWEw",
-      "source": "LeCoinStat",
-      "publishedAt": "2025-12-12T07:56:28Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "CzVekeymWEw",
-      "thumbnail": "https://i.ytimg.com/vi/CzVekeymWEw/hqdefault.jpg"
-    },
-    {
-      "title": "Un océan disparu refait surface : cette découverte sur Mars bouleverse les scientifiques",
-      "description": "En analysant les données sismiques collectées par les instruments de l'atterrisseur Insight de la Nasa il y a plusieurs années, des géophysiciens pensent avoir trouvé des preuves de l'existence d'un g...",
-      "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-ocean-disparu-refait-surface-cette-decouverte-mars-bouleverse-scientifiques-w2t8-130549/",
-      "source": "Futura",
-      "publishedAt": "2026-01-31T17:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Google a créé une IA pour aider les chercheurs à décrypter le « génome obscur »",
-      "description": "Seulement 2 % de notre ADN codent pour des protéines, les 98 % restants jouent très probablement un rôle dans la régulation de nombreuses fonctions biologiques de l’organisme. Mais lesquelles, précisé...",
-      "url": "https://www.futura-sciences.com/sante/actualites/adn-google-cree-ia-aider-chercheurs-decrypter-genome-obscur-130763/",
-      "source": "Futura",
-      "publishedAt": "2026-01-31T12:57:19Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "« Singularité », religion, complot contre les humains : que se passe-t-il vraiment sur Moltbook, le forum réservé aux IA ?",
-      "description": "Moltbook est le dernier objet de fascination pour quiconque observe avec attention les évolutions des IA génératives et autres LLM. Ce clone de Reddit réservé aux IA est-il la chose la plus proche d'u...",
-      "url": "https://www.numerama.com/tech/2171659-singularite-religion-complot-contre-les-humains-que-se-passe-t-il-vraiment-sur-moltbook-le-forum-reserve-aux-ia.html",
-      "source": "Numerama",
-      "publishedAt": "2026-01-31T07:31:52Z",
+      "title": "ZD Tech : voici comment les nouveaux agents d'IA vont transformer votre façon de travailler et vos achats en ligne d'ici 2030",
+      "description": "Entre une chute spectaculaire de 99 % des coûts de l'IA, l'émergence d'agents autonomes capturant un quart du e-commerce mondial et des gains de productivité inédits pour les professionnels, les proch...",
+      "url": "https://www.zdnet.fr/actualites/zd-tech-voici-comment-les-nouveaux-agents-dia-vont-transformer-votre-facon-de-travailler-et-vos-achats-en-ligne-dici-2030-489039.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-02-01T06:54:07Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "Loom-X : Combien peut rapporter un contrat de 1 000$ en 3 mois ? #BusinessEnLigne #Opportunité2026",
+      "description": "RevenusEnLigne #BusinessEnLigne #Opportunité2026 Découvrez LoomX, la plateforme quantitative décentralisée qui ...",
+      "url": "https://www.youtube.com/watch?v=hYUk-U8G08k",
+      "source": "Tekki en Ligne",
+      "publishedAt": "2026-01-09T09:38:16Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "hYUk-U8G08k",
+      "thumbnail": "https://i.ytimg.com/vi/hYUk-U8G08k/hqdefault.jpg"
     },
     {
       "title": "Une IA résout enfin le mystère des empreintes de dinosaures",
@@ -266,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Les meilleures vidéos IA de Macron, et comment créer les siennes : le guide complet",
-      "description": "Les parodies IA de politiciens comme Donald Trump ou Emmanuel Macron, qui a récemment fait l’objet de memes avec ses lunettes aviateur, envahissent les réseaux sociaux. Derrière certains contenus humo...",
-      "url": "https://www.aruco.com/intelligence-artificielle/guide-creer-video-ia-macron/",
-      "source": "Aruco.com",
-      "publishedAt": "2026-01-31T19:39:07Z",
+      "title": "\"C'est complètement absurde\": le patron de Nvidia nie toute friction avec OpenAI et réaffirme un investissement \"colossal\"",
+      "description": "Jensen Huang a assuré que Nvidia poursuivrait son investissement majeur dans OpenAI. ...",
+      "url": "https://www.lalibre.be/economie/entreprises-startup/2026/02/01/cest-completement-absurde-le-patron-de-nvidia-nie-toute-friction-avec-openai-et-reaffirme-un-investissement-colossal-WWCULUODCNHE3LM5QXQRHGH5OU/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-02-01T07:58:36Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -283,18 +295,6 @@
       "url": "https://www.latribune.fr/article/la-tribune-dimanche/opinions/3229600309500914/opinion-quand-les-entreprises-renoncent-a-expliquer-elles-fabriquent-leurs-futures-crises-par-florian-silnicki-expert-en-communication",
       "source": "La Tribune.fr",
       "publishedAt": "2026-01-31T15:29:42Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Moltbook : la société des IA est née, voici son premier réseau social sans humains",
-      "description": "Les agents IA de Moltbook sont en train de construire ce que l’humain a échoué : créer une plateforme où chacun écoute, discute, réfléchit et préfère la qualité à la quantité. Le chaos des débuts ne d...",
-      "url": "https://www.presse-citron.net/moltbook-forum-ia-agents-plateforme-explication-creation/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-01-31T17:20:57Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
