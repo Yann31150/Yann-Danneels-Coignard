@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-03T08:22:20.096805",
+  "lastUpdate": "2026-02-03T08:45:24.739798",
   "articles": [
     {
       "title": "ZDNET Morning 02/02/2026 : ChatGPT succombe à la pub, Agent IA et e-commerce, Pourquoi la France protège Eutelsat,...",
@@ -26,6 +26,18 @@
       "thumbnail": "https://i.ytimg.com/vi/DnyIUzoKGsQ/hqdefault.jpg"
     },
     {
+      "title": "Créer un Agent IA puissant (RAG) : Tutoriel Complet (no code)",
+      "description": "Pour récupérer les workflows sur n8n : https://tally.so/r/pbyR9y Si tu utilises déjà ChatGPT ou Claude en entreprise, tu l'as ...",
+      "url": "https://www.youtube.com/watch?v=_ldYxumnGIo",
+      "source": "Louis Graffeuil",
+      "publishedAt": "2026-01-07T07:49:08Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "_ldYxumnGIo",
+      "thumbnail": "https://i.ytimg.com/vi/_ldYxumnGIo/hqdefault.jpg"
+    },
+    {
       "title": "J&#39;ai résilié tous mes outils IA (j&#39;ai fabriqué le mien)",
       "description": "Plus de 15 outils IA, 15 abonnements, des onglets partout... ChatGPT, Gemini, Perplexity, Gamma... C'était le gros bordel alors ...",
       "url": "https://www.youtube.com/watch?v=N0gTIxg9l2A",
@@ -38,28 +50,16 @@
       "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
     },
     {
-      "title": "How I’d Become Data Analyst in 2026 From Zero to Lead (Built by Expert)",
-      "description": "DataCamp Associate Data Analyst in SQL - https://datacamp.pxf.io/3JbOkK ▻ DataCamp Data Analyst in Power BI ...",
-      "url": "https://www.youtube.com/watch?v=6MbN0MVaQ5Y",
-      "source": "Data with Baraa",
-      "publishedAt": "2026-01-27T12:50:18Z",
+      "title": "Power BI Complete Course 2026 🚀 | Zero to Hero Tutorial | FREE Certificate 🎉",
+      "description": "Zero to Hero: Power BI Complete Tutorial 2026 | Full Guide + Jobs + Certificate This Zero to Hero Power BI Complete Guide is ...",
+      "url": "https://www.youtube.com/watch?v=dPrY-Hybxqo",
+      "source": "Accounts Expert",
+      "publishedAt": "2026-01-08T12:40:49Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "6MbN0MVaQ5Y",
-      "thumbnail": "https://i.ytimg.com/vi/6MbN0MVaQ5Y/hqdefault.jpg"
-    },
-    {
-      "title": "Python Machine Learning sous Excel avec « xlwings lite »",
-      "description": "Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...",
-      "url": "https://www.youtube.com/watch?v=feDNuaLVDLk",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2025-12-22T15:26:03Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "feDNuaLVDLk",
-      "thumbnail": "https://i.ytimg.com/vi/feDNuaLVDLk/hqdefault.jpg"
+      "videoId": "dPrY-Hybxqo",
+      "thumbnail": "https://i.ytimg.com/vi/dPrY-Hybxqo/hqdefault.jpg"
     },
     {
       "title": "Détection des anomalies – Isolation Forest et Local Outlier Factor",
@@ -98,28 +98,88 @@
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
     },
     {
-      "title": "Comment je deviendrais analyste de données en 2026 (feuille de route complète)",
-      "description": "👉 MENTORAT – Prêt(e) à devenir un analyste de données d'exception ? Les candidatures pour la promotion de mars 2026 sont ...",
-      "url": "https://www.youtube.com/watch?v=hGCKdMsfU7g",
-      "source": "Christine Jiang",
-      "publishedAt": "2026-01-02T14:01:10Z",
+      "title": "SQL | Maîtriser le LEFT JOIN (Jointure Gauche) 🔍 Identifier les Clients Inactifs #oraclesql #sqltips",
+      "description": "Comment obtenir tous vos clients, même ceux qui n'ont jamais passé commande ? Le LEFT JOIN est la réponse ! C'est l'outil ...",
+      "url": "https://www.youtube.com/watch?v=mj7JT8HdBvg",
+      "source": "Oracle SQL Tips FR",
+      "publishedAt": "2025-12-15T02:10:44Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "hGCKdMsfU7g",
-      "thumbnail": "https://i.ytimg.com/vi/hGCKdMsfU7g/hqdefault.jpg"
+      "videoId": "mj7JT8HdBvg",
+      "thumbnail": "https://i.ytimg.com/vi/mj7JT8HdBvg/hqdefault.jpg"
     },
     {
-      "title": "Data Analysis with Python Full Course Tutorial",
-      "description": "Data Analysis with Python Full Course Tutorial Get Ad-Free Training by becoming a member today!",
-      "url": "https://www.youtube.com/watch?v=bLDbzcHwxM4",
-      "source": "Learn Skills Daily",
-      "publishedAt": "2026-01-23T17:30:06Z",
+      "title": "Connexion entre Python (notebook) et Excel via « xlwings »",
+      "description": "Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...",
+      "url": "https://www.youtube.com/watch?v=-ONGM2pg3tc",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2025-12-21T10:20:45Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "bLDbzcHwxM4",
-      "thumbnail": "https://i.ytimg.com/vi/bLDbzcHwxM4/hqdefault.jpg"
+      "videoId": "-ONGM2pg3tc",
+      "thumbnail": "https://i.ytimg.com/vi/-ONGM2pg3tc/hqdefault.jpg"
+    },
+    {
+      "title": "Learn Power BI FAST – Full Beginner Crash Course (1 Hour)",
+      "description": "Learn Power BI from zero in under 1 hour. This fast Power BI crash course for beginners takes you through the full Power BI ...",
+      "url": "https://www.youtube.com/watch?v=WdCltDhmRLo",
+      "source": "Data with Baraa",
+      "publishedAt": "2025-12-09T13:30:07Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "WdCltDhmRLo",
+      "thumbnail": "https://i.ytimg.com/vi/WdCltDhmRLo/hqdefault.jpg"
+    },
+    {
+      "title": "MySQL vs PostgreSQL vs MongoDB : Différences 2026",
+      "description": "SQL ou NoSQL ? Comprendre les différences entre MySQL, PostgreSQL et MongoDB. #dev #data #tech.",
+      "url": "https://www.youtube.com/watch?v=KD53CSQtsHQ",
+      "source": "TechVantage FR",
+      "publishedAt": "2025-12-25T19:39:02Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "KD53CSQtsHQ",
+      "thumbnail": "https://i.ytimg.com/vi/KD53CSQtsHQ/hqdefault.jpg"
+    },
+    {
+      "title": "Maîtriser Power Query : Automatisez votre nettoyage de données sur Excel et Power BI",
+      "description": "Cette formation complète vous présente Power Query, l'outil incontournable d'Excel et Power BI pour automatiser la préparation ...",
+      "url": "https://www.youtube.com/watch?v=Q-mQB9OAp50",
+      "source": "Cabinet Smart Otobos Consulting",
+      "publishedAt": "2026-01-16T11:01:06Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Q-mQB9OAp50",
+      "thumbnail": "https://i.ytimg.com/vi/Q-mQB9OAp50/hqdefault.jpg"
+    },
+    {
+      "title": "SQL | Maîtriser l&#39;Opérateur INTERSECT (Trouver les Doublons Communs) [Opérateurs d&#39;Ensemble #2] #sql",
+      "description": "Bienvenue dans l'Épisode 2 de notre série sur les Opérateurs d'Ensemble SQL ! L'opérateur INTERSECT est l'outil d'audit ultime ...",
+      "url": "https://www.youtube.com/watch?v=_ZnaKkb3vzQ",
+      "source": "Oracle SQL Tips FR",
+      "publishedAt": "2025-12-21T04:49:47Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "_ZnaKkb3vzQ",
+      "thumbnail": "https://i.ytimg.com/vi/_ZnaKkb3vzQ/hqdefault.jpg"
+    },
+    {
+      "title": "SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips",
+      "description": "Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...",
+      "url": "https://www.youtube.com/watch?v=qup-uitBx58",
+      "source": "Oracle SQL Tips FR",
+      "publishedAt": "2026-01-04T03:10:49Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "qup-uitBx58",
+      "thumbnail": "https://i.ytimg.com/vi/qup-uitBx58/hqdefault.jpg"
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -146,18 +206,6 @@
       "thumbnail": "https://i.ytimg.com/vi/hGbgeWMD4Dc/hqdefault.jpg"
     },
     {
-      "title": "Entretien Analyste Données – Que Répondre aux 10 Questions Clés",
-      "description": "Entretien Analyste Données – Que Répondre aux 10 Questions Clés? Entretien Analyste Données: savoir que répondre aux ...",
-      "url": "https://www.youtube.com/watch?v=Q65w9BSeS-w",
-      "source": "Damal Consult Carrière TV- Français",
-      "publishedAt": "2026-01-02T14:59:27Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Q65w9BSeS-w",
-      "thumbnail": "https://i.ytimg.com/vi/Q65w9BSeS-w/hqdefault_live.jpg"
-    },
-    {
       "title": "Excel pour l’Analyse des Données — Cours Complet (10h) | Gratuit + Certificat (2026)",
       "description": "Bienvenue dans ce cours complet et gratuit sur Microsoft Excel pour l'Analyse des Données (Version 2026) ! En 10 heures, vous ...",
       "url": "https://www.youtube.com/watch?v=saGefucxol4",
@@ -182,76 +230,28 @@
       "thumbnail": "https://i.ytimg.com/vi/_Fe5ju7H5LI/hqdefault.jpg"
     },
     {
-      "title": "Introduction à Positron: VSCode + RStudio pour la data science",
-      "description": "Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...",
-      "url": "https://www.youtube.com/watch?v=gcbiOQCR-O8",
-      "source": "WeData",
-      "publishedAt": "2026-01-09T17:01:15Z",
+      "title": "REDIS  BD NoSQL (Clé-Valeur) Master MP2L - M1  (Séance de tutorat 11/11/2024)",
+      "description": "Séance synchrone enregistrée le 11 11 2024 entre 20h00 et 21h00 Module 6 (Partie 2) : REDIS BD NoSQL (Clé-Valeur) Cours ...",
+      "url": "https://www.youtube.com/watch?v=gnDUGKIj6Fk",
+      "source": "Riadh Zaafrani",
+      "publishedAt": "2025-12-09T09:45:30Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "gcbiOQCR-O8",
-      "thumbnail": "https://i.ytimg.com/vi/gcbiOQCR-O8/hqdefault.jpg"
+      "videoId": "gnDUGKIj6Fk",
+      "thumbnail": "https://i.ytimg.com/vi/gnDUGKIj6Fk/hqdefault.jpg"
     },
     {
-      "title": "De zéro à data analyste : la première leçon avec Yao  (1ère Session)",
-      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
-      "url": "https://www.youtube.com/watch?v=yG-ftNXowSY",
-      "source": "Enogne School",
-      "publishedAt": "2026-01-09T23:00:06Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "yG-ftNXowSY",
-      "thumbnail": "https://i.ytimg.com/vi/yG-ftNXowSY/hqdefault.jpg"
-    },
-    {
-      "title": "Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=wNyw2TN8mh0",
-      "source": "Le Decodeur",
-      "publishedAt": "2026-01-20T15:55:42Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "wNyw2TN8mh0",
-      "thumbnail": "https://i.ytimg.com/vi/wNyw2TN8mh0/hqdefault.jpg"
-    },
-    {
-      "title": "Don&#39;t Become a Data Analyst!",
-      "description": "Here are my top reasons why data analytics might NOT be for you If you want more FREE content like this, then Subscribe, Like ...",
-      "url": "https://www.youtube.com/watch?v=o55yneAtUHQ",
-      "source": "Data with Baraa",
-      "publishedAt": "2026-01-23T12:40:55Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "o55yneAtUHQ",
-      "thumbnail": "https://i.ytimg.com/vi/o55yneAtUHQ/hqdefault.jpg"
-    },
-    {
-      "title": "De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)",
-      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
-      "url": "https://www.youtube.com/watch?v=n5uJWNTs-dQ",
-      "source": "Enogne School",
-      "publishedAt": "2026-01-30T23:01:09Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "n5uJWNTs-dQ",
-      "thumbnail": "https://i.ytimg.com/vi/n5uJWNTs-dQ/hqdefault.jpg"
-    },
-    {
-      "title": "Devenir 100% EXPERT : ChaGPT 5.2 ! Pourquoi TOUT a changé.",
-      "description": "Découvrez la méthode incroyable pour débloquer GPT 5.2 à 100% et exploiter pleinement son potentiel. Dans cette vidéo, nous ...",
-      "url": "https://www.youtube.com/watch?v=8CLJXAu1UUY",
-      "source": "Parlons IA",
-      "publishedAt": "2025-12-14T08:00:18Z",
+      "title": "COMMENT BIEN PARAMÉTRER DLS 26 | BIEN JOUER À DREAM LEAGUE SOCCER 2026 SUR ANDROID &amp; IOS",
+      "description": "Salut les amis Dans cette vidéo, Je vous montre comment bien Paramétrer DLS 26, Je vous montre également comment bien ...",
+      "url": "https://www.youtube.com/watch?v=ECOE8OCxDR0",
+      "source": "Marcobykendy",
+      "publishedAt": "2025-12-11T15:00:23Z",
       "category": "tech",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "8CLJXAu1UUY",
-      "thumbnail": "https://i.ytimg.com/vi/8CLJXAu1UUY/hqdefault.jpg"
+      "videoId": "ECOE8OCxDR0",
+      "thumbnail": "https://i.ytimg.com/vi/ECOE8OCxDR0/hqdefault.jpg"
     },
     {
       "title": "Cachés depuis des décennies dans Hubble, 1300 objets cosmiques surgissent grâce à l’IA et bouleversent la recherche",

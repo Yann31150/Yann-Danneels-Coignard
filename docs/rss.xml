@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 03 Feb 2026 08:22:20 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 03 Feb 2026 08:45:24 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -29,6 +29,14 @@
             <source>Deep Learner, One Step at a Time</source>
         </item>
         <item>
+            <title>Créer un Agent IA puissant (RAG) : Tutoriel Complet (no code)</title>
+            <link>https://www.youtube.com/watch?v=_ldYxumnGIo</link>
+            <description><![CDATA[Pour récupérer les workflows sur n8n : https://tally.so/r/pbyR9y Si tu utilises déjà ChatGPT ou Claude en entreprise, tu l'as ...]]></description>
+            <pubDate>Wed, 07 Jan 2026 07:49:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=_ldYxumnGIo</guid>
+            <source>Louis Graffeuil</source>
+        </item>
+        <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
             <link>https://www.youtube.com/watch?v=N0gTIxg9l2A</link>
             <description><![CDATA[Plus de 15 outils IA, 15 abonnements, des onglets partout... ChatGPT, Gemini, Perplexity, Gamma... C'était le gros bordel alors ...]]></description>
@@ -37,20 +45,12 @@
             <source>Ludo Salenne</source>
         </item>
         <item>
-            <title>How I’d Become Data Analyst in 2026 From Zero to Lead (Built by Expert)</title>
-            <link>https://www.youtube.com/watch?v=6MbN0MVaQ5Y</link>
-            <description><![CDATA[DataCamp Associate Data Analyst in SQL - https://datacamp.pxf.io/3JbOkK ▻ DataCamp Data Analyst in Power BI ...]]></description>
-            <pubDate>Tue, 27 Jan 2026 12:50:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=6MbN0MVaQ5Y</guid>
-            <source>Data with Baraa</source>
-        </item>
-        <item>
-            <title>Python Machine Learning sous Excel avec « xlwings lite »</title>
-            <link>https://www.youtube.com/watch?v=feDNuaLVDLk</link>
-            <description><![CDATA[Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...]]></description>
-            <pubDate>Mon, 22 Dec 2025 15:26:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=feDNuaLVDLk</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>Power BI Complete Course 2026 🚀 | Zero to Hero Tutorial | FREE Certificate 🎉</title>
+            <link>https://www.youtube.com/watch?v=dPrY-Hybxqo</link>
+            <description><![CDATA[Zero to Hero: Power BI Complete Tutorial 2026 | Full Guide + Jobs + Certificate This Zero to Hero Power BI Complete Guide is ...]]></description>
+            <pubDate>Thu, 08 Jan 2026 12:40:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=dPrY-Hybxqo</guid>
+            <source>Accounts Expert</source>
         </item>
         <item>
             <title>Détection des anomalies – Isolation Forest et Local Outlier Factor</title>
@@ -77,20 +77,60 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>Comment je deviendrais analyste de données en 2026 (feuille de route complète)</title>
-            <link>https://www.youtube.com/watch?v=hGCKdMsfU7g</link>
-            <description><![CDATA[👉 MENTORAT – Prêt(e) à devenir un analyste de données d'exception ? Les candidatures pour la promotion de mars 2026 sont ...]]></description>
-            <pubDate>Fri, 02 Jan 2026 14:01:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=hGCKdMsfU7g</guid>
-            <source>Christine Jiang</source>
+            <title>SQL | Maîtriser le LEFT JOIN (Jointure Gauche) 🔍 Identifier les Clients Inactifs #oraclesql #sqltips</title>
+            <link>https://www.youtube.com/watch?v=mj7JT8HdBvg</link>
+            <description><![CDATA[Comment obtenir tous vos clients, même ceux qui n'ont jamais passé commande ? Le LEFT JOIN est la réponse ! C'est l'outil ...]]></description>
+            <pubDate>Mon, 15 Dec 2025 02:10:44 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=mj7JT8HdBvg</guid>
+            <source>Oracle SQL Tips FR</source>
         </item>
         <item>
-            <title>Data Analysis with Python Full Course Tutorial</title>
-            <link>https://www.youtube.com/watch?v=bLDbzcHwxM4</link>
-            <description><![CDATA[Data Analysis with Python Full Course Tutorial Get Ad-Free Training by becoming a member today!]]></description>
-            <pubDate>Fri, 23 Jan 2026 17:30:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=bLDbzcHwxM4</guid>
-            <source>Learn Skills Daily</source>
+            <title>Connexion entre Python (notebook) et Excel via « xlwings »</title>
+            <link>https://www.youtube.com/watch?v=-ONGM2pg3tc</link>
+            <description><![CDATA[Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...]]></description>
+            <pubDate>Sun, 21 Dec 2025 10:20:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=-ONGM2pg3tc</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Learn Power BI FAST – Full Beginner Crash Course (1 Hour)</title>
+            <link>https://www.youtube.com/watch?v=WdCltDhmRLo</link>
+            <description><![CDATA[Learn Power BI from zero in under 1 hour. This fast Power BI crash course for beginners takes you through the full Power BI ...]]></description>
+            <pubDate>Tue, 09 Dec 2025 13:30:07 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=WdCltDhmRLo</guid>
+            <source>Data with Baraa</source>
+        </item>
+        <item>
+            <title>MySQL vs PostgreSQL vs MongoDB : Différences 2026</title>
+            <link>https://www.youtube.com/watch?v=KD53CSQtsHQ</link>
+            <description><![CDATA[SQL ou NoSQL ? Comprendre les différences entre MySQL, PostgreSQL et MongoDB. #dev #data #tech.]]></description>
+            <pubDate>Thu, 25 Dec 2025 19:39:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=KD53CSQtsHQ</guid>
+            <source>TechVantage FR</source>
+        </item>
+        <item>
+            <title>Maîtriser Power Query : Automatisez votre nettoyage de données sur Excel et Power BI</title>
+            <link>https://www.youtube.com/watch?v=Q-mQB9OAp50</link>
+            <description><![CDATA[Cette formation complète vous présente Power Query, l'outil incontournable d'Excel et Power BI pour automatiser la préparation ...]]></description>
+            <pubDate>Fri, 16 Jan 2026 11:01:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Q-mQB9OAp50</guid>
+            <source>Cabinet Smart Otobos Consulting</source>
+        </item>
+        <item>
+            <title>SQL | Maîtriser l&amp;#39;Opérateur INTERSECT (Trouver les Doublons Communs) [Opérateurs d&amp;#39;Ensemble #2] #sql</title>
+            <link>https://www.youtube.com/watch?v=_ZnaKkb3vzQ</link>
+            <description><![CDATA[Bienvenue dans l'Épisode 2 de notre série sur les Opérateurs d'Ensemble SQL ! L'opérateur INTERSECT est l'outil d'audit ultime ...]]></description>
+            <pubDate>Sun, 21 Dec 2025 04:49:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=_ZnaKkb3vzQ</guid>
+            <source>Oracle SQL Tips FR</source>
+        </item>
+        <item>
+            <title>SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips</title>
+            <link>https://www.youtube.com/watch?v=qup-uitBx58</link>
+            <description><![CDATA[Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...]]></description>
+            <pubDate>Sun, 04 Jan 2026 03:10:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=qup-uitBx58</guid>
+            <source>Oracle SQL Tips FR</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -109,14 +149,6 @@
             <source>MedData -Tech</source>
         </item>
         <item>
-            <title>Entretien Analyste Données – Que Répondre aux 10 Questions Clés</title>
-            <link>https://www.youtube.com/watch?v=Q65w9BSeS-w</link>
-            <description><![CDATA[Entretien Analyste Données – Que Répondre aux 10 Questions Clés? Entretien Analyste Données: savoir que répondre aux ...]]></description>
-            <pubDate>Fri, 02 Jan 2026 14:59:27 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Q65w9BSeS-w</guid>
-            <source>Damal Consult Carrière TV- Français</source>
-        </item>
-        <item>
             <title>Excel pour l’Analyse des Données — Cours Complet (10h) | Gratuit + Certificat (2026)</title>
             <link>https://www.youtube.com/watch?v=saGefucxol4</link>
             <description><![CDATA[Bienvenue dans ce cours complet et gratuit sur Microsoft Excel pour l'Analyse des Données (Version 2026) ! En 10 heures, vous ...]]></description>
@@ -133,44 +165,12 @@
             <source>AllAboutData</source>
         </item>
         <item>
-            <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
-            <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
-            <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
-            <pubDate>Fri, 09 Jan 2026 17:01:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=gcbiOQCR-O8</guid>
-            <source>WeData</source>
-        </item>
-        <item>
-            <title>De zéro à data analyste : la première leçon avec Yao  (1ère Session)</title>
-            <link>https://www.youtube.com/watch?v=yG-ftNXowSY</link>
-            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
-            <pubDate>Fri, 09 Jan 2026 23:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=yG-ftNXowSY</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
-            <link>https://www.youtube.com/watch?v=wNyw2TN8mh0</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Tue, 20 Jan 2026 15:55:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=wNyw2TN8mh0</guid>
-            <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>Don&amp;#39;t Become a Data Analyst!</title>
-            <link>https://www.youtube.com/watch?v=o55yneAtUHQ</link>
-            <description><![CDATA[Here are my top reasons why data analytics might NOT be for you If you want more FREE content like this, then Subscribe, Like ...]]></description>
-            <pubDate>Fri, 23 Jan 2026 12:40:55 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=o55yneAtUHQ</guid>
-            <source>Data with Baraa</source>
-        </item>
-        <item>
-            <title>De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)</title>
-            <link>https://www.youtube.com/watch?v=n5uJWNTs-dQ</link>
-            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
-            <pubDate>Fri, 30 Jan 2026 23:01:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=n5uJWNTs-dQ</guid>
-            <source>Enogne School</source>
+            <title>REDIS  BD NoSQL (Clé-Valeur) Master MP2L - M1  (Séance de tutorat 11/11/2024)</title>
+            <link>https://www.youtube.com/watch?v=gnDUGKIj6Fk</link>
+            <description><![CDATA[Séance synchrone enregistrée le 11 11 2024 entre 20h00 et 21h00 Module 6 (Partie 2) : REDIS BD NoSQL (Clé-Valeur) Cours ...]]></description>
+            <pubDate>Tue, 09 Dec 2025 09:45:30 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=gnDUGKIj6Fk</guid>
+            <source>Riadh Zaafrani</source>
         </item>
     </channel>
 </rss>
