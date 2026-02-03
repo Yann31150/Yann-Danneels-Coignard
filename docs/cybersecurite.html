@@ -94,6 +94,17 @@
             position: relative;
             z-index: 1;
         }
+        .article-meta {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            flex-wrap: wrap;
+            font-size: 0.95rem;
+            opacity: 0.95;
+            margin-bottom: 1.5rem;
+            position: relative;
+            z-index: 1;
+        }
         .cyber-hero p {
             font-size: 1.2rem;
             margin-bottom: 2rem;
@@ -172,6 +183,40 @@
             padding: 2.5rem;
             margin-bottom: 3rem;
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        }
+        .summary-box {
+            background: #f8f9fa;
+            border-left: 4px solid var(--secondary-color);
+            padding: 1.5rem;
+            border-radius: 12px;
+            margin: 2rem 0;
+        }
+        .summary-box h3 {
+            margin-bottom: 0.75rem;
+            color: var(--primary-color);
+        }
+        .toc {
+            background: var(--white);
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin: 2rem 0 3rem 0;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+        }
+        .toc h3 {
+            margin-bottom: 1rem;
+            color: var(--primary-color);
+        }
+        .toc ul {
+            columns: 2;
+            column-gap: 2rem;
+            padding-left: 1.2rem;
+        }
+        .toc a {
+            color: var(--secondary-color);
+            text-decoration: none;
+        }
+        .toc a:hover {
+            text-decoration: underline;
         }
         .intro-section h2 {
             color: var(--primary-color);
@@ -340,6 +385,23 @@
             width: 100%;
             height: 100%;
         }
+
+        .back-to-top {
+            position: fixed;
+            right: 24px;
+            bottom: 24px;
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            background: var(--secondary-color);
+            color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+            z-index: 1000;
+        }
         
         /* Responsive */
         @media (max-width: 768px) {
@@ -348,6 +410,9 @@
             }
             .cyber-hero p {
                 font-size: 1rem;
+            }
+            .toc ul {
+                columns: 1;
             }
             .cta-final {
                 padding: 2rem 1.5rem;
@@ -367,7 +432,7 @@
         }
     </style>
 </head>
-<body>
+<body id="top">
     <header>
         <nav>
             <div class="logo">
@@ -409,10 +474,40 @@
             <!-- Bannière Hero -->
             <div class="cyber-hero">
                 <h1><i class="fas fa-shield-alt"></i> Cybersécurité 2026 : 10 Conseils Validés par l'IA</h1>
+                <div class="article-meta">
+                    <span><i class="far fa-calendar"></i> 29/01/2026</span>
+                    <span><i class="far fa-clock"></i> Temps de lecture : 8 min</span>
+                    <span><i class="far fa-user"></i> Yann Danneels-Coignard</span>
+                </div>
                 <p>Analyse des meilleures pratiques en cybersécurité, sélectionnées et expliquées par intelligence artificielle.<br>Mises à jour avec outils et vidéos.</p>
                 <a href="#" onclick="downloadPDF(); return false;" class="cta-button" id="downloadBtn">
                     <i class="fas fa-download"></i> Télécharger le Guide PDF
                 </a>
+            </div>
+
+            <div class="summary-box">
+                <h3>À retenir en 1 minute</h3>
+                <ul>
+                    <li>Activez la 2FA et utilisez un gestionnaire de mots de passe.</li>
+                    <li>Mettez à jour vos logiciels et sauvegardez vos données.</li>
+                    <li>Évitez les pièges de phishing et protégez vos comptes critiques.</li>
+                </ul>
+            </div>
+
+            <div class="toc">
+                <h3>Sommaire</h3>
+                <ul>
+                    <li><a href="#conseil-1">1. Mots de passe forts</a></li>
+                    <li><a href="#conseil-2">2. Authentification 2FA</a></li>
+                    <li><a href="#conseil-3">3. Mises à jour régulières</a></li>
+                    <li><a href="#conseil-4">4. Phishing</a></li>
+                    <li><a href="#conseil-5">5. VPN sur réseaux publics</a></li>
+                    <li><a href="#conseil-6">6. Sauvegardes</a></li>
+                    <li><a href="#conseil-7">7. Comptes bancaires</a></li>
+                    <li><a href="#conseil-8">8. Réseau domestique</a></li>
+                    <li><a href="#conseil-9">9. Réseaux sociaux</a></li>
+                    <li><a href="#conseil-10">10. Formation continue</a></li>
+                </ul>
             </div>
 
             <!-- Introduction -->
@@ -450,7 +545,7 @@
             <!-- Les 10 Conseils -->
             <div class="conseils-container">
                 <!-- Conseil 1 -->
-                <article class="conseil-card">
+                <article class="conseil-card" id="conseil-1">
                     <div class="conseil-number">1</div>
                     <h3>Utilisez des mots de passe forts et uniques</h3>
                     <p class="conseil-description">
@@ -470,7 +565,7 @@
                 </article>
 
                 <!-- Conseil 2 -->
-                <article class="conseil-card">
+                <article class="conseil-card" id="conseil-2">
                     <div class="conseil-number">2</div>
                     <h3>Activez l'authentification à deux facteurs (2FA)</h3>
                     <p class="conseil-description">
@@ -490,7 +585,7 @@
                 </article>
 
                 <!-- Conseil 3 -->
-                <article class="conseil-card">
+                <article class="conseil-card" id="conseil-3">
                     <div class="conseil-number">3</div>
                     <h3>Mettez à jour régulièrement vos logiciels</h3>
                     <p class="conseil-description">
@@ -509,7 +604,7 @@
                 </article>
 
                 <!-- Conseil 4 -->
-                <article class="conseil-card">
+                <article class="conseil-card" id="conseil-4">
                     <div class="conseil-number">4</div>
                     <h3>Méfiez-vous des emails suspects (phishing)</h3>
                     <p class="conseil-description">
@@ -528,7 +623,7 @@
                 </article>
 
                 <!-- Conseil 5 -->
-                <article class="conseil-card">
+                <article class="conseil-card" id="conseil-5">
                     <div class="conseil-number">5</div>
                     <h3>Utilisez un VPN sur les réseaux publics</h3>
                     <p class="conseil-description">
@@ -548,7 +643,7 @@
                 </article>
 
                 <!-- Conseil 6 -->
-                <article class="conseil-card">
+                <article class="conseil-card" id="conseil-6">
                     <div class="conseil-number">6</div>
                     <h3>Sauvegardez régulièrement vos données</h3>
                     <p class="conseil-description">
@@ -568,7 +663,7 @@
                 </article>
 
                 <!-- Conseil 7 -->
-                <article class="conseil-card">
+                <article class="conseil-card" id="conseil-7">
                     <div class="conseil-number">7</div>
                     <h3>Surveillez vos comptes bancaires et financiers</h3>
                     <p class="conseil-description">
@@ -587,7 +682,7 @@
                 </article>
 
                 <!-- Conseil 8 -->
-                <article class="conseil-card">
+                <article class="conseil-card" id="conseil-8">
                     <div class="conseil-number">8</div>
                     <h3>Sécurisez votre réseau domestique</h3>
                     <p class="conseil-description">
@@ -606,7 +701,7 @@
                 </article>
 
                 <!-- Conseil 9 -->
-                <article class="conseil-card">
+                <article class="conseil-card" id="conseil-9">
                     <div class="conseil-number">9</div>
                     <h3>Limitez les informations partagées sur les réseaux sociaux</h3>
                     <p class="conseil-description">
@@ -625,7 +720,7 @@
                 </article>
 
                 <!-- Conseil 10 -->
-                <article class="conseil-card">
+                <article class="conseil-card" id="conseil-10">
                     <div class="conseil-number">10</div>
                     <h3>Formez-vous et restez informé</h3>
                     <p class="conseil-description">
@@ -670,6 +765,8 @@
         </div>
         <p>&copy; 2026 Yann Danneels-Coignard. Tous droits réservés.</p>
     </footer>
+
+    <a href="#top" class="back-to-top" title="Retour en haut"><i class="fas fa-chevron-up"></i></a>
 
     <script>
         function downloadPDF() {
