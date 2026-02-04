@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 03 Feb 2026 08:45:24 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 04 Feb 2026 08:51:31 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,28 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>ZDNET Morning 02/02/2026 : ChatGPT succombe à la pub, Agent IA et e-commerce, Pourquoi la France protège Eutelsat,...</title>
-            <link>https://www.zdnet.fr/actualites/zdnet-morning-02-02-2026-chatgpt-succombe-a-la-pub-agent-ia-et-e-commerce-pourquoi-la-france-protege-eutelsat-489198.htm</link>
-            <description><![CDATA[Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.]]></description>
-            <pubDate>Mon, 02 Feb 2026 08:21:55 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/zdnet-morning-02-02-2026-chatgpt-succombe-a-la-pub-agent-ia-et-e-commerce-pourquoi-la-france-protege-eutelsat-489198.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
             <title>[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning</title>
             <link>https://www.youtube.com/watch?v=DnyIUzoKGsQ</link>
             <description><![CDATA[Paradoxe du deep learning : plus on ajoute de couches, plus le réseau devient... stupide. Jusqu'à ce qu'une idée géniale change ...]]></description>
             <pubDate>Sat, 13 Dec 2025 15:00:30 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=DnyIUzoKGsQ</guid>
             <source>Deep Learner, One Step at a Time</source>
-        </item>
-        <item>
-            <title>Créer un Agent IA puissant (RAG) : Tutoriel Complet (no code)</title>
-            <link>https://www.youtube.com/watch?v=_ldYxumnGIo</link>
-            <description><![CDATA[Pour récupérer les workflows sur n8n : https://tally.so/r/pbyR9y Si tu utilises déjà ChatGPT ou Claude en entreprise, tu l'as ...]]></description>
-            <pubDate>Wed, 07 Jan 2026 07:49:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=_ldYxumnGIo</guid>
-            <source>Louis Graffeuil</source>
         </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
@@ -45,12 +29,20 @@
             <source>Ludo Salenne</source>
         </item>
         <item>
-            <title>Power BI Complete Course 2026 🚀 | Zero to Hero Tutorial | FREE Certificate 🎉</title>
-            <link>https://www.youtube.com/watch?v=dPrY-Hybxqo</link>
-            <description><![CDATA[Zero to Hero: Power BI Complete Tutorial 2026 | Full Guide + Jobs + Certificate This Zero to Hero Power BI Complete Guide is ...]]></description>
-            <pubDate>Thu, 08 Jan 2026 12:40:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=dPrY-Hybxqo</guid>
-            <source>Accounts Expert</source>
+            <title>L’intelligence artificielle comme boussole de l’humanité ? La promesse d’un futur sans échec</title>
+            <link>https://www.zdnet.fr/actualites/lintelligence-artificielle-comme-boussole-de-lhumanite-la-promesse-dun-futur-sans-echec-489280.htm</link>
+            <description><![CDATA[L’intelligence artificielle ne se limite pas aux assistants conversationnels. Selon le futurologue Pablos Holman, elle s’impose comme un outil stratégique capable de transformer en profondeur les infr...]]></description>
+            <pubDate>Tue, 03 Feb 2026 07:25:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/lintelligence-artificielle-comme-boussole-de-lhumanite-la-promesse-dun-futur-sans-echec-489280.htm</guid>
+            <source>ZDNet France</source>
+        </item>
+        <item>
+            <title>Python Machine Learning sous Excel avec « xlwings lite »</title>
+            <link>https://www.youtube.com/watch?v=feDNuaLVDLk</link>
+            <description><![CDATA[Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...]]></description>
+            <pubDate>Mon, 22 Dec 2025 15:26:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=feDNuaLVDLk</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
             <title>Détection des anomalies – Isolation Forest et Local Outlier Factor</title>
@@ -77,12 +69,12 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>SQL | Maîtriser le LEFT JOIN (Jointure Gauche) 🔍 Identifier les Clients Inactifs #oraclesql #sqltips</title>
-            <link>https://www.youtube.com/watch?v=mj7JT8HdBvg</link>
-            <description><![CDATA[Comment obtenir tous vos clients, même ceux qui n'ont jamais passé commande ? Le LEFT JOIN est la réponse ! C'est l'outil ...]]></description>
-            <pubDate>Mon, 15 Dec 2025 02:10:44 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=mj7JT8HdBvg</guid>
-            <source>Oracle SQL Tips FR</source>
+            <title>ZD Tech : Transformer le flux illisible de l'application Oura en un rapport structuré</title>
+            <link>https://www.zdnet.fr/actualites/zd-tech-transformer-le-flux-illisible-de-lapplication-oura-en-un-rapport-structure-489247.htm</link>
+            <description><![CDATA[Face à l'accumulation de données biométriques souvent illisibles, de nouvelles initiatives communautaires émergent pour redonner du sens aux wearables.]]></description>
+            <pubDate>Tue, 03 Feb 2026 06:53:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/zd-tech-transformer-le-flux-illisible-de-lapplication-oura-en-un-rapport-structure-489247.htm</guid>
+            <source>ZDNet France</source>
         </item>
         <item>
             <title>Connexion entre Python (notebook) et Excel via « xlwings »</title>
@@ -93,44 +85,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Learn Power BI FAST – Full Beginner Crash Course (1 Hour)</title>
-            <link>https://www.youtube.com/watch?v=WdCltDhmRLo</link>
-            <description><![CDATA[Learn Power BI from zero in under 1 hour. This fast Power BI crash course for beginners takes you through the full Power BI ...]]></description>
-            <pubDate>Tue, 09 Dec 2025 13:30:07 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=WdCltDhmRLo</guid>
-            <source>Data with Baraa</source>
-        </item>
-        <item>
-            <title>MySQL vs PostgreSQL vs MongoDB : Différences 2026</title>
-            <link>https://www.youtube.com/watch?v=KD53CSQtsHQ</link>
-            <description><![CDATA[SQL ou NoSQL ? Comprendre les différences entre MySQL, PostgreSQL et MongoDB. #dev #data #tech.]]></description>
-            <pubDate>Thu, 25 Dec 2025 19:39:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=KD53CSQtsHQ</guid>
-            <source>TechVantage FR</source>
-        </item>
-        <item>
-            <title>Maîtriser Power Query : Automatisez votre nettoyage de données sur Excel et Power BI</title>
-            <link>https://www.youtube.com/watch?v=Q-mQB9OAp50</link>
-            <description><![CDATA[Cette formation complète vous présente Power Query, l'outil incontournable d'Excel et Power BI pour automatiser la préparation ...]]></description>
-            <pubDate>Fri, 16 Jan 2026 11:01:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Q-mQB9OAp50</guid>
-            <source>Cabinet Smart Otobos Consulting</source>
-        </item>
-        <item>
-            <title>SQL | Maîtriser l&amp;#39;Opérateur INTERSECT (Trouver les Doublons Communs) [Opérateurs d&amp;#39;Ensemble #2] #sql</title>
-            <link>https://www.youtube.com/watch?v=_ZnaKkb3vzQ</link>
-            <description><![CDATA[Bienvenue dans l'Épisode 2 de notre série sur les Opérateurs d'Ensemble SQL ! L'opérateur INTERSECT est l'outil d'audit ultime ...]]></description>
-            <pubDate>Sun, 21 Dec 2025 04:49:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=_ZnaKkb3vzQ</guid>
-            <source>Oracle SQL Tips FR</source>
-        </item>
-        <item>
-            <title>SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips</title>
-            <link>https://www.youtube.com/watch?v=qup-uitBx58</link>
-            <description><![CDATA[Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...]]></description>
-            <pubDate>Sun, 04 Jan 2026 03:10:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=qup-uitBx58</guid>
-            <source>Oracle SQL Tips FR</source>
+            <title>Comment les Machines Comprennent le Langage Humain en 10 Secondes #aiart</title>
+            <link>https://www.youtube.com/watch?v=KT6DIPrVoYg</link>
+            <description><![CDATA[NLP : Comment les Machines Comprennent le Langage Humain en 10 Secondes Bienvenue dans cette nouvelle vidéo sur ...]]></description>
+            <pubDate>Wed, 10 Dec 2025 18:11:22 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=KT6DIPrVoYg</guid>
+            <source>INFOTIQUE</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -165,12 +125,52 @@
             <source>AllAboutData</source>
         </item>
         <item>
-            <title>REDIS  BD NoSQL (Clé-Valeur) Master MP2L - M1  (Séance de tutorat 11/11/2024)</title>
-            <link>https://www.youtube.com/watch?v=gnDUGKIj6Fk</link>
-            <description><![CDATA[Séance synchrone enregistrée le 11 11 2024 entre 20h00 et 21h00 Module 6 (Partie 2) : REDIS BD NoSQL (Clé-Valeur) Cours ...]]></description>
-            <pubDate>Tue, 09 Dec 2025 09:45:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=gnDUGKIj6Fk</guid>
-            <source>Riadh Zaafrani</source>
+            <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
+            <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
+            <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
+            <pubDate>Fri, 09 Jan 2026 17:01:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=gcbiOQCR-O8</guid>
+            <source>WeData</source>
+        </item>
+        <item>
+            <title>De zéro à data analyste : la deuxième leçon avec Yao (2ème Session)</title>
+            <link>https://www.youtube.com/watch?v=FJdYN6A9X78</link>
+            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
+            <pubDate>Fri, 16 Jan 2026 23:00:30 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=FJdYN6A9X78</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
+            <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
+            <link>https://www.youtube.com/watch?v=wNyw2TN8mh0</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 20 Jan 2026 15:55:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=wNyw2TN8mh0</guid>
+            <source>Le Decodeur</source>
+        </item>
+        <item>
+            <title>De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)</title>
+            <link>https://www.youtube.com/watch?v=n5uJWNTs-dQ</link>
+            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
+            <pubDate>Fri, 30 Jan 2026 23:01:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=n5uJWNTs-dQ</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
+            <title>Pendant des années, elle se cachait dans les données : quasi-jumelle de la Terre, à 146 années-lumière, mais…</title>
+            <link>https://www.futura-sciences.com/sciences/actualites/astronomie-pendant-annees-elle-cachait-donnees-quasi-jumelle-terre-146-annees-lumiere-mais-130814/</link>
+            <description><![CDATA[On aimerait bien savoir si de la vie existe ailleurs, dans l'idéal pas très loin du Système solaire et sous forme d'E.T. technologiquement avancés. Sans aller encore jusque-là, une exoplanète ayant de...]]></description>
+            <pubDate>Mon, 02 Feb 2026 19:59:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/astronomie-pendant-annees-elle-cachait-donnees-quasi-jumelle-terre-146-annees-lumiere-mais-130814/</guid>
+            <source>Futura</source>
+        </item>
+        <item>
+            <title>Lien entre progression de l’extrême droite et fermeture des bars-tabacs, ce que dit cette étude</title>
+            <link>https://www.huffingtonpost.fr/politique/article/lien-entre-progression-de-l-extreme-droite-et-fermeture-des-bars-tabacs-ce-que-dit-cette-etude_259937.html</link>
+            <description><![CDATA[Le chercheur Hugo Subtil a combiné les données de 18 000 fermetures de bars-tabacs en 20 ans avec les résultats des élections présidentielles et législatives sur 25 ans.]]></description>
+            <pubDate>Mon, 02 Feb 2026 20:41:10 -0000</pubDate>
+            <guid isPermaLink="true">https://www.huffingtonpost.fr/politique/article/lien-entre-progression-de-l-extreme-droite-et-fermeture-des-bars-tabacs-ce-que-dit-cette-etude_259937.html</guid>
+            <source>Le HuffPost</source>
         </item>
     </channel>
 </rss>
