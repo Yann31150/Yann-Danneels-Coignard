@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-04T08:51:31.379701",
+  "lastUpdate": "2026-02-05T08:51:56.021562",
   "articles": [
     {
       "title": "[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning",
@@ -24,18 +24,6 @@
       "isYouTube": true,
       "videoId": "N0gTIxg9l2A",
       "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
-    },
-    {
-      "title": "L’intelligence artificielle comme boussole de l’humanité ? La promesse d’un futur sans échec",
-      "description": "L’intelligence artificielle ne se limite pas aux assistants conversationnels. Selon le futurologue Pablos Holman, elle s’impose comme un outil stratégique capable de transformer en profondeur les infr...",
-      "url": "https://www.zdnet.fr/actualites/lintelligence-artificielle-comme-boussole-de-lhumanite-la-promesse-dun-futur-sans-echec-489280.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-02-03T07:25:16Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Python Machine Learning sous Excel avec « xlwings lite »",
@@ -86,18 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
     },
     {
-      "title": "ZD Tech : Transformer le flux illisible de l'application Oura en un rapport structuré",
-      "description": "Face à l'accumulation de données biométriques souvent illisibles, de nouvelles initiatives communautaires émergent pour redonner du sens aux wearables.",
-      "url": "https://www.zdnet.fr/actualites/zd-tech-transformer-le-flux-illisible-de-lapplication-oura-en-un-rapport-structure-489247.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-02-03T06:53:54Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Connexion entre Python (notebook) et Excel via « xlwings »",
       "description": "Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...",
       "url": "https://www.youtube.com/watch?v=-ONGM2pg3tc",
@@ -110,6 +86,18 @@
       "thumbnail": "https://i.ytimg.com/vi/-ONGM2pg3tc/hqdefault.jpg"
     },
     {
+      "title": "Firefox permettra bientôt de désactiver l’ensemble de ses fonctionnalités d’IA générative",
+      "description": "Mozilla s’apprête à intégrer dans Firefox une option permettant aux utilisateurs de désactiver toutes les fonctionnalités liées à l’intelligence artificielle générative, offrant ainsi un contrôle accr...",
+      "url": "https://www.begeek.fr/firefox-permettra-bientot-de-desactiver-lensemble-de-ses-fonctionnalites-dia-generative-427702",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-02-04T08:00:21Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Comment les Machines Comprennent le Langage Humain en 10 Secondes #aiart",
       "description": "NLP : Comment les Machines Comprennent le Langage Humain en 10 Secondes Bienvenue dans cette nouvelle vidéo sur ...",
       "url": "https://www.youtube.com/watch?v=KT6DIPrVoYg",
@@ -120,6 +108,42 @@
       "isYouTube": true,
       "videoId": "KT6DIPrVoYg",
       "thumbnail": "https://i.ytimg.com/vi/KT6DIPrVoYg/hqdefault.jpg"
+    },
+    {
+      "title": "C’est dingue : SQL devient du TailwindCSS",
+      "description": "Quand le monde du Web va trop loin : voici Tailwind SQL. Un projet totalement fou (et surtout inutilisable sérieusement) qui ...",
+      "url": "https://www.youtube.com/watch?v=zCkmpwGTDmQ",
+      "source": "Faiz Dev",
+      "publishedAt": "2026-01-02T20:27:56Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "zCkmpwGTDmQ",
+      "thumbnail": "https://i.ytimg.com/vi/zCkmpwGTDmQ/hqdefault.jpg"
+    },
+    {
+      "title": "L'IA en quête de clarté : l'importance cruciale des données fiables",
+      "description": "L'IA dépend de données fiables, sans lesquelles biais et échecs se multiplient. Pourtant, de nombreuses entreprises souffrent d'un manque de visibilité sur la qualité et la pertinence de leurs données",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1547709-l-ia-en-quete-de-clarte-l-importance-cruciale-des-donnees-fiables/",
+      "source": "JDN",
+      "publishedAt": "2026-02-03T10:07:46Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Calibre 9 ajoute une bibliothèque au parfum de skeuomorphisme… et un chatbot IA",
+      "description": "Calibre (gratuit) est un gestionnaire de bibliothèque numérique, une app capable de cataloguer tous les fichiers ePub à votre disposition, de les organiser en modifiant les métadonnées associées et mê...",
+      "url": "https://www.macg.co/logiciels/2026/02/calibre-9-ajoute-une-bibliotheque-au-parfum-de-skeuomorphisme-et-un-chatbot-ia-306573",
+      "source": "MacGeneration",
+      "publishedAt": "2026-02-04T07:29:17Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -218,35 +242,11 @@
       "thumbnail": "https://i.ytimg.com/vi/n5uJWNTs-dQ/hqdefault.jpg"
     },
     {
-      "title": "Pendant des années, elle se cachait dans les données : quasi-jumelle de la Terre, à 146 années-lumière, mais…",
-      "description": "On aimerait bien savoir si de la vie existe ailleurs, dans l'idéal pas très loin du Système solaire et sous forme d'E.T. technologiquement avancés. Sans aller encore jusque-là, une exoplanète ayant de...",
-      "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-pendant-annees-elle-cachait-donnees-quasi-jumelle-terre-146-annees-lumiere-mais-130814/",
-      "source": "Futura",
-      "publishedAt": "2026-02-02T19:59:08Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Lien entre progression de l’extrême droite et fermeture des bars-tabacs, ce que dit cette étude",
-      "description": "Le chercheur Hugo Subtil a combiné les données de 18 000 fermetures de bars-tabacs en 20 ans avec les résultats des élections présidentielles et législatives sur 25 ans.",
-      "url": "https://www.huffingtonpost.fr/politique/article/lien-entre-progression-de-l-extreme-droite-et-fermeture-des-bars-tabacs-ce-que-dit-cette-etude_259937.html",
-      "source": "Le HuffPost",
-      "publishedAt": "2026-02-02T20:41:10Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L’extermination de l’humanité par l’IA, un risque pris au sérieux par Dario Amodei, le PDG d’Anthropic",
-      "description": "Dans un texte glaçant, Dario Amodei, patron du chatbot américain Claude, décrit les nombreux dangers d’une future intelligence artificielle « puissante », et appelle à la mise en place d’une réglement...",
-      "url": "https://www.nouvelobs.com/economie/20260203.OBS112082/l-extermination-de-l-humanite-par-l-ia-un-risque-pris-au-serieux-par-dario-amodei-le-pdg-d-anthropic.html",
-      "source": "L'Obs",
-      "publishedAt": "2026-02-03T08:30:03Z",
+      "title": "OPINION. « Quand l’IA remodèle le Web »",
+      "description": "HOMO NUMERICUS. Sans bruit, l’IA est en train de transformer le Web : moins de navigation, plus de réponses. Derrière ce glissement apparemment anodin se joue une mutation profonde de notre rapport à ...",
+      "url": "https://www.latribune.fr/article/idees/49386843193509/opinion-quand-l-ia-remodele-le-web",
+      "source": "La Tribune.fr",
+      "publishedAt": "2026-02-04T07:30:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "L'intelligence artificielle : un allié puissant pour l'apprentissage des langues",
-      "description": "Véritable coach vocal et jumeau numérique, l'IA prolonge le travail du professeur en faisant de chaque cours de langue une mémoire pédagogique vivante et une progression continue.",
-      "url": "https://www.journaldunet.com/management/formation/1547645-l-intelligence-artificielle-un-allie-puissant-pour-l-apprentissage-des-langues/",
-      "source": "JDN",
-      "publishedAt": "2026-02-02T16:14:33Z",
+      "title": "\"Entre eux, ils reproduisent du langage humain\" : Moltbook, réseau social réservé aux IA, surprend et fait déjà polémique",
+      "description": "C'est un réseau social comme il en existe tant d'autres, à une exception près : il est réservé aux intelligences artificielles. Les êtres humains ne peuvent que lire ce qu'écrivent le million et demi ...",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/entre-eux-ils-reproduisent-du-langage-humain-moltbook-reseau-social-reserve-aux-ia-surprend-et-fait-deja-polemique_7782416.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-02-03T21:10:44Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Nouvelles compétences à développer à l’ère de l’IA : celles qui feront la différence demain",
-      "description": "Le café est encore chaud sur votre bureau, vous ouvrez votre ordinateur, et la nouvelle tombe : une nouvelle intelligence artificielle vient de sortir, capable de faire en quelques secondes ce qui vou...",
-      "url": "https://www.webmarketing-com.com/nouvelles-competences-ia-difference-demain",
-      "source": "Webmarketing-com.com",
-      "publishedAt": "2026-02-03T08:30:00Z",
+      "title": "La science en Australie : brèves scientifiques - février 2026",
+      "description": "Spatial International Astronautical Congress - IAC Le 76e Congrès astronautique international (IAC 2025) à Sydney a attiré 7 500 délégués de 99 pays, avec 450 exposants et plus de 400 présentations. C...",
+      "url": "https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/diplomatie-scientifique-et-universitaire/veille-scientifique-et-technologique/australie/article/la-science-en-australie-breves-scientifiques-fevrier-2026",
+      "source": "Gouv.fr",
+      "publishedAt": "2026-02-04T01:51:46Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,23 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Baromètre Deloitte-AFIS : comment les financiers africains redéfinissent leurs priorités",
-      "description": "Les institutions financières africaines changent de cap stratégique en misant sur l’efficacité opérationnelle plutôt que sur l’expansion géographique. Le baromètre 2025 de Deloitte et l’AFIS montre qu...",
-      "url": "https://www.jeuneafrique.com/1761278/economie-entreprises/barometre-deloitte-afis-comment-les-financiers-africains-redefinissent-leurs-priorites/",
-      "source": "Jeune Afrique",
-      "publishedAt": "2026-02-03T07:35:08Z",
+      "title": "Les théories d&#39;apprentissage5: le connectivisme",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Gob2goPLZBs",
+      "source": "Apprendre le français ",
+      "publishedAt": "2026-01-07T17:44:15Z",
       "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Gob2goPLZBs",
+      "thumbnail": "https://i.ytimg.com/vi/Gob2goPLZBs/hqdefault.jpg"
     },
     {
-      "title": "Facturation électronique : comment anticiper la réforme et transformer la contrainte en opportunité avec Kafinea",
-      "description": "Dès 2026, toutes les entreprises devront recevoir des factures électroniques, puis les émettre dès 2027. Un bouleversement majeur pour les PME, qui devront adapter leurs outils et leurs processus. Dep...",
-      "url": "https://www.challenges.fr/partenaires/facturation-electronique-comment-anticiper-la-reforme-et-transformer-la-contrainte-en-opportunite-avec-kafinea_638523",
-      "source": "Challenges",
-      "publishedAt": "2026-02-03T08:30:00Z",
+      "title": "J’ai visité l’usine de batteries Porsche : pourquoi ce véritable joyau technologique en Europe m’a laissé un sentiment d’amertume",
+      "description": "J'ai visité la première usine européenne de Porsche qui produit les batteries du nouveau Cayenne électrique. Une plongée dans un univers ultra robotisé et impressionnant, clairsemé de déceptions qui p...",
+      "url": "https://www.frandroid.com/marques/porsche/2961783_jai-visite-lusine-de-batteries-porsche-pourquoi-ce-veritable-joyau-technologique-en-europe-ma-laisse-un-sentiment-damertume",
+      "source": "Frandroid",
+      "publishedAt": "2026-02-03T16:44:33Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
