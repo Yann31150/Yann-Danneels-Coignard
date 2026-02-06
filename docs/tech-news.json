@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-02-05T08:51:56.021562",
+  "lastUpdate": "2026-02-06T06:05:52.083829",
   "articles": [
+    {
+      "title": "Quand ChatGPT invente des URL : comment l’IA envoie nos lecteurs vers des pages 404",
+      "description": "Les IA génératives inventent (aussi) des URL crédibles mais fictives. Résultat : des pages 404 à répétition. Pourquoi ce phénomène ? Et si c'était un signal éditorial à exploiter ?",
+      "url": "https://www.blogdumoderateur.com/chatgpt-invente-url-ia-envoie-lecteurs-404/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-02-05T06:00:50Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
     {
       "title": "[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning",
       "description": "Paradoxe du deep learning : plus on ajoute de couches, plus le réseau devient... stupide. Jusqu'à ce qu'une idée géniale change ...",
@@ -26,6 +38,30 @@
       "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
     },
     {
+      "title": "[OCTO] Glossaire IA : Comprendre l’intelligence artificielle, un mot à la fois",
+      "description": "Comprendre l’intelligence artificielle commence par maîtriser les mots que l’on utilise pour en parler. Ce glossaire IA a été conçu comme un outil de découverte et de clarification, destiné aux non sp...",
+      "url": "https://blog.octo.com/octo-glossaire-ia--comprendre-l'intelligence-artificielle-un-mot-a-la-fois",
+      "source": "Octo.com",
+      "publishedAt": "2026-02-04T14:11:20Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tout l’Internet veut donner vie à cette Viper Shooting Brake réalisée par intelligence artificielle",
+      "description": "L’intelligence artificielle offre une créativité sans limite. La preuve avec cette Dodge Viper imaginée par l’artiste Sebastian Simonsson en version Shooting Brake. Un rendu si réussi pour les fans du...",
+      "url": "https://www.caradisiac.com/tout-l-internet-veut-donner-vie-a-cette-viper-shooting-brake-realisee-par-intelligence-artificielle-220236.htm",
+      "source": "Caradisiac.com",
+      "publishedAt": "2026-02-04T19:00:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Python Machine Learning sous Excel avec « xlwings lite »",
       "description": "Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...",
       "url": "https://www.youtube.com/watch?v=feDNuaLVDLk",
@@ -36,18 +72,6 @@
       "isYouTube": true,
       "videoId": "feDNuaLVDLk",
       "thumbnail": "https://i.ytimg.com/vi/feDNuaLVDLk/hqdefault.jpg"
-    },
-    {
-      "title": "Détection des anomalies – Isolation Forest et Local Outlier Factor",
-      "description": "Machine Learning. Data Science. La problématique de la détection des anomalies en machine learning, applicable par exemple ...",
-      "url": "https://www.youtube.com/watch?v=qCaA6vGDRUw",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-01-15T09:21:17Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "qCaA6vGDRUw",
-      "thumbnail": "https://i.ytimg.com/vi/qCaA6vGDRUw/hqdefault.jpg"
     },
     {
       "title": "Power BI Desktop Installation TUTO GRATUIT 2025",
@@ -62,6 +86,18 @@
       "thumbnail": "https://i.ytimg.com/vi/FOj5HTd4EAs/hqdefault.jpg"
     },
     {
+      "title": "Friend.com, c’est quoi ce collier doté d’une intelligence artificielle qui promet « écoute permanente » et amitié ?",
+      "description": "Une intelligence artificielle à l’écoute permanente et une promesse d’amitié. Avec une campagne énigmatique dans le métro parisien, la start-up américaine Friend.com intrigue autant qu’elle inquiète",
+      "url": "https://www.20minutes.fr/high-tech/4199491-20260205-friend-com-quoi-collier-dote-intelligence-artificielle-promet-ecoute-permanente-amitie",
+      "source": "20 Minutes",
+      "publishedAt": "2026-02-05T05:47:36Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Qu&#39;est-ce que Power BI ? (Tuto Intro 2025)",
       "description": "Vous entendez parler de \"Data\" partout, mais c'est quoi concrètement Power BI ? En 2025, c'est l'outil indispensable pour booster ...",
       "url": "https://www.youtube.com/watch?v=wBsvjPNqUco",
@@ -74,23 +110,11 @@
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
     },
     {
-      "title": "Connexion entre Python (notebook) et Excel via « xlwings »",
-      "description": "Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...",
-      "url": "https://www.youtube.com/watch?v=-ONGM2pg3tc",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2025-12-21T10:20:45Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "-ONGM2pg3tc",
-      "thumbnail": "https://i.ytimg.com/vi/-ONGM2pg3tc/hqdefault.jpg"
-    },
-    {
-      "title": "Firefox permettra bientôt de désactiver l’ensemble de ses fonctionnalités d’IA générative",
-      "description": "Mozilla s’apprête à intégrer dans Firefox une option permettant aux utilisateurs de désactiver toutes les fonctionnalités liées à l’intelligence artificielle générative, offrant ainsi un contrôle accr...",
-      "url": "https://www.begeek.fr/firefox-permettra-bientot-de-desactiver-lensemble-de-ses-fonctionnalites-dia-generative-427702",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-02-04T08:00:21Z",
+      "title": "L’intelligence artificielle au travail : « Des transformations hétérogènes, voire paradoxales »",
+      "description": "L’IA réduit la charge de travail et fiabilise le diagnostic de certains professionnels quand elle complexifie l’activité et diminue l’expertise d’autres travailleurs. Elle a des effets hétérogènes et ...",
+      "url": "https://www.lemonde.fr/emploi/article/2026/02/05/l-intelligence-artificielle-au-travail-des-transformations-heterogenes-voire-paradoxales_6665477_1698637.html",
+      "source": "Le Monde",
+      "publishedAt": "2026-02-05T06:00:15Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -98,47 +122,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Comment les Machines Comprennent le Langage Humain en 10 Secondes #aiart",
-      "description": "NLP : Comment les Machines Comprennent le Langage Humain en 10 Secondes Bienvenue dans cette nouvelle vidéo sur ...",
-      "url": "https://www.youtube.com/watch?v=KT6DIPrVoYg",
-      "source": "INFOTIQUE",
-      "publishedAt": "2025-12-10T18:11:22Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "KT6DIPrVoYg",
-      "thumbnail": "https://i.ytimg.com/vi/KT6DIPrVoYg/hqdefault.jpg"
-    },
-    {
-      "title": "C’est dingue : SQL devient du TailwindCSS",
-      "description": "Quand le monde du Web va trop loin : voici Tailwind SQL. Un projet totalement fou (et surtout inutilisable sérieusement) qui ...",
-      "url": "https://www.youtube.com/watch?v=zCkmpwGTDmQ",
-      "source": "Faiz Dev",
-      "publishedAt": "2026-01-02T20:27:56Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "zCkmpwGTDmQ",
-      "thumbnail": "https://i.ytimg.com/vi/zCkmpwGTDmQ/hqdefault.jpg"
-    },
-    {
-      "title": "L'IA en quête de clarté : l'importance cruciale des données fiables",
-      "description": "L'IA dépend de données fiables, sans lesquelles biais et échecs se multiplient. Pourtant, de nombreuses entreprises souffrent d'un manque de visibilité sur la qualité et la pertinence de leurs données",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1547709-l-ia-en-quete-de-clarte-l-importance-cruciale-des-donnees-fiables/",
-      "source": "JDN",
-      "publishedAt": "2026-02-03T10:07:46Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Calibre 9 ajoute une bibliothèque au parfum de skeuomorphisme… et un chatbot IA",
-      "description": "Calibre (gratuit) est un gestionnaire de bibliothèque numérique, une app capable de cataloguer tous les fichiers ePub à votre disposition, de les organiser en modifiant les métadonnées associées et mê...",
-      "url": "https://www.macg.co/logiciels/2026/02/calibre-9-ajoute-une-bibliotheque-au-parfum-de-skeuomorphisme-et-un-chatbot-ia-306573",
-      "source": "MacGeneration",
-      "publishedAt": "2026-02-04T07:29:17Z",
+      "title": "Grâce au programme de recherche BioLit, les promeneurs peuvent devenir des sentinelles de la biodiversité sur le littoral français",
+      "description": "Observer des algues à marée basse pour aider la recherche scientifique : c’est le pari de BioLit, un programme de sciences participatives qui invite les citoyens à collecter des données sur la biodive...",
+      "url": "https://www.franceinfo.fr/environnement/biodiversite/protection-des-oceans/grace-au-programme-de-recherche-biolit-les-promeneurs-peuvent-devenir-des-sentinelles-de-la-biodiversite-sur-le-littoral-francais_7784027.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-02-04T16:03:26Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +230,23 @@
       "thumbnail": "https://i.ytimg.com/vi/n5uJWNTs-dQ/hqdefault.jpg"
     },
     {
-      "title": "OPINION. « Quand l’IA remodèle le Web »",
-      "description": "HOMO NUMERICUS. Sans bruit, l’IA est en train de transformer le Web : moins de navigation, plus de réponses. Derrière ce glissement apparemment anodin se joue une mutation profonde de notre rapport à ...",
-      "url": "https://www.latribune.fr/article/idees/49386843193509/opinion-quand-l-ia-remodele-le-web",
-      "source": "La Tribune.fr",
-      "publishedAt": "2026-02-04T07:30:01Z",
+      "title": "data-science-document-ai 1.61.3",
+      "description": "\"Document AI repo for data science\"",
+      "url": "https://pypi.org/project/data-science-document-ai/1.61.3/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-02-04T14:57:50Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chatbots, campagnes « augmentées »… l’IA s’immisce dans la politique française",
+      "description": "Au-delà de la production de visuels destinés aux réseaux sociaux, les partis intègrent de plus en plus les outils d’intelligence artificielle dans leur stratégie électorale. D’après une enquête, 27 % ...",
+      "url": "https://www.lemonde.fr/politique/article/2026/02/05/chatbots-campagnes-augmentees-l-ia-s-immisce-dans-la-politique-francaise_6665450_823448.html",
+      "source": "Le Monde",
+      "publishedAt": "2026-02-05T04:30:08Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "\"Entre eux, ils reproduisent du langage humain\" : Moltbook, réseau social réservé aux IA, surprend et fait déjà polémique",
-      "description": "C'est un réseau social comme il en existe tant d'autres, à une exception près : il est réservé aux intelligences artificielles. Les êtres humains ne peuvent que lire ce qu'écrivent le million et demi ...",
-      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/entre-eux-ils-reproduisent-du-langage-humain-moltbook-reseau-social-reserve-aux-ia-surprend-et-fait-deja-polemique_7782416.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-02-03T21:10:44Z",
+      "title": "Project Genie : Google ouvre au public son générateur IA de mondes 3D à explorer",
+      "description": "Google DeepMind rend accessible Project Genie, une application web expérimentale qui permet de créer et d’explorer des mondes virtuels interactifs générés par intelligence artificielle. Basé sur le mo...",
+      "url": "https://www.aruco.com/intelligence-artificielle/project-genie-google-mondes-3d/",
+      "source": "Aruco.com",
+      "publishedAt": "2026-02-04T18:02:46Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "La science en Australie : brèves scientifiques - février 2026",
-      "description": "Spatial International Astronautical Congress - IAC Le 76e Congrès astronautique international (IAC 2025) à Sydney a attiré 7 500 délégués de 99 pays, avec 450 exposants et plus de 400 présentations. C...",
-      "url": "https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/diplomatie-scientifique-et-universitaire/veille-scientifique-et-technologique/australie/article/la-science-en-australie-breves-scientifiques-fevrier-2026",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-02-04T01:51:46Z",
+      "title": "Infrastructure IA : Alphabet annonce un doublement du CAPEX pour saturer le marché du Cloud",
+      "description": "Face à une demande sans précédent pour l'intelligence artificielle générative, Alphabet engage une accélération massive de ses investissements. Avec un budget d'infrastructure pouvant atteindre 185 mi...",
+      "url": "https://www.zdnet.fr/actualites/infrastructure-ia-alphabet-annonce-un-doublement-du-capex-pour-saturer-le-marche-du-cloud-489586.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-02-05T01:02:08Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,23 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Les théories d&#39;apprentissage5: le connectivisme",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=Gob2goPLZBs",
-      "source": "Apprendre le français ",
-      "publishedAt": "2026-01-07T17:44:15Z",
+      "title": "Lolita Cercel, la chanteuse créée par IA en Roumanie, fascine et inquiète",
+      "description": "L’artiste virtuelle créée par l’intelligence artificielle cumule des milliers de vues et d’écoutes sur les plateformes en Roumanie, bousculant les milieux artistiques.",
+      "url": "https://www.lemonde.fr/m-le-mag/article/2026/02/04/lolita-cercel-la-chanteuse-creee-par-ia-en-roumanie-fascine-et-inquiete_6665414_4500055.html",
+      "source": "Le Monde",
+      "publishedAt": "2026-02-04T17:30:02Z",
       "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Gob2goPLZBs",
-      "thumbnail": "https://i.ytimg.com/vi/Gob2goPLZBs/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "J’ai visité l’usine de batteries Porsche : pourquoi ce véritable joyau technologique en Europe m’a laissé un sentiment d’amertume",
-      "description": "J'ai visité la première usine européenne de Porsche qui produit les batteries du nouveau Cayenne électrique. Une plongée dans un univers ultra robotisé et impressionnant, clairsemé de déceptions qui p...",
-      "url": "https://www.frandroid.com/marques/porsche/2961783_jai-visite-lusine-de-batteries-porsche-pourquoi-ce-veritable-joyau-technologique-en-europe-ma-laisse-un-sentiment-damertume",
-      "source": "Frandroid",
-      "publishedAt": "2026-02-03T16:44:33Z",
+      "title": "Moltbook, le réseau social des IA : coup marketing ou début d’une dystopie technologique ? - RTBF Actus",
+      "description": "Moltbook, le réseau social des IA : coup marketing ou début d’une dystopie technologique ? - RTBF Actusrtbf.be",
+      "url": "https://www.rtbf.be/article/moltbook-le-reseau-social-des-ia-coup-marketing-ou-debut-d-une-dystopie-technologique-11673420",
+      "source": "RTBF",
+      "publishedAt": "2026-02-04T17:57:07Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

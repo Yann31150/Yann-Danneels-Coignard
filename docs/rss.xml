@@ -5,13 +5,21 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 05 Feb 2026 08:51:56 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 06:05:52 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>Quand ChatGPT invente des URL : comment l’IA envoie nos lecteurs vers des pages 404</title>
+            <link>https://www.blogdumoderateur.com/chatgpt-invente-url-ia-envoie-lecteurs-404/</link>
+            <description><![CDATA[Les IA génératives inventent (aussi) des URL crédibles mais fictives. Résultat : des pages 404 à répétition. Pourquoi ce phénomène ? Et si c'était un signal éditorial à exploiter ?]]></description>
+            <pubDate>Thu, 05 Feb 2026 06:00:50 -0000</pubDate>
+            <guid isPermaLink="true">https://www.blogdumoderateur.com/chatgpt-invente-url-ia-envoie-lecteurs-404/</guid>
+            <source>Blogdumoderateur.com</source>
+        </item>
         <item>
             <title>[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning</title>
             <link>https://www.youtube.com/watch?v=DnyIUzoKGsQ</link>
@@ -29,19 +37,27 @@
             <source>Ludo Salenne</source>
         </item>
         <item>
+            <title>[OCTO] Glossaire IA : Comprendre l’intelligence artificielle, un mot à la fois</title>
+            <link>https://blog.octo.com/octo-glossaire-ia--comprendre-l'intelligence-artificielle-un-mot-a-la-fois</link>
+            <description><![CDATA[Comprendre l’intelligence artificielle commence par maîtriser les mots que l’on utilise pour en parler. Ce glossaire IA a été conçu comme un outil de découverte et de clarification, destiné aux non sp...]]></description>
+            <pubDate>Wed, 04 Feb 2026 14:11:20 -0000</pubDate>
+            <guid isPermaLink="true">https://blog.octo.com/octo-glossaire-ia--comprendre-l'intelligence-artificielle-un-mot-a-la-fois</guid>
+            <source>Octo.com</source>
+        </item>
+        <item>
+            <title>Tout l’Internet veut donner vie à cette Viper Shooting Brake réalisée par intelligence artificielle</title>
+            <link>https://www.caradisiac.com/tout-l-internet-veut-donner-vie-a-cette-viper-shooting-brake-realisee-par-intelligence-artificielle-220236.htm</link>
+            <description><![CDATA[L’intelligence artificielle offre une créativité sans limite. La preuve avec cette Dodge Viper imaginée par l’artiste Sebastian Simonsson en version Shooting Brake. Un rendu si réussi pour les fans du...]]></description>
+            <pubDate>Wed, 04 Feb 2026 19:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.caradisiac.com/tout-l-internet-veut-donner-vie-a-cette-viper-shooting-brake-realisee-par-intelligence-artificielle-220236.htm</guid>
+            <source>Caradisiac.com</source>
+        </item>
+        <item>
             <title>Python Machine Learning sous Excel avec « xlwings lite »</title>
             <link>https://www.youtube.com/watch?v=feDNuaLVDLk</link>
             <description><![CDATA[Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...]]></description>
             <pubDate>Mon, 22 Dec 2025 15:26:03 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=feDNuaLVDLk</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>Détection des anomalies – Isolation Forest et Local Outlier Factor</title>
-            <link>https://www.youtube.com/watch?v=qCaA6vGDRUw</link>
-            <description><![CDATA[Machine Learning. Data Science. La problématique de la détection des anomalies en machine learning, applicable par exemple ...]]></description>
-            <pubDate>Thu, 15 Jan 2026 09:21:17 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=qCaA6vGDRUw</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
@@ -53,6 +69,14 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
+            <title>Friend.com, c’est quoi ce collier doté d’une intelligence artificielle qui promet « écoute permanente » et amitié ?</title>
+            <link>https://www.20minutes.fr/high-tech/4199491-20260205-friend-com-quoi-collier-dote-intelligence-artificielle-promet-ecoute-permanente-amitie</link>
+            <description><![CDATA[Une intelligence artificielle à l’écoute permanente et une promesse d’amitié. Avec une campagne énigmatique dans le métro parisien, la start-up américaine Friend.com intrigue autant qu’elle inquiète]]></description>
+            <pubDate>Thu, 05 Feb 2026 05:47:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.20minutes.fr/high-tech/4199491-20260205-friend-com-quoi-collier-dote-intelligence-artificielle-promet-ecoute-permanente-amitie</guid>
+            <source>20 Minutes</source>
+        </item>
+        <item>
             <title>Qu&amp;#39;est-ce que Power BI ? (Tuto Intro 2025)</title>
             <link>https://www.youtube.com/watch?v=wBsvjPNqUco</link>
             <description><![CDATA[Vous entendez parler de "Data" partout, mais c'est quoi concrètement Power BI ? En 2025, c'est l'outil indispensable pour booster ...]]></description>
@@ -61,52 +85,20 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>Connexion entre Python (notebook) et Excel via « xlwings »</title>
-            <link>https://www.youtube.com/watch?v=-ONGM2pg3tc</link>
-            <description><![CDATA[Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...]]></description>
-            <pubDate>Sun, 21 Dec 2025 10:20:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=-ONGM2pg3tc</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>L’intelligence artificielle au travail : « Des transformations hétérogènes, voire paradoxales »</title>
+            <link>https://www.lemonde.fr/emploi/article/2026/02/05/l-intelligence-artificielle-au-travail-des-transformations-heterogenes-voire-paradoxales_6665477_1698637.html</link>
+            <description><![CDATA[L’IA réduit la charge de travail et fiabilise le diagnostic de certains professionnels quand elle complexifie l’activité et diminue l’expertise d’autres travailleurs. Elle a des effets hétérogènes et ...]]></description>
+            <pubDate>Thu, 05 Feb 2026 06:00:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/emploi/article/2026/02/05/l-intelligence-artificielle-au-travail-des-transformations-heterogenes-voire-paradoxales_6665477_1698637.html</guid>
+            <source>Le Monde</source>
         </item>
         <item>
-            <title>Firefox permettra bientôt de désactiver l’ensemble de ses fonctionnalités d’IA générative</title>
-            <link>https://www.begeek.fr/firefox-permettra-bientot-de-desactiver-lensemble-de-ses-fonctionnalites-dia-generative-427702</link>
-            <description><![CDATA[Mozilla s’apprête à intégrer dans Firefox une option permettant aux utilisateurs de désactiver toutes les fonctionnalités liées à l’intelligence artificielle générative, offrant ainsi un contrôle accr...]]></description>
-            <pubDate>Wed, 04 Feb 2026 08:00:21 -0000</pubDate>
-            <guid isPermaLink="true">https://www.begeek.fr/firefox-permettra-bientot-de-desactiver-lensemble-de-ses-fonctionnalites-dia-generative-427702</guid>
-            <source>Begeek.fr</source>
-        </item>
-        <item>
-            <title>Comment les Machines Comprennent le Langage Humain en 10 Secondes #aiart</title>
-            <link>https://www.youtube.com/watch?v=KT6DIPrVoYg</link>
-            <description><![CDATA[NLP : Comment les Machines Comprennent le Langage Humain en 10 Secondes Bienvenue dans cette nouvelle vidéo sur ...]]></description>
-            <pubDate>Wed, 10 Dec 2025 18:11:22 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=KT6DIPrVoYg</guid>
-            <source>INFOTIQUE</source>
-        </item>
-        <item>
-            <title>C’est dingue : SQL devient du TailwindCSS</title>
-            <link>https://www.youtube.com/watch?v=zCkmpwGTDmQ</link>
-            <description><![CDATA[Quand le monde du Web va trop loin : voici Tailwind SQL. Un projet totalement fou (et surtout inutilisable sérieusement) qui ...]]></description>
-            <pubDate>Fri, 02 Jan 2026 20:27:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=zCkmpwGTDmQ</guid>
-            <source>Faiz Dev</source>
-        </item>
-        <item>
-            <title>L'IA en quête de clarté : l'importance cruciale des données fiables</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1547709-l-ia-en-quete-de-clarte-l-importance-cruciale-des-donnees-fiables/</link>
-            <description><![CDATA[L'IA dépend de données fiables, sans lesquelles biais et échecs se multiplient. Pourtant, de nombreuses entreprises souffrent d'un manque de visibilité sur la qualité et la pertinence de leurs données]]></description>
-            <pubDate>Tue, 03 Feb 2026 10:07:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1547709-l-ia-en-quete-de-clarte-l-importance-cruciale-des-donnees-fiables/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
-            <title>Calibre 9 ajoute une bibliothèque au parfum de skeuomorphisme… et un chatbot IA</title>
-            <link>https://www.macg.co/logiciels/2026/02/calibre-9-ajoute-une-bibliotheque-au-parfum-de-skeuomorphisme-et-un-chatbot-ia-306573</link>
-            <description><![CDATA[Calibre (gratuit) est un gestionnaire de bibliothèque numérique, une app capable de cataloguer tous les fichiers ePub à votre disposition, de les organiser en modifiant les métadonnées associées et mê...]]></description>
-            <pubDate>Wed, 04 Feb 2026 07:29:17 -0000</pubDate>
-            <guid isPermaLink="true">https://www.macg.co/logiciels/2026/02/calibre-9-ajoute-une-bibliotheque-au-parfum-de-skeuomorphisme-et-un-chatbot-ia-306573</guid>
-            <source>MacGeneration</source>
+            <title>Grâce au programme de recherche BioLit, les promeneurs peuvent devenir des sentinelles de la biodiversité sur le littoral français</title>
+            <link>https://www.franceinfo.fr/environnement/biodiversite/protection-des-oceans/grace-au-programme-de-recherche-biolit-les-promeneurs-peuvent-devenir-des-sentinelles-de-la-biodiversite-sur-le-littoral-francais_7784027.html</link>
+            <description><![CDATA[Observer des algues à marée basse pour aider la recherche scientifique : c’est le pari de BioLit, un programme de sciences participatives qui invite les citoyens à collecter des données sur la biodive...]]></description>
+            <pubDate>Wed, 04 Feb 2026 16:03:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/environnement/biodiversite/protection-des-oceans/grace-au-programme-de-recherche-biolit-les-promeneurs-peuvent-devenir-des-sentinelles-de-la-biodiversite-sur-le-littoral-francais_7784027.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -171,6 +163,14 @@
             <pubDate>Fri, 30 Jan 2026 23:01:09 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=n5uJWNTs-dQ</guid>
             <source>Enogne School</source>
+        </item>
+        <item>
+            <title>data-science-document-ai 1.61.3</title>
+            <link>https://pypi.org/project/data-science-document-ai/1.61.3/</link>
+            <description><![CDATA["Document AI repo for data science"]]></description>
+            <pubDate>Wed, 04 Feb 2026 14:57:50 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.61.3/</guid>
+            <source>Pypi.org</source>
         </item>
     </channel>
 </rss>
