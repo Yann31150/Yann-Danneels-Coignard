@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-02-06T06:05:52.083829",
+  "lastUpdate": "2026-02-06T08:52:02.778350",
   "articles": [
     {
-      "title": "Quand ChatGPT invente des URL : comment l’IA envoie nos lecteurs vers des pages 404",
-      "description": "Les IA génératives inventent (aussi) des URL crédibles mais fictives. Résultat : des pages 404 à répétition. Pourquoi ce phénomène ? Et si c'était un signal éditorial à exploiter ?",
-      "url": "https://www.blogdumoderateur.com/chatgpt-invente-url-ia-envoie-lecteurs-404/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-02-05T06:00:50Z",
+      "title": "« Nous resterons sans pub » : l’IA Claude fait le buzz et met une claque à ChatGPT",
+      "description": "Alors que ChatGPT teste la publicité sur la version gratuite sur l’abonnement ChatGPT Go, son concurrent Anthropic annonce que l’IA Claude n’affichera pas de pubs. En effet, pour cette startup, qui ci...",
+      "url": "https://www.presse-citron.net/nous-resterons-sans-pub-lia-claude-fait-le-buzz-et-met-une-claque-a-chatgpt/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-02-05T07:01:37Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -26,35 +26,11 @@
       "thumbnail": "https://i.ytimg.com/vi/DnyIUzoKGsQ/hqdefault.jpg"
     },
     {
-      "title": "J&#39;ai résilié tous mes outils IA (j&#39;ai fabriqué le mien)",
-      "description": "Plus de 15 outils IA, 15 abonnements, des onglets partout... ChatGPT, Gemini, Perplexity, Gamma... C'était le gros bordel alors ...",
-      "url": "https://www.youtube.com/watch?v=N0gTIxg9l2A",
-      "source": "Ludo Salenne",
-      "publishedAt": "2026-01-17T17:49:37Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "N0gTIxg9l2A",
-      "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
-    },
-    {
       "title": "[OCTO] Glossaire IA : Comprendre l’intelligence artificielle, un mot à la fois",
       "description": "Comprendre l’intelligence artificielle commence par maîtriser les mots que l’on utilise pour en parler. Ce glossaire IA a été conçu comme un outil de découverte et de clarification, destiné aux non sp...",
       "url": "https://blog.octo.com/octo-glossaire-ia--comprendre-l'intelligence-artificielle-un-mot-a-la-fois",
       "source": "Octo.com",
       "publishedAt": "2026-02-04T14:11:20Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tout l’Internet veut donner vie à cette Viper Shooting Brake réalisée par intelligence artificielle",
-      "description": "L’intelligence artificielle offre une créativité sans limite. La preuve avec cette Dodge Viper imaginée par l’artiste Sebastian Simonsson en version Shooting Brake. Un rendu si réussi pour les fans du...",
-      "url": "https://www.caradisiac.com/tout-l-internet-veut-donner-vie-a-cette-viper-shooting-brake-realisee-par-intelligence-artificielle-220236.htm",
-      "source": "Caradisiac.com",
-      "publishedAt": "2026-02-04T19:00:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -72,6 +48,30 @@
       "isYouTube": true,
       "videoId": "feDNuaLVDLk",
       "thumbnail": "https://i.ytimg.com/vi/feDNuaLVDLk/hqdefault.jpg"
+    },
+    {
+      "title": "Détection des anomalies – Isolation Forest et Local Outlier Factor",
+      "description": "Machine Learning. Data Science. La problématique de la détection des anomalies en machine learning, applicable par exemple ...",
+      "url": "https://www.youtube.com/watch?v=qCaA6vGDRUw",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-01-15T09:21:17Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "qCaA6vGDRUw",
+      "thumbnail": "https://i.ytimg.com/vi/qCaA6vGDRUw/hqdefault.jpg"
+    },
+    {
+      "title": "Règles d’association avec KNIME",
+      "description": "Machine learning. Data Mining. Data Science. Extraction des règles d'association à partir de données tabulaires avec le ...",
+      "url": "https://www.youtube.com/watch?v=I-L2k_lzopQ",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-01-21T10:01:16Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "I-L2k_lzopQ",
+      "thumbnail": "https://i.ytimg.com/vi/I-L2k_lzopQ/hqdefault.jpg"
     },
     {
       "title": "Power BI Desktop Installation TUTO GRATUIT 2025",
@@ -98,6 +98,18 @@
       "thumbnail": ""
     },
     {
+      "title": "Accès GRATUIT et ILLIMITÉ à GPT-5 , VEO3, Claude, Google Gemini dans un seul outil",
+      "description": "______   Dans Cette Video  ______   Et si tu pouvais utiliser GPT-5, Claude, VEO3, Gemini et Grok gratuitement ...",
+      "url": "https://www.youtube.com/watch?v=Y78os35EO_0",
+      "source": "Cœur Bestial",
+      "publishedAt": "2025-12-27T19:57:18Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Y78os35EO_0",
+      "thumbnail": "https://i.ytimg.com/vi/Y78os35EO_0/hqdefault.jpg"
+    },
+    {
       "title": "Qu&#39;est-ce que Power BI ? (Tuto Intro 2025)",
       "description": "Vous entendez parler de \"Data\" partout, mais c'est quoi concrètement Power BI ? En 2025, c'est l'outil indispensable pour booster ...",
       "url": "https://www.youtube.com/watch?v=wBsvjPNqUco",
@@ -110,18 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
     },
     {
-      "title": "L’intelligence artificielle au travail : « Des transformations hétérogènes, voire paradoxales »",
-      "description": "L’IA réduit la charge de travail et fiabilise le diagnostic de certains professionnels quand elle complexifie l’activité et diminue l’expertise d’autres travailleurs. Elle a des effets hétérogènes et ...",
-      "url": "https://www.lemonde.fr/emploi/article/2026/02/05/l-intelligence-artificielle-au-travail-des-transformations-heterogenes-voire-paradoxales_6665477_1698637.html",
-      "source": "Le Monde",
-      "publishedAt": "2026-02-05T06:00:15Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Grâce au programme de recherche BioLit, les promeneurs peuvent devenir des sentinelles de la biodiversité sur le littoral français",
       "description": "Observer des algues à marée basse pour aider la recherche scientifique : c’est le pari de BioLit, un programme de sciences participatives qui invite les citoyens à collecter des données sur la biodive...",
       "url": "https://www.franceinfo.fr/environnement/biodiversite/protection-des-oceans/grace-au-programme-de-recherche-biolit-les-promeneurs-peuvent-devenir-des-sentinelles-de-la-biodiversite-sur-le-littoral-francais_7784027.html",
@@ -132,6 +132,42 @@
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "Free Data Science &amp; Data Analyst Certifications &amp; Projects for Beginners",
+      "description": "In this video, I share the best free Data Science and Data Analyst courses that include real projects and certifications.",
+      "url": "https://www.youtube.com/watch?v=83vJcVT_Mtg",
+      "source": "PySolanki",
+      "publishedAt": "2025-12-18T03:53:53Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "83vJcVT_Mtg",
+      "thumbnail": "https://i.ytimg.com/vi/83vJcVT_Mtg/hqdefault.jpg"
+    },
+    {
+      "title": "Data Science Full Course 2026 [FREE] | Learn Data Science From Scratch in 24 Hours | Simplilearn",
+      "description": "This free Data Science Full Course 2026 is a complete learning path that takes you from basic concepts of Data Science to ...",
+      "url": "https://www.youtube.com/watch?v=QISvmiwOIYI",
+      "source": "Simplilearn",
+      "publishedAt": "2026-01-31T14:30:19Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "QISvmiwOIYI",
+      "thumbnail": "https://i.ytimg.com/vi/QISvmiwOIYI/hqdefault.jpg"
+    },
+    {
+      "title": "Data Science Course FREE | Intellipaat",
+      "description": "This Data Science Course FREE video is your complete learning companion. We begin with a clear Data Science Roadmap, ...",
+      "url": "https://www.youtube.com/watch?v=ZHGIOxGMD1w",
+      "source": "Intellipaat",
+      "publishedAt": "2025-12-10T11:46:11Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "ZHGIOxGMD1w",
+      "thumbnail": "https://i.ytimg.com/vi/ZHGIOxGMD1w/hqdefault.jpg"
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -158,6 +194,18 @@
       "thumbnail": "https://i.ytimg.com/vi/hGbgeWMD4Dc/hqdefault.jpg"
     },
     {
+      "title": "Data Science Course (FREE) | Intellipaat",
+      "description": "Step into the world of Data Science with this complete Data Science Full Course 2025, designed for beginners as well as ...",
+      "url": "https://www.youtube.com/watch?v=0z0DjJpo0Fs",
+      "source": "Intellipaat",
+      "publishedAt": "2025-12-31T18:19:08Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "0z0DjJpo0Fs",
+      "thumbnail": "https://i.ytimg.com/vi/0z0DjJpo0Fs/hqdefault.jpg"
+    },
+    {
       "title": "Excel pour l’Analyse des Données — Cours Complet (10h) | Gratuit + Certificat (2026)",
       "description": "Bienvenue dans ce cours complet et gratuit sur Microsoft Excel pour l'Analyse des Données (Version 2026) ! En 10 heures, vous ...",
       "url": "https://www.youtube.com/watch?v=saGefucxol4",
@@ -182,71 +230,23 @@
       "thumbnail": "https://i.ytimg.com/vi/_Fe5ju7H5LI/hqdefault.jpg"
     },
     {
-      "title": "Introduction à Positron: VSCode + RStudio pour la data science",
-      "description": "Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...",
-      "url": "https://www.youtube.com/watch?v=gcbiOQCR-O8",
-      "source": "WeData",
-      "publishedAt": "2026-01-09T17:01:15Z",
+      "title": "Formation SQL PARTIE 6 - HAVING",
+      "description": "Dans cette partie 5 de la formation SQL, nous expliquons la commande HAVING. Tu comprendras la différence entre WHERE et ...",
+      "url": "https://www.youtube.com/watch?v=bgN8YayL7vM",
+      "source": "MedData -Tech",
+      "publishedAt": "2025-12-24T22:32:26Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "gcbiOQCR-O8",
-      "thumbnail": "https://i.ytimg.com/vi/gcbiOQCR-O8/hqdefault.jpg"
+      "videoId": "bgN8YayL7vM",
+      "thumbnail": "https://i.ytimg.com/vi/bgN8YayL7vM/hqdefault.jpg"
     },
     {
-      "title": "De zéro à data analyste : la deuxième leçon avec Yao (2ème Session)",
-      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
-      "url": "https://www.youtube.com/watch?v=FJdYN6A9X78",
-      "source": "Enogne School",
-      "publishedAt": "2026-01-16T23:00:30Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "FJdYN6A9X78",
-      "thumbnail": "https://i.ytimg.com/vi/FJdYN6A9X78/hqdefault.jpg"
-    },
-    {
-      "title": "Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=wNyw2TN8mh0",
-      "source": "Le Decodeur",
-      "publishedAt": "2026-01-20T15:55:42Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "wNyw2TN8mh0",
-      "thumbnail": "https://i.ytimg.com/vi/wNyw2TN8mh0/hqdefault.jpg"
-    },
-    {
-      "title": "De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)",
-      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
-      "url": "https://www.youtube.com/watch?v=n5uJWNTs-dQ",
-      "source": "Enogne School",
-      "publishedAt": "2026-01-30T23:01:09Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "n5uJWNTs-dQ",
-      "thumbnail": "https://i.ytimg.com/vi/n5uJWNTs-dQ/hqdefault.jpg"
-    },
-    {
-      "title": "data-science-document-ai 1.61.3",
-      "description": "\"Document AI repo for data science\"",
-      "url": "https://pypi.org/project/data-science-document-ai/1.61.3/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-02-04T14:57:50Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chatbots, campagnes « augmentées »… l’IA s’immisce dans la politique française",
-      "description": "Au-delà de la production de visuels destinés aux réseaux sociaux, les partis intègrent de plus en plus les outils d’intelligence artificielle dans leur stratégie électorale. D’après une enquête, 27 % ...",
-      "url": "https://www.lemonde.fr/politique/article/2026/02/05/chatbots-campagnes-augmentees-l-ia-s-immisce-dans-la-politique-francaise_6665450_823448.html",
+      "title": "Les craintes sur l’IA font plonger la tech à Wall Street",
+      "description": "Malgré des résultats supérieurs aux attentes, Alphabet, maison mère de Google, a été puni en Bourse, mercredi, pour avoir annoncé des investissements massifs dans l’IA. Les marchés semblent avoir pris...",
+      "url": "https://www.lemonde.fr/economie/article/2026/02/05/les-craintes-sur-l-ia-font-plonger-la-tech-a-wall-street_6665487_3234.html",
       "source": "Le Monde",
-      "publishedAt": "2026-02-05T04:30:08Z",
+      "publishedAt": "2026-02-05T08:08:35Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Project Genie : Google ouvre au public son générateur IA de mondes 3D à explorer",
-      "description": "Google DeepMind rend accessible Project Genie, une application web expérimentale qui permet de créer et d’explorer des mondes virtuels interactifs générés par intelligence artificielle. Basé sur le mo...",
-      "url": "https://www.aruco.com/intelligence-artificielle/project-genie-google-mondes-3d/",
-      "source": "Aruco.com",
-      "publishedAt": "2026-02-04T18:02:46Z",
+      "title": "Aux côtés de Mistral AI, Nscale ou Lovable, ELEVEN LABS incarne la nouvelle génération de startups AI-native européennes",
+      "description": "Aux côtés de Mistral AI, Nscale, Lovable, n8n ou encore Legora, ElevenLabs illustre l’émergence d’une nouvelle génération de startups dites AI-native. Des entreprises qui ne se contentent pas d’intégr...",
+      "url": "https://www.frenchweb.fr/aux-cotes-de-mistral-ai-nscale-ou-lovable-eleven-labs-incarne-la-nouvelle-generation-de-startups-ai-native-europeennes/460140",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-02-05T08:23:10Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,35 +266,35 @@
       "thumbnail": ""
     },
     {
-      "title": "Infrastructure IA : Alphabet annonce un doublement du CAPEX pour saturer le marché du Cloud",
-      "description": "Face à une demande sans précédent pour l'intelligence artificielle générative, Alphabet engage une accélération massive de ses investissements. Avec un budget d'infrastructure pouvant atteindre 185 mi...",
-      "url": "https://www.zdnet.fr/actualites/infrastructure-ia-alphabet-annonce-un-doublement-du-capex-pour-saturer-le-marche-du-cloud-489586.htm",
+      "title": "Climat : 665 fausses informations \"propagées\" dans les médias audiovisuels en 2025, d'après l'Observatoire des médias sur l'écologie",
+      "description": "L'IA a passé au peigne fin des centaine d'heures d'antenne, avant une seconde relecture humaine. Le résultat révèle que la désinformation climatique infuse dans les médias traditionnels. L'Observatoir...",
+      "url": "https://www.franceinfo.fr/environnement/crise-climatique/climat-665-fausses-informations-propagees-dans-les-medias-audiovisuels-en-2025-d-apres-l-observatoire-des-medias-sur-l-ecologie_7785503.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-02-05T06:38:48Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dassault Systèmes lance une plateforme agentique avec Nvidia pour multiplier par dix la productivité des ingénieurs",
+      "description": "L’inventeur du jumeau numérique se met aux “world models”, et il le fait avec panache. En intégrant des compagnons IA en profondeur dans sa plateforme 3DExperience, Dassault Systèmes veut permettre au...",
+      "url": "https://www.usine-digitale.fr/intelligence-artificielle/dassault-systemes-lance-une-plateforme-agentique-avec-nvidia-pour-multiplier-par-dix-la-productivite-des-ingenieurs.DO3XUCIYQZH5FA2G6AG6UIQRP4.html",
+      "source": "Usine-digitale.fr",
+      "publishedAt": "2026-02-05T08:07:33Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "ZDNET Morning 05/02/2026 : L'AirTag 2 déjà vulnérable, Google officialise le Pixel 10a, Productivité et IA : le fossé se creuse entre développeurs juniors et seniors...",
+      "description": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
+      "url": "https://www.zdnet.fr/actualites/zdnet-morning-05-02-2026-lairtag-2-deja-vulnerable-google-officialise-le-pixel-10a-productivite-et-ia-le-fosse-se-creuse-entre-developpeurs-juniors-et-seniors-489564.htm",
       "source": "ZDNet France",
-      "publishedAt": "2026-02-05T01:02:08Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Lolita Cercel, la chanteuse créée par IA en Roumanie, fascine et inquiète",
-      "description": "L’artiste virtuelle créée par l’intelligence artificielle cumule des milliers de vues et d’écoutes sur les plateformes en Roumanie, bousculant les milieux artistiques.",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/02/04/lolita-cercel-la-chanteuse-creee-par-ia-en-roumanie-fascine-et-inquiete_6665414_4500055.html",
-      "source": "Le Monde",
-      "publishedAt": "2026-02-04T17:30:02Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Moltbook, le réseau social des IA : coup marketing ou début d’une dystopie technologique ? - RTBF Actus",
-      "description": "Moltbook, le réseau social des IA : coup marketing ou début d’une dystopie technologique ? - RTBF Actusrtbf.be",
-      "url": "https://www.rtbf.be/article/moltbook-le-reseau-social-des-ia-coup-marketing-ou-debut-d-une-dystopie-technologique-11673420",
-      "source": "RTBF",
-      "publishedAt": "2026-02-04T17:57:07Z",
+      "publishedAt": "2026-02-05T08:50:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
