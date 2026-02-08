@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 07 Feb 2026 08:38:13 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 08 Feb 2026 08:39:09 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Google menace ChatGPT avec Gemini, voici combien d’utilisateurs l’IA a conquis</title>
-            <link>https://www.phonandroid.com/google-menace-chatgpt-avec-gemini-voici-combien-dutilisateurs-lia-a-conquis.html</link>
-            <description><![CDATA[L’intelligence artificielle devient un terrain de rivalité intense entre les géantes entreprises du numérique. Google mise gros sur Gemini pour rattraper son principal concurrent, ChatGPT. Cette strat...]]></description>
-            <pubDate>Fri, 06 Feb 2026 07:56:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.phonandroid.com/google-menace-chatgpt-avec-gemini-voici-combien-dutilisateurs-lia-a-conquis.html</guid>
-            <source>Phonandroid</source>
-        </item>
         <item>
             <title>FUNDAMENTAL lève 216 millions d’euros et dévoile NEXUS, un “Large Tabular Model”</title>
             <link>https://www.frenchweb.fr/fundamental-leve-216-millions-deuros-et-devoile-nexus-un-large-tabular-model/460153</link>
@@ -45,12 +37,20 @@
             <source>Ludo Salenne</source>
         </item>
         <item>
-            <title>L’Intelligence artificielle est un allié puissant pour l’humain</title>
-            <link>https://www.lejournaldesentreprises.com/article/lintelligence-artificielle-est-un-allie-puissant-pour-lhumain-2136357</link>
-            <description><![CDATA[L’intelligence artificielle s’impose progressivement dans les cabinets d’expertise-comptable. Elle bouleverse les usages et ouvre un champ inédit de possibilités, notamment dans les métiers du marketi...]]></description>
-            <pubDate>Fri, 06 Feb 2026 07:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/article/lintelligence-artificielle-est-un-allie-puissant-pour-lhumain-2136357</guid>
-            <source>Le Journal des Entreprises</source>
+            <title>Power BI Complete Course 2026 🚀 | Zero to Hero Tutorial | FREE Certificate 🎉</title>
+            <link>https://www.youtube.com/watch?v=dPrY-Hybxqo</link>
+            <description><![CDATA[Zero to Hero: Power BI Complete Tutorial 2026 | Full Guide + Jobs + Certificate This Zero to Hero Power BI Complete Guide is ...]]></description>
+            <pubDate>Thu, 08 Jan 2026 12:40:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=dPrY-Hybxqo</guid>
+            <source>Accounts Expert</source>
+        </item>
+        <item>
+            <title>Python Machine Learning sous Excel avec « xlwings lite »</title>
+            <link>https://www.youtube.com/watch?v=feDNuaLVDLk</link>
+            <description><![CDATA[Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...]]></description>
+            <pubDate>Mon, 22 Dec 2025 15:26:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=feDNuaLVDLk</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
             <title>Power BI Desktop Installation TUTO GRATUIT 2025</title>
@@ -61,14 +61,6 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>Apple revoit ses ambitions à la baisse pour son coach santé avec IA</title>
-            <link>https://iphoneaddict.fr/post/news-423190-apple-revoit-ambitions-baisse-coach-sante-ia</link>
-            <description><![CDATA[Apple a décidé de réduire ses ambitions concernant son projet de coach santé s’appuyant sur l’intelligence artificielle. Connue en interne sous le nom de code Mulberry et pressentie pour avoir le nom ...]]></description>
-            <pubDate>Fri, 06 Feb 2026 06:00:14 -0000</pubDate>
-            <guid isPermaLink="true">https://iphoneaddict.fr/post/news-423190-apple-revoit-ambitions-baisse-coach-sante-ia</guid>
-            <source>Iphoneaddict.fr</source>
-        </item>
-        <item>
             <title>Qu&amp;#39;est-ce que Power BI ? (Tuto Intro 2025)</title>
             <link>https://www.youtube.com/watch?v=wBsvjPNqUco</link>
             <description><![CDATA[Vous entendez parler de "Data" partout, mais c'est quoi concrètement Power BI ? En 2025, c'est l'outil indispensable pour booster ...]]></description>
@@ -77,20 +69,44 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>Une alliance historique : Dassault et Nvidia lancent la nouvelle ère de l'IA physique</title>
-            <link>https://www.generation-nt.com/actualites/dassault-systemes-nvidia-ia-industrielle-jumeau-numerique-partenariat-2070301</link>
-            <description><![CDATA[Dassault Systèmes et Nvidia ont annoncé un partenariat majeur visant à créer une plateforme d'IA industrielle commune. Cette alliance combine les technologies de jumeaux virtuels du leader français av...]]></description>
-            <pubDate>Thu, 05 Feb 2026 16:30:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/dassault-systemes-nvidia-ia-industrielle-jumeau-numerique-partenariat-2070301</guid>
-            <source>Génération NT</source>
-        </item>
-        <item>
             <title>Connexion entre Python (notebook) et Excel via « xlwings »</title>
             <link>https://www.youtube.com/watch?v=-ONGM2pg3tc</link>
             <description><![CDATA[Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...]]></description>
             <pubDate>Sun, 21 Dec 2025 10:20:45 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=-ONGM2pg3tc</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Souveraineté numérique : 8 alternatives européennes aux services que vous utilisez tous les jours</title>
+            <link>https://www.presse-citron.net/souverainete-numerique-8-alternatives-europeennes-services-vous-utilisez-tous-jours/</link>
+            <description><![CDATA[Face à l'instabilité géopolitique croissante, la souveraineté numérique n'est plus un luxe, mais une nécessité. Du moteur de recherche à l'intelligence artificielle, découvrez les pépites européennes ...]]></description>
+            <pubDate>Sat, 07 Feb 2026 07:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/souverainete-numerique-8-alternatives-europeennes-services-vous-utilisez-tous-jours/</guid>
+            <source>Presse-citron</source>
+        </item>
+        <item>
+            <title>Comment les Machines Comprennent le Langage Humain en 10 Secondes #aiart</title>
+            <link>https://www.youtube.com/watch?v=KT6DIPrVoYg</link>
+            <description><![CDATA[NLP : Comment les Machines Comprennent le Langage Humain en 10 Secondes Bienvenue dans cette nouvelle vidéo sur ...]]></description>
+            <pubDate>Wed, 10 Dec 2025 18:11:22 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=KT6DIPrVoYg</guid>
+            <source>INFOTIQUE</source>
+        </item>
+        <item>
+            <title>Maîtriser Power Query : Automatisez votre nettoyage de données sur Excel et Power BI</title>
+            <link>https://www.youtube.com/watch?v=Q-mQB9OAp50</link>
+            <description><![CDATA[Cette formation complète vous présente Power Query, l'outil incontournable d'Excel et Power BI pour automatiser la préparation ...]]></description>
+            <pubDate>Fri, 16 Jan 2026 11:01:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Q-mQB9OAp50</guid>
+            <source>Cabinet Smart Otobos Consulting</source>
+        </item>
+        <item>
+            <title>La Chine veut installer des centres de données en orbite : le nouveau front de la course à l’espace</title>
+            <link>https://www.journaldugeek.com/2026/02/06/chine-installer-centres-donnees-orbite-nouveau-front-course-lespace/</link>
+            <description><![CDATA[Pourquoi brûler du charbon ou du pétrole pour refroidir des serveurs quand on peut se servir à bon escient du vide thermique de l'espace ? Un gaspillage d'énergie et d'argent dont Pékin souhaite se dé...]]></description>
+            <pubDate>Fri, 06 Feb 2026 16:02:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/02/06/chine-installer-centres-donnees-orbite-nouveau-front-course-lespace/</guid>
+            <source>Journal du geek</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -117,12 +133,20 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>L’industrie française s’est enfoncée un peu plus dans la crise en 2025</title>
-            <link>https://www.lemonde.fr/economie/article/2026/02/05/l-industrie-francaise-s-est-enfoncee-un-peu-plus-dans-la-crise-en-2025_6665583_3234.html</link>
-            <description><![CDATA[Malgré des investissements record, les fermetures d’usines dépassent les ouvertures de sites. Dans de nombreux secteurs industriels comme l’automobile, les suppressions d’emploi se multiplient, selon ...]]></description>
-            <pubDate>Thu, 05 Feb 2026 21:00:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lemonde.fr/economie/article/2026/02/05/l-industrie-francaise-s-est-enfoncee-un-peu-plus-dans-la-crise-en-2025_6665583_3234.html</guid>
-            <source>Le Monde</source>
+            <title>DAX (Power BI) – Module 1 : Les Fondamentaux de DAX | Vidéo 7 : IF, SWITCH &amp;amp; BLANK</title>
+            <link>https://www.youtube.com/watch?v=kcSObmOJaFE</link>
+            <description><![CDATA[Bienvenue dans cette 7ème étape de notre formation complète : Maîtriser DAX ! Dans l'épisode précédent, nous avons appris ...]]></description>
+            <pubDate>Fri, 06 Feb 2026 08:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=kcSObmOJaFE</guid>
+            <source>Learn with Jino</source>
+        </item>
+        <item>
+            <title>Actualité : iPad règne sur les tablettes : ce chiffre montre à quel point Apple distance encore Samsung</title>
+            <link>https://www.lesnumeriques.com/tablette-tactile/ipad-regne-sur-les-tablettes-ce-chiffre-montre-a-quel-point-apple-distance-encore-samsung-n251135.html</link>
+            <description><![CDATA[Après plusieurs années de repli, le marché mondial des tablettes poursuit son redressement en 2025, porté par un dernier trimestre dynamique. Selon les récentes données du cabinet Omdia, Apple consoli...]]></description>
+            <pubDate>Sat, 07 Feb 2026 08:19:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/tablette-tactile/ipad-regne-sur-les-tablettes-ce-chiffre-montre-a-quel-point-apple-distance-encore-samsung-n251135.html</guid>
+            <source>Les Numériques</source>
         </item>
         <item>
             <title>2-Data Mining :Arbres de Décision#notebooklm</title>
@@ -133,44 +157,22 @@
             <source>AllAboutData</source>
         </item>
         <item>
-            <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
-            <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
-            <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
-            <pubDate>Fri, 09 Jan 2026 17:01:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=gcbiOQCR-O8</guid>
-            <source>WeData</source>
+            <title>Power Query - Automatiser le rajout d&amp;#39;une nouvelle colonne d&amp;#39;une source de données</title>
+            <link>https://www.youtube.com/watch?v=vh8ktYfArUY</link>
+            <description><![CDATA[Bonjour, Dans cette vidéo vous allez apprendre comment automatiser l'ajout d'une nouvelle colonne d'une source de données ...]]></description>
+            <pubDate>Sat, 03 Jan 2026 11:01:44 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=vh8ktYfArUY</guid>
+            <source>Learnaccess</source>
         </item>
         <item>
-            <title>De zéro à data analyste : la deuxième leçon avec Yao (2ème Session)</title>
-            <link>https://www.youtube.com/watch?v=FJdYN6A9X78</link>
-            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
-            <pubDate>Fri, 16 Jan 2026 23:00:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=FJdYN6A9X78</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
-            <link>https://www.youtube.com/watch?v=wNyw2TN8mh0</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Tue, 20 Jan 2026 15:55:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=wNyw2TN8mh0</guid>
-            <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)</title>
-            <link>https://www.youtube.com/watch?v=n5uJWNTs-dQ</link>
-            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
-            <pubDate>Fri, 30 Jan 2026 23:01:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=n5uJWNTs-dQ</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>data-science-document-ai 1.61.4</title>
-            <link>https://pypi.org/project/data-science-document-ai/1.61.4/</link>
-            <description><![CDATA["Document AI repo for data science"]]></description>
-            <pubDate>Thu, 05 Feb 2026 12:45:13 -0000</pubDate>
-            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.61.4/</guid>
-            <source>Pypi.org</source>
+            <title>Comment récupérer des données à partir d'un tableau ou d'une plage dans Excel pour le Web ?</title>
+            <link>https://www.youtube.com/watch?v=w0_st7-Fw0I</link>
+            <description><![CDATA[🫶🏻 Rejoignez la chaîne pour accéder à des avantages exclusifs :
+
+https://www.youtube.com/channel/UCvD2rJJrp0aS48-KCk0eMHQ/join ...]]></description>
+            <pubDate>Thu, 08 Jan 2026 07:35:12 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=w0_st7-Fw0I</guid>
+            <source>Access Analytic</source>
         </item>
     </channel>
 </rss>

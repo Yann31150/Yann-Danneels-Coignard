@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-02-07T08:38:13.270192",
+  "lastUpdate": "2026-02-08T08:39:09.277585",
   "articles": [
-    {
-      "title": "Google menace ChatGPT avec Gemini, voici combien d’utilisateurs l’IA a conquis",
-      "description": "L’intelligence artificielle devient un terrain de rivalité intense entre les géantes entreprises du numérique. Google mise gros sur Gemini pour rattraper son principal concurrent, ChatGPT. Cette strat...",
-      "url": "https://www.phonandroid.com/google-menace-chatgpt-avec-gemini-voici-combien-dutilisateurs-lia-a-conquis.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-02-06T07:56:42Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "FUNDAMENTAL lève 216 millions d’euros et dévoile NEXUS, un “Large Tabular Model”",
       "description": "Depuis l’irruption de ChatGPT, l’intelligence artificielle occupe l’espace médiatique et organisationnel comme rarement auparavant. Mais si ses performances impressionnent, son mode opératoire reste l...",
@@ -50,16 +38,28 @@
       "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
     },
     {
-      "title": "L’Intelligence artificielle est un allié puissant pour l’humain",
-      "description": "L’intelligence artificielle s’impose progressivement dans les cabinets d’expertise-comptable. Elle bouleverse les usages et ouvre un champ inédit de possibilités, notamment dans les métiers du marketi...",
-      "url": "https://www.lejournaldesentreprises.com/article/lintelligence-artificielle-est-un-allie-puissant-pour-lhumain-2136357",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-02-06T07:00:00Z",
+      "title": "Power BI Complete Course 2026 🚀 | Zero to Hero Tutorial | FREE Certificate 🎉",
+      "description": "Zero to Hero: Power BI Complete Tutorial 2026 | Full Guide + Jobs + Certificate This Zero to Hero Power BI Complete Guide is ...",
+      "url": "https://www.youtube.com/watch?v=dPrY-Hybxqo",
+      "source": "Accounts Expert",
+      "publishedAt": "2026-01-08T12:40:49Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "dPrY-Hybxqo",
+      "thumbnail": "https://i.ytimg.com/vi/dPrY-Hybxqo/hqdefault.jpg"
+    },
+    {
+      "title": "Python Machine Learning sous Excel avec « xlwings lite »",
+      "description": "Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...",
+      "url": "https://www.youtube.com/watch?v=feDNuaLVDLk",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2025-12-22T15:26:03Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "feDNuaLVDLk",
+      "thumbnail": "https://i.ytimg.com/vi/feDNuaLVDLk/hqdefault.jpg"
     },
     {
       "title": "Power BI Desktop Installation TUTO GRATUIT 2025",
@@ -74,18 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/FOj5HTd4EAs/hqdefault.jpg"
     },
     {
-      "title": "Apple revoit ses ambitions à la baisse pour son coach santé avec IA",
-      "description": "Apple a décidé de réduire ses ambitions concernant son projet de coach santé s’appuyant sur l’intelligence artificielle. Connue en interne sous le nom de code Mulberry et pressentie pour avoir le nom ...",
-      "url": "https://iphoneaddict.fr/post/news-423190-apple-revoit-ambitions-baisse-coach-sante-ia",
-      "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-02-06T06:00:14Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Qu&#39;est-ce que Power BI ? (Tuto Intro 2025)",
       "description": "Vous entendez parler de \"Data\" partout, mais c'est quoi concrètement Power BI ? En 2025, c'est l'outil indispensable pour booster ...",
       "url": "https://www.youtube.com/watch?v=wBsvjPNqUco",
@@ -98,18 +86,6 @@
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
     },
     {
-      "title": "Une alliance historique : Dassault et Nvidia lancent la nouvelle ère de l'IA physique",
-      "description": "Dassault Systèmes et Nvidia ont annoncé un partenariat majeur visant à créer une plateforme d'IA industrielle commune. Cette alliance combine les technologies de jumeaux virtuels du leader français av...",
-      "url": "https://www.generation-nt.com/actualites/dassault-systemes-nvidia-ia-industrielle-jumeau-numerique-partenariat-2070301",
-      "source": "Génération NT",
-      "publishedAt": "2026-02-05T16:30:01Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Connexion entre Python (notebook) et Excel via « xlwings »",
       "description": "Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...",
       "url": "https://www.youtube.com/watch?v=-ONGM2pg3tc",
@@ -120,6 +96,54 @@
       "isYouTube": true,
       "videoId": "-ONGM2pg3tc",
       "thumbnail": "https://i.ytimg.com/vi/-ONGM2pg3tc/hqdefault.jpg"
+    },
+    {
+      "title": "Souveraineté numérique : 8 alternatives européennes aux services que vous utilisez tous les jours",
+      "description": "Face à l'instabilité géopolitique croissante, la souveraineté numérique n'est plus un luxe, mais une nécessité. Du moteur de recherche à l'intelligence artificielle, découvrez les pépites européennes ...",
+      "url": "https://www.presse-citron.net/souverainete-numerique-8-alternatives-europeennes-services-vous-utilisez-tous-jours/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-02-07T07:00:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comment les Machines Comprennent le Langage Humain en 10 Secondes #aiart",
+      "description": "NLP : Comment les Machines Comprennent le Langage Humain en 10 Secondes Bienvenue dans cette nouvelle vidéo sur ...",
+      "url": "https://www.youtube.com/watch?v=KT6DIPrVoYg",
+      "source": "INFOTIQUE",
+      "publishedAt": "2025-12-10T18:11:22Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "KT6DIPrVoYg",
+      "thumbnail": "https://i.ytimg.com/vi/KT6DIPrVoYg/hqdefault.jpg"
+    },
+    {
+      "title": "Maîtriser Power Query : Automatisez votre nettoyage de données sur Excel et Power BI",
+      "description": "Cette formation complète vous présente Power Query, l'outil incontournable d'Excel et Power BI pour automatiser la préparation ...",
+      "url": "https://www.youtube.com/watch?v=Q-mQB9OAp50",
+      "source": "Cabinet Smart Otobos Consulting",
+      "publishedAt": "2026-01-16T11:01:06Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Q-mQB9OAp50",
+      "thumbnail": "https://i.ytimg.com/vi/Q-mQB9OAp50/hqdefault.jpg"
+    },
+    {
+      "title": "La Chine veut installer des centres de données en orbite : le nouveau front de la course à l’espace",
+      "description": "Pourquoi brûler du charbon ou du pétrole pour refroidir des serveurs quand on peut se servir à bon escient du vide thermique de l'espace ? Un gaspillage d'énergie et d'argent dont Pékin souhaite se dé...",
+      "url": "https://www.journaldugeek.com/2026/02/06/chine-installer-centres-donnees-orbite-nouveau-front-course-lespace/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-02-06T16:02:03Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -158,11 +182,23 @@
       "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
     },
     {
-      "title": "L’industrie française s’est enfoncée un peu plus dans la crise en 2025",
-      "description": "Malgré des investissements record, les fermetures d’usines dépassent les ouvertures de sites. Dans de nombreux secteurs industriels comme l’automobile, les suppressions d’emploi se multiplient, selon ...",
-      "url": "https://www.lemonde.fr/economie/article/2026/02/05/l-industrie-francaise-s-est-enfoncee-un-peu-plus-dans-la-crise-en-2025_6665583_3234.html",
-      "source": "Le Monde",
-      "publishedAt": "2026-02-05T21:00:03Z",
+      "title": "DAX (Power BI) – Module 1 : Les Fondamentaux de DAX | Vidéo 7 : IF, SWITCH &amp; BLANK",
+      "description": "Bienvenue dans cette 7ème étape de notre formation complète : Maîtriser DAX ! Dans l'épisode précédent, nous avons appris ...",
+      "url": "https://www.youtube.com/watch?v=kcSObmOJaFE",
+      "source": "Learn with Jino",
+      "publishedAt": "2026-02-06T08:00:06Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "kcSObmOJaFE",
+      "thumbnail": "https://i.ytimg.com/vi/kcSObmOJaFE/hqdefault.jpg"
+    },
+    {
+      "title": "Actualité : iPad règne sur les tablettes : ce chiffre montre à quel point Apple distance encore Samsung",
+      "description": "Après plusieurs années de repli, le marché mondial des tablettes poursuit son redressement en 2025, porté par un dernier trimestre dynamique. Selon les récentes données du cabinet Omdia, Apple consoli...",
+      "url": "https://www.lesnumeriques.com/tablette-tactile/ipad-regne-sur-les-tablettes-ce-chiffre-montre-a-quel-point-apple-distance-encore-samsung-n251135.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-02-07T08:19:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -182,124 +218,88 @@
       "thumbnail": "https://i.ytimg.com/vi/_Fe5ju7H5LI/hqdefault.jpg"
     },
     {
-      "title": "Introduction à Positron: VSCode + RStudio pour la data science",
-      "description": "Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...",
-      "url": "https://www.youtube.com/watch?v=gcbiOQCR-O8",
-      "source": "WeData",
-      "publishedAt": "2026-01-09T17:01:15Z",
+      "title": "Power Query - Automatiser le rajout d&#39;une nouvelle colonne d&#39;une source de données",
+      "description": "Bonjour, Dans cette vidéo vous allez apprendre comment automatiser l'ajout d'une nouvelle colonne d'une source de données ...",
+      "url": "https://www.youtube.com/watch?v=vh8ktYfArUY",
+      "source": "Learnaccess",
+      "publishedAt": "2026-01-03T11:01:44Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "gcbiOQCR-O8",
-      "thumbnail": "https://i.ytimg.com/vi/gcbiOQCR-O8/hqdefault.jpg"
+      "videoId": "vh8ktYfArUY",
+      "thumbnail": "https://i.ytimg.com/vi/vh8ktYfArUY/hqdefault.jpg"
     },
     {
-      "title": "De zéro à data analyste : la deuxième leçon avec Yao (2ème Session)",
-      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
-      "url": "https://www.youtube.com/watch?v=FJdYN6A9X78",
-      "source": "Enogne School",
-      "publishedAt": "2026-01-16T23:00:30Z",
+      "title": "Comment récupérer des données à partir d'un tableau ou d'une plage dans Excel pour le Web ?",
+      "description": "🫶🏻 Rejoignez la chaîne pour accéder à des avantages exclusifs :\n\nhttps://www.youtube.com/channel/UCvD2rJJrp0aS48-KCk0eMHQ/join ...",
+      "url": "https://www.youtube.com/watch?v=w0_st7-Fw0I",
+      "source": "Access Analytic",
+      "publishedAt": "2026-01-08T07:35:12Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "FJdYN6A9X78",
-      "thumbnail": "https://i.ytimg.com/vi/FJdYN6A9X78/hqdefault.jpg"
+      "videoId": "w0_st7-Fw0I",
+      "thumbnail": "https://i.ytimg.com/vi/w0_st7-Fw0I/hqdefault.jpg"
     },
     {
-      "title": "Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=wNyw2TN8mh0",
-      "source": "Le Decodeur",
-      "publishedAt": "2026-01-20T15:55:42Z",
-      "category": "data",
+      "title": "Qu’est ce qu’un Large Tabular Model : la prochaine frontière de l’IA orientée entreprise",
+      "description": "L’enthousiasme suscité par les grands modèles de langage a profondément redessiné le paysage de l’intelligence artificielle en entreprise. Interfaces conversationnelles, assistants de productivité, gé...",
+      "url": "https://www.frenchweb.fr/quest-ce-quun-large-tabular-model-la-prochaine-frontiere-de-lia-orientee-entreprise/460163",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-02-06T09:55:27Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Intelligence artificielle : la folle course des géants de la tech",
+      "description": "Les Amazon, Alphabet, Meta et Microsoft prévoient d’investir plus de 650 milliards de dollars en 2026 dans l’IA. Les firmes avancent à n’importe quel prix, ne voulant pas prendre le risque d’être dist...",
+      "url": "https://www.lemonde.fr/economie/article/2026/02/07/intelligence-artificielle-la-folle-course-des-geants-de-la-tech_6665758_3234.html",
+      "source": "Le Monde",
+      "publishedAt": "2026-02-07T05:00:33Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Adèle, une IA vocale qui présélectionne les candidats avant un entretien d'embauche",
+      "description": "Les entreprises recourent de plus en plus à l'intelligence artificielle pour recruter. En plus des logiciels qui trient les CV, des IA vocales peuvent désormais faire passer des mini-entretiens par té...",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/adele-une-ia-vocale-qui-preselectionne-les-candidats-avant-un-entretien-d-embauche_7762040.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-02-07T08:12:01Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Reddit mise sur la recherche intelligente pour stimuler sa croissance",
+      "description": "Le réseau social Reddit envisage d’exploiter pleinement le potentiel de son moteur de recherche dopé à l’intelligence artificielle. L’entreprise y voit une opportunité stratégique majeure, tant sur le...",
+      "url": "https://www.fredzone.org/reddit-mise-sur-la-recherche-intelligente-pour-stimuler-sa-croissance/",
+      "source": "FREDZONE",
+      "publishedAt": "2026-02-06T11:45:25Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Nouvelle fomation Architecte Power Platform !",
+      "description": "Microsoft Power Platform Solution Architect ✔️ Comprendre le rôle et les responsabilités d'un Solution Architect Power Platform ...",
+      "url": "https://www.youtube.com/watch?v=09S53i-ntOE",
+      "source": "Fabrice Chrzanowski – Passionate IT Training",
+      "publishedAt": "2026-02-06T14:35:03Z",
+      "category": "tech",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "wNyw2TN8mh0",
-      "thumbnail": "https://i.ytimg.com/vi/wNyw2TN8mh0/hqdefault.jpg"
-    },
-    {
-      "title": "De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)",
-      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
-      "url": "https://www.youtube.com/watch?v=n5uJWNTs-dQ",
-      "source": "Enogne School",
-      "publishedAt": "2026-01-30T23:01:09Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "n5uJWNTs-dQ",
-      "thumbnail": "https://i.ytimg.com/vi/n5uJWNTs-dQ/hqdefault.jpg"
-    },
-    {
-      "title": "data-science-document-ai 1.61.4",
-      "description": "\"Document AI repo for data science\"",
-      "url": "https://pypi.org/project/data-science-document-ai/1.61.4/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-02-05T12:45:13Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "La prix Nobel Maria Ressa, Yoshua Bengio et 38 autres experts pour guider l’ONU sur l’IA",
-      "description": "L’ONU a présenté 40 experts, dont Maria Ressa et Yoshua Bengio, pour créer un organisme indépendant dédié à l’évaluation et à la gouvernance de l’intelligence artificielle. ...",
-      "url": "https://www.lalibre.be/economie/digital/2026/02/05/la-prix-nobel-maria-ressa-yoshua-bengio-et-38-autres-experts-pour-guider-lonu-sur-lia-QDICCZBPKNBGZPPBLUO66ZKGFM/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-02-05T15:54:17Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Royaume-Uni : Amelia, une collégienne virtuelle devenue icône de la haine",
-      "description": "Depuis plusieurs semaines, un avatar généré par intelligence artificielle délivre ses obsessions racistes et identitaires sur les réseaux sociaux. Un coup de com' organisé par l’extrême droite anglais...",
-      "url": "https://www.lexpress.fr/economie/high-tech/royaume-uni-amelia-une-collegienne-virtuelle-devenue-icone-de-la-haine-UIHSBH3J3NAXDDK77VXI3NPTZU/",
-      "source": "L'Express",
-      "publishedAt": "2026-02-05T17:08:54Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comment automatiser le traitement des documents grâce à l’IA : les conseils de DocuWare",
-      "description": "L'intelligence artificielle automatise la gestion documentaire. DocuWare propose un e-book pour optimiser ses processus et gagner en productivité.",
-      "url": "https://www.blogdumoderateur.com/comment-automatiser-traitement-document-ia-conseils-docuware/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-02-05T08:54:44Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L'IA va révolutionner la trésorerie, mais pas comme vous le pensez !",
-      "description": "L'IA en trésorerie promet beaucoup. Mais 65% des trésoriers n'ont pas de prévisions fiables (EY 2025). La révolution sera méthodologique, pas technologique : la donnée avant l'algorithme.",
-      "url": "https://www.journaldunet.com/fintech/1547735-l-ia-va-revolutionner-la-tresorerie-mais-pas-comme-vous-le-pensez/",
-      "source": "JDN",
-      "publishedAt": "2026-02-05T15:17:51Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Hypernetworks: Neural Networks for Hierarchical Data",
-      "description": "Comments",
-      "url": "https://blog.sturdystatistics.com/posts/hnet_part_I/",
-      "source": "Sturdystatistics.com",
-      "publishedAt": "2026-02-05T16:55:38Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "videoId": "09S53i-ntOE",
+      "thumbnail": "https://i.ytimg.com/vi/09S53i-ntOE/hqdefault.jpg"
     }
   ]
 }
