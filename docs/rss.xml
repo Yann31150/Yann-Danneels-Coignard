@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 08 Feb 2026 08:39:09 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 09 Feb 2026 08:02:17 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,20 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>FUNDAMENTAL lève 216 millions d’euros et dévoile NEXUS, un “Large Tabular Model”</title>
-            <link>https://www.frenchweb.fr/fundamental-leve-216-millions-deuros-et-devoile-nexus-un-large-tabular-model/460153</link>
-            <description><![CDATA[Depuis l’irruption de ChatGPT, l’intelligence artificielle occupe l’espace médiatique et organisationnel comme rarement auparavant. Mais si ses performances impressionnent, son mode opératoire reste l...]]></description>
-            <pubDate>Fri, 06 Feb 2026 07:03:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frenchweb.fr/fundamental-leve-216-millions-deuros-et-devoile-nexus-un-large-tabular-model/460153</guid>
-            <source>Frenchweb.fr</source>
-        </item>
-        <item>
             <title>[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning</title>
             <link>https://www.youtube.com/watch?v=DnyIUzoKGsQ</link>
             <description><![CDATA[Paradoxe du deep learning : plus on ajoute de couches, plus le réseau devient... stupide. Jusqu'à ce qu'une idée géniale change ...]]></description>
             <pubDate>Sat, 13 Dec 2025 15:00:30 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=DnyIUzoKGsQ</guid>
             <source>Deep Learner, One Step at a Time</source>
+        </item>
+        <item>
+            <title>Créer un Agent IA puissant (RAG) : Tutoriel Complet (no code)</title>
+            <link>https://www.youtube.com/watch?v=_ldYxumnGIo</link>
+            <description><![CDATA[Pour récupérer les workflows sur n8n : https://tally.so/r/pbyR9y Si tu utilises déjà ChatGPT ou Claude en entreprise, tu l'as ...]]></description>
+            <pubDate>Wed, 07 Jan 2026 07:49:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=_ldYxumnGIo</guid>
+            <source>Louis Graffeuil</source>
         </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
@@ -37,12 +37,14 @@
             <source>Ludo Salenne</source>
         </item>
         <item>
-            <title>Power BI Complete Course 2026 🚀 | Zero to Hero Tutorial | FREE Certificate 🎉</title>
-            <link>https://www.youtube.com/watch?v=dPrY-Hybxqo</link>
-            <description><![CDATA[Zero to Hero: Power BI Complete Tutorial 2026 | Full Guide + Jobs + Certificate This Zero to Hero Power BI Complete Guide is ...]]></description>
-            <pubDate>Thu, 08 Jan 2026 12:40:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=dPrY-Hybxqo</guid>
-            <source>Accounts Expert</source>
+            <title>WeekInPapers - Pour suivre la recherche en informatique sans se noyer</title>
+            <link>https://korben.info/weekinpapers-arxiv-papers-informatique-resumes.html</link>
+            <description><![CDATA[Vous avez déjà essayé de suivre ce qui se passe dans la recherche en informatique ? Moi oui, et c'est l'enfer. Chaque semaine, des centaines de nouveaux papiers débarquent sur
+arXiv
+. Et entre le mach...]]></description>
+            <pubDate>Sat, 07 Feb 2026 09:07:00 -0000</pubDate>
+            <guid isPermaLink="true">https://korben.info/weekinpapers-arxiv-papers-informatique-resumes.html</guid>
+            <source>Korben.info</source>
         </item>
         <item>
             <title>Python Machine Learning sous Excel avec « xlwings lite »</title>
@@ -61,6 +63,14 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
+            <title>Intelligence artificielle : Quels retours sur investissement pour les entreprises ?</title>
+            <link>https://www.franceinfo.fr/replay-radio/nouveau-monde/intelligence-artificielle-quels-retours-sur-investissement-pour-les-entreprises_7762109.html</link>
+            <description><![CDATA[Face aux sommes croissantes consacrées à l'intelligence artificielle, les entreprises se préoccupent d'un retour sur investissement. En termes financiers mais aussi en gains opérationnels dans la cond...]]></description>
+            <pubDate>Sat, 07 Feb 2026 17:20:19 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/nouveau-monde/intelligence-artificielle-quels-retours-sur-investissement-pour-les-entreprises_7762109.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
             <title>Qu&amp;#39;est-ce que Power BI ? (Tuto Intro 2025)</title>
             <link>https://www.youtube.com/watch?v=wBsvjPNqUco</link>
             <description><![CDATA[Vous entendez parler de "Data" partout, mais c'est quoi concrètement Power BI ? En 2025, c'est l'outil indispensable pour booster ...]]></description>
@@ -69,44 +79,44 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>Connexion entre Python (notebook) et Excel via « xlwings »</title>
-            <link>https://www.youtube.com/watch?v=-ONGM2pg3tc</link>
-            <description><![CDATA[Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...]]></description>
-            <pubDate>Sun, 21 Dec 2025 10:20:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=-ONGM2pg3tc</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>Meta utilise vos conversations IA pour vous cibler avec de la publicité</title>
+            <link>https://www.generation-nt.com/actualites/meta-ai-publicite-donnees-personnelles-facebook-instagram-2070142</link>
+            <description><![CDATA[Meta transforme désormais vos discussions avec son intelligence artificielle, Meta AI, en données pour la publicité ciblée. Vos conversations les plus intimes sur Facebook, Instagram ou WhatsApp serve...]]></description>
+            <pubDate>Sat, 07 Feb 2026 13:10:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/meta-ai-publicite-donnees-personnelles-facebook-instagram-2070142</guid>
+            <source>Génération NT</source>
         </item>
         <item>
-            <title>Souveraineté numérique : 8 alternatives européennes aux services que vous utilisez tous les jours</title>
-            <link>https://www.presse-citron.net/souverainete-numerique-8-alternatives-europeennes-services-vous-utilisez-tous-jours/</link>
-            <description><![CDATA[Face à l'instabilité géopolitique croissante, la souveraineté numérique n'est plus un luxe, mais une nécessité. Du moteur de recherche à l'intelligence artificielle, découvrez les pépites européennes ...]]></description>
-            <pubDate>Sat, 07 Feb 2026 07:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/souverainete-numerique-8-alternatives-europeennes-services-vous-utilisez-tous-jours/</guid>
-            <source>Presse-citron</source>
+            <title>SQL | Maîtriser le LEFT JOIN (Jointure Gauche) 🔍 Identifier les Clients Inactifs #oraclesql #sqltips</title>
+            <link>https://www.youtube.com/watch?v=mj7JT8HdBvg</link>
+            <description><![CDATA[Comment obtenir tous vos clients, même ceux qui n'ont jamais passé commande ? Le LEFT JOIN est la réponse ! C'est l'outil ...]]></description>
+            <pubDate>Mon, 15 Dec 2025 02:10:44 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=mj7JT8HdBvg</guid>
+            <source>Oracle SQL Tips FR</source>
         </item>
         <item>
-            <title>Comment les Machines Comprennent le Langage Humain en 10 Secondes #aiart</title>
-            <link>https://www.youtube.com/watch?v=KT6DIPrVoYg</link>
-            <description><![CDATA[NLP : Comment les Machines Comprennent le Langage Humain en 10 Secondes Bienvenue dans cette nouvelle vidéo sur ...]]></description>
-            <pubDate>Wed, 10 Dec 2025 18:11:22 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=KT6DIPrVoYg</guid>
-            <source>INFOTIQUE</source>
+            <title>MySQL vs PostgreSQL vs MongoDB : Différences 2026</title>
+            <link>https://www.youtube.com/watch?v=KD53CSQtsHQ</link>
+            <description><![CDATA[SQL ou NoSQL ? Comprendre les différences entre MySQL, PostgreSQL et MongoDB. #dev #data #tech.]]></description>
+            <pubDate>Thu, 25 Dec 2025 19:39:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=KD53CSQtsHQ</guid>
+            <source>TechVantage FR</source>
         </item>
         <item>
-            <title>Maîtriser Power Query : Automatisez votre nettoyage de données sur Excel et Power BI</title>
-            <link>https://www.youtube.com/watch?v=Q-mQB9OAp50</link>
-            <description><![CDATA[Cette formation complète vous présente Power Query, l'outil incontournable d'Excel et Power BI pour automatiser la préparation ...]]></description>
-            <pubDate>Fri, 16 Jan 2026 11:01:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Q-mQB9OAp50</guid>
-            <source>Cabinet Smart Otobos Consulting</source>
+            <title>SQL | Maîtriser l&amp;#39;Opérateur INTERSECT (Trouver les Doublons Communs) [Opérateurs d&amp;#39;Ensemble #2] #sql</title>
+            <link>https://www.youtube.com/watch?v=_ZnaKkb3vzQ</link>
+            <description><![CDATA[Bienvenue dans l'Épisode 2 de notre série sur les Opérateurs d'Ensemble SQL ! L'opérateur INTERSECT est l'outil d'audit ultime ...]]></description>
+            <pubDate>Sun, 21 Dec 2025 04:49:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=_ZnaKkb3vzQ</guid>
+            <source>Oracle SQL Tips FR</source>
         </item>
         <item>
-            <title>La Chine veut installer des centres de données en orbite : le nouveau front de la course à l’espace</title>
-            <link>https://www.journaldugeek.com/2026/02/06/chine-installer-centres-donnees-orbite-nouveau-front-course-lespace/</link>
-            <description><![CDATA[Pourquoi brûler du charbon ou du pétrole pour refroidir des serveurs quand on peut se servir à bon escient du vide thermique de l'espace ? Un gaspillage d'énergie et d'argent dont Pékin souhaite se dé...]]></description>
-            <pubDate>Fri, 06 Feb 2026 16:02:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/02/06/chine-installer-centres-donnees-orbite-nouveau-front-course-lespace/</guid>
-            <source>Journal du geek</source>
+            <title>SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips</title>
+            <link>https://www.youtube.com/watch?v=qup-uitBx58</link>
+            <description><![CDATA[Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...]]></description>
+            <pubDate>Sun, 04 Jan 2026 03:10:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=qup-uitBx58</guid>
+            <source>Oracle SQL Tips FR</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -133,20 +143,12 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>DAX (Power BI) – Module 1 : Les Fondamentaux de DAX | Vidéo 7 : IF, SWITCH &amp;amp; BLANK</title>
-            <link>https://www.youtube.com/watch?v=kcSObmOJaFE</link>
-            <description><![CDATA[Bienvenue dans cette 7ème étape de notre formation complète : Maîtriser DAX ! Dans l'épisode précédent, nous avons appris ...]]></description>
-            <pubDate>Fri, 06 Feb 2026 08:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=kcSObmOJaFE</guid>
-            <source>Learn with Jino</source>
-        </item>
-        <item>
-            <title>Actualité : iPad règne sur les tablettes : ce chiffre montre à quel point Apple distance encore Samsung</title>
-            <link>https://www.lesnumeriques.com/tablette-tactile/ipad-regne-sur-les-tablettes-ce-chiffre-montre-a-quel-point-apple-distance-encore-samsung-n251135.html</link>
-            <description><![CDATA[Après plusieurs années de repli, le marché mondial des tablettes poursuit son redressement en 2025, porté par un dernier trimestre dynamique. Selon les récentes données du cabinet Omdia, Apple consoli...]]></description>
-            <pubDate>Sat, 07 Feb 2026 08:19:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/tablette-tactile/ipad-regne-sur-les-tablettes-ce-chiffre-montre-a-quel-point-apple-distance-encore-samsung-n251135.html</guid>
-            <source>Les Numériques</source>
+            <title>Luffu : les fondateurs de Fitbit lancent une IA pour la santé familiale</title>
+            <link>https://www.generation-nt.com/actualites/luffu-fitbit-sante-familiale-ia-james-park-eric-friedman-2070209</link>
+            <description><![CDATA[Deux ans après avoir quitté Google, les co-fondateurs de Fitbit, James Park et Eric Friedman, lancent Luffu. Cette nouvelle startup développe un système de soins intelligent basé sur l'IA pour central...]]></description>
+            <pubDate>Sat, 07 Feb 2026 15:10:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/luffu-fitbit-sante-familiale-ia-james-park-eric-friedman-2070209</guid>
+            <source>Génération NT</source>
         </item>
         <item>
             <title>2-Data Mining :Arbres de Décision#notebooklm</title>
@@ -157,22 +159,20 @@
             <source>AllAboutData</source>
         </item>
         <item>
-            <title>Power Query - Automatiser le rajout d&amp;#39;une nouvelle colonne d&amp;#39;une source de données</title>
-            <link>https://www.youtube.com/watch?v=vh8ktYfArUY</link>
-            <description><![CDATA[Bonjour, Dans cette vidéo vous allez apprendre comment automatiser l'ajout d'une nouvelle colonne d'une source de données ...]]></description>
-            <pubDate>Sat, 03 Jan 2026 11:01:44 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=vh8ktYfArUY</guid>
-            <source>Learnaccess</source>
+            <title>Formation SQL PARTIE 6 - HAVING</title>
+            <link>https://www.youtube.com/watch?v=bgN8YayL7vM</link>
+            <description><![CDATA[Dans cette partie 5 de la formation SQL, nous expliquons la commande HAVING. Tu comprendras la différence entre WHERE et ...]]></description>
+            <pubDate>Wed, 24 Dec 2025 22:32:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=bgN8YayL7vM</guid>
+            <source>MedData -Tech</source>
         </item>
         <item>
-            <title>Comment récupérer des données à partir d'un tableau ou d'une plage dans Excel pour le Web ?</title>
-            <link>https://www.youtube.com/watch?v=w0_st7-Fw0I</link>
-            <description><![CDATA[🫶🏻 Rejoignez la chaîne pour accéder à des avantages exclusifs :
-
-https://www.youtube.com/channel/UCvD2rJJrp0aS48-KCk0eMHQ/join ...]]></description>
-            <pubDate>Thu, 08 Jan 2026 07:35:12 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=w0_st7-Fw0I</guid>
-            <source>Access Analytic</source>
+            <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
+            <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
+            <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
+            <pubDate>Fri, 09 Jan 2026 17:01:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=gcbiOQCR-O8</guid>
+            <source>WeData</source>
         </item>
     </channel>
 </rss>

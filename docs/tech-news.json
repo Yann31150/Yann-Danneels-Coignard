@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-02-08T08:39:09.277585",
+  "lastUpdate": "2026-02-09T08:02:17.584340",
   "articles": [
-    {
-      "title": "FUNDAMENTAL lève 216 millions d’euros et dévoile NEXUS, un “Large Tabular Model”",
-      "description": "Depuis l’irruption de ChatGPT, l’intelligence artificielle occupe l’espace médiatique et organisationnel comme rarement auparavant. Mais si ses performances impressionnent, son mode opératoire reste l...",
-      "url": "https://www.frenchweb.fr/fundamental-leve-216-millions-deuros-et-devoile-nexus-un-large-tabular-model/460153",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-02-06T07:03:30Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning",
       "description": "Paradoxe du deep learning : plus on ajoute de couches, plus le réseau devient... stupide. Jusqu'à ce qu'une idée géniale change ...",
@@ -24,6 +12,18 @@
       "isYouTube": true,
       "videoId": "DnyIUzoKGsQ",
       "thumbnail": "https://i.ytimg.com/vi/DnyIUzoKGsQ/hqdefault.jpg"
+    },
+    {
+      "title": "Créer un Agent IA puissant (RAG) : Tutoriel Complet (no code)",
+      "description": "Pour récupérer les workflows sur n8n : https://tally.so/r/pbyR9y Si tu utilises déjà ChatGPT ou Claude en entreprise, tu l'as ...",
+      "url": "https://www.youtube.com/watch?v=_ldYxumnGIo",
+      "source": "Louis Graffeuil",
+      "publishedAt": "2026-01-07T07:49:08Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "_ldYxumnGIo",
+      "thumbnail": "https://i.ytimg.com/vi/_ldYxumnGIo/hqdefault.jpg"
     },
     {
       "title": "J&#39;ai résilié tous mes outils IA (j&#39;ai fabriqué le mien)",
@@ -38,16 +38,16 @@
       "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
     },
     {
-      "title": "Power BI Complete Course 2026 🚀 | Zero to Hero Tutorial | FREE Certificate 🎉",
-      "description": "Zero to Hero: Power BI Complete Tutorial 2026 | Full Guide + Jobs + Certificate This Zero to Hero Power BI Complete Guide is ...",
-      "url": "https://www.youtube.com/watch?v=dPrY-Hybxqo",
-      "source": "Accounts Expert",
-      "publishedAt": "2026-01-08T12:40:49Z",
+      "title": "WeekInPapers - Pour suivre la recherche en informatique sans se noyer",
+      "description": "Vous avez déjà essayé de suivre ce qui se passe dans la recherche en informatique ? Moi oui, et c'est l'enfer. Chaque semaine, des centaines de nouveaux papiers débarquent sur\narXiv\n. Et entre le mach...",
+      "url": "https://korben.info/weekinpapers-arxiv-papers-informatique-resumes.html",
+      "source": "Korben.info",
+      "publishedAt": "2026-02-07T09:07:00Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "dPrY-Hybxqo",
-      "thumbnail": "https://i.ytimg.com/vi/dPrY-Hybxqo/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Python Machine Learning sous Excel avec « xlwings lite »",
@@ -74,6 +74,18 @@
       "thumbnail": "https://i.ytimg.com/vi/FOj5HTd4EAs/hqdefault.jpg"
     },
     {
+      "title": "Intelligence artificielle : Quels retours sur investissement pour les entreprises ?",
+      "description": "Face aux sommes croissantes consacrées à l'intelligence artificielle, les entreprises se préoccupent d'un retour sur investissement. En termes financiers mais aussi en gains opérationnels dans la cond...",
+      "url": "https://www.franceinfo.fr/replay-radio/nouveau-monde/intelligence-artificielle-quels-retours-sur-investissement-pour-les-entreprises_7762109.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-02-07T17:20:19Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Qu&#39;est-ce que Power BI ? (Tuto Intro 2025)",
       "description": "Vous entendez parler de \"Data\" partout, mais c'est quoi concrètement Power BI ? En 2025, c'est l'outil indispensable pour booster ...",
       "url": "https://www.youtube.com/watch?v=wBsvjPNqUco",
@@ -86,23 +98,11 @@
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
     },
     {
-      "title": "Connexion entre Python (notebook) et Excel via « xlwings »",
-      "description": "Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...",
-      "url": "https://www.youtube.com/watch?v=-ONGM2pg3tc",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2025-12-21T10:20:45Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "-ONGM2pg3tc",
-      "thumbnail": "https://i.ytimg.com/vi/-ONGM2pg3tc/hqdefault.jpg"
-    },
-    {
-      "title": "Souveraineté numérique : 8 alternatives européennes aux services que vous utilisez tous les jours",
-      "description": "Face à l'instabilité géopolitique croissante, la souveraineté numérique n'est plus un luxe, mais une nécessité. Du moteur de recherche à l'intelligence artificielle, découvrez les pépites européennes ...",
-      "url": "https://www.presse-citron.net/souverainete-numerique-8-alternatives-europeennes-services-vous-utilisez-tous-jours/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-02-07T07:00:00Z",
+      "title": "Meta utilise vos conversations IA pour vous cibler avec de la publicité",
+      "description": "Meta transforme désormais vos discussions avec son intelligence artificielle, Meta AI, en données pour la publicité ciblée. Vos conversations les plus intimes sur Facebook, Instagram ou WhatsApp serve...",
+      "url": "https://www.generation-nt.com/actualites/meta-ai-publicite-donnees-personnelles-facebook-instagram-2070142",
+      "source": "Génération NT",
+      "publishedAt": "2026-02-07T13:10:01Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -110,40 +110,52 @@
       "thumbnail": ""
     },
     {
-      "title": "Comment les Machines Comprennent le Langage Humain en 10 Secondes #aiart",
-      "description": "NLP : Comment les Machines Comprennent le Langage Humain en 10 Secondes Bienvenue dans cette nouvelle vidéo sur ...",
-      "url": "https://www.youtube.com/watch?v=KT6DIPrVoYg",
-      "source": "INFOTIQUE",
-      "publishedAt": "2025-12-10T18:11:22Z",
+      "title": "SQL | Maîtriser le LEFT JOIN (Jointure Gauche) 🔍 Identifier les Clients Inactifs #oraclesql #sqltips",
+      "description": "Comment obtenir tous vos clients, même ceux qui n'ont jamais passé commande ? Le LEFT JOIN est la réponse ! C'est l'outil ...",
+      "url": "https://www.youtube.com/watch?v=mj7JT8HdBvg",
+      "source": "Oracle SQL Tips FR",
+      "publishedAt": "2025-12-15T02:10:44Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "KT6DIPrVoYg",
-      "thumbnail": "https://i.ytimg.com/vi/KT6DIPrVoYg/hqdefault.jpg"
+      "videoId": "mj7JT8HdBvg",
+      "thumbnail": "https://i.ytimg.com/vi/mj7JT8HdBvg/hqdefault.jpg"
     },
     {
-      "title": "Maîtriser Power Query : Automatisez votre nettoyage de données sur Excel et Power BI",
-      "description": "Cette formation complète vous présente Power Query, l'outil incontournable d'Excel et Power BI pour automatiser la préparation ...",
-      "url": "https://www.youtube.com/watch?v=Q-mQB9OAp50",
-      "source": "Cabinet Smart Otobos Consulting",
-      "publishedAt": "2026-01-16T11:01:06Z",
+      "title": "MySQL vs PostgreSQL vs MongoDB : Différences 2026",
+      "description": "SQL ou NoSQL ? Comprendre les différences entre MySQL, PostgreSQL et MongoDB. #dev #data #tech.",
+      "url": "https://www.youtube.com/watch?v=KD53CSQtsHQ",
+      "source": "TechVantage FR",
+      "publishedAt": "2025-12-25T19:39:02Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Q-mQB9OAp50",
-      "thumbnail": "https://i.ytimg.com/vi/Q-mQB9OAp50/hqdefault.jpg"
+      "videoId": "KD53CSQtsHQ",
+      "thumbnail": "https://i.ytimg.com/vi/KD53CSQtsHQ/hqdefault.jpg"
     },
     {
-      "title": "La Chine veut installer des centres de données en orbite : le nouveau front de la course à l’espace",
-      "description": "Pourquoi brûler du charbon ou du pétrole pour refroidir des serveurs quand on peut se servir à bon escient du vide thermique de l'espace ? Un gaspillage d'énergie et d'argent dont Pékin souhaite se dé...",
-      "url": "https://www.journaldugeek.com/2026/02/06/chine-installer-centres-donnees-orbite-nouveau-front-course-lespace/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-02-06T16:02:03Z",
+      "title": "SQL | Maîtriser l&#39;Opérateur INTERSECT (Trouver les Doublons Communs) [Opérateurs d&#39;Ensemble #2] #sql",
+      "description": "Bienvenue dans l'Épisode 2 de notre série sur les Opérateurs d'Ensemble SQL ! L'opérateur INTERSECT est l'outil d'audit ultime ...",
+      "url": "https://www.youtube.com/watch?v=_ZnaKkb3vzQ",
+      "source": "Oracle SQL Tips FR",
+      "publishedAt": "2025-12-21T04:49:47Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "_ZnaKkb3vzQ",
+      "thumbnail": "https://i.ytimg.com/vi/_ZnaKkb3vzQ/hqdefault.jpg"
+    },
+    {
+      "title": "SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips",
+      "description": "Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...",
+      "url": "https://www.youtube.com/watch?v=qup-uitBx58",
+      "source": "Oracle SQL Tips FR",
+      "publishedAt": "2026-01-04T03:10:49Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "qup-uitBx58",
+      "thumbnail": "https://i.ytimg.com/vi/qup-uitBx58/hqdefault.jpg"
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -182,23 +194,11 @@
       "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
     },
     {
-      "title": "DAX (Power BI) – Module 1 : Les Fondamentaux de DAX | Vidéo 7 : IF, SWITCH &amp; BLANK",
-      "description": "Bienvenue dans cette 7ème étape de notre formation complète : Maîtriser DAX ! Dans l'épisode précédent, nous avons appris ...",
-      "url": "https://www.youtube.com/watch?v=kcSObmOJaFE",
-      "source": "Learn with Jino",
-      "publishedAt": "2026-02-06T08:00:06Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "kcSObmOJaFE",
-      "thumbnail": "https://i.ytimg.com/vi/kcSObmOJaFE/hqdefault.jpg"
-    },
-    {
-      "title": "Actualité : iPad règne sur les tablettes : ce chiffre montre à quel point Apple distance encore Samsung",
-      "description": "Après plusieurs années de repli, le marché mondial des tablettes poursuit son redressement en 2025, porté par un dernier trimestre dynamique. Selon les récentes données du cabinet Omdia, Apple consoli...",
-      "url": "https://www.lesnumeriques.com/tablette-tactile/ipad-regne-sur-les-tablettes-ce-chiffre-montre-a-quel-point-apple-distance-encore-samsung-n251135.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-02-07T08:19:00Z",
+      "title": "Luffu : les fondateurs de Fitbit lancent une IA pour la santé familiale",
+      "description": "Deux ans après avoir quitté Google, les co-fondateurs de Fitbit, James Park et Eric Friedman, lancent Luffu. Cette nouvelle startup développe un système de soins intelligent basé sur l'IA pour central...",
+      "url": "https://www.generation-nt.com/actualites/luffu-fitbit-sante-familiale-ia-james-park-eric-friedman-2070209",
+      "source": "Génération NT",
+      "publishedAt": "2026-02-07T15:10:01Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,35 +218,35 @@
       "thumbnail": "https://i.ytimg.com/vi/_Fe5ju7H5LI/hqdefault.jpg"
     },
     {
-      "title": "Power Query - Automatiser le rajout d&#39;une nouvelle colonne d&#39;une source de données",
-      "description": "Bonjour, Dans cette vidéo vous allez apprendre comment automatiser l'ajout d'une nouvelle colonne d'une source de données ...",
-      "url": "https://www.youtube.com/watch?v=vh8ktYfArUY",
-      "source": "Learnaccess",
-      "publishedAt": "2026-01-03T11:01:44Z",
+      "title": "Formation SQL PARTIE 6 - HAVING",
+      "description": "Dans cette partie 5 de la formation SQL, nous expliquons la commande HAVING. Tu comprendras la différence entre WHERE et ...",
+      "url": "https://www.youtube.com/watch?v=bgN8YayL7vM",
+      "source": "MedData -Tech",
+      "publishedAt": "2025-12-24T22:32:26Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "vh8ktYfArUY",
-      "thumbnail": "https://i.ytimg.com/vi/vh8ktYfArUY/hqdefault.jpg"
+      "videoId": "bgN8YayL7vM",
+      "thumbnail": "https://i.ytimg.com/vi/bgN8YayL7vM/hqdefault.jpg"
     },
     {
-      "title": "Comment récupérer des données à partir d'un tableau ou d'une plage dans Excel pour le Web ?",
-      "description": "🫶🏻 Rejoignez la chaîne pour accéder à des avantages exclusifs :\n\nhttps://www.youtube.com/channel/UCvD2rJJrp0aS48-KCk0eMHQ/join ...",
-      "url": "https://www.youtube.com/watch?v=w0_st7-Fw0I",
-      "source": "Access Analytic",
-      "publishedAt": "2026-01-08T07:35:12Z",
+      "title": "Introduction à Positron: VSCode + RStudio pour la data science",
+      "description": "Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...",
+      "url": "https://www.youtube.com/watch?v=gcbiOQCR-O8",
+      "source": "WeData",
+      "publishedAt": "2026-01-09T17:01:15Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "w0_st7-Fw0I",
-      "thumbnail": "https://i.ytimg.com/vi/w0_st7-Fw0I/hqdefault.jpg"
+      "videoId": "gcbiOQCR-O8",
+      "thumbnail": "https://i.ytimg.com/vi/gcbiOQCR-O8/hqdefault.jpg"
     },
     {
-      "title": "Qu’est ce qu’un Large Tabular Model : la prochaine frontière de l’IA orientée entreprise",
-      "description": "L’enthousiasme suscité par les grands modèles de langage a profondément redessiné le paysage de l’intelligence artificielle en entreprise. Interfaces conversationnelles, assistants de productivité, gé...",
-      "url": "https://www.frenchweb.fr/quest-ce-quun-large-tabular-model-la-prochaine-frontiere-de-lia-orientee-entreprise/460163",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-02-06T09:55:27Z",
+      "title": "ÉDITORIAL. Contre le cancer, de la science, des machines et beaucoup d’humanité",
+      "description": "En France, la mortalité imputable aux cancers a globalement diminué entre 2012 et 2022. Le résultat, notamment, de diagnostics plus précoces, des efforts de prévention et d’avancées thérapeutiques. L’...",
+      "url": "https://sante.ouest-france.fr/cancer/editorial-contre-le-cancer-de-la-science-des-machines-et-beaucoup-dhumanite-b0f655aa-01b4-11f1-a6ec-62cedea1af4f",
+      "source": "Ouest-France",
+      "publishedAt": "2026-02-08T06:00:26Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Intelligence artificielle : la folle course des géants de la tech",
-      "description": "Les Amazon, Alphabet, Meta et Microsoft prévoient d’investir plus de 650 milliards de dollars en 2026 dans l’IA. Les firmes avancent à n’importe quel prix, ne voulant pas prendre le risque d’être dist...",
-      "url": "https://www.lemonde.fr/economie/article/2026/02/07/intelligence-artificielle-la-folle-course-des-geants-de-la-tech_6665758_3234.html",
-      "source": "Le Monde",
-      "publishedAt": "2026-02-07T05:00:33Z",
+      "title": "Des podcasts IA avec des voix de héros de jeux vidéo : un drôle de brevet signé Sony",
+      "description": "Sony a déposé un brevet pour des podcasts générés par intelligence artificielle, personnalisés pour chaque joueur et incarnés par des personnages de jeux vidéo. Sur le papier, l’idée a de quoi intrigu...",
+      "url": "https://www.journaldugeek.com/2026/02/07/des-podcasts-ia-avec-des-voix-de-heros-de-jeux-video-un-drole-de-brevet-signe-sony/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-02-07T15:02:12Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Adèle, une IA vocale qui présélectionne les candidats avant un entretien d'embauche",
-      "description": "Les entreprises recourent de plus en plus à l'intelligence artificielle pour recruter. En plus des logiciels qui trient les CV, des IA vocales peuvent désormais faire passer des mini-entretiens par té...",
-      "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/adele-une-ia-vocale-qui-preselectionne-les-candidats-avant-un-entretien-d-embauche_7762040.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-02-07T08:12:01Z",
+      "title": "”L’art ne va pas mourir du tout !”",
+      "description": "Comment l’Intelligence Artificielle bouscule les fondamentaux de l’histoire de l’art. Et comment les artistes contemporains relèvent le défi d’inventivité humaine augmentée. ...",
+      "url": "https://www.lalibre.be/culture/arts/2026/02/08/lart-ne-va-pas-mourir-du-tout-ZKWKZJWTFBFX3HNKSMN5YPZJJY/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-02-08T07:11:03Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Reddit mise sur la recherche intelligente pour stimuler sa croissance",
-      "description": "Le réseau social Reddit envisage d’exploiter pleinement le potentiel de son moteur de recherche dopé à l’intelligence artificielle. L’entreprise y voit une opportunité stratégique majeure, tant sur le...",
-      "url": "https://www.fredzone.org/reddit-mise-sur-la-recherche-intelligente-pour-stimuler-sa-croissance/",
-      "source": "FREDZONE",
-      "publishedAt": "2026-02-06T11:45:25Z",
+      "title": "Nvidia sacrifie le gaming au profit de l’IA",
+      "description": "Les revenus gaming chutent chez Nvidia alors que les marges sur les GPU IA explosent.",
+      "url": "https://www.begeek.fr/nvidia-sacrifie-le-gaming-au-profit-de-lia-427859",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-02-07T13:00:32Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,16 +290,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Nouvelle fomation Architecte Power Platform !",
-      "description": "Microsoft Power Platform Solution Architect ✔️ Comprendre le rôle et les responsabilités d'un Solution Architect Power Platform ...",
-      "url": "https://www.youtube.com/watch?v=09S53i-ntOE",
-      "source": "Fabrice Chrzanowski – Passionate IT Training",
-      "publishedAt": "2026-02-06T14:35:03Z",
+      "title": "Introduction | PHP - EP1",
+      "description": "Soutenir EvoluNoob grâce au financement participatif : https://liberapay.com/EvoluNoob Apprenez le langage PHP, une référence ...",
+      "url": "https://www.youtube.com/watch?v=Y_qaafE6n2M",
+      "source": "EvoluNoob",
+      "publishedAt": "2025-12-22T18:59:59Z",
       "category": "tech",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "09S53i-ntOE",
-      "thumbnail": "https://i.ytimg.com/vi/09S53i-ntOE/hqdefault.jpg"
+      "videoId": "Y_qaafE6n2M",
+      "thumbnail": "https://i.ytimg.com/vi/Y_qaafE6n2M/hqdefault.jpg"
     }
   ]
 }
