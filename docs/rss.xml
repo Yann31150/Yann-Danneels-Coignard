@@ -5,13 +5,21 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 09 Feb 2026 08:02:17 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 09 Feb 2026 08:59:53 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)</title>
+            <link>https://www.youtube.com/watch?v=p0D5zWVTkUU</link>
+            <description><![CDATA[Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...]]></description>
+            <pubDate>Thu, 08 Jan 2026 19:12:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=p0D5zWVTkUU</guid>
+            <source>Ludo Salenne</source>
+        </item>
         <item>
             <title>[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning</title>
             <link>https://www.youtube.com/watch?v=DnyIUzoKGsQ</link>
@@ -21,12 +29,12 @@
             <source>Deep Learner, One Step at a Time</source>
         </item>
         <item>
-            <title>Créer un Agent IA puissant (RAG) : Tutoriel Complet (no code)</title>
-            <link>https://www.youtube.com/watch?v=_ldYxumnGIo</link>
-            <description><![CDATA[Pour récupérer les workflows sur n8n : https://tally.so/r/pbyR9y Si tu utilises déjà ChatGPT ou Claude en entreprise, tu l'as ...]]></description>
-            <pubDate>Wed, 07 Jan 2026 07:49:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=_ldYxumnGIo</guid>
-            <source>Louis Graffeuil</source>
+            <title>Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)</title>
+            <link>https://www.youtube.com/watch?v=W3ygk9QJ4ks</link>
+            <description><![CDATA[L'ÈRE DU LOW-COST IA EST FINIE Passez à la Vision et bâtissez un business réel. Récupérez les ressources, outils ...]]></description>
+            <pubDate>Thu, 22 Jan 2026 08:43:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=W3ygk9QJ4ks</guid>
+            <source>Frank Houbre - IA & intelligence artificielle</source>
         </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
@@ -55,6 +63,14 @@ arXiv
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
+            <title>IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2</title>
+            <link>https://www.youtube.com/watch?v=xCV8IUkhuXg</link>
+            <description><![CDATA[IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2 ...]]></description>
+            <pubDate>Wed, 14 Jan 2026 11:24:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=xCV8IUkhuXg</guid>
+            <source>Tutoriels MAO</source>
+        </item>
+        <item>
             <title>Power BI Desktop Installation TUTO GRATUIT 2025</title>
             <link>https://www.youtube.com/watch?v=FOj5HTd4EAs</link>
             <description><![CDATA[BIENVENUE ! Cette vidéo est l'étape #3 de la formation Power BI Pro 2025. Vous avez choisi l'outil, maintenant on l'installe !]]></description>
@@ -79,44 +95,12 @@ arXiv
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>Meta utilise vos conversations IA pour vous cibler avec de la publicité</title>
-            <link>https://www.generation-nt.com/actualites/meta-ai-publicite-donnees-personnelles-facebook-instagram-2070142</link>
-            <description><![CDATA[Meta transforme désormais vos discussions avec son intelligence artificielle, Meta AI, en données pour la publicité ciblée. Vos conversations les plus intimes sur Facebook, Instagram ou WhatsApp serve...]]></description>
-            <pubDate>Sat, 07 Feb 2026 13:10:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/meta-ai-publicite-donnees-personnelles-facebook-instagram-2070142</guid>
-            <source>Génération NT</source>
-        </item>
-        <item>
-            <title>SQL | Maîtriser le LEFT JOIN (Jointure Gauche) 🔍 Identifier les Clients Inactifs #oraclesql #sqltips</title>
-            <link>https://www.youtube.com/watch?v=mj7JT8HdBvg</link>
-            <description><![CDATA[Comment obtenir tous vos clients, même ceux qui n'ont jamais passé commande ? Le LEFT JOIN est la réponse ! C'est l'outil ...]]></description>
-            <pubDate>Mon, 15 Dec 2025 02:10:44 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=mj7JT8HdBvg</guid>
-            <source>Oracle SQL Tips FR</source>
-        </item>
-        <item>
-            <title>MySQL vs PostgreSQL vs MongoDB : Différences 2026</title>
-            <link>https://www.youtube.com/watch?v=KD53CSQtsHQ</link>
-            <description><![CDATA[SQL ou NoSQL ? Comprendre les différences entre MySQL, PostgreSQL et MongoDB. #dev #data #tech.]]></description>
-            <pubDate>Thu, 25 Dec 2025 19:39:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=KD53CSQtsHQ</guid>
-            <source>TechVantage FR</source>
-        </item>
-        <item>
-            <title>SQL | Maîtriser l&amp;#39;Opérateur INTERSECT (Trouver les Doublons Communs) [Opérateurs d&amp;#39;Ensemble #2] #sql</title>
-            <link>https://www.youtube.com/watch?v=_ZnaKkb3vzQ</link>
-            <description><![CDATA[Bienvenue dans l'Épisode 2 de notre série sur les Opérateurs d'Ensemble SQL ! L'opérateur INTERSECT est l'outil d'audit ultime ...]]></description>
-            <pubDate>Sun, 21 Dec 2025 04:49:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=_ZnaKkb3vzQ</guid>
-            <source>Oracle SQL Tips FR</source>
-        </item>
-        <item>
-            <title>SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips</title>
-            <link>https://www.youtube.com/watch?v=qup-uitBx58</link>
-            <description><![CDATA[Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...]]></description>
-            <pubDate>Sun, 04 Jan 2026 03:10:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=qup-uitBx58</guid>
-            <source>Oracle SQL Tips FR</source>
+            <title>Data Science Full Course 2026 [FREE] | Learn Data Science From Scratch in 24 Hours | Simplilearn</title>
+            <link>https://www.youtube.com/watch?v=QISvmiwOIYI</link>
+            <description><![CDATA[This free Data Science Full Course 2026 is a complete learning path that takes you from basic concepts of Data Science to ...]]></description>
+            <pubDate>Sat, 31 Jan 2026 14:30:19 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=QISvmiwOIYI</guid>
+            <source>Simplilearn</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -159,20 +143,36 @@ arXiv
             <source>AllAboutData</source>
         </item>
         <item>
-            <title>Formation SQL PARTIE 6 - HAVING</title>
-            <link>https://www.youtube.com/watch?v=bgN8YayL7vM</link>
-            <description><![CDATA[Dans cette partie 5 de la formation SQL, nous expliquons la commande HAVING. Tu comprendras la différence entre WHERE et ...]]></description>
-            <pubDate>Wed, 24 Dec 2025 22:32:26 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=bgN8YayL7vM</guid>
-            <source>MedData -Tech</source>
-        </item>
-        <item>
             <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
             <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
             <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
             <pubDate>Fri, 09 Jan 2026 17:01:15 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=gcbiOQCR-O8</guid>
             <source>WeData</source>
+        </item>
+        <item>
+            <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
+            <link>https://www.youtube.com/watch?v=wNyw2TN8mh0</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 20 Jan 2026 15:55:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=wNyw2TN8mh0</guid>
+            <source>Le Decodeur</source>
+        </item>
+        <item>
+            <title>De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)</title>
+            <link>https://www.youtube.com/watch?v=n5uJWNTs-dQ</link>
+            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
+            <pubDate>Fri, 30 Jan 2026 23:01:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=n5uJWNTs-dQ</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
+            <title>La NASA va streamer la mission Artemis II en 4K grâce aux lasers</title>
+            <link>https://www.generation-nt.com/actualites/nasa-artemis-ii-communication-laser-lune-o2o-2070327</link>
+            <description><![CDATA[Pour sa prochaine mission habitée vers la Lune, la NASA s'apprête à tester une technologie de communication optique baptisée O2O. L'objectif est de multiplier par plus de 100 la vitesse de transmissio...]]></description>
+            <pubDate>Sun, 08 Feb 2026 08:10:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/nasa-artemis-ii-communication-laser-lune-o2o-2070327</guid>
+            <source>Génération NT</source>
         </item>
     </channel>
 </rss>

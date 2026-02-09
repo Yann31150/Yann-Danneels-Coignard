@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-02-09T08:02:17.584340",
+  "lastUpdate": "2026-02-09T08:59:53.034201",
   "articles": [
+    {
+      "title": "22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)",
+      "description": "Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...",
+      "url": "https://www.youtube.com/watch?v=p0D5zWVTkUU",
+      "source": "Ludo Salenne",
+      "publishedAt": "2026-01-08T19:12:40Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "p0D5zWVTkUU",
+      "thumbnail": "https://i.ytimg.com/vi/p0D5zWVTkUU/hqdefault.jpg"
+    },
     {
       "title": "[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning",
       "description": "Paradoxe du deep learning : plus on ajoute de couches, plus le réseau devient... stupide. Jusqu'à ce qu'une idée géniale change ...",
@@ -14,16 +26,16 @@
       "thumbnail": "https://i.ytimg.com/vi/DnyIUzoKGsQ/hqdefault.jpg"
     },
     {
-      "title": "Créer un Agent IA puissant (RAG) : Tutoriel Complet (no code)",
-      "description": "Pour récupérer les workflows sur n8n : https://tally.so/r/pbyR9y Si tu utilises déjà ChatGPT ou Claude en entreprise, tu l'as ...",
-      "url": "https://www.youtube.com/watch?v=_ldYxumnGIo",
-      "source": "Louis Graffeuil",
-      "publishedAt": "2026-01-07T07:49:08Z",
+      "title": "Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)",
+      "description": "L'ÈRE DU LOW-COST IA EST FINIE Passez à la Vision et bâtissez un business réel. Récupérez les ressources, outils ...",
+      "url": "https://www.youtube.com/watch?v=W3ygk9QJ4ks",
+      "source": "Frank Houbre - IA & intelligence artificielle",
+      "publishedAt": "2026-01-22T08:43:47Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "_ldYxumnGIo",
-      "thumbnail": "https://i.ytimg.com/vi/_ldYxumnGIo/hqdefault.jpg"
+      "videoId": "W3ygk9QJ4ks",
+      "thumbnail": "https://i.ytimg.com/vi/W3ygk9QJ4ks/hqdefault.jpg"
     },
     {
       "title": "J&#39;ai résilié tous mes outils IA (j&#39;ai fabriqué le mien)",
@@ -62,6 +74,18 @@
       "thumbnail": "https://i.ytimg.com/vi/feDNuaLVDLk/hqdefault.jpg"
     },
     {
+      "title": "IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2",
+      "description": "IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2 ...",
+      "url": "https://www.youtube.com/watch?v=xCV8IUkhuXg",
+      "source": "Tutoriels MAO",
+      "publishedAt": "2026-01-14T11:24:17Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "xCV8IUkhuXg",
+      "thumbnail": "https://i.ytimg.com/vi/xCV8IUkhuXg/hqdefault.jpg"
+    },
+    {
       "title": "Power BI Desktop Installation TUTO GRATUIT 2025",
       "description": "BIENVENUE ! Cette vidéo est l'étape #3 de la formation Power BI Pro 2025. Vous avez choisi l'outil, maintenant on l'installe !",
       "url": "https://www.youtube.com/watch?v=FOj5HTd4EAs",
@@ -98,64 +122,16 @@
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
     },
     {
-      "title": "Meta utilise vos conversations IA pour vous cibler avec de la publicité",
-      "description": "Meta transforme désormais vos discussions avec son intelligence artificielle, Meta AI, en données pour la publicité ciblée. Vos conversations les plus intimes sur Facebook, Instagram ou WhatsApp serve...",
-      "url": "https://www.generation-nt.com/actualites/meta-ai-publicite-donnees-personnelles-facebook-instagram-2070142",
-      "source": "Génération NT",
-      "publishedAt": "2026-02-07T13:10:01Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "SQL | Maîtriser le LEFT JOIN (Jointure Gauche) 🔍 Identifier les Clients Inactifs #oraclesql #sqltips",
-      "description": "Comment obtenir tous vos clients, même ceux qui n'ont jamais passé commande ? Le LEFT JOIN est la réponse ! C'est l'outil ...",
-      "url": "https://www.youtube.com/watch?v=mj7JT8HdBvg",
-      "source": "Oracle SQL Tips FR",
-      "publishedAt": "2025-12-15T02:10:44Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "mj7JT8HdBvg",
-      "thumbnail": "https://i.ytimg.com/vi/mj7JT8HdBvg/hqdefault.jpg"
-    },
-    {
-      "title": "MySQL vs PostgreSQL vs MongoDB : Différences 2026",
-      "description": "SQL ou NoSQL ? Comprendre les différences entre MySQL, PostgreSQL et MongoDB. #dev #data #tech.",
-      "url": "https://www.youtube.com/watch?v=KD53CSQtsHQ",
-      "source": "TechVantage FR",
-      "publishedAt": "2025-12-25T19:39:02Z",
+      "title": "Data Science Full Course 2026 [FREE] | Learn Data Science From Scratch in 24 Hours | Simplilearn",
+      "description": "This free Data Science Full Course 2026 is a complete learning path that takes you from basic concepts of Data Science to ...",
+      "url": "https://www.youtube.com/watch?v=QISvmiwOIYI",
+      "source": "Simplilearn",
+      "publishedAt": "2026-01-31T14:30:19Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "KD53CSQtsHQ",
-      "thumbnail": "https://i.ytimg.com/vi/KD53CSQtsHQ/hqdefault.jpg"
-    },
-    {
-      "title": "SQL | Maîtriser l&#39;Opérateur INTERSECT (Trouver les Doublons Communs) [Opérateurs d&#39;Ensemble #2] #sql",
-      "description": "Bienvenue dans l'Épisode 2 de notre série sur les Opérateurs d'Ensemble SQL ! L'opérateur INTERSECT est l'outil d'audit ultime ...",
-      "url": "https://www.youtube.com/watch?v=_ZnaKkb3vzQ",
-      "source": "Oracle SQL Tips FR",
-      "publishedAt": "2025-12-21T04:49:47Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "_ZnaKkb3vzQ",
-      "thumbnail": "https://i.ytimg.com/vi/_ZnaKkb3vzQ/hqdefault.jpg"
-    },
-    {
-      "title": "SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips",
-      "description": "Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...",
-      "url": "https://www.youtube.com/watch?v=qup-uitBx58",
-      "source": "Oracle SQL Tips FR",
-      "publishedAt": "2026-01-04T03:10:49Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "qup-uitBx58",
-      "thumbnail": "https://i.ytimg.com/vi/qup-uitBx58/hqdefault.jpg"
+      "videoId": "QISvmiwOIYI",
+      "thumbnail": "https://i.ytimg.com/vi/QISvmiwOIYI/hqdefault.jpg"
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -218,18 +194,6 @@
       "thumbnail": "https://i.ytimg.com/vi/_Fe5ju7H5LI/hqdefault.jpg"
     },
     {
-      "title": "Formation SQL PARTIE 6 - HAVING",
-      "description": "Dans cette partie 5 de la formation SQL, nous expliquons la commande HAVING. Tu comprendras la différence entre WHERE et ...",
-      "url": "https://www.youtube.com/watch?v=bgN8YayL7vM",
-      "source": "MedData -Tech",
-      "publishedAt": "2025-12-24T22:32:26Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "bgN8YayL7vM",
-      "thumbnail": "https://i.ytimg.com/vi/bgN8YayL7vM/hqdefault.jpg"
-    },
-    {
       "title": "Introduction à Positron: VSCode + RStudio pour la data science",
       "description": "Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...",
       "url": "https://www.youtube.com/watch?v=gcbiOQCR-O8",
@@ -242,12 +206,36 @@
       "thumbnail": "https://i.ytimg.com/vi/gcbiOQCR-O8/hqdefault.jpg"
     },
     {
-      "title": "ÉDITORIAL. Contre le cancer, de la science, des machines et beaucoup d’humanité",
-      "description": "En France, la mortalité imputable aux cancers a globalement diminué entre 2012 et 2022. Le résultat, notamment, de diagnostics plus précoces, des efforts de prévention et d’avancées thérapeutiques. L’...",
-      "url": "https://sante.ouest-france.fr/cancer/editorial-contre-le-cancer-de-la-science-des-machines-et-beaucoup-dhumanite-b0f655aa-01b4-11f1-a6ec-62cedea1af4f",
-      "source": "Ouest-France",
-      "publishedAt": "2026-02-08T06:00:26Z",
-      "category": "tech",
+      "title": "Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=wNyw2TN8mh0",
+      "source": "Le Decodeur",
+      "publishedAt": "2026-01-20T15:55:42Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "wNyw2TN8mh0",
+      "thumbnail": "https://i.ytimg.com/vi/wNyw2TN8mh0/hqdefault.jpg"
+    },
+    {
+      "title": "De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)",
+      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
+      "url": "https://www.youtube.com/watch?v=n5uJWNTs-dQ",
+      "source": "Enogne School",
+      "publishedAt": "2026-01-30T23:01:09Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "n5uJWNTs-dQ",
+      "thumbnail": "https://i.ytimg.com/vi/n5uJWNTs-dQ/hqdefault.jpg"
+    },
+    {
+      "title": "La NASA va streamer la mission Artemis II en 4K grâce aux lasers",
+      "description": "Pour sa prochaine mission habitée vers la Lune, la NASA s'apprête à tester une technologie de communication optique baptisée O2O. L'objectif est de multiplier par plus de 100 la vitesse de transmissio...",
+      "url": "https://www.generation-nt.com/actualites/nasa-artemis-ii-communication-laser-lune-o2o-2070327",
+      "source": "Génération NT",
+      "publishedAt": "2026-02-08T08:10:01Z",
+      "category": "data",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
@@ -290,16 +278,28 @@
       "thumbnail": ""
     },
     {
-      "title": "Introduction | PHP - EP1",
-      "description": "Soutenir EvoluNoob grâce au financement participatif : https://liberapay.com/EvoluNoob Apprenez le langage PHP, une référence ...",
-      "url": "https://www.youtube.com/watch?v=Y_qaafE6n2M",
-      "source": "EvoluNoob",
-      "publishedAt": "2025-12-22T18:59:59Z",
+      "title": "Le marché des puces explose grâce à l’IA : il devrait atteindre 1000 milliards de dollars en 2026",
+      "description": "Les ventes de puces ont augmenté de 25% en 2025 et la tendance devrait être la même en 2026, selon les chiffres de l’association qui regroupe les géants du secteur.",
+      "url": "https://www.usinenouvelle.com/electronique-informatique/le-marche-des-puces-explose-grace-a-lia-il-devrait-atteindre-1000-milliards-de-dollars-en-2026.HPHVCPMX75DEBAPZ42HNUVVLLA.html",
+      "source": "L'Usine Nouvelle",
+      "publishedAt": "2026-02-08T08:30:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Les théories d&#39;apprentissage5: le connectivisme",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Gob2goPLZBs",
+      "source": "Apprendre le français ",
+      "publishedAt": "2026-01-07T17:44:15Z",
       "category": "tech",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Y_qaafE6n2M",
-      "thumbnail": "https://i.ytimg.com/vi/Y_qaafE6n2M/hqdefault.jpg"
+      "videoId": "Gob2goPLZBs",
+      "thumbnail": "https://i.ytimg.com/vi/Gob2goPLZBs/hqdefault.jpg"
     }
   ]
 }
