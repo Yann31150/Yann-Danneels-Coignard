@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 10 Feb 2026 09:01:43 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 11 Feb 2026 08:56:47 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,20 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Actualité : “Le vibe coding tue l'open-source” : quand l'IA dévore ce qui la nourrit, les économistes sonnent l'alerte</title>
-            <link>https://www.lesnumeriques.com/intelligence-artificielle/le-vibe-coding-tue-l-open-source-quand-l-ia-devore-ce-qui-la-nourrit-les-economistes-sonnent-l-alerte-n251224.html</link>
-            <description><![CDATA[Quand un développeur demande à Claude ou ChatGPT d'écrire du code, l'IA pioche dans des milliers de bibliothèques libres sans que l'humain ne lise jamais leur documentation. Résultat : les mainteneurs...]]></description>
-            <pubDate>Mon, 09 Feb 2026 07:27:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/le-vibe-coding-tue-l-open-source-quand-l-ia-devore-ce-qui-la-nourrit-les-economistes-sonnent-l-alerte-n251224.html</guid>
-            <source>Les Numériques</source>
+            <title>Leboncoin fait son entrée sur ChatGPT : comment l'IA recherche les petites annonces à votre place</title>
+            <link>https://www.01net.com/actualites/leboncoin-fait-entree-chatgpt-ia-recherche-petites-annonces-place.html</link>
+            <description><![CDATA[Leboncoin débarque dans ChatGPT. On peut maintenant demander à l'IA de parcourir les petites annonces à notre place pour nous aider à trouver la perle rare. On vous explique comment ça marche.]]></description>
+            <pubDate>Tue, 10 Feb 2026 08:42:27 -0000</pubDate>
+            <guid isPermaLink="true">https://www.01net.com/actualites/leboncoin-fait-entree-chatgpt-ia-recherche-petites-annonces-place.html</guid>
+            <source>01net.com</source>
+        </item>
+        <item>
+            <title>Les failles de ChatGPT pour l’autodiagnostic médical révélées par une étude</title>
+            <link>https://www.lemonde.fr/pixels/article/2026/02/09/les-failles-de-chatgpt-pour-l-autodiagnostic-medical-revelees-par-une-etude_6666026_4408996.html</link>
+            <description><![CDATA[Selon une étude britannique, les particuliers parviennent mieux à deviner leur maladie avec un simple moteur de recherche qu’avec un agent conversationnel, comme celui d’OpenAI.]]></description>
+            <pubDate>Mon, 09 Feb 2026 16:00:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/pixels/article/2026/02/09/les-failles-de-chatgpt-pour-l-autodiagnostic-medical-revelees-par-une-etude_6666026_4408996.html</guid>
+            <source>Le Monde</source>
         </item>
         <item>
             <title>[7/21] - Connexions Résiduelles expliqué : ResNet et la révolution Deep Learning</title>
@@ -29,12 +37,44 @@
             <source>Deep Learner, One Step at a Time</source>
         </item>
         <item>
+            <title>ZDNET Morning 10/02/2026 : Optic 2000 vs Expert, ChatGPT repart à la hausse, Vertiv au bureau,...</title>
+            <link>https://www.zdnet.fr/actualites/zdnet-morning-10-02-2026-optic-2000-vs-expert-chatgpt-repart-a-la-hausse-vertiv-au-bureau-489851.htm</link>
+            <description><![CDATA[Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.]]></description>
+            <pubDate>Tue, 10 Feb 2026 08:55:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/zdnet-morning-10-02-2026-optic-2000-vs-expert-chatgpt-repart-a-la-hausse-vertiv-au-bureau-489851.htm</guid>
+            <source>ZDNet France</source>
+        </item>
+        <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
             <link>https://www.youtube.com/watch?v=N0gTIxg9l2A</link>
             <description><![CDATA[Plus de 15 outils IA, 15 abonnements, des onglets partout... ChatGPT, Gemini, Perplexity, Gamma... C'était le gros bordel alors ...]]></description>
             <pubDate>Sat, 17 Jan 2026 17:49:37 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=N0gTIxg9l2A</guid>
             <source>Ludo Salenne</source>
+        </item>
+        <item>
+            <title>Python Machine Learning sous Excel avec « xlwings lite »</title>
+            <link>https://www.youtube.com/watch?v=feDNuaLVDLk</link>
+            <description><![CDATA[Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...]]></description>
+            <pubDate>Mon, 22 Dec 2025 15:26:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=feDNuaLVDLk</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Détection des anomalies – Isolation Forest et Local Outlier Factor</title>
+            <link>https://www.youtube.com/watch?v=qCaA6vGDRUw</link>
+            <description><![CDATA[Machine Learning. Data Science. La problématique de la détection des anomalies en machine learning, applicable par exemple ...]]></description>
+            <pubDate>Thu, 15 Jan 2026 09:21:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=qCaA6vGDRUw</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Règles d’association avec KNIME</title>
+            <link>https://www.youtube.com/watch?v=I-L2k_lzopQ</link>
+            <description><![CDATA[Machine learning. Data Mining. Data Science. Extraction des règles d'association à partir de données tabulaires avec le ...]]></description>
+            <pubDate>Wed, 21 Jan 2026 10:01:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=I-L2k_lzopQ</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
             <title>Power BI Desktop Installation TUTO GRATUIT 2025</title>
@@ -45,60 +85,28 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>En 1863, bien avant les ordinateurs, un simple éleveur prédisait déjà la domination des machines et nos angoisses modernes face à l’IA</title>
-            <link>https://dailygeekshow.com/?p=1002340</link>
-            <description><![CDATA[Bien avant les algorithmes, les data centers et les débats sur l’intelligence artificielle, certains esprits observaient déjà un phénomène troublant : la dépendance croissante de l’humanité aux machin...]]></description>
-            <pubDate>Sun, 08 Feb 2026 18:36:00 -0000</pubDate>
-            <guid isPermaLink="true">https://dailygeekshow.com/?p=1002340</guid>
-            <source>Daily Geek Show</source>
+            <title>Intelligence Artificielle, les limites d’un service de base</title>
+            <link>https://www.challenges.fr/idees/intelligence-artificielle-les-limites-dun-service-de-base_639367</link>
+            <description><![CDATA[L’intelligence artificielle promet de tout faire mieux, plus vite et souvent gratuitement. Derrière la prouesse technologique se dessine pourtant une interrogation plus vertigineuse : si les machines ...]]></description>
+            <pubDate>Tue, 10 Feb 2026 05:15:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.challenges.fr/idees/intelligence-artificielle-les-limites-dun-service-de-base_639367</guid>
+            <source>Challenges</source>
         </item>
         <item>
-            <title>Qu&amp;#39;est-ce que Power BI ? (Tuto Intro 2025)</title>
-            <link>https://www.youtube.com/watch?v=wBsvjPNqUco</link>
-            <description><![CDATA[Vous entendez parler de "Data" partout, mais c'est quoi concrètement Power BI ? En 2025, c'est l'outil indispensable pour booster ...]]></description>
-            <pubDate>Tue, 30 Dec 2025 16:00:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=wBsvjPNqUco</guid>
-            <source>BI & Data Pro</source>
+            <title>Free Data Science &amp;amp; Data Analyst Certifications &amp;amp; Projects for Beginners</title>
+            <link>https://www.youtube.com/watch?v=83vJcVT_Mtg</link>
+            <description><![CDATA[In this video, I share the best free Data Science and Data Analyst courses that include real projects and certifications.]]></description>
+            <pubDate>Thu, 18 Dec 2025 03:53:53 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=83vJcVT_Mtg</guid>
+            <source>PySolanki</source>
         </item>
         <item>
-            <title>Connexion entre Python (notebook) et Excel via « xlwings »</title>
-            <link>https://www.youtube.com/watch?v=-ONGM2pg3tc</link>
-            <description><![CDATA[Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...]]></description>
-            <pubDate>Sun, 21 Dec 2025 10:20:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=-ONGM2pg3tc</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>C’est dingue : SQL devient du TailwindCSS</title>
-            <link>https://www.youtube.com/watch?v=zCkmpwGTDmQ</link>
-            <description><![CDATA[Quand le monde du Web va trop loin : voici Tailwind SQL. Un projet totalement fou (et surtout inutilisable sérieusement) qui ...]]></description>
-            <pubDate>Fri, 02 Jan 2026 20:27:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=zCkmpwGTDmQ</guid>
-            <source>Faiz Dev</source>
-        </item>
-        <item>
-            <title>Comprendre le NOUVEAU Google AI Studio en 20 Minutes</title>
-            <link>https://www.youtube.com/watch?v=Z8myUXypozU</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4sMbg4I Rejoins ma communauté ...]]></description>
-            <pubDate>Sun, 18 Jan 2026 16:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z8myUXypozU</guid>
-            <source>Yassine Sdiri</source>
-        </item>
-        <item>
-            <title>J&amp;#39;ai découvert comment MANIPULER l&amp;#39;IA de l&amp;#39;intérieur 🤯</title>
-            <link>https://www.youtube.com/watch?v=IzLc3qk_5LA</link>
-            <description><![CDATA[Vous voulez comprendre comment contrôler l'Intelligence Artificielle de l'intérieur ? Dans cette vidéo, je vous explique TOUT !]]></description>
-            <pubDate>Thu, 29 Jan 2026 14:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=IzLc3qk_5LA</guid>
-            <source>TFMonkey24</source>
-        </item>
-        <item>
-            <title>Tesla premier de la fiabilité en France : « aucune panne récurrente n’est à déplorer »</title>
-            <link>https://www.frandroid.com/marques/tesla/2969999_tesla-premier-de-la-fiabilite-en-france-aucune-panne-recurrente-nest-a-deplorer</link>
-            <description><![CDATA[L'électrique est en train de gagner la guerre de l'endurance. En 2026, Tesla déboule en tête de la fiabilité, cela prouve que moins de pièces mobiles signifie moins de problèmes. Mais attention, tout ...]]></description>
-            <pubDate>Mon, 09 Feb 2026 06:47:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/marques/tesla/2969999_tesla-premier-de-la-fiabilite-en-france-aucune-panne-recurrente-nest-a-deplorer</guid>
-            <source>Frandroid</source>
+            <title>Data Science Full Course 2026 [FREE] | Learn Data Science From Scratch in 24 Hours | Simplilearn</title>
+            <link>https://www.youtube.com/watch?v=QISvmiwOIYI</link>
+            <description><![CDATA[This free Data Science Full Course 2026 is a complete learning path that takes you from basic concepts of Data Science to ...]]></description>
+            <pubDate>Sat, 31 Jan 2026 14:30:19 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=QISvmiwOIYI</guid>
+            <source>Simplilearn</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -125,6 +133,22 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
+            <title>Arrêtez de vous compliquer la vie sur n8n : découvrez Edit Fields</title>
+            <link>https://www.youtube.com/watch?v=Mygw0ihqxv0</link>
+            <description><![CDATA[Découvrez comment transformer, nettoyer et structurer vos données avec le node Edit Fields de n8n — l'un des outils les plus ...]]></description>
+            <pubDate>Thu, 08 Jan 2026 20:01:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Mygw0ihqxv0</guid>
+            <source>netdaf</source>
+        </item>
+        <item>
+            <title>Feature Engineering Hands on (French)</title>
+            <link>https://www.youtube.com/watch?v=VMi18mtBrPE</link>
+            <description><![CDATA[Dans ce tutoriel pratique, vous apprendrez les bases du feature engineering et comment transformer des données brutes en ...]]></description>
+            <pubDate>Sun, 01 Feb 2026 13:41:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=VMi18mtBrPE</guid>
+            <source>Machine Learning and Optimization for All</source>
+        </item>
+        <item>
             <title>2-Data Mining :Arbres de Décision#notebooklm</title>
             <link>https://www.youtube.com/watch?v=_Fe5ju7H5LI</link>
             <description><![CDATA[Introduction au Data Mining Dans cette vidéo, nous expliquons les concepts fondamentaux du Data Mining, ses techniques ...]]></description>
@@ -133,44 +157,20 @@
             <source>AllAboutData</source>
         </item>
         <item>
-            <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
-            <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
-            <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
-            <pubDate>Fri, 09 Jan 2026 17:01:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=gcbiOQCR-O8</guid>
-            <source>WeData</source>
+            <title>STMicroelectronics présente le premier microcontrôleur automobile avec un accélérateur d’IA pour l’intelligence embarquée</title>
+            <link>https://www.globenewswire.com/news-release/2026/02/10/3235030/0/fr/STMicroelectronics-pr%C3%A9sente-le-premier-microcontr%C3%B4leur-automobile-avec-un-acc%C3%A9l%C3%A9rateur-d-IA-pour-l-intelligence-embarqu%C3%A9e.html</link>
+            <description><![CDATA[STMicroelectronics présente le premier microcontrôleur automobile avec un accélérateur d’IA pour l’intelligence embarquée  Le microcontrôleur pour...]]></description>
+            <pubDate>Tue, 10 Feb 2026 07:10:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/02/10/3235030/0/fr/STMicroelectronics-pr%C3%A9sente-le-premier-microcontr%C3%B4leur-automobile-avec-un-acc%C3%A9l%C3%A9rateur-d-IA-pour-l-intelligence-embarqu%C3%A9e.html</guid>
+            <source>GlobeNewswire</source>
         </item>
         <item>
-            <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
-            <link>https://www.youtube.com/watch?v=wNyw2TN8mh0</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Tue, 20 Jan 2026 15:55:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=wNyw2TN8mh0</guid>
-            <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)</title>
-            <link>https://www.youtube.com/watch?v=n5uJWNTs-dQ</link>
-            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
-            <pubDate>Fri, 30 Jan 2026 23:01:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=n5uJWNTs-dQ</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
-            <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
-            <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
-            <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
-            <source>Sébastien Daviot - Expertise Data</source>
-        </item>
-        <item>
-            <title>L’iPad 12 et l’iPad Air 8 arriveraient bientôt</title>
-            <link>https://iphoneaddict.fr/post/news-423306-lipad-12-lipad-air-8-arriveraient</link>
-            <description><![CDATA[Apple lancera prochainement l’iPad 12 et l’iPad Air 8. Ces nouvelles tablettes se concentreront surtout sur des puces plus performantes, sans modification de design ni améliorations majeures, selon Ma...]]></description>
-            <pubDate>Sun, 08 Feb 2026 17:52:32 -0000</pubDate>
-            <guid isPermaLink="true">https://iphoneaddict.fr/post/news-423306-lipad-12-lipad-air-8-arriveraient</guid>
-            <source>Iphoneaddict.fr</source>
+            <title>Data Science Course For Beginners 2026 FREE | Intellipaat</title>
+            <link>https://www.youtube.com/watch?v=th-f5qO389A</link>
+            <description><![CDATA[With this complete Data Science Course For Beginners 2026 FREE, created to guide beginners and career switchers step by step.]]></description>
+            <pubDate>Wed, 31 Dec 2025 10:45:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=th-f5qO389A</guid>
+            <source>Intellipaat</source>
         </item>
     </channel>
 </rss>
