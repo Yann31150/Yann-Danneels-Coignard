@@ -1,6 +1,54 @@
 {
-  "lastUpdate": "2026-02-12T08:54:40.934233",
+  "lastUpdate": "2026-02-13T05:58:03.705942",
   "articles": [
+    {
+      "title": "ChatGPT pour se soigner ? Une étude révèle pourquoi l'interaction humaine fait échouer l'IA",
+      "description": "L'intégration des modèles de langage (LLM) comme \"porte d'entrée\" des soins de santé se heurte à un mur ergonomique. Si GPT-4o ou Llama 3 affichent des scores d'expertise médicale impressionnants, une...",
+      "url": "https://www.zdnet.fr/actualites/chatgpt-pour-se-soigner-une-etude-revele-pourquoi-linteraction-humaine-fait-echouer-lia-490017.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-02-12T01:02:09Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)",
+      "description": "Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...",
+      "url": "https://www.youtube.com/watch?v=p0D5zWVTkUU",
+      "source": "Ludo Salenne",
+      "publishedAt": "2026-01-08T19:12:40Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "p0D5zWVTkUU",
+      "thumbnail": "https://i.ytimg.com/vi/p0D5zWVTkUU/hqdefault.jpg"
+    },
+    {
+      "title": "IA de santé : la riposte française aux ambitions de ChatGPT",
+      "description": "Le lancement de l’agent conversationnel santé d’OpenAI a déclenché une course contre la montre dans la tech française et européenne. L’enjeu : proposer une alternative crédible, sécurisée et souverain...",
+      "url": "https://www.lexpress.fr/sciences-sante/ia-de-sante-la-riposte-francaise-aux-ambitions-de-chatgpt-WR326ELW3NCY5OKFUXRMZMLQMY/",
+      "source": "L'Express",
+      "publishedAt": "2026-02-11T19:00:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)",
+      "description": "L'ÈRE DU LOW-COST IA EST FINIE Passez à la Vision et bâtissez un business réel. Récupérez les ressources, outils ...",
+      "url": "https://www.youtube.com/watch?v=W3ygk9QJ4ks",
+      "source": "Frank Houbre - IA & intelligence artificielle",
+      "publishedAt": "2026-01-22T08:43:47Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "W3ygk9QJ4ks",
+      "thumbnail": "https://i.ytimg.com/vi/W3ygk9QJ4ks/hqdefault.jpg"
+    },
     {
       "title": "J&#39;ai résilié tous mes outils IA (j&#39;ai fabriqué le mien)",
       "description": "Plus de 15 outils IA, 15 abonnements, des onglets partout... ChatGPT, Gemini, Perplexity, Gamma... C'était le gros bordel alors ...",
@@ -12,18 +60,6 @@
       "isYouTube": true,
       "videoId": "N0gTIxg9l2A",
       "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
-    },
-    {
-      "title": "Pourquoi GENESIS représente un authentique changement de paradigme – III. Le logiciel a produit la théorie",
-      "description": "Illustration par ChatGPT\r\n\n6. La découverte\r\n\nLe livre en cours de rédaction : Predicting Persistence and Emergence in Physical and Artificial Systems, rapportera ce que GENESIS a mis au jour. L’ordre...",
-      "url": "https://www.pauljorion.com/blog/2026/02/10/pourquoi-genesis-represente-un-authentique-changement-de-paradigme-iii-le-logiciel-a-produit-la-theorie/",
-      "source": "Pauljorion.com",
-      "publishedAt": "2026-02-10T19:19:22Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Python Machine Learning sous Excel avec « xlwings lite »",
@@ -38,6 +74,18 @@
       "thumbnail": "https://i.ytimg.com/vi/feDNuaLVDLk/hqdefault.jpg"
     },
     {
+      "title": "IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2",
+      "description": "IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2 ...",
+      "url": "https://www.youtube.com/watch?v=xCV8IUkhuXg",
+      "source": "Tutoriels MAO",
+      "publishedAt": "2026-01-14T11:24:17Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "xCV8IUkhuXg",
+      "thumbnail": "https://i.ytimg.com/vi/xCV8IUkhuXg/hqdefault.jpg"
+    },
+    {
       "title": "Power BI Desktop Installation TUTO GRATUIT 2025",
       "description": "BIENVENUE ! Cette vidéo est l'étape #3 de la formation Power BI Pro 2025. Vous avez choisi l'outil, maintenant on l'installe !",
       "url": "https://www.youtube.com/watch?v=FOj5HTd4EAs",
@@ -48,42 +96,6 @@
       "isYouTube": true,
       "videoId": "FOj5HTd4EAs",
       "thumbnail": "https://i.ytimg.com/vi/FOj5HTd4EAs/hqdefault.jpg"
-    },
-    {
-      "title": "Le chômage hausse chez les jeunes : effets délétères de l’intelligence artificielle ?",
-      "description": "Le taux de chômage est en hausse. Au quatrième trimestre 2025, il atteint 7,9%. Les jeunes, entre 15 et 24 ans sont particulièrement concernés. La démocratisation de l'intelligence artificielle menace...",
-      "url": "https://www.journaldugeek.com/2026/02/10/le-chomage-hausse-chez-les-jeunes-effets-deleteres-de-lintelligence-artificielle/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-02-10T15:34:28Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Alexa+ arrive en France : l’intelligence artificielle qui va tout changer ?",
-      "description": "Voici tout ce que va faire pour vous Alexa+, la nouvelle intelligence artificielle signée Amazon.",
-      "url": "https://www.journaldugeek.com/2026/02/10/alexa-arrive-en-france-lintelligence-artificielle-qui-va-tout-changer/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-02-10T17:02:44Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI Performance : Microsoft Bing lance le premier outil officiel de mesure GEO",
-      "description": "Microsoft vient de lancer AI Performance, le tout premier outil officiel permettant aux éditeurs de sites web de mesurer leur visibilité dans les réponses générées par intelligence artificielle. Cette...",
-      "url": "https://www.abondance.com/20260211-1906945-ai-performance-microsoft-bing-lance-le-premier-outil-officiel-de-mesure-geo.html",
-      "source": "Abondance.com",
-      "publishedAt": "2026-02-11T08:33:09Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Qu&#39;est-ce que Power BI ? (Tuto Intro 2025)",
@@ -110,23 +122,23 @@
       "thumbnail": "https://i.ytimg.com/vi/-ONGM2pg3tc/hqdefault.jpg"
     },
     {
-      "title": "Intelligence Artificielle : Le fonds MGX en discussions pour investir dans Anthropic",
-      "description": "Société d'investissement technologique basée à Abu Dhabi, MGX serait en phase finale de négociation pour participer à une importante levée de fonds d'Anthropic.",
-      "url": "https://www.zdnet.fr/actualites/intelligence-artificielle-le-fonds-mgx-en-discussions-pour-investir-dans-anthropic-489894.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-02-11T06:10:53Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "title": "MySQL vs PostgreSQL vs MongoDB : Différences 2026",
+      "description": "SQL ou NoSQL ? Comprendre les différences entre MySQL, PostgreSQL et MongoDB. #dev #data #tech.",
+      "url": "https://www.youtube.com/watch?v=KD53CSQtsHQ",
+      "source": "TechVantage FR",
+      "publishedAt": "2025-12-25T19:39:02Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "KD53CSQtsHQ",
+      "thumbnail": "https://i.ytimg.com/vi/KD53CSQtsHQ/hqdefault.jpg"
     },
     {
-      "title": "Quand l’industrie du gaz de schiste salive devant l’essor des centres de données IA",
-      "description": "Les centres de données stimulent la construction d’installations de production d’électricité utilisant du gaz de schiste. Source : Truthout, Derek SeidmanTraduit par les lecteurs du site Les-Crises Vu...",
-      "url": "https://www.les-crises.fr/quand-l-industrie-du-gaz-de-schiste-salive-devant-l-essor-des-centres-de-donnees-ia/",
-      "source": "Les-crises.fr",
-      "publishedAt": "2026-02-11T05:55:23Z",
+      "title": "Xikipedia - Le TikTok de Wikipedia sans tracking ni IA",
+      "description": "Les algorithmes de recommandation, vous connaissez bien je pense... YouTube, TikTok, Instagram... ces trucs qui vous gardent scotché à l'écran durant des heures en aspirant toutes vos données au passa...",
+      "url": "https://korben.info/xikipedia-wikipedia-feed-algorithmique.html",
+      "source": "Korben.info",
+      "publishedAt": "2026-02-11T14:01:21Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -146,18 +158,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0AJ_fS6kLgg/hqdefault.jpg"
     },
     {
-      "title": "Formation SQL partie 5 : SQL GROUP BY — Comprendre enfin simplement",
-      "description": "Dans cette partie 5 de la formation SQL pour débutants, nous découvrons la commande GROUP BY. Tu apprendras à regrouper ...",
-      "url": "https://www.youtube.com/watch?v=hGbgeWMD4Dc",
-      "source": "MedData -Tech",
-      "publishedAt": "2025-12-24T21:22:41Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "hGbgeWMD4Dc",
-      "thumbnail": "https://i.ytimg.com/vi/hGbgeWMD4Dc/hqdefault.jpg"
-    },
-    {
       "title": "Excel pour l’Analyse des Données — Cours Complet (10h) | Gratuit + Certificat (2026)",
       "description": "Bienvenue dans ce cours complet et gratuit sur Microsoft Excel pour l'Analyse des Données (Version 2026) ! En 10 heures, vous ...",
       "url": "https://www.youtube.com/watch?v=saGefucxol4",
@@ -170,28 +170,16 @@
       "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
     },
     {
-      "title": "Moya, le « premier robot IA biomimétique au monde », dérange par son réalisme",
-      "description": "La société chinoise DroidUp a dévoilé, à Shanghai, Moya, un robot humanoïde présenté comme le premier « robot biomimétique doté d’une IA » entièrement incarnée. Capable de marcher et de reproduire des...",
-      "url": "https://www.aruco.com/robotique/moya-robot-ia-biomimetique-realiste/",
-      "source": "Aruco.com",
-      "publishedAt": "2026-02-10T17:52:05Z",
+      "title": "Feature Engineering Hands on (French)",
+      "description": "Dans ce tutoriel pratique, vous apprendrez les bases du feature engineering et comment transformer des données brutes en ...",
+      "url": "https://www.youtube.com/watch?v=VMi18mtBrPE",
+      "source": "Machine Learning and Optimization for All",
+      "publishedAt": "2026-02-01T13:41:02Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "DBV Technologies présentera des données complémentaires issues de l'étude de phase 3 VITESSE sur le patch VIASKIN® Peanut chez les enfants âgés de 4 à 7 ans et discutera de l'avenir de l'EPIT lors du congrès annuel 2026 de l'AAAAI",
-      "description": "Châtillon, France, le 10 février (22 :30 CET) 2026   DBV Technologies présentera des données complémentaires issues de l'étude de phase 3 VITESSE sur le...",
-      "url": "https://www.globenewswire.com/news-release/2026/02/10/3235812/0/fr/DBV-Technologies-pr%C3%A9sentera-des-donn%C3%A9es-compl%C3%A9mentaires-issues-de-l-%C3%A9tude-de-phase-3-VITESSE-sur-le-patch-VIASKIN-Peanut-chez-les-enfants-%C3%A2g%C3%A9s-de-4-%C3%A0-7-ans-et-discutera-de-l-avenir.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-02-10T21:30:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "VMi18mtBrPE",
+      "thumbnail": "https://i.ytimg.com/vi/VMi18mtBrPE/hqdefault.jpg"
     },
     {
       "title": "2-Data Mining :Arbres de Décision#notebooklm",
@@ -204,18 +192,6 @@
       "isYouTube": true,
       "videoId": "_Fe5ju7H5LI",
       "thumbnail": "https://i.ytimg.com/vi/_Fe5ju7H5LI/hqdefault.jpg"
-    },
-    {
-      "title": "A peine lancé, bientôt condamné ? Le collier IA Friend dans le viseur de la Cnil pour non respect du RGPD",
-      "description": "Le collier connecté Friend promet une présence constante pour rompre la solitude, mais son écoute permanente défie le règlement général sur la protection des données et inquiète sérieusement la Cnil.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1547885-friend-l-ia-qui-vous-ecoute-toujours/",
-      "source": "JDN",
-      "publishedAt": "2026-02-11T06:13:35Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Introduction à Positron: VSCode + RStudio pour la data science",
@@ -242,23 +218,35 @@
       "thumbnail": "https://i.ytimg.com/vi/wNyw2TN8mh0/hqdefault.jpg"
     },
     {
-      "title": "Il existe désormais un site où les IA peuvent louer des humains qui travaillent pour elles !",
-      "description": "Et si votre prochain patron était une intelligence artificielle ? C’est le concept du site RentAHuman qui fait actuellement le buzz, et permet à des IA d’engager des humains pour effectuer les tâches ...",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-il-existe-desormais-site-ia-peuvent-louer-humains-travaillent-elles-131117/",
-      "source": "Futura",
-      "publishedAt": "2026-02-10T19:08:54Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "title": "Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)",
+      "description": "Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...",
+      "url": "https://www.youtube.com/watch?v=qKWTshE6WDI",
+      "source": "Sébastien Daviot - Expertise Data",
+      "publishedAt": "2026-02-08T07:41:39Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "qKWTshE6WDI",
+      "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
-      "title": "IA fantôme : Microsoft met en garde contre les failles de sécurité liées aux agents d’IA",
-      "description": "Alors que plus de 80 % des entreprises du Fortune 500 ont déjà intégré des agents d’intelligence artificielle dans leurs opérations, Microsoft appelle à un sursaut en matière de gouvernance et de cybe...",
-      "url": "https://www.zdnet.fr/actualites/securite-des-agents-ia-microsoft-alerte-et-demande-un-virage-securitaire-489902.htm",
+      "title": "Peut-on faire confiance à LastPass en 2026 ? Dans les coulisses de la reconstruction du gestionnaire de mot de passe",
+      "description": "Après une série de violations de données très médiatisées, le nouveau PDG affirme que la sécurité est désormais au cœur même de ses activités. Ce n'est pas trop tôt !",
+      "url": "https://www.zdnet.fr/actualites/peut-on-faire-confiance-a-lastpass-en-2026-dans-les-coulisses-de-la-reconstruction-du-gestionnaire-de-mot-de-passe-490019.htm",
       "source": "ZDNet France",
-      "publishedAt": "2026-02-11T08:07:09Z",
+      "publishedAt": "2026-02-12T01:02:27Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Yanik Guillemette accélère l'adoption de l'IA au Canada : Déploiement d'un nouveau cadre de résilience chez Accolad",
+      "description": "L’entrepreneur Yanik Guillemette analyse le rôle de l’intelligence artificielle dans la productivité et la résilience de l’économie canadienne....",
+      "url": "https://www.globenewswire.com/news-release/2026/02/11/3236620/0/fr/Yanik-Guillemette-acc%C3%A9l%C3%A8re-l-adoption-de-l-IA-au-Canada-D%C3%A9ploiement-d-un-nouveau-cadre-de-r%C3%A9silience-chez-Accolad.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-02-11T19:35:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "ZD Tech : Voici comment l'IA Claude a pris les commandes du rover Perseverance pour piloter seule sur la planète Mars",
-      "description": "En planifiant seule un itinéraire de 400 mètres dans le cratère Jezero, l'IA d'Anthropic a prouvé qu'elle pouvait transformer des images satellites en trajectoires sécurisées.",
-      "url": "https://www.zdnet.fr/actualites/zd-tech-voici-comment-lia-claude-a-pris-les-commandes-du-rover-perseverance-pour-piloter-seule-sur-la-planete-mars-489701.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-02-11T07:06:35Z",
+      "title": "Dominique Cardon, sociologue : « Les vidéos générées par IA ne font pas disparaître l’intérêt que nous portons au réel »",
+      "description": "Les images et vidéos créées par les outils d’intelligence artificielle deviennent presque banales. Faut-il craindre une altération de notre perception de la réalité ? Ce serait sans compter sur nos ca...",
+      "url": "https://www.lemonde.fr/idees/article/2026/02/11/dominique-cardon-sociologue-les-videos-generees-par-ia-ne-font-pas-disparaitre-l-interet-que-nous-portons-au-reel_6666388_3232.html",
+      "source": "Le Monde",
+      "publishedAt": "2026-02-11T20:00:02Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "IA Gen : Pourquoi Alphabet s’endette sur 100 ans pour ériger son infrastructure",
-      "description": "En émettant une dette rare à 100 ans, le géant de Mountain View sécurise les fonds nécessaires pour transformer son modèle économique d'un éditeur logiciel vers un géant des infrastructures physiques.",
-      "url": "https://www.zdnet.fr/actualites/ia-gen-pourquoi-alphabet-sendette-sur-100-ans-pour-eriger-son-infrastructure-489908.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-02-11T08:07:09Z",
+      "title": "L’EC-Council, leader mondial de la formation et de l’éducation en cybersécurité, élargit son portefeuille de certifications en IA alors que la France intensifie ses efforts en matière de compétences en IA et d’adoption fiable dans le cadre de France 2030",
+      "description": "Conformément à la stratégie nationale française en matière d’IA et à l’investissement de France 2030 dans l’éducation à l’IA, les quatre nouvelles certifications en IA et la certification CISO v4 de l...",
+      "url": "https://www.globenewswire.com/news-release/2026/02/12/3236812/0/fr/L-EC-Council-leader-mondial-de-la-formation-et-de-l-%C3%A9ducation-en-cybers%C3%A9curit%C3%A9-%C3%A9largit-son-portefeuille-de-certifications-en-IA-alors-que-la-France-intensifie-ses-efforts-en-mati%C3%A8r.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-02-12T01:21:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,16 +278,28 @@
       "thumbnail": ""
     },
     {
-      "title": "L’avancement du projet logistique d’ADMCS inquiète des centaines d’investisseurs alsaciens",
-      "description": "La start-up alsacienne ADMCS promettait de transformer la logistique grâce à la blockchain. C’était en 2020. Six ans plus tard, le site d’Ittenheim (Bas-Rhin) présenté comme pilote, reste inoccupé. Ta...",
-      "url": "https://www.lejournaldesentreprises.com/article/lavancement-du-projet-logistique-dadmcs-inquiete-des-centaines-dinvestisseurs-alsaciens-2136650",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-02-11T08:00:00Z",
+      "title": "Apple reculerait une bonne partie des nouveautés de Siri à iOS 26.5",
+      "description": "Si iOS 26.3 est sortie ce soir, ce n’est pas pour autant la version que tout le monde attend de pied ferme : depuis le temps que tout le monde s’accorde à voir le nouveau Siri boosté à l’intelligence ...",
+      "url": "https://www.igen.fr/ios/2026/02/apple-reculerait-une-bonne-partie-des-nouveautes-de-siri-ios-265-154755",
+      "source": "iGeneration",
+      "publishedAt": "2026-02-11T21:30:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "Les théories d&#39;apprentissage5: le connectivisme",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Gob2goPLZBs",
+      "source": "Apprendre le français ",
+      "publishedAt": "2026-01-07T17:44:15Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Gob2goPLZBs",
+      "thumbnail": "https://i.ytimg.com/vi/Gob2goPLZBs/hqdefault.jpg"
     }
   ]
 }

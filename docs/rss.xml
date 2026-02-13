@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 12 Feb 2026 08:54:40 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 05:58:03 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,24 +13,44 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
+            <title>ChatGPT pour se soigner ? Une étude révèle pourquoi l'interaction humaine fait échouer l'IA</title>
+            <link>https://www.zdnet.fr/actualites/chatgpt-pour-se-soigner-une-etude-revele-pourquoi-linteraction-humaine-fait-echouer-lia-490017.htm</link>
+            <description><![CDATA[L'intégration des modèles de langage (LLM) comme "porte d'entrée" des soins de santé se heurte à un mur ergonomique. Si GPT-4o ou Llama 3 affichent des scores d'expertise médicale impressionnants, une...]]></description>
+            <pubDate>Thu, 12 Feb 2026 01:02:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/chatgpt-pour-se-soigner-une-etude-revele-pourquoi-linteraction-humaine-fait-echouer-lia-490017.htm</guid>
+            <source>ZDNet France</source>
+        </item>
+        <item>
+            <title>22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)</title>
+            <link>https://www.youtube.com/watch?v=p0D5zWVTkUU</link>
+            <description><![CDATA[Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...]]></description>
+            <pubDate>Thu, 08 Jan 2026 19:12:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=p0D5zWVTkUU</guid>
+            <source>Ludo Salenne</source>
+        </item>
+        <item>
+            <title>IA de santé : la riposte française aux ambitions de ChatGPT</title>
+            <link>https://www.lexpress.fr/sciences-sante/ia-de-sante-la-riposte-francaise-aux-ambitions-de-chatgpt-WR326ELW3NCY5OKFUXRMZMLQMY/</link>
+            <description><![CDATA[Le lancement de l’agent conversationnel santé d’OpenAI a déclenché une course contre la montre dans la tech française et européenne. L’enjeu : proposer une alternative crédible, sécurisée et souverain...]]></description>
+            <pubDate>Wed, 11 Feb 2026 19:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lexpress.fr/sciences-sante/ia-de-sante-la-riposte-francaise-aux-ambitions-de-chatgpt-WR326ELW3NCY5OKFUXRMZMLQMY/</guid>
+            <source>L'Express</source>
+        </item>
+        <item>
+            <title>Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)</title>
+            <link>https://www.youtube.com/watch?v=W3ygk9QJ4ks</link>
+            <description><![CDATA[L'ÈRE DU LOW-COST IA EST FINIE Passez à la Vision et bâtissez un business réel. Récupérez les ressources, outils ...]]></description>
+            <pubDate>Thu, 22 Jan 2026 08:43:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=W3ygk9QJ4ks</guid>
+            <source>Frank Houbre - IA & intelligence artificielle</source>
+        </item>
+        <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
             <link>https://www.youtube.com/watch?v=N0gTIxg9l2A</link>
             <description><![CDATA[Plus de 15 outils IA, 15 abonnements, des onglets partout... ChatGPT, Gemini, Perplexity, Gamma... C'était le gros bordel alors ...]]></description>
             <pubDate>Sat, 17 Jan 2026 17:49:37 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=N0gTIxg9l2A</guid>
             <source>Ludo Salenne</source>
-        </item>
-        <item>
-            <title>Pourquoi GENESIS représente un authentique changement de paradigme – III. Le logiciel a produit la théorie</title>
-            <link>https://www.pauljorion.com/blog/2026/02/10/pourquoi-genesis-represente-un-authentique-changement-de-paradigme-iii-le-logiciel-a-produit-la-theorie/</link>
-            <description><![CDATA[Illustration par ChatGPT
-
-6. La découverte
-
-Le livre en cours de rédaction : Predicting Persistence and Emergence in Physical and Artificial Systems, rapportera ce que GENESIS a mis au jour. L’ordre...]]></description>
-            <pubDate>Tue, 10 Feb 2026 19:19:22 -0000</pubDate>
-            <guid isPermaLink="true">https://www.pauljorion.com/blog/2026/02/10/pourquoi-genesis-represente-un-authentique-changement-de-paradigme-iii-le-logiciel-a-produit-la-theorie/</guid>
-            <source>Pauljorion.com</source>
         </item>
         <item>
             <title>Python Machine Learning sous Excel avec « xlwings lite »</title>
@@ -41,36 +61,20 @@ Le livre en cours de rédaction : Predicting Persistence and Emergence in Physic
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
+            <title>IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2</title>
+            <link>https://www.youtube.com/watch?v=xCV8IUkhuXg</link>
+            <description><![CDATA[IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2 ...]]></description>
+            <pubDate>Wed, 14 Jan 2026 11:24:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=xCV8IUkhuXg</guid>
+            <source>Tutoriels MAO</source>
+        </item>
+        <item>
             <title>Power BI Desktop Installation TUTO GRATUIT 2025</title>
             <link>https://www.youtube.com/watch?v=FOj5HTd4EAs</link>
             <description><![CDATA[BIENVENUE ! Cette vidéo est l'étape #3 de la formation Power BI Pro 2025. Vous avez choisi l'outil, maintenant on l'installe !]]></description>
             <pubDate>Tue, 30 Dec 2025 17:11:13 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=FOj5HTd4EAs</guid>
             <source>BI & Data Pro</source>
-        </item>
-        <item>
-            <title>Le chômage hausse chez les jeunes : effets délétères de l’intelligence artificielle ?</title>
-            <link>https://www.journaldugeek.com/2026/02/10/le-chomage-hausse-chez-les-jeunes-effets-deleteres-de-lintelligence-artificielle/</link>
-            <description><![CDATA[Le taux de chômage est en hausse. Au quatrième trimestre 2025, il atteint 7,9%. Les jeunes, entre 15 et 24 ans sont particulièrement concernés. La démocratisation de l'intelligence artificielle menace...]]></description>
-            <pubDate>Tue, 10 Feb 2026 15:34:28 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/02/10/le-chomage-hausse-chez-les-jeunes-effets-deleteres-de-lintelligence-artificielle/</guid>
-            <source>Journal du geek</source>
-        </item>
-        <item>
-            <title>Alexa+ arrive en France : l’intelligence artificielle qui va tout changer ?</title>
-            <link>https://www.journaldugeek.com/2026/02/10/alexa-arrive-en-france-lintelligence-artificielle-qui-va-tout-changer/</link>
-            <description><![CDATA[Voici tout ce que va faire pour vous Alexa+, la nouvelle intelligence artificielle signée Amazon.]]></description>
-            <pubDate>Tue, 10 Feb 2026 17:02:44 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/02/10/alexa-arrive-en-france-lintelligence-artificielle-qui-va-tout-changer/</guid>
-            <source>Journal du geek</source>
-        </item>
-        <item>
-            <title>AI Performance : Microsoft Bing lance le premier outil officiel de mesure GEO</title>
-            <link>https://www.abondance.com/20260211-1906945-ai-performance-microsoft-bing-lance-le-premier-outil-officiel-de-mesure-geo.html</link>
-            <description><![CDATA[Microsoft vient de lancer AI Performance, le tout premier outil officiel permettant aux éditeurs de sites web de mesurer leur visibilité dans les réponses générées par intelligence artificielle. Cette...]]></description>
-            <pubDate>Wed, 11 Feb 2026 08:33:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.abondance.com/20260211-1906945-ai-performance-microsoft-bing-lance-le-premier-outil-officiel-de-mesure-geo.html</guid>
-            <source>Abondance.com</source>
         </item>
         <item>
             <title>Qu&amp;#39;est-ce que Power BI ? (Tuto Intro 2025)</title>
@@ -89,20 +93,20 @@ Le livre en cours de rédaction : Predicting Persistence and Emergence in Physic
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Intelligence Artificielle : Le fonds MGX en discussions pour investir dans Anthropic</title>
-            <link>https://www.zdnet.fr/actualites/intelligence-artificielle-le-fonds-mgx-en-discussions-pour-investir-dans-anthropic-489894.htm</link>
-            <description><![CDATA[Société d'investissement technologique basée à Abu Dhabi, MGX serait en phase finale de négociation pour participer à une importante levée de fonds d'Anthropic.]]></description>
-            <pubDate>Wed, 11 Feb 2026 06:10:53 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/intelligence-artificielle-le-fonds-mgx-en-discussions-pour-investir-dans-anthropic-489894.htm</guid>
-            <source>ZDNet France</source>
+            <title>MySQL vs PostgreSQL vs MongoDB : Différences 2026</title>
+            <link>https://www.youtube.com/watch?v=KD53CSQtsHQ</link>
+            <description><![CDATA[SQL ou NoSQL ? Comprendre les différences entre MySQL, PostgreSQL et MongoDB. #dev #data #tech.]]></description>
+            <pubDate>Thu, 25 Dec 2025 19:39:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=KD53CSQtsHQ</guid>
+            <source>TechVantage FR</source>
         </item>
         <item>
-            <title>Quand l’industrie du gaz de schiste salive devant l’essor des centres de données IA</title>
-            <link>https://www.les-crises.fr/quand-l-industrie-du-gaz-de-schiste-salive-devant-l-essor-des-centres-de-donnees-ia/</link>
-            <description><![CDATA[Les centres de données stimulent la construction d’installations de production d’électricité utilisant du gaz de schiste. Source : Truthout, Derek SeidmanTraduit par les lecteurs du site Les-Crises Vu...]]></description>
-            <pubDate>Wed, 11 Feb 2026 05:55:23 -0000</pubDate>
-            <guid isPermaLink="true">https://www.les-crises.fr/quand-l-industrie-du-gaz-de-schiste-salive-devant-l-essor-des-centres-de-donnees-ia/</guid>
-            <source>Les-crises.fr</source>
+            <title>Xikipedia - Le TikTok de Wikipedia sans tracking ni IA</title>
+            <link>https://korben.info/xikipedia-wikipedia-feed-algorithmique.html</link>
+            <description><![CDATA[Les algorithmes de recommandation, vous connaissez bien je pense... YouTube, TikTok, Instagram... ces trucs qui vous gardent scotché à l'écran durant des heures en aspirant toutes vos données au passa...]]></description>
+            <pubDate>Wed, 11 Feb 2026 14:01:21 -0000</pubDate>
+            <guid isPermaLink="true">https://korben.info/xikipedia-wikipedia-feed-algorithmique.html</guid>
+            <source>Korben.info</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -113,14 +117,6 @@ Le livre en cours de rédaction : Predicting Persistence and Emergence in Physic
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Formation SQL partie 5 : SQL GROUP BY — Comprendre enfin simplement</title>
-            <link>https://www.youtube.com/watch?v=hGbgeWMD4Dc</link>
-            <description><![CDATA[Dans cette partie 5 de la formation SQL pour débutants, nous découvrons la commande GROUP BY. Tu apprendras à regrouper ...]]></description>
-            <pubDate>Wed, 24 Dec 2025 21:22:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=hGbgeWMD4Dc</guid>
-            <source>MedData -Tech</source>
-        </item>
-        <item>
             <title>Excel pour l’Analyse des Données — Cours Complet (10h) | Gratuit + Certificat (2026)</title>
             <link>https://www.youtube.com/watch?v=saGefucxol4</link>
             <description><![CDATA[Bienvenue dans ce cours complet et gratuit sur Microsoft Excel pour l'Analyse des Données (Version 2026) ! En 10 heures, vous ...]]></description>
@@ -129,20 +125,12 @@ Le livre en cours de rédaction : Predicting Persistence and Emergence in Physic
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Moya, le « premier robot IA biomimétique au monde », dérange par son réalisme</title>
-            <link>https://www.aruco.com/robotique/moya-robot-ia-biomimetique-realiste/</link>
-            <description><![CDATA[La société chinoise DroidUp a dévoilé, à Shanghai, Moya, un robot humanoïde présenté comme le premier « robot biomimétique doté d’une IA » entièrement incarnée. Capable de marcher et de reproduire des...]]></description>
-            <pubDate>Tue, 10 Feb 2026 17:52:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.aruco.com/robotique/moya-robot-ia-biomimetique-realiste/</guid>
-            <source>Aruco.com</source>
-        </item>
-        <item>
-            <title>DBV Technologies présentera des données complémentaires issues de l'étude de phase 3 VITESSE sur le patch VIASKIN® Peanut chez les enfants âgés de 4 à 7 ans et discutera de l'avenir de l'EPIT lors du congrès annuel 2026 de l'AAAAI</title>
-            <link>https://www.globenewswire.com/news-release/2026/02/10/3235812/0/fr/DBV-Technologies-pr%C3%A9sentera-des-donn%C3%A9es-compl%C3%A9mentaires-issues-de-l-%C3%A9tude-de-phase-3-VITESSE-sur-le-patch-VIASKIN-Peanut-chez-les-enfants-%C3%A2g%C3%A9s-de-4-%C3%A0-7-ans-et-discutera-de-l-avenir.html</link>
-            <description><![CDATA[Châtillon, France, le 10 février (22 :30 CET) 2026   DBV Technologies présentera des données complémentaires issues de l'étude de phase 3 VITESSE sur le...]]></description>
-            <pubDate>Tue, 10 Feb 2026 21:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/02/10/3235812/0/fr/DBV-Technologies-pr%C3%A9sentera-des-donn%C3%A9es-compl%C3%A9mentaires-issues-de-l-%C3%A9tude-de-phase-3-VITESSE-sur-le-patch-VIASKIN-Peanut-chez-les-enfants-%C3%A2g%C3%A9s-de-4-%C3%A0-7-ans-et-discutera-de-l-avenir.html</guid>
-            <source>GlobeNewswire</source>
+            <title>Feature Engineering Hands on (French)</title>
+            <link>https://www.youtube.com/watch?v=VMi18mtBrPE</link>
+            <description><![CDATA[Dans ce tutoriel pratique, vous apprendrez les bases du feature engineering et comment transformer des données brutes en ...]]></description>
+            <pubDate>Sun, 01 Feb 2026 13:41:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=VMi18mtBrPE</guid>
+            <source>Machine Learning and Optimization for All</source>
         </item>
         <item>
             <title>2-Data Mining :Arbres de Décision#notebooklm</title>
@@ -151,14 +139,6 @@ Le livre en cours de rédaction : Predicting Persistence and Emergence in Physic
             <pubDate>Thu, 25 Dec 2025 00:02:20 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=_Fe5ju7H5LI</guid>
             <source>AllAboutData</source>
-        </item>
-        <item>
-            <title>A peine lancé, bientôt condamné ? Le collier IA Friend dans le viseur de la Cnil pour non respect du RGPD</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1547885-friend-l-ia-qui-vous-ecoute-toujours/</link>
-            <description><![CDATA[Le collier connecté Friend promet une présence constante pour rompre la solitude, mais son écoute permanente défie le règlement général sur la protection des données et inquiète sérieusement la Cnil.]]></description>
-            <pubDate>Wed, 11 Feb 2026 06:13:35 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1547885-friend-l-ia-qui-vous-ecoute-toujours/</guid>
-            <source>JDN</source>
         </item>
         <item>
             <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
@@ -175,6 +155,22 @@ Le livre en cours de rédaction : Predicting Persistence and Emergence in Physic
             <pubDate>Tue, 20 Jan 2026 15:55:42 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=wNyw2TN8mh0</guid>
             <source>Le Decodeur</source>
+        </item>
+        <item>
+            <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
+            <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
+            <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
+            <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
+            <source>Sébastien Daviot - Expertise Data</source>
+        </item>
+        <item>
+            <title>Peut-on faire confiance à LastPass en 2026 ? Dans les coulisses de la reconstruction du gestionnaire de mot de passe</title>
+            <link>https://www.zdnet.fr/actualites/peut-on-faire-confiance-a-lastpass-en-2026-dans-les-coulisses-de-la-reconstruction-du-gestionnaire-de-mot-de-passe-490019.htm</link>
+            <description><![CDATA[Après une série de violations de données très médiatisées, le nouveau PDG affirme que la sécurité est désormais au cœur même de ses activités. Ce n'est pas trop tôt !]]></description>
+            <pubDate>Thu, 12 Feb 2026 01:02:27 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/peut-on-faire-confiance-a-lastpass-en-2026-dans-les-coulisses-de-la-reconstruction-du-gestionnaire-de-mot-de-passe-490019.htm</guid>
+            <source>ZDNet France</source>
         </item>
     </channel>
 </rss>
