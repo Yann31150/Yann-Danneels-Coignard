@@ -5,45 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 13 Feb 2026 05:58:03 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 08:51:56 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>ChatGPT pour se soigner ? Une étude révèle pourquoi l'interaction humaine fait échouer l'IA</title>
-            <link>https://www.zdnet.fr/actualites/chatgpt-pour-se-soigner-une-etude-revele-pourquoi-linteraction-humaine-fait-echouer-lia-490017.htm</link>
-            <description><![CDATA[L'intégration des modèles de langage (LLM) comme "porte d'entrée" des soins de santé se heurte à un mur ergonomique. Si GPT-4o ou Llama 3 affichent des scores d'expertise médicale impressionnants, une...]]></description>
-            <pubDate>Thu, 12 Feb 2026 01:02:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/chatgpt-pour-se-soigner-une-etude-revele-pourquoi-linteraction-humaine-fait-echouer-lia-490017.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
-            <title>22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)</title>
-            <link>https://www.youtube.com/watch?v=p0D5zWVTkUU</link>
-            <description><![CDATA[Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...]]></description>
-            <pubDate>Thu, 08 Jan 2026 19:12:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=p0D5zWVTkUU</guid>
-            <source>Ludo Salenne</source>
-        </item>
-        <item>
-            <title>IA de santé : la riposte française aux ambitions de ChatGPT</title>
-            <link>https://www.lexpress.fr/sciences-sante/ia-de-sante-la-riposte-francaise-aux-ambitions-de-chatgpt-WR326ELW3NCY5OKFUXRMZMLQMY/</link>
-            <description><![CDATA[Le lancement de l’agent conversationnel santé d’OpenAI a déclenché une course contre la montre dans la tech française et européenne. L’enjeu : proposer une alternative crédible, sécurisée et souverain...]]></description>
-            <pubDate>Wed, 11 Feb 2026 19:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lexpress.fr/sciences-sante/ia-de-sante-la-riposte-francaise-aux-ambitions-de-chatgpt-WR326ELW3NCY5OKFUXRMZMLQMY/</guid>
-            <source>L'Express</source>
-        </item>
-        <item>
-            <title>Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)</title>
-            <link>https://www.youtube.com/watch?v=W3ygk9QJ4ks</link>
-            <description><![CDATA[L'ÈRE DU LOW-COST IA EST FINIE Passez à la Vision et bâtissez un business réel. Récupérez les ressources, outils ...]]></description>
-            <pubDate>Thu, 22 Jan 2026 08:43:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=W3ygk9QJ4ks</guid>
-            <source>Frank Houbre - IA & intelligence artificielle</source>
-        </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
             <link>https://www.youtube.com/watch?v=N0gTIxg9l2A</link>
@@ -53,20 +21,12 @@
             <source>Ludo Salenne</source>
         </item>
         <item>
-            <title>Python Machine Learning sous Excel avec « xlwings lite »</title>
-            <link>https://www.youtube.com/watch?v=feDNuaLVDLk</link>
-            <description><![CDATA[Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...]]></description>
-            <pubDate>Mon, 22 Dec 2025 15:26:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=feDNuaLVDLk</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2</title>
-            <link>https://www.youtube.com/watch?v=xCV8IUkhuXg</link>
-            <description><![CDATA[IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2 ...]]></description>
-            <pubDate>Wed, 14 Jan 2026 11:24:17 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=xCV8IUkhuXg</guid>
-            <source>Tutoriels MAO</source>
+            <title>La publicité conversationnelle : nouveau paradigme ou fausse révolution ?</title>
+            <link>https://www.blogdumoderateur.com/publicite-conversationnelle-nouveau-paradigme-fausse-revolution/</link>
+            <description><![CDATA[OpenAI intègre la publicité dans ChatGPT. Les utilisateurs s'insurgent, les annonceurs hésitent, Google avance autrement. Thibaut Lièvremont, Head of Media &amp; Data chez Orixa, décrypte ce tournant et s...]]></description>
+            <pubDate>Thu, 12 Feb 2026 08:40:48 -0000</pubDate>
+            <guid isPermaLink="true">https://www.blogdumoderateur.com/publicite-conversationnelle-nouveau-paradigme-fausse-revolution/</guid>
+            <source>Blogdumoderateur.com</source>
         </item>
         <item>
             <title>Power BI Desktop Installation TUTO GRATUIT 2025</title>
@@ -85,6 +45,22 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
+            <title>Pourquoi Mistral AI investit 1,2 milliard d’euros dans un data center en Suède ?</title>
+            <link>https://www.numerama.com/tech/2177979-pourquoi-mistral-ai-investit-12-milliard-deuros-dans-un-data-center-en-suede.html</link>
+            <description><![CDATA[Mistral AI s'allie à l'entreprise suédoise EcoDataCenter pour mettre au point un centre de données en Suède au nom de la souveraineté européenne en matière d'intelligence artificielle. Un projet qui s...]]></description>
+            <pubDate>Thu, 12 Feb 2026 07:32:10 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/tech/2177979-pourquoi-mistral-ai-investit-12-milliard-deuros-dans-un-data-center-en-suede.html</guid>
+            <source>Numerama</source>
+        </item>
+        <item>
+            <title>CNC : Le plan « vertueux » pro-IA pour le jeu vidéo qui fait grincer les dents des créateurs</title>
+            <link>https://www.gamekult.com/actualite/cnc-le-plan-vertueux-pro-ia-pour-le-jeu-video-qui-fait-grincer-les-dents-des-createurs-3050868382.html</link>
+            <description><![CDATA[Le CNC semble avoir franchi le Rubicon de l’IA générative. En lançant un programme d'accompagnement pour les résidences d'écriture et de création soutenue par l'intelligence artificielle, l'organisme ...]]></description>
+            <pubDate>Thu, 12 Feb 2026 08:09:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.gamekult.com/actualite/cnc-le-plan-vertueux-pro-ia-pour-le-jeu-video-qui-fait-grincer-les-dents-des-createurs-3050868382.html</guid>
+            <source>Gamekult</source>
+        </item>
+        <item>
             <title>Connexion entre Python (notebook) et Excel via « xlwings »</title>
             <link>https://www.youtube.com/watch?v=-ONGM2pg3tc</link>
             <description><![CDATA[Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...]]></description>
@@ -93,12 +69,28 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>MySQL vs PostgreSQL vs MongoDB : Différences 2026</title>
-            <link>https://www.youtube.com/watch?v=KD53CSQtsHQ</link>
-            <description><![CDATA[SQL ou NoSQL ? Comprendre les différences entre MySQL, PostgreSQL et MongoDB. #dev #data #tech.]]></description>
-            <pubDate>Thu, 25 Dec 2025 19:39:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=KD53CSQtsHQ</guid>
-            <source>TechVantage FR</source>
+            <title>Apple et Q.ai : et si le futur des AirPods passait par la lecture labiale ?</title>
+            <link>https://www.watchgeneration.fr/audio/2026/02/apple-et-qai-et-si-le-futur-des-airpods-passait-par-la-lecture-labiale-19327</link>
+            <description><![CDATA[Fin janvier, Apple a fait chauffer la carte de crédit. La firme de Cupertino a jeté son dévolu sur Q.ai, une start-up israélienne, pour un montant de 2 milliards de dollars. Un record, ou presque, pou...]]></description>
+            <pubDate>Wed, 11 Feb 2026 06:20:20 -0000</pubDate>
+            <guid isPermaLink="true">https://www.watchgeneration.fr/audio/2026/02/apple-et-qai-et-si-le-futur-des-airpods-passait-par-la-lecture-labiale-19327</guid>
+            <source>Watchgeneration.fr</source>
+        </item>
+        <item>
+            <title>Comprendre le NOUVEAU Google AI Studio en 20 Minutes</title>
+            <link>https://www.youtube.com/watch?v=Z8myUXypozU</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4sMbg4I Rejoins ma communauté ...]]></description>
+            <pubDate>Sun, 18 Jan 2026 16:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z8myUXypozU</guid>
+            <source>Yassine Sdiri</source>
+        </item>
+        <item>
+            <title>Nvidia et AMD devraient s’inquiéter : Qualcomm et Samsung préparent une nouvelle RAM qui change la donne</title>
+            <link>https://www.tomshardware.fr/nvidia-et-amd-devraient-sinquieter-qualcomm-et-samsung-preparent-une-nouvelle-ram-qui-change-la-donne/</link>
+            <description><![CDATA[Samsung a débuté la livraison d'échantillons de mémoire LPDDR6X à Qualcomm pour le développement de son futur accélérateur d'IA « AI250 », dont la capacité mémoire devrait dépasser 1 To pour une dispo...]]></description>
+            <pubDate>Thu, 12 Feb 2026 08:33:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.tomshardware.fr/nvidia-et-amd-devraient-sinquieter-qualcomm-et-samsung-preparent-une-nouvelle-ram-qui-change-la-donne/</guid>
+            <source>Tomshardware.fr</source>
         </item>
         <item>
             <title>Xikipedia - Le TikTok de Wikipedia sans tracking ni IA</title>
@@ -117,6 +109,14 @@
             <source>EvoluNoob</source>
         </item>
         <item>
+            <title>Formation SQL partie 5 : SQL GROUP BY — Comprendre enfin simplement</title>
+            <link>https://www.youtube.com/watch?v=hGbgeWMD4Dc</link>
+            <description><![CDATA[Dans cette partie 5 de la formation SQL pour débutants, nous découvrons la commande GROUP BY. Tu apprendras à regrouper ...]]></description>
+            <pubDate>Wed, 24 Dec 2025 21:22:41 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=hGbgeWMD4Dc</guid>
+            <source>MedData -Tech</source>
+        </item>
+        <item>
             <title>Excel pour l’Analyse des Données — Cours Complet (10h) | Gratuit + Certificat (2026)</title>
             <link>https://www.youtube.com/watch?v=saGefucxol4</link>
             <description><![CDATA[Bienvenue dans ce cours complet et gratuit sur Microsoft Excel pour l'Analyse des Données (Version 2026) ! En 10 heures, vous ...]]></description>
@@ -133,12 +133,28 @@
             <source>Machine Learning and Optimization for All</source>
         </item>
         <item>
+            <title>Une première mondiale : un opérateur mobile lance la traduction instantanée des appels grâce à l’IA</title>
+            <link>https://www.presse-citron.net/premiere-mondiale-operateur-mobile-lance-traduction-instantanee-appels-ia/</link>
+            <description><![CDATA[S’il existe déjà des applications qui traduisent les appels en temps réel, l’opérateur américain T-Mobile annonce l’intégration de cette fonctionnalité à son réseau. Il s’agit d’une première mondiale,...]]></description>
+            <pubDate>Thu, 12 Feb 2026 06:31:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/premiere-mondiale-operateur-mobile-lance-traduction-instantanee-appels-ia/</guid>
+            <source>Presse-citron</source>
+        </item>
+        <item>
             <title>2-Data Mining :Arbres de Décision#notebooklm</title>
             <link>https://www.youtube.com/watch?v=_Fe5ju7H5LI</link>
             <description><![CDATA[Introduction au Data Mining Dans cette vidéo, nous expliquons les concepts fondamentaux du Data Mining, ses techniques ...]]></description>
             <pubDate>Thu, 25 Dec 2025 00:02:20 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=_Fe5ju7H5LI</guid>
             <source>AllAboutData</source>
+        </item>
+        <item>
+            <title>Formation SQL PARTIE 6 - HAVING</title>
+            <link>https://www.youtube.com/watch?v=bgN8YayL7vM</link>
+            <description><![CDATA[Dans cette partie 5 de la formation SQL, nous expliquons la commande HAVING. Tu comprendras la différence entre WHERE et ...]]></description>
+            <pubDate>Wed, 24 Dec 2025 22:32:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=bgN8YayL7vM</guid>
+            <source>MedData -Tech</source>
         </item>
         <item>
             <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
@@ -155,22 +171,6 @@
             <pubDate>Tue, 20 Jan 2026 15:55:42 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=wNyw2TN8mh0</guid>
             <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
-            <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
-            <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
-            <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
-            <source>Sébastien Daviot - Expertise Data</source>
-        </item>
-        <item>
-            <title>Peut-on faire confiance à LastPass en 2026 ? Dans les coulisses de la reconstruction du gestionnaire de mot de passe</title>
-            <link>https://www.zdnet.fr/actualites/peut-on-faire-confiance-a-lastpass-en-2026-dans-les-coulisses-de-la-reconstruction-du-gestionnaire-de-mot-de-passe-490019.htm</link>
-            <description><![CDATA[Après une série de violations de données très médiatisées, le nouveau PDG affirme que la sécurité est désormais au cœur même de ses activités. Ce n'est pas trop tôt !]]></description>
-            <pubDate>Thu, 12 Feb 2026 01:02:27 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/peut-on-faire-confiance-a-lastpass-en-2026-dans-les-coulisses-de-la-reconstruction-du-gestionnaire-de-mot-de-passe-490019.htm</guid>
-            <source>ZDNet France</source>
         </item>
     </channel>
 </rss>

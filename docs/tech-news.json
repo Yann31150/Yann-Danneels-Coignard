@@ -1,54 +1,6 @@
 {
-  "lastUpdate": "2026-02-13T05:58:03.705942",
+  "lastUpdate": "2026-02-13T08:51:56.468971",
   "articles": [
-    {
-      "title": "ChatGPT pour se soigner ? Une étude révèle pourquoi l'interaction humaine fait échouer l'IA",
-      "description": "L'intégration des modèles de langage (LLM) comme \"porte d'entrée\" des soins de santé se heurte à un mur ergonomique. Si GPT-4o ou Llama 3 affichent des scores d'expertise médicale impressionnants, une...",
-      "url": "https://www.zdnet.fr/actualites/chatgpt-pour-se-soigner-une-etude-revele-pourquoi-linteraction-humaine-fait-echouer-lia-490017.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-02-12T01:02:09Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)",
-      "description": "Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...",
-      "url": "https://www.youtube.com/watch?v=p0D5zWVTkUU",
-      "source": "Ludo Salenne",
-      "publishedAt": "2026-01-08T19:12:40Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "p0D5zWVTkUU",
-      "thumbnail": "https://i.ytimg.com/vi/p0D5zWVTkUU/hqdefault.jpg"
-    },
-    {
-      "title": "IA de santé : la riposte française aux ambitions de ChatGPT",
-      "description": "Le lancement de l’agent conversationnel santé d’OpenAI a déclenché une course contre la montre dans la tech française et européenne. L’enjeu : proposer une alternative crédible, sécurisée et souverain...",
-      "url": "https://www.lexpress.fr/sciences-sante/ia-de-sante-la-riposte-francaise-aux-ambitions-de-chatgpt-WR326ELW3NCY5OKFUXRMZMLQMY/",
-      "source": "L'Express",
-      "publishedAt": "2026-02-11T19:00:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)",
-      "description": "L'ÈRE DU LOW-COST IA EST FINIE Passez à la Vision et bâtissez un business réel. Récupérez les ressources, outils ...",
-      "url": "https://www.youtube.com/watch?v=W3ygk9QJ4ks",
-      "source": "Frank Houbre - IA & intelligence artificielle",
-      "publishedAt": "2026-01-22T08:43:47Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "W3ygk9QJ4ks",
-      "thumbnail": "https://i.ytimg.com/vi/W3ygk9QJ4ks/hqdefault.jpg"
-    },
     {
       "title": "J&#39;ai résilié tous mes outils IA (j&#39;ai fabriqué le mien)",
       "description": "Plus de 15 outils IA, 15 abonnements, des onglets partout... ChatGPT, Gemini, Perplexity, Gamma... C'était le gros bordel alors ...",
@@ -62,28 +14,16 @@
       "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
     },
     {
-      "title": "Python Machine Learning sous Excel avec « xlwings lite »",
-      "description": "Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...",
-      "url": "https://www.youtube.com/watch?v=feDNuaLVDLk",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2025-12-22T15:26:03Z",
+      "title": "La publicité conversationnelle : nouveau paradigme ou fausse révolution ?",
+      "description": "OpenAI intègre la publicité dans ChatGPT. Les utilisateurs s'insurgent, les annonceurs hésitent, Google avance autrement. Thibaut Lièvremont, Head of Media & Data chez Orixa, décrypte ce tournant et s...",
+      "url": "https://www.blogdumoderateur.com/publicite-conversationnelle-nouveau-paradigme-fausse-revolution/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-02-12T08:40:48Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "feDNuaLVDLk",
-      "thumbnail": "https://i.ytimg.com/vi/feDNuaLVDLk/hqdefault.jpg"
-    },
-    {
-      "title": "IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2",
-      "description": "IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2 ...",
-      "url": "https://www.youtube.com/watch?v=xCV8IUkhuXg",
-      "source": "Tutoriels MAO",
-      "publishedAt": "2026-01-14T11:24:17Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "xCV8IUkhuXg",
-      "thumbnail": "https://i.ytimg.com/vi/xCV8IUkhuXg/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Power BI Desktop Installation TUTO GRATUIT 2025",
@@ -110,6 +50,30 @@
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
     },
     {
+      "title": "Pourquoi Mistral AI investit 1,2 milliard d’euros dans un data center en Suède ?",
+      "description": "Mistral AI s'allie à l'entreprise suédoise EcoDataCenter pour mettre au point un centre de données en Suède au nom de la souveraineté européenne en matière d'intelligence artificielle. Un projet qui s...",
+      "url": "https://www.numerama.com/tech/2177979-pourquoi-mistral-ai-investit-12-milliard-deuros-dans-un-data-center-en-suede.html",
+      "source": "Numerama",
+      "publishedAt": "2026-02-12T07:32:10Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "CNC : Le plan « vertueux » pro-IA pour le jeu vidéo qui fait grincer les dents des créateurs",
+      "description": "Le CNC semble avoir franchi le Rubicon de l’IA générative. En lançant un programme d'accompagnement pour les résidences d'écriture et de création soutenue par l'intelligence artificielle, l'organisme ...",
+      "url": "https://www.gamekult.com/actualite/cnc-le-plan-vertueux-pro-ia-pour-le-jeu-video-qui-fait-grincer-les-dents-des-createurs-3050868382.html",
+      "source": "Gamekult",
+      "publishedAt": "2026-02-12T08:09:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Connexion entre Python (notebook) et Excel via « xlwings »",
       "description": "Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...",
       "url": "https://www.youtube.com/watch?v=-ONGM2pg3tc",
@@ -122,16 +86,40 @@
       "thumbnail": "https://i.ytimg.com/vi/-ONGM2pg3tc/hqdefault.jpg"
     },
     {
-      "title": "MySQL vs PostgreSQL vs MongoDB : Différences 2026",
-      "description": "SQL ou NoSQL ? Comprendre les différences entre MySQL, PostgreSQL et MongoDB. #dev #data #tech.",
-      "url": "https://www.youtube.com/watch?v=KD53CSQtsHQ",
-      "source": "TechVantage FR",
-      "publishedAt": "2025-12-25T19:39:02Z",
-      "category": "data",
+      "title": "Apple et Q.ai : et si le futur des AirPods passait par la lecture labiale ?",
+      "description": "Fin janvier, Apple a fait chauffer la carte de crédit. La firme de Cupertino a jeté son dévolu sur Q.ai, une start-up israélienne, pour un montant de 2 milliards de dollars. Un record, ou presque, pou...",
+      "url": "https://www.watchgeneration.fr/audio/2026/02/apple-et-qai-et-si-le-futur-des-airpods-passait-par-la-lecture-labiale-19327",
+      "source": "Watchgeneration.fr",
+      "publishedAt": "2026-02-11T06:20:20Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comprendre le NOUVEAU Google AI Studio en 20 Minutes",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4sMbg4I Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=Z8myUXypozU",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-01-18T16:00:00Z",
+      "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "KD53CSQtsHQ",
-      "thumbnail": "https://i.ytimg.com/vi/KD53CSQtsHQ/hqdefault.jpg"
+      "videoId": "Z8myUXypozU",
+      "thumbnail": "https://i.ytimg.com/vi/Z8myUXypozU/hqdefault.jpg"
+    },
+    {
+      "title": "Nvidia et AMD devraient s’inquiéter : Qualcomm et Samsung préparent une nouvelle RAM qui change la donne",
+      "description": "Samsung a débuté la livraison d'échantillons de mémoire LPDDR6X à Qualcomm pour le développement de son futur accélérateur d'IA « AI250 », dont la capacité mémoire devrait dépasser 1 To pour une dispo...",
+      "url": "https://www.tomshardware.fr/nvidia-et-amd-devraient-sinquieter-qualcomm-et-samsung-preparent-une-nouvelle-ram-qui-change-la-donne/",
+      "source": "Tomshardware.fr",
+      "publishedAt": "2026-02-12T08:33:02Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Xikipedia - Le TikTok de Wikipedia sans tracking ni IA",
@@ -158,6 +146,18 @@
       "thumbnail": "https://i.ytimg.com/vi/0AJ_fS6kLgg/hqdefault.jpg"
     },
     {
+      "title": "Formation SQL partie 5 : SQL GROUP BY — Comprendre enfin simplement",
+      "description": "Dans cette partie 5 de la formation SQL pour débutants, nous découvrons la commande GROUP BY. Tu apprendras à regrouper ...",
+      "url": "https://www.youtube.com/watch?v=hGbgeWMD4Dc",
+      "source": "MedData -Tech",
+      "publishedAt": "2025-12-24T21:22:41Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "hGbgeWMD4Dc",
+      "thumbnail": "https://i.ytimg.com/vi/hGbgeWMD4Dc/hqdefault.jpg"
+    },
+    {
       "title": "Excel pour l’Analyse des Données — Cours Complet (10h) | Gratuit + Certificat (2026)",
       "description": "Bienvenue dans ce cours complet et gratuit sur Microsoft Excel pour l'Analyse des Données (Version 2026) ! En 10 heures, vous ...",
       "url": "https://www.youtube.com/watch?v=saGefucxol4",
@@ -182,6 +182,18 @@
       "thumbnail": "https://i.ytimg.com/vi/VMi18mtBrPE/hqdefault.jpg"
     },
     {
+      "title": "Une première mondiale : un opérateur mobile lance la traduction instantanée des appels grâce à l’IA",
+      "description": "S’il existe déjà des applications qui traduisent les appels en temps réel, l’opérateur américain T-Mobile annonce l’intégration de cette fonctionnalité à son réseau. Il s’agit d’une première mondiale,...",
+      "url": "https://www.presse-citron.net/premiere-mondiale-operateur-mobile-lance-traduction-instantanee-appels-ia/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-02-12T06:31:26Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "2-Data Mining :Arbres de Décision#notebooklm",
       "description": "Introduction au Data Mining Dans cette vidéo, nous expliquons les concepts fondamentaux du Data Mining, ses techniques ...",
       "url": "https://www.youtube.com/watch?v=_Fe5ju7H5LI",
@@ -192,6 +204,18 @@
       "isYouTube": true,
       "videoId": "_Fe5ju7H5LI",
       "thumbnail": "https://i.ytimg.com/vi/_Fe5ju7H5LI/hqdefault.jpg"
+    },
+    {
+      "title": "Formation SQL PARTIE 6 - HAVING",
+      "description": "Dans cette partie 5 de la formation SQL, nous expliquons la commande HAVING. Tu comprendras la différence entre WHERE et ...",
+      "url": "https://www.youtube.com/watch?v=bgN8YayL7vM",
+      "source": "MedData -Tech",
+      "publishedAt": "2025-12-24T22:32:26Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "bgN8YayL7vM",
+      "thumbnail": "https://i.ytimg.com/vi/bgN8YayL7vM/hqdefault.jpg"
     },
     {
       "title": "Introduction à Positron: VSCode + RStudio pour la data science",
@@ -218,71 +242,47 @@
       "thumbnail": "https://i.ytimg.com/vi/wNyw2TN8mh0/hqdefault.jpg"
     },
     {
-      "title": "Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)",
-      "description": "Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...",
-      "url": "https://www.youtube.com/watch?v=qKWTshE6WDI",
-      "source": "Sébastien Daviot - Expertise Data",
-      "publishedAt": "2026-02-08T07:41:39Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "qKWTshE6WDI",
-      "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
-    },
-    {
-      "title": "Peut-on faire confiance à LastPass en 2026 ? Dans les coulisses de la reconstruction du gestionnaire de mot de passe",
-      "description": "Après une série de violations de données très médiatisées, le nouveau PDG affirme que la sécurité est désormais au cœur même de ses activités. Ce n'est pas trop tôt !",
-      "url": "https://www.zdnet.fr/actualites/peut-on-faire-confiance-a-lastpass-en-2026-dans-les-coulisses-de-la-reconstruction-du-gestionnaire-de-mot-de-passe-490019.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-02-12T01:02:27Z",
-      "category": "data",
+      "title": "Actualité : Souveraineté numérique : Mistral AI promet un cloud IA européen... mais ses puces restent américaines",
+      "description": "Entraîner ses propres modèles d'IA sur ses propres machines, en Europe, avec de l'électricité verte : c'est le pari que Mistral AI (Le Chat) vient de lancer en Suède, à coups de 1,2 milliard d'euros.",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/souverainete-numerique-mistral-ai-promet-un-cloud-ia-europeen-mais-ses-puces-restent-americaines-n251396.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-02-12T07:34:00Z",
+      "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Yanik Guillemette accélère l'adoption de l'IA au Canada : Déploiement d'un nouveau cadre de résilience chez Accolad",
-      "description": "L’entrepreneur Yanik Guillemette analyse le rôle de l’intelligence artificielle dans la productivité et la résilience de l’économie canadienne....",
-      "url": "https://www.globenewswire.com/news-release/2026/02/11/3236620/0/fr/Yanik-Guillemette-acc%C3%A9l%C3%A8re-l-adoption-de-l-IA-au-Canada-D%C3%A9ploiement-d-un-nouveau-cadre-de-r%C3%A9silience-chez-Accolad.html",
+      "title": "Waymo s’envole à 126 milliards grâce aux robotaxis",
+      "description": "Waymo atteint une valorisation record de 126 milliards de dollars, portée par un financement massif et l’essor des services de robotaxi. La société Waymo, spécialisée [...]\nL’article Waymo s’envole à ...",
+      "url": "https://www.leblogauto.com/actualites/waymo-senvole-a-126-milliards-grace-aux-robotaxis/",
+      "source": "Leblogauto.com",
+      "publishedAt": "2026-02-12T07:12:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Nouvelle menace pour Optimus d’Elon Musk : Google prépare Gemini Robotics pour les robots humanoïdes",
+      "description": "Google développe une IA appelée Gemini Robotics et travaille avec Apptronik pour développer “la prochaine génération de robots humanoïdes”. Cette startup vient de lever près d’un milliard de dollars p...",
+      "url": "https://www.presse-citron.net/menace-optimus-elon-musk-google-prepare-gemini-robotics-robots-humanoides/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-02-12T07:01:32Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Le groupe Vicat est lauréat d’une subvention Grands Projets Industriels de Décarbonation (GPID) pour son projet VAIA",
+      "description": "Le groupe Vicat est lauréat d’une subvention Grands Projets Industriels de Décarbonation (GPID) pour son projet VAIA     Le projet VAIA (Vicat Advanced...",
+      "url": "https://www.globenewswire.com/news-release/2026/02/12/3236905/0/fr/Le-groupe-Vicat-est-laur%C3%A9at-d-une-subvention-Grands-Projets-Industriels-de-D%C3%A9carbonation-GPID-pour-son-projet-VAIA.html",
       "source": "GlobeNewswire",
-      "publishedAt": "2026-02-11T19:35:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dominique Cardon, sociologue : « Les vidéos générées par IA ne font pas disparaître l’intérêt que nous portons au réel »",
-      "description": "Les images et vidéos créées par les outils d’intelligence artificielle deviennent presque banales. Faut-il craindre une altération de notre perception de la réalité ? Ce serait sans compter sur nos ca...",
-      "url": "https://www.lemonde.fr/idees/article/2026/02/11/dominique-cardon-sociologue-les-videos-generees-par-ia-ne-font-pas-disparaitre-l-interet-que-nous-portons-au-reel_6666388_3232.html",
-      "source": "Le Monde",
-      "publishedAt": "2026-02-11T20:00:02Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L’EC-Council, leader mondial de la formation et de l’éducation en cybersécurité, élargit son portefeuille de certifications en IA alors que la France intensifie ses efforts en matière de compétences en IA et d’adoption fiable dans le cadre de France 2030",
-      "description": "Conformément à la stratégie nationale française en matière d’IA et à l’investissement de France 2030 dans l’éducation à l’IA, les quatre nouvelles certifications en IA et la certification CISO v4 de l...",
-      "url": "https://www.globenewswire.com/news-release/2026/02/12/3236812/0/fr/L-EC-Council-leader-mondial-de-la-formation-et-de-l-%C3%A9ducation-en-cybers%C3%A9curit%C3%A9-%C3%A9largit-son-portefeuille-de-certifications-en-IA-alors-que-la-France-intensifie-ses-efforts-en-mati%C3%A8r.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-02-12T01:21:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Apple reculerait une bonne partie des nouveautés de Siri à iOS 26.5",
-      "description": "Si iOS 26.3 est sortie ce soir, ce n’est pas pour autant la version que tout le monde attend de pied ferme : depuis le temps que tout le monde s’accorde à voir le nouveau Siri boosté à l’intelligence ...",
-      "url": "https://www.igen.fr/ios/2026/02/apple-reculerait-une-bonne-partie-des-nouveautes-de-siri-ios-265-154755",
-      "source": "iGeneration",
-      "publishedAt": "2026-02-11T21:30:00Z",
+      "publishedAt": "2026-02-12T07:45:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
