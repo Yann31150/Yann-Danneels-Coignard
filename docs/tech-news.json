@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-13T08:51:56.468971",
+  "lastUpdate": "2026-02-14T08:39:16.882340",
   "articles": [
     {
       "title": "J&#39;ai résilié tous mes outils IA (j&#39;ai fabriqué le mien)",
@@ -14,16 +14,28 @@
       "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
     },
     {
-      "title": "La publicité conversationnelle : nouveau paradigme ou fausse révolution ?",
-      "description": "OpenAI intègre la publicité dans ChatGPT. Les utilisateurs s'insurgent, les annonceurs hésitent, Google avance autrement. Thibaut Lièvremont, Head of Media & Data chez Orixa, décrypte ce tournant et s...",
-      "url": "https://www.blogdumoderateur.com/publicite-conversationnelle-nouveau-paradigme-fausse-revolution/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-02-12T08:40:48Z",
+      "title": "Candidature... étonnante en Colombie: une intelligence artificielle sur les listes aux élections législatives",
+      "description": "Une intelligence artificielle figure parmi les candidats aux élections législatives du 8 mars en Colombie. Cette candidature étonnante convoite l'un des sièges réservés aux communautés indigènes. ...",
+      "url": "https://www.lavenir.net/actu/monde/2026/02/13/candidature-etonnante-en-colombie-une-intelligence-artificielle-sur-les-listes-aux-elections-legislatives-RKPKBWKNBZHHDNYL6XCPONXLGM/",
+      "source": "Lavenir.net",
+      "publishedAt": "2026-02-13T07:06:03Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "Python Machine Learning sous Excel avec « xlwings lite »",
+      "description": "Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...",
+      "url": "https://www.youtube.com/watch?v=feDNuaLVDLk",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2025-12-22T15:26:03Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "feDNuaLVDLk",
+      "thumbnail": "https://i.ytimg.com/vi/feDNuaLVDLk/hqdefault.jpg"
     },
     {
       "title": "Power BI Desktop Installation TUTO GRATUIT 2025",
@@ -50,30 +62,6 @@
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
     },
     {
-      "title": "Pourquoi Mistral AI investit 1,2 milliard d’euros dans un data center en Suède ?",
-      "description": "Mistral AI s'allie à l'entreprise suédoise EcoDataCenter pour mettre au point un centre de données en Suède au nom de la souveraineté européenne en matière d'intelligence artificielle. Un projet qui s...",
-      "url": "https://www.numerama.com/tech/2177979-pourquoi-mistral-ai-investit-12-milliard-deuros-dans-un-data-center-en-suede.html",
-      "source": "Numerama",
-      "publishedAt": "2026-02-12T07:32:10Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "CNC : Le plan « vertueux » pro-IA pour le jeu vidéo qui fait grincer les dents des créateurs",
-      "description": "Le CNC semble avoir franchi le Rubicon de l’IA générative. En lançant un programme d'accompagnement pour les résidences d'écriture et de création soutenue par l'intelligence artificielle, l'organisme ...",
-      "url": "https://www.gamekult.com/actualite/cnc-le-plan-vertueux-pro-ia-pour-le-jeu-video-qui-fait-grincer-les-dents-des-createurs-3050868382.html",
-      "source": "Gamekult",
-      "publishedAt": "2026-02-12T08:09:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Connexion entre Python (notebook) et Excel via « xlwings »",
       "description": "Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...",
       "url": "https://www.youtube.com/watch?v=-ONGM2pg3tc",
@@ -86,35 +74,35 @@
       "thumbnail": "https://i.ytimg.com/vi/-ONGM2pg3tc/hqdefault.jpg"
     },
     {
-      "title": "Apple et Q.ai : et si le futur des AirPods passait par la lecture labiale ?",
-      "description": "Fin janvier, Apple a fait chauffer la carte de crédit. La firme de Cupertino a jeté son dévolu sur Q.ai, une start-up israélienne, pour un montant de 2 milliards de dollars. Un record, ou presque, pou...",
-      "url": "https://www.watchgeneration.fr/audio/2026/02/apple-et-qai-et-si-le-futur-des-airpods-passait-par-la-lecture-labiale-19327",
-      "source": "Watchgeneration.fr",
-      "publishedAt": "2026-02-11T06:20:20Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comprendre le NOUVEAU Google AI Studio en 20 Minutes",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4sMbg4I Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=Z8myUXypozU",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2026-01-18T16:00:00Z",
+      "title": "Le VRAI ordre d&#39;exécution SQL #sql #datascience #français",
+      "description": "Le secret est ici Tu as du mal à retenir la différence entre WHERE et HAVING ? Tu ne comprends pas pourquoi tu ne peux pas ...",
+      "url": "https://www.youtube.com/watch?v=PjUGOwDQsmk",
+      "source": "ASSA Immo",
+      "publishedAt": "2026-01-09T16:54:34Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Z8myUXypozU",
-      "thumbnail": "https://i.ytimg.com/vi/Z8myUXypozU/hqdefault.jpg"
+      "videoId": "PjUGOwDQsmk",
+      "thumbnail": "https://i.ytimg.com/vi/PjUGOwDQsmk/hqdefault.jpg"
     },
     {
-      "title": "Nvidia et AMD devraient s’inquiéter : Qualcomm et Samsung préparent une nouvelle RAM qui change la donne",
-      "description": "Samsung a débuté la livraison d'échantillons de mémoire LPDDR6X à Qualcomm pour le développement de son futur accélérateur d'IA « AI250 », dont la capacité mémoire devrait dépasser 1 To pour une dispo...",
-      "url": "https://www.tomshardware.fr/nvidia-et-amd-devraient-sinquieter-qualcomm-et-samsung-preparent-une-nouvelle-ram-qui-change-la-donne/",
-      "source": "Tomshardware.fr",
-      "publishedAt": "2026-02-12T08:33:02Z",
+      "title": "C’est dingue : SQL devient du TailwindCSS",
+      "description": "Quand le monde du Web va trop loin : voici Tailwind SQL. Un projet totalement fou (et surtout inutilisable sérieusement) qui ...",
+      "url": "https://www.youtube.com/watch?v=zCkmpwGTDmQ",
+      "source": "Faiz Dev",
+      "publishedAt": "2026-01-02T20:27:56Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "zCkmpwGTDmQ",
+      "thumbnail": "https://i.ytimg.com/vi/zCkmpwGTDmQ/hqdefault.jpg"
+    },
+    {
+      "title": "La technologie ne rendrait pas « idiot » : elle pourrait au contraire protéger la mémoire",
+      "description": "Et si la technologie, loin de diminuer nos capacités mentales, devenait un véritable allié pour notre cerveau ? Découvrez comment les outils numériques pourraient bien transformer notre façon de vieil...",
+      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-technologie-ne-rendrait-pas-idiot-elle-pourrait-contraire-proteger-memoire-w2t8-130992/",
+      "source": "Futura",
+      "publishedAt": "2026-02-13T06:01:01Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -122,11 +110,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Xikipedia - Le TikTok de Wikipedia sans tracking ni IA",
-      "description": "Les algorithmes de recommandation, vous connaissez bien je pense... YouTube, TikTok, Instagram... ces trucs qui vous gardent scotché à l'écran durant des heures en aspirant toutes vos données au passa...",
-      "url": "https://korben.info/xikipedia-wikipedia-feed-algorithmique.html",
-      "source": "Korben.info",
-      "publishedAt": "2026-02-11T14:01:21Z",
+      "title": "IA générative : comprendre les systèmes pour rester acteur des usages",
+      "description": "On adopte l'IA générative massivement. On questionne peu. Résultat : on délègue sans comprendre, on invisibilise les coûts réels (sociaux, écologiques et cognitifs), on perd la maîtrise. Cet article p...",
+      "url": "https://blog.octo.com/ia-generative--comprendre-les-systemes-pour-rester-acteur-des-usages",
+      "source": "Octo.com",
+      "publishedAt": "2026-02-12T13:56:10Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Trouble bipolaire : l’identification des gènes de la manie ouvre la voie à de nouveaux traitements",
+      "description": "Le trouble bipolaire, anciennement psychose maniaco-dépressive, se caractérise par des variations de l'humeur disproportionnées. Récemment, des chercheurs ont identifié les bases génétiques de sa comp...",
+      "url": "https://dailygeekshow.com/?p=1001898",
+      "source": "Daily Geek Show",
+      "publishedAt": "2026-02-13T08:01:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -170,6 +170,18 @@
       "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
     },
     {
+      "title": "Fumer du cannabis pourrait-il vous rendre plus intelligent?",
+      "description": "Des chercheurs ayant analysé les données de plus de 25.000 adultes constatent des différences structurelles du cerveau chez certains consommateurs modérés de cannabis.",
+      "url": "https://www.slate.fr/sciences/fumer-cannabis-fonctions-cognitives-thc-cbd-cerveau-vieillissement-protection-hippocampe-amygdale",
+      "source": "Slate.fr",
+      "publishedAt": "2026-02-12T19:55:02Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Feature Engineering Hands on (French)",
       "description": "Dans ce tutoriel pratique, vous apprendrez les bases du feature engineering et comment transformer des données brutes en ...",
       "url": "https://www.youtube.com/watch?v=VMi18mtBrPE",
@@ -182,18 +194,6 @@
       "thumbnail": "https://i.ytimg.com/vi/VMi18mtBrPE/hqdefault.jpg"
     },
     {
-      "title": "Une première mondiale : un opérateur mobile lance la traduction instantanée des appels grâce à l’IA",
-      "description": "S’il existe déjà des applications qui traduisent les appels en temps réel, l’opérateur américain T-Mobile annonce l’intégration de cette fonctionnalité à son réseau. Il s’agit d’une première mondiale,...",
-      "url": "https://www.presse-citron.net/premiere-mondiale-operateur-mobile-lance-traduction-instantanee-appels-ia/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-02-12T06:31:26Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "2-Data Mining :Arbres de Décision#notebooklm",
       "description": "Introduction au Data Mining Dans cette vidéo, nous expliquons les concepts fondamentaux du Data Mining, ses techniques ...",
       "url": "https://www.youtube.com/watch?v=_Fe5ju7H5LI",
@@ -204,18 +204,6 @@
       "isYouTube": true,
       "videoId": "_Fe5ju7H5LI",
       "thumbnail": "https://i.ytimg.com/vi/_Fe5ju7H5LI/hqdefault.jpg"
-    },
-    {
-      "title": "Formation SQL PARTIE 6 - HAVING",
-      "description": "Dans cette partie 5 de la formation SQL, nous expliquons la commande HAVING. Tu comprendras la différence entre WHERE et ...",
-      "url": "https://www.youtube.com/watch?v=bgN8YayL7vM",
-      "source": "MedData -Tech",
-      "publishedAt": "2025-12-24T22:32:26Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "bgN8YayL7vM",
-      "thumbnail": "https://i.ytimg.com/vi/bgN8YayL7vM/hqdefault.jpg"
     },
     {
       "title": "Introduction à Positron: VSCode + RStudio pour la data science",
@@ -242,64 +230,76 @@
       "thumbnail": "https://i.ytimg.com/vi/wNyw2TN8mh0/hqdefault.jpg"
     },
     {
-      "title": "Actualité : Souveraineté numérique : Mistral AI promet un cloud IA européen... mais ses puces restent américaines",
-      "description": "Entraîner ses propres modèles d'IA sur ses propres machines, en Europe, avec de l'électricité verte : c'est le pari que Mistral AI (Le Chat) vient de lancer en Suède, à coups de 1,2 milliard d'euros.",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/souverainete-numerique-mistral-ai-promet-un-cloud-ia-europeen-mais-ses-puces-restent-americaines-n251396.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-02-12T07:34:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Waymo s’envole à 126 milliards grâce aux robotaxis",
-      "description": "Waymo atteint une valorisation record de 126 milliards de dollars, portée par un financement massif et l’essor des services de robotaxi. La société Waymo, spécialisée [...]\nL’article Waymo s’envole à ...",
-      "url": "https://www.leblogauto.com/actualites/waymo-senvole-a-126-milliards-grace-aux-robotaxis/",
-      "source": "Leblogauto.com",
-      "publishedAt": "2026-02-12T07:12:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Nouvelle menace pour Optimus d’Elon Musk : Google prépare Gemini Robotics pour les robots humanoïdes",
-      "description": "Google développe une IA appelée Gemini Robotics et travaille avec Apptronik pour développer “la prochaine génération de robots humanoïdes”. Cette startup vient de lever près d’un milliard de dollars p...",
-      "url": "https://www.presse-citron.net/menace-optimus-elon-musk-google-prepare-gemini-robotics-robots-humanoides/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-02-12T07:01:32Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le groupe Vicat est lauréat d’une subvention Grands Projets Industriels de Décarbonation (GPID) pour son projet VAIA",
-      "description": "Le groupe Vicat est lauréat d’une subvention Grands Projets Industriels de Décarbonation (GPID) pour son projet VAIA     Le projet VAIA (Vicat Advanced...",
-      "url": "https://www.globenewswire.com/news-release/2026/02/12/3236905/0/fr/Le-groupe-Vicat-est-laur%C3%A9at-d-une-subvention-Grands-Projets-Industriels-de-D%C3%A9carbonation-GPID-pour-son-projet-VAIA.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-02-12T07:45:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Les théories d&#39;apprentissage5: le connectivisme",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=Gob2goPLZBs",
-      "source": "Apprendre le français ",
-      "publishedAt": "2026-01-07T17:44:15Z",
-      "category": "tech",
+      "title": "Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)",
+      "description": "Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...",
+      "url": "https://www.youtube.com/watch?v=qKWTshE6WDI",
+      "source": "Sébastien Daviot - Expertise Data",
+      "publishedAt": "2026-02-08T07:41:39Z",
+      "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Gob2goPLZBs",
-      "thumbnail": "https://i.ytimg.com/vi/Gob2goPLZBs/hqdefault.jpg"
+      "videoId": "qKWTshE6WDI",
+      "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
+    },
+    {
+      "title": "IA : Anthropic (Claude) franchit un cap historique avec une valorisation de 380 milliards de dollars",
+      "description": "Le géant américain de l'intelligence artificielle, Anthropic, éditeur du modèle Claude, double sa valorisation en moins de six mois, à 380 milliards de dollars.",
+      "url": "https://www.latribune.fr/article/economie/51663746940915/ia-anthropic-claude-franchit-un-cap-historique-avec-une-valorisation-de-380-milliards-de-dollars",
+      "source": "La Tribune.fr",
+      "publishedAt": "2026-02-13T08:21:51Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L'IA ne devient pas plus intelligente, elle consomme juste de plus en plus d'énergie et coûte de plus en plus cher",
+      "description": "Selon un nouveau rapport du MIT, les modèles de pointe tels que le GPT d'OpenAI reposent principalement sur l'augmentation de la puissance de calcul plutôt que sur des algorithmes plus intelligents. V...",
+      "url": "https://www.zdnet.fr/actualites/lia-ne-devient-pas-plus-intelligente-elle-consomme-juste-de-plus-en-plus-denergie-et-coute-de-plus-en-plus-cher-490085.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-02-13T06:02:13Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Yanik Guillemette annonce la structuration d’un cadre stratégique d’IA responsable chez Accolad afin d’appuyer la performance des organisations canadiennes",
+      "description": "BOISBRIAND, Québec, 12 févr. 2026 (GLOBE NEWSWIRE) -- Accolad© annonce aujourd’hui la formalisation d’un cadre stratégique d’intelligence artificielle responsable visant à renforcer la productivité, l...",
+      "url": "https://www.globenewswire.com/news-release/2026/02/12/3237570/0/fr/Yanik-Guillemette-annonce-la-structuration-d-un-cadre-strat%C3%A9gique-d-IA-responsable-chez-Accolad-afin-d-appuyer-la-performance-des-organisations-canadiennes.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-02-12T17:33:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Des lunettes intelligentes détournées pour effectuer des achats automatiques soulèvent des inquiétudes sécuritaires majeures",
+      "description": "Un développeur a récemment démontré la capacité de transformer les lunettes Ray-Ban Meta AI en assistant d’achat autonome, exploitant leur caméra intégrée pour identifier des produits et les ajouter à...",
+      "url": "https://www.fredzone.org/des-lunettes-intelligentes-detournees-pour-effectuer-des-achats-automatiques-soulevent-des-inquietudes-securitaires-majeures/",
+      "source": "FREDZONE",
+      "publishedAt": "2026-02-12T20:00:43Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Smartphones pliants : l'arrivée d'Apple pourrait faire basculer le marché vers une nouvelle ère",
+      "description": "Porté par l’arrivée attendue d’Apple et un recentrage stratégique des fabricants sur les modèles premium, le marché des smartphones pliants s’apprête à franchir un cap. En 2025, il ne s’agirait plus d...",
+      "url": "https://www.zdnet.fr/actualites/smartphones-pliants-larrivee-dapple-pourrait-faire-basculer-le-marche-vers-une-nouvelle-ere-490056.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-02-13T07:24:30Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }
