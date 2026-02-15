@@ -1,6 +1,30 @@
 {
-  "lastUpdate": "2026-02-14T08:39:16.882340",
+  "lastUpdate": "2026-02-15T08:39:45.226202",
   "articles": [
+    {
+      "title": "Cessez d'utiliser ChatGPT avec ses paramètres par défaut : 7 réglages que j'utilise pour en faire un outil professionnel",
+      "description": "Je suis un utilisateur expérimenté de ChatGPT, et voici les principaux réglages auxquels je fais appel pour tirer le meilleur parti de mes sessions d'IA.",
+      "url": "https://www.zdnet.fr/pratique/cessez-dutiliser-chatgpt-avec-ses-parametres-par-defaut-7-reglages-que-jutilise-pour-en-faire-un-outil-professionnel-490096.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-02-14T04:02:12Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "En ouvrant ChatGPT à la publicité, OpenAI expose l’IA à des dérives dangereuses",
+      "description": "Les chatbots sont utilisés pour demander conseil, réfléchir, décider. Insérer des annonces dans cet espace intime crée un risque inédit.",
+      "url": "https://theconversation.com/en-ouvrant-chatgpt-a-la-publicite-openai-expose-lia-a-des-derives-dangereuses-275748",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-02-14T07:42:50Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
     {
       "title": "J&#39;ai résilié tous mes outils IA (j&#39;ai fabriqué le mien)",
       "description": "Plus de 15 outils IA, 15 abonnements, des onglets partout... ChatGPT, Gemini, Perplexity, Gamma... C'était le gros bordel alors ...",
@@ -12,18 +36,6 @@
       "isYouTube": true,
       "videoId": "N0gTIxg9l2A",
       "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
-    },
-    {
-      "title": "Candidature... étonnante en Colombie: une intelligence artificielle sur les listes aux élections législatives",
-      "description": "Une intelligence artificielle figure parmi les candidats aux élections législatives du 8 mars en Colombie. Cette candidature étonnante convoite l'un des sièges réservés aux communautés indigènes. ...",
-      "url": "https://www.lavenir.net/actu/monde/2026/02/13/candidature-etonnante-en-colombie-une-intelligence-artificielle-sur-les-listes-aux-elections-legislatives-RKPKBWKNBZHHDNYL6XCPONXLGM/",
-      "source": "Lavenir.net",
-      "publishedAt": "2026-02-13T07:06:03Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Python Machine Learning sous Excel avec « xlwings lite »",
@@ -74,18 +86,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-ONGM2pg3tc/hqdefault.jpg"
     },
     {
-      "title": "Le VRAI ordre d&#39;exécution SQL #sql #datascience #français",
-      "description": "Le secret est ici Tu as du mal à retenir la différence entre WHERE et HAVING ? Tu ne comprends pas pourquoi tu ne peux pas ...",
-      "url": "https://www.youtube.com/watch?v=PjUGOwDQsmk",
-      "source": "ASSA Immo",
-      "publishedAt": "2026-01-09T16:54:34Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "PjUGOwDQsmk",
-      "thumbnail": "https://i.ytimg.com/vi/PjUGOwDQsmk/hqdefault.jpg"
-    },
-    {
       "title": "C’est dingue : SQL devient du TailwindCSS",
       "description": "Quand le monde du Web va trop loin : voici Tailwind SQL. Un projet totalement fou (et surtout inutilisable sérieusement) qui ...",
       "url": "https://www.youtube.com/watch?v=zCkmpwGTDmQ",
@@ -98,11 +98,23 @@
       "thumbnail": "https://i.ytimg.com/vi/zCkmpwGTDmQ/hqdefault.jpg"
     },
     {
-      "title": "La technologie ne rendrait pas « idiot » : elle pourrait au contraire protéger la mémoire",
-      "description": "Et si la technologie, loin de diminuer nos capacités mentales, devenait un véritable allié pour notre cerveau ? Découvrez comment les outils numériques pourraient bien transformer notre façon de vieil...",
-      "url": "https://www.futura-sciences.com/sante/actualites/vieillissement-technologie-ne-rendrait-pas-idiot-elle-pourrait-contraire-proteger-memoire-w2t8-130992/",
-      "source": "Futura",
-      "publishedAt": "2026-02-13T06:01:01Z",
+      "title": "Comprendre le NOUVEAU Google AI Studio en 20 Minutes",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4sMbg4I Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=Z8myUXypozU",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-01-18T16:00:00Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Z8myUXypozU",
+      "thumbnail": "https://i.ytimg.com/vi/Z8myUXypozU/hqdefault.jpg"
+    },
+    {
+      "title": "Elon Musk dévoile une base lunaire comme nouvelle ambition pour xAI et SpaceX",
+      "description": "Après avoir longtemps vendu le rêve martien, Elon Musk pivote radicalement sa rhétorique. Le milliardaire a présenté hier une vision surprenante lors d’une restructuration interne ayant provoqué plusi...",
+      "url": "https://www.fredzone.org/elon-musk-devoile-une-base-lunaire-comme-nouvelle-ambition-pour-xai-et-spacex/",
+      "source": "FREDZONE",
+      "publishedAt": "2026-02-13T13:33:10Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -110,23 +122,11 @@
       "thumbnail": ""
     },
     {
-      "title": "IA générative : comprendre les systèmes pour rester acteur des usages",
-      "description": "On adopte l'IA générative massivement. On questionne peu. Résultat : on délègue sans comprendre, on invisibilise les coûts réels (sociaux, écologiques et cognitifs), on perd la maîtrise. Cet article p...",
-      "url": "https://blog.octo.com/ia-generative--comprendre-les-systemes-pour-rester-acteur-des-usages",
-      "source": "Octo.com",
-      "publishedAt": "2026-02-12T13:56:10Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Trouble bipolaire : l’identification des gènes de la manie ouvre la voie à de nouveaux traitements",
-      "description": "Le trouble bipolaire, anciennement psychose maniaco-dépressive, se caractérise par des variations de l'humeur disproportionnées. Récemment, des chercheurs ont identifié les bases génétiques de sa comp...",
-      "url": "https://dailygeekshow.com/?p=1001898",
-      "source": "Daily Geek Show",
-      "publishedAt": "2026-02-13T08:01:00Z",
+      "title": "Le biathlète et sa carabine, une relation si spéciale pour les biathlètes aux JO de Milan Cortina",
+      "description": "Comme un prolongement du corps du biathlète, la carabine est un atout essentiel autant qu'un compagnon de fortune.",
+      "url": "https://www.franceinfo.fr/les-jeux-olympiques/milan-cortina-2026/le-biathlete-et-sa-carabine-une-relation-si-speciale-pour-les-biathletes-aux-jo-de-milan-cortina_7788203.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-02-14T06:30:01Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -170,18 +170,6 @@
       "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
     },
     {
-      "title": "Fumer du cannabis pourrait-il vous rendre plus intelligent?",
-      "description": "Des chercheurs ayant analysé les données de plus de 25.000 adultes constatent des différences structurelles du cerveau chez certains consommateurs modérés de cannabis.",
-      "url": "https://www.slate.fr/sciences/fumer-cannabis-fonctions-cognitives-thc-cbd-cerveau-vieillissement-protection-hippocampe-amygdale",
-      "source": "Slate.fr",
-      "publishedAt": "2026-02-12T19:55:02Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Feature Engineering Hands on (French)",
       "description": "Dans ce tutoriel pratique, vous apprendrez les bases du feature engineering et comment transformer des données brutes en ...",
       "url": "https://www.youtube.com/watch?v=VMi18mtBrPE",
@@ -204,6 +192,18 @@
       "isYouTube": true,
       "videoId": "_Fe5ju7H5LI",
       "thumbnail": "https://i.ytimg.com/vi/_Fe5ju7H5LI/hqdefault.jpg"
+    },
+    {
+      "title": "Elon Musk veut une usine sur la Lune… avec une catapulte électromagnétique pour lancer ses satellites IA !",
+      "description": "Pour faciliter la mise en place de ses data centers orbitaux dédiés à l’IA, Elon Musk veut les lancer depuis la Lune. Il compte créer une usine d’assemblage des satellites sur l'astre. Un canon électr...",
+      "url": "https://www.futura-sciences.com/tech/actualites/technologie-elon-musk-veut-usine-lune-catapulte-electromagnetique-lancer-satellites-ia-131270/",
+      "source": "Futura",
+      "publishedAt": "2026-02-13T15:08:57Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Introduction à Positron: VSCode + RStudio pour la data science",
@@ -242,11 +242,11 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
-      "title": "IA : Anthropic (Claude) franchit un cap historique avec une valorisation de 380 milliards de dollars",
-      "description": "Le géant américain de l'intelligence artificielle, Anthropic, éditeur du modèle Claude, double sa valorisation en moins de six mois, à 380 milliards de dollars.",
-      "url": "https://www.latribune.fr/article/economie/51663746940915/ia-anthropic-claude-franchit-un-cap-historique-avec-une-valorisation-de-380-milliards-de-dollars",
-      "source": "La Tribune.fr",
-      "publishedAt": "2026-02-13T08:21:51Z",
+      "title": "Dépistage du cancer du sein : l'IA change la donne et sauve des vies !",
+      "description": "L'intelligence artificielle s'impose comme un outil décisif dans la lutte contre le cancer du sein. De vastes essais cliniques, comme l'étude suédoise MASAI, démontrent que les systèmes d'IA amélioren...",
+      "url": "https://www.generation-nt.com/actualites/ia-cancer-sein-depistage-mammographie-radiologie-2070450",
+      "source": "Génération NT",
+      "publishedAt": "2026-02-14T08:10:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "L'IA ne devient pas plus intelligente, elle consomme juste de plus en plus d'énergie et coûte de plus en plus cher",
-      "description": "Selon un nouveau rapport du MIT, les modèles de pointe tels que le GPT d'OpenAI reposent principalement sur l'augmentation de la puissance de calcul plutôt que sur des algorithmes plus intelligents. V...",
-      "url": "https://www.zdnet.fr/actualites/lia-ne-devient-pas-plus-intelligente-elle-consomme-juste-de-plus-en-plus-denergie-et-coute-de-plus-en-plus-cher-490085.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-02-13T06:02:13Z",
+      "title": "Selfie, dîner, piscine... Attention à ces images virales générées par IA, montrant des personnalités en compagnie de Jeffrey Epstein",
+      "description": "Depuis la publication des fichiers Epstein par le ministère de la Justice américain, fin janvier, de nombreuses images générées par intelligence artificielle sont relayées sur les réseaux sociaux. Ell...",
+      "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-selfie-diner-piscine-attention-a-ces-images-virales-generees-par-ia-montrant-des-personnalites-en-compagnie-de-jeffrey-epstein_7803059.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-02-14T06:00:20Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Yanik Guillemette annonce la structuration d’un cadre stratégique d’IA responsable chez Accolad afin d’appuyer la performance des organisations canadiennes",
-      "description": "BOISBRIAND, Québec, 12 févr. 2026 (GLOBE NEWSWIRE) -- Accolad© annonce aujourd’hui la formalisation d’un cadre stratégique d’intelligence artificielle responsable visant à renforcer la productivité, l...",
-      "url": "https://www.globenewswire.com/news-release/2026/02/12/3237570/0/fr/Yanik-Guillemette-annonce-la-structuration-d-un-cadre-strat%C3%A9gique-d-IA-responsable-chez-Accolad-afin-d-appuyer-la-performance-des-organisations-canadiennes.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-02-12T17:33:00Z",
+      "title": "Amazon mise sur l’IA pour produire ses séries et films : une révolution redoutée se confirme",
+      "description": "Le géant du e-commerce et du streaming s’apprête à franchir un cap décisif. Amazon envisage d’utiliser massivement l’intelligence artificielle pour...\nL’article Amazon mise sur l’IA pour produire ses ...",
+      "url": "https://www.tuxboard.com/amazon-mise-sur-lia-pour-produire-ses-series-et-films-une-revolution-redoutee-se-confirme/",
+      "source": "Tuxboard.com",
+      "publishedAt": "2026-02-14T06:33:12Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Des lunettes intelligentes détournées pour effectuer des achats automatiques soulèvent des inquiétudes sécuritaires majeures",
-      "description": "Un développeur a récemment démontré la capacité de transformer les lunettes Ray-Ban Meta AI en assistant d’achat autonome, exploitant leur caméra intégrée pour identifier des produits et les ajouter à...",
-      "url": "https://www.fredzone.org/des-lunettes-intelligentes-detournees-pour-effectuer-des-achats-automatiques-soulevent-des-inquietudes-securitaires-majeures/",
-      "source": "FREDZONE",
-      "publishedAt": "2026-02-12T20:00:43Z",
+      "title": "Le « Projet Panama », ce plan terrifiant qui prévoit qu’une IA scanne tous les livres du monde",
+      "description": "Pour obtenir une intelligence artificielle aux petits oignons, langage châtié et montagne de savoir compris, rien ne vaut un bon bouquin. Et pour se procurer suffisamment de livres (quelques millions)...",
+      "url": "https://www.nouvelobs.com/culture/20260214.OBS112366/le-projet-panama-ce-plan-terrifiant-qui-prevoit-qu-une-ia-scanne-tous-les-livres-du-monde.html",
+      "source": "L'Obs",
+      "publishedAt": "2026-02-14T07:00:20Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Smartphones pliants : l'arrivée d'Apple pourrait faire basculer le marché vers une nouvelle ère",
-      "description": "Porté par l’arrivée attendue d’Apple et un recentrage stratégique des fabricants sur les modèles premium, le marché des smartphones pliants s’apprête à franchir un cap. En 2025, il ne s’agirait plus d...",
-      "url": "https://www.zdnet.fr/actualites/smartphones-pliants-larrivee-dapple-pourrait-faire-basculer-le-marche-vers-une-nouvelle-ere-490056.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-02-13T07:24:30Z",
+      "title": "Après le départ de Sophie Adenot vers l’ISS : « La station reste l’un des derniers terrains de coopération entre les Russes et les autres puissances spatiales occidentales »",
+      "description": "Quelle est la place de l’Europe dans le spatial, et notamment de la France ? A quoi a servi l’ISS pendant plus de vingt-cinq ans ? Alban Guyomarc’h, chercheur en droit des activités spatiales au Collè...",
+      "url": "https://www.lemonde.fr/sciences/article/2026/02/13/apres-le-depart-de-sophie-adenot-vers-l-iss-la-station-reste-l-un-des-derniers-terrains-de-cooperation-entre-les-russes-et-les-autres-puissances-spatiales-occidentales_6666682_1650684.html",
+      "source": "Le Monde",
+      "publishedAt": "2026-02-13T17:49:52Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

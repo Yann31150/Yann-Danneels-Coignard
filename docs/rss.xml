@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 14 Feb 2026 08:39:16 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 08:39:45 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,28 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
+            <title>Cessez d'utiliser ChatGPT avec ses paramètres par défaut : 7 réglages que j'utilise pour en faire un outil professionnel</title>
+            <link>https://www.zdnet.fr/pratique/cessez-dutiliser-chatgpt-avec-ses-parametres-par-defaut-7-reglages-que-jutilise-pour-en-faire-un-outil-professionnel-490096.htm</link>
+            <description><![CDATA[Je suis un utilisateur expérimenté de ChatGPT, et voici les principaux réglages auxquels je fais appel pour tirer le meilleur parti de mes sessions d'IA.]]></description>
+            <pubDate>Sat, 14 Feb 2026 04:02:12 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/pratique/cessez-dutiliser-chatgpt-avec-ses-parametres-par-defaut-7-reglages-que-jutilise-pour-en-faire-un-outil-professionnel-490096.htm</guid>
+            <source>ZDNet France</source>
+        </item>
+        <item>
+            <title>En ouvrant ChatGPT à la publicité, OpenAI expose l’IA à des dérives dangereuses</title>
+            <link>https://theconversation.com/en-ouvrant-chatgpt-a-la-publicite-openai-expose-lia-a-des-derives-dangereuses-275748</link>
+            <description><![CDATA[Les chatbots sont utilisés pour demander conseil, réfléchir, décider. Insérer des annonces dans cet espace intime crée un risque inédit.]]></description>
+            <pubDate>Sat, 14 Feb 2026 07:42:50 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/en-ouvrant-chatgpt-a-la-publicite-openai-expose-lia-a-des-derives-dangereuses-275748</guid>
+            <source>The Conversation Africa</source>
+        </item>
+        <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
             <link>https://www.youtube.com/watch?v=N0gTIxg9l2A</link>
             <description><![CDATA[Plus de 15 outils IA, 15 abonnements, des onglets partout... ChatGPT, Gemini, Perplexity, Gamma... C'était le gros bordel alors ...]]></description>
             <pubDate>Sat, 17 Jan 2026 17:49:37 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=N0gTIxg9l2A</guid>
             <source>Ludo Salenne</source>
-        </item>
-        <item>
-            <title>Candidature... étonnante en Colombie: une intelligence artificielle sur les listes aux élections législatives</title>
-            <link>https://www.lavenir.net/actu/monde/2026/02/13/candidature-etonnante-en-colombie-une-intelligence-artificielle-sur-les-listes-aux-elections-legislatives-RKPKBWKNBZHHDNYL6XCPONXLGM/</link>
-            <description><![CDATA[Une intelligence artificielle figure parmi les candidats aux élections législatives du 8 mars en Colombie. Cette candidature étonnante convoite l'un des sièges réservés aux communautés indigènes. ...]]></description>
-            <pubDate>Fri, 13 Feb 2026 07:06:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lavenir.net/actu/monde/2026/02/13/candidature-etonnante-en-colombie-une-intelligence-artificielle-sur-les-listes-aux-elections-legislatives-RKPKBWKNBZHHDNYL6XCPONXLGM/</guid>
-            <source>Lavenir.net</source>
         </item>
         <item>
             <title>Python Machine Learning sous Excel avec « xlwings lite »</title>
@@ -61,14 +69,6 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Le VRAI ordre d&amp;#39;exécution SQL #sql #datascience #français</title>
-            <link>https://www.youtube.com/watch?v=PjUGOwDQsmk</link>
-            <description><![CDATA[Le secret est ici Tu as du mal à retenir la différence entre WHERE et HAVING ? Tu ne comprends pas pourquoi tu ne peux pas ...]]></description>
-            <pubDate>Fri, 09 Jan 2026 16:54:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=PjUGOwDQsmk</guid>
-            <source>ASSA Immo</source>
-        </item>
-        <item>
             <title>C’est dingue : SQL devient du TailwindCSS</title>
             <link>https://www.youtube.com/watch?v=zCkmpwGTDmQ</link>
             <description><![CDATA[Quand le monde du Web va trop loin : voici Tailwind SQL. Un projet totalement fou (et surtout inutilisable sérieusement) qui ...]]></description>
@@ -77,28 +77,28 @@
             <source>Faiz Dev</source>
         </item>
         <item>
-            <title>La technologie ne rendrait pas « idiot » : elle pourrait au contraire protéger la mémoire</title>
-            <link>https://www.futura-sciences.com/sante/actualites/vieillissement-technologie-ne-rendrait-pas-idiot-elle-pourrait-contraire-proteger-memoire-w2t8-130992/</link>
-            <description><![CDATA[Et si la technologie, loin de diminuer nos capacités mentales, devenait un véritable allié pour notre cerveau ? Découvrez comment les outils numériques pourraient bien transformer notre façon de vieil...]]></description>
-            <pubDate>Fri, 13 Feb 2026 06:01:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/sante/actualites/vieillissement-technologie-ne-rendrait-pas-idiot-elle-pourrait-contraire-proteger-memoire-w2t8-130992/</guid>
-            <source>Futura</source>
+            <title>Comprendre le NOUVEAU Google AI Studio en 20 Minutes</title>
+            <link>https://www.youtube.com/watch?v=Z8myUXypozU</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4sMbg4I Rejoins ma communauté ...]]></description>
+            <pubDate>Sun, 18 Jan 2026 16:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z8myUXypozU</guid>
+            <source>Yassine Sdiri</source>
         </item>
         <item>
-            <title>IA générative : comprendre les systèmes pour rester acteur des usages</title>
-            <link>https://blog.octo.com/ia-generative--comprendre-les-systemes-pour-rester-acteur-des-usages</link>
-            <description><![CDATA[On adopte l'IA générative massivement. On questionne peu. Résultat : on délègue sans comprendre, on invisibilise les coûts réels (sociaux, écologiques et cognitifs), on perd la maîtrise. Cet article p...]]></description>
-            <pubDate>Thu, 12 Feb 2026 13:56:10 -0000</pubDate>
-            <guid isPermaLink="true">https://blog.octo.com/ia-generative--comprendre-les-systemes-pour-rester-acteur-des-usages</guid>
-            <source>Octo.com</source>
+            <title>Elon Musk dévoile une base lunaire comme nouvelle ambition pour xAI et SpaceX</title>
+            <link>https://www.fredzone.org/elon-musk-devoile-une-base-lunaire-comme-nouvelle-ambition-pour-xai-et-spacex/</link>
+            <description><![CDATA[Après avoir longtemps vendu le rêve martien, Elon Musk pivote radicalement sa rhétorique. Le milliardaire a présenté hier une vision surprenante lors d’une restructuration interne ayant provoqué plusi...]]></description>
+            <pubDate>Fri, 13 Feb 2026 13:33:10 -0000</pubDate>
+            <guid isPermaLink="true">https://www.fredzone.org/elon-musk-devoile-une-base-lunaire-comme-nouvelle-ambition-pour-xai-et-spacex/</guid>
+            <source>FREDZONE</source>
         </item>
         <item>
-            <title>Trouble bipolaire : l’identification des gènes de la manie ouvre la voie à de nouveaux traitements</title>
-            <link>https://dailygeekshow.com/?p=1001898</link>
-            <description><![CDATA[Le trouble bipolaire, anciennement psychose maniaco-dépressive, se caractérise par des variations de l'humeur disproportionnées. Récemment, des chercheurs ont identifié les bases génétiques de sa comp...]]></description>
-            <pubDate>Fri, 13 Feb 2026 08:01:00 -0000</pubDate>
-            <guid isPermaLink="true">https://dailygeekshow.com/?p=1001898</guid>
-            <source>Daily Geek Show</source>
+            <title>Le biathlète et sa carabine, une relation si spéciale pour les biathlètes aux JO de Milan Cortina</title>
+            <link>https://www.franceinfo.fr/les-jeux-olympiques/milan-cortina-2026/le-biathlete-et-sa-carabine-une-relation-si-speciale-pour-les-biathletes-aux-jo-de-milan-cortina_7788203.html</link>
+            <description><![CDATA[Comme un prolongement du corps du biathlète, la carabine est un atout essentiel autant qu'un compagnon de fortune.]]></description>
+            <pubDate>Sat, 14 Feb 2026 06:30:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/les-jeux-olympiques/milan-cortina-2026/le-biathlete-et-sa-carabine-une-relation-si-speciale-pour-les-biathletes-aux-jo-de-milan-cortina_7788203.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -125,14 +125,6 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Fumer du cannabis pourrait-il vous rendre plus intelligent?</title>
-            <link>https://www.slate.fr/sciences/fumer-cannabis-fonctions-cognitives-thc-cbd-cerveau-vieillissement-protection-hippocampe-amygdale</link>
-            <description><![CDATA[Des chercheurs ayant analysé les données de plus de 25.000 adultes constatent des différences structurelles du cerveau chez certains consommateurs modérés de cannabis.]]></description>
-            <pubDate>Thu, 12 Feb 2026 19:55:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.slate.fr/sciences/fumer-cannabis-fonctions-cognitives-thc-cbd-cerveau-vieillissement-protection-hippocampe-amygdale</guid>
-            <source>Slate.fr</source>
-        </item>
-        <item>
             <title>Feature Engineering Hands on (French)</title>
             <link>https://www.youtube.com/watch?v=VMi18mtBrPE</link>
             <description><![CDATA[Dans ce tutoriel pratique, vous apprendrez les bases du feature engineering et comment transformer des données brutes en ...]]></description>
@@ -147,6 +139,14 @@
             <pubDate>Thu, 25 Dec 2025 00:02:20 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=_Fe5ju7H5LI</guid>
             <source>AllAboutData</source>
+        </item>
+        <item>
+            <title>Elon Musk veut une usine sur la Lune… avec une catapulte électromagnétique pour lancer ses satellites IA !</title>
+            <link>https://www.futura-sciences.com/tech/actualites/technologie-elon-musk-veut-usine-lune-catapulte-electromagnetique-lancer-satellites-ia-131270/</link>
+            <description><![CDATA[Pour faciliter la mise en place de ses data centers orbitaux dédiés à l’IA, Elon Musk veut les lancer depuis la Lune. Il compte créer une usine d’assemblage des satellites sur l'astre. Un canon électr...]]></description>
+            <pubDate>Fri, 13 Feb 2026 15:08:57 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/technologie-elon-musk-veut-usine-lune-catapulte-electromagnetique-lancer-satellites-ia-131270/</guid>
+            <source>Futura</source>
         </item>
         <item>
             <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
