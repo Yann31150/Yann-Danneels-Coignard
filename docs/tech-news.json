@@ -1,24 +1,12 @@
 {
-  "lastUpdate": "2026-02-15T08:39:45.226202",
+  "lastUpdate": "2026-02-16T08:56:13.499328",
   "articles": [
     {
-      "title": "Cessez d'utiliser ChatGPT avec ses paramètres par défaut : 7 réglages que j'utilise pour en faire un outil professionnel",
-      "description": "Je suis un utilisateur expérimenté de ChatGPT, et voici les principaux réglages auxquels je fais appel pour tirer le meilleur parti de mes sessions d'IA.",
-      "url": "https://www.zdnet.fr/pratique/cessez-dutiliser-chatgpt-avec-ses-parametres-par-defaut-7-reglages-que-jutilise-pour-en-faire-un-outil-professionnel-490096.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-02-14T04:02:12Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "En ouvrant ChatGPT à la publicité, OpenAI expose l’IA à des dérives dangereuses",
-      "description": "Les chatbots sont utilisés pour demander conseil, réfléchir, décider. Insérer des annonces dans cet espace intime crée un risque inédit.",
-      "url": "https://theconversation.com/en-ouvrant-chatgpt-a-la-publicite-openai-expose-lia-a-des-derives-dangereuses-275748",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-02-14T07:42:50Z",
+      "title": "Prédiction d’âge sur ChatGPT, la sécurité passe au crible",
+      "description": "ChatGPT prédit l’âge, active un mode mineur, et propose une vérification 18+ via l'outil Persona....",
+      "url": "https://www.zataz.com/prediction-dage-sur-chatgpt-la-securite-passe-au-crible/",
+      "source": "Zataz.com",
+      "publishedAt": "2026-02-15T01:08:15Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -36,6 +24,18 @@
       "isYouTube": true,
       "videoId": "N0gTIxg9l2A",
       "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
+    },
+    {
+      "title": "Analyse de données avec Orange",
+      "description": "Orange Data Mining : Analyse de données & Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...",
+      "url": "https://www.youtube.com/watch?v=hw8TiHABNLc",
+      "source": "Ardy Fanny Nell REBOUKA REBOUKA",
+      "publishedAt": "2026-01-29T16:09:39Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "hw8TiHABNLc",
+      "thumbnail": "https://i.ytimg.com/vi/hw8TiHABNLc/hqdefault.jpg"
     },
     {
       "title": "Python Machine Learning sous Excel avec « xlwings lite »",
@@ -74,6 +74,18 @@
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
     },
     {
+      "title": "Cédric Klapisch : « l’Intelligence artificielle me donne encore plus envie de faire du cinéma »",
+      "description": "Président du jury de la deuxième édition de l’Artefact AI Film Festival, le réalisateur de « La Venue de l’avenir » a choisi de faire preuve de curiosité. Bien que l’IA l’inquiète.",
+      "url": "https://www.huffingtonpost.fr/culture/article/cedric-klapisch-l-intelligence-artificielle-me-donne-encore-plus-envie-de-faire-du-cinema_260384.html",
+      "source": "Le HuffPost",
+      "publishedAt": "2026-02-15T07:00:11Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Connexion entre Python (notebook) et Excel via « xlwings »",
       "description": "Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...",
       "url": "https://www.youtube.com/watch?v=-ONGM2pg3tc",
@@ -108,30 +120,6 @@
       "isYouTube": true,
       "videoId": "Z8myUXypozU",
       "thumbnail": "https://i.ytimg.com/vi/Z8myUXypozU/hqdefault.jpg"
-    },
-    {
-      "title": "Elon Musk dévoile une base lunaire comme nouvelle ambition pour xAI et SpaceX",
-      "description": "Après avoir longtemps vendu le rêve martien, Elon Musk pivote radicalement sa rhétorique. Le milliardaire a présenté hier une vision surprenante lors d’une restructuration interne ayant provoqué plusi...",
-      "url": "https://www.fredzone.org/elon-musk-devoile-une-base-lunaire-comme-nouvelle-ambition-pour-xai-et-spacex/",
-      "source": "FREDZONE",
-      "publishedAt": "2026-02-13T13:33:10Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le biathlète et sa carabine, une relation si spéciale pour les biathlètes aux JO de Milan Cortina",
-      "description": "Comme un prolongement du corps du biathlète, la carabine est un atout essentiel autant qu'un compagnon de fortune.",
-      "url": "https://www.franceinfo.fr/les-jeux-olympiques/milan-cortina-2026/le-biathlete-et-sa-carabine-une-relation-si-speciale-pour-les-biathletes-aux-jo-de-milan-cortina_7788203.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-02-14T06:30:01Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -194,30 +182,6 @@
       "thumbnail": "https://i.ytimg.com/vi/_Fe5ju7H5LI/hqdefault.jpg"
     },
     {
-      "title": "Elon Musk veut une usine sur la Lune… avec une catapulte électromagnétique pour lancer ses satellites IA !",
-      "description": "Pour faciliter la mise en place de ses data centers orbitaux dédiés à l’IA, Elon Musk veut les lancer depuis la Lune. Il compte créer une usine d’assemblage des satellites sur l'astre. Un canon électr...",
-      "url": "https://www.futura-sciences.com/tech/actualites/technologie-elon-musk-veut-usine-lune-catapulte-electromagnetique-lancer-satellites-ia-131270/",
-      "source": "Futura",
-      "publishedAt": "2026-02-13T15:08:57Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Introduction à Positron: VSCode + RStudio pour la data science",
-      "description": "Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...",
-      "url": "https://www.youtube.com/watch?v=gcbiOQCR-O8",
-      "source": "WeData",
-      "publishedAt": "2026-01-09T17:01:15Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "gcbiOQCR-O8",
-      "thumbnail": "https://i.ytimg.com/vi/gcbiOQCR-O8/hqdefault.jpg"
-    },
-    {
       "title": "Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto",
       "description": "",
       "url": "https://www.youtube.com/watch?v=wNyw2TN8mh0",
@@ -242,6 +206,42 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
+      "title": "« Nous ne sommes plus dans la théorie, les risques d’une attaque à travers l’IA sont bien réels »,\r\nEntretien avec le PDG de Check Point",
+      "description": "En quelques mois, le géant de la cybersécurité Check Point a racheté quatre start-ups pour plus de 300 millions de dollars. Dans un entretien avec La Tribune, le PDG du groupe revient sur les nouveaux...",
+      "url": "https://www.latribune.fr/article/tech/3738506754763714/nous-ne-sommes-plus-dans-la-theorie-les-risques-d-une-attaque-a-travers-l-ia-sont-bien-reels-entretien-avec-le-pdg-de-check-point",
+      "source": "La Tribune.fr",
+      "publishedAt": "2026-02-14T11:27:02Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Construis ta première Data Pipeline en Python (Notion API → SQLite → Docker → Metabase)",
+      "description": "DANS CETTE VIDÉO Apprends à construire ta première data pipeline complète en Python, de A à Z, 100% gratuitement depuis ...",
+      "url": "https://www.youtube.com/watch?v=wzWGPdkr_sE",
+      "source": "KottioDev",
+      "publishedAt": "2026-01-07T13:00:06Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "wzWGPdkr_sE",
+      "thumbnail": "https://i.ytimg.com/vi/wzWGPdkr_sE/hqdefault.jpg"
+    },
+    {
+      "title": "Comment devenir Data Scientist ? Le parcours décodé",
+      "description": "Le parcours Data Scientist décodé : devenez l'expert des données. Dans cette vidéo, plongez au cœur du parcours Data Scientist ...",
+      "url": "https://www.youtube.com/watch?v=ZHuD0pzTdG0",
+      "source": "Liora",
+      "publishedAt": "2026-01-28T14:14:42Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "ZHuD0pzTdG0",
+      "thumbnail": "https://i.ytimg.com/vi/ZHuD0pzTdG0/hqdefault.jpg"
+    },
+    {
       "title": "Dépistage du cancer du sein : l'IA change la donne et sauve des vies !",
       "description": "L'intelligence artificielle s'impose comme un outil décisif dans la lutte contre le cancer du sein. De vastes essais cliniques, comme l'étude suédoise MASAI, démontrent que les systèmes d'IA amélioren...",
       "url": "https://www.generation-nt.com/actualites/ia-cancer-sein-depistage-mammographie-radiologie-2070450",
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Selfie, dîner, piscine... Attention à ces images virales générées par IA, montrant des personnalités en compagnie de Jeffrey Epstein",
-      "description": "Depuis la publication des fichiers Epstein par le ministère de la Justice américain, fin janvier, de nombreuses images générées par intelligence artificielle sont relayées sur les réseaux sociaux. Ell...",
-      "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-selfie-diner-piscine-attention-a-ces-images-virales-generees-par-ia-montrant-des-personnalites-en-compagnie-de-jeffrey-epstein_7803059.html",
+      "title": "IA : une fausse bagarre entre Brad Pitt et Tom Cruise enflamme les réseaux sociaux",
+      "description": "Une séquence de quelques secondes, où l'on découvre un affrontement entre Brad Pitt et Tom Cruise, affole les réseaux sociaux et Hollywood. La scène, qui a été créée grâce à un logiciel d’intelligence...",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/ia-une-fausse-bagarre-entre-brad-pitt-et-tom-cruise-enflamme-les-reseaux-sociaux_7806095.html",
       "source": "Franceinfo.fr",
-      "publishedAt": "2026-02-14T06:00:20Z",
+      "publishedAt": "2026-02-14T22:11:44Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Amazon mise sur l’IA pour produire ses séries et films : une révolution redoutée se confirme",
-      "description": "Le géant du e-commerce et du streaming s’apprête à franchir un cap décisif. Amazon envisage d’utiliser massivement l’intelligence artificielle pour...\nL’article Amazon mise sur l’IA pour produire ses ...",
-      "url": "https://www.tuxboard.com/amazon-mise-sur-lia-pour-produire-ses-series-et-films-une-revolution-redoutee-se-confirme/",
-      "source": "Tuxboard.com",
-      "publishedAt": "2026-02-14T06:33:12Z",
+      "title": "Fusion de SpaceX et xAI : Elon Musk vient-il de commettre la plus grave erreur de sa carrière ?",
+      "description": "Le pari de trop ? En fusionnant SpaceX, mastodonte du spatial, avec xAI, sa startup d’IA vorace en capitaux, Elon Musk promet une révolution technologique. Mais il fait aussi trembler les investisseur...",
+      "url": "https://www.presse-citron.net/fusion-spacex-xai-elon-musk-vient-commettre-plus-grave-erreur-carriere/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-02-14T09:00:58Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,23 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Le « Projet Panama », ce plan terrifiant qui prévoit qu’une IA scanne tous les livres du monde",
-      "description": "Pour obtenir une intelligence artificielle aux petits oignons, langage châtié et montagne de savoir compris, rien ne vaut un bon bouquin. Et pour se procurer suffisamment de livres (quelques millions)...",
-      "url": "https://www.nouvelobs.com/culture/20260214.OBS112366/le-projet-panama-ce-plan-terrifiant-qui-prevoit-qu-une-ia-scanne-tous-les-livres-du-monde.html",
-      "source": "L'Obs",
-      "publishedAt": "2026-02-14T07:00:20Z",
+      "title": "Les théories d&#39;apprentissage5: le connectivisme",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Gob2goPLZBs",
+      "source": "Apprendre le français ",
+      "publishedAt": "2026-01-07T17:44:15Z",
       "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Gob2goPLZBs",
+      "thumbnail": "https://i.ytimg.com/vi/Gob2goPLZBs/hqdefault.jpg"
     },
     {
-      "title": "Après le départ de Sophie Adenot vers l’ISS : « La station reste l’un des derniers terrains de coopération entre les Russes et les autres puissances spatiales occidentales »",
-      "description": "Quelle est la place de l’Europe dans le spatial, et notamment de la France ? A quoi a servi l’ISS pendant plus de vingt-cinq ans ? Alban Guyomarc’h, chercheur en droit des activités spatiales au Collè...",
-      "url": "https://www.lemonde.fr/sciences/article/2026/02/13/apres-le-depart-de-sophie-adenot-vers-l-iss-la-station-reste-l-un-des-derniers-terrains-de-cooperation-entre-les-russes-et-les-autres-puissances-spatiales-occidentales_6666682_1650684.html",
-      "source": "Le Monde",
-      "publishedAt": "2026-02-13T17:49:52Z",
+      "title": "J’ai créé une app iOS sans savoir coder grâce à l’IA, une expérience enivrante",
+      "description": "« Je pense que si vous deviez faire un choix, il est plus important d'apprendre à coder que d'apprendre une autre langue. » Huit ans plus tard, Tim Cook ferait-il la même déclaration ? La question peu...",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/02/jai-cree-une-app-ios-sans-savoir-coder-grace-lia-une-experience-enivrante-306755",
+      "source": "MacGeneration",
+      "publishedAt": "2026-02-14T09:00:14Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

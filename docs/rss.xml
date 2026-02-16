@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 15 Feb 2026 08:39:45 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 08:56:13 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Cessez d'utiliser ChatGPT avec ses paramètres par défaut : 7 réglages que j'utilise pour en faire un outil professionnel</title>
-            <link>https://www.zdnet.fr/pratique/cessez-dutiliser-chatgpt-avec-ses-parametres-par-defaut-7-reglages-que-jutilise-pour-en-faire-un-outil-professionnel-490096.htm</link>
-            <description><![CDATA[Je suis un utilisateur expérimenté de ChatGPT, et voici les principaux réglages auxquels je fais appel pour tirer le meilleur parti de mes sessions d'IA.]]></description>
-            <pubDate>Sat, 14 Feb 2026 04:02:12 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/pratique/cessez-dutiliser-chatgpt-avec-ses-parametres-par-defaut-7-reglages-que-jutilise-pour-en-faire-un-outil-professionnel-490096.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
-            <title>En ouvrant ChatGPT à la publicité, OpenAI expose l’IA à des dérives dangereuses</title>
-            <link>https://theconversation.com/en-ouvrant-chatgpt-a-la-publicite-openai-expose-lia-a-des-derives-dangereuses-275748</link>
-            <description><![CDATA[Les chatbots sont utilisés pour demander conseil, réfléchir, décider. Insérer des annonces dans cet espace intime crée un risque inédit.]]></description>
-            <pubDate>Sat, 14 Feb 2026 07:42:50 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/en-ouvrant-chatgpt-a-la-publicite-openai-expose-lia-a-des-derives-dangereuses-275748</guid>
-            <source>The Conversation Africa</source>
+            <title>Prédiction d’âge sur ChatGPT, la sécurité passe au crible</title>
+            <link>https://www.zataz.com/prediction-dage-sur-chatgpt-la-securite-passe-au-crible/</link>
+            <description><![CDATA[ChatGPT prédit l’âge, active un mode mineur, et propose une vérification 18+ via l'outil Persona....]]></description>
+            <pubDate>Sun, 15 Feb 2026 01:08:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zataz.com/prediction-dage-sur-chatgpt-la-securite-passe-au-crible/</guid>
+            <source>Zataz.com</source>
         </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
@@ -35,6 +27,14 @@
             <pubDate>Sat, 17 Jan 2026 17:49:37 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=N0gTIxg9l2A</guid>
             <source>Ludo Salenne</source>
+        </item>
+        <item>
+            <title>Analyse de données avec Orange</title>
+            <link>https://www.youtube.com/watch?v=hw8TiHABNLc</link>
+            <description><![CDATA[Orange Data Mining : Analyse de données &amp; Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...]]></description>
+            <pubDate>Thu, 29 Jan 2026 16:09:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=hw8TiHABNLc</guid>
+            <source>Ardy Fanny Nell REBOUKA REBOUKA</source>
         </item>
         <item>
             <title>Python Machine Learning sous Excel avec « xlwings lite »</title>
@@ -61,6 +61,14 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
+            <title>Cédric Klapisch : « l’Intelligence artificielle me donne encore plus envie de faire du cinéma »</title>
+            <link>https://www.huffingtonpost.fr/culture/article/cedric-klapisch-l-intelligence-artificielle-me-donne-encore-plus-envie-de-faire-du-cinema_260384.html</link>
+            <description><![CDATA[Président du jury de la deuxième édition de l’Artefact AI Film Festival, le réalisateur de « La Venue de l’avenir » a choisi de faire preuve de curiosité. Bien que l’IA l’inquiète.]]></description>
+            <pubDate>Sun, 15 Feb 2026 07:00:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.huffingtonpost.fr/culture/article/cedric-klapisch-l-intelligence-artificielle-me-donne-encore-plus-envie-de-faire-du-cinema_260384.html</guid>
+            <source>Le HuffPost</source>
+        </item>
+        <item>
             <title>Connexion entre Python (notebook) et Excel via « xlwings »</title>
             <link>https://www.youtube.com/watch?v=-ONGM2pg3tc</link>
             <description><![CDATA[Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...]]></description>
@@ -83,22 +91,6 @@
             <pubDate>Sun, 18 Jan 2026 16:00:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Z8myUXypozU</guid>
             <source>Yassine Sdiri</source>
-        </item>
-        <item>
-            <title>Elon Musk dévoile une base lunaire comme nouvelle ambition pour xAI et SpaceX</title>
-            <link>https://www.fredzone.org/elon-musk-devoile-une-base-lunaire-comme-nouvelle-ambition-pour-xai-et-spacex/</link>
-            <description><![CDATA[Après avoir longtemps vendu le rêve martien, Elon Musk pivote radicalement sa rhétorique. Le milliardaire a présenté hier une vision surprenante lors d’une restructuration interne ayant provoqué plusi...]]></description>
-            <pubDate>Fri, 13 Feb 2026 13:33:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.fredzone.org/elon-musk-devoile-une-base-lunaire-comme-nouvelle-ambition-pour-xai-et-spacex/</guid>
-            <source>FREDZONE</source>
-        </item>
-        <item>
-            <title>Le biathlète et sa carabine, une relation si spéciale pour les biathlètes aux JO de Milan Cortina</title>
-            <link>https://www.franceinfo.fr/les-jeux-olympiques/milan-cortina-2026/le-biathlete-et-sa-carabine-une-relation-si-speciale-pour-les-biathletes-aux-jo-de-milan-cortina_7788203.html</link>
-            <description><![CDATA[Comme un prolongement du corps du biathlète, la carabine est un atout essentiel autant qu'un compagnon de fortune.]]></description>
-            <pubDate>Sat, 14 Feb 2026 06:30:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/les-jeux-olympiques/milan-cortina-2026/le-biathlete-et-sa-carabine-une-relation-si-speciale-pour-les-biathletes-aux-jo-de-milan-cortina_7788203.html</guid>
-            <source>Franceinfo.fr</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -141,22 +133,6 @@
             <source>AllAboutData</source>
         </item>
         <item>
-            <title>Elon Musk veut une usine sur la Lune… avec une catapulte électromagnétique pour lancer ses satellites IA !</title>
-            <link>https://www.futura-sciences.com/tech/actualites/technologie-elon-musk-veut-usine-lune-catapulte-electromagnetique-lancer-satellites-ia-131270/</link>
-            <description><![CDATA[Pour faciliter la mise en place de ses data centers orbitaux dédiés à l’IA, Elon Musk veut les lancer depuis la Lune. Il compte créer une usine d’assemblage des satellites sur l'astre. Un canon électr...]]></description>
-            <pubDate>Fri, 13 Feb 2026 15:08:57 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/technologie-elon-musk-veut-usine-lune-catapulte-electromagnetique-lancer-satellites-ia-131270/</guid>
-            <source>Futura</source>
-        </item>
-        <item>
-            <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
-            <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
-            <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
-            <pubDate>Fri, 09 Jan 2026 17:01:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=gcbiOQCR-O8</guid>
-            <source>WeData</source>
-        </item>
-        <item>
             <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
             <link>https://www.youtube.com/watch?v=wNyw2TN8mh0</link>
             <description><![CDATA[]]></description>
@@ -171,6 +147,31 @@
             <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
             <source>Sébastien Daviot - Expertise Data</source>
+        </item>
+        <item>
+            <title>« Nous ne sommes plus dans la théorie, les risques d’une attaque à travers l’IA sont bien réels »,
+Entretien avec le PDG de Check Point</title>
+            <link>https://www.latribune.fr/article/tech/3738506754763714/nous-ne-sommes-plus-dans-la-theorie-les-risques-d-une-attaque-a-travers-l-ia-sont-bien-reels-entretien-avec-le-pdg-de-check-point</link>
+            <description><![CDATA[En quelques mois, le géant de la cybersécurité Check Point a racheté quatre start-ups pour plus de 300 millions de dollars. Dans un entretien avec La Tribune, le PDG du groupe revient sur les nouveaux...]]></description>
+            <pubDate>Sat, 14 Feb 2026 11:27:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.latribune.fr/article/tech/3738506754763714/nous-ne-sommes-plus-dans-la-theorie-les-risques-d-une-attaque-a-travers-l-ia-sont-bien-reels-entretien-avec-le-pdg-de-check-point</guid>
+            <source>La Tribune.fr</source>
+        </item>
+        <item>
+            <title>Construis ta première Data Pipeline en Python (Notion API → SQLite → Docker → Metabase)</title>
+            <link>https://www.youtube.com/watch?v=wzWGPdkr_sE</link>
+            <description><![CDATA[DANS CETTE VIDÉO Apprends à construire ta première data pipeline complète en Python, de A à Z, 100% gratuitement depuis ...]]></description>
+            <pubDate>Wed, 07 Jan 2026 13:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=wzWGPdkr_sE</guid>
+            <source>KottioDev</source>
+        </item>
+        <item>
+            <title>Comment devenir Data Scientist ? Le parcours décodé</title>
+            <link>https://www.youtube.com/watch?v=ZHuD0pzTdG0</link>
+            <description><![CDATA[Le parcours Data Scientist décodé : devenez l'expert des données. Dans cette vidéo, plongez au cœur du parcours Data Scientist ...]]></description>
+            <pubDate>Wed, 28 Jan 2026 14:14:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ZHuD0pzTdG0</guid>
+            <source>Liora</source>
         </item>
     </channel>
 </rss>
