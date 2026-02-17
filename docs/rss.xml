@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 16 Feb 2026 08:56:13 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 17 Feb 2026 08:54:07 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,20 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Prédiction d’âge sur ChatGPT, la sécurité passe au crible</title>
-            <link>https://www.zataz.com/prediction-dage-sur-chatgpt-la-securite-passe-au-crible/</link>
-            <description><![CDATA[ChatGPT prédit l’âge, active un mode mineur, et propose une vérification 18+ via l'outil Persona....]]></description>
-            <pubDate>Sun, 15 Feb 2026 01:08:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zataz.com/prediction-dage-sur-chatgpt-la-securite-passe-au-crible/</guid>
-            <source>Zataz.com</source>
+            <title>22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)</title>
+            <link>https://www.youtube.com/watch?v=p0D5zWVTkUU</link>
+            <description><![CDATA[Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...]]></description>
+            <pubDate>Thu, 08 Jan 2026 19:12:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=p0D5zWVTkUU</guid>
+            <source>Ludo Salenne</source>
+        </item>
+        <item>
+            <title>Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)</title>
+            <link>https://www.youtube.com/watch?v=W3ygk9QJ4ks</link>
+            <description><![CDATA[L'ÈRE DU LOW-COST IA EST FINIE Passez à la Vision et bâtissez un business réel. Récupérez les ressources, outils ...]]></description>
+            <pubDate>Thu, 22 Jan 2026 08:43:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=W3ygk9QJ4ks</guid>
+            <source>Frank Houbre - IA & intelligence artificielle</source>
         </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
@@ -37,12 +45,28 @@
             <source>Ardy Fanny Nell REBOUKA REBOUKA</source>
         </item>
         <item>
-            <title>Python Machine Learning sous Excel avec « xlwings lite »</title>
-            <link>https://www.youtube.com/watch?v=feDNuaLVDLk</link>
-            <description><![CDATA[Machine learning. Data Science. Analyse discriminante linéaire. Programmation de macros et de fonctions personnalisées en ...]]></description>
-            <pubDate>Mon, 22 Dec 2025 15:26:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=feDNuaLVDLk</guid>
+            <title>IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2</title>
+            <link>https://www.youtube.com/watch?v=xCV8IUkhuXg</link>
+            <description><![CDATA[IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2 ...]]></description>
+            <pubDate>Wed, 14 Jan 2026 11:24:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=xCV8IUkhuXg</guid>
+            <source>Tutoriels MAO</source>
+        </item>
+        <item>
+            <title>Règles d’association avec KNIME</title>
+            <link>https://www.youtube.com/watch?v=I-L2k_lzopQ</link>
+            <description><![CDATA[Machine learning. Data Mining. Data Science. Extraction des règles d'association à partir de données tabulaires avec le ...]]></description>
+            <pubDate>Wed, 21 Jan 2026 10:01:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=I-L2k_lzopQ</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>J’ai créé un MINI-FILM avec l’Intelligence Artificielle (de A à Z)</title>
+            <link>https://www.youtube.com/watch?v=7DJcW7FfKEA</link>
+            <description><![CDATA[Dans ce tutoriel, je te montre comment créer un mini-film avec l'intelligence artificielle,de A à Z, même si tu débutes. Tu vas ...]]></description>
+            <pubDate>Thu, 08 Jan 2026 10:00:22 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=7DJcW7FfKEA</guid>
+            <source>Landry-S</source>
         </item>
         <item>
             <title>Power BI Desktop Installation TUTO GRATUIT 2025</title>
@@ -61,36 +85,12 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>Cédric Klapisch : « l’Intelligence artificielle me donne encore plus envie de faire du cinéma »</title>
-            <link>https://www.huffingtonpost.fr/culture/article/cedric-klapisch-l-intelligence-artificielle-me-donne-encore-plus-envie-de-faire-du-cinema_260384.html</link>
-            <description><![CDATA[Président du jury de la deuxième édition de l’Artefact AI Film Festival, le réalisateur de « La Venue de l’avenir » a choisi de faire preuve de curiosité. Bien que l’IA l’inquiète.]]></description>
-            <pubDate>Sun, 15 Feb 2026 07:00:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.huffingtonpost.fr/culture/article/cedric-klapisch-l-intelligence-artificielle-me-donne-encore-plus-envie-de-faire-du-cinema_260384.html</guid>
-            <source>Le HuffPost</source>
-        </item>
-        <item>
-            <title>Connexion entre Python (notebook) et Excel via « xlwings »</title>
-            <link>https://www.youtube.com/watch?v=-ONGM2pg3tc</link>
-            <description><![CDATA[Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...]]></description>
-            <pubDate>Sun, 21 Dec 2025 10:20:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=-ONGM2pg3tc</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>C’est dingue : SQL devient du TailwindCSS</title>
-            <link>https://www.youtube.com/watch?v=zCkmpwGTDmQ</link>
-            <description><![CDATA[Quand le monde du Web va trop loin : voici Tailwind SQL. Un projet totalement fou (et surtout inutilisable sérieusement) qui ...]]></description>
-            <pubDate>Fri, 02 Jan 2026 20:27:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=zCkmpwGTDmQ</guid>
-            <source>Faiz Dev</source>
-        </item>
-        <item>
-            <title>Comprendre le NOUVEAU Google AI Studio en 20 Minutes</title>
-            <link>https://www.youtube.com/watch?v=Z8myUXypozU</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4sMbg4I Rejoins ma communauté ...]]></description>
-            <pubDate>Sun, 18 Jan 2026 16:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z8myUXypozU</guid>
-            <source>Yassine Sdiri</source>
+            <title>D’après Microsoft, l’IA va remplacer les cadres et employés de bureau dans moins de 2 ans</title>
+            <link>https://www.phonandroid.com/dapres-microsoft-lia-va-remplacer-les-cadres-et-employes-de-bureau-dans-moins-de-2-ans.html</link>
+            <description><![CDATA[L’intelligence artificielle pourrait bouleverser le monde du travail bien plus vite que prévu. Le patron de Microsoft AI estime que la plupart des emplois de bureau seront automatisés d’ici 18...]]></description>
+            <pubDate>Mon, 16 Feb 2026 08:04:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.phonandroid.com/dapres-microsoft-lia-va-remplacer-les-cadres-et-employes-de-bureau-dans-moins-de-2-ans.html</guid>
+            <source>Phonandroid</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -117,14 +117,6 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Feature Engineering Hands on (French)</title>
-            <link>https://www.youtube.com/watch?v=VMi18mtBrPE</link>
-            <description><![CDATA[Dans ce tutoriel pratique, vous apprendrez les bases du feature engineering et comment transformer des données brutes en ...]]></description>
-            <pubDate>Sun, 01 Feb 2026 13:41:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VMi18mtBrPE</guid>
-            <source>Machine Learning and Optimization for All</source>
-        </item>
-        <item>
             <title>2-Data Mining :Arbres de Décision#notebooklm</title>
             <link>https://www.youtube.com/watch?v=_Fe5ju7H5LI</link>
             <description><![CDATA[Introduction au Data Mining Dans cette vidéo, nous expliquons les concepts fondamentaux du Data Mining, ses techniques ...]]></description>
@@ -149,13 +141,12 @@
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>« Nous ne sommes plus dans la théorie, les risques d’une attaque à travers l’IA sont bien réels »,
-Entretien avec le PDG de Check Point</title>
-            <link>https://www.latribune.fr/article/tech/3738506754763714/nous-ne-sommes-plus-dans-la-theorie-les-risques-d-une-attaque-a-travers-l-ia-sont-bien-reels-entretien-avec-le-pdg-de-check-point</link>
-            <description><![CDATA[En quelques mois, le géant de la cybersécurité Check Point a racheté quatre start-ups pour plus de 300 millions de dollars. Dans un entretien avec La Tribune, le PDG du groupe revient sur les nouveaux...]]></description>
-            <pubDate>Sat, 14 Feb 2026 11:27:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.latribune.fr/article/tech/3738506754763714/nous-ne-sommes-plus-dans-la-theorie-les-risques-d-une-attaque-a-travers-l-ia-sont-bien-reels-entretien-avec-le-pdg-de-check-point</guid>
-            <source>La Tribune.fr</source>
+            <title>L’espace au service du climat : comment exploiter l’extraordinaire masse de données fournies par les satellites ?</title>
+            <link>https://theconversation.com/lespace-au-service-du-climat-comment-exploiter-lextraordinaire-masse-de-donnees-fournies-par-les-satellites-273162</link>
+            <description><![CDATA[La somme d’informations que nous transmettent les satellites est colossale. Le défi est donc de produire des données de qualité, utiles aux décideurs.]]></description>
+            <pubDate>Sun, 15 Feb 2026 16:02:59 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/lespace-au-service-du-climat-comment-exploiter-lextraordinaire-masse-de-donnees-fournies-par-les-satellites-273162</guid>
+            <source>The Conversation Africa</source>
         </item>
         <item>
             <title>Construis ta première Data Pipeline en Python (Notion API → SQLite → Docker → Metabase)</title>
@@ -172,6 +163,14 @@ Entretien avec le PDG de Check Point</title>
             <pubDate>Wed, 28 Jan 2026 14:14:42 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=ZHuD0pzTdG0</guid>
             <source>Liora</source>
+        </item>
+        <item>
+            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
+            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
+            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
+            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
+            <source>Oscar Aksanti</source>
         </item>
     </channel>
 </rss>
