@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 17 Feb 2026 08:54:07 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 18 Feb 2026 08:14:57 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)</title>
-            <link>https://www.youtube.com/watch?v=p0D5zWVTkUU</link>
-            <description><![CDATA[Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...]]></description>
-            <pubDate>Thu, 08 Jan 2026 19:12:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=p0D5zWVTkUU</guid>
-            <source>Ludo Salenne</source>
-        </item>
-        <item>
-            <title>Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)</title>
-            <link>https://www.youtube.com/watch?v=W3ygk9QJ4ks</link>
-            <description><![CDATA[L'ÈRE DU LOW-COST IA EST FINIE Passez à la Vision et bâtissez un business réel. Récupérez les ressources, outils ...]]></description>
-            <pubDate>Thu, 22 Jan 2026 08:43:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=W3ygk9QJ4ks</guid>
-            <source>Frank Houbre - IA & intelligence artificielle</source>
+            <title>Créer un Agent IA puissant (RAG) : Tutoriel Complet (no code)</title>
+            <link>https://www.youtube.com/watch?v=_ldYxumnGIo</link>
+            <description><![CDATA[Pour récupérer les workflows sur n8n : https://tally.so/r/pbyR9y Si tu utilises déjà ChatGPT ou Claude en entreprise, tu l'as ...]]></description>
+            <pubDate>Wed, 07 Jan 2026 07:49:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=_ldYxumnGIo</guid>
+            <source>Louis Graffeuil</source>
         </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
@@ -37,36 +29,20 @@
             <source>Ludo Salenne</source>
         </item>
         <item>
+            <title>Analyse discriminante PLS « from scratch » avec ChatGPT (Python)</title>
+            <link>https://www.youtube.com/watch?v=YLh5gsmOFkQ</link>
+            <description><![CDATA[Machine learning. Data science. Classification supervisée. Analyse discriminante PLS, approche en deux étapes : régression ...]]></description>
+            <pubDate>Tue, 17 Feb 2026 16:40:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=YLh5gsmOFkQ</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
             <title>Analyse de données avec Orange</title>
             <link>https://www.youtube.com/watch?v=hw8TiHABNLc</link>
             <description><![CDATA[Orange Data Mining : Analyse de données &amp; Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...]]></description>
             <pubDate>Thu, 29 Jan 2026 16:09:39 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=hw8TiHABNLc</guid>
             <source>Ardy Fanny Nell REBOUKA REBOUKA</source>
-        </item>
-        <item>
-            <title>IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2</title>
-            <link>https://www.youtube.com/watch?v=xCV8IUkhuXg</link>
-            <description><![CDATA[IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2 ...]]></description>
-            <pubDate>Wed, 14 Jan 2026 11:24:17 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=xCV8IUkhuXg</guid>
-            <source>Tutoriels MAO</source>
-        </item>
-        <item>
-            <title>Règles d’association avec KNIME</title>
-            <link>https://www.youtube.com/watch?v=I-L2k_lzopQ</link>
-            <description><![CDATA[Machine learning. Data Mining. Data Science. Extraction des règles d'association à partir de données tabulaires avec le ...]]></description>
-            <pubDate>Wed, 21 Jan 2026 10:01:16 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=I-L2k_lzopQ</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>J’ai créé un MINI-FILM avec l’Intelligence Artificielle (de A à Z)</title>
-            <link>https://www.youtube.com/watch?v=7DJcW7FfKEA</link>
-            <description><![CDATA[Dans ce tutoriel, je te montre comment créer un mini-film avec l'intelligence artificielle,de A à Z, même si tu débutes. Tu vas ...]]></description>
-            <pubDate>Thu, 08 Jan 2026 10:00:22 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=7DJcW7FfKEA</guid>
-            <source>Landry-S</source>
         </item>
         <item>
             <title>Power BI Desktop Installation TUTO GRATUIT 2025</title>
@@ -77,6 +53,22 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
+            <title>Airbnb expérimente la recherche par intelligence artificielle auprès d’un nombre restreint d’utilisateurs</title>
+            <link>https://www.begeek.fr/airbnb-experimente-la-recherche-par-intelligence-artificielle-aupres-dun-nombre-restreint-dutilisateurs-428245</link>
+            <description><![CDATA[Airbnb expérimente actuellement une nouvelle fonctionnalité de recherche basée sur l’intelligence artificielle auprès d’une minorité de ses utilisateurs. Cette phase de test vise à améliorer l’expérie...]]></description>
+            <pubDate>Mon, 16 Feb 2026 16:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.begeek.fr/airbnb-experimente-la-recherche-par-intelligence-artificielle-aupres-dun-nombre-restreint-dutilisateurs-428245</guid>
+            <source>Begeek.fr</source>
+        </item>
+        <item>
+            <title>ELT avec BigQuery, GCS, Airflow, Python et SQL (video 1) | Présentation du cours et Objectifs</title>
+            <link>https://www.youtube.com/watch?v=Fzb6Zgl6hhk</link>
+            <description><![CDATA[Google Cloud Platform pour Data Engineers : Projet pratique ELT avec BigQuery, GCS, Airflow, Python et SQL - Projet réel sur ...]]></description>
+            <pubDate>Sun, 28 Dec 2025 17:18:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Fzb6Zgl6hhk</guid>
+            <source>J.A DATATECH CONSULTING</source>
+        </item>
+        <item>
             <title>Qu&amp;#39;est-ce que Power BI ? (Tuto Intro 2025)</title>
             <link>https://www.youtube.com/watch?v=wBsvjPNqUco</link>
             <description><![CDATA[Vous entendez parler de "Data" partout, mais c'est quoi concrètement Power BI ? En 2025, c'est l'outil indispensable pour booster ...]]></description>
@@ -85,20 +77,52 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>D’après Microsoft, l’IA va remplacer les cadres et employés de bureau dans moins de 2 ans</title>
-            <link>https://www.phonandroid.com/dapres-microsoft-lia-va-remplacer-les-cadres-et-employes-de-bureau-dans-moins-de-2-ans.html</link>
-            <description><![CDATA[L’intelligence artificielle pourrait bouleverser le monde du travail bien plus vite que prévu. Le patron de Microsoft AI estime que la plupart des emplois de bureau seront automatisés d’ici 18...]]></description>
-            <pubDate>Mon, 16 Feb 2026 08:04:37 -0000</pubDate>
-            <guid isPermaLink="true">https://www.phonandroid.com/dapres-microsoft-lia-va-remplacer-les-cadres-et-employes-de-bureau-dans-moins-de-2-ans.html</guid>
-            <source>Phonandroid</source>
+            <title>Connexion entre Python (notebook) et Excel via « xlwings »</title>
+            <link>https://www.youtube.com/watch?v=-ONGM2pg3tc</link>
+            <description><![CDATA[Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...]]></description>
+            <pubDate>Sun, 21 Dec 2025 10:20:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=-ONGM2pg3tc</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Introduction | SQL - EP1</title>
-            <link>https://www.youtube.com/watch?v=0AJ_fS6kLgg</link>
-            <description><![CDATA[Soutenir EvoluNoob grâce au financement participatif : https://liberapay.com/EvoluNoob Bienvenue dans ce cours SQL en ...]]></description>
-            <pubDate>Fri, 19 Dec 2025 19:00:16 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=0AJ_fS6kLgg</guid>
-            <source>EvoluNoob</source>
+            <title>Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)</title>
+            <link>https://www.youtube.com/watch?v=AsNBiYCJRyk</link>
+            <description><![CDATA[Vous voulez apprendre à créer des tableaux de bord mais vous ne savez pas par où commencer ? Tout commence ici ! ​Dans ...]]></description>
+            <pubDate>Sun, 08 Feb 2026 09:29:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=AsNBiYCJRyk</guid>
+            <source>Diaby Fatemate </source>
+        </item>
+        <item>
+            <title>MySQL vs PostgreSQL vs MongoDB : Différences 2026</title>
+            <link>https://www.youtube.com/watch?v=KD53CSQtsHQ</link>
+            <description><![CDATA[SQL ou NoSQL ? Comprendre les différences entre MySQL, PostgreSQL et MongoDB. #dev #data #tech.]]></description>
+            <pubDate>Thu, 25 Dec 2025 19:39:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=KD53CSQtsHQ</guid>
+            <source>TechVantage FR</source>
+        </item>
+        <item>
+            <title>SQL | Maîtriser l&amp;#39;Opérateur INTERSECT (Trouver les Doublons Communs) [Opérateurs d&amp;#39;Ensemble #2] #sql</title>
+            <link>https://www.youtube.com/watch?v=_ZnaKkb3vzQ</link>
+            <description><![CDATA[Bienvenue dans l'Épisode 2 de notre série sur les Opérateurs d'Ensemble SQL ! L'opérateur INTERSECT est l'outil d'audit ultime ...]]></description>
+            <pubDate>Sun, 21 Dec 2025 04:49:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=_ZnaKkb3vzQ</guid>
+            <source>Oracle SQL Tips FR</source>
+        </item>
+        <item>
+            <title>SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips</title>
+            <link>https://www.youtube.com/watch?v=qup-uitBx58</link>
+            <description><![CDATA[Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...]]></description>
+            <pubDate>Sun, 04 Jan 2026 03:10:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=qup-uitBx58</guid>
+            <source>Oracle SQL Tips FR</source>
+        </item>
+        <item>
+            <title>Le secret des pros : automatiser l&amp;#39;organisation de vos mesures dans Power BI</title>
+            <link>https://www.youtube.com/watch?v=GQN9jmpejhw</link>
+            <description><![CDATA[Vos mesures Power BI sont dispersées dans toutes vos tables ? Découvrez comment utiliser Tabular Editor pour centraliser et ...]]></description>
+            <pubDate>Sun, 18 Jan 2026 16:45:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=GQN9jmpejhw</guid>
+            <source>Barthelemy Montreuil</source>
         </item>
         <item>
             <title>Formation SQL partie 5 : SQL GROUP BY — Comprendre enfin simplement</title>
@@ -125,52 +149,28 @@
             <source>AllAboutData</source>
         </item>
         <item>
-            <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
-            <link>https://www.youtube.com/watch?v=wNyw2TN8mh0</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Tue, 20 Jan 2026 15:55:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=wNyw2TN8mh0</guid>
-            <source>Le Decodeur</source>
+            <title>Guide des Grounding Queries dans Bing Webmaster Tools</title>
+            <link>https://www.webrankinfo.com/dossiers/ia/bing-grounding-queries</link>
+            <description><![CDATA[Le rapport "AI Performance" dans Bing Webmaster Tools donne des indications précieuses pour évaluer la présence de son site dans les résultats IA. Voyez comment aller encore plus loin pour votre GEO.]]></description>
+            <pubDate>Tue, 17 Feb 2026 07:39:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.webrankinfo.com/dossiers/ia/bing-grounding-queries</guid>
+            <source>Webrankinfo.com</source>
         </item>
         <item>
-            <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
-            <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
-            <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
-            <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
-            <source>Sébastien Daviot - Expertise Data</source>
+            <title>Formation SQL PARTIE 6 - HAVING</title>
+            <link>https://www.youtube.com/watch?v=bgN8YayL7vM</link>
+            <description><![CDATA[Dans cette partie 5 de la formation SQL, nous expliquons la commande HAVING. Tu comprendras la différence entre WHERE et ...]]></description>
+            <pubDate>Wed, 24 Dec 2025 22:32:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=bgN8YayL7vM</guid>
+            <source>MedData -Tech</source>
         </item>
         <item>
-            <title>L’espace au service du climat : comment exploiter l’extraordinaire masse de données fournies par les satellites ?</title>
-            <link>https://theconversation.com/lespace-au-service-du-climat-comment-exploiter-lextraordinaire-masse-de-donnees-fournies-par-les-satellites-273162</link>
-            <description><![CDATA[La somme d’informations que nous transmettent les satellites est colossale. Le défi est donc de produire des données de qualité, utiles aux décideurs.]]></description>
-            <pubDate>Sun, 15 Feb 2026 16:02:59 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/lespace-au-service-du-climat-comment-exploiter-lextraordinaire-masse-de-donnees-fournies-par-les-satellites-273162</guid>
-            <source>The Conversation Africa</source>
-        </item>
-        <item>
-            <title>Construis ta première Data Pipeline en Python (Notion API → SQLite → Docker → Metabase)</title>
-            <link>https://www.youtube.com/watch?v=wzWGPdkr_sE</link>
-            <description><![CDATA[DANS CETTE VIDÉO Apprends à construire ta première data pipeline complète en Python, de A à Z, 100% gratuitement depuis ...]]></description>
-            <pubDate>Wed, 07 Jan 2026 13:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=wzWGPdkr_sE</guid>
-            <source>KottioDev</source>
-        </item>
-        <item>
-            <title>Comment devenir Data Scientist ? Le parcours décodé</title>
-            <link>https://www.youtube.com/watch?v=ZHuD0pzTdG0</link>
-            <description><![CDATA[Le parcours Data Scientist décodé : devenez l'expert des données. Dans cette vidéo, plongez au cœur du parcours Data Scientist ...]]></description>
-            <pubDate>Wed, 28 Jan 2026 14:14:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ZHuD0pzTdG0</guid>
-            <source>Liora</source>
-        </item>
-        <item>
-            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
-            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
-            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
-            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
-            <source>Oscar Aksanti</source>
+            <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
+            <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
+            <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
+            <pubDate>Fri, 09 Jan 2026 17:01:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=gcbiOQCR-O8</guid>
+            <source>WeData</source>
         </item>
     </channel>
 </rss>
