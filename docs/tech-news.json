@@ -1,29 +1,17 @@
 {
-  "lastUpdate": "2026-02-18T08:54:01.506517",
+  "lastUpdate": "2026-02-19T08:52:58.823542",
   "articles": [
     {
-      "title": "22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)",
-      "description": "Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...",
-      "url": "https://www.youtube.com/watch?v=p0D5zWVTkUU",
-      "source": "Ludo Salenne",
-      "publishedAt": "2026-01-08T19:12:40Z",
+      "title": "PHARMAICY : c’est quoi cette “drogue numérique” pour intelligence artificielle ?",
+      "description": "Dépenser quelques dizaines d'euros suffit à faire planer ChatGPT et d'autres chatbots à coup de substances numériques.",
+      "url": "https://www.journaldugeek.com/2026/02/18/pharmaicy-cest-quoi-cette-drogue-numerique-pour-intelligence-artificielle/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-02-18T07:02:01Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "p0D5zWVTkUU",
-      "thumbnail": "https://i.ytimg.com/vi/p0D5zWVTkUU/hqdefault.jpg"
-    },
-    {
-      "title": "Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)",
-      "description": "L'ÈRE DU LOW-COST IA EST FINIE Passez à la Vision et bâtissez un business réel. Récupérez les ressources, outils ...",
-      "url": "https://www.youtube.com/watch?v=W3ygk9QJ4ks",
-      "source": "Frank Houbre - IA & intelligence artificielle",
-      "publishedAt": "2026-01-22T08:43:47Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "W3ygk9QJ4ks",
-      "thumbnail": "https://i.ytimg.com/vi/W3ygk9QJ4ks/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "J&#39;ai résilié tous mes outils IA (j&#39;ai fabriqué le mien)",
@@ -38,16 +26,40 @@
       "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
     },
     {
-      "title": "IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2",
-      "description": "IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2 ...",
-      "url": "https://www.youtube.com/watch?v=xCV8IUkhuXg",
-      "source": "Tutoriels MAO",
-      "publishedAt": "2026-01-14T11:24:17Z",
+      "title": "Analyse de données avec Orange",
+      "description": "Orange Data Mining : Analyse de données & Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...",
+      "url": "https://www.youtube.com/watch?v=hw8TiHABNLc",
+      "source": "Ardy Fanny Nell REBOUKA REBOUKA",
+      "publishedAt": "2026-01-29T16:09:39Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "xCV8IUkhuXg",
-      "thumbnail": "https://i.ytimg.com/vi/xCV8IUkhuXg/hqdefault.jpg"
+      "videoId": "hw8TiHABNLc",
+      "thumbnail": "https://i.ytimg.com/vi/hw8TiHABNLc/hqdefault.jpg"
+    },
+    {
+      "title": "IA agentique : le Conseil de l'IA et du numérique fait l'inventaire des risques",
+      "description": "L'intelligence artificielle agentique s'impose comme le nouvel horizon du domaine, en permettant aux technologies d'intelligence artificielle de passer à la prise de décision. Mais pour le Conseil de ...",
+      "url": "https://www.zdnet.fr/actualites/ia-agentique-le-conseil-de-lia-et-du-numerique-fait-linventaire-des-risques-490306.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-02-18T07:50:11Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mission Genesis : Washington lance l’IA à l’assaut de l’industrie, du nucléaire et du quantique",
+      "description": "Avec sa mission Genesis, le gouvernement américain veut transformer l’intelligence artificielle en moteur d’accélération scientifique et industrielle. Objectif : découvrir plus vite, produire plus vit...",
+      "url": "https://www.zdnet.fr/actualites/mission-genesis-washington-lance-lia-a-lassaut-de-lindustrie-du-nucleaire-et-du-quantique-490349.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-02-18T07:50:11Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Power BI Desktop Installation TUTO GRATUIT 2025",
@@ -110,18 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/AsNBiYCJRyk/hqdefault.jpg"
     },
     {
-      "title": "Analyse discriminante avec « discrimintools » (Python)",
-      "description": "Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...",
-      "url": "https://www.youtube.com/watch?v=NvdjH1fRRE0",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-02-16T09:53:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "NvdjH1fRRE0",
-      "thumbnail": "https://i.ytimg.com/vi/NvdjH1fRRE0/hqdefault.jpg"
-    },
-    {
       "title": "Formation SQL partie 5 : SQL GROUP BY — Comprendre enfin simplement",
       "description": "Dans cette partie 5 de la formation SQL pour débutants, nous découvrons la commande GROUP BY. Tu apprendras à regrouper ...",
       "url": "https://www.youtube.com/watch?v=hGbgeWMD4Dc",
@@ -182,18 +182,6 @@
       "thumbnail": "https://i.ytimg.com/vi/wNyw2TN8mh0/hqdefault.jpg"
     },
     {
-      "title": "Ingénieur des données : rôle, missions, outils et importance du Data Engineer",
-      "description": "Dans ce tutoriel complet, nous expliquons le métier d'ingénieur des données, aussi appelé data engineer. Vous découvrirez ...",
-      "url": "https://www.youtube.com/watch?v=D2TZ3U6WUZ0",
-      "source": "Basic Skills",
-      "publishedAt": "2026-01-23T05:51:51Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "D2TZ3U6WUZ0",
-      "thumbnail": "https://i.ytimg.com/vi/D2TZ3U6WUZ0/hqdefault.jpg"
-    },
-    {
       "title": "Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)",
       "description": "Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...",
       "url": "https://www.youtube.com/watch?v=qKWTshE6WDI",
@@ -206,11 +194,11 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
-      "title": "data-science-document-ai 1.62.1",
-      "description": "\"Document AI repo for data science\"",
-      "url": "https://pypi.org/project/data-science-document-ai/1.62.1/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-02-16T10:54:57Z",
+      "title": "Ce qui est reproché à la société Cambridge Analytica dans l’usage des données",
+      "description": "Cambridge Analytica évoque moins une start‑up de la tech qu’un signal d’alarme mondial. Sous le vernis d’outils de campagne high‑tech, quelque chose d’inquiétant s’est glissé dans les coulisses numéri...",
+      "url": "https://golem13.fr/cambridge-analytica-reproche/",
+      "source": "Golem13.fr",
+      "publishedAt": "2026-02-18T06:57:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,64 +230,76 @@
       "thumbnail": "https://i.ytimg.com/vi/ZHuD0pzTdG0/hqdefault.jpg"
     },
     {
-      "title": "ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)",
-      "description": "Dans cette vidéo de 90 minutes, je vous apprends à utiliser ChatGPT simplement, avec des exemples concrets : comprendre ...",
-      "url": "https://www.youtube.com/watch?v=Wg9M140pduU",
-      "source": "SENIORS ET INFORMATIQUE",
-      "publishedAt": "2026-02-07T17:00:06Z",
+      "title": "Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro",
+      "description": "Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...",
+      "url": "https://www.youtube.com/watch?v=8EXbMYHL8xw",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-01-31T08:46:46Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "8EXbMYHL8xw",
+      "thumbnail": "https://i.ytimg.com/vi/8EXbMYHL8xw/hqdefault.jpg"
+    },
+    {
+      "title": "Étiquettes connectée et IA : comment Carrefour veut supprimer les tâches ingrates en rayon",
+      "description": "Carrefour annonce un partenariat industriel avec Vusion pour digitaliser l'ensemble de son parc de magasins français d'ici 2030. Ce déploiement massif d'IoT et d'intelligence artificielle vise à autom...",
+      "url": "https://www.zdnet.fr/actualites/etiquettes-connectee-et-ia-comment-carrefour-veut-supprimer-les-taches-ingrates-en-rayon-490407.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-02-18T07:02:51Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "”Les petites mains de l’IA”, ces millions de travailleurs cachés indispensables au fonctionnement de l’intelligence artificielle",
+      "description": "Présents dans les pays du Sud, ils effectuent des tâches répétitives et basiques indispensables au fonctionnement des intelligences artificielles, qui souvent ne fonctionnent pas de manière aussi auto...",
+      "url": "https://www.lalibre.be/international/2026/02/18/les-petites-mains-de-lia-ces-millions-de-travailleurs-caches-indispensables-au-fonctionnement-de-lintelligence-artificielle-Q7EHMMNISBFYJCRX5UOXB5CFRU/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-02-18T08:05:09Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Actualité : Google I/O 2026 : la date officielle est tombée, Android et Gemini en vedette",
+      "description": "Après un teasing un brin mystérieux, Google donne rendez-vous aux développeurs du monde entier pour une conférence qui s’annonce décisive. Au programme : intelligence artificielle, nouveautés Android ...",
+      "url": "https://www.lesnumeriques.com/telephone-portable/google-i-o-2026-la-date-officielle-est-tombee-android-et-gemini-en-vedette-n251641.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-02-17T21:40:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Audacia félicite Quantonation Ventures pour le succès de la clôture du fonds Quantonation II à 220 M€ au-delà de l’objectif initial",
+      "description": "Quantonation Ventures, partenaire d’Audacia, devient le 1er fonds au monde dédié au quantique avec environ 325 M€ levés depuis sa création  Paris, le 18...",
+      "url": "https://www.globenewswire.com/news-release/2026/02/18/3239934/0/fr/Audacia-f%C3%A9licite-Quantonation-Ventures-pour-le-succ%C3%A8s-de-la-cl%C3%B4ture-du-fonds-Quantonation-II-%C3%A0-220-M-au-del%C3%A0-de-l-objectif-initial.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-02-18T07:30:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Les théories d&#39;apprentissage5: le connectivisme",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Gob2goPLZBs",
+      "source": "Apprendre le français ",
+      "publishedAt": "2026-01-07T17:44:15Z",
       "category": "tech",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Wg9M140pduU",
-      "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
-    },
-    {
-      "title": "AlphaGenome, une nouvelle avancée en intelligence artificielle pour comprendre les effets des mutations génétiques",
-      "description": "Google vient de sortir un nouveau logiciel d’IA pour explorer les effets des intelligences artificielles. Décryptage de deux spécialistes qui ne font pas partie de l’équipe.",
-      "url": "https://theconversation.com/alphagenome-une-nouvelle-avancee-en-intelligence-artificielle-pour-comprendre-les-effets-des-mutations-genetiques-275833",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-02-16T16:00:30Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "AlphaGenome, une nouvelle avancée en intelligence artificielle pour explorer les effets des mutations génétiques",
-      "description": "Google vient de sortir un nouveau logiciel d’IA pour explorer les effets des intelligences artificielles. Décryptage de deux spécialistes qui ne font pas partie de l’équipe.",
-      "url": "https://theconversation.com/alphagenome-une-nouvelle-avancee-en-intelligence-artificielle-pour-explorer-les-effets-des-mutations-genetiques-275833",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-02-16T16:00:30Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Construire des satellites sur la Lune pour nourrir l’IA : le projet spectaculaire d’Elon Musk défie toute logique actuelle",
-      "description": "Installer une usine sur la Lune pour propulser des satellites dédiés à l’intelligence artificielle grâce à un canon électromagnétique : l’idée paraît sortie d’un roman de science-fiction. Pourtant, el...",
-      "url": "https://dailygeekshow.com/construire-des-satellites-sur-la-lune-pour-nourrir-lia-le-projet-spectaculaire-delon-musk-defie-toute-logique-actuelle/",
-      "source": "Daily Geek Show",
-      "publishedAt": "2026-02-16T18:34:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Apple Music génère des playlists personnalisées avec IA sur iOS 26.4",
-      "description": "Apple déploie une nouvelle fonctionnalité d’Apple Intelligence qui génère automatiquement des playlists dans Apple Music à partir d’un prompt textuel. Disponible dans la première bêta d’iOS 26.4 pour ...",
-      "url": "https://iphoneaddict.fr/post/news-423758-apple-music-genere-playlists-personnalisees-ia-ios-26-4",
-      "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-02-16T21:25:18Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "videoId": "Gob2goPLZBs",
+      "thumbnail": "https://i.ytimg.com/vi/Gob2goPLZBs/hqdefault.jpg"
     }
   ]
 }

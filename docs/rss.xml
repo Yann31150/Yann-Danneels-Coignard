@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 18 Feb 2026 08:54:01 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 19 Feb 2026 08:52:58 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)</title>
-            <link>https://www.youtube.com/watch?v=p0D5zWVTkUU</link>
-            <description><![CDATA[Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...]]></description>
-            <pubDate>Thu, 08 Jan 2026 19:12:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=p0D5zWVTkUU</guid>
-            <source>Ludo Salenne</source>
-        </item>
-        <item>
-            <title>Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)</title>
-            <link>https://www.youtube.com/watch?v=W3ygk9QJ4ks</link>
-            <description><![CDATA[L'ÈRE DU LOW-COST IA EST FINIE Passez à la Vision et bâtissez un business réel. Récupérez les ressources, outils ...]]></description>
-            <pubDate>Thu, 22 Jan 2026 08:43:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=W3ygk9QJ4ks</guid>
-            <source>Frank Houbre - IA & intelligence artificielle</source>
+            <title>PHARMAICY : c’est quoi cette “drogue numérique” pour intelligence artificielle ?</title>
+            <link>https://www.journaldugeek.com/2026/02/18/pharmaicy-cest-quoi-cette-drogue-numerique-pour-intelligence-artificielle/</link>
+            <description><![CDATA[Dépenser quelques dizaines d'euros suffit à faire planer ChatGPT et d'autres chatbots à coup de substances numériques.]]></description>
+            <pubDate>Wed, 18 Feb 2026 07:02:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/02/18/pharmaicy-cest-quoi-cette-drogue-numerique-pour-intelligence-artificielle/</guid>
+            <source>Journal du geek</source>
         </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
@@ -37,12 +29,28 @@
             <source>Ludo Salenne</source>
         </item>
         <item>
-            <title>IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2</title>
-            <link>https://www.youtube.com/watch?v=xCV8IUkhuXg</link>
-            <description><![CDATA[IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2 ...]]></description>
-            <pubDate>Wed, 14 Jan 2026 11:24:17 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=xCV8IUkhuXg</guid>
-            <source>Tutoriels MAO</source>
+            <title>Analyse de données avec Orange</title>
+            <link>https://www.youtube.com/watch?v=hw8TiHABNLc</link>
+            <description><![CDATA[Orange Data Mining : Analyse de données &amp; Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...]]></description>
+            <pubDate>Thu, 29 Jan 2026 16:09:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=hw8TiHABNLc</guid>
+            <source>Ardy Fanny Nell REBOUKA REBOUKA</source>
+        </item>
+        <item>
+            <title>IA agentique : le Conseil de l'IA et du numérique fait l'inventaire des risques</title>
+            <link>https://www.zdnet.fr/actualites/ia-agentique-le-conseil-de-lia-et-du-numerique-fait-linventaire-des-risques-490306.htm</link>
+            <description><![CDATA[L'intelligence artificielle agentique s'impose comme le nouvel horizon du domaine, en permettant aux technologies d'intelligence artificielle de passer à la prise de décision. Mais pour le Conseil de ...]]></description>
+            <pubDate>Wed, 18 Feb 2026 07:50:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/ia-agentique-le-conseil-de-lia-et-du-numerique-fait-linventaire-des-risques-490306.htm</guid>
+            <source>ZDNet France</source>
+        </item>
+        <item>
+            <title>Mission Genesis : Washington lance l’IA à l’assaut de l’industrie, du nucléaire et du quantique</title>
+            <link>https://www.zdnet.fr/actualites/mission-genesis-washington-lance-lia-a-lassaut-de-lindustrie-du-nucleaire-et-du-quantique-490349.htm</link>
+            <description><![CDATA[Avec sa mission Genesis, le gouvernement américain veut transformer l’intelligence artificielle en moteur d’accélération scientifique et industrielle. Objectif : découvrir plus vite, produire plus vit...]]></description>
+            <pubDate>Wed, 18 Feb 2026 07:50:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/mission-genesis-washington-lance-lia-a-lassaut-de-lindustrie-du-nucleaire-et-du-quantique-490349.htm</guid>
+            <source>ZDNet France</source>
         </item>
         <item>
             <title>Power BI Desktop Installation TUTO GRATUIT 2025</title>
@@ -85,14 +93,6 @@
             <source>Diaby Fatemate </source>
         </item>
         <item>
-            <title>Analyse discriminante avec « discrimintools » (Python)</title>
-            <link>https://www.youtube.com/watch?v=NvdjH1fRRE0</link>
-            <description><![CDATA[Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...]]></description>
-            <pubDate>Mon, 16 Feb 2026 09:53:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=NvdjH1fRRE0</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
             <title>Formation SQL partie 5 : SQL GROUP BY — Comprendre enfin simplement</title>
             <link>https://www.youtube.com/watch?v=hGbgeWMD4Dc</link>
             <description><![CDATA[Dans cette partie 5 de la formation SQL pour débutants, nous découvrons la commande GROUP BY. Tu apprendras à regrouper ...]]></description>
@@ -133,14 +133,6 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Ingénieur des données : rôle, missions, outils et importance du Data Engineer</title>
-            <link>https://www.youtube.com/watch?v=D2TZ3U6WUZ0</link>
-            <description><![CDATA[Dans ce tutoriel complet, nous expliquons le métier d'ingénieur des données, aussi appelé data engineer. Vous découvrirez ...]]></description>
-            <pubDate>Fri, 23 Jan 2026 05:51:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=D2TZ3U6WUZ0</guid>
-            <source>Basic Skills</source>
-        </item>
-        <item>
             <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
             <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
             <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
@@ -149,12 +141,12 @@
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>data-science-document-ai 1.62.1</title>
-            <link>https://pypi.org/project/data-science-document-ai/1.62.1/</link>
-            <description><![CDATA["Document AI repo for data science"]]></description>
-            <pubDate>Mon, 16 Feb 2026 10:54:57 -0000</pubDate>
-            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.62.1/</guid>
-            <source>Pypi.org</source>
+            <title>Ce qui est reproché à la société Cambridge Analytica dans l’usage des données</title>
+            <link>https://golem13.fr/cambridge-analytica-reproche/</link>
+            <description><![CDATA[Cambridge Analytica évoque moins une start‑up de la tech qu’un signal d’alarme mondial. Sous le vernis d’outils de campagne high‑tech, quelque chose d’inquiétant s’est glissé dans les coulisses numéri...]]></description>
+            <pubDate>Wed, 18 Feb 2026 06:57:00 -0000</pubDate>
+            <guid isPermaLink="true">https://golem13.fr/cambridge-analytica-reproche/</guid>
+            <source>Golem13.fr</source>
         </item>
         <item>
             <title>Construis ta première Data Pipeline en Python (Notion API → SQLite → Docker → Metabase)</title>
@@ -171,6 +163,14 @@
             <pubDate>Wed, 28 Jan 2026 14:14:42 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=ZHuD0pzTdG0</guid>
             <source>Liora</source>
+        </item>
+        <item>
+            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
+            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
+            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
+            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
+            <source>Oscar Aksanti</source>
         </item>
     </channel>
 </rss>
