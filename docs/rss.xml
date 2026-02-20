@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 19 Feb 2026 08:52:58 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 20 Feb 2026 08:49:41 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>PHARMAICY : c’est quoi cette “drogue numérique” pour intelligence artificielle ?</title>
-            <link>https://www.journaldugeek.com/2026/02/18/pharmaicy-cest-quoi-cette-drogue-numerique-pour-intelligence-artificielle/</link>
-            <description><![CDATA[Dépenser quelques dizaines d'euros suffit à faire planer ChatGPT et d'autres chatbots à coup de substances numériques.]]></description>
-            <pubDate>Wed, 18 Feb 2026 07:02:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/02/18/pharmaicy-cest-quoi-cette-drogue-numerique-pour-intelligence-artificielle/</guid>
-            <source>Journal du geek</source>
+            <title>5 étapes pour réussir votre 1er projet IA en entreprise</title>
+            <link>https://www.webmarketing-com.com/5-etapes-reussir-1er-projet-ia-entreprise</link>
+            <description><![CDATA[“Et si on utilisait l’IA pour automatiser ça ?” C’est souvent une idée qui surgit au détour d’une réunion…  Ou alors “Pourquoi ne pas tester un chatbot pour le support client ?” ou encore “Et si ChatG...]]></description>
+            <pubDate>Thu, 19 Feb 2026 08:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.webmarketing-com.com/5-etapes-reussir-1er-projet-ia-entreprise</guid>
+            <source>Webmarketing-com.com</source>
         </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
@@ -35,22 +35,6 @@
             <pubDate>Thu, 29 Jan 2026 16:09:39 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=hw8TiHABNLc</guid>
             <source>Ardy Fanny Nell REBOUKA REBOUKA</source>
-        </item>
-        <item>
-            <title>IA agentique : le Conseil de l'IA et du numérique fait l'inventaire des risques</title>
-            <link>https://www.zdnet.fr/actualites/ia-agentique-le-conseil-de-lia-et-du-numerique-fait-linventaire-des-risques-490306.htm</link>
-            <description><![CDATA[L'intelligence artificielle agentique s'impose comme le nouvel horizon du domaine, en permettant aux technologies d'intelligence artificielle de passer à la prise de décision. Mais pour le Conseil de ...]]></description>
-            <pubDate>Wed, 18 Feb 2026 07:50:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/ia-agentique-le-conseil-de-lia-et-du-numerique-fait-linventaire-des-risques-490306.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
-            <title>Mission Genesis : Washington lance l’IA à l’assaut de l’industrie, du nucléaire et du quantique</title>
-            <link>https://www.zdnet.fr/actualites/mission-genesis-washington-lance-lia-a-lassaut-de-lindustrie-du-nucleaire-et-du-quantique-490349.htm</link>
-            <description><![CDATA[Avec sa mission Genesis, le gouvernement américain veut transformer l’intelligence artificielle en moteur d’accélération scientifique et industrielle. Objectif : découvrir plus vite, produire plus vit...]]></description>
-            <pubDate>Wed, 18 Feb 2026 07:50:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/mission-genesis-washington-lance-lia-a-lassaut-de-lindustrie-du-nucleaire-et-du-quantique-490349.htm</guid>
-            <source>ZDNet France</source>
         </item>
         <item>
             <title>Power BI Desktop Installation TUTO GRATUIT 2025</title>
@@ -77,20 +61,36 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>Connexion entre Python (notebook) et Excel via « xlwings »</title>
-            <link>https://www.youtube.com/watch?v=-ONGM2pg3tc</link>
-            <description><![CDATA[Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...]]></description>
-            <pubDate>Sun, 21 Dec 2025 10:20:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=-ONGM2pg3tc</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
             <title>Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)</title>
             <link>https://www.youtube.com/watch?v=AsNBiYCJRyk</link>
             <description><![CDATA[Vous voulez apprendre à créer des tableaux de bord mais vous ne savez pas par où commencer ? Tout commence ici ! ​Dans ...]]></description>
             <pubDate>Sun, 08 Feb 2026 09:29:17 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=AsNBiYCJRyk</guid>
             <source>Diaby Fatemate </source>
+        </item>
+        <item>
+            <title>Analyse discriminante avec « discrimintools » (Python)</title>
+            <link>https://www.youtube.com/watch?v=NvdjH1fRRE0</link>
+            <description><![CDATA[Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...]]></description>
+            <pubDate>Mon, 16 Feb 2026 09:53:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=NvdjH1fRRE0</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>C’est dingue : SQL devient du TailwindCSS</title>
+            <link>https://www.youtube.com/watch?v=zCkmpwGTDmQ</link>
+            <description><![CDATA[Quand le monde du Web va trop loin : voici Tailwind SQL. Un projet totalement fou (et surtout inutilisable sérieusement) qui ...]]></description>
+            <pubDate>Fri, 02 Jan 2026 20:27:56 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=zCkmpwGTDmQ</guid>
+            <source>Faiz Dev</source>
+        </item>
+        <item>
+            <title>Mavenir collabore avec Red Hat pour fournir aux opérateurs télécoms une assurance de service d’IA conversationnelle et d’IA agentique sur site de niveau opérateur</title>
+            <link>https://www.globenewswire.com/news-release/2026/02/18/3240572/0/fr/Mavenir-collabore-avec-Red-Hat-pour-fournir-aux-op%C3%A9rateurs-t%C3%A9l%C3%A9coms-une-assurance-de-service-d-IA-conversationnelle-et-d-IA-agentique-sur-site-de-niveau-op%C3%A9rateur.html</link>
+            <description><![CDATA[RICHARDSON, Texas, 18 févr. 2026 (GLOBE NEWSWIRE) -- Mavenir, l’éditeur de logiciels spécialisé dans l’élaboration de réseaux mobiles alimentés par l’IA dès la conception, a annoncé aujourd’hui une co...]]></description>
+            <pubDate>Wed, 18 Feb 2026 20:06:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/02/18/3240572/0/fr/Mavenir-collabore-avec-Red-Hat-pour-fournir-aux-op%C3%A9rateurs-t%C3%A9l%C3%A9coms-une-assurance-de-service-d-IA-conversationnelle-et-d-IA-agentique-sur-site-de-niveau-op%C3%A9rateur.html</guid>
+            <source>GlobeNewswire</source>
         </item>
         <item>
             <title>Formation SQL partie 5 : SQL GROUP BY — Comprendre enfin simplement</title>
@@ -107,6 +107,14 @@
             <pubDate>Fri, 09 Jan 2026 21:03:38 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=saGefucxol4</guid>
             <source>Oscar Aksanti</source>
+        </item>
+        <item>
+            <title>Meta s’offre des montagnes de puces Nvidia pour verrouiller les conversations dans WhatsApp</title>
+            <link>https://www.journaldugeek.com/2026/02/19/meta-soffre-des-montagnes-de-puces-nvidia-pour-verrouiller-les-conversations-dans-whatsapp/</link>
+            <description><![CDATA[Meta sort le carnet de chèques pour s’équiper de millions de GPU Nvidia nouvelle génération. Mais derrière les chiffres vertigineux et les ambitions IA tous azimuts, un mot revient en boucle : confide...]]></description>
+            <pubDate>Thu, 19 Feb 2026 08:02:44 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/02/19/meta-soffre-des-montagnes-de-puces-nvidia-pour-verrouiller-les-conversations-dans-whatsapp/</guid>
+            <source>Journal du geek</source>
         </item>
         <item>
             <title>2-Data Mining :Arbres de Décision#notebooklm</title>
@@ -141,36 +149,28 @@
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>Ce qui est reproché à la société Cambridge Analytica dans l’usage des données</title>
-            <link>https://golem13.fr/cambridge-analytica-reproche/</link>
-            <description><![CDATA[Cambridge Analytica évoque moins une start‑up de la tech qu’un signal d’alarme mondial. Sous le vernis d’outils de campagne high‑tech, quelque chose d’inquiétant s’est glissé dans les coulisses numéri...]]></description>
-            <pubDate>Wed, 18 Feb 2026 06:57:00 -0000</pubDate>
-            <guid isPermaLink="true">https://golem13.fr/cambridge-analytica-reproche/</guid>
-            <source>Golem13.fr</source>
+            <title>Piratage du fichier national des comptes bancaires : quels risques et comment s’en protéger ?</title>
+            <link>https://www.lemonde.fr/pixels/article/2026/02/18/piratage-du-fichier-national-des-comptes-bancaires-quels-risques-et-comment-s-en-proteger_6667313_4408996.html</link>
+            <description><![CDATA[Les données compromises lors du piratage du fichier national des comptes bancaires peuvent permettre de crédibiliser des arnaques ou d’effectuer des prélèvements indus.]]></description>
+            <pubDate>Wed, 18 Feb 2026 20:16:07 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/pixels/article/2026/02/18/piratage-du-fichier-national-des-comptes-bancaires-quels-risques-et-comment-s-en-proteger_6667313_4408996.html</guid>
+            <source>Le Monde</source>
         </item>
         <item>
-            <title>Construis ta première Data Pipeline en Python (Notion API → SQLite → Docker → Metabase)</title>
-            <link>https://www.youtube.com/watch?v=wzWGPdkr_sE</link>
-            <description><![CDATA[DANS CETTE VIDÉO Apprends à construire ta première data pipeline complète en Python, de A à Z, 100% gratuitement depuis ...]]></description>
-            <pubDate>Wed, 07 Jan 2026 13:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=wzWGPdkr_sE</guid>
-            <source>KottioDev</source>
+            <title>Un «acteur malveillant» a pu consulter les données du fichier des comptes bancaires</title>
+            <link>https://www.mediapart.fr/journal/economie-et-social/180226/un-acteur-malveillant-pu-consulter-les-donnees-du-fichier-des-comptes-bancaires</link>
+            <description><![CDATA[Les titulaires de 1,2 millions de comptes concernés « recevront dans les prochains jours une information individuelle les alertant qu’un accès à leurs données a pu être constaté », selon Bercy.]]></description>
+            <pubDate>Wed, 18 Feb 2026 20:17:20 -0000</pubDate>
+            <guid isPermaLink="true">https://www.mediapart.fr/journal/economie-et-social/180226/un-acteur-malveillant-pu-consulter-les-donnees-du-fichier-des-comptes-bancaires</guid>
+            <source>Mediapart</source>
         </item>
         <item>
-            <title>Comment devenir Data Scientist ? Le parcours décodé</title>
-            <link>https://www.youtube.com/watch?v=ZHuD0pzTdG0</link>
-            <description><![CDATA[Le parcours Data Scientist décodé : devenez l'expert des données. Dans cette vidéo, plongez au cœur du parcours Data Scientist ...]]></description>
-            <pubDate>Wed, 28 Jan 2026 14:14:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ZHuD0pzTdG0</guid>
-            <source>Liora</source>
-        </item>
-        <item>
-            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
-            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
-            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
-            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
-            <source>Oscar Aksanti</source>
+            <title>OPINION. « IA “haut de gamme” : la souveraineté européenne se joue sur la qualité des données »</title>
+            <link>https://www.latribune.fr/article/idees/156238323173814/opinion-ia-haut-de-gamme-la-souverainete-europeenne-se-joue-sur-la-qualite-des-donnees</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 19 Feb 2026 08:40:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.latribune.fr/article/idees/156238323173814/opinion-ia-haut-de-gamme-la-souverainete-europeenne-se-joue-sur-la-qualite-des-donnees</guid>
+            <source>La Tribune.fr</source>
         </item>
     </channel>
 </rss>

@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-02-19T08:52:58.823542",
+  "lastUpdate": "2026-02-20T08:49:41.092028",
   "articles": [
     {
-      "title": "PHARMAICY : c’est quoi cette “drogue numérique” pour intelligence artificielle ?",
-      "description": "Dépenser quelques dizaines d'euros suffit à faire planer ChatGPT et d'autres chatbots à coup de substances numériques.",
-      "url": "https://www.journaldugeek.com/2026/02/18/pharmaicy-cest-quoi-cette-drogue-numerique-pour-intelligence-artificielle/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-02-18T07:02:01Z",
+      "title": "5 étapes pour réussir votre 1er projet IA en entreprise",
+      "description": "“Et si on utilisait l’IA pour automatiser ça ?” C’est souvent une idée qui surgit au détour d’une réunion…  Ou alors “Pourquoi ne pas tester un chatbot pour le support client ?” ou encore “Et si ChatG...",
+      "url": "https://www.webmarketing-com.com/5-etapes-reussir-1er-projet-ia-entreprise",
+      "source": "Webmarketing-com.com",
+      "publishedAt": "2026-02-19T08:30:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -36,30 +36,6 @@
       "isYouTube": true,
       "videoId": "hw8TiHABNLc",
       "thumbnail": "https://i.ytimg.com/vi/hw8TiHABNLc/hqdefault.jpg"
-    },
-    {
-      "title": "IA agentique : le Conseil de l'IA et du numérique fait l'inventaire des risques",
-      "description": "L'intelligence artificielle agentique s'impose comme le nouvel horizon du domaine, en permettant aux technologies d'intelligence artificielle de passer à la prise de décision. Mais pour le Conseil de ...",
-      "url": "https://www.zdnet.fr/actualites/ia-agentique-le-conseil-de-lia-et-du-numerique-fait-linventaire-des-risques-490306.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-02-18T07:50:11Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Mission Genesis : Washington lance l’IA à l’assaut de l’industrie, du nucléaire et du quantique",
-      "description": "Avec sa mission Genesis, le gouvernement américain veut transformer l’intelligence artificielle en moteur d’accélération scientifique et industrielle. Objectif : découvrir plus vite, produire plus vit...",
-      "url": "https://www.zdnet.fr/actualites/mission-genesis-washington-lance-lia-a-lassaut-de-lindustrie-du-nucleaire-et-du-quantique-490349.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-02-18T07:50:11Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Power BI Desktop Installation TUTO GRATUIT 2025",
@@ -98,18 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
     },
     {
-      "title": "Connexion entre Python (notebook) et Excel via « xlwings »",
-      "description": "Machine learning. Data science. Analyse discriminante linéaire. Connexion entre un Notebook Jupyter Python (j'utilise l'éditeur ...",
-      "url": "https://www.youtube.com/watch?v=-ONGM2pg3tc",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2025-12-21T10:20:45Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "-ONGM2pg3tc",
-      "thumbnail": "https://i.ytimg.com/vi/-ONGM2pg3tc/hqdefault.jpg"
-    },
-    {
       "title": "Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)",
       "description": "Vous voulez apprendre à créer des tableaux de bord mais vous ne savez pas par où commencer ? Tout commence ici ! ​Dans ...",
       "url": "https://www.youtube.com/watch?v=AsNBiYCJRyk",
@@ -120,6 +84,42 @@
       "isYouTube": true,
       "videoId": "AsNBiYCJRyk",
       "thumbnail": "https://i.ytimg.com/vi/AsNBiYCJRyk/hqdefault.jpg"
+    },
+    {
+      "title": "Analyse discriminante avec « discrimintools » (Python)",
+      "description": "Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...",
+      "url": "https://www.youtube.com/watch?v=NvdjH1fRRE0",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-02-16T09:53:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "NvdjH1fRRE0",
+      "thumbnail": "https://i.ytimg.com/vi/NvdjH1fRRE0/hqdefault.jpg"
+    },
+    {
+      "title": "C’est dingue : SQL devient du TailwindCSS",
+      "description": "Quand le monde du Web va trop loin : voici Tailwind SQL. Un projet totalement fou (et surtout inutilisable sérieusement) qui ...",
+      "url": "https://www.youtube.com/watch?v=zCkmpwGTDmQ",
+      "source": "Faiz Dev",
+      "publishedAt": "2026-01-02T20:27:56Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "zCkmpwGTDmQ",
+      "thumbnail": "https://i.ytimg.com/vi/zCkmpwGTDmQ/hqdefault.jpg"
+    },
+    {
+      "title": "Mavenir collabore avec Red Hat pour fournir aux opérateurs télécoms une assurance de service d’IA conversationnelle et d’IA agentique sur site de niveau opérateur",
+      "description": "RICHARDSON, Texas, 18 févr. 2026 (GLOBE NEWSWIRE) -- Mavenir, l’éditeur de logiciels spécialisé dans l’élaboration de réseaux mobiles alimentés par l’IA dès la conception, a annoncé aujourd’hui une co...",
+      "url": "https://www.globenewswire.com/news-release/2026/02/18/3240572/0/fr/Mavenir-collabore-avec-Red-Hat-pour-fournir-aux-op%C3%A9rateurs-t%C3%A9l%C3%A9coms-une-assurance-de-service-d-IA-conversationnelle-et-d-IA-agentique-sur-site-de-niveau-op%C3%A9rateur.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-02-18T20:06:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Formation SQL partie 5 : SQL GROUP BY — Comprendre enfin simplement",
@@ -144,6 +144,18 @@
       "isYouTube": true,
       "videoId": "saGefucxol4",
       "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
+    },
+    {
+      "title": "Meta s’offre des montagnes de puces Nvidia pour verrouiller les conversations dans WhatsApp",
+      "description": "Meta sort le carnet de chèques pour s’équiper de millions de GPU Nvidia nouvelle génération. Mais derrière les chiffres vertigineux et les ambitions IA tous azimuts, un mot revient en boucle : confide...",
+      "url": "https://www.journaldugeek.com/2026/02/19/meta-soffre-des-montagnes-de-puces-nvidia-pour-verrouiller-les-conversations-dans-whatsapp/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-02-19T08:02:44Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "2-Data Mining :Arbres de Décision#notebooklm",
@@ -194,11 +206,11 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
-      "title": "Ce qui est reproché à la société Cambridge Analytica dans l’usage des données",
-      "description": "Cambridge Analytica évoque moins une start‑up de la tech qu’un signal d’alarme mondial. Sous le vernis d’outils de campagne high‑tech, quelque chose d’inquiétant s’est glissé dans les coulisses numéri...",
-      "url": "https://golem13.fr/cambridge-analytica-reproche/",
-      "source": "Golem13.fr",
-      "publishedAt": "2026-02-18T06:57:00Z",
+      "title": "Piratage du fichier national des comptes bancaires : quels risques et comment s’en protéger ?",
+      "description": "Les données compromises lors du piratage du fichier national des comptes bancaires peuvent permettre de crédibiliser des arnaques ou d’effectuer des prélèvements indus.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/02/18/piratage-du-fichier-national-des-comptes-bancaires-quels-risques-et-comment-s-en-proteger_6667313_4408996.html",
+      "source": "Le Monde",
+      "publishedAt": "2026-02-18T20:16:07Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,47 +218,47 @@
       "thumbnail": ""
     },
     {
-      "title": "Construis ta première Data Pipeline en Python (Notion API → SQLite → Docker → Metabase)",
-      "description": "DANS CETTE VIDÉO Apprends à construire ta première data pipeline complète en Python, de A à Z, 100% gratuitement depuis ...",
-      "url": "https://www.youtube.com/watch?v=wzWGPdkr_sE",
-      "source": "KottioDev",
-      "publishedAt": "2026-01-07T13:00:06Z",
+      "title": "Un «acteur malveillant» a pu consulter les données du fichier des comptes bancaires",
+      "description": "Les titulaires de 1,2 millions de comptes concernés « recevront dans les prochains jours une information individuelle les alertant qu’un accès à leurs données a pu être constaté », selon Bercy.",
+      "url": "https://www.mediapart.fr/journal/economie-et-social/180226/un-acteur-malveillant-pu-consulter-les-donnees-du-fichier-des-comptes-bancaires",
+      "source": "Mediapart",
+      "publishedAt": "2026-02-18T20:17:20Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "wzWGPdkr_sE",
-      "thumbnail": "https://i.ytimg.com/vi/wzWGPdkr_sE/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "Comment devenir Data Scientist ? Le parcours décodé",
-      "description": "Le parcours Data Scientist décodé : devenez l'expert des données. Dans cette vidéo, plongez au cœur du parcours Data Scientist ...",
-      "url": "https://www.youtube.com/watch?v=ZHuD0pzTdG0",
-      "source": "Liora",
-      "publishedAt": "2026-01-28T14:14:42Z",
+      "title": "OPINION. « IA “haut de gamme” : la souveraineté européenne se joue sur la qualité des données »",
+      "description": "",
+      "url": "https://www.latribune.fr/article/idees/156238323173814/opinion-ia-haut-de-gamme-la-souverainete-europeenne-se-joue-sur-la-qualite-des-donnees",
+      "source": "La Tribune.fr",
+      "publishedAt": "2026-02-19T08:40:02Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ZHuD0pzTdG0",
-      "thumbnail": "https://i.ytimg.com/vi/ZHuD0pzTdG0/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro",
-      "description": "Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...",
-      "url": "https://www.youtube.com/watch?v=8EXbMYHL8xw",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-01-31T08:46:46Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "8EXbMYHL8xw",
-      "thumbnail": "https://i.ytimg.com/vi/8EXbMYHL8xw/hqdefault.jpg"
+      "title": "Hubble a accumulé 35 ans d’images, une IA les analyse en 3 jours et révèle 1300 anomalies jamais repérées",
+      "description": "Quand les archives du télescope spatial Hubble rencontrent la puissance d’une intelligence artificielle, des décennies d’observations silencieuses se transforment en terrain d’exploration inédit. Ains...",
+      "url": "https://dailygeekshow.com/?p=1002963",
+      "source": "Daily Geek Show",
+      "publishedAt": "2026-02-18T20:06:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "Étiquettes connectée et IA : comment Carrefour veut supprimer les tâches ingrates en rayon",
-      "description": "Carrefour annonce un partenariat industriel avec Vusion pour digitaliser l'ensemble de son parc de magasins français d'ici 2030. Ce déploiement massif d'IoT et d'intelligence artificielle vise à autom...",
-      "url": "https://www.zdnet.fr/actualites/etiquettes-connectee-et-ia-comment-carrefour-veut-supprimer-les-taches-ingrates-en-rayon-490407.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-02-18T07:02:51Z",
+      "title": "Anthropic veut limiter l’usage militaire de son IA, le Pentagone envisage de la bannir",
+      "description": "Ce fleuron du secteur, dont le chatbot Claude aurait servi au Venezuela, est dans le collimateur du ministre de la Défense, Pete Hegseth. Le gouvernement Trump rejette l’“IA woke” et veut utiliser san...",
+      "url": "https://www.courrierinternational.com/article/tech-anthropic-veut-limiter-l-usage-militaire-de-son-ia-le-pentagone-envisage-de-la-bannir_240781",
+      "source": "Courrier International",
+      "publishedAt": "2026-02-19T08:27:05Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,40 +278,28 @@
       "thumbnail": ""
     },
     {
-      "title": "Actualité : Google I/O 2026 : la date officielle est tombée, Android et Gemini en vedette",
-      "description": "Après un teasing un brin mystérieux, Google donne rendez-vous aux développeurs du monde entier pour une conférence qui s’annonce décisive. Au programme : intelligence artificielle, nouveautés Android ...",
-      "url": "https://www.lesnumeriques.com/telephone-portable/google-i-o-2026-la-date-officielle-est-tombee-android-et-gemini-en-vedette-n251641.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-02-17T21:40:00Z",
-      "category": "tech",
+      "title": "IA : Pékin et Washington ne jouent pas la même partition dans la bataille technologique",
+      "description": "Le monde qui vient 2026 - Sur le terrain de l’intelligence artificielle, la Chine privilégie l’adoption rapide, quand les Etats-Unis, eux, ont choisi l’innovation. Quelle sera la stratégie gagnante ?",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/ia-pekin-et-washington-ne-jouent-pas-la-meme-partition-dans-la-bataille-technologique_640122",
+      "source": "Challenges",
+      "publishedAt": "2026-02-19T07:00:00Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Audacia félicite Quantonation Ventures pour le succès de la clôture du fonds Quantonation II à 220 M€ au-delà de l’objectif initial",
-      "description": "Quantonation Ventures, partenaire d’Audacia, devient le 1er fonds au monde dédié au quantique avec environ 325 M€ levés depuis sa création  Paris, le 18...",
-      "url": "https://www.globenewswire.com/news-release/2026/02/18/3239934/0/fr/Audacia-f%C3%A9licite-Quantonation-Ventures-pour-le-succ%C3%A8s-de-la-cl%C3%B4ture-du-fonds-Quantonation-II-%C3%A0-220-M-au-del%C3%A0-de-l-objectif-initial.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-02-18T07:30:00Z",
+      "title": "Google et Apple se lancent dans la bataille de la musique générée par IA",
+      "description": "En intégrant des outils de génération musicale à leurs écosystèmes, Google et Apple franchissent une nouvelle étape dans la démocratisation de l’intelligence artificielle. Entre création automatisée d...",
+      "url": "https://www.zdnet.fr/actualites/google-et-apple-se-lancent-dans-la-bataille-de-la-musique-generee-par-ia-490422.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-02-19T07:24:37Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
-    },
-    {
-      "title": "Les théories d&#39;apprentissage5: le connectivisme",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=Gob2goPLZBs",
-      "source": "Apprendre le français ",
-      "publishedAt": "2026-01-07T17:44:15Z",
-      "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Gob2goPLZBs",
-      "thumbnail": "https://i.ytimg.com/vi/Gob2goPLZBs/hqdefault.jpg"
     }
   ]
 }
