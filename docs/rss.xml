@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 20 Feb 2026 08:49:41 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 08:37:28 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,20 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>5 étapes pour réussir votre 1er projet IA en entreprise</title>
-            <link>https://www.webmarketing-com.com/5-etapes-reussir-1er-projet-ia-entreprise</link>
-            <description><![CDATA[“Et si on utilisait l’IA pour automatiser ça ?” C’est souvent une idée qui surgit au détour d’une réunion…  Ou alors “Pourquoi ne pas tester un chatbot pour le support client ?” ou encore “Et si ChatG...]]></description>
-            <pubDate>Thu, 19 Feb 2026 08:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.webmarketing-com.com/5-etapes-reussir-1er-projet-ia-entreprise</guid>
-            <source>Webmarketing-com.com</source>
+            <title>Les modèles actuels d'intelligence artificielle sont "incapables de prédire les conséquences de leurs actions", critique Yann LeCun</title>
+            <link>https://www.franceinfo.fr/internet/intelligence-artificielle/les-modeles-actuels-d-intelligence-artificielle-sont-incapables-de-predire-les-consequences-de-leurs-actions-critique-yann-lecun_7818296.html</link>
+            <description><![CDATA[Selon l'ingénieur informatique français, ex-responsable de la recherche IA chez Meta, "on touche aux limites des IA actuelles avec les modèles de langage probabilistes comme ChatGPT, conçu par OpenAI"...]]></description>
+            <pubDate>Fri, 20 Feb 2026 06:35:28 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/internet/intelligence-artificielle/les-modeles-actuels-d-intelligence-artificielle-sont-incapables-de-predire-les-consequences-de-leurs-actions-critique-yann-lecun_7818296.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
+            <title>Créer un Agent IA puissant (RAG) : Tutoriel Complet (no code)</title>
+            <link>https://www.youtube.com/watch?v=_ldYxumnGIo</link>
+            <description><![CDATA[Pour récupérer les workflows sur n8n : https://tally.so/r/pbyR9y Si tu utilises déjà ChatGPT ou Claude en entreprise, tu l'as ...]]></description>
+            <pubDate>Wed, 07 Jan 2026 07:49:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=_ldYxumnGIo</guid>
+            <source>Louis Graffeuil</source>
         </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
@@ -29,12 +37,12 @@
             <source>Ludo Salenne</source>
         </item>
         <item>
-            <title>Analyse de données avec Orange</title>
-            <link>https://www.youtube.com/watch?v=hw8TiHABNLc</link>
-            <description><![CDATA[Orange Data Mining : Analyse de données &amp; Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...]]></description>
-            <pubDate>Thu, 29 Jan 2026 16:09:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=hw8TiHABNLc</guid>
-            <source>Ardy Fanny Nell REBOUKA REBOUKA</source>
+            <title>Analyse discriminante PLS « from scratch » avec ChatGPT (Python)</title>
+            <link>https://www.youtube.com/watch?v=YLh5gsmOFkQ</link>
+            <description><![CDATA[Machine learning. Data science. Classification supervisée. Analyse discriminante PLS, approche en deux étapes : régression ...]]></description>
+            <pubDate>Tue, 17 Feb 2026 16:40:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=YLh5gsmOFkQ</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
             <title>Power BI Desktop Installation TUTO GRATUIT 2025</title>
@@ -77,20 +85,44 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>C’est dingue : SQL devient du TailwindCSS</title>
-            <link>https://www.youtube.com/watch?v=zCkmpwGTDmQ</link>
-            <description><![CDATA[Quand le monde du Web va trop loin : voici Tailwind SQL. Un projet totalement fou (et surtout inutilisable sérieusement) qui ...]]></description>
-            <pubDate>Fri, 02 Jan 2026 20:27:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=zCkmpwGTDmQ</guid>
-            <source>Faiz Dev</source>
+            <title>L’intelligence artificielle, copilote ou pilote de la médecine ?</title>
+            <link>https://www.lalibre.be/debats/opinions/2026/02/20/lintelligence-artificielle-copilote-ou-pilote-de-la-medecine-WFTGBDVYDJHPBCYEJPR3SNZYTA/</link>
+            <description><![CDATA[Les doutes sur la bienfaisance absolue des vendeurs d’IA médicale doivent nous ouvrir les yeux. ...]]></description>
+            <pubDate>Fri, 20 Feb 2026 08:28:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lalibre.be/debats/opinions/2026/02/20/lintelligence-artificielle-copilote-ou-pilote-de-la-medecine-WFTGBDVYDJHPBCYEJPR3SNZYTA/</guid>
+            <source>Lalibre.be</source>
         </item>
         <item>
-            <title>Mavenir collabore avec Red Hat pour fournir aux opérateurs télécoms une assurance de service d’IA conversationnelle et d’IA agentique sur site de niveau opérateur</title>
-            <link>https://www.globenewswire.com/news-release/2026/02/18/3240572/0/fr/Mavenir-collabore-avec-Red-Hat-pour-fournir-aux-op%C3%A9rateurs-t%C3%A9l%C3%A9coms-une-assurance-de-service-d-IA-conversationnelle-et-d-IA-agentique-sur-site-de-niveau-op%C3%A9rateur.html</link>
-            <description><![CDATA[RICHARDSON, Texas, 18 févr. 2026 (GLOBE NEWSWIRE) -- Mavenir, l’éditeur de logiciels spécialisé dans l’élaboration de réseaux mobiles alimentés par l’IA dès la conception, a annoncé aujourd’hui une co...]]></description>
-            <pubDate>Wed, 18 Feb 2026 20:06:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/02/18/3240572/0/fr/Mavenir-collabore-avec-Red-Hat-pour-fournir-aux-op%C3%A9rateurs-t%C3%A9l%C3%A9coms-une-assurance-de-service-d-IA-conversationnelle-et-d-IA-agentique-sur-site-de-niveau-op%C3%A9rateur.html</guid>
-            <source>GlobeNewswire</source>
+            <title>MySQL vs PostgreSQL vs MongoDB : Différences 2026</title>
+            <link>https://www.youtube.com/watch?v=KD53CSQtsHQ</link>
+            <description><![CDATA[SQL ou NoSQL ? Comprendre les différences entre MySQL, PostgreSQL et MongoDB. #dev #data #tech.]]></description>
+            <pubDate>Thu, 25 Dec 2025 19:39:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=KD53CSQtsHQ</guid>
+            <source>TechVantage FR</source>
+        </item>
+        <item>
+            <title>Après le rachat de Neoprospecta, bioMérieux lance une solution pour gérer les risques microbiens dans l’industrie</title>
+            <link>https://www.lejournaldesentreprises.com/article/apres-le-rachat-de-neoprospecta-biomerieux-lance-une-solution-pour-gerer-les-risques-microbiens-dans-2137250</link>
+            <description><![CDATA[bioMérieux renforce son arsenal de solutions de diagnostic à forte valeur ajoutée pour la maîtrise des process qualité dans les usines. Grâce au rachat de la biotech Neoprospecta, le spécialiste du di...]]></description>
+            <pubDate>Thu, 19 Feb 2026 09:10:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/article/apres-le-rachat-de-neoprospecta-biomerieux-lance-une-solution-pour-gerer-les-risques-microbiens-dans-2137250</guid>
+            <source>Le Journal des Entreprises</source>
+        </item>
+        <item>
+            <title>SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips</title>
+            <link>https://www.youtube.com/watch?v=qup-uitBx58</link>
+            <description><![CDATA[Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...]]></description>
+            <pubDate>Sun, 04 Jan 2026 03:10:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=qup-uitBx58</guid>
+            <source>Oracle SQL Tips FR</source>
+        </item>
+        <item>
+            <title>Le secret des pros : automatiser l&amp;#39;organisation de vos mesures dans Power BI</title>
+            <link>https://www.youtube.com/watch?v=GQN9jmpejhw</link>
+            <description><![CDATA[Vos mesures Power BI sont dispersées dans toutes vos tables ? Découvrez comment utiliser Tabular Editor pour centraliser et ...]]></description>
+            <pubDate>Sun, 18 Jan 2026 16:45:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=GQN9jmpejhw</guid>
+            <source>Barthelemy Montreuil</source>
         </item>
         <item>
             <title>Formation SQL partie 5 : SQL GROUP BY — Comprendre enfin simplement</title>
@@ -109,12 +141,20 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Meta s’offre des montagnes de puces Nvidia pour verrouiller les conversations dans WhatsApp</title>
-            <link>https://www.journaldugeek.com/2026/02/19/meta-soffre-des-montagnes-de-puces-nvidia-pour-verrouiller-les-conversations-dans-whatsapp/</link>
-            <description><![CDATA[Meta sort le carnet de chèques pour s’équiper de millions de GPU Nvidia nouvelle génération. Mais derrière les chiffres vertigineux et les ambitions IA tous azimuts, un mot revient en boucle : confide...]]></description>
-            <pubDate>Thu, 19 Feb 2026 08:02:44 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/02/19/meta-soffre-des-montagnes-de-puces-nvidia-pour-verrouiller-les-conversations-dans-whatsapp/</guid>
-            <source>Journal du geek</source>
+            <title>Telefónica et Mavenir concluent un partenariat stratégique visant à accélérer l’innovation en matière d’IA dans le secteur des télécommunications</title>
+            <link>https://www.globenewswire.com/news-release/2026/02/19/3241465/0/fr/Telef%C3%B3nica-et-Mavenir-concluent-un-partenariat-strat%C3%A9gique-visant-%C3%A0-acc%C3%A9l%C3%A9rer-l-innovation-en-mati%C3%A8re-d-IA-dans-le-secteur-des-t%C3%A9l%C3%A9communications.html</link>
+            <description><![CDATA[Présentation des innovations dans le domaine de l’IA au Mobile World Congress (#MWC26) avec des démonstrations en direct de produits destinés à des cas d’utilisation de nouvelle génération Présentatio...]]></description>
+            <pubDate>Thu, 19 Feb 2026 19:26:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/02/19/3241465/0/fr/Telef%C3%B3nica-et-Mavenir-concluent-un-partenariat-strat%C3%A9gique-visant-%C3%A0-acc%C3%A9l%C3%A9rer-l-innovation-en-mati%C3%A8re-d-IA-dans-le-secteur-des-t%C3%A9l%C3%A9communications.html</guid>
+            <source>GlobeNewswire</source>
+        </item>
+        <item>
+            <title>Une IA qui se parle à elle-même : la nouvelle frontière de l'apprentissage</title>
+            <link>https://www.generation-nt.com/actualites/ia-dialogue-interieur-apprentissage-memoire-travail-oist-2071120</link>
+            <description><![CDATA[Des chercheurs de l'OIST ont mis au point une IA qui utilise un dialogue intérieur, ou « murmure », combiné à une mémoire de travail. Cette méthode améliore sa flexibilité et sa capacité à gérer plusi...]]></description>
+            <pubDate>Thu, 19 Feb 2026 16:50:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/ia-dialogue-interieur-apprentissage-memoire-travail-oist-2071120</guid>
+            <source>Génération NT</source>
         </item>
         <item>
             <title>2-Data Mining :Arbres de Décision#notebooklm</title>
@@ -125,52 +165,12 @@
             <source>AllAboutData</source>
         </item>
         <item>
-            <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
-            <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
-            <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
-            <pubDate>Fri, 09 Jan 2026 17:01:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=gcbiOQCR-O8</guid>
-            <source>WeData</source>
-        </item>
-        <item>
-            <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
-            <link>https://www.youtube.com/watch?v=wNyw2TN8mh0</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Tue, 20 Jan 2026 15:55:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=wNyw2TN8mh0</guid>
-            <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
-            <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
-            <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
-            <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
-            <source>Sébastien Daviot - Expertise Data</source>
-        </item>
-        <item>
-            <title>Piratage du fichier national des comptes bancaires : quels risques et comment s’en protéger ?</title>
-            <link>https://www.lemonde.fr/pixels/article/2026/02/18/piratage-du-fichier-national-des-comptes-bancaires-quels-risques-et-comment-s-en-proteger_6667313_4408996.html</link>
-            <description><![CDATA[Les données compromises lors du piratage du fichier national des comptes bancaires peuvent permettre de crédibiliser des arnaques ou d’effectuer des prélèvements indus.]]></description>
-            <pubDate>Wed, 18 Feb 2026 20:16:07 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lemonde.fr/pixels/article/2026/02/18/piratage-du-fichier-national-des-comptes-bancaires-quels-risques-et-comment-s-en-proteger_6667313_4408996.html</guid>
-            <source>Le Monde</source>
-        </item>
-        <item>
-            <title>Un «acteur malveillant» a pu consulter les données du fichier des comptes bancaires</title>
-            <link>https://www.mediapart.fr/journal/economie-et-social/180226/un-acteur-malveillant-pu-consulter-les-donnees-du-fichier-des-comptes-bancaires</link>
-            <description><![CDATA[Les titulaires de 1,2 millions de comptes concernés « recevront dans les prochains jours une information individuelle les alertant qu’un accès à leurs données a pu être constaté », selon Bercy.]]></description>
-            <pubDate>Wed, 18 Feb 2026 20:17:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.mediapart.fr/journal/economie-et-social/180226/un-acteur-malveillant-pu-consulter-les-donnees-du-fichier-des-comptes-bancaires</guid>
-            <source>Mediapart</source>
-        </item>
-        <item>
-            <title>OPINION. « IA “haut de gamme” : la souveraineté européenne se joue sur la qualité des données »</title>
-            <link>https://www.latribune.fr/article/idees/156238323173814/opinion-ia-haut-de-gamme-la-souverainete-europeenne-se-joue-sur-la-qualite-des-donnees</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Thu, 19 Feb 2026 08:40:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.latribune.fr/article/idees/156238323173814/opinion-ia-haut-de-gamme-la-souverainete-europeenne-se-joue-sur-la-qualite-des-donnees</guid>
-            <source>La Tribune.fr</source>
+            <title>Formation SQL PARTIE 6 - HAVING</title>
+            <link>https://www.youtube.com/watch?v=bgN8YayL7vM</link>
+            <description><![CDATA[Dans cette partie 5 de la formation SQL, nous expliquons la commande HAVING. Tu comprendras la différence entre WHERE et ...]]></description>
+            <pubDate>Wed, 24 Dec 2025 22:32:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=bgN8YayL7vM</guid>
+            <source>MedData -Tech</source>
         </item>
     </channel>
 </rss>
