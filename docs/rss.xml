@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 22 Feb 2026 08:38:38 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 08:56:38 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,20 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Une enceinte connectée sous ChatGPT et designée par Jony Ive : voici le premier appareil développé par OpenAI</title>
-            <link>https://www.phonandroid.com/une-enceinte-connectee-sous-chatgpt-et-designee-par-jony-ive-voici-le-premier-appareil-developpe-par-openai.html</link>
-            <description><![CDATA[OpenAI et Jony Ive, designer star de l'iPhone, se sont associés pour créer des appareils boostés à l'IA. On en sait plus sur leur premier projet qui devrait se concrétiser....]]></description>
-            <pubDate>Sat, 21 Feb 2026 06:28:26 -0000</pubDate>
-            <guid isPermaLink="true">https://www.phonandroid.com/une-enceinte-connectee-sous-chatgpt-et-designee-par-jony-ive-voici-le-premier-appareil-developpe-par-openai.html</guid>
-            <source>Phonandroid</source>
+            <title>Actualité : Pourquoi ChatGPT, Gemini et Claude racontent n'importe quoi quand la discussion dure trop longtemps ?</title>
+            <link>https://www.lesnumeriques.com/intelligence-artificielle/pourquoi-chatgpt-gemini-et-claude-racontent-n-importe-quoi-quand-la-discussion-dure-trop-longtemps-n251817.html</link>
+            <description><![CDATA[Vous connaissez tous et toutes ça. On lance une session sur ChatGPT, Gemini ou Claude. La discussion s'étire et puis l'IA se met à ne plus suivre les consignes, à délirer presque. Enfin, une étude de ...]]></description>
+            <pubDate>Sat, 21 Feb 2026 18:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/pourquoi-chatgpt-gemini-et-claude-racontent-n-importe-quoi-quand-la-discussion-dure-trop-longtemps-n251817.html</guid>
+            <source>Les Numériques</source>
+        </item>
+        <item>
+            <title>Liens vagabonds : Mon IA va-t-elle se mettre à la pub ?</title>
+            <link>https://www.meta-media.fr/2026/02/21/liens-vagabonds-mon-ia-va-t-elle-se-mettre-a-la-pub.html</link>
+            <description><![CDATA[Vous reprendrez bien un peu de publicité ? Le monde de l’IA semble se diviser en deux camps. Tout s’est enflammé après la diffusion par Anthropic de quatre spots publicitaires au Superbowl, plutôt off...]]></description>
+            <pubDate>Sat, 21 Feb 2026 09:53:27 -0000</pubDate>
+            <guid isPermaLink="true">https://www.meta-media.fr/2026/02/21/liens-vagabonds-mon-ia-va-t-elle-se-mettre-a-la-pub.html</guid>
+            <source>Meta-media.fr</source>
         </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
@@ -29,11 +37,19 @@
             <source>Ludo Salenne</source>
         </item>
         <item>
-            <title>Analyse discriminante PLS « from scratch » avec ChatGPT (Python)</title>
-            <link>https://www.youtube.com/watch?v=YLh5gsmOFkQ</link>
-            <description><![CDATA[Machine learning. Data science. Classification supervisée. Analyse discriminante PLS, approche en deux étapes : régression ...]]></description>
-            <pubDate>Tue, 17 Feb 2026 16:40:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=YLh5gsmOFkQ</guid>
+            <title>Analyse de données avec Orange</title>
+            <link>https://www.youtube.com/watch?v=hw8TiHABNLc</link>
+            <description><![CDATA[Orange Data Mining : Analyse de données &amp; Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...]]></description>
+            <pubDate>Thu, 29 Jan 2026 16:09:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=hw8TiHABNLc</guid>
+            <source>Ardy Fanny Nell REBOUKA REBOUKA</source>
+        </item>
+        <item>
+            <title>Règles d’association avec KNIME</title>
+            <link>https://www.youtube.com/watch?v=I-L2k_lzopQ</link>
+            <description><![CDATA[Machine learning. Data Mining. Data Science. Extraction des règles d'association à partir de données tabulaires avec le ...]]></description>
+            <pubDate>Wed, 21 Jan 2026 10:01:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=I-L2k_lzopQ</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
@@ -61,30 +77,6 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>Comment je deviendrais analyste de données en 2026 (feuille de route complète)</title>
-            <link>https://www.youtube.com/watch?v=hGCKdMsfU7g</link>
-            <description><![CDATA[👉 MENTORAT – Prêt(e) à devenir un analyste de données d'exception ? Les candidatures pour la promotion de mars 2026 sont ...]]></description>
-            <pubDate>Fri, 02 Jan 2026 14:01:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=hGCKdMsfU7g</guid>
-            <source>Christine Jiang</source>
-        </item>
-        <item>
-            <title>Comment utiliser concrètement l'IA et Python pour analyser des données (exemple en temps réel)</title>
-            <link>https://www.youtube.com/watch?v=0BY-6tJmz1g</link>
-            <description><![CDATA[Apprenez à analyser des données hospitalières avec Python (pandas) grâce à des outils d'IA. Nous allons réaliser trois niveaux ...]]></description>
-            <pubDate>Thu, 05 Feb 2026 14:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=0BY-6tJmz1g</guid>
-            <source>Chandoo</source>
-        </item>
-        <item>
-            <title>Data Analysis with Python Full Course Tutorial</title>
-            <link>https://www.youtube.com/watch?v=bLDbzcHwxM4</link>
-            <description><![CDATA[Data Analysis with Python Full Course Tutorial Get Ad-Free Training by becoming a member today!]]></description>
-            <pubDate>Fri, 23 Jan 2026 17:30:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=bLDbzcHwxM4</guid>
-            <source>Learn Skills Daily</source>
-        </item>
-        <item>
             <title>Analyse discriminante avec « discrimintools » (Python)</title>
             <link>https://www.youtube.com/watch?v=NvdjH1fRRE0</link>
             <description><![CDATA[Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...]]></description>
@@ -93,12 +85,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Formation SQL partie 5 : SQL GROUP BY — Comprendre enfin simplement</title>
-            <link>https://www.youtube.com/watch?v=hGbgeWMD4Dc</link>
-            <description><![CDATA[Dans cette partie 5 de la formation SQL pour débutants, nous découvrons la commande GROUP BY. Tu apprendras à regrouper ...]]></description>
-            <pubDate>Wed, 24 Dec 2025 21:22:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=hGbgeWMD4Dc</guid>
-            <source>MedData -Tech</source>
+            <title>DeepSeek MHC : La Nouvelle Architecture qui RÉINVENTE l’IA (Adieu les Transformers ?) 😱🔥</title>
+            <link>https://www.youtube.com/watch?v=-rFx2b3ZuXQ</link>
+            <description><![CDATA[DeepSeek vient de briser les règles du jeu avec mHC. Alors que la Big Tech mise tout sur la force brute et les milliards de ...]]></description>
+            <pubDate>Sat, 03 Jan 2026 19:35:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=-rFx2b3ZuXQ</guid>
+            <source>Nerdy Kings</source>
         </item>
         <item>
             <title>Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données</title>
@@ -117,64 +109,68 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Entretien Analyste Données – Que Répondre aux 10 Questions Clés</title>
-            <link>https://www.youtube.com/watch?v=Q65w9BSeS-w</link>
-            <description><![CDATA[Entretien Analyste Données – Que Répondre aux 10 Questions Clés? Entretien Analyste Données: savoir que répondre aux ...]]></description>
-            <pubDate>Thu, 12 Feb 2026 11:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Q65w9BSeS-w</guid>
-            <source>Damal Consult Carrière TV- Français</source>
+            <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
+            <link>https://www.youtube.com/watch?v=wNyw2TN8mh0</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 20 Jan 2026 15:55:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=wNyw2TN8mh0</guid>
+            <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Cartographie des places de stationnement PMR de Lorient Agglomération</title>
-            <link>https://www.data.gouv.fr/datasets/cartographie-des-places-de-stationnement-pmr-de-lorient-agglomeration</link>
-            <description><![CDATA[Ces données recensent les places de stationnement PMR du territoire de Lorient Agglomération.
-Données non exhaustives et en constante modification.
-
-**Contexte de collecte**
-Données relevées dans le c...]]></description>
-            <pubDate>Sat, 21 Feb 2026 00:03:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/cartographie-des-places-de-stationnement-pmr-de-lorient-agglomeration</guid>
-            <source>Gouv.fr</source>
+            <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
+            <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
+            <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
+            <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
+            <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>Project – 14 (with Dashboard) | Salary Data Analysis | Python Coding for Data Science #python</title>
-            <link>https://www.youtube.com/watch?v=TLIotspGcng</link>
-            <description><![CDATA[Download All 15 Projects Source Codes + Datasets : https://rzp.io/rzp/all15projects Download Dataset ...]]></description>
-            <pubDate>Mon, 12 Jan 2026 16:31:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=TLIotspGcng</guid>
-            <source>DATA SCIENCE LOVERS</source>
+            <title>Construis ta première Data Pipeline en Python (Notion API → SQLite → Docker → Metabase)</title>
+            <link>https://www.youtube.com/watch?v=wzWGPdkr_sE</link>
+            <description><![CDATA[DANS CETTE VIDÉO Apprends à construire ta première data pipeline complète en Python, de A à Z, 100% gratuitement depuis ...]]></description>
+            <pubDate>Wed, 07 Jan 2026 13:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=wzWGPdkr_sE</guid>
+            <source>KottioDev</source>
         </item>
         <item>
-            <title>Feature Engineering Hands on (French)</title>
-            <link>https://www.youtube.com/watch?v=VMi18mtBrPE</link>
-            <description><![CDATA[Dans ce tutoriel pratique, vous apprendrez les bases du feature engineering et comment transformer des données brutes en ...]]></description>
-            <pubDate>Sun, 01 Feb 2026 13:41:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VMi18mtBrPE</guid>
-            <source>Machine Learning and Optimization for All</source>
+            <title>Comment devenir Data Scientist ? Le parcours décodé</title>
+            <link>https://www.youtube.com/watch?v=ZHuD0pzTdG0</link>
+            <description><![CDATA[Le parcours Data Scientist décodé : devenez l'expert des données. Dans cette vidéo, plongez au cœur du parcours Data Scientist ...]]></description>
+            <pubDate>Wed, 28 Jan 2026 14:14:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ZHuD0pzTdG0</guid>
+            <source>Liora</source>
         </item>
         <item>
-            <title>2-Data Mining :Arbres de Décision#notebooklm</title>
-            <link>https://www.youtube.com/watch?v=_Fe5ju7H5LI</link>
-            <description><![CDATA[Introduction au Data Mining Dans cette vidéo, nous expliquons les concepts fondamentaux du Data Mining, ses techniques ...]]></description>
-            <pubDate>Thu, 25 Dec 2025 00:02:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=_Fe5ju7H5LI</guid>
-            <source>AllAboutData</source>
+            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
+            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
+            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
+            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
+            <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
-            <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
-            <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
-            <pubDate>Fri, 09 Jan 2026 17:01:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=gcbiOQCR-O8</guid>
-            <source>WeData</source>
+            <title>OPINION. « Pas de données, pas de droit : quand le numérique devient l'enjeu du droit de l'environnement », par Corinne Lepage et Gérard Haas</title>
+            <link>https://www.latribune.fr/article/la-tribune-dimanche/opinions/1956003471919514/opinion-pas-de-donnees-pas-de-droit-quand-le-numerique-devient-lenjeu-du-droit-de-lenvironnement-par-corinne-lepage-et-gerard-haas</link>
+            <description><![CDATA[Les deux avocats reviennent sur la nécessité d'atteindre une sécurité environnementale grâce à des règles qui encadrent les infrastructures numériques, parfois nocives pour l'environnement.]]></description>
+            <pubDate>Sat, 21 Feb 2026 21:56:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.latribune.fr/article/la-tribune-dimanche/opinions/1956003471919514/opinion-pas-de-donnees-pas-de-droit-quand-le-numerique-devient-lenjeu-du-droit-de-lenvironnement-par-corinne-lepage-et-gerard-haas</guid>
+            <source>La Tribune.fr</source>
         </item>
         <item>
-            <title>De zéro à data analyste : la première leçon avec Yao  (1ère Session)</title>
-            <link>https://www.youtube.com/watch?v=yG-ftNXowSY</link>
-            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
-            <pubDate>Fri, 09 Jan 2026 23:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=yG-ftNXowSY</guid>
-            <source>Enogne School</source>
+            <title>« Le designer porte une responsabilité inédite : préserver l’humain dans un monde d’objets autonomes »</title>
+            <link>https://www.lemonde.fr/idees/article/2026/02/22/le-designer-porte-une-responsabilite-inedite-preserver-l-humain-dans-un-monde-d-objets-autonomes_6667781_3232.html</link>
+            <description><![CDATA[Alors que les objets intelligents et autonomes se multiplient, la mission du design n’est plus de dompter le futur, mais de l’humaniser, donner une direction à la technologie, maintenir la capacité de...]]></description>
+            <pubDate>Sun, 22 Feb 2026 05:30:04 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/idees/article/2026/02/22/le-designer-porte-une-responsabilite-inedite-preserver-l-humain-dans-un-monde-d-objets-autonomes_6667781_3232.html</guid>
+            <source>Le Monde</source>
+        </item>
+        <item>
+            <title>Python Pour la Data -  Jour 1/10</title>
+            <link>https://www.youtube.com/watch?v=zk5jSdmKjvU</link>
+            <description><![CDATA[Assurez-vous que Python est installé : https://youtu.be/Bd43Lt3vod8?si=_-k02WIEl4T4M5kS Ressources à utiliser ce soir ...]]></description>
+            <pubDate>Mon, 09 Feb 2026 20:36:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=zk5jSdmKjvU</guid>
+            <source>Oscar Aksanti</source>
         </item>
     </channel>
 </rss>
