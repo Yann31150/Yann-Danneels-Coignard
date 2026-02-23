@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 23 Feb 2026 08:56:38 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 11:26:41 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,11 +13,11 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Actualité : Pourquoi ChatGPT, Gemini et Claude racontent n'importe quoi quand la discussion dure trop longtemps ?</title>
-            <link>https://www.lesnumeriques.com/intelligence-artificielle/pourquoi-chatgpt-gemini-et-claude-racontent-n-importe-quoi-quand-la-discussion-dure-trop-longtemps-n251817.html</link>
-            <description><![CDATA[Vous connaissez tous et toutes ça. On lance une session sur ChatGPT, Gemini ou Claude. La discussion s'étire et puis l'IA se met à ne plus suivre les consignes, à délirer presque. Enfin, une étude de ...]]></description>
-            <pubDate>Sat, 21 Feb 2026 18:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/pourquoi-chatgpt-gemini-et-claude-racontent-n-importe-quoi-quand-la-discussion-dure-trop-longtemps-n251817.html</guid>
+            <title>Actualité : Nvidia investit 30 milliards dans ChatGPT et devinez quoi ? OpenAI va lui acheter ses puces avec cet argent</title>
+            <link>https://www.lesnumeriques.com/intelligence-artificielle/nvidia-investit-30-milliards-dans-chatgpt-et-devinez-quoi-openai-va-lui-acheter-ses-puces-avec-cet-argent-n251827.html</link>
+            <description><![CDATA[Nvidia finalise un investissement de 30 milliards de dollars dans OpenAI. Cette somme fait partie d'une levée de fonds record de 100 milliards de dollars qui valorise start-up à qui l'on doit ChatGPT ...]]></description>
+            <pubDate>Sun, 22 Feb 2026 11:15:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/nvidia-investit-30-milliards-dans-chatgpt-et-devinez-quoi-openai-va-lui-acheter-ses-puces-avec-cet-argent-n251827.html</guid>
             <source>Les Numériques</source>
         </item>
         <item>
@@ -85,12 +85,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>DeepSeek MHC : La Nouvelle Architecture qui RÉINVENTE l’IA (Adieu les Transformers ?) 😱🔥</title>
-            <link>https://www.youtube.com/watch?v=-rFx2b3ZuXQ</link>
-            <description><![CDATA[DeepSeek vient de briser les règles du jeu avec mHC. Alors que la Big Tech mise tout sur la force brute et les milliards de ...]]></description>
-            <pubDate>Sat, 03 Jan 2026 19:35:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=-rFx2b3ZuXQ</guid>
-            <source>Nerdy Kings</source>
+            <title>« Hey Plex », Samsung ajoute cette intelligence artificielle sur ses Galaxy S26 pour concurrencer Google Gemini</title>
+            <link>https://www.frandroid.com/marques/2985553_hey-plex-samsung-ajoute-cette-intelligence-artificielle-sur-ses-galaxy-s26-pour-concurrencer-google-gemini</link>
+            <description><![CDATA[Vous utilisez combien d'IA par jour ? Selon Samsung, 8 utilisateurs sur 10 en jonglent déjà avec deux ou plus. Pour simplifier ce chaos, le géant déploie une intégration profonde de Perplexity au sein...]]></description>
+            <pubDate>Sun, 22 Feb 2026 09:43:14 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/marques/2985553_hey-plex-samsung-ajoute-cette-intelligence-artificielle-sur-ses-galaxy-s26-pour-concurrencer-google-gemini</guid>
+            <source>Frandroid</source>
         </item>
         <item>
             <title>Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données</title>
@@ -123,6 +123,14 @@
             <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
             <source>Sébastien Daviot - Expertise Data</source>
+        </item>
+        <item>
+            <title>Essai DS N°4 électrique : un habitacle de palace pour une technologie qui date ?</title>
+            <link>https://www.presse-citron.net/essai-ds-n4-electrique-un-habitacle-de-palace-pour-une-technologie-qui-date/</link>
+            <description><![CDATA[La DS4 subit un lifting, devient DS N°4, et étrenne une inédite version électrique. La française devient en ce sens la seule compacte premium multiénergies. Ce défrichage profond saura-t-il nous conva...]]></description>
+            <pubDate>Sun, 22 Feb 2026 11:00:59 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/essai-ds-n4-electrique-un-habitacle-de-palace-pour-une-technologie-qui-date/</guid>
+            <source>Presse-citron</source>
         </item>
         <item>
             <title>Construis ta première Data Pipeline en Python (Notion API → SQLite → Docker → Metabase)</title>
@@ -163,14 +171,6 @@
             <pubDate>Sun, 22 Feb 2026 05:30:04 -0000</pubDate>
             <guid isPermaLink="true">https://www.lemonde.fr/idees/article/2026/02/22/le-designer-porte-une-responsabilite-inedite-preserver-l-humain-dans-un-monde-d-objets-autonomes_6667781_3232.html</guid>
             <source>Le Monde</source>
-        </item>
-        <item>
-            <title>Python Pour la Data -  Jour 1/10</title>
-            <link>https://www.youtube.com/watch?v=zk5jSdmKjvU</link>
-            <description><![CDATA[Assurez-vous que Python est installé : https://youtu.be/Bd43Lt3vod8?si=_-k02WIEl4T4M5kS Ressources à utiliser ce soir ...]]></description>
-            <pubDate>Mon, 09 Feb 2026 20:36:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=zk5jSdmKjvU</guid>
-            <source>Oscar Aksanti</source>
         </item>
     </channel>
 </rss>

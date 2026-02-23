@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-02-23T08:56:38.834903",
+  "lastUpdate": "2026-02-23T11:26:41.811409",
   "articles": [
     {
-      "title": "Actualité : Pourquoi ChatGPT, Gemini et Claude racontent n'importe quoi quand la discussion dure trop longtemps ?",
-      "description": "Vous connaissez tous et toutes ça. On lance une session sur ChatGPT, Gemini ou Claude. La discussion s'étire et puis l'IA se met à ne plus suivre les consignes, à délirer presque. Enfin, une étude de ...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/pourquoi-chatgpt-gemini-et-claude-racontent-n-importe-quoi-quand-la-discussion-dure-trop-longtemps-n251817.html",
+      "title": "Actualité : Nvidia investit 30 milliards dans ChatGPT et devinez quoi ? OpenAI va lui acheter ses puces avec cet argent",
+      "description": "Nvidia finalise un investissement de 30 milliards de dollars dans OpenAI. Cette somme fait partie d'une levée de fonds record de 100 milliards de dollars qui valorise start-up à qui l'on doit ChatGPT ...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/nvidia-investit-30-milliards-dans-chatgpt-et-devinez-quoi-openai-va-lui-acheter-ses-puces-avec-cet-argent-n251827.html",
       "source": "Les Numériques",
-      "publishedAt": "2026-02-21T18:00:00Z",
+      "publishedAt": "2026-02-22T11:15:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -110,16 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/NvdjH1fRRE0/hqdefault.jpg"
     },
     {
-      "title": "DeepSeek MHC : La Nouvelle Architecture qui RÉINVENTE l’IA (Adieu les Transformers ?) 😱🔥",
-      "description": "DeepSeek vient de briser les règles du jeu avec mHC. Alors que la Big Tech mise tout sur la force brute et les milliards de ...",
-      "url": "https://www.youtube.com/watch?v=-rFx2b3ZuXQ",
-      "source": "Nerdy Kings",
-      "publishedAt": "2026-01-03T19:35:51Z",
+      "title": "« Hey Plex », Samsung ajoute cette intelligence artificielle sur ses Galaxy S26 pour concurrencer Google Gemini",
+      "description": "Vous utilisez combien d'IA par jour ? Selon Samsung, 8 utilisateurs sur 10 en jonglent déjà avec deux ou plus. Pour simplifier ce chaos, le géant déploie une intégration profonde de Perplexity au sein...",
+      "url": "https://www.frandroid.com/marques/2985553_hey-plex-samsung-ajoute-cette-intelligence-artificielle-sur-ses-galaxy-s26-pour-concurrencer-google-gemini",
+      "source": "Frandroid",
+      "publishedAt": "2026-02-22T09:43:14Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "-rFx2b3ZuXQ",
-      "thumbnail": "https://i.ytimg.com/vi/-rFx2b3ZuXQ/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données",
@@ -168,6 +168,18 @@
       "isYouTube": true,
       "videoId": "qKWTshE6WDI",
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
+    },
+    {
+      "title": "Essai DS N°4 électrique : un habitacle de palace pour une technologie qui date ?",
+      "description": "La DS4 subit un lifting, devient DS N°4, et étrenne une inédite version électrique. La française devient en ce sens la seule compacte premium multiénergies. Ce défrichage profond saura-t-il nous conva...",
+      "url": "https://www.presse-citron.net/essai-ds-n4-electrique-un-habitacle-de-palace-pour-une-technologie-qui-date/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-02-22T11:00:59Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Construis ta première Data Pipeline en Python (Notion API → SQLite → Docker → Metabase)",
@@ -230,23 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Python Pour la Data -  Jour 1/10",
-      "description": "Assurez-vous que Python est installé : https://youtu.be/Bd43Lt3vod8?si=_-k02WIEl4T4M5kS Ressources à utiliser ce soir ...",
-      "url": "https://www.youtube.com/watch?v=zk5jSdmKjvU",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-02-09T20:36:05Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "zk5jSdmKjvU",
-      "thumbnail": "https://i.ytimg.com/vi/zk5jSdmKjvU/hqdefault.jpg"
-    },
-    {
-      "title": "L’écart se réduit dangereusement entre la Chine et la Silicon Valley sur l’IA : panorama des dernières avancées",
-      "description": "Alors que les célébrations du Nouvel An chinois battent leur plein, les géants technologiques chinois dévoilent une nouvelle génération de modèles d’intelligence artificielle, désormais capables de ri...",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-ecart-reduit-dangereusement-chine-silicon-valley-ia-panorama-dernieres-avancees-131544/",
-      "source": "Futura",
-      "publishedAt": "2026-02-21T17:27:41Z",
+      "title": "Les « world models » : vers des IA vraiment intelligentes ?",
+      "description": "C’est peut-être la prochaine révolution de l’intelligence artificielle : des systèmes capables de comprendre les lois physiques. En tout cas, de plus en plus d’acteurs majeurs comme World Labs ou Goog...",
+      "url": "https://www.nouvelobs.com/economie/20260222.OBS112589/les-world-models-vers-des-ia-vraiment-intelligentes.html",
+      "source": "L'Obs",
+      "publishedAt": "2026-02-22T09:00:10Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Actualité : Xiaomi 15T vs 15T Pro : comment choisir entre ces deux smartphones ?",
-      "description": "Faut-il payer 250 € de plus pour un \"Pro\" ? Si les Xiaomi 15T et 15T Pro partagent le même écran ultra-lumineux et un design quasi identique, le diable se cache dans les détails. Autonomie record et z...",
-      "url": "https://www.lesnumeriques.com/telephone-portable/xiaomi-15t-vs-15t-pro-comment-choisir-entre-ces-deux-smartphones-n251731.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-02-22T08:18:00Z",
+      "title": "AlphaGenome de DeepMind : quel impact sur la recherche des mutations génétiques ?",
+      "description": "Comment une simple variation d'ADN peut-elle nous rendre malades ? Pour le comprendre, l'IA AlphaGenome modélise la complexité génétique à une échelle inédite. Moins révolutionnaire qu'AlphaFold mais ...",
+      "url": "https://www.numerama.com/sciences/2182033-alphagenome-de-deepmind-quel-impact-sur-la-recherche-des-mutations-genetiques.html",
+      "source": "Numerama",
+      "publishedAt": "2026-02-22T10:31:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
