@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 23 Feb 2026 11:26:41 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 08:56:07 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,28 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Actualité : Nvidia investit 30 milliards dans ChatGPT et devinez quoi ? OpenAI va lui acheter ses puces avec cet argent</title>
-            <link>https://www.lesnumeriques.com/intelligence-artificielle/nvidia-investit-30-milliards-dans-chatgpt-et-devinez-quoi-openai-va-lui-acheter-ses-puces-avec-cet-argent-n251827.html</link>
-            <description><![CDATA[Nvidia finalise un investissement de 30 milliards de dollars dans OpenAI. Cette somme fait partie d'une levée de fonds record de 100 milliards de dollars qui valorise start-up à qui l'on doit ChatGPT ...]]></description>
-            <pubDate>Sun, 22 Feb 2026 11:15:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/nvidia-investit-30-milliards-dans-chatgpt-et-devinez-quoi-openai-va-lui-acheter-ses-puces-avec-cet-argent-n251827.html</guid>
-            <source>Les Numériques</source>
+            <title>Pourquoi les IA ne font jamais les mêmes recommandations</title>
+            <link>https://www.blogdumoderateur.com/pourquoi-ia-jamais-memes-recommandations/</link>
+            <description><![CDATA[Peut-on vraiment suivre sa visibilité dans ChatGPT ou l'IA de Google ? Une étude de Rand Fishkin révèle l’instabilité des classements.]]></description>
+            <pubDate>Mon, 23 Feb 2026 08:28:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.blogdumoderateur.com/pourquoi-ia-jamais-memes-recommandations/</guid>
+            <source>Blogdumoderateur.com</source>
         </item>
         <item>
-            <title>Liens vagabonds : Mon IA va-t-elle se mettre à la pub ?</title>
-            <link>https://www.meta-media.fr/2026/02/21/liens-vagabonds-mon-ia-va-t-elle-se-mettre-a-la-pub.html</link>
-            <description><![CDATA[Vous reprendrez bien un peu de publicité ? Le monde de l’IA semble se diviser en deux camps. Tout s’est enflammé après la diffusion par Anthropic de quatre spots publicitaires au Superbowl, plutôt off...]]></description>
-            <pubDate>Sat, 21 Feb 2026 09:53:27 -0000</pubDate>
-            <guid isPermaLink="true">https://www.meta-media.fr/2026/02/21/liens-vagabonds-mon-ia-va-t-elle-se-mettre-a-la-pub.html</guid>
-            <source>Meta-media.fr</source>
+            <title>22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)</title>
+            <link>https://www.youtube.com/watch?v=p0D5zWVTkUU</link>
+            <description><![CDATA[Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...]]></description>
+            <pubDate>Thu, 08 Jan 2026 19:12:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=p0D5zWVTkUU</guid>
+            <source>Ludo Salenne</source>
+        </item>
+        <item>
+            <title>Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)</title>
+            <link>https://www.youtube.com/watch?v=W3ygk9QJ4ks</link>
+            <description><![CDATA[CHALLENGE 4 JOURS - GÉNÉREZ UNE PUB IA BLUFFANTE Créez une vidéo de qualité cinéma, entièrement générée avec ...]]></description>
+            <pubDate>Thu, 22 Jan 2026 08:43:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=W3ygk9QJ4ks</guid>
+            <source>Frank Houbre - IA & intelligence artificielle</source>
         </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
@@ -37,6 +45,14 @@
             <source>Ludo Salenne</source>
         </item>
         <item>
+            <title>Analyse discriminante PLS « from scratch » avec ChatGPT (Python)</title>
+            <link>https://www.youtube.com/watch?v=YLh5gsmOFkQ</link>
+            <description><![CDATA[Machine learning. Data science. Classification supervisée. Analyse discriminante PLS, approche en deux étapes : régression ...]]></description>
+            <pubDate>Tue, 17 Feb 2026 16:40:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=YLh5gsmOFkQ</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
             <title>Analyse de données avec Orange</title>
             <link>https://www.youtube.com/watch?v=hw8TiHABNLc</link>
             <description><![CDATA[Orange Data Mining : Analyse de données &amp; Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...]]></description>
@@ -45,12 +61,20 @@
             <source>Ardy Fanny Nell REBOUKA REBOUKA</source>
         </item>
         <item>
-            <title>Règles d’association avec KNIME</title>
-            <link>https://www.youtube.com/watch?v=I-L2k_lzopQ</link>
-            <description><![CDATA[Machine learning. Data Mining. Data Science. Extraction des règles d'association à partir de données tabulaires avec le ...]]></description>
-            <pubDate>Wed, 21 Jan 2026 10:01:16 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=I-L2k_lzopQ</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2</title>
+            <link>https://www.youtube.com/watch?v=xCV8IUkhuXg</link>
+            <description><![CDATA[IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2 ...]]></description>
+            <pubDate>Wed, 14 Jan 2026 11:24:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=xCV8IUkhuXg</guid>
+            <source>Tutoriels MAO</source>
+        </item>
+        <item>
+            <title>Pas d’IA, pas de promotion : cette entreprise veut forcer ses cadres à utiliser l’intelligence artificielle</title>
+            <link>https://www.presse-citron.net/ia-promotion-entreprise-forcer-cadres-intelligence-artificielle/</link>
+            <description><![CDATA[Accenture est à fond dans l’intelligence artificielle et, désormais, l’utilisation des outils d’IA est prise en compte pour les décisions de promotion de ses cadres.]]></description>
+            <pubDate>Mon, 23 Feb 2026 06:01:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/ia-promotion-entreprise-forcer-cadres-intelligence-artificielle/</guid>
+            <source>Presse-citron</source>
         </item>
         <item>
             <title>Power BI Desktop Installation TUTO GRATUIT 2025</title>
@@ -61,36 +85,12 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>ELT avec BigQuery, GCS, Airflow, Python et SQL (video 1) | Présentation du cours et Objectifs</title>
-            <link>https://www.youtube.com/watch?v=Fzb6Zgl6hhk</link>
-            <description><![CDATA[Google Cloud Platform pour Data Engineers : Projet pratique ELT avec BigQuery, GCS, Airflow, Python et SQL - Projet réel sur ...]]></description>
-            <pubDate>Sun, 28 Dec 2025 17:18:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Fzb6Zgl6hhk</guid>
-            <source>J.A DATATECH CONSULTING</source>
-        </item>
-        <item>
-            <title>Qu&amp;#39;est-ce que Power BI ? (Tuto Intro 2025)</title>
-            <link>https://www.youtube.com/watch?v=wBsvjPNqUco</link>
-            <description><![CDATA[Vous entendez parler de "Data" partout, mais c'est quoi concrètement Power BI ? En 2025, c'est l'outil indispensable pour booster ...]]></description>
-            <pubDate>Tue, 30 Dec 2025 16:00:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=wBsvjPNqUco</guid>
-            <source>BI & Data Pro</source>
-        </item>
-        <item>
-            <title>Analyse discriminante avec « discrimintools » (Python)</title>
-            <link>https://www.youtube.com/watch?v=NvdjH1fRRE0</link>
-            <description><![CDATA[Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...]]></description>
-            <pubDate>Mon, 16 Feb 2026 09:53:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=NvdjH1fRRE0</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>« Hey Plex », Samsung ajoute cette intelligence artificielle sur ses Galaxy S26 pour concurrencer Google Gemini</title>
-            <link>https://www.frandroid.com/marques/2985553_hey-plex-samsung-ajoute-cette-intelligence-artificielle-sur-ses-galaxy-s26-pour-concurrencer-google-gemini</link>
-            <description><![CDATA[Vous utilisez combien d'IA par jour ? Selon Samsung, 8 utilisateurs sur 10 en jonglent déjà avec deux ou plus. Pour simplifier ce chaos, le géant déploie une intégration profonde de Perplexity au sein...]]></description>
-            <pubDate>Sun, 22 Feb 2026 09:43:14 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/marques/2985553_hey-plex-samsung-ajoute-cette-intelligence-artificielle-sur-ses-galaxy-s26-pour-concurrencer-google-gemini</guid>
-            <source>Frandroid</source>
+            <title>Comment Avoir une IA Privée et NON CENSURÉE Gratuitement sur ton PC (LM Studio + AnythingLLM)</title>
+            <link>https://www.youtube.com/watch?v=ArexJfRHMYc</link>
+            <description><![CDATA[Dans cette vidéo, je vous montre comment faire fonctionner un LLM totalement privé, non censuré et hors ligne, directement sur ...]]></description>
+            <pubDate>Sat, 07 Feb 2026 17:00:25 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ArexJfRHMYc</guid>
+            <source>Parlons Cyber</source>
         </item>
         <item>
             <title>Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données</title>
@@ -125,20 +125,12 @@
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>Essai DS N°4 électrique : un habitacle de palace pour une technologie qui date ?</title>
-            <link>https://www.presse-citron.net/essai-ds-n4-electrique-un-habitacle-de-palace-pour-une-technologie-qui-date/</link>
-            <description><![CDATA[La DS4 subit un lifting, devient DS N°4, et étrenne une inédite version électrique. La française devient en ce sens la seule compacte premium multiénergies. Ce défrichage profond saura-t-il nous conva...]]></description>
-            <pubDate>Sun, 22 Feb 2026 11:00:59 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/essai-ds-n4-electrique-un-habitacle-de-palace-pour-une-technologie-qui-date/</guid>
+            <title>Perplexity débarque officiellement sur les smartphones Samsung : quels sont les modèles concernés ?</title>
+            <link>https://www.presse-citron.net/perplexity-smartphones-samsung-modeles-concernes/</link>
+            <description><![CDATA[Samsung vient d’officialiser l’intégration de l’assistant Perplexity à ses smartphones. Malheureusement, cela ne concerne que les futurs produits phares du géant coréen. Celui-ci vient également d’ann...]]></description>
+            <pubDate>Mon, 23 Feb 2026 08:26:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/perplexity-smartphones-samsung-modeles-concernes/</guid>
             <source>Presse-citron</source>
-        </item>
-        <item>
-            <title>Construis ta première Data Pipeline en Python (Notion API → SQLite → Docker → Metabase)</title>
-            <link>https://www.youtube.com/watch?v=wzWGPdkr_sE</link>
-            <description><![CDATA[DANS CETTE VIDÉO Apprends à construire ta première data pipeline complète en Python, de A à Z, 100% gratuitement depuis ...]]></description>
-            <pubDate>Wed, 07 Jan 2026 13:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=wzWGPdkr_sE</guid>
-            <source>KottioDev</source>
         </item>
         <item>
             <title>Comment devenir Data Scientist ? Le parcours décodé</title>
@@ -157,20 +149,28 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>OPINION. « Pas de données, pas de droit : quand le numérique devient l'enjeu du droit de l'environnement », par Corinne Lepage et Gérard Haas</title>
-            <link>https://www.latribune.fr/article/la-tribune-dimanche/opinions/1956003471919514/opinion-pas-de-donnees-pas-de-droit-quand-le-numerique-devient-lenjeu-du-droit-de-lenvironnement-par-corinne-lepage-et-gerard-haas</link>
-            <description><![CDATA[Les deux avocats reviennent sur la nécessité d'atteindre une sécurité environnementale grâce à des règles qui encadrent les infrastructures numériques, parfois nocives pour l'environnement.]]></description>
-            <pubDate>Sat, 21 Feb 2026 21:56:16 -0000</pubDate>
-            <guid isPermaLink="true">https://www.latribune.fr/article/la-tribune-dimanche/opinions/1956003471919514/opinion-pas-de-donnees-pas-de-droit-quand-le-numerique-devient-lenjeu-du-droit-de-lenvironnement-par-corinne-lepage-et-gerard-haas</guid>
-            <source>La Tribune.fr</source>
+            <title>Dossier : Espionnage téléphone : pourquoi l’antivirus est votre première ligne de défense ?</title>
+            <link>https://www.lesnumeriques.com/antivirus/espionnage-telephone-pourquoi-l-antivirus-est-votre-premiere-ligne-de-defense-a245036.html</link>
+            <description><![CDATA[Dans un monde où les smartphones sont au cœur de notre vie, la menace des logiciels espions ne cesse de croître. Ces applications malveillantes peuvent infecter votre appareil, accéder à vos fichiers,...]]></description>
+            <pubDate>Mon, 23 Feb 2026 07:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/antivirus/espionnage-telephone-pourquoi-l-antivirus-est-votre-premiere-ligne-de-defense-a245036.html</guid>
+            <source>Les Numériques</source>
         </item>
         <item>
-            <title>« Le designer porte une responsabilité inédite : préserver l’humain dans un monde d’objets autonomes »</title>
-            <link>https://www.lemonde.fr/idees/article/2026/02/22/le-designer-porte-une-responsabilite-inedite-preserver-l-humain-dans-un-monde-d-objets-autonomes_6667781_3232.html</link>
-            <description><![CDATA[Alors que les objets intelligents et autonomes se multiplient, la mission du design n’est plus de dompter le futur, mais de l’humaniser, donner une direction à la technologie, maintenir la capacité de...]]></description>
-            <pubDate>Sun, 22 Feb 2026 05:30:04 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lemonde.fr/idees/article/2026/02/22/le-designer-porte-une-responsabilite-inedite-preserver-l-humain-dans-un-monde-d-objets-autonomes_6667781_3232.html</guid>
-            <source>Le Monde</source>
+            <title>Jeûne intermittent : une vaste étude mondiale casse le mythe de la méthode miracle pour maigrir</title>
+            <link>https://www.futura-sciences.com/sante/actualites/jeune-intermittent-jeune-intermittent-vaste-etude-mondiale-casse-mythe-methode-miracle-maigrir-131507/</link>
+            <description><![CDATA[Et si le jeûne intermittent n’était finalement pas la méthode miracle pour perdre du poids ? Une large analyse de la littérature scientifique vient ébranler ce que l’on croyait savoir sur ses véritabl...]]></description>
+            <pubDate>Mon, 23 Feb 2026 08:03:56 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/sante/actualites/jeune-intermittent-jeune-intermittent-vaste-etude-mondiale-casse-mythe-methode-miracle-maigrir-131507/</guid>
+            <source>Futura</source>
+        </item>
+        <item>
+            <title>Comment Sarah Knafo s'appuie sur la crypto pour « trumpiser » l'extrême droite française</title>
+            <link>https://multinationales.org/fr/enquetes/extreme-tech/comment-sarah-knafo-s-appuie-sur-la-crypto-pour-trumpiser-l-extreme-droite</link>
+            <description><![CDATA[Imitant Donald Trump qui a su se rallier les milieux d'affaires pro-crypto, Sarah Knafo entend incarner un nouveau visage de l'extrême droite : ultra-libérale et technophile, pro-Bitcoin et identitair...]]></description>
+            <pubDate>Mon, 23 Feb 2026 07:41:35 -0000</pubDate>
+            <guid isPermaLink="true">https://multinationales.org/fr/enquetes/extreme-tech/comment-sarah-knafo-s-appuie-sur-la-crypto-pour-trumpiser-l-extreme-droite</guid>
+            <source>Multinationales.org</source>
         </item>
     </channel>
 </rss>
