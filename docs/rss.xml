@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 25 Feb 2026 05:57:05 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 08:57:30 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Créer un Agent IA puissant (RAG) : Tutoriel Complet (no code)</title>
-            <link>https://www.youtube.com/watch?v=_ldYxumnGIo</link>
-            <description><![CDATA[Pour récupérer les workflows sur n8n : https://tally.so/r/pbyR9y Si tu utilises déjà ChatGPT ou Claude en entreprise, tu l'as ...]]></description>
-            <pubDate>Wed, 07 Jan 2026 07:49:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=_ldYxumnGIo</guid>
-            <source>Louis Graffeuil</source>
-        </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
             <link>https://www.youtube.com/watch?v=N0gTIxg9l2A</link>
@@ -37,29 +29,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Intelligence artificielle : entre promesses ambitieuses et réalités mesurées</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1547965-intelligence-artificielle-entre-promesses-ambitieuses-et-realites-mesurees/</link>
-            <description><![CDATA[Après une adoption massive, des investissements record et des attentes élevées,  l'intelligence artificielle entre dans une phase d'évaluation stratégique.]]></description>
-            <pubDate>Mon, 23 Feb 2026 14:34:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1547965-intelligence-artificielle-entre-promesses-ambitieuses-et-realites-mesurees/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
             <title>Power BI Desktop Installation TUTO GRATUIT 2025</title>
             <link>https://www.youtube.com/watch?v=FOj5HTd4EAs</link>
             <description><![CDATA[BIENVENUE ! Cette vidéo est l'étape #3 de la formation Power BI Pro 2025. Vous avez choisi l'outil, maintenant on l'installe !]]></description>
             <pubDate>Tue, 30 Dec 2025 17:11:13 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=FOj5HTd4EAs</guid>
             <source>BI & Data Pro</source>
-        </item>
-        <item>
-            <title>Krafton nomme son Chief AI Officer, le directeur de l'intelligence artificielle</title>
-            <link>https://www.gamekult.com/actualite/krafton-nomme-son-chief-ai-officer-le-directeur-de-l-intelligence-artificielle-3050868616.html</link>
-            <description><![CDATA[CAIO ! Ce n'est pas une salutation en italien mal écrite mais bien l'acronyme de Chief AI Officer, que vous avez tout intérêt à retenir si vous voulez vivre avec votre temps.
-Bien décidé à se montrer....]]></description>
-            <pubDate>Mon, 23 Feb 2026 17:05:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.gamekult.com/actualite/krafton-nomme-son-chief-ai-officer-le-directeur-de-l-intelligence-artificielle-3050868616.html</guid>
-            <source>Gamekult</source>
         </item>
         <item>
             <title>ELT avec BigQuery, GCS, Airflow, Python et SQL (video 1) | Présentation du cours et Objectifs</title>
@@ -94,20 +69,28 @@ Bien décidé à se montrer....]]></description>
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips</title>
-            <link>https://www.youtube.com/watch?v=qup-uitBx58</link>
-            <description><![CDATA[Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...]]></description>
-            <pubDate>Sun, 04 Jan 2026 03:10:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=qup-uitBx58</guid>
-            <source>Oracle SQL Tips FR</source>
+            <title>DeepSeek MHC : La Nouvelle Architecture qui RÉINVENTE l’IA (Adieu les Transformers ?) 😱🔥</title>
+            <link>https://www.youtube.com/watch?v=-rFx2b3ZuXQ</link>
+            <description><![CDATA[DeepSeek vient de briser les règles du jeu avec mHC. Alors que la Big Tech mise tout sur la force brute et les milliards de ...]]></description>
+            <pubDate>Sat, 03 Jan 2026 19:35:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=-rFx2b3ZuXQ</guid>
+            <source>Nerdy Kings</source>
         </item>
         <item>
-            <title>Utilisez les bases de données NoSQL</title>
-            <link>https://www.youtube.com/watch?v=4RztOLH7fGg</link>
-            <description><![CDATA[Découvrez le cours complet (gratuit !) sur http://oc.info/cours-fr Initiez-vous au NoSQL avec MongoDB : gérez des données ...]]></description>
-            <pubDate>Mon, 05 Jan 2026 14:00:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=4RztOLH7fGg</guid>
-            <source>OpenClassrooms en Français</source>
+            <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
+            <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
+            <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
+            <pubDate>Fri, 13 Feb 2026 23:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=2i9u_hwq05g</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
+            <title>Tout comprendre sur l&amp;#39;IA en quelques minutes ! 🚀</title>
+            <link>https://www.youtube.com/watch?v=QtFcvYNu3KQ</link>
+            <description><![CDATA[Démystifions ensemble l'Intelligence Artificielle ! Vous en entendez parler partout, mais savez-vous vraiment ce qu'elle est et ...]]></description>
+            <pubDate>Sat, 07 Feb 2026 12:34:56 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=QtFcvYNu3KQ</guid>
+            <source>HHSA Agency</source>
         </item>
         <item>
             <title>Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données</title>
@@ -142,14 +125,6 @@ Bien décidé à se montrer....]]></description>
             <source>JDN</source>
         </item>
         <item>
-            <title>De zéro à data analyste : la deuxième leçon avec Yao (2ème Session)</title>
-            <link>https://www.youtube.com/watch?v=FJdYN6A9X78</link>
-            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
-            <pubDate>Fri, 16 Jan 2026 23:00:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=FJdYN6A9X78</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
             <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
             <link>https://www.youtube.com/watch?v=wNyw2TN8mh0</link>
             <description><![CDATA[]]></description>
@@ -158,20 +133,44 @@ Bien décidé à se montrer....]]></description>
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Ingénieur des données : rôle, missions, outils et importance du Data Engineer</title>
-            <link>https://www.youtube.com/watch?v=D2TZ3U6WUZ0</link>
-            <description><![CDATA[Dans ce tutoriel complet, nous expliquons le métier d'ingénieur des données, aussi appelé data engineer. Vous découvrirez ...]]></description>
-            <pubDate>Fri, 23 Jan 2026 05:51:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=D2TZ3U6WUZ0</guid>
-            <source>Basic Skills</source>
+            <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
+            <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
+            <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
+            <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
+            <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>De zéro à data analyste : la troisième leçon avec Yao (3ème Session)</title>
-            <link>https://www.youtube.com/watch?v=o1XuoQl0zDU</link>
-            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
-            <pubDate>Fri, 23 Jan 2026 23:30:31 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=o1XuoQl0zDU</guid>
-            <source>Enogne School</source>
+            <title>data-science-document-ai 1.64.0</title>
+            <link>https://pypi.org/project/data-science-document-ai/1.64.0/</link>
+            <description><![CDATA["Document AI repo for data science"]]></description>
+            <pubDate>Mon, 23 Feb 2026 20:39:54 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.64.0/</guid>
+            <source>Pypi.org</source>
+        </item>
+        <item>
+            <title>Comment devenir Data Scientist ? Le parcours décodé</title>
+            <link>https://www.youtube.com/watch?v=ZHuD0pzTdG0</link>
+            <description><![CDATA[Le parcours Data Scientist décodé : devenez l'expert des données. Dans cette vidéo, plongez au cœur du parcours Data Scientist ...]]></description>
+            <pubDate>Wed, 28 Jan 2026 14:14:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ZHuD0pzTdG0</guid>
+            <source>Liora</source>
+        </item>
+        <item>
+            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
+            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
+            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
+            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
+            <source>Oscar Aksanti</source>
+        </item>
+        <item>
+            <title>Python Pour la Data -  Jour 1/10</title>
+            <link>https://www.youtube.com/watch?v=zk5jSdmKjvU</link>
+            <description><![CDATA[Assurez-vous que Python est installé : https://youtu.be/Bd43Lt3vod8?si=_-k02WIEl4T4M5kS Ressources à utiliser ce soir ...]]></description>
+            <pubDate>Mon, 09 Feb 2026 20:36:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=zk5jSdmKjvU</guid>
+            <source>Oscar Aksanti</source>
         </item>
     </channel>
 </rss>

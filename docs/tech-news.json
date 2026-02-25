@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-02-25T05:57:05.623143",
+  "lastUpdate": "2026-02-25T08:57:30.684417",
   "articles": [
-    {
-      "title": "Créer un Agent IA puissant (RAG) : Tutoriel Complet (no code)",
-      "description": "Pour récupérer les workflows sur n8n : https://tally.so/r/pbyR9y Si tu utilises déjà ChatGPT ou Claude en entreprise, tu l'as ...",
-      "url": "https://www.youtube.com/watch?v=_ldYxumnGIo",
-      "source": "Louis Graffeuil",
-      "publishedAt": "2026-01-07T07:49:08Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "_ldYxumnGIo",
-      "thumbnail": "https://i.ytimg.com/vi/_ldYxumnGIo/hqdefault.jpg"
-    },
     {
       "title": "J&#39;ai résilié tous mes outils IA (j&#39;ai fabriqué le mien)",
       "description": "Plus de 15 outils IA, 15 abonnements, des onglets partout... ChatGPT, Gemini, Perplexity, Gamma... C'était le gros bordel alors ...",
@@ -38,18 +26,6 @@
       "thumbnail": "https://i.ytimg.com/vi/YLh5gsmOFkQ/hqdefault.jpg"
     },
     {
-      "title": "Intelligence artificielle : entre promesses ambitieuses et réalités mesurées",
-      "description": "Après une adoption massive, des investissements record et des attentes élevées,  l'intelligence artificielle entre dans une phase d'évaluation stratégique.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1547965-intelligence-artificielle-entre-promesses-ambitieuses-et-realites-mesurees/",
-      "source": "JDN",
-      "publishedAt": "2026-02-23T14:34:41Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Power BI Desktop Installation TUTO GRATUIT 2025",
       "description": "BIENVENUE ! Cette vidéo est l'étape #3 de la formation Power BI Pro 2025. Vous avez choisi l'outil, maintenant on l'installe !",
       "url": "https://www.youtube.com/watch?v=FOj5HTd4EAs",
@@ -60,18 +36,6 @@
       "isYouTube": true,
       "videoId": "FOj5HTd4EAs",
       "thumbnail": "https://i.ytimg.com/vi/FOj5HTd4EAs/hqdefault.jpg"
-    },
-    {
-      "title": "Krafton nomme son Chief AI Officer, le directeur de l'intelligence artificielle",
-      "description": "CAIO ! Ce n'est pas une salutation en italien mal écrite mais bien l'acronyme de Chief AI Officer, que vous avez tout intérêt à retenir si vous voulez vivre avec votre temps.\nBien décidé à se montrer....",
-      "url": "https://www.gamekult.com/actualite/krafton-nomme-son-chief-ai-officer-le-directeur-de-l-intelligence-artificielle-3050868616.html",
-      "source": "Gamekult",
-      "publishedAt": "2026-02-23T17:05:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "ELT avec BigQuery, GCS, Airflow, Python et SQL (video 1) | Présentation du cours et Objectifs",
@@ -122,28 +86,40 @@
       "thumbnail": "https://i.ytimg.com/vi/NvdjH1fRRE0/hqdefault.jpg"
     },
     {
-      "title": "SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips",
-      "description": "Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...",
-      "url": "https://www.youtube.com/watch?v=qup-uitBx58",
-      "source": "Oracle SQL Tips FR",
-      "publishedAt": "2026-01-04T03:10:49Z",
-      "category": "data",
+      "title": "DeepSeek MHC : La Nouvelle Architecture qui RÉINVENTE l’IA (Adieu les Transformers ?) 😱🔥",
+      "description": "DeepSeek vient de briser les règles du jeu avec mHC. Alors que la Big Tech mise tout sur la force brute et les milliards de ...",
+      "url": "https://www.youtube.com/watch?v=-rFx2b3ZuXQ",
+      "source": "Nerdy Kings",
+      "publishedAt": "2026-01-03T19:35:51Z",
+      "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "qup-uitBx58",
-      "thumbnail": "https://i.ytimg.com/vi/qup-uitBx58/hqdefault.jpg"
+      "videoId": "-rFx2b3ZuXQ",
+      "thumbnail": "https://i.ytimg.com/vi/-rFx2b3ZuXQ/hqdefault.jpg"
     },
     {
-      "title": "Utilisez les bases de données NoSQL",
-      "description": "Découvrez le cours complet (gratuit !) sur http://oc.info/cours-fr Initiez-vous au NoSQL avec MongoDB : gérez des données ...",
-      "url": "https://www.youtube.com/watch?v=4RztOLH7fGg",
-      "source": "OpenClassrooms en Français",
-      "publishedAt": "2026-01-05T14:00:09Z",
-      "category": "data",
+      "title": "Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine",
+      "description": "Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...",
+      "url": "https://www.youtube.com/watch?v=2i9u_hwq05g",
+      "source": "Enogne School",
+      "publishedAt": "2026-02-13T23:00:06Z",
+      "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "4RztOLH7fGg",
-      "thumbnail": "https://i.ytimg.com/vi/4RztOLH7fGg/hqdefault.jpg"
+      "videoId": "2i9u_hwq05g",
+      "thumbnail": "https://i.ytimg.com/vi/2i9u_hwq05g/hqdefault.jpg"
+    },
+    {
+      "title": "Tout comprendre sur l&#39;IA en quelques minutes ! 🚀",
+      "description": "Démystifions ensemble l'Intelligence Artificielle ! Vous en entendez parler partout, mais savez-vous vraiment ce qu'elle est et ...",
+      "url": "https://www.youtube.com/watch?v=QtFcvYNu3KQ",
+      "source": "HHSA Agency",
+      "publishedAt": "2026-02-07T12:34:56Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "QtFcvYNu3KQ",
+      "thumbnail": "https://i.ytimg.com/vi/QtFcvYNu3KQ/hqdefault.jpg"
     },
     {
       "title": "Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données",
@@ -194,18 +170,6 @@
       "thumbnail": ""
     },
     {
-      "title": "De zéro à data analyste : la deuxième leçon avec Yao (2ème Session)",
-      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
-      "url": "https://www.youtube.com/watch?v=FJdYN6A9X78",
-      "source": "Enogne School",
-      "publishedAt": "2026-01-16T23:00:30Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "FJdYN6A9X78",
-      "thumbnail": "https://i.ytimg.com/vi/FJdYN6A9X78/hqdefault.jpg"
-    },
-    {
       "title": "Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto",
       "description": "",
       "url": "https://www.youtube.com/watch?v=wNyw2TN8mh0",
@@ -218,28 +182,64 @@
       "thumbnail": "https://i.ytimg.com/vi/wNyw2TN8mh0/hqdefault.jpg"
     },
     {
-      "title": "Ingénieur des données : rôle, missions, outils et importance du Data Engineer",
-      "description": "Dans ce tutoriel complet, nous expliquons le métier d'ingénieur des données, aussi appelé data engineer. Vous découvrirez ...",
-      "url": "https://www.youtube.com/watch?v=D2TZ3U6WUZ0",
-      "source": "Basic Skills",
-      "publishedAt": "2026-01-23T05:51:51Z",
+      "title": "Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)",
+      "description": "Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...",
+      "url": "https://www.youtube.com/watch?v=qKWTshE6WDI",
+      "source": "Sébastien Daviot - Expertise Data",
+      "publishedAt": "2026-02-08T07:41:39Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "D2TZ3U6WUZ0",
-      "thumbnail": "https://i.ytimg.com/vi/D2TZ3U6WUZ0/hqdefault.jpg"
+      "videoId": "qKWTshE6WDI",
+      "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
-      "title": "De zéro à data analyste : la troisième leçon avec Yao (3ème Session)",
-      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
-      "url": "https://www.youtube.com/watch?v=o1XuoQl0zDU",
-      "source": "Enogne School",
-      "publishedAt": "2026-01-23T23:30:31Z",
+      "title": "data-science-document-ai 1.64.0",
+      "description": "\"Document AI repo for data science\"",
+      "url": "https://pypi.org/project/data-science-document-ai/1.64.0/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-02-23T20:39:54Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comment devenir Data Scientist ? Le parcours décodé",
+      "description": "Le parcours Data Scientist décodé : devenez l'expert des données. Dans cette vidéo, plongez au cœur du parcours Data Scientist ...",
+      "url": "https://www.youtube.com/watch?v=ZHuD0pzTdG0",
+      "source": "Liora",
+      "publishedAt": "2026-01-28T14:14:42Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "o1XuoQl0zDU",
-      "thumbnail": "https://i.ytimg.com/vi/o1XuoQl0zDU/hqdefault.jpg"
+      "videoId": "ZHuD0pzTdG0",
+      "thumbnail": "https://i.ytimg.com/vi/ZHuD0pzTdG0/hqdefault.jpg"
+    },
+    {
+      "title": "Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro",
+      "description": "Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...",
+      "url": "https://www.youtube.com/watch?v=8EXbMYHL8xw",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-01-31T08:46:46Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "8EXbMYHL8xw",
+      "thumbnail": "https://i.ytimg.com/vi/8EXbMYHL8xw/hqdefault.jpg"
+    },
+    {
+      "title": "Python Pour la Data -  Jour 1/10",
+      "description": "Assurez-vous que Python est installé : https://youtu.be/Bd43Lt3vod8?si=_-k02WIEl4T4M5kS Ressources à utiliser ce soir ...",
+      "url": "https://www.youtube.com/watch?v=zk5jSdmKjvU",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-02-09T20:36:05Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "zk5jSdmKjvU",
+      "thumbnail": "https://i.ytimg.com/vi/zk5jSdmKjvU/hqdefault.jpg"
     },
     {
       "title": "ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)",
@@ -254,23 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
     },
     {
-      "title": "« Je me sens en décalage avec tous ceux qui m’entourent » : ces jeunes adultes qui refusent de céder à l’IA",
-      "description": "Etudiants ou jeunes actifs, ils boycottent l’intelligence artificielle générative dans leur quotidien pour des motifs personnels, écologiques ou éthiques. Une défiance creusant parfois un fossé avec l...",
-      "url": "https://www.lemonde.fr/campus/article/2026/02/24/je-me-sens-en-decalage-avec-tous-ceux-qui-m-entourent-ces-jeunes-adultes-qui-refusent-de-ceder-a-l-ia_6668014_4401467.html",
-      "source": "Le Monde",
-      "publishedAt": "2026-02-24T04:45:08Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L'IA, un outil de propagande parfait pour l'extrême droite et les masculinistes",
-      "description": "Des groupes nationalistes, racistes, sexistes se saisissent des outils d'intelligence artificielle pour propager à bas coût ses idées sur le web. Cette tendance, qui ne semble pas prête de s'arrêter, ...",
-      "url": "https://basta.media/l-ia-un-outil-de-propagande-parfait-pour-l-extreme-droite-et-les-masculinistes",
-      "source": "Basta.media",
-      "publishedAt": "2026-02-23T16:00:00Z",
+      "title": "IA : la liquidité des stock-options reconfigure la bataille des talents entre leaders",
+      "description": "Dans l’intelligence artificielle, la compétition ne porte plus seulement sur les modèles ou la capacité de calcul, mais se joue également sur le capital humain. Chercheurs en modèles fondamentaux, ing...",
+      "url": "https://www.frenchweb.fr/ia-la-liquidite-des-stock-options-reconfigure-la-bataille-des-talents-entre-leaders/460487",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-02-24T08:46:03Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Comment les banques françaises adoptent l’intelligence artificielle",
-      "description": "Construire en interne ou acheter sur étagère ? Face à l'essor de l'IA générative, les grandes banques françaises font des choix radicalement différents et dessinent, chacune à leur manière, le visage ...",
-      "url": "https://www.presse-citron.net/comment-banques-francaises-adoptent-intelligence-artificielle/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-02-24T05:03:02Z",
+      "title": "L’IA quantique s’impose comme un levier des industries du futur",
+      "description": "À Séoul, un sommet technologique dessine les contours d’une nouvelle révolution industrielle fondée sur la convergence entre intelligence artificielle et informatique quantique.",
+      "url": "https://www.zdnet.fr/actualites/lia-quantique-simpose-comme-un-levier-des-industries-du-futur-490729.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-02-24T07:20:03Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "”Le dernier remaniement douanier de Donald Trump n’offre pas de raisons de se réjouir aux entreprises et aux investisseurs”",
+      "description": "Les marchés européens naviguent à vue. Entre la nouvelle salve commerciale de Donald Trump et les doutes qui émergent autour de l’intelligence artificielle, l’optimisme des investisseurs marque le pas...",
+      "url": "https://www.lalibre.be/economie/placements/2026/02/24/le-dernier-remaniement-douanier-de-donald-trump-noffre-pas-de-raisons-de-se-rejouir-aux-entreprises-et-aux-investisseurs-LXYKKHJ4JNATRDBVTKVXOCGLDU/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-02-24T08:31:58Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
