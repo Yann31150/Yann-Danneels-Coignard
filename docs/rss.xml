@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 24 Feb 2026 08:56:07 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 05:57:05 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,28 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Pourquoi les IA ne font jamais les mêmes recommandations</title>
-            <link>https://www.blogdumoderateur.com/pourquoi-ia-jamais-memes-recommandations/</link>
-            <description><![CDATA[Peut-on vraiment suivre sa visibilité dans ChatGPT ou l'IA de Google ? Une étude de Rand Fishkin révèle l’instabilité des classements.]]></description>
-            <pubDate>Mon, 23 Feb 2026 08:28:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.blogdumoderateur.com/pourquoi-ia-jamais-memes-recommandations/</guid>
-            <source>Blogdumoderateur.com</source>
-        </item>
-        <item>
-            <title>22 minutes pour bien utiliser ChatGPT en 2026 (Tuto Complet)</title>
-            <link>https://www.youtube.com/watch?v=p0D5zWVTkUU</link>
-            <description><![CDATA[Comment bien utiliser ChatGPT en 2026 ? En 22 minutes, je vous donne les meilleures techniques et astuces pour maitriser ...]]></description>
-            <pubDate>Thu, 08 Jan 2026 19:12:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=p0D5zWVTkUU</guid>
-            <source>Ludo Salenne</source>
-        </item>
-        <item>
-            <title>Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)</title>
-            <link>https://www.youtube.com/watch?v=W3ygk9QJ4ks</link>
-            <description><![CDATA[CHALLENGE 4 JOURS - GÉNÉREZ UNE PUB IA BLUFFANTE Créez une vidéo de qualité cinéma, entièrement générée avec ...]]></description>
-            <pubDate>Thu, 22 Jan 2026 08:43:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=W3ygk9QJ4ks</guid>
-            <source>Frank Houbre - IA & intelligence artificielle</source>
+            <title>Créer un Agent IA puissant (RAG) : Tutoriel Complet (no code)</title>
+            <link>https://www.youtube.com/watch?v=_ldYxumnGIo</link>
+            <description><![CDATA[Pour récupérer les workflows sur n8n : https://tally.so/r/pbyR9y Si tu utilises déjà ChatGPT ou Claude en entreprise, tu l'as ...]]></description>
+            <pubDate>Wed, 07 Jan 2026 07:49:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=_ldYxumnGIo</guid>
+            <source>Louis Graffeuil</source>
         </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
@@ -53,28 +37,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Analyse de données avec Orange</title>
-            <link>https://www.youtube.com/watch?v=hw8TiHABNLc</link>
-            <description><![CDATA[Orange Data Mining : Analyse de données &amp; Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...]]></description>
-            <pubDate>Thu, 29 Jan 2026 16:09:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=hw8TiHABNLc</guid>
-            <source>Ardy Fanny Nell REBOUKA REBOUKA</source>
-        </item>
-        <item>
-            <title>IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2</title>
-            <link>https://www.youtube.com/watch?v=xCV8IUkhuXg</link>
-            <description><![CDATA[IA INTELLIGENCE ARTIFICIELLE DANS LA MUSIQUE Gratuit ACE STUDIO Les nouveautés de la version 2 ...]]></description>
-            <pubDate>Wed, 14 Jan 2026 11:24:17 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=xCV8IUkhuXg</guid>
-            <source>Tutoriels MAO</source>
-        </item>
-        <item>
-            <title>Pas d’IA, pas de promotion : cette entreprise veut forcer ses cadres à utiliser l’intelligence artificielle</title>
-            <link>https://www.presse-citron.net/ia-promotion-entreprise-forcer-cadres-intelligence-artificielle/</link>
-            <description><![CDATA[Accenture est à fond dans l’intelligence artificielle et, désormais, l’utilisation des outils d’IA est prise en compte pour les décisions de promotion de ses cadres.]]></description>
-            <pubDate>Mon, 23 Feb 2026 06:01:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/ia-promotion-entreprise-forcer-cadres-intelligence-artificielle/</guid>
-            <source>Presse-citron</source>
+            <title>Intelligence artificielle : entre promesses ambitieuses et réalités mesurées</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1547965-intelligence-artificielle-entre-promesses-ambitieuses-et-realites-mesurees/</link>
+            <description><![CDATA[Après une adoption massive, des investissements record et des attentes élevées,  l'intelligence artificielle entre dans une phase d'évaluation stratégique.]]></description>
+            <pubDate>Mon, 23 Feb 2026 14:34:41 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1547965-intelligence-artificielle-entre-promesses-ambitieuses-et-realites-mesurees/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Power BI Desktop Installation TUTO GRATUIT 2025</title>
@@ -85,12 +53,61 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>Comment Avoir une IA Privée et NON CENSURÉE Gratuitement sur ton PC (LM Studio + AnythingLLM)</title>
-            <link>https://www.youtube.com/watch?v=ArexJfRHMYc</link>
-            <description><![CDATA[Dans cette vidéo, je vous montre comment faire fonctionner un LLM totalement privé, non censuré et hors ligne, directement sur ...]]></description>
-            <pubDate>Sat, 07 Feb 2026 17:00:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ArexJfRHMYc</guid>
-            <source>Parlons Cyber</source>
+            <title>Krafton nomme son Chief AI Officer, le directeur de l'intelligence artificielle</title>
+            <link>https://www.gamekult.com/actualite/krafton-nomme-son-chief-ai-officer-le-directeur-de-l-intelligence-artificielle-3050868616.html</link>
+            <description><![CDATA[CAIO ! Ce n'est pas une salutation en italien mal écrite mais bien l'acronyme de Chief AI Officer, que vous avez tout intérêt à retenir si vous voulez vivre avec votre temps.
+Bien décidé à se montrer....]]></description>
+            <pubDate>Mon, 23 Feb 2026 17:05:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.gamekult.com/actualite/krafton-nomme-son-chief-ai-officer-le-directeur-de-l-intelligence-artificielle-3050868616.html</guid>
+            <source>Gamekult</source>
+        </item>
+        <item>
+            <title>ELT avec BigQuery, GCS, Airflow, Python et SQL (video 1) | Présentation du cours et Objectifs</title>
+            <link>https://www.youtube.com/watch?v=Fzb6Zgl6hhk</link>
+            <description><![CDATA[Google Cloud Platform pour Data Engineers : Projet pratique ELT avec BigQuery, GCS, Airflow, Python et SQL - Projet réel sur ...]]></description>
+            <pubDate>Sun, 28 Dec 2025 17:18:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Fzb6Zgl6hhk</guid>
+            <source>J.A DATATECH CONSULTING</source>
+        </item>
+        <item>
+            <title>Qu&amp;#39;est-ce que Power BI ? (Tuto Intro 2025)</title>
+            <link>https://www.youtube.com/watch?v=wBsvjPNqUco</link>
+            <description><![CDATA[Vous entendez parler de "Data" partout, mais c'est quoi concrètement Power BI ? En 2025, c'est l'outil indispensable pour booster ...]]></description>
+            <pubDate>Tue, 30 Dec 2025 16:00:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=wBsvjPNqUco</guid>
+            <source>BI & Data Pro</source>
+        </item>
+        <item>
+            <title>Santé et intelligence artificielle : comment prévenir les inégalités au niveau mondial ?</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1548225-sante-et-intelligence-artificielle-comment-prevenir-les-inegalites-au-niveau-mondial/</link>
+            <description><![CDATA[L'IA peut réduire les inégalités de santé si elle est responsable, inclusive et encadrée : données diversifiées, coopération sécurisée et gouvernance humaine sont clés.]]></description>
+            <pubDate>Mon, 23 Feb 2026 14:16:56 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1548225-sante-et-intelligence-artificielle-comment-prevenir-les-inegalites-au-niveau-mondial/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
+            <title>Analyse discriminante avec « discrimintools » (Python)</title>
+            <link>https://www.youtube.com/watch?v=NvdjH1fRRE0</link>
+            <description><![CDATA[Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...]]></description>
+            <pubDate>Mon, 16 Feb 2026 09:53:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=NvdjH1fRRE0</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips</title>
+            <link>https://www.youtube.com/watch?v=qup-uitBx58</link>
+            <description><![CDATA[Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...]]></description>
+            <pubDate>Sun, 04 Jan 2026 03:10:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=qup-uitBx58</guid>
+            <source>Oracle SQL Tips FR</source>
+        </item>
+        <item>
+            <title>Utilisez les bases de données NoSQL</title>
+            <link>https://www.youtube.com/watch?v=4RztOLH7fGg</link>
+            <description><![CDATA[Découvrez le cours complet (gratuit !) sur http://oc.info/cours-fr Initiez-vous au NoSQL avec MongoDB : gérez des données ...]]></description>
+            <pubDate>Mon, 05 Jan 2026 14:00:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=4RztOLH7fGg</guid>
+            <source>OpenClassrooms en Français</source>
         </item>
         <item>
             <title>Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données</title>
@@ -109,6 +126,30 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
+            <title>IA et données : les facteurs clés du e-commerce B2B en France</title>
+            <link>https://www.journaldunet.com/retail/1547989-ia-et-donnees-les-facteurs-cles-du-e-commerce-b2b-en-france/</link>
+            <description><![CDATA[L'e-commerce B2B en France connaît une croissance exponentielle, imposant une expérience client personnalisée et complexe, dont le succès est lié à l'exploitation des données et de l'IA.]]></description>
+            <pubDate>Mon, 23 Feb 2026 14:26:43 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/retail/1547989-ia-et-donnees-les-facteurs-cles-du-e-commerce-b2b-en-france/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
+            <title>Data science &amp; IA prédictive : levier de souveraineté industrielle</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1547957-data-science-ia-predictive-levier-de-souverainete-industrielle/</link>
+            <description><![CDATA[Pourquoi la data science et l'IA prédictive sont des atouts déterminants pour la reconquête de notre souveraineté industrielle ?]]></description>
+            <pubDate>Mon, 23 Feb 2026 14:34:22 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1547957-data-science-ia-predictive-levier-de-souverainete-industrielle/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
+            <title>De zéro à data analyste : la deuxième leçon avec Yao (2ème Session)</title>
+            <link>https://www.youtube.com/watch?v=FJdYN6A9X78</link>
+            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
+            <pubDate>Fri, 16 Jan 2026 23:00:30 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=FJdYN6A9X78</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
             <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
             <link>https://www.youtube.com/watch?v=wNyw2TN8mh0</link>
             <description><![CDATA[]]></description>
@@ -117,60 +158,20 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
-            <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
-            <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
-            <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
-            <source>Sébastien Daviot - Expertise Data</source>
+            <title>Ingénieur des données : rôle, missions, outils et importance du Data Engineer</title>
+            <link>https://www.youtube.com/watch?v=D2TZ3U6WUZ0</link>
+            <description><![CDATA[Dans ce tutoriel complet, nous expliquons le métier d'ingénieur des données, aussi appelé data engineer. Vous découvrirez ...]]></description>
+            <pubDate>Fri, 23 Jan 2026 05:51:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=D2TZ3U6WUZ0</guid>
+            <source>Basic Skills</source>
         </item>
         <item>
-            <title>Perplexity débarque officiellement sur les smartphones Samsung : quels sont les modèles concernés ?</title>
-            <link>https://www.presse-citron.net/perplexity-smartphones-samsung-modeles-concernes/</link>
-            <description><![CDATA[Samsung vient d’officialiser l’intégration de l’assistant Perplexity à ses smartphones. Malheureusement, cela ne concerne que les futurs produits phares du géant coréen. Celui-ci vient également d’ann...]]></description>
-            <pubDate>Mon, 23 Feb 2026 08:26:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/perplexity-smartphones-samsung-modeles-concernes/</guid>
-            <source>Presse-citron</source>
-        </item>
-        <item>
-            <title>Comment devenir Data Scientist ? Le parcours décodé</title>
-            <link>https://www.youtube.com/watch?v=ZHuD0pzTdG0</link>
-            <description><![CDATA[Le parcours Data Scientist décodé : devenez l'expert des données. Dans cette vidéo, plongez au cœur du parcours Data Scientist ...]]></description>
-            <pubDate>Wed, 28 Jan 2026 14:14:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ZHuD0pzTdG0</guid>
-            <source>Liora</source>
-        </item>
-        <item>
-            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
-            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
-            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
-            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
-            <source>Oscar Aksanti</source>
-        </item>
-        <item>
-            <title>Dossier : Espionnage téléphone : pourquoi l’antivirus est votre première ligne de défense ?</title>
-            <link>https://www.lesnumeriques.com/antivirus/espionnage-telephone-pourquoi-l-antivirus-est-votre-premiere-ligne-de-defense-a245036.html</link>
-            <description><![CDATA[Dans un monde où les smartphones sont au cœur de notre vie, la menace des logiciels espions ne cesse de croître. Ces applications malveillantes peuvent infecter votre appareil, accéder à vos fichiers,...]]></description>
-            <pubDate>Mon, 23 Feb 2026 07:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/antivirus/espionnage-telephone-pourquoi-l-antivirus-est-votre-premiere-ligne-de-defense-a245036.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
-            <title>Jeûne intermittent : une vaste étude mondiale casse le mythe de la méthode miracle pour maigrir</title>
-            <link>https://www.futura-sciences.com/sante/actualites/jeune-intermittent-jeune-intermittent-vaste-etude-mondiale-casse-mythe-methode-miracle-maigrir-131507/</link>
-            <description><![CDATA[Et si le jeûne intermittent n’était finalement pas la méthode miracle pour perdre du poids ? Une large analyse de la littérature scientifique vient ébranler ce que l’on croyait savoir sur ses véritabl...]]></description>
-            <pubDate>Mon, 23 Feb 2026 08:03:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/sante/actualites/jeune-intermittent-jeune-intermittent-vaste-etude-mondiale-casse-mythe-methode-miracle-maigrir-131507/</guid>
-            <source>Futura</source>
-        </item>
-        <item>
-            <title>Comment Sarah Knafo s'appuie sur la crypto pour « trumpiser » l'extrême droite française</title>
-            <link>https://multinationales.org/fr/enquetes/extreme-tech/comment-sarah-knafo-s-appuie-sur-la-crypto-pour-trumpiser-l-extreme-droite</link>
-            <description><![CDATA[Imitant Donald Trump qui a su se rallier les milieux d'affaires pro-crypto, Sarah Knafo entend incarner un nouveau visage de l'extrême droite : ultra-libérale et technophile, pro-Bitcoin et identitair...]]></description>
-            <pubDate>Mon, 23 Feb 2026 07:41:35 -0000</pubDate>
-            <guid isPermaLink="true">https://multinationales.org/fr/enquetes/extreme-tech/comment-sarah-knafo-s-appuie-sur-la-crypto-pour-trumpiser-l-extreme-droite</guid>
-            <source>Multinationales.org</source>
+            <title>De zéro à data analyste : la troisième leçon avec Yao (3ème Session)</title>
+            <link>https://www.youtube.com/watch?v=o1XuoQl0zDU</link>
+            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
+            <pubDate>Fri, 23 Jan 2026 23:30:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=o1XuoQl0zDU</guid>
+            <source>Enogne School</source>
         </item>
     </channel>
 </rss>
