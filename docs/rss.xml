@@ -5,13 +5,30 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 25 Feb 2026 08:57:30 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 08:55:46 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>IA au travail : une étude révèle que son utilisation quotidienne épuise les salariés</title>
+            <link>https://www.tuxboard.com/ia-au-travail-une-etude-revele-que-son-utilisation-quotidienne-epuise-les-salaries/</link>
+            <description><![CDATA[Vous utilisez ChatGPT ou Copilot chaque jour pour rédiger vos mails, analyser des données ou préparer des rapports ? Cette...
+L’article IA au travail : une étude révèle que son utilisation quotidienne...]]></description>
+            <pubDate>Wed, 25 Feb 2026 07:38:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.tuxboard.com/ia-au-travail-une-etude-revele-que-son-utilisation-quotidienne-epuise-les-salaries/</guid>
+            <source>Tuxboard.com</source>
+        </item>
+        <item>
+            <title>Concours GEO GreenRed : faites-vous citer par les IA et gagnez plus de 1 750 € de lots</title>
+            <link>https://www.abondance.com/20260225-1951826-concours-geo-greenred-faites-vous-citer-par-les-ia-et-gagnez-plus-de-1-750-e-de-lots.html</link>
+            <description><![CDATA[En 2026, les moteurs de recherche ne sont plus les seuls points d’entrée pour assurer sa visibilité en ligne : une part croissante des internautes pose désormais ses questions directement à des IA gén...]]></description>
+            <pubDate>Wed, 25 Feb 2026 08:20:52 -0000</pubDate>
+            <guid isPermaLink="true">https://www.abondance.com/20260225-1951826-concours-geo-greenred-faites-vous-citer-par-les-ia-et-gagnez-plus-de-1-750-e-de-lots.html</guid>
+            <source>Abondance.com</source>
+        </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
             <link>https://www.youtube.com/watch?v=N0gTIxg9l2A</link>
@@ -53,14 +70,6 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>Santé et intelligence artificielle : comment prévenir les inégalités au niveau mondial ?</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1548225-sante-et-intelligence-artificielle-comment-prevenir-les-inegalites-au-niveau-mondial/</link>
-            <description><![CDATA[L'IA peut réduire les inégalités de santé si elle est responsable, inclusive et encadrée : données diversifiées, coopération sécurisée et gouvernance humaine sont clés.]]></description>
-            <pubDate>Mon, 23 Feb 2026 14:16:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1548225-sante-et-intelligence-artificielle-comment-prevenir-les-inegalites-au-niveau-mondial/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
             <title>Analyse discriminante avec « discrimintools » (Python)</title>
             <link>https://www.youtube.com/watch?v=NvdjH1fRRE0</link>
             <description><![CDATA[Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...]]></description>
@@ -77,20 +86,20 @@
             <source>Nerdy Kings</source>
         </item>
         <item>
-            <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
-            <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
-            <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
-            <pubDate>Fri, 13 Feb 2026 23:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2i9u_hwq05g</guid>
-            <source>Enogne School</source>
+            <title>Bienvenue dans le premier parc animalier sans animaux: "Toutes les beautés du monde" sont à voir au théâtre Le Vilar</title>
+            <link>https://www.lavenir.net/regions/brabantwallon/ottignies-louvain-la-neuve/2026/02/25/bienvenue-dans-le-premier-parc-animalier-sans-animaux-toutes-les-beautes-du-monde-sont-a-voir-au-theatre-le-vilar-AH7TNFW5TRC5ZD3EJEMK2SW4ZY/</link>
+            <description><![CDATA[Intelligence artificielle, nouvelles technologies et réalité augmentée sont questionnées sur le ton de l’humour par le collectif de jeunes comédiens. jpeg. "Toutes les beautés de monde" est à voir au ...]]></description>
+            <pubDate>Wed, 25 Feb 2026 05:39:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lavenir.net/regions/brabantwallon/ottignies-louvain-la-neuve/2026/02/25/bienvenue-dans-le-premier-parc-animalier-sans-animaux-toutes-les-beautes-du-monde-sont-a-voir-au-theatre-le-vilar-AH7TNFW5TRC5ZD3EJEMK2SW4ZY/</guid>
+            <source>Lavenir.net</source>
         </item>
         <item>
-            <title>Tout comprendre sur l&amp;#39;IA en quelques minutes ! 🚀</title>
-            <link>https://www.youtube.com/watch?v=QtFcvYNu3KQ</link>
-            <description><![CDATA[Démystifions ensemble l'Intelligence Artificielle ! Vous en entendez parler partout, mais savez-vous vraiment ce qu'elle est et ...]]></description>
-            <pubDate>Sat, 07 Feb 2026 12:34:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=QtFcvYNu3KQ</guid>
-            <source>HHSA Agency</source>
+            <title>Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀</title>
+            <link>https://www.youtube.com/watch?v=kWWxN73GuUI</link>
+            <description><![CDATA[Bienvenue dans ce premier module de notre formation complète dédiée à la certification PL-300 : Microsoft Power BI Data Analyst ...]]></description>
+            <pubDate>Wed, 18 Feb 2026 12:59:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=kWWxN73GuUI</guid>
+            <source>Centre de formation Noormed</source>
         </item>
         <item>
             <title>Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données</title>
@@ -109,20 +118,12 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>IA et données : les facteurs clés du e-commerce B2B en France</title>
-            <link>https://www.journaldunet.com/retail/1547989-ia-et-donnees-les-facteurs-cles-du-e-commerce-b2b-en-france/</link>
-            <description><![CDATA[L'e-commerce B2B en France connaît une croissance exponentielle, imposant une expérience client personnalisée et complexe, dont le succès est lié à l'exploitation des données et de l'IA.]]></description>
-            <pubDate>Mon, 23 Feb 2026 14:26:43 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/retail/1547989-ia-et-donnees-les-facteurs-cles-du-e-commerce-b2b-en-france/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
-            <title>Data science &amp; IA prédictive : levier de souveraineté industrielle</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1547957-data-science-ia-predictive-levier-de-souverainete-industrielle/</link>
-            <description><![CDATA[Pourquoi la data science et l'IA prédictive sont des atouts déterminants pour la reconquête de notre souveraineté industrielle ?]]></description>
-            <pubDate>Mon, 23 Feb 2026 14:34:22 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1547957-data-science-ia-predictive-levier-de-souverainete-industrielle/</guid>
-            <source>JDN</source>
+            <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
+            <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
+            <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
+            <pubDate>Fri, 09 Jan 2026 17:01:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=gcbiOQCR-O8</guid>
+            <source>WeData</source>
         </item>
         <item>
             <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
@@ -141,12 +142,20 @@
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>data-science-document-ai 1.64.0</title>
-            <link>https://pypi.org/project/data-science-document-ai/1.64.0/</link>
-            <description><![CDATA["Document AI repo for data science"]]></description>
-            <pubDate>Mon, 23 Feb 2026 20:39:54 -0000</pubDate>
-            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.64.0/</guid>
-            <source>Pypi.org</source>
+            <title>IA : comment la banque et l’assurance se préparent au grand bouleversement</title>
+            <link>https://www.lexpress.fr/economie/emploi/management/ia-les-metiers-de-la-banque-et-de-lassurance-a-lheure-du-grand-basculement-GYK3564QKVBLVM6CNTAEW23XHU/</link>
+            <description><![CDATA[Suppressions de postes, évolution des compétences et de la relation client, données sensibles... Plongée dans une mutation déjà à l’œuvre.]]></description>
+            <pubDate>Tue, 24 Feb 2026 10:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lexpress.fr/economie/emploi/management/ia-les-metiers-de-la-banque-et-de-lassurance-a-lheure-du-grand-basculement-GYK3564QKVBLVM6CNTAEW23XHU/</guid>
+            <source>L'Express</source>
+        </item>
+        <item>
+            <title>Data centers, l’heure de la révolte</title>
+            <link>https://www.courrierinternational.com/article/a-la-une-du-magazine-data-centers-l-heure-de-la-revolte_240988</link>
+            <description><![CDATA[“Des espaces qui ne font qu’abriter des machines servant à entretenir d’autres machines” : voilà comme le “Financial Times” décrit les centres de données qui prolifèrent partout dans le monde. Contre ...]]></description>
+            <pubDate>Wed, 25 Feb 2026 08:32:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.courrierinternational.com/article/a-la-une-du-magazine-data-centers-l-heure-de-la-revolte_240988</guid>
+            <source>Courrier International</source>
         </item>
         <item>
             <title>Comment devenir Data Scientist ? Le parcours décodé</title>
@@ -162,14 +171,6 @@
             <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
             <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
-            <source>Oscar Aksanti</source>
-        </item>
-        <item>
-            <title>Python Pour la Data -  Jour 1/10</title>
-            <link>https://www.youtube.com/watch?v=zk5jSdmKjvU</link>
-            <description><![CDATA[Assurez-vous que Python est installé : https://youtu.be/Bd43Lt3vod8?si=_-k02WIEl4T4M5kS Ressources à utiliser ce soir ...]]></description>
-            <pubDate>Mon, 09 Feb 2026 20:36:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=zk5jSdmKjvU</guid>
             <source>Oscar Aksanti</source>
         </item>
     </channel>

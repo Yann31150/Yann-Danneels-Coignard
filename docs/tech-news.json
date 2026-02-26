@@ -1,6 +1,30 @@
 {
-  "lastUpdate": "2026-02-25T08:57:30.684417",
+  "lastUpdate": "2026-02-26T08:55:46.787624",
   "articles": [
+    {
+      "title": "IA au travail : une étude révèle que son utilisation quotidienne épuise les salariés",
+      "description": "Vous utilisez ChatGPT ou Copilot chaque jour pour rédiger vos mails, analyser des données ou préparer des rapports ? Cette...\nL’article IA au travail : une étude révèle que son utilisation quotidienne...",
+      "url": "https://www.tuxboard.com/ia-au-travail-une-etude-revele-que-son-utilisation-quotidienne-epuise-les-salaries/",
+      "source": "Tuxboard.com",
+      "publishedAt": "2026-02-25T07:38:36Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Concours GEO GreenRed : faites-vous citer par les IA et gagnez plus de 1 750 € de lots",
+      "description": "En 2026, les moteurs de recherche ne sont plus les seuls points d’entrée pour assurer sa visibilité en ligne : une part croissante des internautes pose désormais ses questions directement à des IA gén...",
+      "url": "https://www.abondance.com/20260225-1951826-concours-geo-greenred-faites-vous-citer-par-les-ia-et-gagnez-plus-de-1-750-e-de-lots.html",
+      "source": "Abondance.com",
+      "publishedAt": "2026-02-25T08:20:52Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
     {
       "title": "J&#39;ai résilié tous mes outils IA (j&#39;ai fabriqué le mien)",
       "description": "Plus de 15 outils IA, 15 abonnements, des onglets partout... ChatGPT, Gemini, Perplexity, Gamma... C'était le gros bordel alors ...",
@@ -62,18 +86,6 @@
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
     },
     {
-      "title": "Santé et intelligence artificielle : comment prévenir les inégalités au niveau mondial ?",
-      "description": "L'IA peut réduire les inégalités de santé si elle est responsable, inclusive et encadrée : données diversifiées, coopération sécurisée et gouvernance humaine sont clés.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1548225-sante-et-intelligence-artificielle-comment-prevenir-les-inegalites-au-niveau-mondial/",
-      "source": "JDN",
-      "publishedAt": "2026-02-23T14:16:56Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Analyse discriminante avec « discrimintools » (Python)",
       "description": "Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...",
       "url": "https://www.youtube.com/watch?v=NvdjH1fRRE0",
@@ -98,28 +110,28 @@
       "thumbnail": "https://i.ytimg.com/vi/-rFx2b3ZuXQ/hqdefault.jpg"
     },
     {
-      "title": "Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine",
-      "description": "Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...",
-      "url": "https://www.youtube.com/watch?v=2i9u_hwq05g",
-      "source": "Enogne School",
-      "publishedAt": "2026-02-13T23:00:06Z",
+      "title": "Bienvenue dans le premier parc animalier sans animaux: \"Toutes les beautés du monde\" sont à voir au théâtre Le Vilar",
+      "description": "Intelligence artificielle, nouvelles technologies et réalité augmentée sont questionnées sur le ton de l’humour par le collectif de jeunes comédiens. jpeg. \"Toutes les beautés de monde\" est à voir au ...",
+      "url": "https://www.lavenir.net/regions/brabantwallon/ottignies-louvain-la-neuve/2026/02/25/bienvenue-dans-le-premier-parc-animalier-sans-animaux-toutes-les-beautes-du-monde-sont-a-voir-au-theatre-le-vilar-AH7TNFW5TRC5ZD3EJEMK2SW4ZY/",
+      "source": "Lavenir.net",
+      "publishedAt": "2026-02-25T05:39:00Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "2i9u_hwq05g",
-      "thumbnail": "https://i.ytimg.com/vi/2i9u_hwq05g/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "Tout comprendre sur l&#39;IA en quelques minutes ! 🚀",
-      "description": "Démystifions ensemble l'Intelligence Artificielle ! Vous en entendez parler partout, mais savez-vous vraiment ce qu'elle est et ...",
-      "url": "https://www.youtube.com/watch?v=QtFcvYNu3KQ",
-      "source": "HHSA Agency",
-      "publishedAt": "2026-02-07T12:34:56Z",
-      "category": "ai",
+      "title": "Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀",
+      "description": "Bienvenue dans ce premier module de notre formation complète dédiée à la certification PL-300 : Microsoft Power BI Data Analyst ...",
+      "url": "https://www.youtube.com/watch?v=kWWxN73GuUI",
+      "source": "Centre de formation Noormed",
+      "publishedAt": "2026-02-18T12:59:31Z",
+      "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "QtFcvYNu3KQ",
-      "thumbnail": "https://i.ytimg.com/vi/QtFcvYNu3KQ/hqdefault.jpg"
+      "videoId": "kWWxN73GuUI",
+      "thumbnail": "https://i.ytimg.com/vi/kWWxN73GuUI/hqdefault.jpg"
     },
     {
       "title": "Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données",
@@ -146,28 +158,16 @@
       "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
     },
     {
-      "title": "IA et données : les facteurs clés du e-commerce B2B en France",
-      "description": "L'e-commerce B2B en France connaît une croissance exponentielle, imposant une expérience client personnalisée et complexe, dont le succès est lié à l'exploitation des données et de l'IA.",
-      "url": "https://www.journaldunet.com/retail/1547989-ia-et-donnees-les-facteurs-cles-du-e-commerce-b2b-en-france/",
-      "source": "JDN",
-      "publishedAt": "2026-02-23T14:26:43Z",
+      "title": "Introduction à Positron: VSCode + RStudio pour la data science",
+      "description": "Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...",
+      "url": "https://www.youtube.com/watch?v=gcbiOQCR-O8",
+      "source": "WeData",
+      "publishedAt": "2026-01-09T17:01:15Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Data science & IA prédictive : levier de souveraineté industrielle",
-      "description": "Pourquoi la data science et l'IA prédictive sont des atouts déterminants pour la reconquête de notre souveraineté industrielle ?",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1547957-data-science-ia-predictive-levier-de-souverainete-industrielle/",
-      "source": "JDN",
-      "publishedAt": "2026-02-23T14:34:22Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "gcbiOQCR-O8",
+      "thumbnail": "https://i.ytimg.com/vi/gcbiOQCR-O8/hqdefault.jpg"
     },
     {
       "title": "Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto",
@@ -194,11 +194,23 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
-      "title": "data-science-document-ai 1.64.0",
-      "description": "\"Document AI repo for data science\"",
-      "url": "https://pypi.org/project/data-science-document-ai/1.64.0/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-02-23T20:39:54Z",
+      "title": "IA : comment la banque et l’assurance se préparent au grand bouleversement",
+      "description": "Suppressions de postes, évolution des compétences et de la relation client, données sensibles... Plongée dans une mutation déjà à l’œuvre.",
+      "url": "https://www.lexpress.fr/economie/emploi/management/ia-les-metiers-de-la-banque-et-de-lassurance-a-lheure-du-grand-basculement-GYK3564QKVBLVM6CNTAEW23XHU/",
+      "source": "L'Express",
+      "publishedAt": "2026-02-24T10:30:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Data centers, l’heure de la révolte",
+      "description": "“Des espaces qui ne font qu’abriter des machines servant à entretenir d’autres machines” : voilà comme le “Financial Times” décrit les centres de données qui prolifèrent partout dans le monde. Contre ...",
+      "url": "https://www.courrierinternational.com/article/a-la-une-du-magazine-data-centers-l-heure-de-la-revolte_240988",
+      "source": "Courrier International",
+      "publishedAt": "2026-02-25T08:32:42Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,18 +242,6 @@
       "thumbnail": "https://i.ytimg.com/vi/8EXbMYHL8xw/hqdefault.jpg"
     },
     {
-      "title": "Python Pour la Data -  Jour 1/10",
-      "description": "Assurez-vous que Python est installé : https://youtu.be/Bd43Lt3vod8?si=_-k02WIEl4T4M5kS Ressources à utiliser ce soir ...",
-      "url": "https://www.youtube.com/watch?v=zk5jSdmKjvU",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-02-09T20:36:05Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "zk5jSdmKjvU",
-      "thumbnail": "https://i.ytimg.com/vi/zk5jSdmKjvU/hqdefault.jpg"
-    },
-    {
       "title": "ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)",
       "description": "Dans cette vidéo de 90 minutes, je vous apprends à utiliser ChatGPT simplement, avec des exemples concrets : comprendre ...",
       "url": "https://www.youtube.com/watch?v=Wg9M140pduU",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
     },
     {
-      "title": "IA : la liquidité des stock-options reconfigure la bataille des talents entre leaders",
-      "description": "Dans l’intelligence artificielle, la compétition ne porte plus seulement sur les modèles ou la capacité de calcul, mais se joue également sur le capital humain. Chercheurs en modèles fondamentaux, ing...",
-      "url": "https://www.frenchweb.fr/ia-la-liquidite-des-stock-options-reconfigure-la-bataille-des-talents-entre-leaders/460487",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-02-24T08:46:03Z",
+      "title": "PRIBOR – CHE : plus efficace qu’un LLM (ne relie pas tout à tout), explicable, et consommant 64 x moins d’énergie",
+      "description": "<ul>\n<li>Écologique : 64 fois moins de calculs signifie 64 fois moins d’énergie. À l’heure où les datacenters d’IA consomment autant que des pays entiers, ce n’est pas anodin.</li>\n<li>Vitesse : de 38...",
+      "url": "https://www.pauljorion.com/blog/2026/02/24/pribor-che-plus-efficace-quun-llm-ne-relie-pas-tout-a-tout-explicable-et-consommant-64-x-moins-denergie/",
+      "source": "Pauljorion.com",
+      "publishedAt": "2026-02-24T14:54:21Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,23 +266,23 @@
       "thumbnail": ""
     },
     {
-      "title": "IA Slop ou décharge numérique : comment créer un contenu authentique ?",
-      "description": "L’intelligence artificielle a profondément transformé notre manière de créer du contenu. Aujourd’hui, produire un article, un post LinkedIn, une newsletter ou un script vidéo ne prend plus des heures,...",
-      "url": "https://www.webmarketing-com.com/ia-slop-decharge-numerique-comment-creer-contenu-authentique",
-      "source": "Webmarketing-com.com",
-      "publishedAt": "2026-02-23T08:30:00Z",
+      "title": "FIDE Exam : Le jeu de rôle / La simulation (A2)",
+      "description": "Prepare your FIDE exam : https://www.startfrenchnow.com/fide Get a Free FIDE chat ...",
+      "url": "https://www.youtube.com/watch?v=f6ezi4KpCPM",
+      "source": "Start French Now",
+      "publishedAt": "2026-02-23T17:01:05Z",
       "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "f6ezi4KpCPM",
+      "thumbnail": "https://i.ytimg.com/vi/f6ezi4KpCPM/hqdefault.jpg"
     },
     {
-      "title": "L’IA quantique s’impose comme un levier des industries du futur",
-      "description": "À Séoul, un sommet technologique dessine les contours d’une nouvelle révolution industrielle fondée sur la convergence entre intelligence artificielle et informatique quantique.",
-      "url": "https://www.zdnet.fr/actualites/lia-quantique-simpose-comme-un-levier-des-industries-du-futur-490729.htm",
+      "title": "Les agents IA sont rapides, imprévisibles et incontrôlables, selon une étude du MIT",
+      "description": "La grande majorité des systèmes d'IA agentielle ne divulguent aucune information sur les tests de sécurité qui ont été effectués, et de nombreux systèmes ne disposent d'aucun moyen documenté pour désa...",
+      "url": "https://www.zdnet.fr/actualites/les-agents-ia-sont-rapides-imprevisibles-et-incontrolables-selon-une-etude-du-mit-490810.htm",
       "source": "ZDNet France",
-      "publishedAt": "2026-02-24T07:20:03Z",
+      "publishedAt": "2026-02-24T06:02:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "”Le dernier remaniement douanier de Donald Trump n’offre pas de raisons de se réjouir aux entreprises et aux investisseurs”",
-      "description": "Les marchés européens naviguent à vue. Entre la nouvelle salve commerciale de Donald Trump et les doutes qui émergent autour de l’intelligence artificielle, l’optimisme des investisseurs marque le pas...",
-      "url": "https://www.lalibre.be/economie/placements/2026/02/24/le-dernier-remaniement-douanier-de-donald-trump-noffre-pas-de-raisons-de-se-rejouir-aux-entreprises-et-aux-investisseurs-LXYKKHJ4JNATRDBVTKVXOCGLDU/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-02-24T08:31:58Z",
+      "title": "Le VPS piloté par l’IA : De la gestion technique au pilotage de l’infrastructure",
+      "description": "Pendant longtemps, l’infrastructure informatique est restée à la périphérie des décisions stratégiques. Elle relevait d’un domaine technique, confié à des équipes spécialisées, et ne remontait au nive...",
+      "url": "https://www.frenchweb.fr/le-vps-pilote-par-lia-de-la-gestion-technique-au-pilotage-de-linfrastructure/460110",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-02-24T08:39:59Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
