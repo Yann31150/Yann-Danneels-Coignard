@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 27 Feb 2026 08:18:52 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 08:49:58 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -85,12 +85,13 @@
             <source>Génération NT</source>
         </item>
         <item>
-            <title>Le VRAI ordre d&amp;#39;exécution SQL #sql #datascience #français</title>
-            <link>https://www.youtube.com/watch?v=PjUGOwDQsmk</link>
-            <description><![CDATA[Le secret est ici Tu as du mal à retenir la différence entre WHERE et HAVING ? Tu ne comprends pas pourquoi tu ne peux pas ...]]></description>
-            <pubDate>Fri, 09 Jan 2026 16:54:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=PjUGOwDQsmk</guid>
-            <source>ASSA Immo</source>
+            <title>Cette fonctionnalité du Galaxy S26 Ultra est sans doute la plus utile de l’année</title>
+            <link>https://www.tomshardware.fr/cette-fonctionnalite-du-galaxy-s26-ultra-est-sans-doute-la-plus-utile-de-lannee/</link>
+            <description><![CDATA[Des tarifs en hausse, des améliorations matérielles mesurées et une dose supplémentaire d'intelligence artificielle complètent le tableau de cette nouvelle génération.
+L’article Cette fonctionnalité d...]]></description>
+            <pubDate>Thu, 26 Feb 2026 08:33:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.tomshardware.fr/cette-fonctionnalite-du-galaxy-s26-ultra-est-sans-doute-la-plus-utile-de-lannee/</guid>
+            <source>Tomshardware.fr</source>
         </item>
         <item>
             <title>Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀</title>
@@ -157,20 +158,20 @@
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>ENQUÊTE : PFAS dans l’agriculture, révélations sur la contamination des champs par les déchets industriels</title>
-            <link>https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/enquete-pfas-dans-l-agriculture-revelations-sur-la-contamination-des-champs-par-les-dechets-industriels-3303918.html</link>
-            <description><![CDATA[Chaque année, des centaines de millions de tonnes de boues sont épandues pour fertiliser les parcelles agricoles françaises. Une partie d’entre elles sont produites par des installations émettrices de...]]></description>
-            <pubDate>Thu, 26 Feb 2026 05:00:05 -0000</pubDate>
-            <guid isPermaLink="true">https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/enquete-pfas-dans-l-agriculture-revelations-sur-la-contamination-des-champs-par-les-dechets-industriels-3303918.html</guid>
-            <source>Franceinfo.fr</source>
+            <title>Construis ta première Data Pipeline en Python (Notion API → SQLite → Docker → Metabase)</title>
+            <link>https://www.youtube.com/watch?v=wzWGPdkr_sE</link>
+            <description><![CDATA[DANS CETTE VIDÉO Apprends à construire ta première data pipeline complète en Python, de A à Z, 100% gratuitement depuis ...]]></description>
+            <pubDate>Wed, 07 Jan 2026 13:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=wzWGPdkr_sE</guid>
+            <source>KottioDev</source>
         </item>
         <item>
-            <title>La PS6 serait bien surpuissante et ça se confirme officiellement</title>
-            <link>https://www.gameblog.fr/jeu-video/ed/news/ps6-puissance-pssr-brevet-712174</link>
-            <description><![CDATA[Un brevet déposé par Sony pourrait annoncer une technologie surpuissante sur la PS6. L'amélioration d'une technologie déjà présente sur PS5 Pro, avec de bien meilleures performances au programme.]]></description>
-            <pubDate>Thu, 26 Feb 2026 07:15:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.gameblog.fr/jeu-video/ed/news/ps6-puissance-pssr-brevet-712174</guid>
-            <source>Gameblog</source>
+            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
+            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
+            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
+            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
+            <source>Oscar Aksanti</source>
         </item>
     </channel>
 </rss>

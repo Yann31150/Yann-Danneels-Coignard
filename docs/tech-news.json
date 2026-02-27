@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-27T08:18:52.426565",
+  "lastUpdate": "2026-02-27T08:49:58.541296",
   "articles": [
     {
       "title": "J&#39;ai résilié tous mes outils IA (j&#39;ai fabriqué le mien)",
@@ -110,16 +110,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Le VRAI ordre d&#39;exécution SQL #sql #datascience #français",
-      "description": "Le secret est ici Tu as du mal à retenir la différence entre WHERE et HAVING ? Tu ne comprends pas pourquoi tu ne peux pas ...",
-      "url": "https://www.youtube.com/watch?v=PjUGOwDQsmk",
-      "source": "ASSA Immo",
-      "publishedAt": "2026-01-09T16:54:34Z",
+      "title": "Cette fonctionnalité du Galaxy S26 Ultra est sans doute la plus utile de l’année",
+      "description": "Des tarifs en hausse, des améliorations matérielles mesurées et une dose supplémentaire d'intelligence artificielle complètent le tableau de cette nouvelle génération.\nL’article Cette fonctionnalité d...",
+      "url": "https://www.tomshardware.fr/cette-fonctionnalite-du-galaxy-s26-ultra-est-sans-doute-la-plus-utile-de-lannee/",
+      "source": "Tomshardware.fr",
+      "publishedAt": "2026-02-26T08:33:29Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "PjUGOwDQsmk",
-      "thumbnail": "https://i.ytimg.com/vi/PjUGOwDQsmk/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀",
@@ -218,28 +218,28 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
-      "title": "ENQUÊTE : PFAS dans l’agriculture, révélations sur la contamination des champs par les déchets industriels",
-      "description": "Chaque année, des centaines de millions de tonnes de boues sont épandues pour fertiliser les parcelles agricoles françaises. Une partie d’entre elles sont produites par des installations émettrices de...",
-      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/enquete-pfas-dans-l-agriculture-revelations-sur-la-contamination-des-champs-par-les-dechets-industriels-3303918.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-02-26T05:00:05Z",
+      "title": "Construis ta première Data Pipeline en Python (Notion API → SQLite → Docker → Metabase)",
+      "description": "DANS CETTE VIDÉO Apprends à construire ta première data pipeline complète en Python, de A à Z, 100% gratuitement depuis ...",
+      "url": "https://www.youtube.com/watch?v=wzWGPdkr_sE",
+      "source": "KottioDev",
+      "publishedAt": "2026-01-07T13:00:06Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "wzWGPdkr_sE",
+      "thumbnail": "https://i.ytimg.com/vi/wzWGPdkr_sE/hqdefault.jpg"
     },
     {
-      "title": "La PS6 serait bien surpuissante et ça se confirme officiellement",
-      "description": "Un brevet déposé par Sony pourrait annoncer une technologie surpuissante sur la PS6. L'amélioration d'une technologie déjà présente sur PS5 Pro, avec de bien meilleures performances au programme.",
-      "url": "https://www.gameblog.fr/jeu-video/ed/news/ps6-puissance-pssr-brevet-712174",
-      "source": "Gameblog",
-      "publishedAt": "2026-02-26T07:15:00Z",
+      "title": "Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro",
+      "description": "Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...",
+      "url": "https://www.youtube.com/watch?v=8EXbMYHL8xw",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-01-31T08:46:46Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "8EXbMYHL8xw",
+      "thumbnail": "https://i.ytimg.com/vi/8EXbMYHL8xw/hqdefault.jpg"
     },
     {
       "title": "ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)",
@@ -266,18 +266,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Loom-X : Combien peut rapporter un contrat de 1 000$ en 3 mois ? #BusinessEnLigne #Opportunité2026",
-      "description": "RevenusEnLigne #BusinessEnLigne #Opportunité2026 Découvrez LoomX, la plateforme quantitative décentralisée qui ...",
-      "url": "https://www.youtube.com/watch?v=hYUk-U8G08k",
-      "source": "Tekki en Ligne",
-      "publishedAt": "2026-01-09T09:38:16Z",
-      "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "hYUk-U8G08k",
-      "thumbnail": "https://i.ytimg.com/vi/hYUk-U8G08k/hqdefault.jpg"
-    },
-    {
       "title": "Le BTP face à l’IA : une transition prudente mais structurée",
       "description": "Alors que l’intelligence artificielle s’impose progressivement comme un levier majeur de transformation économique, le secteur du Bâtiment et des Travaux Publics avance à un rythme mesuré. Moins de 10...",
       "url": "https://www.frenchweb.fr/le-btp-face-a-lia-une-transition-prudente-mais-structuree/460514",
@@ -290,16 +278,28 @@
       "thumbnail": ""
     },
     {
-      "title": "Comment imprimer une photo panoramique de 17 pouces sur l'imprimante Canon PRO-1100",
-      "description": "Comment transformer une photo panoramique en tirage de qualité galerie ?\n\n\nDans cette vidéo, Tim de Fotospeed vous guide pas à ...",
-      "url": "https://www.youtube.com/watch?v=K6aH2hpBWrE",
-      "source": "Fotospeed",
-      "publishedAt": "2026-01-22T16:00:29Z",
+      "title": "IA, productivité, social media : 5 nouveaux outils à découvrir en février 2026",
+      "description": "Une boîte à outils pour développer son audience sur X, une plateforme d'emailing dopée à l'IA, une extension Chrome pour mieux gérer son temps... Voici cinq outils qui ont retenu l'attention de la com...",
+      "url": "https://www.blogdumoderateur.com/ia-productivite-social-media-5-outils-decouvrir-fevrier-2026/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-02-26T06:00:47Z",
       "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "K6aH2hpBWrE",
-      "thumbnail": "https://i.ytimg.com/vi/K6aH2hpBWrE/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Amazon prêt à investir 50 milliards de dollars dans OpenAI : une offensive pour défier Microsoft",
+      "description": "Le géant du e-commerce Amazon envisagerait un investissement massif dans OpenAI, pouvant atteindre 50 milliards de dollars. Derrière cette manœuvre financière se joue une bataille stratégique majeure ...",
+      "url": "https://www.zdnet.fr/actualites/amazon-pret-a-investir-50-milliards-de-dollars-dans-openai-une-offensive-pour-defier-la-domination-de-microsoft-490887.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-02-26T07:36:25Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }
