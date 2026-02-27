@@ -1,30 +1,6 @@
 {
-  "lastUpdate": "2026-02-26T08:55:46.787624",
+  "lastUpdate": "2026-02-27T08:18:52.426565",
   "articles": [
-    {
-      "title": "IA au travail : une étude révèle que son utilisation quotidienne épuise les salariés",
-      "description": "Vous utilisez ChatGPT ou Copilot chaque jour pour rédiger vos mails, analyser des données ou préparer des rapports ? Cette...\nL’article IA au travail : une étude révèle que son utilisation quotidienne...",
-      "url": "https://www.tuxboard.com/ia-au-travail-une-etude-revele-que-son-utilisation-quotidienne-epuise-les-salaries/",
-      "source": "Tuxboard.com",
-      "publishedAt": "2026-02-25T07:38:36Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Concours GEO GreenRed : faites-vous citer par les IA et gagnez plus de 1 750 € de lots",
-      "description": "En 2026, les moteurs de recherche ne sont plus les seuls points d’entrée pour assurer sa visibilité en ligne : une part croissante des internautes pose désormais ses questions directement à des IA gén...",
-      "url": "https://www.abondance.com/20260225-1951826-concours-geo-greenred-faites-vous-citer-par-les-ia-et-gagnez-plus-de-1-750-e-de-lots.html",
-      "source": "Abondance.com",
-      "publishedAt": "2026-02-25T08:20:52Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "J&#39;ai résilié tous mes outils IA (j&#39;ai fabriqué le mien)",
       "description": "Plus de 15 outils IA, 15 abonnements, des onglets partout... ChatGPT, Gemini, Perplexity, Gamma... C'était le gros bordel alors ...",
@@ -62,16 +38,16 @@
       "thumbnail": "https://i.ytimg.com/vi/FOj5HTd4EAs/hqdefault.jpg"
     },
     {
-      "title": "ELT avec BigQuery, GCS, Airflow, Python et SQL (video 1) | Présentation du cours et Objectifs",
-      "description": "Google Cloud Platform pour Data Engineers : Projet pratique ELT avec BigQuery, GCS, Airflow, Python et SQL - Projet réel sur ...",
-      "url": "https://www.youtube.com/watch?v=Fzb6Zgl6hhk",
-      "source": "J.A DATATECH CONSULTING",
-      "publishedAt": "2025-12-28T17:18:45Z",
+      "title": "La GenAI gratuite et sécurisée : les LLMs locaux directement sur vos devices",
+      "description": "Vous voulez intégrer l'IA dans votre produit rapidement, gratuitement et sans aucun danger pour les données de vos utilisateurs ? Rien de plus facile, venez découvrir les modèles d'IA locaux accessibl...",
+      "url": "https://blog.octo.com/built-in-ai-in-front-end",
+      "source": "Octo.com",
+      "publishedAt": "2026-02-25T11:08:10Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Fzb6Zgl6hhk",
-      "thumbnail": "https://i.ytimg.com/vi/Fzb6Zgl6hhk/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Qu&#39;est-ce que Power BI ? (Tuto Intro 2025)",
@@ -98,6 +74,18 @@
       "thumbnail": "https://i.ytimg.com/vi/NvdjH1fRRE0/hqdefault.jpg"
     },
     {
+      "title": "Qui sème la data récolte la tempête",
+      "description": "L’intelligence artificielle pourrait sauver la planète, soutient la tech… Qui n’est pas à une affirmation grandiloquente près pour vanter les supposées vertus de l’IA. L’ancien PDG de Google Eric Schm...",
+      "url": "https://www.courrierinternational.com/article/climatiques-qui-seme-la-data-recolte-la-tempete_241030",
+      "source": "Courrier International",
+      "publishedAt": "2026-02-26T06:02:05Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "DeepSeek MHC : La Nouvelle Architecture qui RÉINVENTE l’IA (Adieu les Transformers ?) 😱🔥",
       "description": "DeepSeek vient de briser les règles du jeu avec mHC. Alors que la Big Tech mise tout sur la force brute et les milliards de ...",
       "url": "https://www.youtube.com/watch?v=-rFx2b3ZuXQ",
@@ -110,16 +98,28 @@
       "thumbnail": "https://i.ytimg.com/vi/-rFx2b3ZuXQ/hqdefault.jpg"
     },
     {
-      "title": "Bienvenue dans le premier parc animalier sans animaux: \"Toutes les beautés du monde\" sont à voir au théâtre Le Vilar",
-      "description": "Intelligence artificielle, nouvelles technologies et réalité augmentée sont questionnées sur le ton de l’humour par le collectif de jeunes comédiens. jpeg. \"Toutes les beautés de monde\" est à voir au ...",
-      "url": "https://www.lavenir.net/regions/brabantwallon/ottignies-louvain-la-neuve/2026/02/25/bienvenue-dans-le-premier-parc-animalier-sans-animaux-toutes-les-beautes-du-monde-sont-a-voir-au-theatre-le-vilar-AH7TNFW5TRC5ZD3EJEMK2SW4ZY/",
-      "source": "Lavenir.net",
-      "publishedAt": "2026-02-25T05:39:00Z",
+      "title": "Tesla s'attaque enfin au problème de ses essuie-glaces automatiques",
+      "description": "Les essuie-glaces automatiques des Tesla, un cauchemar pour de nombreux propriétaires, pourraient bientôt être corrigés. Le constructeur teste en secret une nouvelle version de son intelligence artifi...",
+      "url": "https://www.generation-nt.com/actualites/tesla-essuie-glaces-automatiques-mise-jour-logiciel-v5-2071446",
+      "source": "Génération NT",
+      "publishedAt": "2026-02-26T08:05:01Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "Le VRAI ordre d&#39;exécution SQL #sql #datascience #français",
+      "description": "Le secret est ici Tu as du mal à retenir la différence entre WHERE et HAVING ? Tu ne comprends pas pourquoi tu ne peux pas ...",
+      "url": "https://www.youtube.com/watch?v=PjUGOwDQsmk",
+      "source": "ASSA Immo",
+      "publishedAt": "2026-01-09T16:54:34Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "PjUGOwDQsmk",
+      "thumbnail": "https://i.ytimg.com/vi/PjUGOwDQsmk/hqdefault.jpg"
     },
     {
       "title": "Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀",
@@ -132,6 +132,30 @@
       "isYouTube": true,
       "videoId": "kWWxN73GuUI",
       "thumbnail": "https://i.ytimg.com/vi/kWWxN73GuUI/hqdefault.jpg"
+    },
+    {
+      "title": "Mettre la science des données au service du bien-être au travail",
+      "description": "Mesurer le bien-être au travail ne se résume pas à diffuser un questionnaire. À travers l’OCTO Health Check, nous montrons comment une approche rigoureuse des données permet d’identifier des dynamique...",
+      "url": "https://blog.octo.com/mettre-la-science-des-donnees-au-service-du-bien-etre-au-travail",
+      "source": "Octo.com",
+      "publishedAt": "2026-02-25T15:16:53Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Vous pensez que bien vieillir dépend de vos gènes ? La science pointe désormais vers un autre coupable insoupçonné",
+      "description": "La fontaine de jouvence n’est pas un mythe : elle vit en nous, dans notre microbiote, selon le Pr Bill Sullivan, professeur de microbiologie. Le maintien d'un microbiote jeune favorise un vieillisseme...",
+      "url": "https://www.futura-sciences.com/sante/actualites/microbiotes-vous-pensez-bien-vieillir-depend-vos-genes-science-pointe-desormais-vers-autre-coupable-insoupconne-131679/",
+      "source": "Futura",
+      "publishedAt": "2026-02-25T19:00:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données",
@@ -194,11 +218,11 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
-      "title": "IA : comment la banque et l’assurance se préparent au grand bouleversement",
-      "description": "Suppressions de postes, évolution des compétences et de la relation client, données sensibles... Plongée dans une mutation déjà à l’œuvre.",
-      "url": "https://www.lexpress.fr/economie/emploi/management/ia-les-metiers-de-la-banque-et-de-lassurance-a-lheure-du-grand-basculement-GYK3564QKVBLVM6CNTAEW23XHU/",
-      "source": "L'Express",
-      "publishedAt": "2026-02-24T10:30:00Z",
+      "title": "ENQUÊTE : PFAS dans l’agriculture, révélations sur la contamination des champs par les déchets industriels",
+      "description": "Chaque année, des centaines de millions de tonnes de boues sont épandues pour fertiliser les parcelles agricoles françaises. Une partie d’entre elles sont produites par des installations émettrices de...",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/enquete-pfas-dans-l-agriculture-revelations-sur-la-contamination-des-champs-par-les-dechets-industriels-3303918.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-02-26T05:00:05Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,40 +230,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Data centers, l’heure de la révolte",
-      "description": "“Des espaces qui ne font qu’abriter des machines servant à entretenir d’autres machines” : voilà comme le “Financial Times” décrit les centres de données qui prolifèrent partout dans le monde. Contre ...",
-      "url": "https://www.courrierinternational.com/article/a-la-une-du-magazine-data-centers-l-heure-de-la-revolte_240988",
-      "source": "Courrier International",
-      "publishedAt": "2026-02-25T08:32:42Z",
+      "title": "La PS6 serait bien surpuissante et ça se confirme officiellement",
+      "description": "Un brevet déposé par Sony pourrait annoncer une technologie surpuissante sur la PS6. L'amélioration d'une technologie déjà présente sur PS5 Pro, avec de bien meilleures performances au programme.",
+      "url": "https://www.gameblog.fr/jeu-video/ed/news/ps6-puissance-pssr-brevet-712174",
+      "source": "Gameblog",
+      "publishedAt": "2026-02-26T07:15:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
-    },
-    {
-      "title": "Comment devenir Data Scientist ? Le parcours décodé",
-      "description": "Le parcours Data Scientist décodé : devenez l'expert des données. Dans cette vidéo, plongez au cœur du parcours Data Scientist ...",
-      "url": "https://www.youtube.com/watch?v=ZHuD0pzTdG0",
-      "source": "Liora",
-      "publishedAt": "2026-01-28T14:14:42Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ZHuD0pzTdG0",
-      "thumbnail": "https://i.ytimg.com/vi/ZHuD0pzTdG0/hqdefault.jpg"
-    },
-    {
-      "title": "Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro",
-      "description": "Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...",
-      "url": "https://www.youtube.com/watch?v=8EXbMYHL8xw",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-01-31T08:46:46Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "8EXbMYHL8xw",
-      "thumbnail": "https://i.ytimg.com/vi/8EXbMYHL8xw/hqdefault.jpg"
     },
     {
       "title": "ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
     },
     {
-      "title": "PRIBOR – CHE : plus efficace qu’un LLM (ne relie pas tout à tout), explicable, et consommant 64 x moins d’énergie",
-      "description": "<ul>\n<li>Écologique : 64 fois moins de calculs signifie 64 fois moins d’énergie. À l’heure où les datacenters d’IA consomment autant que des pays entiers, ce n’est pas anodin.</li>\n<li>Vitesse : de 38...",
-      "url": "https://www.pauljorion.com/blog/2026/02/24/pribor-che-plus-efficace-quun-llm-ne-relie-pas-tout-a-tout-explicable-et-consommant-64-x-moins-denergie/",
-      "source": "Pauljorion.com",
-      "publishedAt": "2026-02-24T14:54:21Z",
+      "title": "Nvidia balaye les doutes sur l'IA : les Bourses asiatiques portées par des résultats records",
+      "description": "Les très bons résultats annuels de Nvidia apaisent les inquiétudes de ces derniers jours sur les valeurs tech exposées à l'intelligence artificielle.",
+      "url": "https://www.latribune.fr/article/tech/24000917589533/nvidia-balaye-les-doutes-sur-lia-les-bourses-asiatiques-portees-par-des-resultats-records",
+      "source": "La Tribune.fr",
+      "publishedAt": "2026-02-26T06:11:46Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,40 +266,40 @@
       "thumbnail": ""
     },
     {
-      "title": "FIDE Exam : Le jeu de rôle / La simulation (A2)",
-      "description": "Prepare your FIDE exam : https://www.startfrenchnow.com/fide Get a Free FIDE chat ...",
-      "url": "https://www.youtube.com/watch?v=f6ezi4KpCPM",
-      "source": "Start French Now",
-      "publishedAt": "2026-02-23T17:01:05Z",
+      "title": "Loom-X : Combien peut rapporter un contrat de 1 000$ en 3 mois ? #BusinessEnLigne #Opportunité2026",
+      "description": "RevenusEnLigne #BusinessEnLigne #Opportunité2026 Découvrez LoomX, la plateforme quantitative décentralisée qui ...",
+      "url": "https://www.youtube.com/watch?v=hYUk-U8G08k",
+      "source": "Tekki en Ligne",
+      "publishedAt": "2026-01-09T09:38:16Z",
       "category": "tech",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "f6ezi4KpCPM",
-      "thumbnail": "https://i.ytimg.com/vi/f6ezi4KpCPM/hqdefault.jpg"
+      "videoId": "hYUk-U8G08k",
+      "thumbnail": "https://i.ytimg.com/vi/hYUk-U8G08k/hqdefault.jpg"
     },
     {
-      "title": "Les agents IA sont rapides, imprévisibles et incontrôlables, selon une étude du MIT",
-      "description": "La grande majorité des systèmes d'IA agentielle ne divulguent aucune information sur les tests de sécurité qui ont été effectués, et de nombreux systèmes ne disposent d'aucun moyen documenté pour désa...",
-      "url": "https://www.zdnet.fr/actualites/les-agents-ia-sont-rapides-imprevisibles-et-incontrolables-selon-une-etude-du-mit-490810.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-02-24T06:02:01Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le VPS piloté par l’IA : De la gestion technique au pilotage de l’infrastructure",
-      "description": "Pendant longtemps, l’infrastructure informatique est restée à la périphérie des décisions stratégiques. Elle relevait d’un domaine technique, confié à des équipes spécialisées, et ne remontait au nive...",
-      "url": "https://www.frenchweb.fr/le-vps-pilote-par-lia-de-la-gestion-technique-au-pilotage-de-linfrastructure/460110",
+      "title": "Le BTP face à l’IA : une transition prudente mais structurée",
+      "description": "Alors que l’intelligence artificielle s’impose progressivement comme un levier majeur de transformation économique, le secteur du Bâtiment et des Travaux Publics avance à un rythme mesuré. Moins de 10...",
+      "url": "https://www.frenchweb.fr/le-btp-face-a-lia-une-transition-prudente-mais-structuree/460514",
       "source": "Frenchweb.fr",
-      "publishedAt": "2026-02-24T08:39:59Z",
+      "publishedAt": "2026-02-26T07:30:17Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "Comment imprimer une photo panoramique de 17 pouces sur l'imprimante Canon PRO-1100",
+      "description": "Comment transformer une photo panoramique en tirage de qualité galerie ?\n\n\nDans cette vidéo, Tim de Fotospeed vous guide pas à ...",
+      "url": "https://www.youtube.com/watch?v=K6aH2hpBWrE",
+      "source": "Fotospeed",
+      "publishedAt": "2026-01-22T16:00:29Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "K6aH2hpBWrE",
+      "thumbnail": "https://i.ytimg.com/vi/K6aH2hpBWrE/hqdefault.jpg"
     }
   ]
 }

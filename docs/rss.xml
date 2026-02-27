@@ -5,30 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 26 Feb 2026 08:55:46 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 08:18:52 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>IA au travail : une étude révèle que son utilisation quotidienne épuise les salariés</title>
-            <link>https://www.tuxboard.com/ia-au-travail-une-etude-revele-que-son-utilisation-quotidienne-epuise-les-salaries/</link>
-            <description><![CDATA[Vous utilisez ChatGPT ou Copilot chaque jour pour rédiger vos mails, analyser des données ou préparer des rapports ? Cette...
-L’article IA au travail : une étude révèle que son utilisation quotidienne...]]></description>
-            <pubDate>Wed, 25 Feb 2026 07:38:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.tuxboard.com/ia-au-travail-une-etude-revele-que-son-utilisation-quotidienne-epuise-les-salaries/</guid>
-            <source>Tuxboard.com</source>
-        </item>
-        <item>
-            <title>Concours GEO GreenRed : faites-vous citer par les IA et gagnez plus de 1 750 € de lots</title>
-            <link>https://www.abondance.com/20260225-1951826-concours-geo-greenred-faites-vous-citer-par-les-ia-et-gagnez-plus-de-1-750-e-de-lots.html</link>
-            <description><![CDATA[En 2026, les moteurs de recherche ne sont plus les seuls points d’entrée pour assurer sa visibilité en ligne : une part croissante des internautes pose désormais ses questions directement à des IA gén...]]></description>
-            <pubDate>Wed, 25 Feb 2026 08:20:52 -0000</pubDate>
-            <guid isPermaLink="true">https://www.abondance.com/20260225-1951826-concours-geo-greenred-faites-vous-citer-par-les-ia-et-gagnez-plus-de-1-750-e-de-lots.html</guid>
-            <source>Abondance.com</source>
-        </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
             <link>https://www.youtube.com/watch?v=N0gTIxg9l2A</link>
@@ -54,12 +37,12 @@ L’article IA au travail : une étude révèle que son utilisation quotidienne.
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>ELT avec BigQuery, GCS, Airflow, Python et SQL (video 1) | Présentation du cours et Objectifs</title>
-            <link>https://www.youtube.com/watch?v=Fzb6Zgl6hhk</link>
-            <description><![CDATA[Google Cloud Platform pour Data Engineers : Projet pratique ELT avec BigQuery, GCS, Airflow, Python et SQL - Projet réel sur ...]]></description>
-            <pubDate>Sun, 28 Dec 2025 17:18:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Fzb6Zgl6hhk</guid>
-            <source>J.A DATATECH CONSULTING</source>
+            <title>La GenAI gratuite et sécurisée : les LLMs locaux directement sur vos devices</title>
+            <link>https://blog.octo.com/built-in-ai-in-front-end</link>
+            <description><![CDATA[Vous voulez intégrer l'IA dans votre produit rapidement, gratuitement et sans aucun danger pour les données de vos utilisateurs ? Rien de plus facile, venez découvrir les modèles d'IA locaux accessibl...]]></description>
+            <pubDate>Wed, 25 Feb 2026 11:08:10 -0000</pubDate>
+            <guid isPermaLink="true">https://blog.octo.com/built-in-ai-in-front-end</guid>
+            <source>Octo.com</source>
         </item>
         <item>
             <title>Qu&amp;#39;est-ce que Power BI ? (Tuto Intro 2025)</title>
@@ -78,6 +61,14 @@ L’article IA au travail : une étude révèle que son utilisation quotidienne.
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
+            <title>Qui sème la data récolte la tempête</title>
+            <link>https://www.courrierinternational.com/article/climatiques-qui-seme-la-data-recolte-la-tempete_241030</link>
+            <description><![CDATA[L’intelligence artificielle pourrait sauver la planète, soutient la tech… Qui n’est pas à une affirmation grandiloquente près pour vanter les supposées vertus de l’IA. L’ancien PDG de Google Eric Schm...]]></description>
+            <pubDate>Thu, 26 Feb 2026 06:02:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.courrierinternational.com/article/climatiques-qui-seme-la-data-recolte-la-tempete_241030</guid>
+            <source>Courrier International</source>
+        </item>
+        <item>
             <title>DeepSeek MHC : La Nouvelle Architecture qui RÉINVENTE l’IA (Adieu les Transformers ?) 😱🔥</title>
             <link>https://www.youtube.com/watch?v=-rFx2b3ZuXQ</link>
             <description><![CDATA[DeepSeek vient de briser les règles du jeu avec mHC. Alors que la Big Tech mise tout sur la force brute et les milliards de ...]]></description>
@@ -86,12 +77,20 @@ L’article IA au travail : une étude révèle que son utilisation quotidienne.
             <source>Nerdy Kings</source>
         </item>
         <item>
-            <title>Bienvenue dans le premier parc animalier sans animaux: "Toutes les beautés du monde" sont à voir au théâtre Le Vilar</title>
-            <link>https://www.lavenir.net/regions/brabantwallon/ottignies-louvain-la-neuve/2026/02/25/bienvenue-dans-le-premier-parc-animalier-sans-animaux-toutes-les-beautes-du-monde-sont-a-voir-au-theatre-le-vilar-AH7TNFW5TRC5ZD3EJEMK2SW4ZY/</link>
-            <description><![CDATA[Intelligence artificielle, nouvelles technologies et réalité augmentée sont questionnées sur le ton de l’humour par le collectif de jeunes comédiens. jpeg. "Toutes les beautés de monde" est à voir au ...]]></description>
-            <pubDate>Wed, 25 Feb 2026 05:39:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lavenir.net/regions/brabantwallon/ottignies-louvain-la-neuve/2026/02/25/bienvenue-dans-le-premier-parc-animalier-sans-animaux-toutes-les-beautes-du-monde-sont-a-voir-au-theatre-le-vilar-AH7TNFW5TRC5ZD3EJEMK2SW4ZY/</guid>
-            <source>Lavenir.net</source>
+            <title>Tesla s'attaque enfin au problème de ses essuie-glaces automatiques</title>
+            <link>https://www.generation-nt.com/actualites/tesla-essuie-glaces-automatiques-mise-jour-logiciel-v5-2071446</link>
+            <description><![CDATA[Les essuie-glaces automatiques des Tesla, un cauchemar pour de nombreux propriétaires, pourraient bientôt être corrigés. Le constructeur teste en secret une nouvelle version de son intelligence artifi...]]></description>
+            <pubDate>Thu, 26 Feb 2026 08:05:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/tesla-essuie-glaces-automatiques-mise-jour-logiciel-v5-2071446</guid>
+            <source>Génération NT</source>
+        </item>
+        <item>
+            <title>Le VRAI ordre d&amp;#39;exécution SQL #sql #datascience #français</title>
+            <link>https://www.youtube.com/watch?v=PjUGOwDQsmk</link>
+            <description><![CDATA[Le secret est ici Tu as du mal à retenir la différence entre WHERE et HAVING ? Tu ne comprends pas pourquoi tu ne peux pas ...]]></description>
+            <pubDate>Fri, 09 Jan 2026 16:54:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=PjUGOwDQsmk</guid>
+            <source>ASSA Immo</source>
         </item>
         <item>
             <title>Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀</title>
@@ -100,6 +99,22 @@ L’article IA au travail : une étude révèle que son utilisation quotidienne.
             <pubDate>Wed, 18 Feb 2026 12:59:31 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=kWWxN73GuUI</guid>
             <source>Centre de formation Noormed</source>
+        </item>
+        <item>
+            <title>Mettre la science des données au service du bien-être au travail</title>
+            <link>https://blog.octo.com/mettre-la-science-des-donnees-au-service-du-bien-etre-au-travail</link>
+            <description><![CDATA[Mesurer le bien-être au travail ne se résume pas à diffuser un questionnaire. À travers l’OCTO Health Check, nous montrons comment une approche rigoureuse des données permet d’identifier des dynamique...]]></description>
+            <pubDate>Wed, 25 Feb 2026 15:16:53 -0000</pubDate>
+            <guid isPermaLink="true">https://blog.octo.com/mettre-la-science-des-donnees-au-service-du-bien-etre-au-travail</guid>
+            <source>Octo.com</source>
+        </item>
+        <item>
+            <title>Vous pensez que bien vieillir dépend de vos gènes ? La science pointe désormais vers un autre coupable insoupçonné</title>
+            <link>https://www.futura-sciences.com/sante/actualites/microbiotes-vous-pensez-bien-vieillir-depend-vos-genes-science-pointe-desormais-vers-autre-coupable-insoupconne-131679/</link>
+            <description><![CDATA[La fontaine de jouvence n’est pas un mythe : elle vit en nous, dans notre microbiote, selon le Pr Bill Sullivan, professeur de microbiologie. Le maintien d'un microbiote jeune favorise un vieillisseme...]]></description>
+            <pubDate>Wed, 25 Feb 2026 19:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/sante/actualites/microbiotes-vous-pensez-bien-vieillir-depend-vos-genes-science-pointe-desormais-vers-autre-coupable-insoupconne-131679/</guid>
+            <source>Futura</source>
         </item>
         <item>
             <title>Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données</title>
@@ -142,36 +157,20 @@ L’article IA au travail : une étude révèle que son utilisation quotidienne.
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>IA : comment la banque et l’assurance se préparent au grand bouleversement</title>
-            <link>https://www.lexpress.fr/economie/emploi/management/ia-les-metiers-de-la-banque-et-de-lassurance-a-lheure-du-grand-basculement-GYK3564QKVBLVM6CNTAEW23XHU/</link>
-            <description><![CDATA[Suppressions de postes, évolution des compétences et de la relation client, données sensibles... Plongée dans une mutation déjà à l’œuvre.]]></description>
-            <pubDate>Tue, 24 Feb 2026 10:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lexpress.fr/economie/emploi/management/ia-les-metiers-de-la-banque-et-de-lassurance-a-lheure-du-grand-basculement-GYK3564QKVBLVM6CNTAEW23XHU/</guid>
-            <source>L'Express</source>
+            <title>ENQUÊTE : PFAS dans l’agriculture, révélations sur la contamination des champs par les déchets industriels</title>
+            <link>https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/enquete-pfas-dans-l-agriculture-revelations-sur-la-contamination-des-champs-par-les-dechets-industriels-3303918.html</link>
+            <description><![CDATA[Chaque année, des centaines de millions de tonnes de boues sont épandues pour fertiliser les parcelles agricoles françaises. Une partie d’entre elles sont produites par des installations émettrices de...]]></description>
+            <pubDate>Thu, 26 Feb 2026 05:00:05 -0000</pubDate>
+            <guid isPermaLink="true">https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/enquete-pfas-dans-l-agriculture-revelations-sur-la-contamination-des-champs-par-les-dechets-industriels-3303918.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
         <item>
-            <title>Data centers, l’heure de la révolte</title>
-            <link>https://www.courrierinternational.com/article/a-la-une-du-magazine-data-centers-l-heure-de-la-revolte_240988</link>
-            <description><![CDATA[“Des espaces qui ne font qu’abriter des machines servant à entretenir d’autres machines” : voilà comme le “Financial Times” décrit les centres de données qui prolifèrent partout dans le monde. Contre ...]]></description>
-            <pubDate>Wed, 25 Feb 2026 08:32:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.courrierinternational.com/article/a-la-une-du-magazine-data-centers-l-heure-de-la-revolte_240988</guid>
-            <source>Courrier International</source>
-        </item>
-        <item>
-            <title>Comment devenir Data Scientist ? Le parcours décodé</title>
-            <link>https://www.youtube.com/watch?v=ZHuD0pzTdG0</link>
-            <description><![CDATA[Le parcours Data Scientist décodé : devenez l'expert des données. Dans cette vidéo, plongez au cœur du parcours Data Scientist ...]]></description>
-            <pubDate>Wed, 28 Jan 2026 14:14:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ZHuD0pzTdG0</guid>
-            <source>Liora</source>
-        </item>
-        <item>
-            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
-            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
-            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
-            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
-            <source>Oscar Aksanti</source>
+            <title>La PS6 serait bien surpuissante et ça se confirme officiellement</title>
+            <link>https://www.gameblog.fr/jeu-video/ed/news/ps6-puissance-pssr-brevet-712174</link>
+            <description><![CDATA[Un brevet déposé par Sony pourrait annoncer une technologie surpuissante sur la PS6. L'amélioration d'une technologie déjà présente sur PS5 Pro, avec de bien meilleures performances au programme.]]></description>
+            <pubDate>Thu, 26 Feb 2026 07:15:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.gameblog.fr/jeu-video/ed/news/ps6-puissance-pssr-brevet-712174</guid>
+            <source>Gameblog</source>
         </item>
     </channel>
 </rss>
