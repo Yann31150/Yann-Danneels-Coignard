@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-02-27T08:49:58.541296",
+  "lastUpdate": "2026-02-28T08:35:37.455095",
   "articles": [
+    {
+      "title": "Créer un Agent IA puissant (RAG) : Tutoriel Complet (no code)",
+      "description": "Pour récupérer les workflows sur n8n : https://tally.so/r/pbyR9y Si tu utilises déjà ChatGPT ou Claude en entreprise, tu l'as ...",
+      "url": "https://www.youtube.com/watch?v=_ldYxumnGIo",
+      "source": "Louis Graffeuil",
+      "publishedAt": "2026-01-07T07:49:08Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "_ldYxumnGIo",
+      "thumbnail": "https://i.ytimg.com/vi/_ldYxumnGIo/hqdefault.jpg"
+    },
     {
       "title": "J&#39;ai résilié tous mes outils IA (j&#39;ai fabriqué le mien)",
       "description": "Plus de 15 outils IA, 15 abonnements, des onglets partout... ChatGPT, Gemini, Perplexity, Gamma... C'était le gros bordel alors ...",
@@ -38,18 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/FOj5HTd4EAs/hqdefault.jpg"
     },
     {
-      "title": "La GenAI gratuite et sécurisée : les LLMs locaux directement sur vos devices",
-      "description": "Vous voulez intégrer l'IA dans votre produit rapidement, gratuitement et sans aucun danger pour les données de vos utilisateurs ? Rien de plus facile, venez découvrir les modèles d'IA locaux accessibl...",
-      "url": "https://blog.octo.com/built-in-ai-in-front-end",
-      "source": "Octo.com",
-      "publishedAt": "2026-02-25T11:08:10Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Qu&#39;est-ce que Power BI ? (Tuto Intro 2025)",
       "description": "Vous entendez parler de \"Data\" partout, mais c'est quoi concrètement Power BI ? En 2025, c'est l'outil indispensable pour booster ...",
       "url": "https://www.youtube.com/watch?v=wBsvjPNqUco",
@@ -60,6 +60,18 @@
       "isYouTube": true,
       "videoId": "wBsvjPNqUco",
       "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
+    },
+    {
+      "title": "Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)",
+      "description": "Vous voulez apprendre à créer des tableaux de bord mais vous ne savez pas par où commencer ? Tout commence ici ! ​Dans ...",
+      "url": "https://www.youtube.com/watch?v=AsNBiYCJRyk",
+      "source": "Diaby Fatemate ",
+      "publishedAt": "2026-02-08T09:29:17Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "AsNBiYCJRyk",
+      "thumbnail": "https://i.ytimg.com/vi/AsNBiYCJRyk/hqdefault.jpg"
     },
     {
       "title": "Analyse discriminante avec « discrimintools » (Python)",
@@ -74,11 +86,23 @@
       "thumbnail": "https://i.ytimg.com/vi/NvdjH1fRRE0/hqdefault.jpg"
     },
     {
-      "title": "Qui sème la data récolte la tempête",
-      "description": "L’intelligence artificielle pourrait sauver la planète, soutient la tech… Qui n’est pas à une affirmation grandiloquente près pour vanter les supposées vertus de l’IA. L’ancien PDG de Google Eric Schm...",
-      "url": "https://www.courrierinternational.com/article/climatiques-qui-seme-la-data-recolte-la-tempete_241030",
-      "source": "Courrier International",
-      "publishedAt": "2026-02-26T06:02:05Z",
+      "title": "Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp; 10 | Guide complet",
+      "description": "Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...",
+      "url": "https://www.youtube.com/watch?v=G-4DERRKrHA",
+      "source": "AntalaSoft School",
+      "publishedAt": "2026-02-25T04:31:34Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "G-4DERRKrHA",
+      "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
+    },
+    {
+      "title": "Anthropic, réticent à ouvrir les vannes au Pentagone, pourrait se voir blacklister par l’administration US",
+      "description": "Anthropic, avec son intelligence artificielle Claude, est plutôt bien vue des militaires américains jusqu’à présent : c’est même la seule IA utilisée par le Pentagone sur des documents classifiés. Or,...",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/02/anthropic-reticent-ouvrir-les-vannes-au-pentagone-pourrait-se-voir-blacklister-par-ladministration-us-307045",
+      "source": "MacGeneration",
+      "publishedAt": "2026-02-26T20:35:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -98,30 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-rFx2b3ZuXQ/hqdefault.jpg"
     },
     {
-      "title": "Tesla s'attaque enfin au problème de ses essuie-glaces automatiques",
-      "description": "Les essuie-glaces automatiques des Tesla, un cauchemar pour de nombreux propriétaires, pourraient bientôt être corrigés. Le constructeur teste en secret une nouvelle version de son intelligence artifi...",
-      "url": "https://www.generation-nt.com/actualites/tesla-essuie-glaces-automatiques-mise-jour-logiciel-v5-2071446",
-      "source": "Génération NT",
-      "publishedAt": "2026-02-26T08:05:01Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cette fonctionnalité du Galaxy S26 Ultra est sans doute la plus utile de l’année",
-      "description": "Des tarifs en hausse, des améliorations matérielles mesurées et une dose supplémentaire d'intelligence artificielle complètent le tableau de cette nouvelle génération.\nL’article Cette fonctionnalité d...",
-      "url": "https://www.tomshardware.fr/cette-fonctionnalite-du-galaxy-s26-ultra-est-sans-doute-la-plus-utile-de-lannee/",
-      "source": "Tomshardware.fr",
-      "publishedAt": "2026-02-26T08:33:29Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀",
       "description": "Bienvenue dans ce premier module de notre formation complète dédiée à la certification PL-300 : Microsoft Power BI Data Analyst ...",
       "url": "https://www.youtube.com/watch?v=kWWxN73GuUI",
@@ -134,23 +134,35 @@
       "thumbnail": "https://i.ytimg.com/vi/kWWxN73GuUI/hqdefault.jpg"
     },
     {
-      "title": "Mettre la science des données au service du bien-être au travail",
-      "description": "Mesurer le bien-être au travail ne se résume pas à diffuser un questionnaire. À travers l’OCTO Health Check, nous montrons comment une approche rigoureuse des données permet d’identifier des dynamique...",
-      "url": "https://blog.octo.com/mettre-la-science-des-donnees-au-service-du-bien-etre-au-travail",
-      "source": "Octo.com",
-      "publishedAt": "2026-02-25T15:16:53Z",
+      "title": "SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips",
+      "description": "Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...",
+      "url": "https://www.youtube.com/watch?v=qup-uitBx58",
+      "source": "Oracle SQL Tips FR",
+      "publishedAt": "2026-01-04T03:10:49Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "qup-uitBx58",
+      "thumbnail": "https://i.ytimg.com/vi/qup-uitBx58/hqdefault.jpg"
     },
     {
-      "title": "Vous pensez que bien vieillir dépend de vos gènes ? La science pointe désormais vers un autre coupable insoupçonné",
-      "description": "La fontaine de jouvence n’est pas un mythe : elle vit en nous, dans notre microbiote, selon le Pr Bill Sullivan, professeur de microbiologie. Le maintien d'un microbiote jeune favorise un vieillisseme...",
-      "url": "https://www.futura-sciences.com/sante/actualites/microbiotes-vous-pensez-bien-vieillir-depend-vos-genes-science-pointe-desormais-vers-autre-coupable-insoupconne-131679/",
-      "source": "Futura",
-      "publishedAt": "2026-02-25T19:00:00Z",
+      "title": "Utilisez les bases de données NoSQL",
+      "description": "Découvrez le cours complet (gratuit !) sur http://oc.info/cours-fr Initiez-vous au NoSQL avec MongoDB : gérez des données ...",
+      "url": "https://www.youtube.com/watch?v=4RztOLH7fGg",
+      "source": "OpenClassrooms en Français",
+      "publishedAt": "2026-01-05T14:00:09Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "4RztOLH7fGg",
+      "thumbnail": "https://i.ytimg.com/vi/4RztOLH7fGg/hqdefault.jpg"
+    },
+    {
+      "title": "Pas d'IA sans données de production : le chemin pragmatique vers l'usine intelligente",
+      "description": "Sans données de production, l'IA reste théorique. Capteurs, IIoT et ERP cloud connectent même les machines anciennes, unifient les données et améliorent planification et maintenance.",
+      "url": "https://www.journaldunet.com/iot/1548003-pas-d-ia-sans-donnees-de-production-le-chemin-pragmatique-vers-l-usine-intelligente/",
+      "source": "JDN",
+      "publishedAt": "2026-02-26T14:26:22Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -182,6 +194,18 @@
       "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
     },
     {
+      "title": "Huawei Mate X7 : le pliable photo le plus ambitieux devient plus recommandable après 200 € de réduction",
+      "description": "Le smartphone pliable Huawei Mate X7 vient de débarquer sur le marché français. Si ce modèle présenté comme un champion de la photo était affiché à un prix rédhibitoire à sa sortie, il est en ce momen...",
+      "url": "https://www.frandroid.com/bons-plans/2992403_huawei-mate-x7-le-pliable-photo-le-plus-ambitieux-devient-plus-recommandable-apres-200-e-de-reduction",
+      "source": "Frandroid",
+      "publishedAt": "2026-02-27T08:27:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Introduction à Positron: VSCode + RStudio pour la data science",
       "description": "Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...",
       "url": "https://www.youtube.com/watch?v=gcbiOQCR-O8",
@@ -192,6 +216,18 @@
       "isYouTube": true,
       "videoId": "gcbiOQCR-O8",
       "thumbnail": "https://i.ytimg.com/vi/gcbiOQCR-O8/hqdefault.jpg"
+    },
+    {
+      "title": "De zéro à data analyste : la deuxième leçon avec Yao (2ème Session)",
+      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
+      "url": "https://www.youtube.com/watch?v=FJdYN6A9X78",
+      "source": "Enogne School",
+      "publishedAt": "2026-01-16T23:00:30Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "FJdYN6A9X78",
+      "thumbnail": "https://i.ytimg.com/vi/FJdYN6A9X78/hqdefault.jpg"
     },
     {
       "title": "Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto",
@@ -206,42 +242,6 @@
       "thumbnail": "https://i.ytimg.com/vi/wNyw2TN8mh0/hqdefault.jpg"
     },
     {
-      "title": "Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)",
-      "description": "Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...",
-      "url": "https://www.youtube.com/watch?v=qKWTshE6WDI",
-      "source": "Sébastien Daviot - Expertise Data",
-      "publishedAt": "2026-02-08T07:41:39Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "qKWTshE6WDI",
-      "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
-    },
-    {
-      "title": "Construis ta première Data Pipeline en Python (Notion API → SQLite → Docker → Metabase)",
-      "description": "DANS CETTE VIDÉO Apprends à construire ta première data pipeline complète en Python, de A à Z, 100% gratuitement depuis ...",
-      "url": "https://www.youtube.com/watch?v=wzWGPdkr_sE",
-      "source": "KottioDev",
-      "publishedAt": "2026-01-07T13:00:06Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "wzWGPdkr_sE",
-      "thumbnail": "https://i.ytimg.com/vi/wzWGPdkr_sE/hqdefault.jpg"
-    },
-    {
-      "title": "Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro",
-      "description": "Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...",
-      "url": "https://www.youtube.com/watch?v=8EXbMYHL8xw",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-01-31T08:46:46Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "8EXbMYHL8xw",
-      "thumbnail": "https://i.ytimg.com/vi/8EXbMYHL8xw/hqdefault.jpg"
-    },
-    {
       "title": "ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)",
       "description": "Dans cette vidéo de 90 minutes, je vous apprends à utiliser ChatGPT simplement, avec des exemples concrets : comprendre ...",
       "url": "https://www.youtube.com/watch?v=Wg9M140pduU",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
     },
     {
-      "title": "Nvidia balaye les doutes sur l'IA : les Bourses asiatiques portées par des résultats records",
-      "description": "Les très bons résultats annuels de Nvidia apaisent les inquiétudes de ces derniers jours sur les valeurs tech exposées à l'intelligence artificielle.",
-      "url": "https://www.latribune.fr/article/tech/24000917589533/nvidia-balaye-les-doutes-sur-lia-les-bourses-asiatiques-portees-par-des-resultats-records",
-      "source": "La Tribune.fr",
-      "publishedAt": "2026-02-26T06:11:46Z",
+      "title": "Comment l'essor de l'IA a été rendu possible par une révolution économique des années 1970",
+      "description": "L'intelligence artificielle accélère une révolution économique mondiale amorcée dans les années 1970. L'étude des impacts de l'IA sur différents secteurs de la société met en lumière un parallèle hist...",
+      "url": "https://atlantico.fr/article/decryptage/comment-l-essor-de-l-ia-a-ete-rendu-possible-par-une-revolution-economique-des-annees-1970",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-02-26T12:52:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Le BTP face à l’IA : une transition prudente mais structurée",
-      "description": "Alors que l’intelligence artificielle s’impose progressivement comme un levier majeur de transformation économique, le secteur du Bâtiment et des Travaux Publics avance à un rythme mesuré. Moins de 10...",
-      "url": "https://www.frenchweb.fr/le-btp-face-a-lia-une-transition-prudente-mais-structuree/460514",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-02-26T07:30:17Z",
+      "title": "Cette société de robotique IA fondée par Alphabet intègre officiellement Google",
+      "description": "La société de robotique spécialisée dans l’intelligence artificielle, fondée par la maison-mère Alphabet, est désormais intégrée directement au sein de Google. Ce rapprochement marque une nouvelle éta...",
+      "url": "https://www.begeek.fr/cette-societe-de-robotique-ia-fondee-par-alphabet-integre-officiellement-google-428789",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-02-27T08:00:37Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "IA, productivité, social media : 5 nouveaux outils à découvrir en février 2026",
-      "description": "Une boîte à outils pour développer son audience sur X, une plateforme d'emailing dopée à l'IA, une extension Chrome pour mieux gérer son temps... Voici cinq outils qui ont retenu l'attention de la com...",
-      "url": "https://www.blogdumoderateur.com/ia-productivite-social-media-5-outils-decouvrir-fevrier-2026/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-02-26T06:00:47Z",
+      "title": "Apple demande l’annulation d’une plainte pour Siri IA et Epic Games",
+      "description": "Apple a demandé à un juge fédéral de San José en Californie de rejeter une action collective accusant le groupe d’avoir trompé ses actionnaires sur deux fronts distincts : les capacités d’intelligence...",
+      "url": "https://iphoneaddict.fr/post/news-424363-apple-demande-lannulation-dune-plainte-siri-ia-epic-games",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-02-27T08:00:39Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,12 +290,12 @@
       "thumbnail": ""
     },
     {
-      "title": "Amazon prêt à investir 50 milliards de dollars dans OpenAI : une offensive pour défier Microsoft",
-      "description": "Le géant du e-commerce Amazon envisagerait un investissement massif dans OpenAI, pouvant atteindre 50 milliards de dollars. Derrière cette manœuvre financière se joue une bataille stratégique majeure ...",
-      "url": "https://www.zdnet.fr/actualites/amazon-pret-a-investir-50-milliards-de-dollars-dans-openai-une-offensive-pour-defier-la-domination-de-microsoft-490887.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-02-26T07:36:25Z",
-      "category": "tech",
+      "title": "Innovation. Pourquoi l’IA est conçue pour terminer le travail... et pas pour le commencer",
+      "description": "L’IA ne remplace pas la collaboration humaine. C’est un outil qui repose sur le bon timing. Utilisée trop tôt, elle court-circuite la réflexion. Utilisée au bon moment, elle fait gagner du temps. Alor...",
+      "url": "https://www.ledauphine.com/economie/2026/02/27/pourquoi-l-ia-est-concue-pour-terminer-le-travail-et-pas-pour-le-commencer",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-02-27T05:05:00Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",

@@ -5,13 +5,21 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 27 Feb 2026 08:49:58 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 08:35:37 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>Créer un Agent IA puissant (RAG) : Tutoriel Complet (no code)</title>
+            <link>https://www.youtube.com/watch?v=_ldYxumnGIo</link>
+            <description><![CDATA[Pour récupérer les workflows sur n8n : https://tally.so/r/pbyR9y Si tu utilises déjà ChatGPT ou Claude en entreprise, tu l'as ...]]></description>
+            <pubDate>Wed, 07 Jan 2026 07:49:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=_ldYxumnGIo</guid>
+            <source>Louis Graffeuil</source>
+        </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
             <link>https://www.youtube.com/watch?v=N0gTIxg9l2A</link>
@@ -37,20 +45,20 @@
             <source>BI & Data Pro</source>
         </item>
         <item>
-            <title>La GenAI gratuite et sécurisée : les LLMs locaux directement sur vos devices</title>
-            <link>https://blog.octo.com/built-in-ai-in-front-end</link>
-            <description><![CDATA[Vous voulez intégrer l'IA dans votre produit rapidement, gratuitement et sans aucun danger pour les données de vos utilisateurs ? Rien de plus facile, venez découvrir les modèles d'IA locaux accessibl...]]></description>
-            <pubDate>Wed, 25 Feb 2026 11:08:10 -0000</pubDate>
-            <guid isPermaLink="true">https://blog.octo.com/built-in-ai-in-front-end</guid>
-            <source>Octo.com</source>
-        </item>
-        <item>
             <title>Qu&amp;#39;est-ce que Power BI ? (Tuto Intro 2025)</title>
             <link>https://www.youtube.com/watch?v=wBsvjPNqUco</link>
             <description><![CDATA[Vous entendez parler de "Data" partout, mais c'est quoi concrètement Power BI ? En 2025, c'est l'outil indispensable pour booster ...]]></description>
             <pubDate>Tue, 30 Dec 2025 16:00:51 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=wBsvjPNqUco</guid>
             <source>BI & Data Pro</source>
+        </item>
+        <item>
+            <title>Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)</title>
+            <link>https://www.youtube.com/watch?v=AsNBiYCJRyk</link>
+            <description><![CDATA[Vous voulez apprendre à créer des tableaux de bord mais vous ne savez pas par où commencer ? Tout commence ici ! ​Dans ...]]></description>
+            <pubDate>Sun, 08 Feb 2026 09:29:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=AsNBiYCJRyk</guid>
+            <source>Diaby Fatemate </source>
         </item>
         <item>
             <title>Analyse discriminante avec « discrimintools » (Python)</title>
@@ -61,12 +69,20 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Qui sème la data récolte la tempête</title>
-            <link>https://www.courrierinternational.com/article/climatiques-qui-seme-la-data-recolte-la-tempete_241030</link>
-            <description><![CDATA[L’intelligence artificielle pourrait sauver la planète, soutient la tech… Qui n’est pas à une affirmation grandiloquente près pour vanter les supposées vertus de l’IA. L’ancien PDG de Google Eric Schm...]]></description>
-            <pubDate>Thu, 26 Feb 2026 06:02:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.courrierinternational.com/article/climatiques-qui-seme-la-data-recolte-la-tempete_241030</guid>
-            <source>Courrier International</source>
+            <title>Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp;amp; 10 | Guide complet</title>
+            <link>https://www.youtube.com/watch?v=G-4DERRKrHA</link>
+            <description><![CDATA[Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...]]></description>
+            <pubDate>Wed, 25 Feb 2026 04:31:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=G-4DERRKrHA</guid>
+            <source>AntalaSoft School</source>
+        </item>
+        <item>
+            <title>Anthropic, réticent à ouvrir les vannes au Pentagone, pourrait se voir blacklister par l’administration US</title>
+            <link>https://www.macg.co/intelligence-artificielle/2026/02/anthropic-reticent-ouvrir-les-vannes-au-pentagone-pourrait-se-voir-blacklister-par-ladministration-us-307045</link>
+            <description><![CDATA[Anthropic, avec son intelligence artificielle Claude, est plutôt bien vue des militaires américains jusqu’à présent : c’est même la seule IA utilisée par le Pentagone sur des documents classifiés. Or,...]]></description>
+            <pubDate>Thu, 26 Feb 2026 20:35:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.macg.co/intelligence-artificielle/2026/02/anthropic-reticent-ouvrir-les-vannes-au-pentagone-pourrait-se-voir-blacklister-par-ladministration-us-307045</guid>
+            <source>MacGeneration</source>
         </item>
         <item>
             <title>DeepSeek MHC : La Nouvelle Architecture qui RÉINVENTE l’IA (Adieu les Transformers ?) 😱🔥</title>
@@ -77,23 +93,6 @@
             <source>Nerdy Kings</source>
         </item>
         <item>
-            <title>Tesla s'attaque enfin au problème de ses essuie-glaces automatiques</title>
-            <link>https://www.generation-nt.com/actualites/tesla-essuie-glaces-automatiques-mise-jour-logiciel-v5-2071446</link>
-            <description><![CDATA[Les essuie-glaces automatiques des Tesla, un cauchemar pour de nombreux propriétaires, pourraient bientôt être corrigés. Le constructeur teste en secret une nouvelle version de son intelligence artifi...]]></description>
-            <pubDate>Thu, 26 Feb 2026 08:05:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/tesla-essuie-glaces-automatiques-mise-jour-logiciel-v5-2071446</guid>
-            <source>Génération NT</source>
-        </item>
-        <item>
-            <title>Cette fonctionnalité du Galaxy S26 Ultra est sans doute la plus utile de l’année</title>
-            <link>https://www.tomshardware.fr/cette-fonctionnalite-du-galaxy-s26-ultra-est-sans-doute-la-plus-utile-de-lannee/</link>
-            <description><![CDATA[Des tarifs en hausse, des améliorations matérielles mesurées et une dose supplémentaire d'intelligence artificielle complètent le tableau de cette nouvelle génération.
-L’article Cette fonctionnalité d...]]></description>
-            <pubDate>Thu, 26 Feb 2026 08:33:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.tomshardware.fr/cette-fonctionnalite-du-galaxy-s26-ultra-est-sans-doute-la-plus-utile-de-lannee/</guid>
-            <source>Tomshardware.fr</source>
-        </item>
-        <item>
             <title>Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀</title>
             <link>https://www.youtube.com/watch?v=kWWxN73GuUI</link>
             <description><![CDATA[Bienvenue dans ce premier module de notre formation complète dédiée à la certification PL-300 : Microsoft Power BI Data Analyst ...]]></description>
@@ -102,20 +101,28 @@ L’article Cette fonctionnalité d...]]></description>
             <source>Centre de formation Noormed</source>
         </item>
         <item>
-            <title>Mettre la science des données au service du bien-être au travail</title>
-            <link>https://blog.octo.com/mettre-la-science-des-donnees-au-service-du-bien-etre-au-travail</link>
-            <description><![CDATA[Mesurer le bien-être au travail ne se résume pas à diffuser un questionnaire. À travers l’OCTO Health Check, nous montrons comment une approche rigoureuse des données permet d’identifier des dynamique...]]></description>
-            <pubDate>Wed, 25 Feb 2026 15:16:53 -0000</pubDate>
-            <guid isPermaLink="true">https://blog.octo.com/mettre-la-science-des-donnees-au-service-du-bien-etre-au-travail</guid>
-            <source>Octo.com</source>
+            <title>SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips</title>
+            <link>https://www.youtube.com/watch?v=qup-uitBx58</link>
+            <description><![CDATA[Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...]]></description>
+            <pubDate>Sun, 04 Jan 2026 03:10:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=qup-uitBx58</guid>
+            <source>Oracle SQL Tips FR</source>
         </item>
         <item>
-            <title>Vous pensez que bien vieillir dépend de vos gènes ? La science pointe désormais vers un autre coupable insoupçonné</title>
-            <link>https://www.futura-sciences.com/sante/actualites/microbiotes-vous-pensez-bien-vieillir-depend-vos-genes-science-pointe-desormais-vers-autre-coupable-insoupconne-131679/</link>
-            <description><![CDATA[La fontaine de jouvence n’est pas un mythe : elle vit en nous, dans notre microbiote, selon le Pr Bill Sullivan, professeur de microbiologie. Le maintien d'un microbiote jeune favorise un vieillisseme...]]></description>
-            <pubDate>Wed, 25 Feb 2026 19:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/sante/actualites/microbiotes-vous-pensez-bien-vieillir-depend-vos-genes-science-pointe-desormais-vers-autre-coupable-insoupconne-131679/</guid>
-            <source>Futura</source>
+            <title>Utilisez les bases de données NoSQL</title>
+            <link>https://www.youtube.com/watch?v=4RztOLH7fGg</link>
+            <description><![CDATA[Découvrez le cours complet (gratuit !) sur http://oc.info/cours-fr Initiez-vous au NoSQL avec MongoDB : gérez des données ...]]></description>
+            <pubDate>Mon, 05 Jan 2026 14:00:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=4RztOLH7fGg</guid>
+            <source>OpenClassrooms en Français</source>
+        </item>
+        <item>
+            <title>Pas d'IA sans données de production : le chemin pragmatique vers l'usine intelligente</title>
+            <link>https://www.journaldunet.com/iot/1548003-pas-d-ia-sans-donnees-de-production-le-chemin-pragmatique-vers-l-usine-intelligente/</link>
+            <description><![CDATA[Sans données de production, l'IA reste théorique. Capteurs, IIoT et ERP cloud connectent même les machines anciennes, unifient les données et améliorent planification et maintenance.]]></description>
+            <pubDate>Thu, 26 Feb 2026 14:26:22 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/iot/1548003-pas-d-ia-sans-donnees-de-production-le-chemin-pragmatique-vers-l-usine-intelligente/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données</title>
@@ -134,6 +141,14 @@ L’article Cette fonctionnalité d...]]></description>
             <source>Oscar Aksanti</source>
         </item>
         <item>
+            <title>Huawei Mate X7 : le pliable photo le plus ambitieux devient plus recommandable après 200 € de réduction</title>
+            <link>https://www.frandroid.com/bons-plans/2992403_huawei-mate-x7-le-pliable-photo-le-plus-ambitieux-devient-plus-recommandable-apres-200-e-de-reduction</link>
+            <description><![CDATA[Le smartphone pliable Huawei Mate X7 vient de débarquer sur le marché français. Si ce modèle présenté comme un champion de la photo était affiché à un prix rédhibitoire à sa sortie, il est en ce momen...]]></description>
+            <pubDate>Fri, 27 Feb 2026 08:27:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/bons-plans/2992403_huawei-mate-x7-le-pliable-photo-le-plus-ambitieux-devient-plus-recommandable-apres-200-e-de-reduction</guid>
+            <source>Frandroid</source>
+        </item>
+        <item>
             <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
             <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
             <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
@@ -142,36 +157,20 @@ L’article Cette fonctionnalité d...]]></description>
             <source>WeData</source>
         </item>
         <item>
+            <title>De zéro à data analyste : la deuxième leçon avec Yao (2ème Session)</title>
+            <link>https://www.youtube.com/watch?v=FJdYN6A9X78</link>
+            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
+            <pubDate>Fri, 16 Jan 2026 23:00:30 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=FJdYN6A9X78</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
             <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
             <link>https://www.youtube.com/watch?v=wNyw2TN8mh0</link>
             <description><![CDATA[]]></description>
             <pubDate>Tue, 20 Jan 2026 15:55:42 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=wNyw2TN8mh0</guid>
             <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
-            <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
-            <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
-            <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
-            <source>Sébastien Daviot - Expertise Data</source>
-        </item>
-        <item>
-            <title>Construis ta première Data Pipeline en Python (Notion API → SQLite → Docker → Metabase)</title>
-            <link>https://www.youtube.com/watch?v=wzWGPdkr_sE</link>
-            <description><![CDATA[DANS CETTE VIDÉO Apprends à construire ta première data pipeline complète en Python, de A à Z, 100% gratuitement depuis ...]]></description>
-            <pubDate>Wed, 07 Jan 2026 13:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=wzWGPdkr_sE</guid>
-            <source>KottioDev</source>
-        </item>
-        <item>
-            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
-            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
-            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
-            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
-            <source>Oscar Aksanti</source>
         </item>
     </channel>
 </rss>
