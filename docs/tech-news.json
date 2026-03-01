@@ -1,17 +1,29 @@
 {
-  "lastUpdate": "2026-02-28T08:35:37.455095",
+  "lastUpdate": "2026-03-01T08:37:20.291352",
   "articles": [
     {
-      "title": "Créer un Agent IA puissant (RAG) : Tutoriel Complet (no code)",
-      "description": "Pour récupérer les workflows sur n8n : https://tally.so/r/pbyR9y Si tu utilises déjà ChatGPT ou Claude en entreprise, tu l'as ...",
-      "url": "https://www.youtube.com/watch?v=_ldYxumnGIo",
-      "source": "Louis Graffeuil",
-      "publishedAt": "2026-01-07T07:49:08Z",
+      "title": "NPU",
+      "description": "Un NPU ou Neural Processing Unit, est un processeur optimisé pour les calculs liés à l’intelligence artificielle. Les applications d’intelligence artificielle fonctionnent principalement selon deux ty...",
+      "url": "https://www.futura-sciences.com/tech/definitions/informatique-npu-28399/",
+      "source": "Futura",
+      "publishedAt": "2026-02-28T07:00:05Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "_ldYxumnGIo",
-      "thumbnail": "https://i.ytimg.com/vi/_ldYxumnGIo/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Le patron d’OpenAI, créateur de ChatGPT, annonce que le Pentagone pourra utiliser ses modèles avec des « garanties »",
+      "description": "Le patron d’OpenAI accepte que le ministère américain de la Défense utilise son modèle d’intelligence artificielle avec des « garanties »",
+      "url": "https://www.20minutes.fr/high-tech/4203867-20260228-patron-openai-createur-chatgpt-annonce-pentagone-pourra-utiliser-modeles-garanties",
+      "source": "20 Minutes",
+      "publishedAt": "2026-02-28T08:26:24Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "J&#39;ai résilié tous mes outils IA (j&#39;ai fabriqué le mien)",
@@ -38,28 +50,40 @@
       "thumbnail": "https://i.ytimg.com/vi/YLh5gsmOFkQ/hqdefault.jpg"
     },
     {
-      "title": "Power BI Desktop Installation TUTO GRATUIT 2025",
-      "description": "BIENVENUE ! Cette vidéo est l'étape #3 de la formation Power BI Pro 2025. Vous avez choisi l'outil, maintenant on l'installe !",
-      "url": "https://www.youtube.com/watch?v=FOj5HTd4EAs",
-      "source": "BI & Data Pro",
-      "publishedAt": "2025-12-30T17:11:13Z",
+      "title": "Actualité : Claude banni par Trump, Anthropic blacklistée, OpenAI signe avec le Pentagone : la semaine qui a fait basculer l'IA",
+      "description": "Si vous utilisez ChatGPT, Claude ou Gemini, ce qui s'est passé vendredi soir aux États-Unis vous concerne. L'entreprise derrière Claude a refusé de livrer son IA à l'armée sans garde-fous. Donald Trum...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/claude-banni-par-trump-anthropic-blacklistee-openai-signe-avec-le-pentagone-la-semaine-qui-a-fait-basculer-l-ia-n252144.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-02-28T05:41:00Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "FOj5HTd4EAs",
-      "thumbnail": "https://i.ytimg.com/vi/FOj5HTd4EAs/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "Qu&#39;est-ce que Power BI ? (Tuto Intro 2025)",
-      "description": "Vous entendez parler de \"Data\" partout, mais c'est quoi concrètement Power BI ? En 2025, c'est l'outil indispensable pour booster ...",
-      "url": "https://www.youtube.com/watch?v=wBsvjPNqUco",
-      "source": "BI & Data Pro",
-      "publishedAt": "2025-12-30T16:00:51Z",
+      "title": "\"C'est la porte ouverte à des campagnes très sales\": les municipales à l'épreuve de l'intelligence artificielle",
+      "description": "De plus en plus de candidats aux élections municipales ont recours à l'intelligence artificielle pour convaincre les électeurs à l'approche du scrutin du 15 et du 22 mars. Si la méthode permet de se d...",
+      "url": "https://www.bfmtv.com/politique/elections/municipales/c-est-la-porte-ouverte-a-des-campagnes-tres-sales-les-municipales-a-l-epreuve-de-l-intelligence-artificielle_AN-202602280028.html",
+      "source": "BFMTV",
+      "publishedAt": "2026-02-28T05:30:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "SQL Server 2025 Installer et Configurer avec SSMS 22 | Guide Complet Pas à Pas",
+      "description": "Découvrez comment installer et configurer SQL Server 2025 ainsi que SQL Server Management Studio (SSMS 22) étape par ...",
+      "url": "https://www.youtube.com/watch?v=4qHt5zYZNhM",
+      "source": "Tchaps Tech",
+      "publishedAt": "2026-01-04T12:00:13Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "wBsvjPNqUco",
-      "thumbnail": "https://i.ytimg.com/vi/wBsvjPNqUco/hqdefault.jpg"
+      "videoId": "4qHt5zYZNhM",
+      "thumbnail": "https://i.ytimg.com/vi/4qHt5zYZNhM/hqdefault.jpg"
     },
     {
       "title": "Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)",
@@ -86,30 +110,6 @@
       "thumbnail": "https://i.ytimg.com/vi/NvdjH1fRRE0/hqdefault.jpg"
     },
     {
-      "title": "Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp; 10 | Guide complet",
-      "description": "Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...",
-      "url": "https://www.youtube.com/watch?v=G-4DERRKrHA",
-      "source": "AntalaSoft School",
-      "publishedAt": "2026-02-25T04:31:34Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "G-4DERRKrHA",
-      "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
-    },
-    {
-      "title": "Anthropic, réticent à ouvrir les vannes au Pentagone, pourrait se voir blacklister par l’administration US",
-      "description": "Anthropic, avec son intelligence artificielle Claude, est plutôt bien vue des militaires américains jusqu’à présent : c’est même la seule IA utilisée par le Pentagone sur des documents classifiés. Or,...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/02/anthropic-reticent-ouvrir-les-vannes-au-pentagone-pourrait-se-voir-blacklister-par-ladministration-us-307045",
-      "source": "MacGeneration",
-      "publishedAt": "2026-02-26T20:35:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "DeepSeek MHC : La Nouvelle Architecture qui RÉINVENTE l’IA (Adieu les Transformers ?) 😱🔥",
       "description": "DeepSeek vient de briser les règles du jeu avec mHC. Alors que la Big Tech mise tout sur la force brute et les milliards de ...",
       "url": "https://www.youtube.com/watch?v=-rFx2b3ZuXQ",
@@ -120,6 +120,18 @@
       "isYouTube": true,
       "videoId": "-rFx2b3ZuXQ",
       "thumbnail": "https://i.ytimg.com/vi/-rFx2b3ZuXQ/hqdefault.jpg"
+    },
+    {
+      "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
+      "description": "Si vous passez encore vos journées à copier-coller des données dans Excel, cette vidéo va changer votre carrière. Power BI ...",
+      "url": "https://www.youtube.com/watch?v=Dgm74TZPSkA",
+      "source": "EasyExcelQuery",
+      "publishedAt": "2026-02-09T05:36:43Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Dgm74TZPSkA",
+      "thumbnail": "https://i.ytimg.com/vi/Dgm74TZPSkA/hqdefault.jpg"
     },
     {
       "title": "Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀",
@@ -134,35 +146,11 @@
       "thumbnail": "https://i.ytimg.com/vi/kWWxN73GuUI/hqdefault.jpg"
     },
     {
-      "title": "SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips",
-      "description": "Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...",
-      "url": "https://www.youtube.com/watch?v=qup-uitBx58",
-      "source": "Oracle SQL Tips FR",
-      "publishedAt": "2026-01-04T03:10:49Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "qup-uitBx58",
-      "thumbnail": "https://i.ytimg.com/vi/qup-uitBx58/hqdefault.jpg"
-    },
-    {
-      "title": "Utilisez les bases de données NoSQL",
-      "description": "Découvrez le cours complet (gratuit !) sur http://oc.info/cours-fr Initiez-vous au NoSQL avec MongoDB : gérez des données ...",
-      "url": "https://www.youtube.com/watch?v=4RztOLH7fGg",
-      "source": "OpenClassrooms en Français",
-      "publishedAt": "2026-01-05T14:00:09Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "4RztOLH7fGg",
-      "thumbnail": "https://i.ytimg.com/vi/4RztOLH7fGg/hqdefault.jpg"
-    },
-    {
-      "title": "Pas d'IA sans données de production : le chemin pragmatique vers l'usine intelligente",
-      "description": "Sans données de production, l'IA reste théorique. Capteurs, IIoT et ERP cloud connectent même les machines anciennes, unifient les données et améliorent planification et maintenance.",
-      "url": "https://www.journaldunet.com/iot/1548003-pas-d-ia-sans-donnees-de-production-le-chemin-pragmatique-vers-l-usine-intelligente/",
-      "source": "JDN",
-      "publishedAt": "2026-02-26T14:26:22Z",
+      "title": "Actualité : L'Observatoire Rubin vient d'allumer son radar cosmique : déjà 800 000 alertes en une nuit, et ce n'est que le début",
+      "description": "L'observatoire le plus ambitieux jamais construit a émis ses premières alertes scientifiques le 24 février. Supernovae, astéroïdes, trous noirs actifs : depuis le Chili, une machine à découvertes inon...",
+      "url": "https://www.lesnumeriques.com/astronomie-conquete-spatiale/l-observatoire-rubin-vient-d-allumer-son-radar-cosmique-deja-800-000-alertes-en-une-nuit-et-ce-n-est-que-le-debut-n252103.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-02-27T17:10:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -194,18 +182,6 @@
       "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
     },
     {
-      "title": "Huawei Mate X7 : le pliable photo le plus ambitieux devient plus recommandable après 200 € de réduction",
-      "description": "Le smartphone pliable Huawei Mate X7 vient de débarquer sur le marché français. Si ce modèle présenté comme un champion de la photo était affiché à un prix rédhibitoire à sa sortie, il est en ce momen...",
-      "url": "https://www.frandroid.com/bons-plans/2992403_huawei-mate-x7-le-pliable-photo-le-plus-ambitieux-devient-plus-recommandable-apres-200-e-de-reduction",
-      "source": "Frandroid",
-      "publishedAt": "2026-02-27T08:27:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Introduction à Positron: VSCode + RStudio pour la data science",
       "description": "Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...",
       "url": "https://www.youtube.com/watch?v=gcbiOQCR-O8",
@@ -216,18 +192,6 @@
       "isYouTube": true,
       "videoId": "gcbiOQCR-O8",
       "thumbnail": "https://i.ytimg.com/vi/gcbiOQCR-O8/hqdefault.jpg"
-    },
-    {
-      "title": "De zéro à data analyste : la deuxième leçon avec Yao (2ème Session)",
-      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
-      "url": "https://www.youtube.com/watch?v=FJdYN6A9X78",
-      "source": "Enogne School",
-      "publishedAt": "2026-01-16T23:00:30Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "FJdYN6A9X78",
-      "thumbnail": "https://i.ytimg.com/vi/FJdYN6A9X78/hqdefault.jpg"
     },
     {
       "title": "Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto",
@@ -242,6 +206,42 @@
       "thumbnail": "https://i.ytimg.com/vi/wNyw2TN8mh0/hqdefault.jpg"
     },
     {
+      "title": "Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)",
+      "description": "Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...",
+      "url": "https://www.youtube.com/watch?v=qKWTshE6WDI",
+      "source": "Sébastien Daviot - Expertise Data",
+      "publishedAt": "2026-02-08T07:41:39Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "qKWTshE6WDI",
+      "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
+    },
+    {
+      "title": "Sous vos pieds, dans vos données, dans vos courses : la chaleur perdue qui pourrait remplacer votre chauffage",
+      "description": "Et si vos prochaines factures de chauffage étaient réduites grâce aux eaux de vos égouts ou à l'air vicié d'un supermarché ? C'est surprenant et pourtant… Derrière ces idées se cachent des technologie...",
+      "url": "https://www.futura-sciences.com/maison/actualites/chauffage-sous-vos-pieds-vos-donnees-vos-courses-chaleur-perdue-pourrait-remplacer-votre-chauffage-131766/",
+      "source": "Futura",
+      "publishedAt": "2026-02-28T07:57:01Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "IA et paie : une nouvelle ère de la gestion de la conformité",
+      "description": "La paie : des milliers de changements réglementaires par an. L'IA démultiplie l'expertise humaine, elle s'appuie sur des données expertes validées pour détecter les erreurs en temps réel.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1548327-ia-et-paie-une-nouvelle-ere-de-la-gestion-de-la-conformite/",
+      "source": "JDN",
+      "publishedAt": "2026-02-27T15:04:49Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)",
       "description": "Dans cette vidéo de 90 minutes, je vous apprends à utiliser ChatGPT simplement, avec des exemples concrets : comprendre ...",
       "url": "https://www.youtube.com/watch?v=Wg9M140pduU",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
     },
     {
-      "title": "Comment l'essor de l'IA a été rendu possible par une révolution économique des années 1970",
-      "description": "L'intelligence artificielle accélère une révolution économique mondiale amorcée dans les années 1970. L'étude des impacts de l'IA sur différents secteurs de la société met en lumière un parallèle hist...",
-      "url": "https://atlantico.fr/article/decryptage/comment-l-essor-de-l-ia-a-ete-rendu-possible-par-une-revolution-economique-des-annees-1970",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-02-26T12:52:00Z",
+      "title": "« Nous n’inclurons jamais d’avis généré par une IA » : Metacritic prévient après une polémique autour de Resident Evil Requiem",
+      "description": "Suite à la découverte d'avis clairement écrits par une intelligence artificielle, le site Metacritic prend une position ferme. Pour savoir si un film, une",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/2993817_nous-ninclurons-jamais-davis-genere-par-une-ia-metacritic-previent-apres-une-polemique-autour-de-resident-evil-requiem",
+      "source": "Frandroid",
+      "publishedAt": "2026-02-27T17:11:58Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Cette société de robotique IA fondée par Alphabet intègre officiellement Google",
-      "description": "La société de robotique spécialisée dans l’intelligence artificielle, fondée par la maison-mère Alphabet, est désormais intégrée directement au sein de Google. Ce rapprochement marque une nouvelle éta...",
-      "url": "https://www.begeek.fr/cette-societe-de-robotique-ia-fondee-par-alphabet-integre-officiellement-google-428789",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-02-27T08:00:37Z",
+      "title": "Quelle législation en France pour protéger les comédiens de doublage contre le clonage de leur voix par intelligence artificielle ?",
+      "description": "Alors que de plus en plus de comédiens de doublage tirent la sonnette d'alarme sur les utilisations frauduleuses de l'IA, qui peut servir à cloner leur voix sans leur accord, où en est la législation ...",
+      "url": "https://www.franceinfo.fr/culture/cinema/quelle-legislation-en-france-pour-proteger-les-comediens-de-doublage-contre-le-clonage-de-leur-voix-par-intelligence-artificielle_7833881.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-02-27T17:23:58Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Apple demande l’annulation d’une plainte pour Siri IA et Epic Games",
-      "description": "Apple a demandé à un juge fédéral de San José en Californie de rejeter une action collective accusant le groupe d’avoir trompé ses actionnaires sur deux fronts distincts : les capacités d’intelligence...",
-      "url": "https://iphoneaddict.fr/post/news-424363-apple-demande-lannulation-dune-plainte-siri-ia-epic-games",
-      "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-02-27T08:00:39Z",
+      "title": "Quand la crainte d’une bulle Tech se déplace sur les marchés de crédit",
+      "description": "L’intelligence artificielle perturbe désormais les marchés de crédit, publics mais aussi et surtout privé. Le patron de JP Morgan Chase, Jamie Dimon, a même fait un parallèle avec la crise financière ...",
+      "url": "https://www.latribune.fr/article/banques-finance/industrie-financiere/1331568623935614/quand-la-crainte-d-une-bulle-tech-se-deplace-sur-les-marches-de-credit",
+      "source": "La Tribune.fr",
+      "publishedAt": "2026-02-27T16:49:31Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,12 +290,12 @@
       "thumbnail": ""
     },
     {
-      "title": "Innovation. Pourquoi l’IA est conçue pour terminer le travail... et pas pour le commencer",
-      "description": "L’IA ne remplace pas la collaboration humaine. C’est un outil qui repose sur le bon timing. Utilisée trop tôt, elle court-circuite la réflexion. Utilisée au bon moment, elle fait gagner du temps. Alor...",
-      "url": "https://www.ledauphine.com/economie/2026/02/27/pourquoi-l-ia-est-concue-pour-terminer-le-travail-et-pas-pour-le-commencer",
-      "source": "Le Dauphiné Libéré",
-      "publishedAt": "2026-02-27T05:05:00Z",
-      "category": "innovation",
+      "title": "IA, personnalisation, streaming : dans les coulisses de la révolution technologique des médias français",
+      "description": "M6, Radio France, TF1 ou encore Canal+ : radios et chaînes de télévision investissent des milliards en France et dans le monde pour répondre aux mutations des usages. Et réussir à capter spectateurs e...",
+      "url": "https://www.challenges.fr/entreprise/medias/ia-personnalisation-streaming-dans-les-coulisses-de-la-revolution-technologique-des-medias-francais_640880",
+      "source": "Challenges",
+      "publishedAt": "2026-02-28T06:00:00Z",
+      "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",

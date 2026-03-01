@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 28 Feb 2026 08:35:37 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 08:37:20 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,20 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Créer un Agent IA puissant (RAG) : Tutoriel Complet (no code)</title>
-            <link>https://www.youtube.com/watch?v=_ldYxumnGIo</link>
-            <description><![CDATA[Pour récupérer les workflows sur n8n : https://tally.so/r/pbyR9y Si tu utilises déjà ChatGPT ou Claude en entreprise, tu l'as ...]]></description>
-            <pubDate>Wed, 07 Jan 2026 07:49:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=_ldYxumnGIo</guid>
-            <source>Louis Graffeuil</source>
+            <title>NPU</title>
+            <link>https://www.futura-sciences.com/tech/definitions/informatique-npu-28399/</link>
+            <description><![CDATA[Un NPU ou Neural Processing Unit, est un processeur optimisé pour les calculs liés à l’intelligence artificielle. Les applications d’intelligence artificielle fonctionnent principalement selon deux ty...]]></description>
+            <pubDate>Sat, 28 Feb 2026 07:00:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/tech/definitions/informatique-npu-28399/</guid>
+            <source>Futura</source>
+        </item>
+        <item>
+            <title>Le patron d’OpenAI, créateur de ChatGPT, annonce que le Pentagone pourra utiliser ses modèles avec des « garanties »</title>
+            <link>https://www.20minutes.fr/high-tech/4203867-20260228-patron-openai-createur-chatgpt-annonce-pentagone-pourra-utiliser-modeles-garanties</link>
+            <description><![CDATA[Le patron d’OpenAI accepte que le ministère américain de la Défense utilise son modèle d’intelligence artificielle avec des « garanties »]]></description>
+            <pubDate>Sat, 28 Feb 2026 08:26:24 -0000</pubDate>
+            <guid isPermaLink="true">https://www.20minutes.fr/high-tech/4203867-20260228-patron-openai-createur-chatgpt-annonce-pentagone-pourra-utiliser-modeles-garanties</guid>
+            <source>20 Minutes</source>
         </item>
         <item>
             <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
@@ -37,20 +45,28 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Power BI Desktop Installation TUTO GRATUIT 2025</title>
-            <link>https://www.youtube.com/watch?v=FOj5HTd4EAs</link>
-            <description><![CDATA[BIENVENUE ! Cette vidéo est l'étape #3 de la formation Power BI Pro 2025. Vous avez choisi l'outil, maintenant on l'installe !]]></description>
-            <pubDate>Tue, 30 Dec 2025 17:11:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=FOj5HTd4EAs</guid>
-            <source>BI & Data Pro</source>
+            <title>Actualité : Claude banni par Trump, Anthropic blacklistée, OpenAI signe avec le Pentagone : la semaine qui a fait basculer l'IA</title>
+            <link>https://www.lesnumeriques.com/intelligence-artificielle/claude-banni-par-trump-anthropic-blacklistee-openai-signe-avec-le-pentagone-la-semaine-qui-a-fait-basculer-l-ia-n252144.html</link>
+            <description><![CDATA[Si vous utilisez ChatGPT, Claude ou Gemini, ce qui s'est passé vendredi soir aux États-Unis vous concerne. L'entreprise derrière Claude a refusé de livrer son IA à l'armée sans garde-fous. Donald Trum...]]></description>
+            <pubDate>Sat, 28 Feb 2026 05:41:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/claude-banni-par-trump-anthropic-blacklistee-openai-signe-avec-le-pentagone-la-semaine-qui-a-fait-basculer-l-ia-n252144.html</guid>
+            <source>Les Numériques</source>
         </item>
         <item>
-            <title>Qu&amp;#39;est-ce que Power BI ? (Tuto Intro 2025)</title>
-            <link>https://www.youtube.com/watch?v=wBsvjPNqUco</link>
-            <description><![CDATA[Vous entendez parler de "Data" partout, mais c'est quoi concrètement Power BI ? En 2025, c'est l'outil indispensable pour booster ...]]></description>
-            <pubDate>Tue, 30 Dec 2025 16:00:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=wBsvjPNqUco</guid>
-            <source>BI & Data Pro</source>
+            <title>"C'est la porte ouverte à des campagnes très sales": les municipales à l'épreuve de l'intelligence artificielle</title>
+            <link>https://www.bfmtv.com/politique/elections/municipales/c-est-la-porte-ouverte-a-des-campagnes-tres-sales-les-municipales-a-l-epreuve-de-l-intelligence-artificielle_AN-202602280028.html</link>
+            <description><![CDATA[De plus en plus de candidats aux élections municipales ont recours à l'intelligence artificielle pour convaincre les électeurs à l'approche du scrutin du 15 et du 22 mars. Si la méthode permet de se d...]]></description>
+            <pubDate>Sat, 28 Feb 2026 05:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.bfmtv.com/politique/elections/municipales/c-est-la-porte-ouverte-a-des-campagnes-tres-sales-les-municipales-a-l-epreuve-de-l-intelligence-artificielle_AN-202602280028.html</guid>
+            <source>BFMTV</source>
+        </item>
+        <item>
+            <title>SQL Server 2025 Installer et Configurer avec SSMS 22 | Guide Complet Pas à Pas</title>
+            <link>https://www.youtube.com/watch?v=4qHt5zYZNhM</link>
+            <description><![CDATA[Découvrez comment installer et configurer SQL Server 2025 ainsi que SQL Server Management Studio (SSMS 22) étape par ...]]></description>
+            <pubDate>Sun, 04 Jan 2026 12:00:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=4qHt5zYZNhM</guid>
+            <source>Tchaps Tech</source>
         </item>
         <item>
             <title>Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)</title>
@@ -69,28 +85,20 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp;amp; 10 | Guide complet</title>
-            <link>https://www.youtube.com/watch?v=G-4DERRKrHA</link>
-            <description><![CDATA[Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...]]></description>
-            <pubDate>Wed, 25 Feb 2026 04:31:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=G-4DERRKrHA</guid>
-            <source>AntalaSoft School</source>
-        </item>
-        <item>
-            <title>Anthropic, réticent à ouvrir les vannes au Pentagone, pourrait se voir blacklister par l’administration US</title>
-            <link>https://www.macg.co/intelligence-artificielle/2026/02/anthropic-reticent-ouvrir-les-vannes-au-pentagone-pourrait-se-voir-blacklister-par-ladministration-us-307045</link>
-            <description><![CDATA[Anthropic, avec son intelligence artificielle Claude, est plutôt bien vue des militaires américains jusqu’à présent : c’est même la seule IA utilisée par le Pentagone sur des documents classifiés. Or,...]]></description>
-            <pubDate>Thu, 26 Feb 2026 20:35:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.macg.co/intelligence-artificielle/2026/02/anthropic-reticent-ouvrir-les-vannes-au-pentagone-pourrait-se-voir-blacklister-par-ladministration-us-307045</guid>
-            <source>MacGeneration</source>
-        </item>
-        <item>
             <title>DeepSeek MHC : La Nouvelle Architecture qui RÉINVENTE l’IA (Adieu les Transformers ?) 😱🔥</title>
             <link>https://www.youtube.com/watch?v=-rFx2b3ZuXQ</link>
             <description><![CDATA[DeepSeek vient de briser les règles du jeu avec mHC. Alors que la Big Tech mise tout sur la force brute et les milliards de ...]]></description>
             <pubDate>Sat, 03 Jan 2026 19:35:51 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=-rFx2b3ZuXQ</guid>
             <source>Nerdy Kings</source>
+        </item>
+        <item>
+            <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
+            <link>https://www.youtube.com/watch?v=Dgm74TZPSkA</link>
+            <description><![CDATA[Si vous passez encore vos journées à copier-coller des données dans Excel, cette vidéo va changer votre carrière. Power BI ...]]></description>
+            <pubDate>Mon, 09 Feb 2026 05:36:43 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Dgm74TZPSkA</guid>
+            <source>EasyExcelQuery</source>
         </item>
         <item>
             <title>Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀</title>
@@ -101,28 +109,12 @@
             <source>Centre de formation Noormed</source>
         </item>
         <item>
-            <title>SQL EXPERT | Calculez des totaux cumulés sans GROUP BY ! (Window Functions) #oraclesql #sql #sqltips</title>
-            <link>https://www.youtube.com/watch?v=qup-uitBx58</link>
-            <description><![CDATA[Marre de galérer avec des sous-requêtes complexes pour calculer un cumul ? Dans cette vidéo, on passe au niveau expert en ...]]></description>
-            <pubDate>Sun, 04 Jan 2026 03:10:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=qup-uitBx58</guid>
-            <source>Oracle SQL Tips FR</source>
-        </item>
-        <item>
-            <title>Utilisez les bases de données NoSQL</title>
-            <link>https://www.youtube.com/watch?v=4RztOLH7fGg</link>
-            <description><![CDATA[Découvrez le cours complet (gratuit !) sur http://oc.info/cours-fr Initiez-vous au NoSQL avec MongoDB : gérez des données ...]]></description>
-            <pubDate>Mon, 05 Jan 2026 14:00:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=4RztOLH7fGg</guid>
-            <source>OpenClassrooms en Français</source>
-        </item>
-        <item>
-            <title>Pas d'IA sans données de production : le chemin pragmatique vers l'usine intelligente</title>
-            <link>https://www.journaldunet.com/iot/1548003-pas-d-ia-sans-donnees-de-production-le-chemin-pragmatique-vers-l-usine-intelligente/</link>
-            <description><![CDATA[Sans données de production, l'IA reste théorique. Capteurs, IIoT et ERP cloud connectent même les machines anciennes, unifient les données et améliorent planification et maintenance.]]></description>
-            <pubDate>Thu, 26 Feb 2026 14:26:22 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/iot/1548003-pas-d-ia-sans-donnees-de-production-le-chemin-pragmatique-vers-l-usine-intelligente/</guid>
-            <source>JDN</source>
+            <title>Actualité : L'Observatoire Rubin vient d'allumer son radar cosmique : déjà 800 000 alertes en une nuit, et ce n'est que le début</title>
+            <link>https://www.lesnumeriques.com/astronomie-conquete-spatiale/l-observatoire-rubin-vient-d-allumer-son-radar-cosmique-deja-800-000-alertes-en-une-nuit-et-ce-n-est-que-le-debut-n252103.html</link>
+            <description><![CDATA[L'observatoire le plus ambitieux jamais construit a émis ses premières alertes scientifiques le 24 février. Supernovae, astéroïdes, trous noirs actifs : depuis le Chili, une machine à découvertes inon...]]></description>
+            <pubDate>Fri, 27 Feb 2026 17:10:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/astronomie-conquete-spatiale/l-observatoire-rubin-vient-d-allumer-son-radar-cosmique-deja-800-000-alertes-en-une-nuit-et-ce-n-est-que-le-debut-n252103.html</guid>
+            <source>Les Numériques</source>
         </item>
         <item>
             <title>Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données</title>
@@ -141,14 +133,6 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Huawei Mate X7 : le pliable photo le plus ambitieux devient plus recommandable après 200 € de réduction</title>
-            <link>https://www.frandroid.com/bons-plans/2992403_huawei-mate-x7-le-pliable-photo-le-plus-ambitieux-devient-plus-recommandable-apres-200-e-de-reduction</link>
-            <description><![CDATA[Le smartphone pliable Huawei Mate X7 vient de débarquer sur le marché français. Si ce modèle présenté comme un champion de la photo était affiché à un prix rédhibitoire à sa sortie, il est en ce momen...]]></description>
-            <pubDate>Fri, 27 Feb 2026 08:27:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/bons-plans/2992403_huawei-mate-x7-le-pliable-photo-le-plus-ambitieux-devient-plus-recommandable-apres-200-e-de-reduction</guid>
-            <source>Frandroid</source>
-        </item>
-        <item>
             <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
             <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
             <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
@@ -157,20 +141,36 @@
             <source>WeData</source>
         </item>
         <item>
-            <title>De zéro à data analyste : la deuxième leçon avec Yao (2ème Session)</title>
-            <link>https://www.youtube.com/watch?v=FJdYN6A9X78</link>
-            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
-            <pubDate>Fri, 16 Jan 2026 23:00:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=FJdYN6A9X78</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
             <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
             <link>https://www.youtube.com/watch?v=wNyw2TN8mh0</link>
             <description><![CDATA[]]></description>
             <pubDate>Tue, 20 Jan 2026 15:55:42 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=wNyw2TN8mh0</guid>
             <source>Le Decodeur</source>
+        </item>
+        <item>
+            <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
+            <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
+            <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
+            <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
+            <source>Sébastien Daviot - Expertise Data</source>
+        </item>
+        <item>
+            <title>Sous vos pieds, dans vos données, dans vos courses : la chaleur perdue qui pourrait remplacer votre chauffage</title>
+            <link>https://www.futura-sciences.com/maison/actualites/chauffage-sous-vos-pieds-vos-donnees-vos-courses-chaleur-perdue-pourrait-remplacer-votre-chauffage-131766/</link>
+            <description><![CDATA[Et si vos prochaines factures de chauffage étaient réduites grâce aux eaux de vos égouts ou à l'air vicié d'un supermarché ? C'est surprenant et pourtant… Derrière ces idées se cachent des technologie...]]></description>
+            <pubDate>Sat, 28 Feb 2026 07:57:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/maison/actualites/chauffage-sous-vos-pieds-vos-donnees-vos-courses-chaleur-perdue-pourrait-remplacer-votre-chauffage-131766/</guid>
+            <source>Futura</source>
+        </item>
+        <item>
+            <title>IA et paie : une nouvelle ère de la gestion de la conformité</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1548327-ia-et-paie-une-nouvelle-ere-de-la-gestion-de-la-conformite/</link>
+            <description><![CDATA[La paie : des milliers de changements réglementaires par an. L'IA démultiplie l'expertise humaine, elle s'appuie sur des données expertes validées pour détecter les erreurs en temps réel.]]></description>
+            <pubDate>Fri, 27 Feb 2026 15:04:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1548327-ia-et-paie-une-nouvelle-ere-de-la-gestion-de-la-conformite/</guid>
+            <source>JDN</source>
         </item>
     </channel>
 </rss>
