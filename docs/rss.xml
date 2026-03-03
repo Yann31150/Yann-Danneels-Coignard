@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 03 Mar 2026 08:50:30 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 13:57:51 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Actualité : “Incroyablement dangereux” : ChatGPT Santé rate une urgence vitale sur deux, des chercheurs sonnent l'alarme</title>
-            <link>https://www.lesnumeriques.com/intelligence-artificielle/incroyablement-dangereux-chatgpt-sante-rate-une-urgence-vitale-sur-deux-des-chercheurs-sonnent-l-alarme-n252196.html</link>
-            <description><![CDATA[Vous avez mal, vous êtes essoufflé, vous tapez vos symptômes dans ChatGPT. Une fois sur deux, l'IA vous dit que ce n'est pas grave, même quand ça l'est. C'est ce que révèle avec fracas la première étu...]]></description>
-            <pubDate>Mon, 02 Mar 2026 07:07:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/incroyablement-dangereux-chatgpt-sante-rate-une-urgence-vitale-sur-deux-des-chercheurs-sonnent-l-alarme-n252196.html</guid>
-            <source>Les Numériques</source>
-        </item>
         <item>
             <title>Analyse discriminante PLS « from scratch » avec ChatGPT (Python)</title>
             <link>https://www.youtube.com/watch?v=YLh5gsmOFkQ</link>
@@ -37,28 +29,12 @@
             <source>Shubham SHARMA</source>
         </item>
         <item>
-            <title>Analyse de données avec Orange</title>
-            <link>https://www.youtube.com/watch?v=hw8TiHABNLc</link>
-            <description><![CDATA[Orange Data Mining : Analyse de données &amp; Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...]]></description>
-            <pubDate>Thu, 29 Jan 2026 16:09:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=hw8TiHABNLc</guid>
-            <source>Ardy Fanny Nell REBOUKA REBOUKA</source>
-        </item>
-        <item>
-            <title>Détection des anomalies – Isolation Forest et Local Outlier Factor</title>
-            <link>https://www.youtube.com/watch?v=qCaA6vGDRUw</link>
-            <description><![CDATA[Machine Learning. Data Science. La problématique de la détection des anomalies en machine learning, applicable par exemple ...]]></description>
-            <pubDate>Thu, 15 Jan 2026 09:21:17 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=qCaA6vGDRUw</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>Règles d’association avec KNIME</title>
-            <link>https://www.youtube.com/watch?v=I-L2k_lzopQ</link>
-            <description><![CDATA[Machine learning. Data Mining. Data Science. Extraction des règles d'association à partir de données tabulaires avec le ...]]></description>
-            <pubDate>Wed, 21 Jan 2026 10:01:16 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=I-L2k_lzopQ</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>iOS 27 : Mark Gurman prédit la mort du Machine Learning… En quelque sorte</title>
+            <link>https://www.iphon.fr/post/ios-27-core-ml-remplace-par-core-ai</link>
+            <description><![CDATA[Le "Machine Learning" est démodé : place à l'IA à tout va !]]></description>
+            <pubDate>Mon, 02 Mar 2026 11:19:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.iphon.fr/post/ios-27-core-ml-remplace-par-core-ai</guid>
+            <source>Iphon.fr</source>
         </item>
         <item>
             <title>iOS 27 : Apple remplacera Core ML par Core AI à la WWDC 2026</title>
@@ -67,14 +43,6 @@
             <pubDate>Mon, 02 Mar 2026 08:23:50 -0000</pubDate>
             <guid isPermaLink="true">https://iphoneaddict.fr/post/news-424448-ios-27-apple-remplacera-core-ml-core-ai-wwdc-2026</guid>
             <source>Iphoneaddict.fr</source>
-        </item>
-        <item>
-            <title>Data Analysis with Python Full Course Tutorial</title>
-            <link>https://www.youtube.com/watch?v=bLDbzcHwxM4</link>
-            <description><![CDATA[Data Analysis with Python Full Course Tutorial Get Ad-Free Training by becoming a member today!]]></description>
-            <pubDate>Fri, 23 Jan 2026 17:30:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=bLDbzcHwxM4</guid>
-            <source>Learn Skills Daily</source>
         </item>
         <item>
             <title>SQL Server 2025 Installer et Configurer avec SSMS 22 | Guide Complet Pas à Pas</title>
@@ -93,6 +61,38 @@
             <source>Diaby Fatemate </source>
         </item>
         <item>
+            <title>Analyse discriminante avec « discrimintools » (Python)</title>
+            <link>https://www.youtube.com/watch?v=NvdjH1fRRE0</link>
+            <description><![CDATA[Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...]]></description>
+            <pubDate>Mon, 16 Feb 2026 09:53:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=NvdjH1fRRE0</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp;amp; 10 | Guide complet</title>
+            <link>https://www.youtube.com/watch?v=G-4DERRKrHA</link>
+            <description><![CDATA[Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...]]></description>
+            <pubDate>Wed, 25 Feb 2026 04:31:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=G-4DERRKrHA</guid>
+            <source>AntalaSoft School</source>
+        </item>
+        <item>
+            <title>Qualcomm dévoile son modem X105, le futur de la 5G dopé à l'IA</title>
+            <link>https://www.generation-nt.com/actualites/qualcomm-x105-modem-5g-ia-agentique-6g-satellite-2071698</link>
+            <description><![CDATA[Présenté lors du Mobile World Congress 2026, le modem Qualcomm X105 profite d'une refonte architecturale pensée pour répondre aux exigences croissantes des applications d'intelligence artificielle et ...]]></description>
+            <pubDate>Mon, 02 Mar 2026 13:20:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/qualcomm-x105-modem-5g-ia-agentique-6g-satellite-2071698</guid>
+            <source>Génération NT</source>
+        </item>
+        <item>
+            <title>DeepSeek MHC : La Nouvelle Architecture qui RÉINVENTE l’IA (Adieu les Transformers ?) 😱🔥</title>
+            <link>https://www.youtube.com/watch?v=-rFx2b3ZuXQ</link>
+            <description><![CDATA[DeepSeek vient de briser les règles du jeu avec mHC. Alors que la Big Tech mise tout sur la force brute et les milliards de ...]]></description>
+            <pubDate>Sat, 03 Jan 2026 19:35:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=-rFx2b3ZuXQ</guid>
+            <source>Nerdy Kings</source>
+        </item>
+        <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
             <link>https://www.youtube.com/watch?v=Dgm74TZPSkA</link>
             <description><![CDATA[Si vous passez encore vos journées à copier-coller des données dans Excel, cette vidéo va changer votre carrière. Power BI ...]]></description>
@@ -109,20 +109,12 @@
             <source>Centre de formation Noormed</source>
         </item>
         <item>
-            <title>Utilisez les bases de données NoSQL</title>
-            <link>https://www.youtube.com/watch?v=4RztOLH7fGg</link>
-            <description><![CDATA[Découvrez le cours complet (gratuit !) sur http://oc.info/cours-fr Initiez-vous au NoSQL avec MongoDB : gérez des données ...]]></description>
-            <pubDate>Mon, 05 Jan 2026 14:00:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=4RztOLH7fGg</guid>
-            <source>OpenClassrooms en Français</source>
-        </item>
-        <item>
-            <title>Le secret des pros : automatiser l&amp;#39;organisation de vos mesures dans Power BI</title>
-            <link>https://www.youtube.com/watch?v=GQN9jmpejhw</link>
-            <description><![CDATA[Vos mesures Power BI sont dispersées dans toutes vos tables ? Découvrez comment utiliser Tabular Editor pour centraliser et ...]]></description>
-            <pubDate>Sun, 18 Jan 2026 16:45:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=GQN9jmpejhw</guid>
-            <source>Barthelemy Montreuil</source>
+            <title>Formation Power BI – Projet Finance liquidité et santé financière</title>
+            <link>https://www.youtube.com/watch?v=25wjb48cNf4</link>
+            <description><![CDATA[Formation Power BI – Projet Finance liquidité et santé financière.]]></description>
+            <pubDate>Sat, 10 Jan 2026 10:29:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=25wjb48cNf4</guid>
+            <source>FMC DIGITAL</source>
         </item>
         <item>
             <title>Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données</title>
@@ -141,23 +133,6 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Feature Engineering Hands on (French)</title>
-            <link>https://www.youtube.com/watch?v=VMi18mtBrPE</link>
-            <description><![CDATA[Dans ce tutoriel pratique, vous apprendrez les bases du feature engineering et comment transformer des données brutes en ...]]></description>
-            <pubDate>Sun, 01 Feb 2026 13:41:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VMi18mtBrPE</guid>
-            <source>Machine Learning and Optimization for All</source>
-        </item>
-        <item>
-            <title>Café : voici combien de tasses par jour peuvent déclencher une crise cardiaque</title>
-            <link>https://www.tuxboard.com/cafe-voici-combien-de-tasses-par-jour-peuvent-declencher-une-crise-cardiaque/</link>
-            <description><![CDATA[Chaque matin, des millions de Français démarrent leur journée avec une tasse fumante. Pourtant, une question revient souvent : à...
-L’article Café : voici combien de tasses par jour peuvent déclencher...]]></description>
-            <pubDate>Sun, 01 Mar 2026 11:38:52 -0000</pubDate>
-            <guid isPermaLink="true">https://www.tuxboard.com/cafe-voici-combien-de-tasses-par-jour-peuvent-declencher-une-crise-cardiaque/</guid>
-            <source>Tuxboard.com</source>
-        </item>
-        <item>
             <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
             <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
             <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
@@ -166,12 +141,36 @@ L’article Café : voici combien de tasses par jour peuvent déclencher...]]></
             <source>WeData</source>
         </item>
         <item>
-            <title>De zéro à data analyste : la première leçon avec Yao  (1ère Session)</title>
-            <link>https://www.youtube.com/watch?v=yG-ftNXowSY</link>
-            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
-            <pubDate>Fri, 09 Jan 2026 23:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=yG-ftNXowSY</guid>
-            <source>Enogne School</source>
+            <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
+            <link>https://www.youtube.com/watch?v=wNyw2TN8mh0</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 20 Jan 2026 15:55:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=wNyw2TN8mh0</guid>
+            <source>Le Decodeur</source>
+        </item>
+        <item>
+            <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
+            <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
+            <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
+            <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
+            <source>Sébastien Daviot - Expertise Data</source>
+        </item>
+        <item>
+            <title>data-science-document-ai 1.64.1</title>
+            <link>https://pypi.org/project/data-science-document-ai/1.64.1/</link>
+            <description><![CDATA["Document AI repo for data science"]]></description>
+            <pubDate>Mon, 02 Mar 2026 11:03:49 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.64.1/</guid>
+            <source>Pypi.org</source>
+        </item>
+        <item>
+            <title>Actualité : “Elles apprennent” : cet ordinateur biologique, fait de vrais neurones humains, vient de jouer à Doom</title>
+            <link>https://www.lesnumeriques.com/concept/des-neurones-humains-vivants-jouent-a-doom-et-c-est-aussi-deroutant-que-prometteur-n252191.html</link>
+            <description><![CDATA[Des cellules cérébrales humaines, cultivées en labo, branchées sur une puce, qui apprennent à jouer à Doom. Ce n'est pas le pitch d'un film de science-fiction : c'est ce que vient de démontrer la star...]]></description>
+            <pubDate>Mon, 02 Mar 2026 05:31:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/concept/des-neurones-humains-vivants-jouent-a-doom-et-c-est-aussi-deroutant-que-prometteur-n252191.html</guid>
+            <source>Les Numériques</source>
         </item>
     </channel>
 </rss>

@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-03-03T08:50:30.417672",
+  "lastUpdate": "2026-03-03T13:57:51.632649",
   "articles": [
-    {
-      "title": "Actualité : “Incroyablement dangereux” : ChatGPT Santé rate une urgence vitale sur deux, des chercheurs sonnent l'alarme",
-      "description": "Vous avez mal, vous êtes essoufflé, vous tapez vos symptômes dans ChatGPT. Une fois sur deux, l'IA vous dit que ce n'est pas grave, même quand ça l'est. C'est ce que révèle avec fracas la première étu...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/incroyablement-dangereux-chatgpt-sante-rate-une-urgence-vitale-sur-deux-des-chercheurs-sonnent-l-alarme-n252196.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-03-02T07:07:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "Analyse discriminante PLS « from scratch » avec ChatGPT (Python)",
       "description": "Machine learning. Data science. Classification supervisée. Analyse discriminante PLS, approche en deux étapes : régression ...",
@@ -38,40 +26,16 @@
       "thumbnail": "https://i.ytimg.com/vi/MPB1H9cMh8A/hqdefault.jpg"
     },
     {
-      "title": "Analyse de données avec Orange",
-      "description": "Orange Data Mining : Analyse de données & Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...",
-      "url": "https://www.youtube.com/watch?v=hw8TiHABNLc",
-      "source": "Ardy Fanny Nell REBOUKA REBOUKA",
-      "publishedAt": "2026-01-29T16:09:39Z",
+      "title": "iOS 27 : Mark Gurman prédit la mort du Machine Learning… En quelque sorte",
+      "description": "Le \"Machine Learning\" est démodé : place à l'IA à tout va !",
+      "url": "https://www.iphon.fr/post/ios-27-core-ml-remplace-par-core-ai",
+      "source": "Iphon.fr",
+      "publishedAt": "2026-03-02T11:19:29Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "hw8TiHABNLc",
-      "thumbnail": "https://i.ytimg.com/vi/hw8TiHABNLc/hqdefault.jpg"
-    },
-    {
-      "title": "Détection des anomalies – Isolation Forest et Local Outlier Factor",
-      "description": "Machine Learning. Data Science. La problématique de la détection des anomalies en machine learning, applicable par exemple ...",
-      "url": "https://www.youtube.com/watch?v=qCaA6vGDRUw",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-01-15T09:21:17Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "qCaA6vGDRUw",
-      "thumbnail": "https://i.ytimg.com/vi/qCaA6vGDRUw/hqdefault.jpg"
-    },
-    {
-      "title": "Règles d’association avec KNIME",
-      "description": "Machine learning. Data Mining. Data Science. Extraction des règles d'association à partir de données tabulaires avec le ...",
-      "url": "https://www.youtube.com/watch?v=I-L2k_lzopQ",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-01-21T10:01:16Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "I-L2k_lzopQ",
-      "thumbnail": "https://i.ytimg.com/vi/I-L2k_lzopQ/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "iOS 27 : Apple remplacera Core ML par Core AI à la WWDC 2026",
@@ -84,18 +48,6 @@
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
-    },
-    {
-      "title": "Data Analysis with Python Full Course Tutorial",
-      "description": "Data Analysis with Python Full Course Tutorial Get Ad-Free Training by becoming a member today!",
-      "url": "https://www.youtube.com/watch?v=bLDbzcHwxM4",
-      "source": "Learn Skills Daily",
-      "publishedAt": "2026-01-23T17:30:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "bLDbzcHwxM4",
-      "thumbnail": "https://i.ytimg.com/vi/bLDbzcHwxM4/hqdefault.jpg"
     },
     {
       "title": "SQL Server 2025 Installer et Configurer avec SSMS 22 | Guide Complet Pas à Pas",
@@ -122,6 +74,54 @@
       "thumbnail": "https://i.ytimg.com/vi/AsNBiYCJRyk/hqdefault.jpg"
     },
     {
+      "title": "Analyse discriminante avec « discrimintools » (Python)",
+      "description": "Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...",
+      "url": "https://www.youtube.com/watch?v=NvdjH1fRRE0",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-02-16T09:53:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "NvdjH1fRRE0",
+      "thumbnail": "https://i.ytimg.com/vi/NvdjH1fRRE0/hqdefault.jpg"
+    },
+    {
+      "title": "Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp; 10 | Guide complet",
+      "description": "Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...",
+      "url": "https://www.youtube.com/watch?v=G-4DERRKrHA",
+      "source": "AntalaSoft School",
+      "publishedAt": "2026-02-25T04:31:34Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "G-4DERRKrHA",
+      "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
+    },
+    {
+      "title": "Qualcomm dévoile son modem X105, le futur de la 5G dopé à l'IA",
+      "description": "Présenté lors du Mobile World Congress 2026, le modem Qualcomm X105 profite d'une refonte architecturale pensée pour répondre aux exigences croissantes des applications d'intelligence artificielle et ...",
+      "url": "https://www.generation-nt.com/actualites/qualcomm-x105-modem-5g-ia-agentique-6g-satellite-2071698",
+      "source": "Génération NT",
+      "publishedAt": "2026-03-02T13:20:01Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "DeepSeek MHC : La Nouvelle Architecture qui RÉINVENTE l’IA (Adieu les Transformers ?) 😱🔥",
+      "description": "DeepSeek vient de briser les règles du jeu avec mHC. Alors que la Big Tech mise tout sur la force brute et les milliards de ...",
+      "url": "https://www.youtube.com/watch?v=-rFx2b3ZuXQ",
+      "source": "Nerdy Kings",
+      "publishedAt": "2026-01-03T19:35:51Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "-rFx2b3ZuXQ",
+      "thumbnail": "https://i.ytimg.com/vi/-rFx2b3ZuXQ/hqdefault.jpg"
+    },
+    {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
       "description": "Si vous passez encore vos journées à copier-coller des données dans Excel, cette vidéo va changer votre carrière. Power BI ...",
       "url": "https://www.youtube.com/watch?v=Dgm74TZPSkA",
@@ -146,28 +146,16 @@
       "thumbnail": "https://i.ytimg.com/vi/kWWxN73GuUI/hqdefault.jpg"
     },
     {
-      "title": "Utilisez les bases de données NoSQL",
-      "description": "Découvrez le cours complet (gratuit !) sur http://oc.info/cours-fr Initiez-vous au NoSQL avec MongoDB : gérez des données ...",
-      "url": "https://www.youtube.com/watch?v=4RztOLH7fGg",
-      "source": "OpenClassrooms en Français",
-      "publishedAt": "2026-01-05T14:00:09Z",
+      "title": "Formation Power BI – Projet Finance liquidité et santé financière",
+      "description": "Formation Power BI – Projet Finance liquidité et santé financière.",
+      "url": "https://www.youtube.com/watch?v=25wjb48cNf4",
+      "source": "FMC DIGITAL",
+      "publishedAt": "2026-01-10T10:29:29Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "4RztOLH7fGg",
-      "thumbnail": "https://i.ytimg.com/vi/4RztOLH7fGg/hqdefault.jpg"
-    },
-    {
-      "title": "Le secret des pros : automatiser l&#39;organisation de vos mesures dans Power BI",
-      "description": "Vos mesures Power BI sont dispersées dans toutes vos tables ? Découvrez comment utiliser Tabular Editor pour centraliser et ...",
-      "url": "https://www.youtube.com/watch?v=GQN9jmpejhw",
-      "source": "Barthelemy Montreuil",
-      "publishedAt": "2026-01-18T16:45:06Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "GQN9jmpejhw",
-      "thumbnail": "https://i.ytimg.com/vi/GQN9jmpejhw/hqdefault.jpg"
+      "videoId": "25wjb48cNf4",
+      "thumbnail": "https://i.ytimg.com/vi/25wjb48cNf4/hqdefault.jpg"
     },
     {
       "title": "Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données",
@@ -194,30 +182,6 @@
       "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
     },
     {
-      "title": "Feature Engineering Hands on (French)",
-      "description": "Dans ce tutoriel pratique, vous apprendrez les bases du feature engineering et comment transformer des données brutes en ...",
-      "url": "https://www.youtube.com/watch?v=VMi18mtBrPE",
-      "source": "Machine Learning and Optimization for All",
-      "publishedAt": "2026-02-01T13:41:02Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "VMi18mtBrPE",
-      "thumbnail": "https://i.ytimg.com/vi/VMi18mtBrPE/hqdefault.jpg"
-    },
-    {
-      "title": "Café : voici combien de tasses par jour peuvent déclencher une crise cardiaque",
-      "description": "Chaque matin, des millions de Français démarrent leur journée avec une tasse fumante. Pourtant, une question revient souvent : à...\nL’article Café : voici combien de tasses par jour peuvent déclencher...",
-      "url": "https://www.tuxboard.com/cafe-voici-combien-de-tasses-par-jour-peuvent-declencher-une-crise-cardiaque/",
-      "source": "Tuxboard.com",
-      "publishedAt": "2026-03-01T11:38:52Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Introduction à Positron: VSCode + RStudio pour la data science",
       "description": "Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...",
       "url": "https://www.youtube.com/watch?v=gcbiOQCR-O8",
@@ -230,52 +194,112 @@
       "thumbnail": "https://i.ytimg.com/vi/gcbiOQCR-O8/hqdefault.jpg"
     },
     {
-      "title": "De zéro à data analyste : la première leçon avec Yao  (1ère Session)",
-      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
-      "url": "https://www.youtube.com/watch?v=yG-ftNXowSY",
-      "source": "Enogne School",
-      "publishedAt": "2026-01-09T23:00:06Z",
+      "title": "Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=wNyw2TN8mh0",
+      "source": "Le Decodeur",
+      "publishedAt": "2026-01-20T15:55:42Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "yG-ftNXowSY",
-      "thumbnail": "https://i.ytimg.com/vi/yG-ftNXowSY/hqdefault.jpg"
+      "videoId": "wNyw2TN8mh0",
+      "thumbnail": "https://i.ytimg.com/vi/wNyw2TN8mh0/hqdefault.jpg"
     },
     {
-      "title": "L’objectif d’Apple : rendre son IA omniprésente, au point que vous la portiez en permanence",
-      "description": "L’intelligence artificielle ! Tout le monde n’a que ce mot à la bouche. C’est, pour beaucoup, le nouveau Graal de l’industrie high-tech. En attendant, ce Graal s’apparente surtout à un gouffre financi...",
-      "url": "https://www.watchgeneration.fr/wearables/2026/03/lobjectif-dapple-rendre-son-ia-omnipresente-au-point-que-vous-la-portiez-en-permanence-19411",
-      "source": "Watchgeneration.fr",
-      "publishedAt": "2026-03-02T06:27:52Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Mieke De Ketelaere : \"Le message envoyé aux victimes revient à dire qu’elles ont fait un mauvais usage des chatbots\"",
-      "description": "L’Invitée Eco | Ingénieure spécialisée en intelligence artificielle, Mieke De Ketelaere tire la sonnette d’alarme dans un nouveau livre, à paraître prochainement, consacré aux dangers des chatbots com...",
-      "url": "https://www.lalibre.be/economie/digital/2026/03/02/mieke-de-ketelaere-le-message-envoye-aux-victimes-revient-a-dire-quelles-ont-fait-un-mauvais-usage-des-chatbots-47EUDD4FVFALHIPZDPADIEY5XM/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-03-02T07:06:01Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "🚀L’OCR expliqué + démo réelle avec DocTR: du texte à partir d’images !",
-      "description": "Dans cette vidéo, je t'explique ce qu'est l'OCR (Optical Character Recognition) et comment les machines arrivent à lire du texte à ...",
-      "url": "https://www.youtube.com/watch?v=08Qn9s6oTms",
-      "source": "Mastering AI",
-      "publishedAt": "2026-01-05T21:33:36Z",
-      "category": "tech",
+      "title": "Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)",
+      "description": "Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...",
+      "url": "https://www.youtube.com/watch?v=qKWTshE6WDI",
+      "source": "Sébastien Daviot - Expertise Data",
+      "publishedAt": "2026-02-08T07:41:39Z",
+      "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "08Qn9s6oTms",
-      "thumbnail": "https://i.ytimg.com/vi/08Qn9s6oTms/hqdefault.jpg"
+      "videoId": "qKWTshE6WDI",
+      "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
+    },
+    {
+      "title": "data-science-document-ai 1.64.1",
+      "description": "\"Document AI repo for data science\"",
+      "url": "https://pypi.org/project/data-science-document-ai/1.64.1/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-03-02T11:03:49Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Actualité : “Elles apprennent” : cet ordinateur biologique, fait de vrais neurones humains, vient de jouer à Doom",
+      "description": "Des cellules cérébrales humaines, cultivées en labo, branchées sur une puce, qui apprennent à jouer à Doom. Ce n'est pas le pitch d'un film de science-fiction : c'est ce que vient de démontrer la star...",
+      "url": "https://www.lesnumeriques.com/concept/des-neurones-humains-vivants-jouent-a-doom-et-c-est-aussi-deroutant-que-prometteur-n252191.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-03-02T05:31:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple perd le co-créateur de MLX, une brique essentielle dans l’IA",
+      "description": "Encore un départ notable chez Apple dans le domaine de l’intelligence artificielle. Awni Hannun a annoncé que le 27 février marquait son dernier jour au sein de l’entreprise. Ce chercheur a notamment ...",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/03/apple-perd-le-co-createur-de-mlx-une-brique-essentielle-dans-lia-307081",
+      "source": "MacGeneration",
+      "publishedAt": "2026-03-02T09:49:10Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Alaska : un nouveau cadre strict pour protéger les mineurs en ligne",
+      "description": "L’Alaska envisage de renforcer sa législation contre les contenus pédopornographiques créés par intelligence artificielle et d’imposer des limitations à l’utilisation des réseaux sociaux par les mineu...",
+      "url": "https://www.begeek.fr/alaska-un-nouveau-cadre-strict-pour-proteger-les-mineurs-en-ligne-428942",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-03-02T13:00:12Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Hyundai investit massivement en Corée du Sud",
+      "description": "Hyundai prépare un investissement de plusieurs milliards en Corée du Sud, axé sur l’IA, la robotique et l’hydrogène. Hyundai Motor Group s’apprête à dévoiler un [...]\nL’article Hyundai investit massiv...",
+      "url": "https://www.leblogauto.com/actualites/hyundai-investit-massivement-en-coree-du-sud/",
+      "source": "Leblogauto.com",
+      "publishedAt": "2026-03-02T13:12:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Avec 300 millions de dollars de revenus annuels, Suno s’impose comme le nouveau géant de la musique générée par IA",
+      "description": "La plateforme Suno, spécialisée dans la génération de musique par IA, vient de franchir un cap symbolique. Un seuil qui confirme l’attrait du grand public pour ces outils créatifs, tout en ravivant le...",
+      "url": "https://siecledigital.fr/2026/03/02/suno-franchit-les-2-millions-dabonnes-payants/",
+      "source": "Siècle Digital",
+      "publishedAt": "2026-03-02T13:08:43Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ultrahuman Ring Pro : cette bague connectée vient corriger le principal souci des modèles concurrents",
+      "description": "Le fabricant indien de bagues connectées Ultrahuman a dévoilé son nouvel anneau dédié au suivi de la santé, l'Ultrahuman Ring Pro, avec jusqu'à 15 jours d'autonomie et un nouvel assistant IA.",
+      "url": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/2995939_ultrahuman-ring-pro-cette-bague-connectee-vient-corriger-le-principal-souci-des-modeles-concurrents",
+      "source": "Frandroid",
+      "publishedAt": "2026-03-02T10:47:32Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }
