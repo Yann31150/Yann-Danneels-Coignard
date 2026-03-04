@@ -1,17 +1,41 @@
 {
-  "lastUpdate": "2026-03-03T13:57:51.632649",
+  "lastUpdate": "2026-03-04T08:47:18.844795",
   "articles": [
     {
-      "title": "Analyse discriminante PLS « from scratch » avec ChatGPT (Python)",
-      "description": "Machine learning. Data science. Classification supervisée. Analyse discriminante PLS, approche en deux étapes : régression ...",
-      "url": "https://www.youtube.com/watch?v=YLh5gsmOFkQ",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-02-17T16:40:13Z",
+      "title": "Actualité : La colère monte contre ChatGPT : +775 % de mauvaises notes et des désinstallations record en quelques jours",
+      "description": "Le divorce est-il consommé entre OpenAI et ses usagers ? En un seul week-end, l'application mobile de l'intelligence artificielle la plus célèbre au monde a vu son taux de suppression bondir de 295 %....",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/775-de-mauvaises-notes-en-48-h-la-colere-contre-chatgpt-explose-n252257.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-03-03T06:31:00Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "YLh5gsmOFkQ",
-      "thumbnail": "https://i.ytimg.com/vi/YLh5gsmOFkQ/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta teste le shopping par IA et se mesure à ChatGPT et Gemini dans l’e-commerce",
+      "description": "Le groupe dirigé par Mark Zuckerberg expérimente une fonctionnalité de recommandations d’achats intégrée à son chatbot Meta AI. L'objectif est de rattraper OpenAI et Google sur le terrain stratégique ...",
+      "url": "https://www.zdnet.fr/actualites/meta-teste-le-shopping-par-ia-et-se-mesure-a-chatgpt-et-gemini-dans-le-commerce-491110.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-03-03T07:51:10Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jeux d’argent en ligne : quand l’IA encourage les pratiques illicites",
+      "description": "Gains mirifiques, anonymat garanti, accès immédiat : sollicité par nos journalistes, ChatGPT, Grok, Meta AI, Gemini ou Copilot n’ont pas hésité à recommander des sites non autorisés sur les marchés eu...",
+      "url": "https://www.lalibre.be/economie/digital/2026/03/03/jeux-dargent-en-ligne-quand-lia-encourage-les-pratiques-illicites-DV5DCX26LJC45O3BOBLYBEK7ME/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-03-03T08:06:32Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Tout le monde parle d&#39;OpenClaw, personne ne comprend ce que c&#39;est",
@@ -38,6 +62,18 @@
       "thumbnail": ""
     },
     {
+      "title": "\"On est le premier club de hand au monde à le faire\" : comment l'intelligence artificielle révolutionne le recrutement des joueurs à Chambéry",
+      "description": "C'était déjà une réalité dans le football ou le basket, ça l'est désormais pour le handball. Grâce à l'intelligence artificielle, le club de Chambéry va dénicher ses joueurs et joueuses, possibles \"pé...",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/savoie/on-est-le-premier-club-de-hand-au-monde-a-le-faire-comment-l-intelligence-artificielle-revolutionne-le-recrutement-des-joueurs-a-chambery-3307737.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-03-03T05:15:02Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "iOS 27 : Apple remplacera Core ML par Core AI à la WWDC 2026",
       "description": "Apple prévoit de remplacer Core ML, son framework d’apprentissage automatique, par un nouveau framework baptisé Core AI lors de la WWDC 2026 en juin, selon Mark Gurman de Bloomberg. Ce changement s’in...",
       "url": "https://iphoneaddict.fr/post/news-424448-ios-27-apple-remplacera-core-ml-core-ai-wwdc-2026",
@@ -48,6 +84,18 @@
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "Data Analysis with Python Full Course Tutorial",
+      "description": "Data Analysis with Python Full Course Tutorial Get Ad-Free Training by becoming a member today!",
+      "url": "https://www.youtube.com/watch?v=bLDbzcHwxM4",
+      "source": "Learn Skills Daily",
+      "publishedAt": "2026-01-23T17:30:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "bLDbzcHwxM4",
+      "thumbnail": "https://i.ytimg.com/vi/bLDbzcHwxM4/hqdefault.jpg"
     },
     {
       "title": "SQL Server 2025 Installer et Configurer avec SSMS 22 | Guide Complet Pas à Pas",
@@ -74,54 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/AsNBiYCJRyk/hqdefault.jpg"
     },
     {
-      "title": "Analyse discriminante avec « discrimintools » (Python)",
-      "description": "Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...",
-      "url": "https://www.youtube.com/watch?v=NvdjH1fRRE0",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-02-16T09:53:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "NvdjH1fRRE0",
-      "thumbnail": "https://i.ytimg.com/vi/NvdjH1fRRE0/hqdefault.jpg"
-    },
-    {
-      "title": "Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp; 10 | Guide complet",
-      "description": "Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...",
-      "url": "https://www.youtube.com/watch?v=G-4DERRKrHA",
-      "source": "AntalaSoft School",
-      "publishedAt": "2026-02-25T04:31:34Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "G-4DERRKrHA",
-      "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
-    },
-    {
-      "title": "Qualcomm dévoile son modem X105, le futur de la 5G dopé à l'IA",
-      "description": "Présenté lors du Mobile World Congress 2026, le modem Qualcomm X105 profite d'une refonte architecturale pensée pour répondre aux exigences croissantes des applications d'intelligence artificielle et ...",
-      "url": "https://www.generation-nt.com/actualites/qualcomm-x105-modem-5g-ia-agentique-6g-satellite-2071698",
-      "source": "Génération NT",
-      "publishedAt": "2026-03-02T13:20:01Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "DeepSeek MHC : La Nouvelle Architecture qui RÉINVENTE l’IA (Adieu les Transformers ?) 😱🔥",
-      "description": "DeepSeek vient de briser les règles du jeu avec mHC. Alors que la Big Tech mise tout sur la force brute et les milliards de ...",
-      "url": "https://www.youtube.com/watch?v=-rFx2b3ZuXQ",
-      "source": "Nerdy Kings",
-      "publishedAt": "2026-01-03T19:35:51Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "-rFx2b3ZuXQ",
-      "thumbnail": "https://i.ytimg.com/vi/-rFx2b3ZuXQ/hqdefault.jpg"
-    },
-    {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
       "description": "Si vous passez encore vos journées à copier-coller des données dans Excel, cette vidéo va changer votre carrière. Power BI ...",
       "url": "https://www.youtube.com/watch?v=Dgm74TZPSkA",
@@ -144,18 +144,6 @@
       "isYouTube": true,
       "videoId": "kWWxN73GuUI",
       "thumbnail": "https://i.ytimg.com/vi/kWWxN73GuUI/hqdefault.jpg"
-    },
-    {
-      "title": "Formation Power BI – Projet Finance liquidité et santé financière",
-      "description": "Formation Power BI – Projet Finance liquidité et santé financière.",
-      "url": "https://www.youtube.com/watch?v=25wjb48cNf4",
-      "source": "FMC DIGITAL",
-      "publishedAt": "2026-01-10T10:29:29Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "25wjb48cNf4",
-      "thumbnail": "https://i.ytimg.com/vi/25wjb48cNf4/hqdefault.jpg"
     },
     {
       "title": "Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données",
@@ -218,11 +206,11 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
-      "title": "data-science-document-ai 1.64.1",
-      "description": "\"Document AI repo for data science\"",
-      "url": "https://pypi.org/project/data-science-document-ai/1.64.1/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-03-02T11:03:49Z",
+      "title": "Synthèse du Tableau de bord du développement durable en Provence-Alpes-Côte d'Azur_2022",
+      "description": "Le tableau de bord du développement durable a pour objectif d’éclairer la prise de décision et la mise en œuvre d’actions permettant de répondre aux défis auxquels la région Provence-Alpes-Côte d’Azur...",
+      "url": "https://www.data.gouv.fr/datasets/synthese-du-tableau-de-bord-du-developpement-durable-en-provence-alpes-cote-d-azur-2022",
+      "source": "Gouv.fr",
+      "publishedAt": "2026-03-03T00:00:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +218,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Actualité : “Elles apprennent” : cet ordinateur biologique, fait de vrais neurones humains, vient de jouer à Doom",
-      "description": "Des cellules cérébrales humaines, cultivées en labo, branchées sur une puce, qui apprennent à jouer à Doom. Ce n'est pas le pitch d'un film de science-fiction : c'est ce que vient de démontrer la star...",
-      "url": "https://www.lesnumeriques.com/concept/des-neurones-humains-vivants-jouent-a-doom-et-c-est-aussi-deroutant-que-prometteur-n252191.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-03-02T05:31:00Z",
+      "title": "Santé. Apnée du sommeil : elle peut aussi impacter votre foie !",
+      "description": "Selon une étude de l’Inserm, l’apnée du sommeil réorganise l’horloge biologique du foie et modifie les rythmes quotidiens de son activité métabolique. Selon les auteurs, ces données devraient être pri...",
+      "url": "https://www.ledauphine.com/magazine-sante/2026/03/03/l-apnee-du-sommeil-a-l-origine-d-une-desorganisation-de-nos-rythmes-circadiens",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-03-03T06:00:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "data-science-document-ai 1.64.1",
+      "description": "\"Document AI repo for data science\"",
+      "url": "https://pypi.org/project/data-science-document-ai/1.64.1/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-03-02T11:03:49Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Alaska : un nouveau cadre strict pour protéger les mineurs en ligne",
-      "description": "L’Alaska envisage de renforcer sa législation contre les contenus pédopornographiques créés par intelligence artificielle et d’imposer des limitations à l’utilisation des réseaux sociaux par les mineu...",
-      "url": "https://www.begeek.fr/alaska-un-nouveau-cadre-strict-pour-proteger-les-mineurs-en-ligne-428942",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-03-02T13:00:12Z",
+      "title": "Lenovo AI Work Companion, un concept de dock avec écran",
+      "description": "Le Lenovo AI Work Companion est un dock complet avec une fonction d'IA censée vous aider à mieux conduire votre travail au quotidien.\nLenovo AI Work Companion, un concept de dock avec écran © MiniMach...",
+      "url": "https://www.minimachines.net/actu/lenovo-ai-work-companion-dock-139761",
+      "source": "Minimachines.net",
+      "publishedAt": "2026-03-02T17:57:33Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Hyundai investit massivement en Corée du Sud",
-      "description": "Hyundai prépare un investissement de plusieurs milliards en Corée du Sud, axé sur l’IA, la robotique et l’hydrogène. Hyundai Motor Group s’apprête à dévoiler un [...]\nL’article Hyundai investit massiv...",
-      "url": "https://www.leblogauto.com/actualites/hyundai-investit-massivement-en-coree-du-sud/",
-      "source": "Leblogauto.com",
-      "publishedAt": "2026-03-02T13:12:00Z",
+      "title": "Apple annonce l’iPhone 17e avec un stockage doublé, MagSafe et plus",
+      "description": "Apple officialise aujourd’hui l’iPhone 17e, le modèle le moins cher de sa gamme. On retrouve plusieurs améliorations par rapport à l’iPhone 16e, dont la présence de MagSafe, 256 Go de stockage sur le ...",
+      "url": "https://iphoneaddict.fr/post/news-424471-apple-annonce-iphone-17e",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-03-02T14:20:22Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Avec 300 millions de dollars de revenus annuels, Suno s’impose comme le nouveau géant de la musique générée par IA",
-      "description": "La plateforme Suno, spécialisée dans la génération de musique par IA, vient de franchir un cap symbolique. Un seuil qui confirme l’attrait du grand public pour ces outils créatifs, tout en ravivant le...",
-      "url": "https://siecledigital.fr/2026/03/02/suno-franchit-les-2-millions-dabonnes-payants/",
-      "source": "Siècle Digital",
-      "publishedAt": "2026-03-02T13:08:43Z",
+      "title": "ZD Tech : votre voiture autonome saura-t-elle réagir face à un éléphant ? Voici comment Waymo s'y prépare",
+      "description": "Pour franchir un cap de sécurité, la filiale d'Alphabet vient de dévoiler son \"Waymo World Model\" : une IA révolutionnaire capable de générer des mondes virtuels d'un réalisme saisissant.",
+      "url": "https://www.zdnet.fr/actualites/zd-tech-votre-voiture-autonome-saura-t-elle-reagir-face-a-un-elephant-voici-comment-waymo-sy-prepare-490575.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-03-03T06:55:29Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Ultrahuman Ring Pro : cette bague connectée vient corriger le principal souci des modèles concurrents",
-      "description": "Le fabricant indien de bagues connectées Ultrahuman a dévoilé son nouvel anneau dédié au suivi de la santé, l'Ultrahuman Ring Pro, avec jusqu'à 15 jours d'autonomie et un nouvel assistant IA.",
-      "url": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/2995939_ultrahuman-ring-pro-cette-bague-connectee-vient-corriger-le-principal-souci-des-modeles-concurrents",
-      "source": "Frandroid",
-      "publishedAt": "2026-03-02T10:47:32Z",
+      "title": "Le fonds américain Briarwood Chase Management double sa participation dans Sidetrade et franchit les 10% du capital",
+      "description": "Sidetrade (Euronext Growth : ALBFR), entreprise d’IA dédiée à l’Order-to-Cash reconnue Leader dans le Gartner® Magic Quadrant™, annonce que Briarwood Chase Management, société d'investissement américa...",
+      "url": "https://www.globenewswire.com/news-release/2026/03/03/3248022/0/fr/Le-fonds-am%C3%A9ricain-Briarwood-Chase-Management-double-sa-participation-dans-Sidetrade-et-franchit-les-10-du-capital.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-03-03T07:16:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
