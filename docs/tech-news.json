@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-03-05T08:51:49.147117",
+  "lastUpdate": "2026-03-06T08:45:25.121974",
   "articles": [
     {
-      "title": "OpenAI sur tous les fronts : le créateur de ChatGPT préparerait un concurrent à GitHub",
-      "description": "OpenAI aurait commencé à travailler sur sa propre version de GitHub, brique centrale du développement qui est devenue encore plus essentielle à l’ère des intelligences artificielles. D’après The Infor...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/03/openai-sur-tous-les-fronts-le-createur-de-chatgpt-preparerait-un-concurrent-github-307145",
-      "source": "MacGeneration",
-      "publishedAt": "2026-03-04T08:13:17Z",
+      "title": "ChatGPT corrige enfin un gros défaut, l’IA va devenir votre clone rédactionnel",
+      "description": "OpenAI continue de peaufiner ChatGPT. L'entreprise planche actuellement sur un système de templates qui permettra au chatbot de reproduire fidèlement votre style d'écriture. Un gain de temps appréciab...",
+      "url": "https://www.tomsguide.fr/chatgpt-corrige-enfin-un-gros-defaut-lia-va-devenir-votre-clone-redactionnel/",
+      "source": "Tom's Guide",
+      "publishedAt": "2026-03-05T06:00:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -14,16 +14,28 @@
       "thumbnail": ""
     },
     {
-      "title": "Tout le monde parle d&#39;OpenClaw, personne ne comprend ce que c&#39;est",
-      "description": "OpenClaw, c'est le premier vrai agent IA open source gratuit : il ne se contente pas de répondre comme ChatGPT, il AGIT sur ...",
-      "url": "https://www.youtube.com/watch?v=MPB1H9cMh8A",
-      "source": "Shubham SHARMA",
-      "publishedAt": "2026-02-17T09:54:29Z",
+      "title": "Énergie et IA : la Maison-Blanche met la pression sur les géants de l'intelligence artificielle !",
+      "description": "Dans un geste politique fort, la Maison Blanche somme les piliers de la tech de prendre leurs responsabilités face à la gourmandise énergétique de l'intelligence artificielle.",
+      "url": "https://www.generation-nt.com/actualites/donald-trump-ia-big-tech-energie-data-center-2071907",
+      "source": "Génération NT",
+      "publishedAt": "2026-03-05T07:30:01Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "MPB1H9cMh8A",
-      "thumbnail": "https://i.ytimg.com/vi/MPB1H9cMh8A/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple Music ajoute des tags pour les musiques créées avec IA",
+      "description": "Apple propose désormais des métadonnées sur Apple Music pour que les labels signalent l’utilisation de l’intelligence artificielle dans la création musicale. C’est valable aussi bien pour la musique e...",
+      "url": "https://iphoneaddict.fr/post/news-424724-apple-music-ajoute-tags-musiques-creees-ia",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-03-05T07:23:06Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Data Analysis with Python Full Course Tutorial",
@@ -36,18 +48,6 @@
       "isYouTube": true,
       "videoId": "bLDbzcHwxM4",
       "thumbnail": "https://i.ytimg.com/vi/bLDbzcHwxM4/hqdefault.jpg"
-    },
-    {
-      "title": "SQL Server 2025 Installer et Configurer avec SSMS 22 | Guide Complet Pas à Pas",
-      "description": "Découvrez comment installer et configurer SQL Server 2025 ainsi que SQL Server Management Studio (SSMS 22) étape par ...",
-      "url": "https://www.youtube.com/watch?v=4qHt5zYZNhM",
-      "source": "Tchaps Tech",
-      "publishedAt": "2026-01-04T12:00:13Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "4qHt5zYZNhM",
-      "thumbnail": "https://i.ytimg.com/vi/4qHt5zYZNhM/hqdefault.jpg"
     },
     {
       "title": "Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)",
@@ -86,16 +86,16 @@
       "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
     },
     {
-      "title": "Le VRAI ordre d&#39;exécution SQL #sql #datascience #français",
-      "description": "Le secret est ici Tu as du mal à retenir la différence entre WHERE et HAVING ? Tu ne comprends pas pourquoi tu ne peux pas ...",
-      "url": "https://www.youtube.com/watch?v=PjUGOwDQsmk",
-      "source": "ASSA Immo",
-      "publishedAt": "2026-01-09T16:54:34Z",
+      "title": "Elon Musk relance ses grandes promesses et affirme que Tesla créera l’AGI",
+      "description": "Elon Musk a fait une nouvelle déclaration ambitieuse sur l’intelligence artificielle. Le patron de Tesla affirme que son entreprise pourrait participer à la création de l’AGI, une IA capable d’égaler....",
+      "url": "https://www.phonandroid.com/elon-musk-relance-ses-grandes-promesses-et-affirme-que-tesla-creera-lagi.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-03-04T17:03:49Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "PjUGOwDQsmk",
-      "thumbnail": "https://i.ytimg.com/vi/PjUGOwDQsmk/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine",
@@ -170,23 +170,11 @@
       "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
     },
     {
-      "title": "L’OTAN mise sur des insectes robots pour infiltrer les zones à risque",
-      "description": "Avec ses insectes cyborgs guidés par stimulation électrique, SWARM Biotactics propose une alternative biologique aux drones classiques. Une innovation militaire qui mise sur la discrétion et la reprod...",
-      "url": "https://www.journaldugeek.com/2026/03/04/lotan-mise-sur-des-insectes-robots-pour-infiltrer-les-zones-a-risque/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-03-04T08:11:13Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Anne-Briac Bili nouvelle directrice générale adjointe de l’ARS Bretagne",
-      "description": "Anne-Briac Bili a été nommée directrice générale adjointe de l’ARS Bretagne à compter du 1er mars 2026. Elle a rejoint l’ARS Bretagne en décembre 2010 comme chargée de mission sur les systèmes d’infor...",
-      "url": "https://www.lejournaldesentreprises.com/breve/anne-briac-bili-nouvelle-directrice-generale-adjointe-de-lars-bretagne-2138157",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-03-04T08:35:00Z",
+      "title": "L'IA ne vous donne pas le prix d'un bien, mais elle peut aider à l'estimer",
+      "description": "Aujourd'hui, beaucoup de propriétaires débutent leurs réflexions sur le prix de leur bien immobilier par une estimation en ligne.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1548429-l-ia-ne-vous-donne-pas-le-prix-d-un-bien-mais-elle-peut-aider-a-l-estimer/",
+      "source": "JDN",
+      "publishedAt": "2026-03-04T13:31:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,6 +206,18 @@
       "thumbnail": "https://i.ytimg.com/vi/wNyw2TN8mh0/hqdefault.jpg"
     },
     {
+      "title": "Formation SQL Pour la Data - Introduction + Installation PostgreSQL + VS Code",
+      "description": "Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...",
+      "url": "https://www.youtube.com/watch?v=6Q_fVsx4CT8",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-01-20T17:39:43Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "6Q_fVsx4CT8",
+      "thumbnail": "https://i.ytimg.com/vi/6Q_fVsx4CT8/hqdefault.jpg"
+    },
+    {
       "title": "Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)",
       "description": "Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...",
       "url": "https://www.youtube.com/watch?v=qKWTshE6WDI",
@@ -230,11 +230,11 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
-      "title": "Carte : où en sont les projets de data centers en France ?",
-      "description": "CARTE. Des milliards investis, des annonces de projets qui se chiffrent parfois en gigawatt. Mais face à des données parfois peu claires sur la construction des infrastructures derrière les IA, dont l...",
-      "url": "https://www.latribune.fr/article/tech/intelligence-artificielle/4286214792786/carte-ou-en-sont-les-projets-de-data-centers-en-france",
-      "source": "La Tribune.fr",
-      "publishedAt": "2026-03-04T05:00:02Z",
+      "title": "Voici comment la technologie Bluetooth va encore améliorer vos écoutes musicales",
+      "description": "Le groupe qui gère les normes du Bluetooth travaille sur les prochaines améliorations majeures de cette technologie sans fil. Au programme : un meilleur débit de données, de nouvelles bandes de fréque...",
+      "url": "https://www.presse-citron.net/voici-comment-la-technologie-bluetooth-va-encore-ameliorer-vos-ecoutes-musicales/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-03-05T07:30:06Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Le réseau social X réclame que les vidéos de guerre générées par IA soient mentionnées, sous peine de sanctions",
-      "description": "Le réseau social X impose désormais de signaler les vidéos de guerre générées par intelligence artificielle, alors que de faux contenus liés au conflit au Moyen-Orient circulent sur la plateforme",
-      "url": "https://www.20minutes.fr/societe/4204398-20260304-reseau-x-reclame-videos-guerre-generees-ia-mentionnees-sous-peine-sanctions",
-      "source": "20 Minutes",
-      "publishedAt": "2026-03-03T23:58:04Z",
+      "title": "L’IA en temps de guerre, du champ de bataille à la propagande",
+      "description": "Sur les théâtres d’opérations comme en ligne, l’IA réorganise la guerre autour d’un même nerf, la vitesse. Elle trie, corrèle et diffuse, au risque d’écraser la vérification humaine. L’intelligence ar...",
+      "url": "https://www.zataz.com/lia-en-temps-de-guerre-du-champ-de-bataille-a-la-propagande/",
+      "source": "Zataz.com",
+      "publishedAt": "2026-03-04T14:37:22Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "La mémoire, ce grand oublié de l’IA : VERTICAL COMPUTE lève 57 millions d’euros pour s’attaquer au “mur de la mémoire”",
-      "description": "Avec l’essor des modèles génératifs, l’intelligence artificielle est souvent décrite comme une course à la seule puissance de calcul. Les annonces d’infrastructures géantes, de clusters de GPU et de n...",
-      "url": "https://www.frenchweb.fr/la-memoire-ce-grand-oublie-de-lia-vertical-compute-leve-57-millions-deuros-pour-sattaquer-au-mur-de-la-memoire/460586",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-03-04T07:54:31Z",
+      "title": "Quand nos IA simulent une crise nucléaire, elles mentent, bluffent… et appuient sur le bouton dans 95 % des cas",
+      "description": "Des chercheurs du King's College London ont opposé GPT-5.2, Claude Sonnet 4 et Gemini 3 Flash dans un wargame nucléaire. Les résultats sont glaçants.\nL’article Quand nos IA simulent une crise nucléair...",
+      "url": "https://www.tomsguide.fr/quand-nos-ia-simulent-une-crise-nucleaire-elles-mentent-bluffent-et-appuient-sur-le-bouton-dans-95-des-cas/",
+      "source": "Tom's Guide",
+      "publishedAt": "2026-03-05T07:39:50Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Ultrahuman Ring Pro : enfin une bague connectée qui tient la distance !",
-      "description": "Ultrahuman dévoile sa nouvelle Ring Pro, une bague connectée conçue pour le suivi de la santé qui se distingue par une autonomie record de 15 jours. Livrée avec un boîtier de charge intelligent et une...",
-      "url": "https://www.generation-nt.com/actualites/ultrahuman-ring-pro-autonomie-ia-jade-bague-connectee-2071768",
-      "source": "Génération NT",
-      "publishedAt": "2026-03-03T11:40:01Z",
+      "title": "Pixel Drop de mars 2026 : Google offre à ses smartphones une mise à jour de haute volée",
+      "description": "Google n’attend pas la rentrée pour enrichir l’expérience de ses utilisateurs Pixel. La dernière vague de mises à jour, baptisée Pixel Drop, débarque ce mois-ci avec un lot de fonctionnalités aussi va...",
+      "url": "https://www.fredzone.org/pixel-drop-de-mars-2026-google-offre-a-ses-smartphones-une-mise-a-jour-de-haute-volee/",
+      "source": "FREDZONE",
+      "publishedAt": "2026-03-04T21:15:09Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Google en dit plus sur Universal Commerce Protocol (UCP), sa nouvelle norme pour un ecommerce agentique",
-      "description": "Google vient de publier un document d’aide dédiés à son nouveau Universal Commerce Protocol (UCP). Pour rappel, cette norme vise à unifier les échanges entre marchands, systèmes de paiement et agents ...",
-      "url": "https://www.abondance.com/20260304-1975985-google-en-dit-plus-sur-universal-commerce-protocol-ucp-sa-nouvelle-norme-pour-un-ecommerce-agentique.html",
-      "source": "Abondance.com",
-      "publishedAt": "2026-03-04T08:32:00Z",
+      "title": "Parce qu'on a jamais assez d'IA, au tour de Koei Tecmo de signer un partenariat allant dans le sens du vent",
+      "description": "Koei Tecmo a officialisé un partenariat stratégique (accompagné d'un investissement financier) avec la start-up SpiralAI, une jeune entreprise spécialisée dans les intelligences artificielles conversa...",
+      "url": "https://www.gamekult.com/actualite/parce-qu-on-a-jamais-assez-d-ia-au-tour-de-koei-tecmo-de-signer-un-partenariat-allant-dans-le-sens-du-vent-3050868808.html",
+      "source": "Gamekult",
+      "publishedAt": "2026-03-05T07:02:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Nouvelles sur l’IA de février 2026",
-      "description": "L’actualité du logiciel libre et des sujets voisins (DIY, Open Hardware, Open Data, les Communs, etc.), sur un site francophone contributif géré par une équipe bénévole par et pour des libristes entho...",
-      "url": "https://linuxfr.org/news/nouvelles-sur-l-ia-de-fevrier-2026",
-      "source": "Linuxfr.org",
-      "publishedAt": "2026-03-03T08:33:56Z",
+      "title": "Capgemini et McDonald’s renouvellent leur partenariat stratégique avec un accord mondial pluriannuel axé sur le déploiement de plateformes modernes et évolutives",
+      "description": "Contact presse :Martina CuccioliTel.: +1 630 689 8349E-mail: martina.cuccioli@capgemini.com   Capgemini et McDonald’s renouvellent leur partenariat...",
+      "url": "https://www.globenewswire.com/news-release/2026/03/05/3249866/0/fr/Capgemini-et-McDonald-s-renouvellent-leur-partenariat-strat%C3%A9gique-avec-un-accord-mondial-pluriannuel-ax%C3%A9-sur-le-d%C3%A9ploiement-de-plateformes-modernes-et-%C3%A9volutives.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-03-05T07:30:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
