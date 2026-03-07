@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-03-06T08:45:25.121974",
+  "lastUpdate": "2026-03-07T08:37:31.261942",
   "articles": [
     {
-      "title": "ChatGPT corrige enfin un gros défaut, l’IA va devenir votre clone rédactionnel",
-      "description": "OpenAI continue de peaufiner ChatGPT. L'entreprise planche actuellement sur un système de templates qui permettra au chatbot de reproduire fidèlement votre style d'écriture. Un gain de temps appréciab...",
-      "url": "https://www.tomsguide.fr/chatgpt-corrige-enfin-un-gros-defaut-lia-va-devenir-votre-clone-redactionnel/",
-      "source": "Tom's Guide",
-      "publishedAt": "2026-03-05T06:00:00Z",
+      "title": "Qu’est-ce que l’AGI (intelligence artificielle générale) ? Définition",
+      "description": "L’intelligence artificielle évolue rapidement depuis quelques années, notamment avec l’essor des modèles génératifs capables de produire du texte, des images ou du code. Pourtant, derrière ces avancée...",
+      "url": "https://siecledigital.fr/2026/03/05/agi-quest-ce-que-lintelligence-artificielle-generale/",
+      "source": "Siècle Digital",
+      "publishedAt": "2026-03-05T13:19:12Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -14,11 +14,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Énergie et IA : la Maison-Blanche met la pression sur les géants de l'intelligence artificielle !",
-      "description": "Dans un geste politique fort, la Maison Blanche somme les piliers de la tech de prendre leurs responsabilités face à la gourmandise énergétique de l'intelligence artificielle.",
-      "url": "https://www.generation-nt.com/actualites/donald-trump-ia-big-tech-energie-data-center-2071907",
+      "title": "GPT-5.4 d'OpenAI est là : plus performant, plus autonome et prêt pour le travail",
+      "description": "OpenAI lance GPT-5.4 dans le grand bain, son nouveau modèle d'IA phare qui se décline dans des versions Thinking et Pro. Il introduit notamment des capacités inédites de contrôle de l'ordinateur.",
+      "url": "https://www.generation-nt.com/actualites/openai-gpt-5-4-ia-agentique-chatgpt-modele-ia-2072013",
       "source": "Génération NT",
-      "publishedAt": "2026-03-05T07:30:01Z",
+      "publishedAt": "2026-03-06T08:14:57Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -26,11 +26,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Apple Music ajoute des tags pour les musiques créées avec IA",
-      "description": "Apple propose désormais des métadonnées sur Apple Music pour que les labels signalent l’utilisation de l’intelligence artificielle dans la création musicale. C’est valable aussi bien pour la musique e...",
-      "url": "https://iphoneaddict.fr/post/news-424724-apple-music-ajoute-tags-musiques-creees-ia",
-      "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-03-05T07:23:06Z",
+      "title": "Avec SermonAi, l’intelligence artificielle s’invite dans les églises",
+      "description": "Alors que le pape Léon XIV appelle à limiter son utilisation, l’intelligence artificielle se fraie désormais un chemin dans les milieux religieux, annonce l’hebdomadaire allemand “Die Zeit”. Des outil...",
+      "url": "https://www.courrierinternational.com/article/religion-avec-sermonai-l-intelligence-artificielle-s-invite-dans-les-eglises_241359",
+      "source": "Courrier International",
+      "publishedAt": "2026-03-05T17:01:31Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -38,16 +38,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Data Analysis with Python Full Course Tutorial",
-      "description": "Data Analysis with Python Full Course Tutorial Get Ad-Free Training by becoming a member today!",
-      "url": "https://www.youtube.com/watch?v=bLDbzcHwxM4",
-      "source": "Learn Skills Daily",
-      "publishedAt": "2026-01-23T17:30:06Z",
+      "title": "EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&#39;utiliser Excel !",
+      "description": "INSCRIVEZ-VOUS GRATUITEMENT AU WÉBINAIRE IA : morpheus-formation.fr/webinaire Testez votre niveau sur Excel (avec ...",
+      "url": "https://www.youtube.com/watch?v=8Vh5bmRgmlo",
+      "source": "Morpheus Formation | Excel, Sheets, Power BI",
+      "publishedAt": "2026-03-06T10:00:00Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "bLDbzcHwxM4",
-      "thumbnail": "https://i.ytimg.com/vi/bLDbzcHwxM4/hqdefault.jpg"
+      "videoId": "8Vh5bmRgmlo",
+      "thumbnail": "https://i.ytimg.com/vi/8Vh5bmRgmlo/hqdefault.jpg"
     },
     {
       "title": "Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)",
@@ -86,18 +86,6 @@
       "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
     },
     {
-      "title": "Elon Musk relance ses grandes promesses et affirme que Tesla créera l’AGI",
-      "description": "Elon Musk a fait une nouvelle déclaration ambitieuse sur l’intelligence artificielle. Le patron de Tesla affirme que son entreprise pourrait participer à la création de l’AGI, une IA capable d’égaler....",
-      "url": "https://www.phonandroid.com/elon-musk-relance-ses-grandes-promesses-et-affirme-que-tesla-creera-lagi.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-03-04T17:03:49Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine",
       "description": "Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...",
       "url": "https://www.youtube.com/watch?v=2i9u_hwq05g",
@@ -122,6 +110,18 @@
       "thumbnail": "https://i.ytimg.com/vi/kNy0VnMMP3Y/hqdefault.jpg"
     },
     {
+      "title": "Mais au fait, c’est quoi le Model Context Protocol (MCP) ?",
+      "description": "Créé par Anthropic et adopté par Google, OpenAI et bien d'autres, le protocole MCP connecte les modèles d'IA aux outils externes de votre quotidien. Décryptage.",
+      "url": "https://www.blogdumoderateur.com/model-context-protocol-mcp/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-03-06T08:25:24Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
       "description": "Si vous passez encore vos journées à copier-coller des données dans Excel, cette vidéo va changer votre carrière. Power BI ...",
       "url": "https://www.youtube.com/watch?v=Dgm74TZPSkA",
@@ -132,18 +132,6 @@
       "isYouTube": true,
       "videoId": "Dgm74TZPSkA",
       "thumbnail": "https://i.ytimg.com/vi/Dgm74TZPSkA/hqdefault.jpg"
-    },
-    {
-      "title": "Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀",
-      "description": "Bienvenue dans ce premier module de notre formation complète dédiée à la certification PL-300 : Microsoft Power BI Data Analyst ...",
-      "url": "https://www.youtube.com/watch?v=kWWxN73GuUI",
-      "source": "Centre de formation Noormed",
-      "publishedAt": "2026-02-18T12:59:31Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "kWWxN73GuUI",
-      "thumbnail": "https://i.ytimg.com/vi/kWWxN73GuUI/hqdefault.jpg"
     },
     {
       "title": "Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données",
@@ -170,11 +158,35 @@
       "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
     },
     {
-      "title": "L'IA ne vous donne pas le prix d'un bien, mais elle peut aider à l'estimer",
-      "description": "Aujourd'hui, beaucoup de propriétaires débutent leurs réflexions sur le prix de leur bien immobilier par une estimation en ligne.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1548429-l-ia-ne-vous-donne-pas-le-prix-d-un-bien-mais-elle-peut-aider-a-l-estimer/",
-      "source": "JDN",
-      "publishedAt": "2026-03-04T13:31:00Z",
+      "title": "Mavenir et Turkcell s’associent pour accélérer le déploiement de services réseau alimentés par l’IA afin de favoriser l’innovation dans le secteur des télécommunications #MWC26",
+      "description": "BARCELONE, Espagne, 05 mars 2026 (GLOBE NEWSWIRE) -- Mavenir, l’éditeur de logiciels spécialisé dans la conception de réseaux mobiles alimentés par l’IA dès la conception, et Turkcell (NYSE : TKC) (BI...",
+      "url": "https://www.globenewswire.com/news-release/2026/03/05/3250372/0/fr/Mavenir-et-Turkcell-s-associent-pour-acc%C3%A9l%C3%A9rer-le-d%C3%A9ploiement-de-services-r%C3%A9seau-aliment%C3%A9s-par-l-IA-afin-de-favoriser-l-innovation-dans-le-secteur-des-t%C3%A9l%C3%A9communications-MWC26.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-03-05T15:21:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "BioMérieux franchit le cap des 4 milliards d’euros de chiffre d’affaires en 2025",
+      "description": "bioMérieux clôt l'exercice 2025 sur une croissance modérée de son chiffre d'affaires à 4,07 milliards d'euros (+2,3 %) et une nette progression de son résultat opérationnel contributif. Mais les effet...",
+      "url": "https://www.lejournaldesentreprises.com/article/biomerieux-franchit-le-cap-des-4-milliards-deuros-de-chiffre-daffaires-en-2025-2138108",
+      "source": "Le Journal des Entreprises",
+      "publishedAt": "2026-03-06T08:35:03Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "ROBERTET INVESTIT DANS AETHERA BIOTECH, PIONNIER EUROPÉEN DES ACTIFS COSMÉTIQUES",
+      "description": "ROBERTET INVESTIT DANS AETHERA BIOTECH, PIONNIER EUROPÉEN DES ACTIFS COSMÉTIQUES  Entrée dans les biotechnologies d’origine végétale afin de soutenir la...",
+      "url": "https://www.globenewswire.com/news-release/2026/03/06/3250820/0/fr/ROBERTET-INVESTIT-DANS-AETHERA-BIOTECH-PIONNIER-EUROP%C3%89EN-DES-ACTIFS-COSM%C3%89TIQUES.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-03-06T07:55:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,23 +242,23 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
-      "title": "Voici comment la technologie Bluetooth va encore améliorer vos écoutes musicales",
-      "description": "Le groupe qui gère les normes du Bluetooth travaille sur les prochaines améliorations majeures de cette technologie sans fil. Au programme : un meilleur débit de données, de nouvelles bandes de fréque...",
-      "url": "https://www.presse-citron.net/voici-comment-la-technologie-bluetooth-va-encore-ameliorer-vos-ecoutes-musicales/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-03-05T07:30:06Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "title": "ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)",
+      "description": "Dans cette vidéo de 90 minutes, je vous apprends à utiliser ChatGPT simplement, avec des exemples concrets : comprendre ...",
+      "url": "https://www.youtube.com/watch?v=Wg9M140pduU",
+      "source": "SENIORS ET INFORMATIQUE",
+      "publishedAt": "2026-02-07T17:00:06Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Wg9M140pduU",
+      "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
     },
     {
-      "title": "L’IA en temps de guerre, du champ de bataille à la propagande",
-      "description": "Sur les théâtres d’opérations comme en ligne, l’IA réorganise la guerre autour d’un même nerf, la vitesse. Elle trie, corrèle et diffuse, au risque d’écraser la vérification humaine. L’intelligence ar...",
-      "url": "https://www.zataz.com/lia-en-temps-de-guerre-du-champ-de-bataille-a-la-propagande/",
-      "source": "Zataz.com",
-      "publishedAt": "2026-03-04T14:37:22Z",
+      "title": "Ils sont des virtuoses de l’IA et ont des photos de cadres du parti communiste à leur bureau : portrait-robot des « nouveaux riches » chinois",
+      "description": "Pour faire fortune en Chine le mieux est d’être expert en intelligence artificielle ou en robotique. En étant peu bavard, pas bling-bling et surtout fidèle aux directives du parti communiste.",
+      "url": "https://www.challenges.fr/monde/ils-sont-des-virtuoses-de-lia-et-ont-des-photos-de-cadres-du-parti-communiste-a-leur-bureau-portrait-robot-des-nouveaux-riches-chinois_641305",
+      "source": "Challenges",
+      "publishedAt": "2026-03-06T05:30:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Quand nos IA simulent une crise nucléaire, elles mentent, bluffent… et appuient sur le bouton dans 95 % des cas",
-      "description": "Des chercheurs du King's College London ont opposé GPT-5.2, Claude Sonnet 4 et Gemini 3 Flash dans un wargame nucléaire. Les résultats sont glaçants.\nL’article Quand nos IA simulent une crise nucléair...",
-      "url": "https://www.tomsguide.fr/quand-nos-ia-simulent-une-crise-nucleaire-elles-mentent-bluffent-et-appuient-sur-le-bouton-dans-95-des-cas/",
-      "source": "Tom's Guide",
-      "publishedAt": "2026-03-05T07:39:50Z",
+      "title": "Où l'intelligence artificielle mène-t-elle le monde? C'est la grande inconnue",
+      "description": "Les frappes sur l'Iran ont fait passer provisoirement l'IA au second plan de l'actualité économique et financière, mais le sujet ne va pas tarder à ressurgir. L'équation comporte beaucoup d'inconnues ...",
+      "url": "https://www.slate.fr/economie/intelligence-artificielle-mene-monde-grande-inconnue-ia-doutes-avenir-menaces-bourse-emploi-ethique-humains-technologie",
+      "source": "Slate.fr",
+      "publishedAt": "2026-03-06T05:55:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Pixel Drop de mars 2026 : Google offre à ses smartphones une mise à jour de haute volée",
-      "description": "Google n’attend pas la rentrée pour enrichir l’expérience de ses utilisateurs Pixel. La dernière vague de mises à jour, baptisée Pixel Drop, débarque ce mois-ci avec un lot de fonctionnalités aussi va...",
-      "url": "https://www.fredzone.org/pixel-drop-de-mars-2026-google-offre-a-ses-smartphones-une-mise-a-jour-de-haute-volee/",
-      "source": "FREDZONE",
-      "publishedAt": "2026-03-04T21:15:09Z",
+      "title": "Soitec sécurise un accord pluriannuel avec l'américain Skyworks Solutions",
+      "description": "Le fabricant de matériaux semi-conducteurs Soitec (2300 salariés ; 891M€ de CA) a signé un accord pluriannuel avec le fabricant américain de semi-conducteurs Skyworks Solutions pour la fourniture de p...",
+      "url": "https://www.lejournaldesentreprises.com/breve/soitec-securise-un-accord-pluriannuel-avec-lamericain-skyworks-solutions-2138373",
+      "source": "Le Journal des Entreprises",
+      "publishedAt": "2026-03-06T08:10:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,23 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Parce qu'on a jamais assez d'IA, au tour de Koei Tecmo de signer un partenariat allant dans le sens du vent",
-      "description": "Koei Tecmo a officialisé un partenariat stratégique (accompagné d'un investissement financier) avec la start-up SpiralAI, une jeune entreprise spécialisée dans les intelligences artificielles conversa...",
-      "url": "https://www.gamekult.com/actualite/parce-qu-on-a-jamais-assez-d-ia-au-tour-de-koei-tecmo-de-signer-un-partenariat-allant-dans-le-sens-du-vent-3050868808.html",
-      "source": "Gamekult",
-      "publishedAt": "2026-03-05T07:02:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Capgemini et McDonald’s renouvellent leur partenariat stratégique avec un accord mondial pluriannuel axé sur le déploiement de plateformes modernes et évolutives",
-      "description": "Contact presse :Martina CuccioliTel.: +1 630 689 8349E-mail: martina.cuccioli@capgemini.com   Capgemini et McDonald’s renouvellent leur partenariat...",
-      "url": "https://www.globenewswire.com/news-release/2026/03/05/3249866/0/fr/Capgemini-et-McDonald-s-renouvellent-leur-partenariat-strat%C3%A9gique-avec-un-accord-mondial-pluriannuel-ax%C3%A9-sur-le-d%C3%A9ploiement-de-plateformes-modernes-et-%C3%A9volutives.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-03-05T07:30:00Z",
+      "title": "Une nouvelle génération de startups européennes construit l’infrastructure de confiance",
+      "description": "La sécurité numérique a longtemps été pensée comme une couche défensive ajoutée aux systèmes informatiques : antivirus, pare-feu, systèmes de détection d’intrusion. Si ce modèle reste indispensable, i...",
+      "url": "https://www.frenchweb.fr/une-nouvelle-generation-de-startups-europeennes-construit-linfrastructure-de-confiance/460627",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-03-06T04:18:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
