@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 07 Mar 2026 08:37:31 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 08:37:43 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,28 +13,20 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Qu’est-ce que l’AGI (intelligence artificielle générale) ? Définition</title>
-            <link>https://siecledigital.fr/2026/03/05/agi-quest-ce-que-lintelligence-artificielle-generale/</link>
-            <description><![CDATA[L’intelligence artificielle évolue rapidement depuis quelques années, notamment avec l’essor des modèles génératifs capables de produire du texte, des images ou du code. Pourtant, derrière ces avancée...]]></description>
-            <pubDate>Thu, 05 Mar 2026 13:19:12 -0000</pubDate>
-            <guid isPermaLink="true">https://siecledigital.fr/2026/03/05/agi-quest-ce-que-lintelligence-artificielle-generale/</guid>
-            <source>Siècle Digital</source>
+            <title>LLM</title>
+            <link>https://www.futura-sciences.com/tech/definitions/intelligence-artificielle-llm-28404/</link>
+            <description><![CDATA[Le succès de ChatGPT, de Claude, de Gemini ou DeepSeek a attiré l’attention sur le type de technologie qui soutient ces chatbots d’IA : les LLM | Large Language Models - grands modèles de langage.Les ...]]></description>
+            <pubDate>Sat, 07 Mar 2026 07:00:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/tech/definitions/intelligence-artificielle-llm-28404/</guid>
+            <source>Futura</source>
         </item>
         <item>
-            <title>GPT-5.4 d'OpenAI est là : plus performant, plus autonome et prêt pour le travail</title>
-            <link>https://www.generation-nt.com/actualites/openai-gpt-5-4-ia-agentique-chatgpt-modele-ia-2072013</link>
-            <description><![CDATA[OpenAI lance GPT-5.4 dans le grand bain, son nouveau modèle d'IA phare qui se décline dans des versions Thinking et Pro. Il introduit notamment des capacités inédites de contrôle de l'ordinateur.]]></description>
-            <pubDate>Fri, 06 Mar 2026 08:14:57 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/openai-gpt-5-4-ia-agentique-chatgpt-modele-ia-2072013</guid>
-            <source>Génération NT</source>
-        </item>
-        <item>
-            <title>Avec SermonAi, l’intelligence artificielle s’invite dans les églises</title>
-            <link>https://www.courrierinternational.com/article/religion-avec-sermonai-l-intelligence-artificielle-s-invite-dans-les-eglises_241359</link>
-            <description><![CDATA[Alors que le pape Léon XIV appelle à limiter son utilisation, l’intelligence artificielle se fraie désormais un chemin dans les milieux religieux, annonce l’hebdomadaire allemand “Die Zeit”. Des outil...]]></description>
-            <pubDate>Thu, 05 Mar 2026 17:01:31 -0000</pubDate>
-            <guid isPermaLink="true">https://www.courrierinternational.com/article/religion-avec-sermonai-l-intelligence-artificielle-s-invite-dans-les-eglises_241359</guid>
-            <source>Courrier International</source>
+            <title>Intelligence artificielle : quand les États-Unis sabotent leur propre champion face à DeepSeek</title>
+            <link>https://www.numerama.com/cyberguerre/2195541-intelligence-artificielle-quand-les-etats-unis-sabotent-leur-propre-champion-face-a-deepseek.html</link>
+            <description><![CDATA[En classant Anthropic comme un risque pour la chaîne d’approvisionnement des États-Unis, le Pentagone prend une décision sans précédent contre une entreprise américaine d’intelligence artificielle. Ce...]]></description>
+            <pubDate>Fri, 06 Mar 2026 15:39:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/cyberguerre/2195541-intelligence-artificielle-quand-les-etats-unis-sabotent-leur-propre-champion-face-a-deepseek.html</guid>
+            <source>Numerama</source>
         </item>
         <item>
             <title>EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&amp;#39;utiliser Excel !</title>
@@ -85,12 +77,20 @@
             <source>Enogne School</source>
         </item>
         <item>
-            <title>Mais au fait, c’est quoi le Model Context Protocol (MCP) ?</title>
-            <link>https://www.blogdumoderateur.com/model-context-protocol-mcp/</link>
-            <description><![CDATA[Créé par Anthropic et adopté par Google, OpenAI et bien d'autres, le protocole MCP connecte les modèles d'IA aux outils externes de votre quotidien. Décryptage.]]></description>
-            <pubDate>Fri, 06 Mar 2026 08:25:24 -0000</pubDate>
-            <guid isPermaLink="true">https://www.blogdumoderateur.com/model-context-protocol-mcp/</guid>
-            <source>Blogdumoderateur.com</source>
+            <title>Google est Dépassé ? 9 Navigateurs IA pour Débutants en 2026</title>
+            <link>https://www.youtube.com/watch?v=YL53jm4ZQCA</link>
+            <description><![CDATA[PROMESSE &amp; RÉSULTAT : Marre de passer des heures à chercher une information sans être sûr de sa fiabilité ? Découvrez ...]]></description>
+            <pubDate>Mon, 02 Mar 2026 15:30:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=YL53jm4ZQCA</guid>
+            <source>Simple&Gratuit</source>
+        </item>
+        <item>
+            <title>Tout comprendre sur l&amp;#39;IA en quelques minutes ! 🚀</title>
+            <link>https://www.youtube.com/watch?v=QtFcvYNu3KQ</link>
+            <description><![CDATA[Démystifions ensemble l'Intelligence Artificielle ! Vous en entendez parler partout, mais savez-vous vraiment ce qu'elle est et ...]]></description>
+            <pubDate>Sat, 07 Feb 2026 12:34:56 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=QtFcvYNu3KQ</guid>
+            <source>HHSA Agency</source>
         </item>
         <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
@@ -99,6 +99,14 @@
             <pubDate>Mon, 09 Feb 2026 05:36:43 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Dgm74TZPSkA</guid>
             <source>EasyExcelQuery</source>
+        </item>
+        <item>
+            <title>En Colombie, une candidate IA amérindienne pour “mettre le Congrès entre les mains du peuple”</title>
+            <link>https://www.courrierinternational.com/article/legislatives-en-colombie-une-candidate-ia-amerindienne-pour-mettre-le-congres-entre-les-mains-du-peuple_241303</link>
+            <description><![CDATA[Une intelligence artificielle appelée “Gaitana” se présente aux élections législatives colombiennes pour représenter les peuples autochtones. Derrière l’avatar à la peau bleue se trouve un projet ambi...]]></description>
+            <pubDate>Fri, 06 Mar 2026 10:30:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.courrierinternational.com/article/legislatives-en-colombie-une-candidate-ia-amerindienne-pour-mettre-le-congres-entre-les-mains-du-peuple_241303</guid>
+            <source>Courrier International</source>
         </item>
         <item>
             <title>Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données</title>
@@ -115,30 +123,6 @@
             <pubDate>Fri, 09 Jan 2026 21:03:38 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=saGefucxol4</guid>
             <source>Oscar Aksanti</source>
-        </item>
-        <item>
-            <title>Mavenir et Turkcell s’associent pour accélérer le déploiement de services réseau alimentés par l’IA afin de favoriser l’innovation dans le secteur des télécommunications #MWC26</title>
-            <link>https://www.globenewswire.com/news-release/2026/03/05/3250372/0/fr/Mavenir-et-Turkcell-s-associent-pour-acc%C3%A9l%C3%A9rer-le-d%C3%A9ploiement-de-services-r%C3%A9seau-aliment%C3%A9s-par-l-IA-afin-de-favoriser-l-innovation-dans-le-secteur-des-t%C3%A9l%C3%A9communications-MWC26.html</link>
-            <description><![CDATA[BARCELONE, Espagne, 05 mars 2026 (GLOBE NEWSWIRE) -- Mavenir, l’éditeur de logiciels spécialisé dans la conception de réseaux mobiles alimentés par l’IA dès la conception, et Turkcell (NYSE : TKC) (BI...]]></description>
-            <pubDate>Thu, 05 Mar 2026 15:21:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/03/05/3250372/0/fr/Mavenir-et-Turkcell-s-associent-pour-acc%C3%A9l%C3%A9rer-le-d%C3%A9ploiement-de-services-r%C3%A9seau-aliment%C3%A9s-par-l-IA-afin-de-favoriser-l-innovation-dans-le-secteur-des-t%C3%A9l%C3%A9communications-MWC26.html</guid>
-            <source>GlobeNewswire</source>
-        </item>
-        <item>
-            <title>BioMérieux franchit le cap des 4 milliards d’euros de chiffre d’affaires en 2025</title>
-            <link>https://www.lejournaldesentreprises.com/article/biomerieux-franchit-le-cap-des-4-milliards-deuros-de-chiffre-daffaires-en-2025-2138108</link>
-            <description><![CDATA[bioMérieux clôt l'exercice 2025 sur une croissance modérée de son chiffre d'affaires à 4,07 milliards d'euros (+2,3 %) et une nette progression de son résultat opérationnel contributif. Mais les effet...]]></description>
-            <pubDate>Fri, 06 Mar 2026 08:35:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/article/biomerieux-franchit-le-cap-des-4-milliards-deuros-de-chiffre-daffaires-en-2025-2138108</guid>
-            <source>Le Journal des Entreprises</source>
-        </item>
-        <item>
-            <title>ROBERTET INVESTIT DANS AETHERA BIOTECH, PIONNIER EUROPÉEN DES ACTIFS COSMÉTIQUES</title>
-            <link>https://www.globenewswire.com/news-release/2026/03/06/3250820/0/fr/ROBERTET-INVESTIT-DANS-AETHERA-BIOTECH-PIONNIER-EUROP%C3%89EN-DES-ACTIFS-COSM%C3%89TIQUES.html</link>
-            <description><![CDATA[ROBERTET INVESTIT DANS AETHERA BIOTECH, PIONNIER EUROPÉEN DES ACTIFS COSMÉTIQUES  Entrée dans les biotechnologies d’origine végétale afin de soutenir la...]]></description>
-            <pubDate>Fri, 06 Mar 2026 07:55:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/03/06/3250820/0/fr/ROBERTET-INVESTIT-DANS-AETHERA-BIOTECH-PIONNIER-EUROP%C3%89EN-DES-ACTIFS-COSM%C3%89TIQUES.html</guid>
-            <source>GlobeNewswire</source>
         </item>
         <item>
             <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
@@ -171,6 +155,22 @@
             <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
             <source>Sébastien Daviot - Expertise Data</source>
+        </item>
+        <item>
+            <title>Bitdefender applique une méga promo sur son antivirus pour Mac</title>
+            <link>https://www.iphon.fr/post/bitdefender-antivirus-mac-promotions</link>
+            <description><![CDATA[Sécurisez vos données en ligne avec l'un des meilleurs antivirus du marché, pour une bouchée de pain.]]></description>
+            <pubDate>Sat, 07 Mar 2026 07:12:57 -0000</pubDate>
+            <guid isPermaLink="true">https://www.iphon.fr/post/bitdefender-antivirus-mac-promotions</guid>
+            <source>Iphon.fr</source>
+        </item>
+        <item>
+            <title>L'IA détruit bien des emplois… mais pas pour les raisons que vous croyez</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1548539-l-ia-detruit-bien-des-emplois-mais-pas-pour-les-raisons-que-vous-croyez/</link>
+            <description><![CDATA[Oracle est la dernière entreprise de la tech américaine à licencier massivement à cause de l'IA. Cependant, l'objectif n'est pas de remplacer ses salariés par des machines, mais d'économiser pour comp...]]></description>
+            <pubDate>Fri, 06 Mar 2026 15:01:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1548539-l-ia-detruit-bien-des-emplois-mais-pas-pour-les-raisons-que-vous-croyez/</guid>
+            <source>JDN</source>
         </item>
     </channel>
 </rss>

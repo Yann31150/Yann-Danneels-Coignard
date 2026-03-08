@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-03-07T08:37:31.261942",
+  "lastUpdate": "2026-03-08T08:37:43.100441",
   "articles": [
     {
-      "title": "Qu’est-ce que l’AGI (intelligence artificielle générale) ? Définition",
-      "description": "L’intelligence artificielle évolue rapidement depuis quelques années, notamment avec l’essor des modèles génératifs capables de produire du texte, des images ou du code. Pourtant, derrière ces avancée...",
-      "url": "https://siecledigital.fr/2026/03/05/agi-quest-ce-que-lintelligence-artificielle-generale/",
-      "source": "Siècle Digital",
-      "publishedAt": "2026-03-05T13:19:12Z",
+      "title": "LLM",
+      "description": "Le succès de ChatGPT, de Claude, de Gemini ou DeepSeek a attiré l’attention sur le type de technologie qui soutient ces chatbots d’IA : les LLM | Large Language Models - grands modèles de langage.Les ...",
+      "url": "https://www.futura-sciences.com/tech/definitions/intelligence-artificielle-llm-28404/",
+      "source": "Futura",
+      "publishedAt": "2026-03-07T07:00:01Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -14,23 +14,11 @@
       "thumbnail": ""
     },
     {
-      "title": "GPT-5.4 d'OpenAI est là : plus performant, plus autonome et prêt pour le travail",
-      "description": "OpenAI lance GPT-5.4 dans le grand bain, son nouveau modèle d'IA phare qui se décline dans des versions Thinking et Pro. Il introduit notamment des capacités inédites de contrôle de l'ordinateur.",
-      "url": "https://www.generation-nt.com/actualites/openai-gpt-5-4-ia-agentique-chatgpt-modele-ia-2072013",
-      "source": "Génération NT",
-      "publishedAt": "2026-03-06T08:14:57Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Avec SermonAi, l’intelligence artificielle s’invite dans les églises",
-      "description": "Alors que le pape Léon XIV appelle à limiter son utilisation, l’intelligence artificielle se fraie désormais un chemin dans les milieux religieux, annonce l’hebdomadaire allemand “Die Zeit”. Des outil...",
-      "url": "https://www.courrierinternational.com/article/religion-avec-sermonai-l-intelligence-artificielle-s-invite-dans-les-eglises_241359",
-      "source": "Courrier International",
-      "publishedAt": "2026-03-05T17:01:31Z",
+      "title": "Intelligence artificielle : quand les États-Unis sabotent leur propre champion face à DeepSeek",
+      "description": "En classant Anthropic comme un risque pour la chaîne d’approvisionnement des États-Unis, le Pentagone prend une décision sans précédent contre une entreprise américaine d’intelligence artificielle. Ce...",
+      "url": "https://www.numerama.com/cyberguerre/2195541-intelligence-artificielle-quand-les-etats-unis-sabotent-leur-propre-champion-face-a-deepseek.html",
+      "source": "Numerama",
+      "publishedAt": "2026-03-06T15:39:15Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -110,16 +98,28 @@
       "thumbnail": "https://i.ytimg.com/vi/kNy0VnMMP3Y/hqdefault.jpg"
     },
     {
-      "title": "Mais au fait, c’est quoi le Model Context Protocol (MCP) ?",
-      "description": "Créé par Anthropic et adopté par Google, OpenAI et bien d'autres, le protocole MCP connecte les modèles d'IA aux outils externes de votre quotidien. Décryptage.",
-      "url": "https://www.blogdumoderateur.com/model-context-protocol-mcp/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-03-06T08:25:24Z",
+      "title": "Google est Dépassé ? 9 Navigateurs IA pour Débutants en 2026",
+      "description": "PROMESSE & RÉSULTAT : Marre de passer des heures à chercher une information sans être sûr de sa fiabilité ? Découvrez ...",
+      "url": "https://www.youtube.com/watch?v=YL53jm4ZQCA",
+      "source": "Simple&Gratuit",
+      "publishedAt": "2026-03-02T15:30:18Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "YL53jm4ZQCA",
+      "thumbnail": "https://i.ytimg.com/vi/YL53jm4ZQCA/hqdefault.jpg"
+    },
+    {
+      "title": "Tout comprendre sur l&#39;IA en quelques minutes ! 🚀",
+      "description": "Démystifions ensemble l'Intelligence Artificielle ! Vous en entendez parler partout, mais savez-vous vraiment ce qu'elle est et ...",
+      "url": "https://www.youtube.com/watch?v=QtFcvYNu3KQ",
+      "source": "HHSA Agency",
+      "publishedAt": "2026-02-07T12:34:56Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "QtFcvYNu3KQ",
+      "thumbnail": "https://i.ytimg.com/vi/QtFcvYNu3KQ/hqdefault.jpg"
     },
     {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
@@ -132,6 +132,18 @@
       "isYouTube": true,
       "videoId": "Dgm74TZPSkA",
       "thumbnail": "https://i.ytimg.com/vi/Dgm74TZPSkA/hqdefault.jpg"
+    },
+    {
+      "title": "En Colombie, une candidate IA amérindienne pour “mettre le Congrès entre les mains du peuple”",
+      "description": "Une intelligence artificielle appelée “Gaitana” se présente aux élections législatives colombiennes pour représenter les peuples autochtones. Derrière l’avatar à la peau bleue se trouve un projet ambi...",
+      "url": "https://www.courrierinternational.com/article/legislatives-en-colombie-une-candidate-ia-amerindienne-pour-mettre-le-congres-entre-les-mains-du-peuple_241303",
+      "source": "Courrier International",
+      "publishedAt": "2026-03-06T10:30:31Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données",
@@ -156,42 +168,6 @@
       "isYouTube": true,
       "videoId": "saGefucxol4",
       "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
-    },
-    {
-      "title": "Mavenir et Turkcell s’associent pour accélérer le déploiement de services réseau alimentés par l’IA afin de favoriser l’innovation dans le secteur des télécommunications #MWC26",
-      "description": "BARCELONE, Espagne, 05 mars 2026 (GLOBE NEWSWIRE) -- Mavenir, l’éditeur de logiciels spécialisé dans la conception de réseaux mobiles alimentés par l’IA dès la conception, et Turkcell (NYSE : TKC) (BI...",
-      "url": "https://www.globenewswire.com/news-release/2026/03/05/3250372/0/fr/Mavenir-et-Turkcell-s-associent-pour-acc%C3%A9l%C3%A9rer-le-d%C3%A9ploiement-de-services-r%C3%A9seau-aliment%C3%A9s-par-l-IA-afin-de-favoriser-l-innovation-dans-le-secteur-des-t%C3%A9l%C3%A9communications-MWC26.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-03-05T15:21:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "BioMérieux franchit le cap des 4 milliards d’euros de chiffre d’affaires en 2025",
-      "description": "bioMérieux clôt l'exercice 2025 sur une croissance modérée de son chiffre d'affaires à 4,07 milliards d'euros (+2,3 %) et une nette progression de son résultat opérationnel contributif. Mais les effet...",
-      "url": "https://www.lejournaldesentreprises.com/article/biomerieux-franchit-le-cap-des-4-milliards-deuros-de-chiffre-daffaires-en-2025-2138108",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-03-06T08:35:03Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "ROBERTET INVESTIT DANS AETHERA BIOTECH, PIONNIER EUROPÉEN DES ACTIFS COSMÉTIQUES",
-      "description": "ROBERTET INVESTIT DANS AETHERA BIOTECH, PIONNIER EUROPÉEN DES ACTIFS COSMÉTIQUES  Entrée dans les biotechnologies d’origine végétale afin de soutenir la...",
-      "url": "https://www.globenewswire.com/news-release/2026/03/06/3250820/0/fr/ROBERTET-INVESTIT-DANS-AETHERA-BIOTECH-PIONNIER-EUROP%C3%89EN-DES-ACTIFS-COSM%C3%89TIQUES.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-03-06T07:55:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Introduction à Positron: VSCode + RStudio pour la data science",
@@ -242,6 +218,30 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
+      "title": "Bitdefender applique une méga promo sur son antivirus pour Mac",
+      "description": "Sécurisez vos données en ligne avec l'un des meilleurs antivirus du marché, pour une bouchée de pain.",
+      "url": "https://www.iphon.fr/post/bitdefender-antivirus-mac-promotions",
+      "source": "Iphon.fr",
+      "publishedAt": "2026-03-07T07:12:57Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L'IA détruit bien des emplois… mais pas pour les raisons que vous croyez",
+      "description": "Oracle est la dernière entreprise de la tech américaine à licencier massivement à cause de l'IA. Cependant, l'objectif n'est pas de remplacer ses salariés par des machines, mais d'économiser pour comp...",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1548539-l-ia-detruit-bien-des-emplois-mais-pas-pour-les-raisons-que-vous-croyez/",
+      "source": "JDN",
+      "publishedAt": "2026-03-06T15:01:39Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)",
       "description": "Dans cette vidéo de 90 minutes, je vous apprends à utiliser ChatGPT simplement, avec des exemples concrets : comprendre ...",
       "url": "https://www.youtube.com/watch?v=Wg9M140pduU",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
     },
     {
-      "title": "Ils sont des virtuoses de l’IA et ont des photos de cadres du parti communiste à leur bureau : portrait-robot des « nouveaux riches » chinois",
-      "description": "Pour faire fortune en Chine le mieux est d’être expert en intelligence artificielle ou en robotique. En étant peu bavard, pas bling-bling et surtout fidèle aux directives du parti communiste.",
-      "url": "https://www.challenges.fr/monde/ils-sont-des-virtuoses-de-lia-et-ont-des-photos-de-cadres-du-parti-communiste-a-leur-bureau-portrait-robot-des-nouveaux-riches-chinois_641305",
-      "source": "Challenges",
-      "publishedAt": "2026-03-06T05:30:00Z",
+      "title": "Cinq astuces pour utiliser l’IA sans délaisser ses neurones",
+      "description": "Limiter l’usage de l’intelligence artificielle à certains contextes et interroger les réponses qu’elle fournit permet de ne pas abandonner certaines de ses aptitudes cognitives en chemin.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/03/07/cinq-astuces-pour-utiliser-l-ia-sans-delaisser-ses-neurones_6669858_4408996.html",
+      "source": "Le Monde",
+      "publishedAt": "2026-03-07T05:00:19Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Où l'intelligence artificielle mène-t-elle le monde? C'est la grande inconnue",
-      "description": "Les frappes sur l'Iran ont fait passer provisoirement l'IA au second plan de l'actualité économique et financière, mais le sujet ne va pas tarder à ressurgir. L'équation comporte beaucoup d'inconnues ...",
-      "url": "https://www.slate.fr/economie/intelligence-artificielle-mene-monde-grande-inconnue-ia-doutes-avenir-menaces-bourse-emploi-ethique-humains-technologie",
+      "title": "L'IA en route vers un krach historique? Un ex-patron de Goldman Sachs tire la sonnette d'alarme",
+      "description": "Face aux investissements records observés dans le domaine de l'intelligence artificielle, l'expert financier Lloyd Blankfein redoute une bulle spéculative et voit dans l'emballement actuel les prémice...",
+      "url": "https://www.slate.fr/economie/intelligence-artificielle-krash-boursier-risque-alarme-ancien-goldman-sachs-finance",
       "source": "Slate.fr",
-      "publishedAt": "2026-03-06T05:55:01Z",
+      "publishedAt": "2026-03-07T05:55:03Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Soitec sécurise un accord pluriannuel avec l'américain Skyworks Solutions",
-      "description": "Le fabricant de matériaux semi-conducteurs Soitec (2300 salariés ; 891M€ de CA) a signé un accord pluriannuel avec le fabricant américain de semi-conducteurs Skyworks Solutions pour la fourniture de p...",
-      "url": "https://www.lejournaldesentreprises.com/breve/soitec-securise-un-accord-pluriannuel-avec-lamericain-skyworks-solutions-2138373",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-03-06T08:10:00Z",
+      "title": "IA, drones, lasers à haute intensité : ce déferlement de nouveautés High Tech qui se joue dans la guerre en Iran",
+      "description": "Le conflit en Iran révèle une mutation profonde des pratiques militaires. Entre essaims de drones, intelligence artificielle et nouvelles armes comme les lasers ou les avions furtifs, le champ de bata...",
+      "url": "https://atlantico.fr/article/decryptage/ia-drones-lasers-a-haute-intensite-ce-deferlement-de-nouveautes-high-tech-qui-se-joue-dans-la-guerre-en-iran",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-03-07T07:24:20Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Une nouvelle génération de startups européennes construit l’infrastructure de confiance",
-      "description": "La sécurité numérique a longtemps été pensée comme une couche défensive ajoutée aux systèmes informatiques : antivirus, pare-feu, systèmes de détection d’intrusion. Si ce modèle reste indispensable, i...",
-      "url": "https://www.frenchweb.fr/une-nouvelle-generation-de-startups-europeennes-construit-linfrastructure-de-confiance/460627",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-03-06T04:18:00Z",
+      "title": "Actualité : Volvo lance une ceinture de sécurité avec IA pour sauver plus de vies",
+      "description": "Volvo a présenté la première ceinture de sécurité boostée à l'IA au monde. Le constructeur suédois l'a dévoilée sur son nouveau SUV électrique EX60. On parle d'une ceinture qui utilise l'IA pour adapt...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/volvo-lance-une-ceinture-de-securite-avec-ia-pour-sauver-plus-de-vies-n252504.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-03-06T20:45:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
