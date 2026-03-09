@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-03-08T08:37:43.100441",
+  "lastUpdate": "2026-03-09T08:52:32.294119",
   "articles": [
     {
       "title": "LLM",
@@ -14,11 +14,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Intelligence artificielle : quand les États-Unis sabotent leur propre champion face à DeepSeek",
-      "description": "En classant Anthropic comme un risque pour la chaîne d’approvisionnement des États-Unis, le Pentagone prend une décision sans précédent contre une entreprise américaine d’intelligence artificielle. Ce...",
-      "url": "https://www.numerama.com/cyberguerre/2195541-intelligence-artificielle-quand-les-etats-unis-sabotent-leur-propre-champion-face-a-deepseek.html",
-      "source": "Numerama",
-      "publishedAt": "2026-03-06T15:39:15Z",
+      "title": "États-Unis : l’intelligence artificielle pour faire la guerre, avantage tactique ou risque éthique ?",
+      "description": "Une offensive massive a frappé l'Iran en 12 heures grâce à l'intelligence artificielle. Drones autonomes, analyse de milliers de données, hiérarchisation des cibles : l'IA transforme la guerre, mais s...",
+      "url": "https://www.franceinfo.fr/monde/usa/etats-unis-l-intelligence-artificielle-pour-faire-la-guerre-avantage-tactique-ou-risque-ethique_7852526.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-03-07T21:10:20Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -98,28 +98,28 @@
       "thumbnail": "https://i.ytimg.com/vi/kNy0VnMMP3Y/hqdefault.jpg"
     },
     {
-      "title": "Google est Dépassé ? 9 Navigateurs IA pour Débutants en 2026",
-      "description": "PROMESSE & RÉSULTAT : Marre de passer des heures à chercher une information sans être sûr de sa fiabilité ? Découvrez ...",
-      "url": "https://www.youtube.com/watch?v=YL53jm4ZQCA",
-      "source": "Simple&Gratuit",
-      "publishedAt": "2026-03-02T15:30:18Z",
+      "title": "Ce modèle IA chinois bat GPT-5 (et il est gratuit)",
+      "description": "Apprenez l'IA sous toutes ses formes et rejoignez la communauté VISION IA ! https://vision-ia.teachizy.fr/formations/formation-ia?",
+      "url": "https://www.youtube.com/watch?v=Ei6bSuHYJOM",
+      "source": "Vision IA",
+      "publishedAt": "2026-02-01T08:27:20Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "YL53jm4ZQCA",
-      "thumbnail": "https://i.ytimg.com/vi/YL53jm4ZQCA/hqdefault.jpg"
+      "videoId": "Ei6bSuHYJOM",
+      "thumbnail": "https://i.ytimg.com/vi/Ei6bSuHYJOM/hqdefault.jpg"
     },
     {
-      "title": "Tout comprendre sur l&#39;IA en quelques minutes ! 🚀",
-      "description": "Démystifions ensemble l'Intelligence Artificielle ! Vous en entendez parler partout, mais savez-vous vraiment ce qu'elle est et ...",
-      "url": "https://www.youtube.com/watch?v=QtFcvYNu3KQ",
-      "source": "HHSA Agency",
-      "publishedAt": "2026-02-07T12:34:56Z",
+      "title": "Z : Cette IA Gratuite Fait Tout Ce Qu&#39;on Demande !",
+      "description": "LE GUIDE SUNO VISUEL INTERACTIF ENFIN DISPONIBLE https://barthelemynobili.formator.io/... Plateformes ...",
+      "url": "https://www.youtube.com/watch?v=Lk0nJc168gY",
+      "source": "Barthélémy Nobili",
+      "publishedAt": "2026-01-30T19:16:36Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "QtFcvYNu3KQ",
-      "thumbnail": "https://i.ytimg.com/vi/QtFcvYNu3KQ/hqdefault.jpg"
+      "videoId": "Lk0nJc168gY",
+      "thumbnail": "https://i.ytimg.com/vi/Lk0nJc168gY/hqdefault.jpg"
     },
     {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
@@ -134,16 +134,16 @@
       "thumbnail": "https://i.ytimg.com/vi/Dgm74TZPSkA/hqdefault.jpg"
     },
     {
-      "title": "En Colombie, une candidate IA amérindienne pour “mettre le Congrès entre les mains du peuple”",
-      "description": "Une intelligence artificielle appelée “Gaitana” se présente aux élections législatives colombiennes pour représenter les peuples autochtones. Derrière l’avatar à la peau bleue se trouve un projet ambi...",
-      "url": "https://www.courrierinternational.com/article/legislatives-en-colombie-une-candidate-ia-amerindienne-pour-mettre-le-congres-entre-les-mains-du-peuple_241303",
-      "source": "Courrier International",
-      "publishedAt": "2026-03-06T10:30:31Z",
+      "title": "Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀",
+      "description": "Bienvenue dans ce premier module de notre formation complète dédiée à la certification PL-300 : Microsoft Power BI Data Analyst ...",
+      "url": "https://www.youtube.com/watch?v=kWWxN73GuUI",
+      "source": "Centre de formation Noormed",
+      "publishedAt": "2026-02-18T12:59:31Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "kWWxN73GuUI",
+      "thumbnail": "https://i.ytimg.com/vi/kWWxN73GuUI/hqdefault.jpg"
     },
     {
       "title": "Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données",
@@ -230,11 +230,11 @@
       "thumbnail": ""
     },
     {
-      "title": "L'IA détruit bien des emplois… mais pas pour les raisons que vous croyez",
-      "description": "Oracle est la dernière entreprise de la tech américaine à licencier massivement à cause de l'IA. Cependant, l'objectif n'est pas de remplacer ses salariés par des machines, mais d'économiser pour comp...",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1548539-l-ia-detruit-bien-des-emplois-mais-pas-pour-les-raisons-que-vous-croyez/",
-      "source": "JDN",
-      "publishedAt": "2026-03-06T15:01:39Z",
+      "title": "L’astéroïde dévié par la Nasa lors d’un exercice a (légèrement) changé d’orbite autour du Soleil, et c’est énorme",
+      "description": "Dimorphos avait été volontairement percuté par une sonde de la Nasa en 2022 afin de tester une manœuvre de déviation d’orbite au cas où un astéroïde menace un jour la Terre",
+      "url": "https://www.20minutes.fr/high-tech/sciences/4205015-20260307-asteroide-devie-nasa-lors-exercice-legerement-change-orbite-autour-soleil-enorme",
+      "source": "20 Minutes",
+      "publishedAt": "2026-03-07T10:22:10Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
     },
     {
-      "title": "Cinq astuces pour utiliser l’IA sans délaisser ses neurones",
-      "description": "Limiter l’usage de l’intelligence artificielle à certains contextes et interroger les réponses qu’elle fournit permet de ne pas abandonner certaines de ses aptitudes cognitives en chemin.",
-      "url": "https://www.lemonde.fr/pixels/article/2026/03/07/cinq-astuces-pour-utiliser-l-ia-sans-delaisser-ses-neurones_6669858_4408996.html",
-      "source": "Le Monde",
-      "publishedAt": "2026-03-07T05:00:19Z",
+      "title": "NVIDIA GTC : la conférence où l’industrie de l’IA se donne rendez-vous",
+      "description": "Chaque année, la conférence NVIDIA GTC constitue l’un des moments où l’industrie technologique mondiale observe l’évolution de l’infrastructure qui alimente l’intelligence artificielle. Organisé par N...",
+      "url": "https://www.frenchweb.fr/nvidia-gtc-la-conference-ou-lindustrie-de-lia-se-donne-rendez-vous/460650",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-03-08T05:46:48Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "L'IA en route vers un krach historique? Un ex-patron de Goldman Sachs tire la sonnette d'alarme",
-      "description": "Face aux investissements records observés dans le domaine de l'intelligence artificielle, l'expert financier Lloyd Blankfein redoute une bulle spéculative et voit dans l'emballement actuel les prémice...",
-      "url": "https://www.slate.fr/economie/intelligence-artificielle-krash-boursier-risque-alarme-ancien-goldman-sachs-finance",
-      "source": "Slate.fr",
-      "publishedAt": "2026-03-07T05:55:03Z",
+      "title": "Carrefour, L'Oréal, Cdiscount : ces directeurs IA au cœur de la transformation des géants du commerce",
+      "description": "Les directeurs data se sont vu attribuer une nouvelle casquette, celle de responsable de l’intelligence artificielle. Déjà historiquement dans leur parc de compétences, les sujets IA ont revêtu une au...",
+      "url": "https://www.lsa-conso.fr/carrefour-l-oreal-cdiscount-ces-directeurs-ia-au-c-ur-de-la-transformation-des-geants-du-commerce,464639",
+      "source": "LSA",
+      "publishedAt": "2026-03-08T06:27:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,23 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "IA, drones, lasers à haute intensité : ce déferlement de nouveautés High Tech qui se joue dans la guerre en Iran",
-      "description": "Le conflit en Iran révèle une mutation profonde des pratiques militaires. Entre essaims de drones, intelligence artificielle et nouvelles armes comme les lasers ou les avions furtifs, le champ de bata...",
-      "url": "https://atlantico.fr/article/decryptage/ia-drones-lasers-a-haute-intensite-ce-deferlement-de-nouveautes-high-tech-qui-se-joue-dans-la-guerre-en-iran",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-03-07T07:24:20Z",
+      "title": "Loom-X : Combien peut rapporter un contrat de 1 000$ en 3 mois ? #BusinessEnLigne #Opportunité2026",
+      "description": "RevenusEnLigne #BusinessEnLigne #Opportunité2026 Découvrez LoomX, la plateforme quantitative décentralisée qui ...",
+      "url": "https://www.youtube.com/watch?v=hYUk-U8G08k",
+      "source": "Tekki en Ligne",
+      "publishedAt": "2026-01-09T09:38:16Z",
       "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "hYUk-U8G08k",
+      "thumbnail": "https://i.ytimg.com/vi/hYUk-U8G08k/hqdefault.jpg"
     },
     {
-      "title": "Actualité : Volvo lance une ceinture de sécurité avec IA pour sauver plus de vies",
-      "description": "Volvo a présenté la première ceinture de sécurité boostée à l'IA au monde. Le constructeur suédois l'a dévoilée sur son nouveau SUV électrique EX60. On parle d'une ceinture qui utilise l'IA pour adapt...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/volvo-lance-une-ceinture-de-securite-avec-ia-pour-sauver-plus-de-vies-n252504.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-03-06T20:45:00Z",
+      "title": "Quelles sont les pistes pour sécuriser le détroit d'Ormuz, où plusieurs pétroliers ont été frappés par l'Iran ?",
+      "description": "Depuis une semaine, Téhéran multiplie les attaques contre les navires circulant dans cet étroit bras de mer où transite près de 20% de la production mondiale de pétrole, suscitant l'inquiétude sur un ...",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/quelles-sont-les-pistes-pour-securiser-le-detroit-d-ormuz-ou-plusieurs-petroliers-ont-ete-frappes-par-l-iran_7851887.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-03-08T06:12:40Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
