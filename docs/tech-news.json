@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-03-09T08:52:32.294119",
+  "lastUpdate": "2026-03-10T08:51:51.256334",
   "articles": [
     {
-      "title": "LLM",
-      "description": "Le succès de ChatGPT, de Claude, de Gemini ou DeepSeek a attiré l’attention sur le type de technologie qui soutient ces chatbots d’IA : les LLM | Large Language Models - grands modèles de langage.Les ...",
-      "url": "https://www.futura-sciences.com/tech/definitions/intelligence-artificielle-llm-28404/",
-      "source": "Futura",
-      "publishedAt": "2026-03-07T07:00:01Z",
+      "title": "Les fronts du futur avec les Agentic-Driven Interfaces",
+      "description": "Ne plus se limiter à des interfaces textuelles ou à des images pour interagir avec l'intelligence artificielle ? Les Agents Drive Interface sont là pour une intégration native des LLMs dans nos applic...",
+      "url": "https://blog.octo.com/les-fronts-du-futur-avec-les-agentic-driven-interfaces",
+      "source": "Octo.com",
+      "publishedAt": "2026-03-09T08:06:10Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -14,11 +14,23 @@
       "thumbnail": ""
     },
     {
-      "title": "États-Unis : l’intelligence artificielle pour faire la guerre, avantage tactique ou risque éthique ?",
-      "description": "Une offensive massive a frappé l'Iran en 12 heures grâce à l'intelligence artificielle. Drones autonomes, analyse de milliers de données, hiérarchisation des cibles : l'IA transforme la guerre, mais s...",
-      "url": "https://www.franceinfo.fr/monde/usa/etats-unis-l-intelligence-artificielle-pour-faire-la-guerre-avantage-tactique-ou-risque-ethique_7852526.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-03-07T21:10:20Z",
+      "title": "Analyse discriminante PLS « from scratch » avec ChatGPT (Python)",
+      "description": "Machine learning. Data science. Classification supervisée. Analyse discriminante PLS, approche en deux étapes : régression ...",
+      "url": "https://www.youtube.com/watch?v=YLh5gsmOFkQ",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-02-17T16:40:13Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "YLh5gsmOFkQ",
+      "thumbnail": "https://i.ytimg.com/vi/YLh5gsmOFkQ/hqdefault.jpg"
+    },
+    {
+      "title": "Evo 2 : l'intelligence artificielle peut désormais concevoir des génomes fonctionnels...jusqu'à la vie ?",
+      "description": "Une intelligence artificielle est désormais capable non seulement de lire le code génétique, mais aussi de l'écrire à une échelle qui rivalise avec la complexité de certains organismes vivants.",
+      "url": "https://www.generation-nt.com/actualites/ia-genomique-evo-2-adn-synthetique-nvidia-2071951",
+      "source": "Génération NT",
+      "publishedAt": "2026-03-08T15:30:01Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -74,6 +86,18 @@
       "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
     },
     {
+      "title": "Bennett Miller, un cinéaste piqué au vif par l’intelligence artificielle",
+      "description": "Lors d’un entretien en visioconférence accordé au « Monde », le réalisateur américain explique son intérêt précoce pour l’IA et estime que « la vie telle que nous la connaissons sera bientôt considéré...",
+      "url": "https://www.lemonde.fr/culture/article/2026/03/08/bennett-miller-un-cineaste-pique-au-vif-par-l-intelligence-artificielle_6669972_3246.html",
+      "source": "Le Monde",
+      "publishedAt": "2026-03-08T09:00:05Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine",
       "description": "Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...",
       "url": "https://www.youtube.com/watch?v=2i9u_hwq05g",
@@ -98,30 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/kNy0VnMMP3Y/hqdefault.jpg"
     },
     {
-      "title": "Ce modèle IA chinois bat GPT-5 (et il est gratuit)",
-      "description": "Apprenez l'IA sous toutes ses formes et rejoignez la communauté VISION IA ! https://vision-ia.teachizy.fr/formations/formation-ia?",
-      "url": "https://www.youtube.com/watch?v=Ei6bSuHYJOM",
-      "source": "Vision IA",
-      "publishedAt": "2026-02-01T08:27:20Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Ei6bSuHYJOM",
-      "thumbnail": "https://i.ytimg.com/vi/Ei6bSuHYJOM/hqdefault.jpg"
-    },
-    {
-      "title": "Z : Cette IA Gratuite Fait Tout Ce Qu&#39;on Demande !",
-      "description": "LE GUIDE SUNO VISUEL INTERACTIF ENFIN DISPONIBLE https://barthelemynobili.formator.io/... Plateformes ...",
-      "url": "https://www.youtube.com/watch?v=Lk0nJc168gY",
-      "source": "Barthélémy Nobili",
-      "publishedAt": "2026-01-30T19:16:36Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Lk0nJc168gY",
-      "thumbnail": "https://i.ytimg.com/vi/Lk0nJc168gY/hqdefault.jpg"
-    },
-    {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
       "description": "Si vous passez encore vos journées à copier-coller des données dans Excel, cette vidéo va changer votre carrière. Power BI ...",
       "url": "https://www.youtube.com/watch?v=Dgm74TZPSkA",
@@ -144,18 +144,6 @@
       "isYouTube": true,
       "videoId": "kWWxN73GuUI",
       "thumbnail": "https://i.ytimg.com/vi/kWWxN73GuUI/hqdefault.jpg"
-    },
-    {
-      "title": "Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données",
-      "description": "Bienvenue dans ce cours complet et gratuit sur les statistiques (Version 2026) ! En seulement 5 heures, vous allez maîtriser les ...",
-      "url": "https://www.youtube.com/watch?v=N5jYvSw6PgI",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-01-08T18:32:30Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "N5jYvSw6PgI",
-      "thumbnail": "https://i.ytimg.com/vi/N5jYvSw6PgI/hqdefault.jpg"
     },
     {
       "title": "Excel pour l’Analyse des Données — Cours Complet (10h) | Gratuit + Certificat (2026)",
@@ -218,11 +206,23 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
-      "title": "Bitdefender applique une méga promo sur son antivirus pour Mac",
-      "description": "Sécurisez vos données en ligne avec l'un des meilleurs antivirus du marché, pour une bouchée de pain.",
-      "url": "https://www.iphon.fr/post/bitdefender-antivirus-mac-promotions",
-      "source": "Iphon.fr",
-      "publishedAt": "2026-03-07T07:12:57Z",
+      "title": "Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro",
+      "description": "Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...",
+      "url": "https://www.youtube.com/watch?v=8EXbMYHL8xw",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-01-31T08:46:46Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "8EXbMYHL8xw",
+      "thumbnail": "https://i.ytimg.com/vi/8EXbMYHL8xw/hqdefault.jpg"
+    },
+    {
+      "title": "Chaque lycéenne devrait rencontrer deux femmes scientifiques avant de choisir sa voie",
+      "description": "Encore faut-il ne pas demander à ces femmes de le faire gratuitement, estime, dans cette tribune, la chercheuse Lauriane Mouysset pour qui il manque un dispositif qui ne fasse pas reposer la solution ...",
+      "url": "https://www.nouvelobs.com/opinions/20260308.OBS112998/chaque-lyceenne-devrait-rencontrer-deux-femmes-scientifiques-avant-de-choisir-sa-voie.html",
+      "source": "L'Obs",
+      "publishedAt": "2026-03-08T08:00:05Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +230,11 @@
       "thumbnail": ""
     },
     {
-      "title": "L’astéroïde dévié par la Nasa lors d’un exercice a (légèrement) changé d’orbite autour du Soleil, et c’est énorme",
-      "description": "Dimorphos avait été volontairement percuté par une sonde de la Nasa en 2022 afin de tester une manœuvre de déviation d’orbite au cas où un astéroïde menace un jour la Terre",
-      "url": "https://www.20minutes.fr/high-tech/sciences/4205015-20260307-asteroide-devie-nasa-lors-exercice-legerement-change-orbite-autour-soleil-enorme",
-      "source": "20 Minutes",
-      "publishedAt": "2026-03-07T10:22:10Z",
+      "title": "Cécité, droits des femmes et biologie",
+      "description": "L’actualité du logiciel libre et des sujets voisins (DIY, Open Hardware, Open Data, les Communs, etc.), sur un site francophone contributif géré par une équipe bénévole par et pour des libristes entho...",
+      "url": "https://linuxfr.org/news/cecite-droits-des-femmes-et-biologie",
+      "source": "Linuxfr.org",
+      "publishedAt": "2026-03-08T13:44:21Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Carrefour, L'Oréal, Cdiscount : ces directeurs IA au cœur de la transformation des géants du commerce",
-      "description": "Les directeurs data se sont vu attribuer une nouvelle casquette, celle de responsable de l’intelligence artificielle. Déjà historiquement dans leur parc de compétences, les sujets IA ont revêtu une au...",
-      "url": "https://www.lsa-conso.fr/carrefour-l-oreal-cdiscount-ces-directeurs-ia-au-c-ur-de-la-transformation-des-geants-du-commerce,464639",
-      "source": "LSA",
-      "publishedAt": "2026-03-08T06:27:00Z",
+      "title": "IA : les établissements d'enseignement secondaire et supérieur doivent sans délai encadrer les usages autorisés de l'intelligence artificielle par les étudiants.",
+      "description": "Une étudiante de la Sorbonne a fait rédiger son mémoire de fin d'étude par une IA. Faute de règles préalables précisant les modalités d'utilisation acceptables par l'université, un tribunal lui a donn...",
+      "url": "https://www.franceinfo.fr/replay-radio/nouveau-monde/ia-les-etablissements-d-enseignement-secondaire-et-superieur-doivent-sans-delai-encadrer-les-usages-autorises-de-l-intelligence-artificielle-par-les-etudiants_7794104.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-03-08T17:00:02Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "NotebookLM : Guide complet sur l’assistant de recherche IA de Google",
+      "description": "NotebookLM est un outil d’intelligence artificielle conçu pour aider à analyser des documents, synthétiser des informations et générer différents types de contenus. Développé par Google, cet assistant...",
+      "url": "https://www.aruco.com/intelligence-artificielle/notebooklm-google-guide-complet/",
+      "source": "Aruco.com",
+      "publishedAt": "2026-03-08T19:32:42Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -288,18 +300,6 @@
       "isYouTube": true,
       "videoId": "hYUk-U8G08k",
       "thumbnail": "https://i.ytimg.com/vi/hYUk-U8G08k/hqdefault.jpg"
-    },
-    {
-      "title": "Quelles sont les pistes pour sécuriser le détroit d'Ormuz, où plusieurs pétroliers ont été frappés par l'Iran ?",
-      "description": "Depuis une semaine, Téhéran multiplie les attaques contre les navires circulant dans cet étroit bras de mer où transite près de 20% de la production mondiale de pétrole, suscitant l'inquiétude sur un ...",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/quelles-sont-les-pistes-pour-securiser-le-detroit-d-ormuz-ou-plusieurs-petroliers-ont-ete-frappes-par-l-iran_7851887.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-03-08T06:12:40Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     }
   ]
 }

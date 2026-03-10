@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 09 Mar 2026 08:52:32 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 08:51:51 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,28 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>LLM</title>
-            <link>https://www.futura-sciences.com/tech/definitions/intelligence-artificielle-llm-28404/</link>
-            <description><![CDATA[Le succès de ChatGPT, de Claude, de Gemini ou DeepSeek a attiré l’attention sur le type de technologie qui soutient ces chatbots d’IA : les LLM | Large Language Models - grands modèles de langage.Les ...]]></description>
-            <pubDate>Sat, 07 Mar 2026 07:00:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/tech/definitions/intelligence-artificielle-llm-28404/</guid>
-            <source>Futura</source>
+            <title>Les fronts du futur avec les Agentic-Driven Interfaces</title>
+            <link>https://blog.octo.com/les-fronts-du-futur-avec-les-agentic-driven-interfaces</link>
+            <description><![CDATA[Ne plus se limiter à des interfaces textuelles ou à des images pour interagir avec l'intelligence artificielle ? Les Agents Drive Interface sont là pour une intégration native des LLMs dans nos applic...]]></description>
+            <pubDate>Mon, 09 Mar 2026 08:06:10 -0000</pubDate>
+            <guid isPermaLink="true">https://blog.octo.com/les-fronts-du-futur-avec-les-agentic-driven-interfaces</guid>
+            <source>Octo.com</source>
         </item>
         <item>
-            <title>États-Unis : l’intelligence artificielle pour faire la guerre, avantage tactique ou risque éthique ?</title>
-            <link>https://www.franceinfo.fr/monde/usa/etats-unis-l-intelligence-artificielle-pour-faire-la-guerre-avantage-tactique-ou-risque-ethique_7852526.html</link>
-            <description><![CDATA[Une offensive massive a frappé l'Iran en 12 heures grâce à l'intelligence artificielle. Drones autonomes, analyse de milliers de données, hiérarchisation des cibles : l'IA transforme la guerre, mais s...]]></description>
-            <pubDate>Sat, 07 Mar 2026 21:10:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/monde/usa/etats-unis-l-intelligence-artificielle-pour-faire-la-guerre-avantage-tactique-ou-risque-ethique_7852526.html</guid>
-            <source>Franceinfo.fr</source>
+            <title>Analyse discriminante PLS « from scratch » avec ChatGPT (Python)</title>
+            <link>https://www.youtube.com/watch?v=YLh5gsmOFkQ</link>
+            <description><![CDATA[Machine learning. Data science. Classification supervisée. Analyse discriminante PLS, approche en deux étapes : régression ...]]></description>
+            <pubDate>Tue, 17 Feb 2026 16:40:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=YLh5gsmOFkQ</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Evo 2 : l'intelligence artificielle peut désormais concevoir des génomes fonctionnels...jusqu'à la vie ?</title>
+            <link>https://www.generation-nt.com/actualites/ia-genomique-evo-2-adn-synthetique-nvidia-2071951</link>
+            <description><![CDATA[Une intelligence artificielle est désormais capable non seulement de lire le code génétique, mais aussi de l'écrire à une échelle qui rivalise avec la complexité de certains organismes vivants.]]></description>
+            <pubDate>Sun, 08 Mar 2026 15:30:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/ia-genomique-evo-2-adn-synthetique-nvidia-2071951</guid>
+            <source>Génération NT</source>
         </item>
         <item>
             <title>EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&amp;#39;utiliser Excel !</title>
@@ -61,6 +69,14 @@
             <source>AntalaSoft School</source>
         </item>
         <item>
+            <title>Bennett Miller, un cinéaste piqué au vif par l’intelligence artificielle</title>
+            <link>https://www.lemonde.fr/culture/article/2026/03/08/bennett-miller-un-cineaste-pique-au-vif-par-l-intelligence-artificielle_6669972_3246.html</link>
+            <description><![CDATA[Lors d’un entretien en visioconférence accordé au « Monde », le réalisateur américain explique son intérêt précoce pour l’IA et estime que « la vie telle que nous la connaissons sera bientôt considéré...]]></description>
+            <pubDate>Sun, 08 Mar 2026 09:00:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lemonde.fr/culture/article/2026/03/08/bennett-miller-un-cineaste-pique-au-vif-par-l-intelligence-artificielle_6669972_3246.html</guid>
+            <source>Le Monde</source>
+        </item>
+        <item>
             <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
             <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
             <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
@@ -77,22 +93,6 @@
             <source>Enogne School</source>
         </item>
         <item>
-            <title>Ce modèle IA chinois bat GPT-5 (et il est gratuit)</title>
-            <link>https://www.youtube.com/watch?v=Ei6bSuHYJOM</link>
-            <description><![CDATA[Apprenez l'IA sous toutes ses formes et rejoignez la communauté VISION IA ! https://vision-ia.teachizy.fr/formations/formation-ia?]]></description>
-            <pubDate>Sun, 01 Feb 2026 08:27:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Ei6bSuHYJOM</guid>
-            <source>Vision IA</source>
-        </item>
-        <item>
-            <title>Z : Cette IA Gratuite Fait Tout Ce Qu&amp;#39;on Demande !</title>
-            <link>https://www.youtube.com/watch?v=Lk0nJc168gY</link>
-            <description><![CDATA[LE GUIDE SUNO VISUEL INTERACTIF ENFIN DISPONIBLE https://barthelemynobili.formator.io/... Plateformes ...]]></description>
-            <pubDate>Fri, 30 Jan 2026 19:16:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Lk0nJc168gY</guid>
-            <source>Barthélémy Nobili</source>
-        </item>
-        <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
             <link>https://www.youtube.com/watch?v=Dgm74TZPSkA</link>
             <description><![CDATA[Si vous passez encore vos journées à copier-coller des données dans Excel, cette vidéo va changer votre carrière. Power BI ...]]></description>
@@ -107,14 +107,6 @@
             <pubDate>Wed, 18 Feb 2026 12:59:31 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=kWWxN73GuUI</guid>
             <source>Centre de formation Noormed</source>
-        </item>
-        <item>
-            <title>Statistiques — Formation Complète 2026 (5h) pour l’Analyse de Données</title>
-            <link>https://www.youtube.com/watch?v=N5jYvSw6PgI</link>
-            <description><![CDATA[Bienvenue dans ce cours complet et gratuit sur les statistiques (Version 2026) ! En seulement 5 heures, vous allez maîtriser les ...]]></description>
-            <pubDate>Thu, 08 Jan 2026 18:32:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=N5jYvSw6PgI</guid>
-            <source>Oscar Aksanti</source>
         </item>
         <item>
             <title>Excel pour l’Analyse des Données — Cours Complet (10h) | Gratuit + Certificat (2026)</title>
@@ -157,20 +149,28 @@
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>Bitdefender applique une méga promo sur son antivirus pour Mac</title>
-            <link>https://www.iphon.fr/post/bitdefender-antivirus-mac-promotions</link>
-            <description><![CDATA[Sécurisez vos données en ligne avec l'un des meilleurs antivirus du marché, pour une bouchée de pain.]]></description>
-            <pubDate>Sat, 07 Mar 2026 07:12:57 -0000</pubDate>
-            <guid isPermaLink="true">https://www.iphon.fr/post/bitdefender-antivirus-mac-promotions</guid>
-            <source>Iphon.fr</source>
+            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
+            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
+            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
+            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
+            <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>L’astéroïde dévié par la Nasa lors d’un exercice a (légèrement) changé d’orbite autour du Soleil, et c’est énorme</title>
-            <link>https://www.20minutes.fr/high-tech/sciences/4205015-20260307-asteroide-devie-nasa-lors-exercice-legerement-change-orbite-autour-soleil-enorme</link>
-            <description><![CDATA[Dimorphos avait été volontairement percuté par une sonde de la Nasa en 2022 afin de tester une manœuvre de déviation d’orbite au cas où un astéroïde menace un jour la Terre]]></description>
-            <pubDate>Sat, 07 Mar 2026 10:22:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.20minutes.fr/high-tech/sciences/4205015-20260307-asteroide-devie-nasa-lors-exercice-legerement-change-orbite-autour-soleil-enorme</guid>
-            <source>20 Minutes</source>
+            <title>Chaque lycéenne devrait rencontrer deux femmes scientifiques avant de choisir sa voie</title>
+            <link>https://www.nouvelobs.com/opinions/20260308.OBS112998/chaque-lyceenne-devrait-rencontrer-deux-femmes-scientifiques-avant-de-choisir-sa-voie.html</link>
+            <description><![CDATA[Encore faut-il ne pas demander à ces femmes de le faire gratuitement, estime, dans cette tribune, la chercheuse Lauriane Mouysset pour qui il manque un dispositif qui ne fasse pas reposer la solution ...]]></description>
+            <pubDate>Sun, 08 Mar 2026 08:00:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.nouvelobs.com/opinions/20260308.OBS112998/chaque-lyceenne-devrait-rencontrer-deux-femmes-scientifiques-avant-de-choisir-sa-voie.html</guid>
+            <source>L'Obs</source>
+        </item>
+        <item>
+            <title>Cécité, droits des femmes et biologie</title>
+            <link>https://linuxfr.org/news/cecite-droits-des-femmes-et-biologie</link>
+            <description><![CDATA[L’actualité du logiciel libre et des sujets voisins (DIY, Open Hardware, Open Data, les Communs, etc.), sur un site francophone contributif géré par une équipe bénévole par et pour des libristes entho...]]></description>
+            <pubDate>Sun, 08 Mar 2026 13:44:21 -0000</pubDate>
+            <guid isPermaLink="true">https://linuxfr.org/news/cecite-droits-des-femmes-et-biologie</guid>
+            <source>Linuxfr.org</source>
         </item>
     </channel>
 </rss>
