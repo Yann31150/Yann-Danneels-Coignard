@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 10 Mar 2026 08:51:51 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 08:51:07 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Les fronts du futur avec les Agentic-Driven Interfaces</title>
-            <link>https://blog.octo.com/les-fronts-du-futur-avec-les-agentic-driven-interfaces</link>
-            <description><![CDATA[Ne plus se limiter à des interfaces textuelles ou à des images pour interagir avec l'intelligence artificielle ? Les Agents Drive Interface sont là pour une intégration native des LLMs dans nos applic...]]></description>
-            <pubDate>Mon, 09 Mar 2026 08:06:10 -0000</pubDate>
-            <guid isPermaLink="true">https://blog.octo.com/les-fronts-du-futur-avec-les-agentic-driven-interfaces</guid>
-            <source>Octo.com</source>
+            <title>“La plus forte croissance en termes de visites” : ce concurrent est en train de rattraper ChatGPT (le trafic augmente de 643,58 %)</title>
+            <link>https://www.presse-citron.net/croissance-visites-concurrent-rattraper-chatgpt-trafic/</link>
+            <description><![CDATA[On savait déjà que l’utilisation de Gemini avait fortement grimpé grâce à Nano Banana et Gemini 3. Mais désormais, on a une idée plus précise de la croissance de l’IA de Google au cours des 12 dernier...]]></description>
+            <pubDate>Tue, 10 Mar 2026 07:39:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/croissance-visites-concurrent-rattraper-chatgpt-trafic/</guid>
+            <source>Presse-citron</source>
         </item>
         <item>
             <title>Analyse discriminante PLS « from scratch » avec ChatGPT (Python)</title>
@@ -29,12 +29,28 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Evo 2 : l'intelligence artificielle peut désormais concevoir des génomes fonctionnels...jusqu'à la vie ?</title>
-            <link>https://www.generation-nt.com/actualites/ia-genomique-evo-2-adn-synthetique-nvidia-2071951</link>
-            <description><![CDATA[Une intelligence artificielle est désormais capable non seulement de lire le code génétique, mais aussi de l'écrire à une échelle qui rivalise avec la complexité de certains organismes vivants.]]></description>
-            <pubDate>Sun, 08 Mar 2026 15:30:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/ia-genomique-evo-2-adn-synthetique-nvidia-2071951</guid>
-            <source>Génération NT</source>
+            <title>Analyse de données avec Orange</title>
+            <link>https://www.youtube.com/watch?v=hw8TiHABNLc</link>
+            <description><![CDATA[Orange Data Mining : Analyse de données &amp; Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...]]></description>
+            <pubDate>Thu, 29 Jan 2026 16:09:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=hw8TiHABNLc</guid>
+            <source>Ardy Fanny Nell REBOUKA REBOUKA</source>
+        </item>
+        <item>
+            <title>Un athlète ukrainien gagne une médaille olympique et remercie ChatGPT : « depuis six mois, je m’entraîne avec l’IA »</title>
+            <link>https://www.presse-citron.net/un-athlete-ukrainien-gagne-une-medaille-olympique-et-remercie-chatgpt-depuis-six-mois-je-mentraine-avec-lia/</link>
+            <description><![CDATA[Il a insisté sur le rôle du chatbot dans sa réussite.]]></description>
+            <pubDate>Tue, 10 Mar 2026 08:45:58 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/un-athlete-ukrainien-gagne-une-medaille-olympique-et-remercie-chatgpt-depuis-six-mois-je-mentraine-avec-lia/</guid>
+            <source>Presse-citron</source>
+        </item>
+        <item>
+            <title>IA : Yann Le Cun, le « cerveau » français qui vaut 3 milliards et fait trembler les géants de la Silicon Valley​​​​​​​</title>
+            <link>https://www.challenges.fr/entreprise/tech-numerique/ia-yann-le-cun-le-cerveau-francais-qui-vaut-3-milliards-et-fait-trembler-les-geants-de-la-silicon-valley_641569</link>
+            <description><![CDATA[Forte d’une levée de 890 millions d’euros annoncée ce mardi 10 mars, la start-up d’intelligence artificielle du français Yann Le Cun, AMI Labs, sera valorisée trois milliards d’euros. De quoi permettr...]]></description>
+            <pubDate>Tue, 10 Mar 2026 07:53:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.challenges.fr/entreprise/tech-numerique/ia-yann-le-cun-le-cerveau-francais-qui-vaut-3-milliards-et-fait-trembler-les-geants-de-la-silicon-valley_641569</guid>
+            <source>Challenges</source>
         </item>
         <item>
             <title>EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&amp;#39;utiliser Excel !</title>
@@ -69,28 +85,12 @@
             <source>AntalaSoft School</source>
         </item>
         <item>
-            <title>Bennett Miller, un cinéaste piqué au vif par l’intelligence artificielle</title>
-            <link>https://www.lemonde.fr/culture/article/2026/03/08/bennett-miller-un-cineaste-pique-au-vif-par-l-intelligence-artificielle_6669972_3246.html</link>
-            <description><![CDATA[Lors d’un entretien en visioconférence accordé au « Monde », le réalisateur américain explique son intérêt précoce pour l’IA et estime que « la vie telle que nous la connaissons sera bientôt considéré...]]></description>
-            <pubDate>Sun, 08 Mar 2026 09:00:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lemonde.fr/culture/article/2026/03/08/bennett-miller-un-cineaste-pique-au-vif-par-l-intelligence-artificielle_6669972_3246.html</guid>
-            <source>Le Monde</source>
-        </item>
-        <item>
-            <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
-            <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
-            <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
-            <pubDate>Fri, 13 Feb 2026 23:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2i9u_hwq05g</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Pourquoi les télécoms ne peuvent plus se passer de la Data Science – Chike Odenigbo</title>
-            <link>https://www.youtube.com/watch?v=kNy0VnMMP3Y</link>
-            <description><![CDATA[Dans ce second podcast, Ekué a eu le plaisir de discuter avec Chike Odenigbo qui est un expert en data science dans le domaine ...]]></description>
-            <pubDate>Fri, 27 Feb 2026 23:01:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=kNy0VnMMP3Y</guid>
-            <source>Enogne School</source>
+            <title>Immobilier : pourquoi les data centers attisent l’appétit des investisseurs</title>
+            <link>https://www.challenges.fr/immobilier/immobilier-pourquoi-les-data-centers-attisent-lappetit-des-investisseurs_641517</link>
+            <description><![CDATA[Ces sites se développent à grande vitesse, portés par les forts investissements dans l’intelligence artificielle (IA). Géants ou plus modestes, ce sont des actifs rentables et stables.]]></description>
+            <pubDate>Tue, 10 Mar 2026 08:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.challenges.fr/immobilier/immobilier-pourquoi-les-data-centers-attisent-lappetit-des-investisseurs_641517</guid>
+            <source>Challenges</source>
         </item>
         <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
@@ -109,20 +109,20 @@
             <source>Centre de formation Noormed</source>
         </item>
         <item>
-            <title>Excel pour l’Analyse des Données — Cours Complet (10h) | Gratuit + Certificat (2026)</title>
-            <link>https://www.youtube.com/watch?v=saGefucxol4</link>
-            <description><![CDATA[Bienvenue dans ce cours complet et gratuit sur Microsoft Excel pour l'Analyse des Données (Version 2026) ! En 10 heures, vous ...]]></description>
-            <pubDate>Fri, 09 Jan 2026 21:03:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=saGefucxol4</guid>
-            <source>Oscar Aksanti</source>
+            <title>Comment devenir Data Analyst en 2026 ?</title>
+            <link>https://www.youtube.com/watch?v=VdXrxU5woJI</link>
+            <description><![CDATA[Découvrez le métier de Data Analyst et son rôle essentiel dans l'analyse de données. Apprenez les compétences requises et les ...]]></description>
+            <pubDate>Sun, 18 Jan 2026 10:00:48 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=VdXrxU5woJI</guid>
+            <source>Wild Code School</source>
         </item>
         <item>
-            <title>Introduction à Positron: VSCode + RStudio pour la data science</title>
-            <link>https://www.youtube.com/watch?v=gcbiOQCR-O8</link>
-            <description><![CDATA[Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...]]></description>
-            <pubDate>Fri, 09 Jan 2026 17:01:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=gcbiOQCR-O8</guid>
-            <source>WeData</source>
+            <title>Introduction aux Window Functions en SQL : comprendre OVER, ORDER BY et PARTITION BY</title>
+            <link>https://www.youtube.com/watch?v=coodzAuEcQo</link>
+            <description><![CDATA[Les Window Functions en SQL sont des outils essentiels pour tout Data Analyst ou Data Engineer. Dans cette vidéo, je t'explique ...]]></description>
+            <pubDate>Sun, 18 Jan 2026 12:03:56 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=coodzAuEcQo</guid>
+            <source>Médard Analytics</source>
         </item>
         <item>
             <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
@@ -149,28 +149,28 @@
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
+            <title>Ventes Flash de Printemps : les Google Pixel Buds Pro 2 sont à -60 € sur Amazon pour profiter d’une IA bien intégrée</title>
+            <link>https://www.frandroid.com/bons-plans/3004873_ventes-flash-de-printemps-les-google-pixel-buds-pro-2-sont-a-70-e-sur-amazon-pour-profiter-dune-ia-bien-integree</link>
+            <description><![CDATA[Les Google Pixel Buds Pro 2 sont des écouteurs Bluetooth avec réduction de bruit active qui s'intègrent particulièrement bien dans l'univers Google, à retrouver pour 189 euros au lieu de 249 euros pen...]]></description>
+            <pubDate>Tue, 10 Mar 2026 08:45:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/bons-plans/3004873_ventes-flash-de-printemps-les-google-pixel-buds-pro-2-sont-a-70-e-sur-amazon-pour-profiter-dune-ia-bien-integree</guid>
+            <source>Frandroid</source>
+        </item>
+        <item>
+            <title>STMicroelectronics ouvre une nouvelle ère dans la technologie ultra-large bande pour les applications automobiles et les appareils intelligents</title>
+            <link>https://www.globenewswire.com/news-release/2026/03/10/3252466/0/fr/STMicroelectronics-ouvre-une-nouvelle-%C3%A8re-dans-la-technologie-ultra-large-bande-pour-les-applications-automobiles-et-les-appareils-intelligents.html</link>
+            <description><![CDATA[PR N° : P4760S  STMicroelectronics ouvre une nouvelle ère dans la technologie ultra-large bande pour les applications automobiles et les appareils...]]></description>
+            <pubDate>Tue, 10 Mar 2026 07:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/03/10/3252466/0/fr/STMicroelectronics-ouvre-une-nouvelle-%C3%A8re-dans-la-technologie-ultra-large-bande-pour-les-applications-automobiles-et-les-appareils-intelligents.html</guid>
+            <source>GlobeNewswire</source>
+        </item>
+        <item>
             <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
             <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
             <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
             <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
             <source>Oscar Aksanti</source>
-        </item>
-        <item>
-            <title>Chaque lycéenne devrait rencontrer deux femmes scientifiques avant de choisir sa voie</title>
-            <link>https://www.nouvelobs.com/opinions/20260308.OBS112998/chaque-lyceenne-devrait-rencontrer-deux-femmes-scientifiques-avant-de-choisir-sa-voie.html</link>
-            <description><![CDATA[Encore faut-il ne pas demander à ces femmes de le faire gratuitement, estime, dans cette tribune, la chercheuse Lauriane Mouysset pour qui il manque un dispositif qui ne fasse pas reposer la solution ...]]></description>
-            <pubDate>Sun, 08 Mar 2026 08:00:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.nouvelobs.com/opinions/20260308.OBS112998/chaque-lyceenne-devrait-rencontrer-deux-femmes-scientifiques-avant-de-choisir-sa-voie.html</guid>
-            <source>L'Obs</source>
-        </item>
-        <item>
-            <title>Cécité, droits des femmes et biologie</title>
-            <link>https://linuxfr.org/news/cecite-droits-des-femmes-et-biologie</link>
-            <description><![CDATA[L’actualité du logiciel libre et des sujets voisins (DIY, Open Hardware, Open Data, les Communs, etc.), sur un site francophone contributif géré par une équipe bénévole par et pour des libristes entho...]]></description>
-            <pubDate>Sun, 08 Mar 2026 13:44:21 -0000</pubDate>
-            <guid isPermaLink="true">https://linuxfr.org/news/cecite-droits-des-femmes-et-biologie</guid>
-            <source>Linuxfr.org</source>
         </item>
     </channel>
 </rss>

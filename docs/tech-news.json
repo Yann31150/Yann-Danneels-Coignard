@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-03-10T08:51:51.256334",
+  "lastUpdate": "2026-03-11T08:51:07.771220",
   "articles": [
     {
-      "title": "Les fronts du futur avec les Agentic-Driven Interfaces",
-      "description": "Ne plus se limiter à des interfaces textuelles ou à des images pour interagir avec l'intelligence artificielle ? Les Agents Drive Interface sont là pour une intégration native des LLMs dans nos applic...",
-      "url": "https://blog.octo.com/les-fronts-du-futur-avec-les-agentic-driven-interfaces",
-      "source": "Octo.com",
-      "publishedAt": "2026-03-09T08:06:10Z",
+      "title": "“La plus forte croissance en termes de visites” : ce concurrent est en train de rattraper ChatGPT (le trafic augmente de 643,58 %)",
+      "description": "On savait déjà que l’utilisation de Gemini avait fortement grimpé grâce à Nano Banana et Gemini 3. Mais désormais, on a une idée plus précise de la croissance de l’IA de Google au cours des 12 dernier...",
+      "url": "https://www.presse-citron.net/croissance-visites-concurrent-rattraper-chatgpt-trafic/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-03-10T07:39:17Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -26,11 +26,35 @@
       "thumbnail": "https://i.ytimg.com/vi/YLh5gsmOFkQ/hqdefault.jpg"
     },
     {
-      "title": "Evo 2 : l'intelligence artificielle peut désormais concevoir des génomes fonctionnels...jusqu'à la vie ?",
-      "description": "Une intelligence artificielle est désormais capable non seulement de lire le code génétique, mais aussi de l'écrire à une échelle qui rivalise avec la complexité de certains organismes vivants.",
-      "url": "https://www.generation-nt.com/actualites/ia-genomique-evo-2-adn-synthetique-nvidia-2071951",
-      "source": "Génération NT",
-      "publishedAt": "2026-03-08T15:30:01Z",
+      "title": "Analyse de données avec Orange",
+      "description": "Orange Data Mining : Analyse de données & Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...",
+      "url": "https://www.youtube.com/watch?v=hw8TiHABNLc",
+      "source": "Ardy Fanny Nell REBOUKA REBOUKA",
+      "publishedAt": "2026-01-29T16:09:39Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "hw8TiHABNLc",
+      "thumbnail": "https://i.ytimg.com/vi/hw8TiHABNLc/hqdefault.jpg"
+    },
+    {
+      "title": "Un athlète ukrainien gagne une médaille olympique et remercie ChatGPT : « depuis six mois, je m’entraîne avec l’IA »",
+      "description": "Il a insisté sur le rôle du chatbot dans sa réussite.",
+      "url": "https://www.presse-citron.net/un-athlete-ukrainien-gagne-une-medaille-olympique-et-remercie-chatgpt-depuis-six-mois-je-mentraine-avec-lia/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-03-10T08:45:58Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "IA : Yann Le Cun, le « cerveau » français qui vaut 3 milliards et fait trembler les géants de la Silicon Valley​​​​​​​",
+      "description": "Forte d’une levée de 890 millions d’euros annoncée ce mardi 10 mars, la start-up d’intelligence artificielle du français Yann Le Cun, AMI Labs, sera valorisée trois milliards d’euros. De quoi permettr...",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/ia-yann-le-cun-le-cerveau-francais-qui-vaut-3-milliards-et-fait-trembler-les-geants-de-la-silicon-valley_641569",
+      "source": "Challenges",
+      "publishedAt": "2026-03-10T07:53:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -86,40 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
     },
     {
-      "title": "Bennett Miller, un cinéaste piqué au vif par l’intelligence artificielle",
-      "description": "Lors d’un entretien en visioconférence accordé au « Monde », le réalisateur américain explique son intérêt précoce pour l’IA et estime que « la vie telle que nous la connaissons sera bientôt considéré...",
-      "url": "https://www.lemonde.fr/culture/article/2026/03/08/bennett-miller-un-cineaste-pique-au-vif-par-l-intelligence-artificielle_6669972_3246.html",
-      "source": "Le Monde",
-      "publishedAt": "2026-03-08T09:00:05Z",
+      "title": "Immobilier : pourquoi les data centers attisent l’appétit des investisseurs",
+      "description": "Ces sites se développent à grande vitesse, portés par les forts investissements dans l’intelligence artificielle (IA). Géants ou plus modestes, ce sont des actifs rentables et stables.",
+      "url": "https://www.challenges.fr/immobilier/immobilier-pourquoi-les-data-centers-attisent-lappetit-des-investisseurs_641517",
+      "source": "Challenges",
+      "publishedAt": "2026-03-10T08:00:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
-    },
-    {
-      "title": "Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine",
-      "description": "Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...",
-      "url": "https://www.youtube.com/watch?v=2i9u_hwq05g",
-      "source": "Enogne School",
-      "publishedAt": "2026-02-13T23:00:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "2i9u_hwq05g",
-      "thumbnail": "https://i.ytimg.com/vi/2i9u_hwq05g/hqdefault.jpg"
-    },
-    {
-      "title": "Pourquoi les télécoms ne peuvent plus se passer de la Data Science – Chike Odenigbo",
-      "description": "Dans ce second podcast, Ekué a eu le plaisir de discuter avec Chike Odenigbo qui est un expert en data science dans le domaine ...",
-      "url": "https://www.youtube.com/watch?v=kNy0VnMMP3Y",
-      "source": "Enogne School",
-      "publishedAt": "2026-02-27T23:01:09Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "kNy0VnMMP3Y",
-      "thumbnail": "https://i.ytimg.com/vi/kNy0VnMMP3Y/hqdefault.jpg"
     },
     {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
@@ -146,28 +146,28 @@
       "thumbnail": "https://i.ytimg.com/vi/kWWxN73GuUI/hqdefault.jpg"
     },
     {
-      "title": "Excel pour l’Analyse des Données — Cours Complet (10h) | Gratuit + Certificat (2026)",
-      "description": "Bienvenue dans ce cours complet et gratuit sur Microsoft Excel pour l'Analyse des Données (Version 2026) ! En 10 heures, vous ...",
-      "url": "https://www.youtube.com/watch?v=saGefucxol4",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-01-09T21:03:38Z",
+      "title": "Comment devenir Data Analyst en 2026 ?",
+      "description": "Découvrez le métier de Data Analyst et son rôle essentiel dans l'analyse de données. Apprenez les compétences requises et les ...",
+      "url": "https://www.youtube.com/watch?v=VdXrxU5woJI",
+      "source": "Wild Code School",
+      "publishedAt": "2026-01-18T10:00:48Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "saGefucxol4",
-      "thumbnail": "https://i.ytimg.com/vi/saGefucxol4/hqdefault.jpg"
+      "videoId": "VdXrxU5woJI",
+      "thumbnail": "https://i.ytimg.com/vi/VdXrxU5woJI/hqdefault.jpg"
     },
     {
-      "title": "Introduction à Positron: VSCode + RStudio pour la data science",
-      "description": "Dans cette vidéo, nous présentons le nouvel éditeur de data science de Posit qu'est Positron. C'est un mélange de Rstudio et de ...",
-      "url": "https://www.youtube.com/watch?v=gcbiOQCR-O8",
-      "source": "WeData",
-      "publishedAt": "2026-01-09T17:01:15Z",
+      "title": "Introduction aux Window Functions en SQL : comprendre OVER, ORDER BY et PARTITION BY",
+      "description": "Les Window Functions en SQL sont des outils essentiels pour tout Data Analyst ou Data Engineer. Dans cette vidéo, je t'explique ...",
+      "url": "https://www.youtube.com/watch?v=coodzAuEcQo",
+      "source": "Médard Analytics",
+      "publishedAt": "2026-01-18T12:03:56Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "gcbiOQCR-O8",
-      "thumbnail": "https://i.ytimg.com/vi/gcbiOQCR-O8/hqdefault.jpg"
+      "videoId": "coodzAuEcQo",
+      "thumbnail": "https://i.ytimg.com/vi/coodzAuEcQo/hqdefault.jpg"
     },
     {
       "title": "Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto",
@@ -206,6 +206,30 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
+      "title": "Ventes Flash de Printemps : les Google Pixel Buds Pro 2 sont à -60 € sur Amazon pour profiter d’une IA bien intégrée",
+      "description": "Les Google Pixel Buds Pro 2 sont des écouteurs Bluetooth avec réduction de bruit active qui s'intègrent particulièrement bien dans l'univers Google, à retrouver pour 189 euros au lieu de 249 euros pen...",
+      "url": "https://www.frandroid.com/bons-plans/3004873_ventes-flash-de-printemps-les-google-pixel-buds-pro-2-sont-a-70-e-sur-amazon-pour-profiter-dune-ia-bien-integree",
+      "source": "Frandroid",
+      "publishedAt": "2026-03-10T08:45:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "STMicroelectronics ouvre une nouvelle ère dans la technologie ultra-large bande pour les applications automobiles et les appareils intelligents",
+      "description": "PR N° : P4760S  STMicroelectronics ouvre une nouvelle ère dans la technologie ultra-large bande pour les applications automobiles et les appareils...",
+      "url": "https://www.globenewswire.com/news-release/2026/03/10/3252466/0/fr/STMicroelectronics-ouvre-une-nouvelle-%C3%A8re-dans-la-technologie-ultra-large-bande-pour-les-applications-automobiles-et-les-appareils-intelligents.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-03-10T07:30:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro",
       "description": "Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...",
       "url": "https://www.youtube.com/watch?v=8EXbMYHL8xw",
@@ -216,30 +240,6 @@
       "isYouTube": true,
       "videoId": "8EXbMYHL8xw",
       "thumbnail": "https://i.ytimg.com/vi/8EXbMYHL8xw/hqdefault.jpg"
-    },
-    {
-      "title": "Chaque lycéenne devrait rencontrer deux femmes scientifiques avant de choisir sa voie",
-      "description": "Encore faut-il ne pas demander à ces femmes de le faire gratuitement, estime, dans cette tribune, la chercheuse Lauriane Mouysset pour qui il manque un dispositif qui ne fasse pas reposer la solution ...",
-      "url": "https://www.nouvelobs.com/opinions/20260308.OBS112998/chaque-lyceenne-devrait-rencontrer-deux-femmes-scientifiques-avant-de-choisir-sa-voie.html",
-      "source": "L'Obs",
-      "publishedAt": "2026-03-08T08:00:05Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cécité, droits des femmes et biologie",
-      "description": "L’actualité du logiciel libre et des sujets voisins (DIY, Open Hardware, Open Data, les Communs, etc.), sur un site francophone contributif géré par une équipe bénévole par et pour des libristes entho...",
-      "url": "https://linuxfr.org/news/cecite-droits-des-femmes-et-biologie",
-      "source": "Linuxfr.org",
-      "publishedAt": "2026-03-08T13:44:21Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)",
@@ -254,11 +254,23 @@
       "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
     },
     {
-      "title": "NVIDIA GTC : la conférence où l’industrie de l’IA se donne rendez-vous",
-      "description": "Chaque année, la conférence NVIDIA GTC constitue l’un des moments où l’industrie technologique mondiale observe l’évolution de l’infrastructure qui alimente l’intelligence artificielle. Organisé par N...",
-      "url": "https://www.frenchweb.fr/nvidia-gtc-la-conference-ou-lindustrie-de-lia-se-donne-rendez-vous/460650",
+      "title": "Le Français Yan Le Cun réussit à lever près d’un milliard d’euros pour sa start-up d’IA",
+      "description": "Après 12 ans chez Meta où il a dirigé la recherche en intelligence artificielle, le chercheur veut développer des modèles d’IA capables de comprendre le monde physique.",
+      "url": "https://www.huffingtonpost.fr/tech-futurs/article/le-francais-yan-le-cun-reussit-a-lever-pres-d-un-milliard-d-euros-pour-sa-start-up-d-ia_261278.html",
+      "source": "Le HuffPost",
+      "publishedAt": "2026-03-10T07:07:14Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "AMI LABS lève 890 millions d’euros pour construire une nouvelle génération d’IA autour des “world models”",
+      "description": "À mesure que l’intelligence artificielle générative s’impose dans les usages, un débat scientifique traverse désormais la communauté de la recherche : les modèles de langage actuels, fondés sur la pré...",
+      "url": "https://www.frenchweb.fr/ami-labs-leve-890-millions-deuros-pour-construire-une-nouvelle-generation-dia-autour-des-world-models/460686",
       "source": "Frenchweb.fr",
-      "publishedAt": "2026-03-08T05:46:48Z",
+      "publishedAt": "2026-03-10T05:12:40Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "IA : les établissements d'enseignement secondaire et supérieur doivent sans délai encadrer les usages autorisés de l'intelligence artificielle par les étudiants.",
-      "description": "Une étudiante de la Sorbonne a fait rédiger son mémoire de fin d'étude par une IA. Faute de règles préalables précisant les modalités d'utilisation acceptables par l'université, un tribunal lui a donn...",
-      "url": "https://www.franceinfo.fr/replay-radio/nouveau-monde/ia-les-etablissements-d-enseignement-secondaire-et-superieur-doivent-sans-delai-encadrer-les-usages-autorises-de-l-intelligence-artificielle-par-les-etudiants_7794104.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-03-08T17:00:02Z",
+      "title": "Le Pentagone contre ANTHROPIC : quand l’État refuse que la Silicon Valley dicte les règles de l’IA militaire",
+      "description": "Alors que l’intelligence artificielle est en train de devenir une infrastructure stratégique pour les États, pour la première fois, un laboratoire d’IA refuse les conditions d’une armée. C’est le sens...",
+      "url": "https://www.frenchweb.fr/le-pentagone-contre-anthropic-quand-letat-refuse-que-la-silicon-valley-dicte-les-regles-de-lia-militaire/460689",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-03-10T06:12:54Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,28 +290,16 @@
       "thumbnail": ""
     },
     {
-      "title": "NotebookLM : Guide complet sur l’assistant de recherche IA de Google",
-      "description": "NotebookLM est un outil d’intelligence artificielle conçu pour aider à analyser des documents, synthétiser des informations et générer différents types de contenus. Développé par Google, cet assistant...",
-      "url": "https://www.aruco.com/intelligence-artificielle/notebooklm-google-guide-complet/",
-      "source": "Aruco.com",
-      "publishedAt": "2026-03-08T19:32:42Z",
-      "category": "tech",
+      "title": "Yann Lechelle (Probabl) : \"Probabl a 14 cofondateurs qui ont mis leurs égos de côté\"",
+      "description": "Yann Lechelle est président de Probabl, une start-up qui développe des technologies open source de machine learning.",
+      "url": "https://www.journaldunet.com/start-up/1548573-yann-lechelle-probabl/",
+      "source": "JDN",
+      "publishedAt": "2026-03-09T15:26:47Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
-    },
-    {
-      "title": "Loom-X : Combien peut rapporter un contrat de 1 000$ en 3 mois ? #BusinessEnLigne #Opportunité2026",
-      "description": "RevenusEnLigne #BusinessEnLigne #Opportunité2026 Découvrez LoomX, la plateforme quantitative décentralisée qui ...",
-      "url": "https://www.youtube.com/watch?v=hYUk-U8G08k",
-      "source": "Tekki en Ligne",
-      "publishedAt": "2026-01-09T09:38:16Z",
-      "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "hYUk-U8G08k",
-      "thumbnail": "https://i.ytimg.com/vi/hYUk-U8G08k/hqdefault.jpg"
     }
   ]
 }
