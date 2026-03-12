@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 11 Mar 2026 08:51:07 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 08:51:53 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,20 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>“La plus forte croissance en termes de visites” : ce concurrent est en train de rattraper ChatGPT (le trafic augmente de 643,58 %)</title>
-            <link>https://www.presse-citron.net/croissance-visites-concurrent-rattraper-chatgpt-trafic/</link>
-            <description><![CDATA[On savait déjà que l’utilisation de Gemini avait fortement grimpé grâce à Nano Banana et Gemini 3. Mais désormais, on a une idée plus précise de la croissance de l’IA de Google au cours des 12 dernier...]]></description>
-            <pubDate>Tue, 10 Mar 2026 07:39:17 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/croissance-visites-concurrent-rattraper-chatgpt-trafic/</guid>
-            <source>Presse-citron</source>
+            <title>Yann LeCun lance AMI : tout savoir sur la startup française d’IA qui veut ringardiser ChatGPT</title>
+            <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/3007139_yann-lecun-lance-ami-tout-savoir-sur-la-startup-francaise-dia-qui-veut-ringardiser-chatgpt</link>
+            <description><![CDATA[Un milliard de dollars pour une série A. C'est ce que vient de décrocher AMI, la nouvelle aventure de Yann LeCun. Cette startup française veut sortir l'IA de sa bulle textuelle pour lui apprendre comm...]]></description>
+            <pubDate>Tue, 10 Mar 2026 11:22:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/culture-tech/intelligence-artificielle/3007139_yann-lecun-lance-ami-tout-savoir-sur-la-startup-francaise-dia-qui-veut-ringardiser-chatgpt</guid>
+            <source>Frandroid</source>
         </item>
         <item>
-            <title>Analyse discriminante PLS « from scratch » avec ChatGPT (Python)</title>
-            <link>https://www.youtube.com/watch?v=YLh5gsmOFkQ</link>
-            <description><![CDATA[Machine learning. Data science. Classification supervisée. Analyse discriminante PLS, approche en deux étapes : régression ...]]></description>
-            <pubDate>Tue, 17 Feb 2026 16:40:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=YLh5gsmOFkQ</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)</title>
+            <link>https://www.youtube.com/watch?v=W3ygk9QJ4ks</link>
+            <description><![CDATA[CHALLENGE 4 JOURS - GÉNÉREZ UNE PUB IA BLUFFANTE Créez une vidéo de qualité cinéma, entièrement générée avec ...]]></description>
+            <pubDate>Thu, 22 Jan 2026 08:43:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=W3ygk9QJ4ks</guid>
+            <source>Frank Houbre - IA & intelligence artificielle</source>
         </item>
         <item>
             <title>Analyse de données avec Orange</title>
@@ -37,20 +37,28 @@
             <source>Ardy Fanny Nell REBOUKA REBOUKA</source>
         </item>
         <item>
-            <title>Un athlète ukrainien gagne une médaille olympique et remercie ChatGPT : « depuis six mois, je m’entraîne avec l’IA »</title>
-            <link>https://www.presse-citron.net/un-athlete-ukrainien-gagne-une-medaille-olympique-et-remercie-chatgpt-depuis-six-mois-je-mentraine-avec-lia/</link>
-            <description><![CDATA[Il a insisté sur le rôle du chatbot dans sa réussite.]]></description>
-            <pubDate>Tue, 10 Mar 2026 08:45:58 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/un-athlete-ukrainien-gagne-une-medaille-olympique-et-remercie-chatgpt-depuis-six-mois-je-mentraine-avec-lia/</guid>
-            <source>Presse-citron</source>
+            <title>Suez met à jour son centre de surtri des emballages ménagers grâce à l’intelligence artificielle</title>
+            <link>https://www.lejournaldesentreprises.com/article/suez-met-jour-son-centre-de-surtri-des-emballages-menagers-grace-lintelligence-artificielle-2138619</link>
+            <description><![CDATA[À Épinal dans les Vosges, le groupe Suez a réussi à améliorer la qualité du tri des emballages ménagers grâce à l’installation d’une intelligence artificielle capable de reconnaître finement les déche...]]></description>
+            <pubDate>Tue, 10 Mar 2026 13:21:24 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/article/suez-met-jour-son-centre-de-surtri-des-emballages-menagers-grace-lintelligence-artificielle-2138619</guid>
+            <source>Le Journal des Entreprises</source>
         </item>
         <item>
-            <title>IA : Yann Le Cun, le « cerveau » français qui vaut 3 milliards et fait trembler les géants de la Silicon Valley​​​​​​​</title>
-            <link>https://www.challenges.fr/entreprise/tech-numerique/ia-yann-le-cun-le-cerveau-francais-qui-vaut-3-milliards-et-fait-trembler-les-geants-de-la-silicon-valley_641569</link>
-            <description><![CDATA[Forte d’une levée de 890 millions d’euros annoncée ce mardi 10 mars, la start-up d’intelligence artificielle du français Yann Le Cun, AMI Labs, sera valorisée trois milliards d’euros. De quoi permettr...]]></description>
-            <pubDate>Tue, 10 Mar 2026 07:53:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.challenges.fr/entreprise/tech-numerique/ia-yann-le-cun-le-cerveau-francais-qui-vaut-3-milliards-et-fait-trembler-les-geants-de-la-silicon-valley_641569</guid>
-            <source>Challenges</source>
+            <title>Comment Avoir une IA Privée et NON CENSURÉE Gratuitement sur ton PC (LM Studio + AnythingLLM)</title>
+            <link>https://www.youtube.com/watch?v=ArexJfRHMYc</link>
+            <description><![CDATA[Dans cette vidéo, je vous montre comment faire fonctionner un LLM totalement privé, non censuré et hors ligne, directement sur ...]]></description>
+            <pubDate>Sat, 07 Feb 2026 17:00:25 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ArexJfRHMYc</guid>
+            <source>Parlons Cyber</source>
+        </item>
+        <item>
+            <title>Comment utiliser concrètement l'IA et Python pour analyser des données (exemple en temps réel)</title>
+            <link>https://www.youtube.com/watch?v=0BY-6tJmz1g</link>
+            <description><![CDATA[Apprenez à analyser des données hospitalières avec Python (pandas) grâce à des outils d'IA. Nous allons réaliser trois niveaux ...]]></description>
+            <pubDate>Thu, 05 Feb 2026 14:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=0BY-6tJmz1g</guid>
+            <source>Chandoo</source>
         </item>
         <item>
             <title>EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&amp;#39;utiliser Excel !</title>
@@ -85,14 +93,6 @@
             <source>AntalaSoft School</source>
         </item>
         <item>
-            <title>Immobilier : pourquoi les data centers attisent l’appétit des investisseurs</title>
-            <link>https://www.challenges.fr/immobilier/immobilier-pourquoi-les-data-centers-attisent-lappetit-des-investisseurs_641517</link>
-            <description><![CDATA[Ces sites se développent à grande vitesse, portés par les forts investissements dans l’intelligence artificielle (IA). Géants ou plus modestes, ce sont des actifs rentables et stables.]]></description>
-            <pubDate>Tue, 10 Mar 2026 08:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.challenges.fr/immobilier/immobilier-pourquoi-les-data-centers-attisent-lappetit-des-investisseurs_641517</guid>
-            <source>Challenges</source>
-        </item>
-        <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
             <link>https://www.youtube.com/watch?v=Dgm74TZPSkA</link>
             <description><![CDATA[Si vous passez encore vos journées à copier-coller des données dans Excel, cette vidéo va changer votre carrière. Power BI ...]]></description>
@@ -125,6 +125,14 @@
             <source>Médard Analytics</source>
         </item>
         <item>
+            <title>Crimson Desert livre enfin les détails techniques des versions PS5 et Xbox</title>
+            <link>https://www.numerama.com/pop-culture/2198667-crimson-desert-livre-enfin-les-details-techniques-des-versions-ps5-et-xbox.html</link>
+            <description><![CDATA[Accusé de cacher les versions PS5 et Xbox de Crimson, jeu ô combien ambitieux de ce premier trimestre, Pearl Abyss a enfin partagé les données techniques des différentes versions. Sans surprise, les p...]]></description>
+            <pubDate>Wed, 11 Mar 2026 08:31:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/pop-culture/2198667-crimson-desert-livre-enfin-les-details-techniques-des-versions-ps5-et-xbox.html</guid>
+            <source>Numerama</source>
+        </item>
+        <item>
             <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
             <link>https://www.youtube.com/watch?v=wNyw2TN8mh0</link>
             <description><![CDATA[]]></description>
@@ -149,28 +157,20 @@
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>Ventes Flash de Printemps : les Google Pixel Buds Pro 2 sont à -60 € sur Amazon pour profiter d’une IA bien intégrée</title>
-            <link>https://www.frandroid.com/bons-plans/3004873_ventes-flash-de-printemps-les-google-pixel-buds-pro-2-sont-a-70-e-sur-amazon-pour-profiter-dune-ia-bien-integree</link>
-            <description><![CDATA[Les Google Pixel Buds Pro 2 sont des écouteurs Bluetooth avec réduction de bruit active qui s'intègrent particulièrement bien dans l'univers Google, à retrouver pour 189 euros au lieu de 249 euros pen...]]></description>
-            <pubDate>Tue, 10 Mar 2026 08:45:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/bons-plans/3004873_ventes-flash-de-printemps-les-google-pixel-buds-pro-2-sont-a-70-e-sur-amazon-pour-profiter-dune-ia-bien-integree</guid>
-            <source>Frandroid</source>
+            <title>data-science-document-ai 1.65.0</title>
+            <link>https://pypi.org/project/data-science-document-ai/1.65.0/</link>
+            <description><![CDATA["Document AI repo for data science"]]></description>
+            <pubDate>Tue, 10 Mar 2026 09:51:43 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.65.0/</guid>
+            <source>Pypi.org</source>
         </item>
         <item>
-            <title>STMicroelectronics ouvre une nouvelle ère dans la technologie ultra-large bande pour les applications automobiles et les appareils intelligents</title>
-            <link>https://www.globenewswire.com/news-release/2026/03/10/3252466/0/fr/STMicroelectronics-ouvre-une-nouvelle-%C3%A8re-dans-la-technologie-ultra-large-bande-pour-les-applications-automobiles-et-les-appareils-intelligents.html</link>
-            <description><![CDATA[PR N° : P4760S  STMicroelectronics ouvre une nouvelle ère dans la technologie ultra-large bande pour les applications automobiles et les appareils...]]></description>
-            <pubDate>Tue, 10 Mar 2026 07:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/03/10/3252466/0/fr/STMicroelectronics-ouvre-une-nouvelle-%C3%A8re-dans-la-technologie-ultra-large-bande-pour-les-applications-automobiles-et-les-appareils-intelligents.html</guid>
-            <source>GlobeNewswire</source>
-        </item>
-        <item>
-            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
-            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
-            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
-            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
-            <source>Oscar Aksanti</source>
+            <title>Top 10 des meilleures assurances habitation en 2026 [Sponsorisé]</title>
+            <link>https://www.maison-et-domotique.com/168309-top-10-des-meilleures-assurances-habitation-en-2026-sponsorise/</link>
+            <description><![CDATA[L’année 2026 marque un tournant dans l’assurance habitation avec des hausses tarifaires moyennes de 7,5 à 9% et l’émergence de nouveaux services digitaux. Face à cette évolution, choisir la bonne assu...]]></description>
+            <pubDate>Wed, 11 Mar 2026 05:09:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.maison-et-domotique.com/168309-top-10-des-meilleures-assurances-habitation-en-2026-sponsorise/</guid>
+            <source>Maison et Domotique</source>
         </item>
     </channel>
 </rss>
