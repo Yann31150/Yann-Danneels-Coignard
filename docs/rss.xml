@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 12 Mar 2026 08:51:53 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 08:49:56 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,44 +13,36 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Yann LeCun lance AMI : tout savoir sur la startup française d’IA qui veut ringardiser ChatGPT</title>
-            <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/3007139_yann-lecun-lance-ami-tout-savoir-sur-la-startup-francaise-dia-qui-veut-ringardiser-chatgpt</link>
-            <description><![CDATA[Un milliard de dollars pour une série A. C'est ce que vient de décrocher AMI, la nouvelle aventure de Yann LeCun. Cette startup française veut sortir l'IA de sa bulle textuelle pour lui apprendre comm...]]></description>
-            <pubDate>Tue, 10 Mar 2026 11:22:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/culture-tech/intelligence-artificielle/3007139_yann-lecun-lance-ami-tout-savoir-sur-la-startup-francaise-dia-qui-veut-ringardiser-chatgpt</guid>
-            <source>Frandroid</source>
+            <title>Peut-on gagner au Loto grâce à ChatGPT ? On a tenté l'expérience pour le Super Loto de vendredi 13</title>
+            <link>https://www.journaldunet.com/magazine/1548577-loto-chatgpt-bp1/</link>
+            <description><![CDATA[Personne ne résiste à la promesse d'un coup de chance spectaculaire. Surtout quand elle semble venir d'une intelligence artificielle.]]></description>
+            <pubDate>Thu, 12 Mar 2026 05:50:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/magazine/1548577-loto-chatgpt-bp1/</guid>
+            <source>JDN</source>
         </item>
         <item>
-            <title>Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)</title>
-            <link>https://www.youtube.com/watch?v=W3ygk9QJ4ks</link>
-            <description><![CDATA[CHALLENGE 4 JOURS - GÉNÉREZ UNE PUB IA BLUFFANTE Créez une vidéo de qualité cinéma, entièrement générée avec ...]]></description>
-            <pubDate>Thu, 22 Jan 2026 08:43:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=W3ygk9QJ4ks</guid>
-            <source>Frank Houbre - IA & intelligence artificielle</source>
+            <title>Comparatif : les meilleures plateformes d'observabilité pour l'IA générative</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1548477-comparatif-des-meilleures-plateformes-d-observabilite-pour-l-ia-generative/</link>
+            <description><![CDATA[Datadog LLM Observability, LangSmith et Arize Phoenix ont trois philosophies complémentaires. Elles aident grandement à comprendre les erreurs éventuelles des LLM.]]></description>
+            <pubDate>Wed, 11 Mar 2026 13:02:21 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1548477-comparatif-des-meilleures-plateformes-d-observabilite-pour-l-ia-generative/</guid>
+            <source>JDN</source>
         </item>
         <item>
-            <title>Analyse de données avec Orange</title>
-            <link>https://www.youtube.com/watch?v=hw8TiHABNLc</link>
-            <description><![CDATA[Orange Data Mining : Analyse de données &amp; Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...]]></description>
-            <pubDate>Thu, 29 Jan 2026 16:09:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=hw8TiHABNLc</guid>
-            <source>Ardy Fanny Nell REBOUKA REBOUKA</source>
+            <title>Règles d’association avec KNIME</title>
+            <link>https://www.youtube.com/watch?v=I-L2k_lzopQ</link>
+            <description><![CDATA[Machine learning. Data Mining. Data Science. Extraction des règles d'association à partir de données tabulaires avec le ...]]></description>
+            <pubDate>Wed, 21 Jan 2026 10:01:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=I-L2k_lzopQ</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Suez met à jour son centre de surtri des emballages ménagers grâce à l’intelligence artificielle</title>
-            <link>https://www.lejournaldesentreprises.com/article/suez-met-jour-son-centre-de-surtri-des-emballages-menagers-grace-lintelligence-artificielle-2138619</link>
-            <description><![CDATA[À Épinal dans les Vosges, le groupe Suez a réussi à améliorer la qualité du tri des emballages ménagers grâce à l’installation d’une intelligence artificielle capable de reconnaître finement les déche...]]></description>
-            <pubDate>Tue, 10 Mar 2026 13:21:24 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/article/suez-met-jour-son-centre-de-surtri-des-emballages-menagers-grace-lintelligence-artificielle-2138619</guid>
-            <source>Le Journal des Entreprises</source>
-        </item>
-        <item>
-            <title>Comment Avoir une IA Privée et NON CENSURÉE Gratuitement sur ton PC (LM Studio + AnythingLLM)</title>
-            <link>https://www.youtube.com/watch?v=ArexJfRHMYc</link>
-            <description><![CDATA[Dans cette vidéo, je vous montre comment faire fonctionner un LLM totalement privé, non censuré et hors ligne, directement sur ...]]></description>
-            <pubDate>Sat, 07 Feb 2026 17:00:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ArexJfRHMYc</guid>
-            <source>Parlons Cyber</source>
+            <title>« Le code disparaît » : le prix turing Yann LeCun explique comment l'IA va bouleverser la formation des ingénieurs et le rôle des maths</title>
+            <link>https://www.challenges.fr/entreprise/tech-numerique/le-code-disparait-le-prix-turing-yann-lecun-explique-comment-lia-va-bouleverser-la-formation-des-ingenieurs-et-le-role-des-maths_641644</link>
+            <description><![CDATA[Il est l’un des pères de l’apprentissage profond (deep learning) qu’il a développé notamment chez Meta. Revenu en France, Yann LeCun vient de lever 890 millions d’euros pour sa start-up AMI, ce qui la...]]></description>
+            <pubDate>Wed, 11 Mar 2026 17:01:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.challenges.fr/entreprise/tech-numerique/le-code-disparait-le-prix-turing-yann-lecun-explique-comment-lia-va-bouleverser-la-formation-des-ingenieurs-et-le-role-des-maths_641644</guid>
+            <source>Challenges</source>
         </item>
         <item>
             <title>Comment utiliser concrètement l'IA et Python pour analyser des données (exemple en temps réel)</title>
@@ -69,6 +61,22 @@
             <source>Morpheus Formation | Excel, Sheets, Power BI</source>
         </item>
         <item>
+            <title>"La route, ce n'est pas seulement de l'asphalte" : venus de 62 pays, les plus grands experts mondiaux de la viabilité hivernale réunis à Chambéry</title>
+            <link>https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/savoie/la-route-ce-n-est-pas-seulement-de-l-asphalte-venus-de-62-pays-les-plus-grands-experts-mondiaux-de-la-viabilite-hivernale-reunis-a-chambery-3313572.html</link>
+            <description><![CDATA[L'association mondiale de la route, qui réunit tous les quatre ans opérateurs routiers, administrations et chercheurs de toute la planète, a choisi cette année la France pour organiser son congrès mon...]]></description>
+            <pubDate>Thu, 12 Mar 2026 06:19:31 -0000</pubDate>
+            <guid isPermaLink="true">https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/savoie/la-route-ce-n-est-pas-seulement-de-l-asphalte-venus-de-62-pays-les-plus-grands-experts-mondiaux-de-la-viabilite-hivernale-reunis-a-chambery-3313572.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
+            <title>ANOTHER EARTH : la startup qui veut simuler la planète lève 3,5 millions d’euros</title>
+            <link>https://www.frenchweb.fr/another-earth-la-startup-qui-veut-simuler-la-planete-leve-35-millions-deuros/460750</link>
+            <description><![CDATA[Dans l’économie spatiale contemporaine, l’observation de la Terre repose sur un paradoxe. Les satellites n’ont jamais produit autant d’images de la planète, mais l’intelligence artificielle qui doit l...]]></description>
+            <pubDate>Thu, 12 Mar 2026 06:28:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frenchweb.fr/another-earth-la-startup-qui-veut-simuler-la-planete-leve-35-millions-deuros/460750</guid>
+            <source>Frenchweb.fr</source>
+        </item>
+        <item>
             <title>Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)</title>
             <link>https://www.youtube.com/watch?v=AsNBiYCJRyk</link>
             <description><![CDATA[Vous voulez apprendre à créer des tableaux de bord mais vous ne savez pas par où commencer ? Tout commence ici ! ​Dans ...]]></description>
@@ -83,14 +91,6 @@
             <pubDate>Mon, 16 Feb 2026 09:53:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=NvdjH1fRRE0</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp;amp; 10 | Guide complet</title>
-            <link>https://www.youtube.com/watch?v=G-4DERRKrHA</link>
-            <description><![CDATA[Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...]]></description>
-            <pubDate>Wed, 25 Feb 2026 04:31:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=G-4DERRKrHA</guid>
-            <source>AntalaSoft School</source>
         </item>
         <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
@@ -109,36 +109,28 @@
             <source>Centre de formation Noormed</source>
         </item>
         <item>
-            <title>Comment devenir Data Analyst en 2026 ?</title>
-            <link>https://www.youtube.com/watch?v=VdXrxU5woJI</link>
-            <description><![CDATA[Découvrez le métier de Data Analyst et son rôle essentiel dans l'analyse de données. Apprenez les compétences requises et les ...]]></description>
-            <pubDate>Sun, 18 Jan 2026 10:00:48 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VdXrxU5woJI</guid>
-            <source>Wild Code School</source>
+            <title>Python : FastAPI, SQLAlchemy et PostgreSQL</title>
+            <link>https://www.youtube.com/watch?v=XCnB65yh5NM</link>
+            <description><![CDATA[Cette vidéo explique comment relier une API FastAPI a une base de données postgreSQL. Nous allons pour cela utiliser l'ORM ...]]></description>
+            <pubDate>Fri, 23 Jan 2026 17:00:52 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=XCnB65yh5NM</guid>
+            <source>Algomius</source>
         </item>
         <item>
-            <title>Introduction aux Window Functions en SQL : comprendre OVER, ORDER BY et PARTITION BY</title>
-            <link>https://www.youtube.com/watch?v=coodzAuEcQo</link>
-            <description><![CDATA[Les Window Functions en SQL sont des outils essentiels pour tout Data Analyst ou Data Engineer. Dans cette vidéo, je t'explique ...]]></description>
-            <pubDate>Sun, 18 Jan 2026 12:03:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=coodzAuEcQo</guid>
-            <source>Médard Analytics</source>
+            <title>"Lever 1,3 million d’euros nous permet de développer notre technologie pour prolonger l’action des biomédicaments"</title>
+            <link>https://www.lejournaldesentreprises.com/article/lever-13-million-deuros-nous-permet-de-developper-notre-technologie-pour-prolonger-laction-des-2138779</link>
+            <description><![CDATA[Spin-off de l’UMR 1121 Biomatériaux et ingénierie à Strasbourg, Albupad développe une technologie capable de prolonger l’action de biomédicaments. Sa fondatrice, la docteure Eya Aloui, revient sur l’o...]]></description>
+            <pubDate>Thu, 12 Mar 2026 08:26:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/article/lever-13-million-deuros-nous-permet-de-developper-notre-technologie-pour-prolonger-laction-des-2138779</guid>
+            <source>Le Journal des Entreprises</source>
         </item>
         <item>
-            <title>Crimson Desert livre enfin les détails techniques des versions PS5 et Xbox</title>
-            <link>https://www.numerama.com/pop-culture/2198667-crimson-desert-livre-enfin-les-details-techniques-des-versions-ps5-et-xbox.html</link>
-            <description><![CDATA[Accusé de cacher les versions PS5 et Xbox de Crimson, jeu ô combien ambitieux de ce premier trimestre, Pearl Abyss a enfin partagé les données techniques des différentes versions. Sans surprise, les p...]]></description>
-            <pubDate>Wed, 11 Mar 2026 08:31:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/pop-culture/2198667-crimson-desert-livre-enfin-les-details-techniques-des-versions-ps5-et-xbox.html</guid>
+            <title>« Nous prévoyons des progrès bien plus spectaculaires », Anthropic veut préparer la société aux grands bouleversements de l’IA</title>
+            <link>https://www.numerama.com/cyberguerre/2199313-nous-prevoyons-des-progres-bien-plus-spectaculaires-anthropic-veut-preparer-la-societe-aux-grands-bouleversements-de-lia.html</link>
+            <description><![CDATA[En pleine guerre ouverte avec l'administration Trump et le Pentagone, Anthropic lance un nouvel organisme de recherche tourné vers le grand public. L'ambition affichée : préparer la société aux boulev...]]></description>
+            <pubDate>Wed, 11 Mar 2026 16:23:32 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/cyberguerre/2199313-nous-prevoyons-des-progres-bien-plus-spectaculaires-anthropic-veut-preparer-la-societe-aux-grands-bouleversements-de-lia.html</guid>
             <source>Numerama</source>
-        </item>
-        <item>
-            <title>Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto</title>
-            <link>https://www.youtube.com/watch?v=wNyw2TN8mh0</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Tue, 20 Jan 2026 15:55:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=wNyw2TN8mh0</guid>
-            <source>Le Decodeur</source>
         </item>
         <item>
             <title>Formation SQL Pour la Data - Introduction + Installation PostgreSQL + VS Code</title>
@@ -157,20 +149,28 @@
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>data-science-document-ai 1.65.0</title>
-            <link>https://pypi.org/project/data-science-document-ai/1.65.0/</link>
-            <description><![CDATA["Document AI repo for data science"]]></description>
-            <pubDate>Tue, 10 Mar 2026 09:51:43 -0000</pubDate>
-            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.65.0/</guid>
-            <source>Pypi.org</source>
+            <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
+            <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
+            <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
+            <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
+            <source>CodeAvecLionel</source>
         </item>
         <item>
-            <title>Top 10 des meilleures assurances habitation en 2026 [Sponsorisé]</title>
-            <link>https://www.maison-et-domotique.com/168309-top-10-des-meilleures-assurances-habitation-en-2026-sponsorise/</link>
-            <description><![CDATA[L’année 2026 marque un tournant dans l’assurance habitation avec des hausses tarifaires moyennes de 7,5 à 9% et l’émergence de nouveaux services digitaux. Face à cette évolution, choisir la bonne assu...]]></description>
-            <pubDate>Wed, 11 Mar 2026 05:09:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.maison-et-domotique.com/168309-top-10-des-meilleures-assurances-habitation-en-2026-sponsorise/</guid>
-            <source>Maison et Domotique</source>
+            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
+            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
+            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
+            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
+            <source>Oscar Aksanti</source>
+        </item>
+        <item>
+            <title>Comment des hackers russes ont piraté les comptes Signal et WhatsApp de responsables aux Pays-Bas</title>
+            <link>https://www.lexpress.fr/economie/high-tech/comment-des-hackers-russes-ont-pirate-les-comptes-signal-et-whatsapp-de-responsables-aux-pays-bas-M3UO4GHH6RFQHKB2CC72DK7J3I/</link>
+            <description><![CDATA[Pas de méthodes ultra sophistiquées, mais bien une technique d'hameçonnage, comme nous en recevons tous au quotidien. Les experts de la sécurité sonnent l'alerte.]]></description>
+            <pubDate>Wed, 11 Mar 2026 17:54:44 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lexpress.fr/economie/high-tech/comment-des-hackers-russes-ont-pirate-les-comptes-signal-et-whatsapp-de-responsables-aux-pays-bas-M3UO4GHH6RFQHKB2CC72DK7J3I/</guid>
+            <source>L'Express</source>
         </item>
     </channel>
 </rss>

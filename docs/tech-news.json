@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-03-12T08:51:53.470693",
+  "lastUpdate": "2026-03-13T08:49:56.457053",
   "articles": [
     {
-      "title": "Yann LeCun lance AMI : tout savoir sur la startup française d’IA qui veut ringardiser ChatGPT",
-      "description": "Un milliard de dollars pour une série A. C'est ce que vient de décrocher AMI, la nouvelle aventure de Yann LeCun. Cette startup française veut sortir l'IA de sa bulle textuelle pour lui apprendre comm...",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3007139_yann-lecun-lance-ami-tout-savoir-sur-la-startup-francaise-dia-qui-veut-ringardiser-chatgpt",
-      "source": "Frandroid",
-      "publishedAt": "2026-03-10T11:22:29Z",
+      "title": "Peut-on gagner au Loto grâce à ChatGPT ? On a tenté l'expérience pour le Super Loto de vendredi 13",
+      "description": "Personne ne résiste à la promesse d'un coup de chance spectaculaire. Surtout quand elle semble venir d'une intelligence artificielle.",
+      "url": "https://www.journaldunet.com/magazine/1548577-loto-chatgpt-bp1/",
+      "source": "JDN",
+      "publishedAt": "2026-03-12T05:50:01Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -14,35 +14,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)",
-      "description": "CHALLENGE 4 JOURS - GÉNÉREZ UNE PUB IA BLUFFANTE Créez une vidéo de qualité cinéma, entièrement générée avec ...",
-      "url": "https://www.youtube.com/watch?v=W3ygk9QJ4ks",
-      "source": "Frank Houbre - IA & intelligence artificielle",
-      "publishedAt": "2026-01-22T08:43:47Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "W3ygk9QJ4ks",
-      "thumbnail": "https://i.ytimg.com/vi/W3ygk9QJ4ks/hqdefault.jpg"
-    },
-    {
-      "title": "Analyse de données avec Orange",
-      "description": "Orange Data Mining : Analyse de données & Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...",
-      "url": "https://www.youtube.com/watch?v=hw8TiHABNLc",
-      "source": "Ardy Fanny Nell REBOUKA REBOUKA",
-      "publishedAt": "2026-01-29T16:09:39Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "hw8TiHABNLc",
-      "thumbnail": "https://i.ytimg.com/vi/hw8TiHABNLc/hqdefault.jpg"
-    },
-    {
-      "title": "Suez met à jour son centre de surtri des emballages ménagers grâce à l’intelligence artificielle",
-      "description": "À Épinal dans les Vosges, le groupe Suez a réussi à améliorer la qualité du tri des emballages ménagers grâce à l’installation d’une intelligence artificielle capable de reconnaître finement les déche...",
-      "url": "https://www.lejournaldesentreprises.com/article/suez-met-jour-son-centre-de-surtri-des-emballages-menagers-grace-lintelligence-artificielle-2138619",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-03-10T13:21:24Z",
+      "title": "Comparatif : les meilleures plateformes d'observabilité pour l'IA générative",
+      "description": "Datadog LLM Observability, LangSmith et Arize Phoenix ont trois philosophies complémentaires. Elles aident grandement à comprendre les erreurs éventuelles des LLM.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1548477-comparatif-des-meilleures-plateformes-d-observabilite-pour-l-ia-generative/",
+      "source": "JDN",
+      "publishedAt": "2026-03-11T13:02:21Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -50,16 +26,28 @@
       "thumbnail": ""
     },
     {
-      "title": "Comment Avoir une IA Privée et NON CENSURÉE Gratuitement sur ton PC (LM Studio + AnythingLLM)",
-      "description": "Dans cette vidéo, je vous montre comment faire fonctionner un LLM totalement privé, non censuré et hors ligne, directement sur ...",
-      "url": "https://www.youtube.com/watch?v=ArexJfRHMYc",
-      "source": "Parlons Cyber",
-      "publishedAt": "2026-02-07T17:00:25Z",
+      "title": "Règles d’association avec KNIME",
+      "description": "Machine learning. Data Mining. Data Science. Extraction des règles d'association à partir de données tabulaires avec le ...",
+      "url": "https://www.youtube.com/watch?v=I-L2k_lzopQ",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-01-21T10:01:16Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "ArexJfRHMYc",
-      "thumbnail": "https://i.ytimg.com/vi/ArexJfRHMYc/hqdefault.jpg"
+      "videoId": "I-L2k_lzopQ",
+      "thumbnail": "https://i.ytimg.com/vi/I-L2k_lzopQ/hqdefault.jpg"
+    },
+    {
+      "title": "« Le code disparaît » : le prix turing Yann LeCun explique comment l'IA va bouleverser la formation des ingénieurs et le rôle des maths",
+      "description": "Il est l’un des pères de l’apprentissage profond (deep learning) qu’il a développé notamment chez Meta. Revenu en France, Yann LeCun vient de lever 890 millions d’euros pour sa start-up AMI, ce qui la...",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/le-code-disparait-le-prix-turing-yann-lecun-explique-comment-lia-va-bouleverser-la-formation-des-ingenieurs-et-le-role-des-maths_641644",
+      "source": "Challenges",
+      "publishedAt": "2026-03-11T17:01:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Comment utiliser concrètement l'IA et Python pour analyser des données (exemple en temps réel)",
@@ -86,6 +74,30 @@
       "thumbnail": "https://i.ytimg.com/vi/8Vh5bmRgmlo/hqdefault.jpg"
     },
     {
+      "title": "\"La route, ce n'est pas seulement de l'asphalte\" : venus de 62 pays, les plus grands experts mondiaux de la viabilité hivernale réunis à Chambéry",
+      "description": "L'association mondiale de la route, qui réunit tous les quatre ans opérateurs routiers, administrations et chercheurs de toute la planète, a choisi cette année la France pour organiser son congrès mon...",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/savoie/la-route-ce-n-est-pas-seulement-de-l-asphalte-venus-de-62-pays-les-plus-grands-experts-mondiaux-de-la-viabilite-hivernale-reunis-a-chambery-3313572.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-03-12T06:19:31Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "ANOTHER EARTH : la startup qui veut simuler la planète lève 3,5 millions d’euros",
+      "description": "Dans l’économie spatiale contemporaine, l’observation de la Terre repose sur un paradoxe. Les satellites n’ont jamais produit autant d’images de la planète, mais l’intelligence artificielle qui doit l...",
+      "url": "https://www.frenchweb.fr/another-earth-la-startup-qui-veut-simuler-la-planete-leve-35-millions-deuros/460750",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-03-12T06:28:11Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)",
       "description": "Vous voulez apprendre à créer des tableaux de bord mais vous ne savez pas par où commencer ? Tout commence ici ! ​Dans ...",
       "url": "https://www.youtube.com/watch?v=AsNBiYCJRyk",
@@ -108,18 +120,6 @@
       "isYouTube": true,
       "videoId": "NvdjH1fRRE0",
       "thumbnail": "https://i.ytimg.com/vi/NvdjH1fRRE0/hqdefault.jpg"
-    },
-    {
-      "title": "Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp; 10 | Guide complet",
-      "description": "Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...",
-      "url": "https://www.youtube.com/watch?v=G-4DERRKrHA",
-      "source": "AntalaSoft School",
-      "publishedAt": "2026-02-25T04:31:34Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "G-4DERRKrHA",
-      "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
     },
     {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
@@ -146,35 +146,23 @@
       "thumbnail": "https://i.ytimg.com/vi/kWWxN73GuUI/hqdefault.jpg"
     },
     {
-      "title": "Comment devenir Data Analyst en 2026 ?",
-      "description": "Découvrez le métier de Data Analyst et son rôle essentiel dans l'analyse de données. Apprenez les compétences requises et les ...",
-      "url": "https://www.youtube.com/watch?v=VdXrxU5woJI",
-      "source": "Wild Code School",
-      "publishedAt": "2026-01-18T10:00:48Z",
+      "title": "Python : FastAPI, SQLAlchemy et PostgreSQL",
+      "description": "Cette vidéo explique comment relier une API FastAPI a une base de données postgreSQL. Nous allons pour cela utiliser l'ORM ...",
+      "url": "https://www.youtube.com/watch?v=XCnB65yh5NM",
+      "source": "Algomius",
+      "publishedAt": "2026-01-23T17:00:52Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "VdXrxU5woJI",
-      "thumbnail": "https://i.ytimg.com/vi/VdXrxU5woJI/hqdefault.jpg"
+      "videoId": "XCnB65yh5NM",
+      "thumbnail": "https://i.ytimg.com/vi/XCnB65yh5NM/hqdefault.jpg"
     },
     {
-      "title": "Introduction aux Window Functions en SQL : comprendre OVER, ORDER BY et PARTITION BY",
-      "description": "Les Window Functions en SQL sont des outils essentiels pour tout Data Analyst ou Data Engineer. Dans cette vidéo, je t'explique ...",
-      "url": "https://www.youtube.com/watch?v=coodzAuEcQo",
-      "source": "Médard Analytics",
-      "publishedAt": "2026-01-18T12:03:56Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "coodzAuEcQo",
-      "thumbnail": "https://i.ytimg.com/vi/coodzAuEcQo/hqdefault.jpg"
-    },
-    {
-      "title": "Crimson Desert livre enfin les détails techniques des versions PS5 et Xbox",
-      "description": "Accusé de cacher les versions PS5 et Xbox de Crimson, jeu ô combien ambitieux de ce premier trimestre, Pearl Abyss a enfin partagé les données techniques des différentes versions. Sans surprise, les p...",
-      "url": "https://www.numerama.com/pop-culture/2198667-crimson-desert-livre-enfin-les-details-techniques-des-versions-ps5-et-xbox.html",
-      "source": "Numerama",
-      "publishedAt": "2026-03-11T08:31:01Z",
+      "title": "\"Lever 1,3 million d’euros nous permet de développer notre technologie pour prolonger l’action des biomédicaments\"",
+      "description": "Spin-off de l’UMR 1121 Biomatériaux et ingénierie à Strasbourg, Albupad développe une technologie capable de prolonger l’action de biomédicaments. Sa fondatrice, la docteure Eya Aloui, revient sur l’o...",
+      "url": "https://www.lejournaldesentreprises.com/article/lever-13-million-deuros-nous-permet-de-developper-notre-technologie-pour-prolonger-laction-des-2138779",
+      "source": "Le Journal des Entreprises",
+      "publishedAt": "2026-03-12T08:26:18Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -182,16 +170,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Comprendre le language SQL en moins d’une minute ✅📚 #sql #data #tuto",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=wNyw2TN8mh0",
-      "source": "Le Decodeur",
-      "publishedAt": "2026-01-20T15:55:42Z",
+      "title": "« Nous prévoyons des progrès bien plus spectaculaires », Anthropic veut préparer la société aux grands bouleversements de l’IA",
+      "description": "En pleine guerre ouverte avec l'administration Trump et le Pentagone, Anthropic lance un nouvel organisme de recherche tourné vers le grand public. L'ambition affichée : préparer la société aux boulev...",
+      "url": "https://www.numerama.com/cyberguerre/2199313-nous-prevoyons-des-progres-bien-plus-spectaculaires-anthropic-veut-preparer-la-societe-aux-grands-bouleversements-de-lia.html",
+      "source": "Numerama",
+      "publishedAt": "2026-03-11T16:23:32Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "wNyw2TN8mh0",
-      "thumbnail": "https://i.ytimg.com/vi/wNyw2TN8mh0/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Formation SQL Pour la Data - Introduction + Installation PostgreSQL + VS Code",
@@ -218,23 +206,35 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
-      "title": "data-science-document-ai 1.65.0",
-      "description": "\"Document AI repo for data science\"",
-      "url": "https://pypi.org/project/data-science-document-ai/1.65.0/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-03-10T09:51:43Z",
+      "title": "Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser",
+      "description": "Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...",
+      "url": "https://www.youtube.com/watch?v=SCKEMpv7Ld4",
+      "source": "CodeAvecLionel",
+      "publishedAt": "2026-03-02T12:00:06Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "SCKEMpv7Ld4",
+      "thumbnail": "https://i.ytimg.com/vi/SCKEMpv7Ld4/hqdefault.jpg"
     },
     {
-      "title": "Top 10 des meilleures assurances habitation en 2026 [Sponsorisé]",
-      "description": "L’année 2026 marque un tournant dans l’assurance habitation avec des hausses tarifaires moyennes de 7,5 à 9% et l’émergence de nouveaux services digitaux. Face à cette évolution, choisir la bonne assu...",
-      "url": "https://www.maison-et-domotique.com/168309-top-10-des-meilleures-assurances-habitation-en-2026-sponsorise/",
-      "source": "Maison et Domotique",
-      "publishedAt": "2026-03-11T05:09:00Z",
+      "title": "Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro",
+      "description": "Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...",
+      "url": "https://www.youtube.com/watch?v=8EXbMYHL8xw",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-01-31T08:46:46Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "8EXbMYHL8xw",
+      "thumbnail": "https://i.ytimg.com/vi/8EXbMYHL8xw/hqdefault.jpg"
+    },
+    {
+      "title": "Comment des hackers russes ont piraté les comptes Signal et WhatsApp de responsables aux Pays-Bas",
+      "description": "Pas de méthodes ultra sophistiquées, mais bien une technique d'hameçonnage, comme nous en recevons tous au quotidien. Les experts de la sécurité sonnent l'alerte.",
+      "url": "https://www.lexpress.fr/economie/high-tech/comment-des-hackers-russes-ont-pirate-les-comptes-signal-et-whatsapp-de-responsables-aux-pays-bas-M3UO4GHH6RFQHKB2CC72DK7J3I/",
+      "source": "L'Express",
+      "publishedAt": "2026-03-11T17:54:44Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
     },
     {
-      "title": "AMI LABS lève 890 millions d’euros pour construire une nouvelle génération d’IA autour des “world models”",
-      "description": "À mesure que l’intelligence artificielle générative s’impose dans les usages, un débat scientifique traverse désormais la communauté de la recherche : les modèles de langage actuels, fondés sur la pré...",
-      "url": "https://www.frenchweb.fr/ami-labs-leve-890-millions-deuros-pour-construire-une-nouvelle-generation-dia-autour-des-world-models/460686",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-03-10T05:12:40Z",
+      "title": "Un modèle d’IA réussit là où les chercheurs hésitaient encore : la démonstration d’un problème d’Erdős enfin validée",
+      "description": "Depuis des décennies, certaines énigmes mathématiques résistent aux chercheurs du monde entier. L’une d’elles, issue de la célèbre liste du mathématicien Paul Erdős, vient pourtant de connaître un tou...",
+      "url": "https://dailygeekshow.com/?p=1004377",
+      "source": "Daily Geek Show",
+      "publishedAt": "2026-03-11T20:32:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "IA dans les PME : un levier de compétitivité à ne plus ignorer",
-      "description": "Dans un contexte économique marqué par l'incertitude et la nécessité de se réinventer, l'intelligence artificielle (IA) s'impose comme un levier de compétitivité incontournable pour les PME.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1548599-ia-dans-les-pme-un-levier-de-competitivite-a-ne-plus-ignorer/",
-      "source": "JDN",
-      "publishedAt": "2026-03-11T08:16:43Z",
+      "title": "\"C'est pas moi, c'est l'IA\" : après des pannes en cascade, Amazon impose la supervision humaine sur son code IA",
+      "description": "\"C'est pas moi, c'est l'IA\" : après des pannes en cascade, Amazon impose la supervision humaine sur son code IA: “C'est pas moi, c'est l'IA” : après des pannes en cascade, Amazon impose la supervision...",
+      "url": "https://www.tumblr.com/lesjoiesducode/810865801571762176/cest-pas-moi-cest-lia-apr%C3%A8s-des-pannes-en",
+      "source": "Tumblr.com",
+      "publishedAt": "2026-03-12T07:51:28Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,28 +278,28 @@
       "thumbnail": ""
     },
     {
-      "title": "Legal AI : l’Europe innove, mais le marché se joue aux États-Unis",
-      "description": "L’intelligence artificielle s’installe progressivement dans l’un des derniers bastions des services professionnels : le droit. Recherche juridique, analyse contractuelle, rédaction de documents ou due...",
-      "url": "https://www.frenchweb.fr/legal-ai-leurope-innove-mais-le-marche-se-joue-aux-etats-unis/460711",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-03-11T05:37:32Z",
+      "title": "Le Guide Google Antigravity ULTIME en 2026 ! (méthode complète)",
+      "description": "Récupère le template PRD et les autres ressources pour AntiGravity : https://tally.so/r/vGP7BA Forme-toi à construire et vendre ...",
+      "url": "https://www.youtube.com/watch?v=Fkfv96HdpPA",
+      "source": "Baptiste Simard - IA",
+      "publishedAt": "2026-01-29T17:00:21Z",
       "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Fkfv96HdpPA",
+      "thumbnail": "https://i.ytimg.com/vi/Fkfv96HdpPA/hqdefault.jpg"
     },
     {
-      "title": "Après avoir claqué la porte de Meta, l’ingénieur spécialiste de l'IA Yann Le Cun revient en France pour créer son entreprise",
-      "description": "Yann Le Cun, co-lauréat du Prix Turing et ancien responsable IA de Meta, a lancé la start-up AMI pour développer une IA au service de l’industrie réelle. Son objectif : optimiser moteurs d’avion, cent...",
-      "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/apres-avoir-claque-la-porte-de-meta-l-ingenieur-specialiste-de-l-ia-yann-le-cun-revient-en-france-pour-creer-son-entreprise_7828241.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-03-11T07:02:45Z",
+      "title": "openClaw de zéro à expert : installation et utilisation réelle — Bluffant 😮",
+      "description": "Ressources que j'utilise (liens affiliés — merci pour votre soutien ! ) Serveur OpenClaw illimité (coupon : CLAW10) ...",
+      "url": "https://www.youtube.com/watch?v=aL4657Cunhk",
+      "source": "Dr. Firas",
+      "publishedAt": "2026-01-30T23:23:55Z",
       "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "aL4657Cunhk",
+      "thumbnail": "https://i.ytimg.com/vi/aL4657Cunhk/hqdefault.jpg"
     }
   ]
 }
