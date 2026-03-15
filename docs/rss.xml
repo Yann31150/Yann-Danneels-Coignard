@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 14 Mar 2026 08:41:39 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 08:43:12 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,28 +13,28 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Les hallucinations de l'IA en biologie</title>
-            <link>https://www.techno-science.net/actualite/hallucinations-ia-biologie-N28413.html</link>
-            <description><![CDATA[L'avènement récent de l'intelligence artificielle générative* a déjà révolutionné nos vies et nos sociétés, grâce à des outils tels que Chat-GPT ou Gemini. Pour l'instant, l'IA...]]></description>
-            <pubDate>Fri, 13 Mar 2026 05:00:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.techno-science.net/actualite/hallucinations-ia-biologie-N28413.html</guid>
-            <source>Techno-science.net</source>
-        </item>
-        <item>
-            <title>L’entrepreneur technologique québécois Yanik Guillemette publie une analyse sur l’avenir de l’intelligence artificielle dans les milieux de travail</title>
-            <link>https://www.globenewswire.com/news-release/2026/03/12/3255214/0/fr/L-entrepreneur-technologique-qu%C3%A9b%C3%A9cois-Yanik-Guillemette-publie-une-analyse-sur-l-avenir-de-l-intelligence-artificielle-dans-les-milieux-de-travail.html</link>
-            <description><![CDATA[MONTRÉAL, 12 mars 2026 (GLOBE NEWSWIRE) -- L’entrepreneur technologique canadien Yanik Guillemette a publié une nouvelle analyse portant sur la façon dont l’intelligence artificielle pourrait transfor...]]></description>
-            <pubDate>Thu, 12 Mar 2026 22:47:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/03/12/3255214/0/fr/L-entrepreneur-technologique-qu%C3%A9b%C3%A9cois-Yanik-Guillemette-publie-une-analyse-sur-l-avenir-de-l-intelligence-artificielle-dans-les-milieux-de-travail.html</guid>
-            <source>GlobeNewswire</source>
-        </item>
-        <item>
-            <title>Xpeng G6 : recharge en 12 minutes, intelligence artificielle et prix canon pour ridiculiser le Tesla Model Y</title>
-            <link>https://www.presse-citron.net/xpeng-g6-recharge-en-12-minutes-intelligence-artificielle-et-prix-canon-pour-ridiculiser-le-tesla-model-y/</link>
-            <description><![CDATA[Xpeng rend son SUV G6 encore plus séduisant. Outre un style légèrement remanié, le chinois propose une recharge éclair et accueille l’intelligence artificielle à bras ouverts. À 42 990 €, son prix res...]]></description>
-            <pubDate>Fri, 13 Mar 2026 07:00:28 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/xpeng-g6-recharge-en-12-minutes-intelligence-artificielle-et-prix-canon-pour-ridiculiser-le-tesla-model-y/</guid>
+            <title>Comment générer des vidéos gratuitement avec Sora 2</title>
+            <link>https://www.presse-citron.net/comment-generer-des-videos-gratuitement-avec-sora-2/</link>
+            <description><![CDATA[Les utilisateurs de la version gratuite de ChatGPT n’ont pas accès aux modèles Sora d’OpenAI, spécialisés dans la génération de vidéos. Cependant, il est possible de profiter de cette technologie sans...]]></description>
+            <pubDate>Sat, 14 Mar 2026 08:01:52 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/comment-generer-des-videos-gratuitement-avec-sora-2/</guid>
             <source>Presse-citron</source>
+        </item>
+        <item>
+            <title>Meta va enfin rouvrir WhatsApp aux IA concurrentes, voici pourquoi</title>
+            <link>https://www.journaldugeek.com/2026/03/14/meta-va-enfin-rouvrir-whatsapp-aux-ia-concurrentes-voici-pourquoi/</link>
+            <description><![CDATA[Sous pression de la Commission européenne, Meta ouvre l’API WhatsApp Business aux chatbots concurrents. ChatGPT, Grok ou Claude pourront à nouveau s’intégrer à la messagerie.]]></description>
+            <pubDate>Sat, 14 Mar 2026 08:31:55 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/03/14/meta-va-enfin-rouvrir-whatsapp-aux-ia-concurrentes-voici-pourquoi/</guid>
+            <source>Journal du geek</source>
+        </item>
+        <item>
+            <title>Créer un Dashboard Power BI en 15 Minutes | Analyse de Ventes avec Superstore - Retail</title>
+            <link>https://www.youtube.com/watch?v=n7Nvz5UuBV4</link>
+            <description><![CDATA[Créer un Dashboard Power BI Professionnel avec les Données Superstore Dans ce tutoriel complet, je te montre comment ...]]></description>
+            <pubDate>Mon, 02 Mar 2026 14:41:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=n7Nvz5UuBV4</guid>
+            <source>Ngroup Media & Digital</source>
         </item>
         <item>
             <title>Comment utiliser concrètement l'IA et Python pour analyser des données (exemple en temps réel)</title>
@@ -141,36 +141,36 @@
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>EarthDaily obtient la conformité CEOS Analysis Ready Data (CEOS-ARD)</title>
-            <link>https://www.globenewswire.com/news-release/2026/03/12/3255049/0/fr/EarthDaily-obtient-la-conformit%C3%A9-CEOS-Analysis-Ready-Data-CEOS-ARD.html</link>
-            <description><![CDATA[Une validation qui confirme l’intégrité scientifique des données de la constellation EarthDaily Une validation qui confirme l’intégrité scientifique des données de la constellation EarthDaily]]></description>
-            <pubDate>Thu, 12 Mar 2026 18:59:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/03/12/3255049/0/fr/EarthDaily-obtient-la-conformit%C3%A9-CEOS-Analysis-Ready-Data-CEOS-ARD.html</guid>
-            <source>GlobeNewswire</source>
+            <title>Tout juste dévoilés, Xiaomi les Redmi Buds 8 Pro avec ANC sont déjà à prix cassé lors des Ventes Flash d’Amazon</title>
+            <link>https://www.frandroid.com/bons-plans/2999281_tout-juste-devoiles-xiaomi-les-redmi-buds-8-pro-avec-anc-sont-deja-a-prix-casse-lors-des-ventes-flash-damazon</link>
+            <description><![CDATA[Présentés au Mobile World Congress de Barcelone le 28 février 2026, les Xiaomi Redmi Buds 8 Pro ont impressionné grâce à leur réduction de bruit active jusqu’à 55 dB. Déjà accessibles, ils deviennent ...]]></description>
+            <pubDate>Fri, 13 Mar 2026 16:31:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/bons-plans/2999281_tout-juste-devoiles-xiaomi-les-redmi-buds-8-pro-avec-anc-sont-deja-a-prix-casse-lors-des-ventes-flash-damazon</guid>
+            <source>Frandroid</source>
         </item>
         <item>
-            <title>IA agentique : les investisseurs misent fort sur les plateformes d’agents</title>
-            <link>https://www.frenchweb.fr/ia-agentique-les-investisseurs-misent-fort-sur-les-plateformes-dagents/460774</link>
-            <description><![CDATA[Pendant plus de vingt ans, la transformation numérique des entreprises s’est structurée autour d’un modèle relativement stable :  ERP pour la gestion financière, CRM pour la relation client, outils an...]]></description>
-            <pubDate>Fri, 13 Mar 2026 06:07:16 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frenchweb.fr/ia-agentique-les-investisseurs-misent-fort-sur-les-plateformes-dagents/460774</guid>
-            <source>Frenchweb.fr</source>
+            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
+            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
+            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
+            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
+            <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Le netlinking à l’ère du GEO : comment les backlinks évoluent avec les moteurs basés sur l’IA ?</title>
-            <link>https://www.webmarketing-com.com/netlinking-geo-comment-backlinks-evoluent-moteurs-ia</link>
-            <description><![CDATA[Et si les backlinks ne suffisaient plus pour être visible sur le web ? Depuis plus de 20 ans, le netlinking fait partie des piliers du référencement naturel. Les moteurs de recherche utilisent les bac...]]></description>
-            <pubDate>Fri, 13 Mar 2026 08:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.webmarketing-com.com/netlinking-geo-comment-backlinks-evoluent-moteurs-ia</guid>
-            <source>Webmarketing-com.com</source>
+            <title>Ce désert volcanique lunaire obsède Pékin depuis des années, et le secret qu’il renferme remonte à 3,7 milliards d’années</title>
+            <link>https://dailygeekshow.com/?p=1004660</link>
+            <description><![CDATA[Une étude parue le 9 mars dans Nature Astronomy le confirme : la Chine a sélectionné Rimae Bode comme site prioritaire pour son premier alunissage habité, prévu d'ici 2030. Cette région volcanique de ...]]></description>
+            <pubDate>Fri, 13 Mar 2026 20:01:00 -0000</pubDate>
+            <guid isPermaLink="true">https://dailygeekshow.com/?p=1004660</guid>
+            <source>Daily Geek Show</source>
         </item>
         <item>
-            <title>Actualité : Des aspirateurs aux smartphones, Dreame veut briser le duo Apple-Android avec son propre système d'exploitation mobile</title>
-            <link>https://www.lesnumeriques.com/telephone-portable/des-aspirateurs-aux-smartphones-dreame-veut-briser-le-duo-apple-android-avec-son-propre-systeme-d-exploitation-mobile-n252911.html</link>
-            <description><![CDATA[nitialement reconnue pour ses aspirateurs-robots, la marque Dreame opère en 2026 un tournant stratégique majeur en diversifiant ses activités. L'entreprise chinoise déploie désormais un écosystème com...]]></description>
-            <pubDate>Fri, 13 Mar 2026 08:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/telephone-portable/des-aspirateurs-aux-smartphones-dreame-veut-briser-le-duo-apple-android-avec-son-propre-systeme-d-exploitation-mobile-n252911.html</guid>
-            <source>Les Numériques</source>
+            <title>Une chasse mondiale aux sources de neutrinos cosmiques</title>
+            <link>https://www.techno-science.net/actualite/chasse-mondiale-sources-neutrinos-cosmiques-N28419.html</link>
+            <description><![CDATA[Pour la première fois, une collaboration internationale de plus de 800 scientifiques a uni ses forces pour traquer les sources des neutrinos cosmiques de haute énergie. En combinant les...]]></description>
+            <pubDate>Sat, 14 Mar 2026 05:00:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.techno-science.net/actualite/chasse-mondiale-sources-neutrinos-cosmiques-N28419.html</guid>
+            <source>Techno-science.net</source>
         </item>
     </channel>
 </rss>
