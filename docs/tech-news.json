@@ -1,17 +1,29 @@
 {
-  "lastUpdate": "2026-03-16T09:03:20.461917",
+  "lastUpdate": "2026-03-17T08:58:54.848575",
   "articles": [
     {
-      "title": "Addiction IA : peut-on être accro à ChatGPT ? Ce que dit la science",
-      "description": "Il suffit d’un coucher tardif, d’un téléphone allumé et d’une question qui dérive en confidences… Pour certains, ChatGPT n’est plus seulement un outil : il devient une oreille, un miroir, parfois un a...",
-      "url": "https://www.aruco.com/intelligence-artificielle/addiction-chatgpt/",
-      "source": "Aruco.com",
-      "publishedAt": "2026-03-14T17:21:33Z",
+      "title": "Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)",
+      "description": "CHALLENGE 4 JOURS - GÉNÉREZ UNE PUB IA BLUFFANTE Créez une vidéo de qualité cinéma, entièrement générée avec ...",
+      "url": "https://www.youtube.com/watch?v=W3ygk9QJ4ks",
+      "source": "Frank Houbre - IA & intelligence artificielle",
+      "publishedAt": "2026-01-22T08:43:47Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "W3ygk9QJ4ks",
+      "thumbnail": "https://i.ytimg.com/vi/W3ygk9QJ4ks/hqdefault.jpg"
+    },
+    {
+      "title": "J&#39;ai résilié tous mes outils IA (j&#39;ai fabriqué le mien)",
+      "description": "Plus de 15 outils IA, 15 abonnements, des onglets partout... ChatGPT, Gemini, Perplexity, Gamma... C'était le gros bordel alors ...",
+      "url": "https://www.youtube.com/watch?v=N0gTIxg9l2A",
+      "source": "Ludo Salenne",
+      "publishedAt": "2026-01-17T17:49:37Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "N0gTIxg9l2A",
+      "thumbnail": "https://i.ytimg.com/vi/N0gTIxg9l2A/hqdefault.jpg"
     },
     {
       "title": "Analyse discriminante PLS « from scratch » avec ChatGPT (Python)",
@@ -26,52 +38,76 @@
       "thumbnail": "https://i.ytimg.com/vi/YLh5gsmOFkQ/hqdefault.jpg"
     },
     {
-      "title": "Analyse de données avec Orange",
-      "description": "Orange Data Mining : Analyse de données & Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...",
-      "url": "https://www.youtube.com/watch?v=hw8TiHABNLc",
-      "source": "Ardy Fanny Nell REBOUKA REBOUKA",
-      "publishedAt": "2026-01-29T16:09:39Z",
+      "title": "Comment Avoir une IA Privée et NON CENSURÉE Gratuitement sur ton PC (LM Studio + AnythingLLM)",
+      "description": "Dans cette vidéo, je vous montre comment faire fonctionner un LLM totalement privé, non censuré et hors ligne, directement sur ...",
+      "url": "https://www.youtube.com/watch?v=ArexJfRHMYc",
+      "source": "Parlons Cyber",
+      "publishedAt": "2026-02-07T17:00:25Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "hw8TiHABNLc",
-      "thumbnail": "https://i.ytimg.com/vi/hw8TiHABNLc/hqdefault.jpg"
+      "videoId": "ArexJfRHMYc",
+      "thumbnail": "https://i.ytimg.com/vi/ArexJfRHMYc/hqdefault.jpg"
     },
     {
-      "title": "🚀 AZURE MACHINE LEARNING: Découvre la plateforme ML de Microsoft Azure 👉",
-      "description": "Dans cette vidéo, je vous propose un **tour complet d'Azure Machine Learning**, le service de Machine Learning de ...",
-      "url": "https://www.youtube.com/watch?v=efSnDlJVxeE",
-      "source": "Mastering AI",
-      "publishedAt": "2026-02-20T12:01:48Z",
+      "title": "Data Analytics With Python Full Course 2026 [FREE] | Python Data Analytics Tutorial | Simplilearn",
+      "description": "Data Analyst Masters Program (Discount - YTBE15) ...",
+      "url": "https://www.youtube.com/watch?v=4ZGJs6TRzls",
+      "source": "Simplilearn",
+      "publishedAt": "2026-02-21T00:43:48Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "efSnDlJVxeE",
-      "thumbnail": "https://i.ytimg.com/vi/efSnDlJVxeE/hqdefault.jpg"
+      "videoId": "4ZGJs6TRzls",
+      "thumbnail": "https://i.ytimg.com/vi/4ZGJs6TRzls/hqdefault.jpg"
     },
     {
-      "title": "Détection des anomalies – Isolation Forest et Local Outlier Factor",
-      "description": "Machine Learning. Data Science. La problématique de la détection des anomalies en machine learning, applicable par exemple ...",
-      "url": "https://www.youtube.com/watch?v=qCaA6vGDRUw",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-01-15T09:21:17Z",
+      "title": "Analyse exploratoire des données (EDA) avec Pandas",
+      "description": "Dans cette vidéo, je partage un aide-mémoire puissant pour l'analyse exploratoire des données (EDA) avec Pandas, qui vous ...",
+      "url": "https://www.youtube.com/watch?v=ch9dwbbNlOE",
+      "source": "KNOWLEDGE DOCTOR",
+      "publishedAt": "2026-02-26T15:48:55Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "qCaA6vGDRUw",
-      "thumbnail": "https://i.ytimg.com/vi/qCaA6vGDRUw/hqdefault.jpg"
+      "videoId": "ch9dwbbNlOE",
+      "thumbnail": "https://i.ytimg.com/vi/ch9dwbbNlOE/hqdefault.jpg"
     },
     {
-      "title": "Règles d’association avec KNIME",
-      "description": "Machine learning. Data Mining. Data Science. Extraction des règles d'association à partir de données tabulaires avec le ...",
-      "url": "https://www.youtube.com/watch?v=I-L2k_lzopQ",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-01-21T10:01:16Z",
+      "title": "Comment utiliser concrètement l'IA et Python pour analyser des données (exemple en temps réel)",
+      "description": "Apprenez à analyser des données hospitalières avec Python (pandas) grâce à des outils d'IA. Nous allons réaliser trois niveaux ...",
+      "url": "https://www.youtube.com/watch?v=0BY-6tJmz1g",
+      "source": "Chandoo",
+      "publishedAt": "2026-02-05T14:30:00Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "I-L2k_lzopQ",
-      "thumbnail": "https://i.ytimg.com/vi/I-L2k_lzopQ/hqdefault.jpg"
+      "videoId": "0BY-6tJmz1g",
+      "thumbnail": "https://i.ytimg.com/vi/0BY-6tJmz1g/hqdefault.jpg"
+    },
+    {
+      "title": "Une entreprise américaine lance un centre de tri autonome piloté par IA pour accélérer et fiabiliser le recyclage des déchets",
+      "description": "Aux États-Unis, une nouvelle génération de centres de tri transforme la gestion des déchets. Grâce à l’intelligence artificielle, des machines capables de reconnaître et séparer les matériaux promette...",
+      "url": "https://dailygeekshow.com/?p=1004686",
+      "source": "Daily Geek Show",
+      "publishedAt": "2026-03-15T20:31:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Crise chez xAI : la startup d'Elon Musk peut-elle survivre à l'exode de ses fondateurs ?",
+      "description": "À peine deux ans après sa création, xAI, l'ambitieux projet d'Elon Musk en intelligence artificielle, fait face à une hémorragie de ses talents fondateurs. Une situation critique qui force le milliard...",
+      "url": "https://www.generation-nt.com/actualites/xai-elon-musk-spacex-demissions-cofondateurs-2072473",
+      "source": "Génération NT",
+      "publishedAt": "2026-03-16T08:20:02Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&#39;utiliser Excel !",
@@ -86,52 +122,16 @@
       "thumbnail": "https://i.ytimg.com/vi/8Vh5bmRgmlo/hqdefault.jpg"
     },
     {
-      "title": "Si l’intelligence est parfois artificielle, l’émotion est-elle forcément humaine ?",
-      "description": "Les investissements dans l'intelligence artificielle ciblent de plus en plus l'intégration par les algorithmes de capacités émotionnelles. Une approche qui tend à les rapprocher de la sensibilité huma...",
-      "url": "https://www.franceinfo.fr/replay-radio/nouveau-monde/si-l-intelligence-est-parfois-artificielle-l-emotion-est-elle-forcement-humaine_7836293.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-03-14T16:57:53Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)",
-      "description": "Vous voulez apprendre à créer des tableaux de bord mais vous ne savez pas par où commencer ? Tout commence ici ! ​Dans ...",
-      "url": "https://www.youtube.com/watch?v=AsNBiYCJRyk",
-      "source": "Diaby Fatemate ",
-      "publishedAt": "2026-02-08T09:29:17Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "AsNBiYCJRyk",
-      "thumbnail": "https://i.ytimg.com/vi/AsNBiYCJRyk/hqdefault.jpg"
-    },
-    {
-      "title": "Analyse discriminante avec « discrimintools » (Python)",
-      "description": "Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...",
-      "url": "https://www.youtube.com/watch?v=NvdjH1fRRE0",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-02-16T09:53:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "NvdjH1fRRE0",
-      "thumbnail": "https://i.ytimg.com/vi/NvdjH1fRRE0/hqdefault.jpg"
-    },
-    {
-      "title": "C&#39;est quoi la BI ? (Business Intelligence) - Guide Complet pour Débutants",
-      "description": "Vous voulez comprendre comment transformer des données brutes en décisions stratégiques ? Bienvenue dans cette ...",
-      "url": "https://www.youtube.com/watch?v=F-oxdcZBX-8",
-      "source": "CHIKK_STORE",
-      "publishedAt": "2026-02-03T19:43:31Z",
+      "title": "#3 - Power BI : Import MySQL + Nettoyage Données (2 Méthodes) | Tuto ETL Débutant",
+      "description": "Importez 148K transactions dans Power BI et nettoyez vos données en 22 minutes — 2 méthodes universelles (MySQL direct + ...",
+      "url": "https://www.youtube.com/watch?v=mf8Tq-DVCGk",
+      "source": "Boubacar | Data Analyst",
+      "publishedAt": "2026-02-05T09:01:11Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "F-oxdcZBX-8",
-      "thumbnail": "https://i.ytimg.com/vi/F-oxdcZBX-8/hqdefault.jpg"
+      "videoId": "mf8Tq-DVCGk",
+      "thumbnail": "https://i.ytimg.com/vi/mf8Tq-DVCGk/hqdefault.jpg"
     },
     {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
@@ -170,18 +170,6 @@
       "thumbnail": "https://i.ytimg.com/vi/VdXrxU5woJI/hqdefault.jpg"
     },
     {
-      "title": "Le secret des pros : automatiser l&#39;organisation de vos mesures dans Power BI",
-      "description": "Vos mesures Power BI sont dispersées dans toutes vos tables ? Découvrez comment utiliser Tabular Editor pour centraliser et ...",
-      "url": "https://www.youtube.com/watch?v=GQN9jmpejhw",
-      "source": "Barthelemy Montreuil",
-      "publishedAt": "2026-01-18T16:45:06Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "GQN9jmpejhw",
-      "thumbnail": "https://i.ytimg.com/vi/GQN9jmpejhw/hqdefault.jpg"
-    },
-    {
       "title": "Python : FastAPI, SQLAlchemy et PostgreSQL",
       "description": "Cette vidéo explique comment relier une API FastAPI a une base de données postgreSQL. Nous allons pour cela utiliser l'ORM ...",
       "url": "https://www.youtube.com/watch?v=XCnB65yh5NM",
@@ -192,6 +180,30 @@
       "isYouTube": true,
       "videoId": "XCnB65yh5NM",
       "thumbnail": "https://i.ytimg.com/vi/XCnB65yh5NM/hqdefault.jpg"
+    },
+    {
+      "title": "Data Analysis Python Project | Real Time Swiggy Sales Analysis | Zero to Hero | Edition 2026",
+      "description": "python #dataanalysis #datascience ⭐ Power BI Complete Video Course - Basic to Advanced ...",
+      "url": "https://www.youtube.com/watch?v=RWrnqhSYUmk",
+      "source": "Data Tutorials",
+      "publishedAt": "2026-01-19T04:52:51Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "RWrnqhSYUmk",
+      "thumbnail": "https://i.ytimg.com/vi/RWrnqhSYUmk/hqdefault.jpg"
+    },
+    {
+      "title": "Entretien Analyste Données – Que Répondre aux 10 Questions Clés",
+      "description": "Entretien Analyste Données – Que Répondre aux 10 Questions Clés? Entretien Analyste Données: savoir que répondre aux ...",
+      "url": "https://www.youtube.com/watch?v=Q65w9BSeS-w",
+      "source": "Damal Consult Carrière TV- Français",
+      "publishedAt": "2026-02-12T11:00:06Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Q65w9BSeS-w",
+      "thumbnail": "https://i.ytimg.com/vi/Q65w9BSeS-w/hqdefault.jpg"
     },
     {
       "title": "Feature Engineering Hands on (French)",
@@ -230,18 +242,6 @@
       "thumbnail": "https://i.ytimg.com/vi/6Q_fVsx4CT8/hqdefault.jpg"
     },
     {
-      "title": "Ingénieur des données : rôle, missions, outils et importance du Data Engineer",
-      "description": "Dans ce tutoriel complet, nous expliquons le métier d'ingénieur des données, aussi appelé data engineer. Vous découvrirez ...",
-      "url": "https://www.youtube.com/watch?v=D2TZ3U6WUZ0",
-      "source": "Basic Skills",
-      "publishedAt": "2026-01-23T05:51:51Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "D2TZ3U6WUZ0",
-      "thumbnail": "https://i.ytimg.com/vi/D2TZ3U6WUZ0/hqdefault.jpg"
-    },
-    {
       "title": "ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)",
       "description": "Dans cette vidéo de 90 minutes, je vous apprends à utiliser ChatGPT simplement, avec des exemples concrets : comprendre ...",
       "url": "https://www.youtube.com/watch?v=Wg9M140pduU",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
     },
     {
-      "title": "Ath : comment intégrer l’IA de façon… intelligente dans l’administration ?",
-      "description": "Le conseiller Liam Leurident (PS) s’inquiète de l’utilisation de l’intelligence artificielle au sein de l’administration communale, à Ath. L’IA est présente partout. Des inquiétudes surgissent quant à...",
-      "url": "https://www.lavenir.net/regions/wallonie-picarde/ath/2026/03/15/ath-comment-integrer-lia-de-facon-intelligente-dans-ladministration-7ZMJWMAH6ZAFDETHDRJNJ3KDO4/",
-      "source": "Lavenir.net",
-      "publishedAt": "2026-03-15T06:00:00Z",
+      "title": "Bumble lance « Bee », son assistant de rencontre basé sur l’IA",
+      "description": "L’application de rencontres Bumble intègre désormais une intelligence artificielle à ses services. Cette nouveauté vise à accompagner les utilisateurs dans leurs échanges, confirmant l’adoption croiss...",
+      "url": "https://www.begeek.fr/bumble-lance-bee-son-assistant-de-rencontre-base-sur-lia-429563",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-03-16T07:00:42Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,23 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Quarto de A à Z — Introduction et Roadmap complet | Formation gratuite #1",
-      "description": "Bienvenue sur KMY's Academy ! Dans cette première vidéo, je vous présente la formation complète et gratuite sur Quarto — 25 ...",
-      "url": "https://www.youtube.com/watch?v=OQ1gItTdhYk",
-      "source": "KMY's Academy",
-      "publishedAt": "2026-03-05T13:00:06Z",
-      "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "OQ1gItTdhYk",
-      "thumbnail": "https://i.ytimg.com/vi/OQ1gItTdhYk/hqdefault.jpg"
-    },
-    {
-      "title": "L’IA chasseuse de bugs trouve des dizaines de failles dans Firefox",
-      "description": "Les IA ne servent pas seulement à répondre à des questions ou à générer des images pas très belles. Elles commencent aussi à traquer les failles de sécurité dans les logiciels. Une expérience menée pa...",
-      "url": "https://www.journaldugeek.com/2026/03/14/lia-chasseuse-de-bugs-trouve-des-dizaines-de-failles-dans-firefox/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-03-14T13:00:17Z",
+      "title": "Zach Braff dément une relation avec un chatbot IA, mais la polémique s’amplifie",
+      "description": "L’acteur Zach Braff, célèbre pour son interprétation dans la série médicale Scrubs, a récemment publié une mise au point ferme sur son compte Instagram. Il y réfute les rumeurs l’associant à une relat...",
+      "url": "https://www.fredzone.org/zach-braff-dement-une-relation-avec-un-chatbot-ia-mais-la-polemique-samplifie/",
+      "source": "FREDZONE",
+      "publishedAt": "2026-03-16T08:00:21Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "ARC Raiders prend une grande décision : terminé les voix IA",
-      "description": "Il est vrai que lors de la partution d'ARC Raiders en fin d'année dernière, l'IA qui est utilisée pour faire la voix des personnages avait fait beaucoup de bruit, mais aujourd'hui, le CEO d'Embark Stu...",
-      "url": "https://www.gamekult.com/actualite/arc-raiders-prend-une-grande-decision-termine-les-voix-ia-3050869003.html",
-      "source": "Gamekult",
-      "publishedAt": "2026-03-15T09:03:00Z",
+      "title": "Stop ! 6 points clés pour surmonter le blocage créatif sur les réseaux sociaux",
+      "description": "Stop au blocage créatif ! Vous ouvrez votre calendrier éditorial en social media et… rien. Zéro idée, zéro angle, zéro format… comme le syndrome de la page blanche ? Surmonter le blocage créatif sur l...",
+      "url": "https://www.webmarketing-com.com/stop-comment-surmonter-blocage-creatif-reseaux-sociaux",
+      "source": "Webmarketing-com.com",
+      "publishedAt": "2026-03-16T08:30:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Actualité : “Comment on sort l'humain de la boucle ?” : j'ai écouté Ben Affleck vendre son IA à Netflix, et cela vous concerne",
+      "description": "Si vous êtes abonné Netflix, ceci vous concerne. La plateforme vient de racheter InterPositive, la startup d'IA fondée par Ben Affleck, pour un montant pouvant atteindre 600 millions de dollars. Six j...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/comment-on-sort-l-humain-de-la-boucle-j-ai-ecoute-ben-affleck-vendre-son-ia-a-netflix-pour-600-millions-n253059.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-03-16T07:14:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
