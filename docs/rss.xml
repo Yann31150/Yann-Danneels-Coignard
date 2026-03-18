@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 17 Mar 2026 08:58:54 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 08:57:08 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,76 +13,44 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Maîtriser ChatGPT de A à Z (Guide COMPLET Débutant 2026)</title>
-            <link>https://www.youtube.com/watch?v=W3ygk9QJ4ks</link>
-            <description><![CDATA[CHALLENGE 4 JOURS - GÉNÉREZ UNE PUB IA BLUFFANTE Créez une vidéo de qualité cinéma, entièrement générée avec ...]]></description>
-            <pubDate>Thu, 22 Jan 2026 08:43:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=W3ygk9QJ4ks</guid>
-            <source>Frank Houbre - IA & intelligence artificielle</source>
+            <title>Condamné par un cancer, son chien survit grâce à un vaccin conçu avec ChatGPT</title>
+            <link>https://www.numerama.com/tech/2210171-condamne-par-un-cancer-son-chien-survit-grace-a-un-vaccin-concu-avec-chatgpt.html</link>
+            <description><![CDATA[Condamné par les vétérinaires à voir sa chienne mourir d’un cancer avancé, un ingénieur australien a décidé de concevoir lui-même un traitement expérimental. En s’aidant notamment de ChatGPT et d’outi...]]></description>
+            <pubDate>Mon, 16 Mar 2026 10:36:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/tech/2210171-condamne-par-un-cancer-son-chien-survit-grace-a-un-vaccin-concu-avec-chatgpt.html</guid>
+            <source>Numerama</source>
         </item>
         <item>
-            <title>J&amp;#39;ai résilié tous mes outils IA (j&amp;#39;ai fabriqué le mien)</title>
-            <link>https://www.youtube.com/watch?v=N0gTIxg9l2A</link>
-            <description><![CDATA[Plus de 15 outils IA, 15 abonnements, des onglets partout... ChatGPT, Gemini, Perplexity, Gamma... C'était le gros bordel alors ...]]></description>
-            <pubDate>Sat, 17 Jan 2026 17:49:37 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=N0gTIxg9l2A</guid>
-            <source>Ludo Salenne</source>
+            <title>« C’est ma meilleure amie » : il utilise l’IA pour défier la mort de sa chienne</title>
+            <link>https://www.frandroid.com/culture-tech/3027707_cest-ma-meilleure-amie-il-utilise-lia-pour-defier-la-mort-de-sa-chienne</link>
+            <description><![CDATA[Regardez bien l'histoire de Rosie. Condamnée par un cancer agressif, cette chienne a vu sa tumeur fondre de moitié après un traitement conçu... par son maître et une IA. En utilisant ChatGPT et AlphaF...]]></description>
+            <pubDate>Mon, 16 Mar 2026 15:45:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/culture-tech/3027707_cest-ma-meilleure-amie-il-utilise-lia-pour-defier-la-mort-de-sa-chienne</guid>
+            <source>Frandroid</source>
         </item>
         <item>
-            <title>Analyse discriminante PLS « from scratch » avec ChatGPT (Python)</title>
-            <link>https://www.youtube.com/watch?v=YLh5gsmOFkQ</link>
-            <description><![CDATA[Machine learning. Data science. Classification supervisée. Analyse discriminante PLS, approche en deux étapes : régression ...]]></description>
-            <pubDate>Tue, 17 Feb 2026 16:40:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=YLh5gsmOFkQ</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>Prédire et éviter les accidents de la route : la promesse étonnante de cette entreprise d’Auvergne</title>
+            <link>https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/haute-loire/puy-velay/predire-et-eviter-les-accidents-de-la-route-la-promesse-etonnante-de-cette-entreprise-d-auvergne-3313989.html</link>
+            <description><![CDATA[Et si on pouvait prédire les accidents de la route ? L’idée semble un peu folle et pourtant, Logipro, une entreprise du Puy-en-Velay planche dessus depuis plusieurs années, en s’appuyant sur l’intelli...]]></description>
+            <pubDate>Tue, 17 Mar 2026 05:00:03 -0000</pubDate>
+            <guid isPermaLink="true">https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/haute-loire/puy-velay/predire-et-eviter-les-accidents-de-la-route-la-promesse-etonnante-de-cette-entreprise-d-auvergne-3313989.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
         <item>
-            <title>Comment Avoir une IA Privée et NON CENSURÉE Gratuitement sur ton PC (LM Studio + AnythingLLM)</title>
-            <link>https://www.youtube.com/watch?v=ArexJfRHMYc</link>
-            <description><![CDATA[Dans cette vidéo, je vous montre comment faire fonctionner un LLM totalement privé, non censuré et hors ligne, directement sur ...]]></description>
-            <pubDate>Sat, 07 Feb 2026 17:00:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ArexJfRHMYc</guid>
-            <source>Parlons Cyber</source>
+            <title>“Les vétérinaires n’y croyaient plus” Ce chien atteint d’un cancer survit grâce à ChatGPT</title>
+            <link>https://www.journaldugeek.com/2026/03/17/les-veterinaires-ny-croyaient-plus-ce-chien-atteint-dun-cancer-survit-grace-a-chatgpt/</link>
+            <description><![CDATA[Condamnée par un cancer, une chienne a reçu un vaccin conçu avec l’aide de l’IA. Une histoire qui ressemble presque à de la science-fiction.]]></description>
+            <pubDate>Tue, 17 Mar 2026 07:36:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/03/17/les-veterinaires-ny-croyaient-plus-ce-chien-atteint-dun-cancer-survit-grace-a-chatgpt/</guid>
+            <source>Journal du geek</source>
         </item>
         <item>
-            <title>Data Analytics With Python Full Course 2026 [FREE] | Python Data Analytics Tutorial | Simplilearn</title>
-            <link>https://www.youtube.com/watch?v=4ZGJs6TRzls</link>
-            <description><![CDATA[Data Analyst Masters Program (Discount - YTBE15) ...]]></description>
-            <pubDate>Sat, 21 Feb 2026 00:43:48 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=4ZGJs6TRzls</guid>
-            <source>Simplilearn</source>
-        </item>
-        <item>
-            <title>Analyse exploratoire des données (EDA) avec Pandas</title>
-            <link>https://www.youtube.com/watch?v=ch9dwbbNlOE</link>
-            <description><![CDATA[Dans cette vidéo, je partage un aide-mémoire puissant pour l'analyse exploratoire des données (EDA) avec Pandas, qui vous ...]]></description>
-            <pubDate>Thu, 26 Feb 2026 15:48:55 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ch9dwbbNlOE</guid>
-            <source>KNOWLEDGE DOCTOR</source>
-        </item>
-        <item>
-            <title>Comment utiliser concrètement l'IA et Python pour analyser des données (exemple en temps réel)</title>
-            <link>https://www.youtube.com/watch?v=0BY-6tJmz1g</link>
-            <description><![CDATA[Apprenez à analyser des données hospitalières avec Python (pandas) grâce à des outils d'IA. Nous allons réaliser trois niveaux ...]]></description>
-            <pubDate>Thu, 05 Feb 2026 14:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=0BY-6tJmz1g</guid>
-            <source>Chandoo</source>
-        </item>
-        <item>
-            <title>Une entreprise américaine lance un centre de tri autonome piloté par IA pour accélérer et fiabiliser le recyclage des déchets</title>
-            <link>https://dailygeekshow.com/?p=1004686</link>
-            <description><![CDATA[Aux États-Unis, une nouvelle génération de centres de tri transforme la gestion des déchets. Grâce à l’intelligence artificielle, des machines capables de reconnaître et séparer les matériaux promette...]]></description>
-            <pubDate>Sun, 15 Mar 2026 20:31:00 -0000</pubDate>
-            <guid isPermaLink="true">https://dailygeekshow.com/?p=1004686</guid>
-            <source>Daily Geek Show</source>
-        </item>
-        <item>
-            <title>Crise chez xAI : la startup d'Elon Musk peut-elle survivre à l'exode de ses fondateurs ?</title>
-            <link>https://www.generation-nt.com/actualites/xai-elon-musk-spacex-demissions-cofondateurs-2072473</link>
-            <description><![CDATA[À peine deux ans après sa création, xAI, l'ambitieux projet d'Elon Musk en intelligence artificielle, fait face à une hémorragie de ses talents fondateurs. Une situation critique qui force le milliard...]]></description>
-            <pubDate>Mon, 16 Mar 2026 08:20:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/xai-elon-musk-spacex-demissions-cofondateurs-2072473</guid>
-            <source>Génération NT</source>
+            <title>GPT-5.4 : Ce que OpenAI ne veut pas que vous sachiez</title>
+            <link>https://www.youtube.com/watch?v=iDIB_dvMtZE</link>
+            <description><![CDATA[GPT-5.4 : Ce que OpenAI ne veut pas que vous sachiez Dans cette vidéo, on décrypte les actualités IA et Tech les plus ...]]></description>
+            <pubDate>Sat, 07 Mar 2026 17:50:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=iDIB_dvMtZE</guid>
+            <source>Parlons IA & Tech</source>
         </item>
         <item>
             <title>EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&amp;#39;utiliser Excel !</title>
@@ -93,12 +61,44 @@
             <source>Morpheus Formation | Excel, Sheets, Power BI</source>
         </item>
         <item>
-            <title>#3 - Power BI : Import MySQL + Nettoyage Données (2 Méthodes) | Tuto ETL Débutant</title>
-            <link>https://www.youtube.com/watch?v=mf8Tq-DVCGk</link>
-            <description><![CDATA[Importez 148K transactions dans Power BI et nettoyez vos données en 22 minutes — 2 méthodes universelles (MySQL direct + ...]]></description>
-            <pubDate>Thu, 05 Feb 2026 09:01:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=mf8Tq-DVCGk</guid>
-            <source>Boubacar | Data Analyst</source>
+            <title>Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)</title>
+            <link>https://www.youtube.com/watch?v=AsNBiYCJRyk</link>
+            <description><![CDATA[Vous voulez apprendre à créer des tableaux de bord mais vous ne savez pas par où commencer ? Tout commence ici ! ​Dans ...]]></description>
+            <pubDate>Sun, 08 Feb 2026 09:29:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=AsNBiYCJRyk</guid>
+            <source>Diaby Fatemate </source>
+        </item>
+        <item>
+            <title>Analyse discriminante avec « discrimintools » (Python)</title>
+            <link>https://www.youtube.com/watch?v=NvdjH1fRRE0</link>
+            <description><![CDATA[Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...]]></description>
+            <pubDate>Mon, 16 Feb 2026 09:53:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=NvdjH1fRRE0</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp;amp; 10 | Guide complet</title>
+            <link>https://www.youtube.com/watch?v=G-4DERRKrHA</link>
+            <description><![CDATA[Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...]]></description>
+            <pubDate>Wed, 25 Feb 2026 04:31:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=G-4DERRKrHA</guid>
+            <source>AntalaSoft School</source>
+        </item>
+        <item>
+            <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
+            <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
+            <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
+            <pubDate>Fri, 13 Feb 2026 23:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=2i9u_hwq05g</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
+            <title>Nvidia lance ses puces IA Vera Rubin dans l'espace : les datacenters spatiaux, c'est bientôt !</title>
+            <link>https://www.generation-nt.com/actualites/nvidia-vera-rubin-puces-ia-espace-frontiere-2072564</link>
+            <description><![CDATA[La Silicon Valley lève les yeux au ciel, et ce n'est pas pour admirer la Voie lactée. Nvidia vient de confirmer son intention de transformer l'orbite terrestre en une nouvelle extension de ses fermes ...]]></description>
+            <pubDate>Tue, 17 Mar 2026 06:30:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/nvidia-vera-rubin-puces-ia-espace-frontiere-2072564</guid>
+            <source>Génération NT</source>
         </item>
         <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
@@ -133,36 +133,20 @@
             <source>Algomius</source>
         </item>
         <item>
-            <title>Data Analysis Python Project | Real Time Swiggy Sales Analysis | Zero to Hero | Edition 2026</title>
-            <link>https://www.youtube.com/watch?v=RWrnqhSYUmk</link>
-            <description><![CDATA[python #dataanalysis #datascience ⭐ Power BI Complete Video Course - Basic to Advanced ...]]></description>
-            <pubDate>Mon, 19 Jan 2026 04:52:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=RWrnqhSYUmk</guid>
-            <source>Data Tutorials</source>
+            <title>STMicroelectronics étend son portefeuille de produits de conversion de puissance pour centres de données d’IA en 800 VDC avec de nouvelles architectures 12V et 6V en collaboration avec NVIDIA</title>
+            <link>https://www.globenewswire.com/news-release/2026/03/17/3256871/0/fr/STMicroelectronics-%C3%A9tend-son-portefeuille-de-produits-de-conversion-de-puissance-pour-centres-de-donn%C3%A9es-d-IA-en-800-VDC-avec-de-nouvelles-architectures-12V-et-6V-en-collaboration-.html</link>
+            <description><![CDATA[PR N°: T4766D   STMicroelectronics étend son portefeuille de produits de conversion de puissance pour centres de données d’IA en 800 VDC avec de nouvelles...]]></description>
+            <pubDate>Tue, 17 Mar 2026 07:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/03/17/3256871/0/fr/STMicroelectronics-%C3%A9tend-son-portefeuille-de-produits-de-conversion-de-puissance-pour-centres-de-donn%C3%A9es-d-IA-en-800-VDC-avec-de-nouvelles-architectures-12V-et-6V-en-collaboration-.html</guid>
+            <source>GlobeNewswire</source>
         </item>
         <item>
-            <title>Entretien Analyste Données – Que Répondre aux 10 Questions Clés</title>
-            <link>https://www.youtube.com/watch?v=Q65w9BSeS-w</link>
-            <description><![CDATA[Entretien Analyste Données – Que Répondre aux 10 Questions Clés? Entretien Analyste Données: savoir que répondre aux ...]]></description>
-            <pubDate>Thu, 12 Feb 2026 11:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Q65w9BSeS-w</guid>
-            <source>Damal Consult Carrière TV- Français</source>
-        </item>
-        <item>
-            <title>Feature Engineering Hands on (French)</title>
-            <link>https://www.youtube.com/watch?v=VMi18mtBrPE</link>
-            <description><![CDATA[Dans ce tutoriel pratique, vous apprendrez les bases du feature engineering et comment transformer des données brutes en ...]]></description>
-            <pubDate>Sun, 01 Feb 2026 13:41:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VMi18mtBrPE</guid>
-            <source>Machine Learning and Optimization for All</source>
-        </item>
-        <item>
-            <title>De zéro à data analyste : la deuxième leçon avec Yao (2ème Session)</title>
-            <link>https://www.youtube.com/watch?v=FJdYN6A9X78</link>
-            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
-            <pubDate>Fri, 16 Jan 2026 23:00:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=FJdYN6A9X78</guid>
-            <source>Enogne School</source>
+            <title>Quelle ambiance pour votre jardin ? Découvrez 7 styles beaux et faciles</title>
+            <link>https://www.futura-sciences.com/maison/photos/jardin-ambiance-votre-jardin-decouvrez-7-styles-beaux-faciles-2403/</link>
+            <description><![CDATA[Vous hésitez entre un jardin zen ou une terrasse méditerranéenne ? Voici 10 styles beaux et faciles à reproduire, pensés pour tous les espaces et tous les niveaux. Pour chaque ambiance : idées d’aména...]]></description>
+            <pubDate>Tue, 17 Mar 2026 08:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/maison/photos/jardin-ambiance-votre-jardin-decouvrez-7-styles-beaux-faciles-2403/</guid>
+            <source>Futura</source>
         </item>
         <item>
             <title>Formation SQL Pour la Data - Introduction + Installation PostgreSQL + VS Code</title>
@@ -171,6 +155,22 @@
             <pubDate>Tue, 20 Jan 2026 17:39:43 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=6Q_fVsx4CT8</guid>
             <source>Oscar Aksanti</source>
+        </item>
+        <item>
+            <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
+            <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
+            <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
+            <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
+            <source>Sébastien Daviot - Expertise Data</source>
+        </item>
+        <item>
+            <title>data-science-document-ai 1.65.1</title>
+            <link>https://pypi.org/project/data-science-document-ai/1.65.1/</link>
+            <description><![CDATA["Document AI repo for data science"]]></description>
+            <pubDate>Tue, 17 Mar 2026 07:06:53 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.65.1/</guid>
+            <source>Pypi.org</source>
         </item>
     </channel>
 </rss>
