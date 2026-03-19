@@ -5,29 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 18 Mar 2026 08:57:08 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 08:51:27 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Condamné par un cancer, son chien survit grâce à un vaccin conçu avec ChatGPT</title>
-            <link>https://www.numerama.com/tech/2210171-condamne-par-un-cancer-son-chien-survit-grace-a-un-vaccin-concu-avec-chatgpt.html</link>
-            <description><![CDATA[Condamné par les vétérinaires à voir sa chienne mourir d’un cancer avancé, un ingénieur australien a décidé de concevoir lui-même un traitement expérimental. En s’aidant notamment de ChatGPT et d’outi...]]></description>
-            <pubDate>Mon, 16 Mar 2026 10:36:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/tech/2210171-condamne-par-un-cancer-son-chien-survit-grace-a-un-vaccin-concu-avec-chatgpt.html</guid>
-            <source>Numerama</source>
-        </item>
-        <item>
-            <title>« C’est ma meilleure amie » : il utilise l’IA pour défier la mort de sa chienne</title>
-            <link>https://www.frandroid.com/culture-tech/3027707_cest-ma-meilleure-amie-il-utilise-lia-pour-defier-la-mort-de-sa-chienne</link>
-            <description><![CDATA[Regardez bien l'histoire de Rosie. Condamnée par un cancer agressif, cette chienne a vu sa tumeur fondre de moitié après un traitement conçu... par son maître et une IA. En utilisant ChatGPT et AlphaF...]]></description>
-            <pubDate>Mon, 16 Mar 2026 15:45:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/culture-tech/3027707_cest-ma-meilleure-amie-il-utilise-lia-pour-defier-la-mort-de-sa-chienne</guid>
-            <source>Frandroid</source>
-        </item>
         <item>
             <title>Prédire et éviter les accidents de la route : la promesse étonnante de cette entreprise d’Auvergne</title>
             <link>https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/haute-loire/puy-velay/predire-et-eviter-les-accidents-de-la-route-la-promesse-etonnante-de-cette-entreprise-d-auvergne-3313989.html</link>
@@ -37,12 +21,12 @@
             <source>Franceinfo.fr</source>
         </item>
         <item>
-            <title>“Les vétérinaires n’y croyaient plus” Ce chien atteint d’un cancer survit grâce à ChatGPT</title>
-            <link>https://www.journaldugeek.com/2026/03/17/les-veterinaires-ny-croyaient-plus-ce-chien-atteint-dun-cancer-survit-grace-a-chatgpt/</link>
-            <description><![CDATA[Condamnée par un cancer, une chienne a reçu un vaccin conçu avec l’aide de l’IA. Une histoire qui ressemble presque à de la science-fiction.]]></description>
-            <pubDate>Tue, 17 Mar 2026 07:36:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/03/17/les-veterinaires-ny-croyaient-plus-ce-chien-atteint-dun-cancer-survit-grace-a-chatgpt/</guid>
-            <source>Journal du geek</source>
+            <title>L’IA doit nous aider à mieux réfléchir et non réfléchir à notre place</title>
+            <link>https://fredcavazza.net/2026/03/17/lia-doit-nous-aider-a-mieux-reflechir-et-non-reflechir-a-notre-place/</link>
+            <description><![CDATA[Trois ans après le raz-de-marée ChatGPT, l’IA générative reste largement mal comprise, mal utilisée et mal encadrée en entreprise. Entre promesses mirobolantes des éditeurs et chatbots qui simulent de...]]></description>
+            <pubDate>Tue, 17 Mar 2026 13:59:15 -0000</pubDate>
+            <guid isPermaLink="true">https://fredcavazza.net/2026/03/17/lia-doit-nous-aider-a-mieux-reflechir-et-non-reflechir-a-notre-place/</guid>
+            <source>Fredcavazza.net</source>
         </item>
         <item>
             <title>GPT-5.4 : Ce que OpenAI ne veut pas que vous sachiez</title>
@@ -85,20 +69,28 @@
             <source>AntalaSoft School</source>
         </item>
         <item>
-            <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
-            <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
-            <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
-            <pubDate>Fri, 13 Feb 2026 23:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2i9u_hwq05g</guid>
-            <source>Enogne School</source>
+            <title>Nvidia veut mettre des serveurs dans l’espace : faut-il y croire ?</title>
+            <link>https://www.numerama.com/tech/2211199-nvidia-veut-mettre-des-serveurs-dans-lespace-faut-il-y-croire.html</link>
+            <description><![CDATA[Lors du GTC 2026, Nvidia a officialisé son ambition de conquérir l’orbite terrestre avec sa gamme « Space Computing ». Si l’idée de déployer de véritables data centers spatiaux dédiés à l’IA fait rêve...]]></description>
+            <pubDate>Tue, 17 Mar 2026 09:46:19 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/tech/2211199-nvidia-veut-mettre-des-serveurs-dans-lespace-faut-il-y-croire.html</guid>
+            <source>Numerama</source>
         </item>
         <item>
-            <title>Nvidia lance ses puces IA Vera Rubin dans l'espace : les datacenters spatiaux, c'est bientôt !</title>
-            <link>https://www.generation-nt.com/actualites/nvidia-vera-rubin-puces-ia-espace-frontiere-2072564</link>
-            <description><![CDATA[La Silicon Valley lève les yeux au ciel, et ce n'est pas pour admirer la Voie lactée. Nvidia vient de confirmer son intention de transformer l'orbite terrestre en une nouvelle extension de ses fermes ...]]></description>
-            <pubDate>Tue, 17 Mar 2026 06:30:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/nvidia-vera-rubin-puces-ia-espace-frontiere-2072564</guid>
-            <source>Génération NT</source>
+            <title>Automobile. Fraude à l'assurance : quand l'IA maquille les dégâts…</title>
+            <link>https://www.leprogres.fr/magazine-automobile/2026/03/18/assurance-et-ia-quand-la-fraude-maquille-les-degats</link>
+            <description><![CDATA[Avec l’intelligence artificielle générative , une nouvelle génération de fraude se confirme dans l’assurance auto. Depuis 2025, certains assureurs observent une mutation profonde des modes opératoires...]]></description>
+            <pubDate>Wed, 18 Mar 2026 06:05:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.leprogres.fr/magazine-automobile/2026/03/18/assurance-et-ia-quand-la-fraude-maquille-les-degats</guid>
+            <source>Le Progrès</source>
+        </item>
+        <item>
+            <title>Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)</title>
+            <link>https://www.youtube.com/watch?v=Vm-dZxN70kY</link>
+            <description><![CDATA[Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...]]></description>
+            <pubDate>Sat, 14 Mar 2026 20:01:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Vm-dZxN70kY</guid>
+            <source>TechVantage FR</source>
         </item>
         <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
@@ -125,28 +117,12 @@
             <source>Wild Code School</source>
         </item>
         <item>
-            <title>Python : FastAPI, SQLAlchemy et PostgreSQL</title>
-            <link>https://www.youtube.com/watch?v=XCnB65yh5NM</link>
-            <description><![CDATA[Cette vidéo explique comment relier une API FastAPI a une base de données postgreSQL. Nous allons pour cela utiliser l'ORM ...]]></description>
-            <pubDate>Fri, 23 Jan 2026 17:00:52 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=XCnB65yh5NM</guid>
-            <source>Algomius</source>
-        </item>
-        <item>
-            <title>STMicroelectronics étend son portefeuille de produits de conversion de puissance pour centres de données d’IA en 800 VDC avec de nouvelles architectures 12V et 6V en collaboration avec NVIDIA</title>
-            <link>https://www.globenewswire.com/news-release/2026/03/17/3256871/0/fr/STMicroelectronics-%C3%A9tend-son-portefeuille-de-produits-de-conversion-de-puissance-pour-centres-de-donn%C3%A9es-d-IA-en-800-VDC-avec-de-nouvelles-architectures-12V-et-6V-en-collaboration-.html</link>
-            <description><![CDATA[PR N°: T4766D   STMicroelectronics étend son portefeuille de produits de conversion de puissance pour centres de données d’IA en 800 VDC avec de nouvelles...]]></description>
-            <pubDate>Tue, 17 Mar 2026 07:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/03/17/3256871/0/fr/STMicroelectronics-%C3%A9tend-son-portefeuille-de-produits-de-conversion-de-puissance-pour-centres-de-donn%C3%A9es-d-IA-en-800-VDC-avec-de-nouvelles-architectures-12V-et-6V-en-collaboration-.html</guid>
-            <source>GlobeNewswire</source>
-        </item>
-        <item>
-            <title>Quelle ambiance pour votre jardin ? Découvrez 7 styles beaux et faciles</title>
-            <link>https://www.futura-sciences.com/maison/photos/jardin-ambiance-votre-jardin-decouvrez-7-styles-beaux-faciles-2403/</link>
-            <description><![CDATA[Vous hésitez entre un jardin zen ou une terrasse méditerranéenne ? Voici 10 styles beaux et faciles à reproduire, pensés pour tous les espaces et tous les niveaux. Pour chaque ambiance : idées d’aména...]]></description>
-            <pubDate>Tue, 17 Mar 2026 08:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/maison/photos/jardin-ambiance-votre-jardin-decouvrez-7-styles-beaux-faciles-2403/</guid>
-            <source>Futura</source>
+            <title>Comment le big data transforme notre compréhension de l'univers</title>
+            <link>https://atlantico.fr/article/decryptage/comment-le-big-data-transforme-notre-comprehension-de-l-univers</link>
+            <description><![CDATA[La science moderne dépend de plus en plus d'immenses ensembles de données et d'analyses automatisées. En astronomie, le relevé Legacy Survey of Space and Time (LSST) de l'observatoire Vera C. Rubin – ...]]></description>
+            <pubDate>Tue, 17 Mar 2026 12:25:00 -0000</pubDate>
+            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/comment-le-big-data-transforme-notre-comprehension-de-l-univers</guid>
+            <source>Atlantico.fr</source>
         </item>
         <item>
             <title>Formation SQL Pour la Data - Introduction + Installation PostgreSQL + VS Code</title>
@@ -165,12 +141,36 @@
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
+            <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
+            <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
+            <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
+            <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
+            <source>CodeAvecLionel</source>
+        </item>
+        <item>
             <title>data-science-document-ai 1.65.1</title>
             <link>https://pypi.org/project/data-science-document-ai/1.65.1/</link>
             <description><![CDATA["Document AI repo for data science"]]></description>
             <pubDate>Tue, 17 Mar 2026 07:06:53 -0000</pubDate>
             <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.65.1/</guid>
             <source>Pypi.org</source>
+        </item>
+        <item>
+            <title>IA dans l’espace : Starcloud veut placer 80 000 satellites datacenters en orbite</title>
+            <link>https://www.zdnet.fr/actualites/ia-dans-lespace-starcloud-veut-placer-80-000-satellites-datacenters-en-orbite-492048.htm</link>
+            <description><![CDATA[Soutenue par Nvida, la startup américaine entend déporter l'infrastructure de calcul dans l'espace pour bénéficier d’une énergie solaire illimitée. Un créneau que Google et SpaceX ambitionnent égaleme...]]></description>
+            <pubDate>Wed, 18 Mar 2026 01:03:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/ia-dans-lespace-starcloud-veut-placer-80-000-satellites-datacenters-en-orbite-492048.htm</guid>
+            <source>ZDNet France</source>
+        </item>
+        <item>
+            <title>Comment l’IA prescriptive transforme le pilotage de l’acquisition digitale</title>
+            <link>https://www.blogdumoderateur.com/comment-ia-prescriptive-transforme-pilotage-acquisition-digitale/</link>
+            <description><![CDATA[L'IA prescriptive apporte une nouvelle dimension au pilotage de l'acquisition digitale. Elle réduit les silos de données, permet d'aligner les métriques plateformes et business et apporte la granulari...]]></description>
+            <pubDate>Wed, 18 Mar 2026 08:28:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.blogdumoderateur.com/comment-ia-prescriptive-transforme-pilotage-acquisition-digitale/</guid>
+            <source>Blogdumoderateur.com</source>
         </item>
     </channel>
 </rss>
