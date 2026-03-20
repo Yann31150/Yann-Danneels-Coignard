@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 19 Mar 2026 08:51:27 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 08:50:12 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,28 +13,68 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Prédire et éviter les accidents de la route : la promesse étonnante de cette entreprise d’Auvergne</title>
-            <link>https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/haute-loire/puy-velay/predire-et-eviter-les-accidents-de-la-route-la-promesse-etonnante-de-cette-entreprise-d-auvergne-3313989.html</link>
-            <description><![CDATA[Et si on pouvait prédire les accidents de la route ? L’idée semble un peu folle et pourtant, Logipro, une entreprise du Puy-en-Velay planche dessus depuis plusieurs années, en s’appuyant sur l’intelli...]]></description>
-            <pubDate>Tue, 17 Mar 2026 05:00:03 -0000</pubDate>
-            <guid isPermaLink="true">https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/haute-loire/puy-velay/predire-et-eviter-les-accidents-de-la-route-la-promesse-etonnante-de-cette-entreprise-d-auvergne-3313989.html</guid>
-            <source>Franceinfo.fr</source>
+            <title>IA : des CD-ROM à ChatGPT, comment la technologie a révolutionné l’apprentissage</title>
+            <link>https://www.lexpress.fr/podcasts/hier-a-la-une/ia-des-cd-rom-a-chatgpt-comment-la-technologie-a-revolutionne-lapprentissage-JO7UEM2L6RGHHDYWXYIADQAL6Y/</link>
+            <description><![CDATA[L'intelligence artificielle se rend de plus en plus indispensable. Alors que certains craignent d’être mis de côté, à quel point peut-elle impacter notre apprentissage et notre savoir ?]]></description>
+            <pubDate>Thu, 19 Mar 2026 05:00:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lexpress.fr/podcasts/hier-a-la-une/ia-des-cd-rom-a-chatgpt-comment-la-technologie-a-revolutionne-lapprentissage-JO7UEM2L6RGHHDYWXYIADQAL6Y/</guid>
+            <source>L'Express</source>
         </item>
         <item>
-            <title>L’IA doit nous aider à mieux réfléchir et non réfléchir à notre place</title>
-            <link>https://fredcavazza.net/2026/03/17/lia-doit-nous-aider-a-mieux-reflechir-et-non-reflechir-a-notre-place/</link>
-            <description><![CDATA[Trois ans après le raz-de-marée ChatGPT, l’IA générative reste largement mal comprise, mal utilisée et mal encadrée en entreprise. Entre promesses mirobolantes des éditeurs et chatbots qui simulent de...]]></description>
-            <pubDate>Tue, 17 Mar 2026 13:59:15 -0000</pubDate>
-            <guid isPermaLink="true">https://fredcavazza.net/2026/03/17/lia-doit-nous-aider-a-mieux-reflechir-et-non-reflechir-a-notre-place/</guid>
-            <source>Fredcavazza.net</source>
+            <title>Analyse discriminante PLS « from scratch » avec ChatGPT (Python)</title>
+            <link>https://www.youtube.com/watch?v=YLh5gsmOFkQ</link>
+            <description><![CDATA[Machine learning. Data science. Classification supervisée. Analyse discriminante PLS, approche en deux étapes : régression ...]]></description>
+            <pubDate>Tue, 17 Feb 2026 16:40:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=YLh5gsmOFkQ</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>GPT-5.4 : Ce que OpenAI ne veut pas que vous sachiez</title>
-            <link>https://www.youtube.com/watch?v=iDIB_dvMtZE</link>
-            <description><![CDATA[GPT-5.4 : Ce que OpenAI ne veut pas que vous sachiez Dans cette vidéo, on décrypte les actualités IA et Tech les plus ...]]></description>
-            <pubDate>Sat, 07 Mar 2026 17:50:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=iDIB_dvMtZE</guid>
-            <source>Parlons IA & Tech</source>
+            <title>Analyse de données avec Orange</title>
+            <link>https://www.youtube.com/watch?v=hw8TiHABNLc</link>
+            <description><![CDATA[Orange Data Mining : Analyse de données &amp; Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...]]></description>
+            <pubDate>Thu, 29 Jan 2026 16:09:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=hw8TiHABNLc</guid>
+            <source>Ardy Fanny Nell REBOUKA REBOUKA</source>
+        </item>
+        <item>
+            <title>🚀 AZURE MACHINE LEARNING: Découvre la plateforme ML de Microsoft Azure 👉</title>
+            <link>https://www.youtube.com/watch?v=efSnDlJVxeE</link>
+            <description><![CDATA[Dans cette vidéo, je vous propose un **tour complet d'Azure Machine Learning**, le service de Machine Learning de ...]]></description>
+            <pubDate>Fri, 20 Feb 2026 12:01:48 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=efSnDlJVxeE</guid>
+            <source>Mastering AI</source>
+        </item>
+        <item>
+            <title>Règles d’association avec KNIME</title>
+            <link>https://www.youtube.com/watch?v=I-L2k_lzopQ</link>
+            <description><![CDATA[Machine learning. Data Mining. Data Science. Extraction des règles d'association à partir de données tabulaires avec le ...]]></description>
+            <pubDate>Wed, 21 Jan 2026 10:01:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=I-L2k_lzopQ</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Intelligence artificielle : pourquoi les investisseurs peinent encore à identifier qui sont les véritables gagnants</title>
+            <link>https://www.challenges.fr/monde/intelligence-artificielle-pourquoi-les-investisseurs-peinent-encore-a-identifier-qui-sont-les-veritables-gagnants_641880</link>
+            <description><![CDATA[Face à l’intelligence artificielle, les marchés financiers avancent à tâtons. Entre craintes de destruction massive de valeur et paris sur une nouvelle révolution de productivité, investisseurs et ana...]]></description>
+            <pubDate>Thu, 19 Mar 2026 05:45:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.challenges.fr/monde/intelligence-artificielle-pourquoi-les-investisseurs-peinent-encore-a-identifier-qui-sont-les-veritables-gagnants_641880</guid>
+            <source>Challenges</source>
+        </item>
+        <item>
+            <title>Nvidia veut porter l’intelligence artificielle au-delà de l’atmosphère terrestre</title>
+            <link>https://www.fredzone.org/nvidia-veut-porter-lintelligence-artificielle-au-dela-de-latmosphere-terrestre/</link>
+            <description><![CDATA[L’espace comme prochain terrain de jeu pour les centres de données : ce qui relevait encore récemment de la science-fiction commence à prendre une forme très concrète. Lors de la conférence Nvidia GTC...]]></description>
+            <pubDate>Wed, 18 Mar 2026 20:27:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.fredzone.org/nvidia-veut-porter-lintelligence-artificielle-au-dela-de-latmosphere-terrestre/</guid>
+            <source>FREDZONE</source>
+        </item>
+        <item>
+            <title>Comment utiliser concrètement l'IA et Python pour analyser des données (exemple en temps réel)</title>
+            <link>https://www.youtube.com/watch?v=0BY-6tJmz1g</link>
+            <description><![CDATA[Apprenez à analyser des données hospitalières avec Python (pandas) grâce à des outils d'IA. Nous allons réaliser trois niveaux ...]]></description>
+            <pubDate>Thu, 05 Feb 2026 14:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=0BY-6tJmz1g</guid>
+            <source>Chandoo</source>
         </item>
         <item>
             <title>EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&amp;#39;utiliser Excel !</title>
@@ -53,44 +93,12 @@
             <source>Diaby Fatemate </source>
         </item>
         <item>
-            <title>Analyse discriminante avec « discrimintools » (Python)</title>
-            <link>https://www.youtube.com/watch?v=NvdjH1fRRE0</link>
-            <description><![CDATA[Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...]]></description>
-            <pubDate>Mon, 16 Feb 2026 09:53:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=NvdjH1fRRE0</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp;amp; 10 | Guide complet</title>
-            <link>https://www.youtube.com/watch?v=G-4DERRKrHA</link>
-            <description><![CDATA[Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...]]></description>
-            <pubDate>Wed, 25 Feb 2026 04:31:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=G-4DERRKrHA</guid>
-            <source>AntalaSoft School</source>
-        </item>
-        <item>
-            <title>Nvidia veut mettre des serveurs dans l’espace : faut-il y croire ?</title>
-            <link>https://www.numerama.com/tech/2211199-nvidia-veut-mettre-des-serveurs-dans-lespace-faut-il-y-croire.html</link>
-            <description><![CDATA[Lors du GTC 2026, Nvidia a officialisé son ambition de conquérir l’orbite terrestre avec sa gamme « Space Computing ». Si l’idée de déployer de véritables data centers spatiaux dédiés à l’IA fait rêve...]]></description>
-            <pubDate>Tue, 17 Mar 2026 09:46:19 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/tech/2211199-nvidia-veut-mettre-des-serveurs-dans-lespace-faut-il-y-croire.html</guid>
-            <source>Numerama</source>
-        </item>
-        <item>
-            <title>Automobile. Fraude à l'assurance : quand l'IA maquille les dégâts…</title>
-            <link>https://www.leprogres.fr/magazine-automobile/2026/03/18/assurance-et-ia-quand-la-fraude-maquille-les-degats</link>
-            <description><![CDATA[Avec l’intelligence artificielle générative , une nouvelle génération de fraude se confirme dans l’assurance auto. Depuis 2025, certains assureurs observent une mutation profonde des modes opératoires...]]></description>
-            <pubDate>Wed, 18 Mar 2026 06:05:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.leprogres.fr/magazine-automobile/2026/03/18/assurance-et-ia-quand-la-fraude-maquille-les-degats</guid>
-            <source>Le Progrès</source>
-        </item>
-        <item>
-            <title>Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)</title>
-            <link>https://www.youtube.com/watch?v=Vm-dZxN70kY</link>
-            <description><![CDATA[Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...]]></description>
-            <pubDate>Sat, 14 Mar 2026 20:01:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Vm-dZxN70kY</guid>
-            <source>TechVantage FR</source>
+            <title>C&amp;#39;est quoi la BI ? (Business Intelligence) - Guide Complet pour Débutants</title>
+            <link>https://www.youtube.com/watch?v=F-oxdcZBX-8</link>
+            <description><![CDATA[Vous voulez comprendre comment transformer des données brutes en décisions stratégiques ? Bienvenue dans cette ...]]></description>
+            <pubDate>Tue, 03 Feb 2026 19:43:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=F-oxdcZBX-8</guid>
+            <source>CHIKK_STORE</source>
         </item>
         <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
@@ -109,20 +117,36 @@
             <source>Centre de formation Noormed</source>
         </item>
         <item>
-            <title>Comment devenir Data Analyst en 2026 ?</title>
-            <link>https://www.youtube.com/watch?v=VdXrxU5woJI</link>
-            <description><![CDATA[Découvrez le métier de Data Analyst et son rôle essentiel dans l'analyse de données. Apprenez les compétences requises et les ...]]></description>
-            <pubDate>Sun, 18 Jan 2026 10:00:48 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VdXrxU5woJI</guid>
-            <source>Wild Code School</source>
+            <title>IA : NVIDIA et Oracle franchissent un cap décisif dans la vitesse de traitement des données</title>
+            <link>https://www.zdnet.fr/actualites/ia-nvidia-et-oracle-franchissent-un-cap-decisif-dans-la-vitesse-de-traitement-des-donnees-492146.htm</link>
+            <description><![CDATA[NVIDIA et Oracle ont présenté une avancée majeure dans le traitement des données dédiées à l'IA. Grâce à une technologie d’indexation vectorielle accélérée par GPU, les deux partenaires entendent leve...]]></description>
+            <pubDate>Thu, 19 Mar 2026 07:10:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/ia-nvidia-et-oracle-franchissent-un-cap-decisif-dans-la-vitesse-de-traitement-des-donnees-492146.htm</guid>
+            <source>ZDNet France</source>
         </item>
         <item>
-            <title>Comment le big data transforme notre compréhension de l'univers</title>
-            <link>https://atlantico.fr/article/decryptage/comment-le-big-data-transforme-notre-comprehension-de-l-univers</link>
-            <description><![CDATA[La science moderne dépend de plus en plus d'immenses ensembles de données et d'analyses automatisées. En astronomie, le relevé Legacy Survey of Space and Time (LSST) de l'observatoire Vera C. Rubin – ...]]></description>
-            <pubDate>Tue, 17 Mar 2026 12:25:00 -0000</pubDate>
-            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/comment-le-big-data-transforme-notre-comprehension-de-l-univers</guid>
-            <source>Atlantico.fr</source>
+            <title>Un TV QLED qui ressemble à un tableau pour 199 € ? C’est possible avec cette offre Hisense</title>
+            <link>https://www.frandroid.com/bons-plans/3031491_un-tv-qled-qui-ressemble-a-un-tableau-pour-199-e-cest-possible-avec-cette-offre-hisense</link>
+            <description><![CDATA[Le téléviseur Hisense 32S5Q 2026, au design façon tableau, combine élégance et qualité d’image dans un format compact de 32 pouces. Habituellement vendu 299 euros, il passe actuellement à seulement 19...]]></description>
+            <pubDate>Thu, 19 Mar 2026 08:15:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/bons-plans/3031491_un-tv-qled-qui-ressemble-a-un-tableau-pour-199-e-cest-possible-avec-cette-offre-hisense</guid>
+            <source>Frandroid</source>
+        </item>
+        <item>
+            <title>Feature Engineering Hands on (French)</title>
+            <link>https://www.youtube.com/watch?v=VMi18mtBrPE</link>
+            <description><![CDATA[Dans ce tutoriel pratique, vous apprendrez les bases du feature engineering et comment transformer des données brutes en ...]]></description>
+            <pubDate>Sun, 01 Feb 2026 13:41:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=VMi18mtBrPE</guid>
+            <source>Machine Learning and Optimization for All</source>
+        </item>
+        <item>
+            <title>Données personnelles : Meta ne respecte toujours pas le droit européen</title>
+            <link>https://www.frandroid.com/marques/meta/3032277_donnees-personnelles-meta-ne-respecte-toujours-pas-le-droit-europeen</link>
+            <description><![CDATA[Facebook aurait-il du mal à se désintoxiquer du business fait avec nos données personnelles ? C’est ce que suggère en tout cas un nouveau rapport qui épingle les méthodes de Mark Zuckerberg sur ses ré...]]></description>
+            <pubDate>Thu, 19 Mar 2026 07:30:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/marques/meta/3032277_donnees-personnelles-meta-ne-respecte-toujours-pas-le-droit-europeen</guid>
+            <source>Frandroid</source>
         </item>
         <item>
             <title>Formation SQL Pour la Data - Introduction + Installation PostgreSQL + VS Code</title>
@@ -133,44 +157,20 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
-            <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
-            <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
-            <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
-            <source>Sébastien Daviot - Expertise Data</source>
+            <title>Ingénieur des données : rôle, missions, outils et importance du Data Engineer</title>
+            <link>https://www.youtube.com/watch?v=D2TZ3U6WUZ0</link>
+            <description><![CDATA[Dans ce tutoriel complet, nous expliquons le métier d'ingénieur des données, aussi appelé data engineer. Vous découvrirez ...]]></description>
+            <pubDate>Fri, 23 Jan 2026 05:51:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=D2TZ3U6WUZ0</guid>
+            <source>Basic Skills</source>
         </item>
         <item>
-            <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
-            <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
-            <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
-            <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
-            <source>CodeAvecLionel</source>
-        </item>
-        <item>
-            <title>data-science-document-ai 1.65.1</title>
-            <link>https://pypi.org/project/data-science-document-ai/1.65.1/</link>
-            <description><![CDATA["Document AI repo for data science"]]></description>
-            <pubDate>Tue, 17 Mar 2026 07:06:53 -0000</pubDate>
-            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.65.1/</guid>
-            <source>Pypi.org</source>
-        </item>
-        <item>
-            <title>IA dans l’espace : Starcloud veut placer 80 000 satellites datacenters en orbite</title>
-            <link>https://www.zdnet.fr/actualites/ia-dans-lespace-starcloud-veut-placer-80-000-satellites-datacenters-en-orbite-492048.htm</link>
-            <description><![CDATA[Soutenue par Nvida, la startup américaine entend déporter l'infrastructure de calcul dans l'espace pour bénéficier d’une énergie solaire illimitée. Un créneau que Google et SpaceX ambitionnent égaleme...]]></description>
-            <pubDate>Wed, 18 Mar 2026 01:03:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/ia-dans-lespace-starcloud-veut-placer-80-000-satellites-datacenters-en-orbite-492048.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
-            <title>Comment l’IA prescriptive transforme le pilotage de l’acquisition digitale</title>
-            <link>https://www.blogdumoderateur.com/comment-ia-prescriptive-transforme-pilotage-acquisition-digitale/</link>
-            <description><![CDATA[L'IA prescriptive apporte une nouvelle dimension au pilotage de l'acquisition digitale. Elle réduit les silos de données, permet d'aligner les métriques plateformes et business et apporte la granulari...]]></description>
-            <pubDate>Wed, 18 Mar 2026 08:28:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.blogdumoderateur.com/comment-ia-prescriptive-transforme-pilotage-acquisition-digitale/</guid>
-            <source>Blogdumoderateur.com</source>
+            <title>De zéro à data analyste : la troisième leçon avec Yao (3ème Session)</title>
+            <link>https://www.youtube.com/watch?v=o1XuoQl0zDU</link>
+            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
+            <pubDate>Fri, 23 Jan 2026 23:30:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=o1XuoQl0zDU</guid>
+            <source>Enogne School</source>
         </item>
     </channel>
 </rss>
