@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 20 Mar 2026 08:50:12 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 08:39:38 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,60 +13,28 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>IA : des CD-ROM à ChatGPT, comment la technologie a révolutionné l’apprentissage</title>
-            <link>https://www.lexpress.fr/podcasts/hier-a-la-une/ia-des-cd-rom-a-chatgpt-comment-la-technologie-a-revolutionne-lapprentissage-JO7UEM2L6RGHHDYWXYIADQAL6Y/</link>
-            <description><![CDATA[L'intelligence artificielle se rend de plus en plus indispensable. Alors que certains craignent d’être mis de côté, à quel point peut-elle impacter notre apprentissage et notre savoir ?]]></description>
-            <pubDate>Thu, 19 Mar 2026 05:00:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lexpress.fr/podcasts/hier-a-la-une/ia-des-cd-rom-a-chatgpt-comment-la-technologie-a-revolutionne-lapprentissage-JO7UEM2L6RGHHDYWXYIADQAL6Y/</guid>
-            <source>L'Express</source>
+            <title>Google préparerait une app Gemini pour Mac pour rivaliser avec ChatGPT et Claude</title>
+            <link>https://www.macg.co/intelligence-artificielle/2026/03/google-preparerait-une-app-gemini-pour-mac-pour-rivaliser-avec-chatgpt-et-claude-307525</link>
+            <description><![CDATA[Google corrigerait l’un des principaux défauts de Gemini pour les utilisateurs de Mac : une app dédiée à macOS. Jusque-là, il faut se contenter de la version web de l’intelligence artificielle générat...]]></description>
+            <pubDate>Fri, 20 Mar 2026 07:11:24 -0000</pubDate>
+            <guid isPermaLink="true">https://www.macg.co/intelligence-artificielle/2026/03/google-preparerait-une-app-gemini-pour-mac-pour-rivaliser-avec-chatgpt-et-claude-307525</guid>
+            <source>MacGeneration</source>
         </item>
         <item>
-            <title>Analyse discriminante PLS « from scratch » avec ChatGPT (Python)</title>
-            <link>https://www.youtube.com/watch?v=YLh5gsmOFkQ</link>
-            <description><![CDATA[Machine learning. Data science. Classification supervisée. Analyse discriminante PLS, approche en deux étapes : régression ...]]></description>
-            <pubDate>Tue, 17 Feb 2026 16:40:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=YLh5gsmOFkQ</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>Malgré son retard, Apple a déjà gagné 900 millions de dollars grâce à l’intelligence artificielle : d’où vient cet argent ?</title>
+            <link>https://www.presse-citron.net/malgre-son-retard-apple-a-deja-gagne-900-millions-de-dollars-grace-a-lintelligence-artificielle-dou-vient-cet-argent/</link>
+            <description><![CDATA[Apple est en retard sur l'intelligence artificielle et n'a toujours pas lancé la nouvelle version de Siri. Néanmoins, grâce aux commissions prélevées par l'App Store, celui-ci a gagné 900 millions de ...]]></description>
+            <pubDate>Fri, 20 Mar 2026 07:45:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/malgre-son-retard-apple-a-deja-gagne-900-millions-de-dollars-grace-a-lintelligence-artificielle-dou-vient-cet-argent/</guid>
+            <source>Presse-citron</source>
         </item>
         <item>
-            <title>Analyse de données avec Orange</title>
-            <link>https://www.youtube.com/watch?v=hw8TiHABNLc</link>
-            <description><![CDATA[Orange Data Mining : Analyse de données &amp; Machine Learning sans coder Dans cette vidéo, je vous présente Orange Data ...]]></description>
-            <pubDate>Thu, 29 Jan 2026 16:09:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=hw8TiHABNLc</guid>
-            <source>Ardy Fanny Nell REBOUKA REBOUKA</source>
-        </item>
-        <item>
-            <title>🚀 AZURE MACHINE LEARNING: Découvre la plateforme ML de Microsoft Azure 👉</title>
-            <link>https://www.youtube.com/watch?v=efSnDlJVxeE</link>
-            <description><![CDATA[Dans cette vidéo, je vous propose un **tour complet d'Azure Machine Learning**, le service de Machine Learning de ...]]></description>
-            <pubDate>Fri, 20 Feb 2026 12:01:48 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=efSnDlJVxeE</guid>
-            <source>Mastering AI</source>
-        </item>
-        <item>
-            <title>Règles d’association avec KNIME</title>
-            <link>https://www.youtube.com/watch?v=I-L2k_lzopQ</link>
-            <description><![CDATA[Machine learning. Data Mining. Data Science. Extraction des règles d'association à partir de données tabulaires avec le ...]]></description>
-            <pubDate>Wed, 21 Jan 2026 10:01:16 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=I-L2k_lzopQ</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>Intelligence artificielle : pourquoi les investisseurs peinent encore à identifier qui sont les véritables gagnants</title>
-            <link>https://www.challenges.fr/monde/intelligence-artificielle-pourquoi-les-investisseurs-peinent-encore-a-identifier-qui-sont-les-veritables-gagnants_641880</link>
-            <description><![CDATA[Face à l’intelligence artificielle, les marchés financiers avancent à tâtons. Entre craintes de destruction massive de valeur et paris sur une nouvelle révolution de productivité, investisseurs et ana...]]></description>
-            <pubDate>Thu, 19 Mar 2026 05:45:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.challenges.fr/monde/intelligence-artificielle-pourquoi-les-investisseurs-peinent-encore-a-identifier-qui-sont-les-veritables-gagnants_641880</guid>
-            <source>Challenges</source>
-        </item>
-        <item>
-            <title>Nvidia veut porter l’intelligence artificielle au-delà de l’atmosphère terrestre</title>
-            <link>https://www.fredzone.org/nvidia-veut-porter-lintelligence-artificielle-au-dela-de-latmosphere-terrestre/</link>
-            <description><![CDATA[L’espace comme prochain terrain de jeu pour les centres de données : ce qui relevait encore récemment de la science-fiction commence à prendre une forme très concrète. Lors de la conférence Nvidia GTC...]]></description>
-            <pubDate>Wed, 18 Mar 2026 20:27:26 -0000</pubDate>
-            <guid isPermaLink="true">https://www.fredzone.org/nvidia-veut-porter-lintelligence-artificielle-au-dela-de-latmosphere-terrestre/</guid>
-            <source>FREDZONE</source>
+            <title>Machine Learning et IA en éducation : Guide pour enseignants et formateurs en 2026</title>
+            <link>https://www.youtube.com/watch?v=GBICmtx6RSw</link>
+            <description><![CDATA[Machine Learning et IA : Guide Simple pour Formateurs (Sans les Maths) Vous avez peut-être déjà entendu cette affirmation : une ...]]></description>
+            <pubDate>Fri, 20 Mar 2026 19:33:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=GBICmtx6RSw</guid>
+            <source>Devenir formateur indépendant en 2026</source>
         </item>
         <item>
             <title>Comment utiliser concrètement l'IA et Python pour analyser des données (exemple en temps réel)</title>
@@ -93,12 +61,36 @@
             <source>Diaby Fatemate </source>
         </item>
         <item>
-            <title>C&amp;#39;est quoi la BI ? (Business Intelligence) - Guide Complet pour Débutants</title>
-            <link>https://www.youtube.com/watch?v=F-oxdcZBX-8</link>
-            <description><![CDATA[Vous voulez comprendre comment transformer des données brutes en décisions stratégiques ? Bienvenue dans cette ...]]></description>
-            <pubDate>Tue, 03 Feb 2026 19:43:31 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=F-oxdcZBX-8</guid>
-            <source>CHIKK_STORE</source>
+            <title>Analyse discriminante avec « discrimintools » (Python)</title>
+            <link>https://www.youtube.com/watch?v=NvdjH1fRRE0</link>
+            <description><![CDATA[Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...]]></description>
+            <pubDate>Mon, 16 Feb 2026 09:53:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=NvdjH1fRRE0</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp;amp; 10 | Guide complet</title>
+            <link>https://www.youtube.com/watch?v=G-4DERRKrHA</link>
+            <description><![CDATA[Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...]]></description>
+            <pubDate>Wed, 25 Feb 2026 04:31:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=G-4DERRKrHA</guid>
+            <source>AntalaSoft School</source>
+        </item>
+        <item>
+            <title>Le marché des serveurs IA change d’ère : Vera Rubin place NVIDIA au centre du jeu</title>
+            <link>https://www.zdnet.fr/actualites/le-marche-des-serveurs-ia-change-dere-vera-rubin-place-nvidia-au-centre-du-jeu-492238.htm</link>
+            <description><![CDATA[Avec la présentation de l’architecture Vera Rubin lors de la GTC 2026, NVIDIA pousse l’industrie des serveurs vers un nouveau modèle : celui d’infrastructures d’IA intégrées, pensées comme de véritabl...]]></description>
+            <pubDate>Fri, 20 Mar 2026 07:24:22 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/le-marche-des-serveurs-ia-change-dere-vera-rubin-place-nvidia-au-centre-du-jeu-492238.htm</guid>
+            <source>ZDNet France</source>
+        </item>
+        <item>
+            <title>Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)</title>
+            <link>https://www.youtube.com/watch?v=Vm-dZxN70kY</link>
+            <description><![CDATA[Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...]]></description>
+            <pubDate>Sat, 14 Mar 2026 20:01:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Vm-dZxN70kY</guid>
+            <source>TechVantage FR</source>
         </item>
         <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
@@ -117,38 +109,6 @@
             <source>Centre de formation Noormed</source>
         </item>
         <item>
-            <title>IA : NVIDIA et Oracle franchissent un cap décisif dans la vitesse de traitement des données</title>
-            <link>https://www.zdnet.fr/actualites/ia-nvidia-et-oracle-franchissent-un-cap-decisif-dans-la-vitesse-de-traitement-des-donnees-492146.htm</link>
-            <description><![CDATA[NVIDIA et Oracle ont présenté une avancée majeure dans le traitement des données dédiées à l'IA. Grâce à une technologie d’indexation vectorielle accélérée par GPU, les deux partenaires entendent leve...]]></description>
-            <pubDate>Thu, 19 Mar 2026 07:10:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/ia-nvidia-et-oracle-franchissent-un-cap-decisif-dans-la-vitesse-de-traitement-des-donnees-492146.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
-            <title>Un TV QLED qui ressemble à un tableau pour 199 € ? C’est possible avec cette offre Hisense</title>
-            <link>https://www.frandroid.com/bons-plans/3031491_un-tv-qled-qui-ressemble-a-un-tableau-pour-199-e-cest-possible-avec-cette-offre-hisense</link>
-            <description><![CDATA[Le téléviseur Hisense 32S5Q 2026, au design façon tableau, combine élégance et qualité d’image dans un format compact de 32 pouces. Habituellement vendu 299 euros, il passe actuellement à seulement 19...]]></description>
-            <pubDate>Thu, 19 Mar 2026 08:15:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/bons-plans/3031491_un-tv-qled-qui-ressemble-a-un-tableau-pour-199-e-cest-possible-avec-cette-offre-hisense</guid>
-            <source>Frandroid</source>
-        </item>
-        <item>
-            <title>Feature Engineering Hands on (French)</title>
-            <link>https://www.youtube.com/watch?v=VMi18mtBrPE</link>
-            <description><![CDATA[Dans ce tutoriel pratique, vous apprendrez les bases du feature engineering et comment transformer des données brutes en ...]]></description>
-            <pubDate>Sun, 01 Feb 2026 13:41:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VMi18mtBrPE</guid>
-            <source>Machine Learning and Optimization for All</source>
-        </item>
-        <item>
-            <title>Données personnelles : Meta ne respecte toujours pas le droit européen</title>
-            <link>https://www.frandroid.com/marques/meta/3032277_donnees-personnelles-meta-ne-respecte-toujours-pas-le-droit-europeen</link>
-            <description><![CDATA[Facebook aurait-il du mal à se désintoxiquer du business fait avec nos données personnelles ? C’est ce que suggère en tout cas un nouveau rapport qui épingle les méthodes de Mark Zuckerberg sur ses ré...]]></description>
-            <pubDate>Thu, 19 Mar 2026 07:30:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/marques/meta/3032277_donnees-personnelles-meta-ne-respecte-toujours-pas-le-droit-europeen</guid>
-            <source>Frandroid</source>
-        </item>
-        <item>
             <title>Formation SQL Pour la Data - Introduction + Installation PostgreSQL + VS Code</title>
             <link>https://www.youtube.com/watch?v=6Q_fVsx4CT8</link>
             <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
@@ -157,20 +117,60 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Ingénieur des données : rôle, missions, outils et importance du Data Engineer</title>
-            <link>https://www.youtube.com/watch?v=D2TZ3U6WUZ0</link>
-            <description><![CDATA[Dans ce tutoriel complet, nous expliquons le métier d'ingénieur des données, aussi appelé data engineer. Vous découvrirez ...]]></description>
-            <pubDate>Fri, 23 Jan 2026 05:51:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=D2TZ3U6WUZ0</guid>
-            <source>Basic Skills</source>
+            <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
+            <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
+            <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
+            <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
+            <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>De zéro à data analyste : la troisième leçon avec Yao (3ème Session)</title>
-            <link>https://www.youtube.com/watch?v=o1XuoQl0zDU</link>
-            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
-            <pubDate>Fri, 23 Jan 2026 23:30:31 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=o1XuoQl0zDU</guid>
-            <source>Enogne School</source>
+            <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
+            <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
+            <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
+            <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
+            <source>CodeAvecLionel</source>
+        </item>
+        <item>
+            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
+            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
+            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
+            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
+            <source>Oscar Aksanti</source>
+        </item>
+        <item>
+            <title>Du placard au parlement</title>
+            <link>https://laviedesidees.fr/Bouvard-Gay-et-lesbiennes-en-politique</link>
+            <description><![CDATA[Pour réussir leur carrière, les élu·es gays et lesbiennes sont confronté·es à un choix difficile : comment révéler publiquement leur homosexualité. Hugo Bouvard étudie ces trajectoires sociales et pol...]]></description>
+            <pubDate>Fri, 20 Mar 2026 08:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://laviedesidees.fr/Bouvard-Gay-et-lesbiennes-en-politique</guid>
+            <source>Laviedesidees.fr</source>
+        </item>
+        <item>
+            <title>Python Pour la Data -  Jour 1/10</title>
+            <link>https://www.youtube.com/watch?v=zk5jSdmKjvU</link>
+            <description><![CDATA[Assurez-vous que Python est installé : https://youtu.be/Bd43Lt3vod8?si=_-k02WIEl4T4M5kS Ressources à utiliser ce soir ...]]></description>
+            <pubDate>Mon, 09 Feb 2026 20:36:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=zk5jSdmKjvU</guid>
+            <source>Oscar Aksanti</source>
+        </item>
+        <item>
+            <title>ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)</title>
+            <link>https://www.youtube.com/watch?v=Wg9M140pduU</link>
+            <description><![CDATA[Dans cette vidéo de 90 minutes, je vous apprends à utiliser ChatGPT simplement, avec des exemples concrets : comprendre ...]]></description>
+            <pubDate>Sat, 07 Feb 2026 17:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Wg9M140pduU</guid>
+            <source>SENIORS ET INFORMATIQUE</source>
+        </item>
+        <item>
+            <title>"Une filière prometteuse à l’ère de l’IA ? La programmation !" : l’analyse pleine d’optimisme d’Andrew McAfee (MIT)</title>
+            <link>https://www.lexpress.fr/idees-et-debats/une-filiere-prometteuse-a-lere-de-lia-la-programmation-lanalyse-pleine-doptimisme-dandrew-mcafee-mit-Z5BWGEJ7BJCSJHQQIOGOHM6CTA/</link>
+            <description><![CDATA[Pour cet économiste reconnu du MIT, l'intelligence artificielle va être précieuse pour aider l'humanité à affronter les grands défis de notre époque.]]></description>
+            <pubDate>Thu, 19 Mar 2026 19:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lexpress.fr/idees-et-debats/une-filiere-prometteuse-a-lere-de-lia-la-programmation-lanalyse-pleine-doptimisme-dandrew-mcafee-mit-Z5BWGEJ7BJCSJHQQIOGOHM6CTA/</guid>
+            <source>L'Express</source>
         </item>
     </channel>
 </rss>
