@@ -1,30 +1,6 @@
 {
-  "lastUpdate": "2026-03-21T08:39:38.839737",
+  "lastUpdate": "2026-03-22T08:40:46.910589",
   "articles": [
-    {
-      "title": "Google préparerait une app Gemini pour Mac pour rivaliser avec ChatGPT et Claude",
-      "description": "Google corrigerait l’un des principaux défauts de Gemini pour les utilisateurs de Mac : une app dédiée à macOS. Jusque-là, il faut se contenter de la version web de l’intelligence artificielle générat...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/03/google-preparerait-une-app-gemini-pour-mac-pour-rivaliser-avec-chatgpt-et-claude-307525",
-      "source": "MacGeneration",
-      "publishedAt": "2026-03-20T07:11:24Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Malgré son retard, Apple a déjà gagné 900 millions de dollars grâce à l’intelligence artificielle : d’où vient cet argent ?",
-      "description": "Apple est en retard sur l'intelligence artificielle et n'a toujours pas lancé la nouvelle version de Siri. Néanmoins, grâce aux commissions prélevées par l'App Store, celui-ci a gagné 900 millions de ...",
-      "url": "https://www.presse-citron.net/malgre-son-retard-apple-a-deja-gagne-900-millions-de-dollars-grace-a-lintelligence-artificielle-dou-vient-cet-argent/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-03-20T07:45:45Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "Machine Learning et IA en éducation : Guide pour enseignants et formateurs en 2026",
       "description": "Machine Learning et IA : Guide Simple pour Formateurs (Sans les Maths) Vous avez peut-être déjà entendu cette affirmation : une ...",
@@ -36,6 +12,18 @@
       "isYouTube": true,
       "videoId": "GBICmtx6RSw",
       "thumbnail": "https://i.ytimg.com/vi/GBICmtx6RSw/hqdefault.jpg"
+    },
+    {
+      "title": "L’intelligence artificielle promet de révolutionner la longévité humaine, mais les scientifiques appellent à garder la tête froide",
+      "description": "L’intelligence artificielle nourrit un rêve fascinant : prolonger radicalement la vie humaine. Entre annonces spectaculaires et réserves scientifiques, le sujet oscille entre révolution et mirage. Une...",
+      "url": "https://dailygeekshow.com/?p=1005122",
+      "source": "Daily Geek Show",
+      "publishedAt": "2026-03-20T20:01:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Comment utiliser concrètement l'IA et Python pour analyser des données (exemple en temps réel)",
@@ -98,11 +86,11 @@
       "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
     },
     {
-      "title": "Le marché des serveurs IA change d’ère : Vera Rubin place NVIDIA au centre du jeu",
-      "description": "Avec la présentation de l’architecture Vera Rubin lors de la GTC 2026, NVIDIA pousse l’industrie des serveurs vers un nouveau modèle : celui d’infrastructures d’IA intégrées, pensées comme de véritabl...",
-      "url": "https://www.zdnet.fr/actualites/le-marche-des-serveurs-ia-change-dere-vera-rubin-place-nvidia-au-centre-du-jeu-492238.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-03-20T07:24:22Z",
+      "title": "« Il ne prend pas de vacances » : ces chiens robots à 300 000 $ surveillent des data centers aux États-Unis",
+      "description": "Face à l’essor des infrastructures dédiées au cloud et à l’intelligence artificielle, plusieurs exploitants américains de centres de données expérimentent des robots quadrupèdes pour renforcer la surv...",
+      "url": "https://www.numerama.com/tech/2214089-il-ne-prend-pas-de-vacances-ces-chiens-robots-a-300-000-surveillent-des-data-centers-aux-etats-unis.html",
+      "source": "Numerama",
+      "publishedAt": "2026-03-20T15:06:04Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -120,6 +108,30 @@
       "isYouTube": true,
       "videoId": "Vm-dZxN70kY",
       "thumbnail": "https://i.ytimg.com/vi/Vm-dZxN70kY/hqdefault.jpg"
+    },
+    {
+      "title": "Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine",
+      "description": "Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...",
+      "url": "https://www.youtube.com/watch?v=2i9u_hwq05g",
+      "source": "Enogne School",
+      "publishedAt": "2026-02-13T23:00:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "2i9u_hwq05g",
+      "thumbnail": "https://i.ytimg.com/vi/2i9u_hwq05g/hqdefault.jpg"
+    },
+    {
+      "title": "Répertoire des positions orbitales et densités des constellations LEO",
+      "description": "### Répertoire des positions orbitales et densités des constellations LEO (Starlink, Amazon Leo, Guowang) 20 Mars 2026\n\n\n\nAteur [BisatelPhone](https://www.bisatelphone.com/internet-satellite-securise-...",
+      "url": "https://www.data.gouv.fr/datasets/repertoire-des-positions-orbitales-et-densites-des-constellations-leo",
+      "source": "Gouv.fr",
+      "publishedAt": "2026-03-20T15:18:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
@@ -146,16 +158,16 @@
       "thumbnail": "https://i.ytimg.com/vi/kWWxN73GuUI/hqdefault.jpg"
     },
     {
-      "title": "Formation SQL Pour la Data - Introduction + Installation PostgreSQL + VS Code",
-      "description": "Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...",
-      "url": "https://www.youtube.com/watch?v=6Q_fVsx4CT8",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-01-20T17:39:43Z",
+      "title": "Python : FastAPI, SQLAlchemy et PostgreSQL",
+      "description": "Cette vidéo explique comment relier une API FastAPI a une base de données postgreSQL. Nous allons pour cela utiliser l'ORM ...",
+      "url": "https://www.youtube.com/watch?v=XCnB65yh5NM",
+      "source": "Algomius",
+      "publishedAt": "2026-01-23T17:00:52Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "6Q_fVsx4CT8",
-      "thumbnail": "https://i.ytimg.com/vi/6Q_fVsx4CT8/hqdefault.jpg"
+      "videoId": "XCnB65yh5NM",
+      "thumbnail": "https://i.ytimg.com/vi/XCnB65yh5NM/hqdefault.jpg"
     },
     {
       "title": "Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)",
@@ -194,11 +206,23 @@
       "thumbnail": "https://i.ytimg.com/vi/8EXbMYHL8xw/hqdefault.jpg"
     },
     {
-      "title": "Du placard au parlement",
-      "description": "Pour réussir leur carrière, les élu·es gays et lesbiennes sont confronté·es à un choix difficile : comment révéler publiquement leur homosexualité. Hugo Bouvard étudie ces trajectoires sociales et pol...",
-      "url": "https://laviedesidees.fr/Bouvard-Gay-et-lesbiennes-en-politique",
-      "source": "Laviedesidees.fr",
-      "publishedAt": "2026-03-20T08:30:00Z",
+      "title": "Entre Netflix et le public, un malentendu qui engendre des films et des séries de plus en plus “stupides”",
+      "description": "Netflix, Disney+ ou Prime Video prétendent que les données qu’elles recueillent sur leur public reflètent fidèlement ce que celui-ci attend. Ce présupposé les conduit à brider l’originalité de leurs c...",
+      "url": "https://www.courrierinternational.com/article/streaming-entre-netflix-et-le-public-un-malentendu-qui-engendre-des-films-et-des-series-de-plus-en-plus-stupides_240775_1",
+      "source": "Courrier International",
+      "publishedAt": "2026-03-20T11:09:01Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Health Data Hub : Une Leçon Digitale pour les Entreprises Marocaines",
+      "description": "La décision du Conseil d'État français concernant le Health Data Hub, validant l'hébergement de données sensibles chez Microsoft, dépasse le simple fait...",
+      "url": "https://www.digido.ma/blog/le-health-data-hub-survivra-a-la-polemique-microsoft-le-conseil-d-etat-l-a-decide",
+      "source": "Digido.ma",
+      "publishedAt": "2026-03-21T03:35:35Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
     },
     {
-      "title": "\"Une filière prometteuse à l’ère de l’IA ? La programmation !\" : l’analyse pleine d’optimisme d’Andrew McAfee (MIT)",
-      "description": "Pour cet économiste reconnu du MIT, l'intelligence artificielle va être précieuse pour aider l'humanité à affronter les grands défis de notre époque.",
-      "url": "https://www.lexpress.fr/idees-et-debats/une-filiere-prometteuse-a-lere-de-lia-la-programmation-lanalyse-pleine-doptimisme-dandrew-mcafee-mit-Z5BWGEJ7BJCSJHQQIOGOHM6CTA/",
-      "source": "L'Express",
-      "publishedAt": "2026-03-19T19:00:00Z",
+      "title": "Qui gouverne l’IA dans les universités ?",
+      "description": "La course à l’adoption de l’intelligence artificielle (IA) dans l’enseignement supérieur a dépassé la capacité des institutions à en organiser la gouvernance. Les universitaires ne peuvent pas se perm...",
+      "url": "https://www.lalibre.be/debats/opinions/2026/03/20/qui-gouverne-lia-dans-les-universites-SCPNLHZVQNDQZLZRVGCQHLGEXI/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-03-20T15:10:59Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "CyberCité lance une offre IA pour des visuels publicitaires plus performants et stratégiques",
-      "description": "Entre IA générative et pilotage humain, Clément Auran, Consultant SEA et Média senior, et David Bonnamour, Head of IA, nous présentent la nouvelle offre IA, innovante et créative, de CyberCité pour de...",
-      "url": "https://www.blogdumoderateur.com/cybercite-lance-offre-ia-visuels-publicitaires-plus-performants-strategiques/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-03-20T08:14:43Z",
+      "title": "Actualité : Gardena smart Sileno sense : de l'IA, de la 4G et un robot qui tond à 1 cm du bord, vraiment ?",
+      "description": "Gardena renouvelle sa gamme de robots tondeuses avec le smart Sileno sense, un modèle qui promet de simplifier la tonte grâce à l'intelligence artificielle, une connexion 4G intégrée et une précision ...",
+      "url": "https://www.lesnumeriques.com/robot-tondeuse/gardena-smart-sileno-sense-de-l-ia-de-la-4g-et-un-robot-qui-tond-a-1-cm-du-bord-vraiment-n253351.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-03-21T08:30:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Uber et Rivian s'allient pour lancer 50 000 robotaxis, un pari à 1,25 milliard de dollars",
-      "description": "Uber et Rivian viennent de sceller une alliance stratégique qui ne vise rien de moins qu'à déployer une armada de taxis sans chauffeur sur nos routes d'ici la fin de la décennie.",
-      "url": "https://www.generation-nt.com/actualites/uber-rivian-robotaxi-accord-milliard-2072810",
+      "title": "Hachette annule un roman pour usage présumé d'intelligence artificielle",
+      "description": "Le roman « Shy Girl » de Mia Ballard, un succès en autoédition, a été annulé par l'éditeur Hachette. Sa sortie américaine est stoppée et sa distribution britannique interrompue. Cette décision radical...",
+      "url": "https://www.generation-nt.com/actualites/hachette-shy-girl-intelligence-artificielle-annulation-livre-2072863",
       "source": "Génération NT",
-      "publishedAt": "2026-03-20T08:20:01Z",
+      "publishedAt": "2026-03-20T19:50:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,16 +290,16 @@
       "thumbnail": ""
     },
     {
-      "title": "cedric-ai added to PyPI",
-      "description": "Client Python pour Cédric — IA conversationnelle avec file d'attente automatique si serveur hors ligne",
-      "url": "https://pypi.org/project/cedric-ai/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-03-19T20:34:23Z",
+      "title": "openClaw de zéro à expert : installation et utilisation réelle — Bluffant 😮",
+      "description": "Ressources que j'utilise (liens affiliés — merci pour votre soutien ! ) Serveur OpenClaw illimité (coupon : CLAW10) ...",
+      "url": "https://www.youtube.com/watch?v=aL4657Cunhk",
+      "source": "Dr. Firas",
+      "publishedAt": "2026-01-30T23:23:55Z",
       "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "aL4657Cunhk",
+      "thumbnail": "https://i.ytimg.com/vi/aL4657Cunhk/hqdefault.jpg"
     }
   ]
 }
