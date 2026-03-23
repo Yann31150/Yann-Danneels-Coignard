@@ -1,24 +1,12 @@
 {
-  "lastUpdate": "2026-03-22T08:40:46.910589",
+  "lastUpdate": "2026-03-23T09:03:50.896489",
   "articles": [
     {
-      "title": "Machine Learning et IA en éducation : Guide pour enseignants et formateurs en 2026",
-      "description": "Machine Learning et IA : Guide Simple pour Formateurs (Sans les Maths) Vous avez peut-être déjà entendu cette affirmation : une ...",
-      "url": "https://www.youtube.com/watch?v=GBICmtx6RSw",
-      "source": "Devenir formateur indépendant en 2026",
-      "publishedAt": "2026-03-20T19:33:45Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "GBICmtx6RSw",
-      "thumbnail": "https://i.ytimg.com/vi/GBICmtx6RSw/hqdefault.jpg"
-    },
-    {
-      "title": "L’intelligence artificielle promet de révolutionner la longévité humaine, mais les scientifiques appellent à garder la tête froide",
-      "description": "L’intelligence artificielle nourrit un rêve fascinant : prolonger radicalement la vie humaine. Entre annonces spectaculaires et réserves scientifiques, le sujet oscille entre révolution et mirage. Une...",
-      "url": "https://dailygeekshow.com/?p=1005122",
-      "source": "Daily Geek Show",
-      "publishedAt": "2026-03-20T20:01:00Z",
+      "title": "Les régimes conçus par IA sont une menace pour la santé des adolescents",
+      "description": "Confier son régime à une intelligence artificielle est une très mauvaise idée, surtout pour les jeunes. Une étude menée par des chercheurs turcs révèle que les plans alimentaires générés par des modèl...",
+      "url": "https://www.generation-nt.com/actualites/regimes-ia-menace-sante-adolescents-2072645",
+      "source": "Génération NT",
+      "publishedAt": "2026-03-21T12:10:01Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -26,16 +14,64 @@
       "thumbnail": ""
     },
     {
-      "title": "Comment utiliser concrètement l'IA et Python pour analyser des données (exemple en temps réel)",
-      "description": "Apprenez à analyser des données hospitalières avec Python (pandas) grâce à des outils d'IA. Nous allons réaliser trois niveaux ...",
-      "url": "https://www.youtube.com/watch?v=0BY-6tJmz1g",
-      "source": "Chandoo",
-      "publishedAt": "2026-02-05T14:30:00Z",
+      "title": "GPT-5.4 : Ce que OpenAI ne veut pas que vous sachiez",
+      "description": "GPT-5.4 : Ce que OpenAI ne veut pas que vous sachiez Dans cette vidéo, on décrypte les actualités IA et Tech les plus ...",
+      "url": "https://www.youtube.com/watch?v=iDIB_dvMtZE",
+      "source": "Parlons IA & Tech",
+      "publishedAt": "2026-03-07T17:50:00Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "0BY-6tJmz1g",
-      "thumbnail": "https://i.ytimg.com/vi/0BY-6tJmz1g/hqdefault.jpg"
+      "videoId": "iDIB_dvMtZE",
+      "thumbnail": "https://i.ytimg.com/vi/iDIB_dvMtZE/hqdefault.jpg"
+    },
+    {
+      "title": "webinaire-excel-kobotoolbox-PowerBi",
+      "description": "Vidéo 2: formation sur la maitrise de collecte et traitement des données avec excel, kobo toolbox et Power BI Orateur: Ingénieur ...",
+      "url": "https://www.youtube.com/watch?v=niw22vHlUw0",
+      "source": "ECPCI",
+      "publishedAt": "2026-02-26T18:07:51Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "niw22vHlUw0",
+      "thumbnail": "https://i.ytimg.com/vi/niw22vHlUw0/hqdefault.jpg"
+    },
+    {
+      "title": "Créer un Dashboard Power BI en 15 Minutes | Analyse de Ventes avec Superstore - Retail",
+      "description": "Créer un Dashboard Power BI Professionnel avec les Données Superstore Dans ce tutoriel complet, je te montre comment ...",
+      "url": "https://www.youtube.com/watch?v=n7Nvz5UuBV4",
+      "source": "Ngroup Media & Digital",
+      "publishedAt": "2026-03-02T14:41:37Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "n7Nvz5UuBV4",
+      "thumbnail": "https://i.ytimg.com/vi/n7Nvz5UuBV4/hqdefault.jpg"
+    },
+    {
+      "title": "Il parvient à développer un vaccin pour soigner son chien grâce à une intelligence artificielle",
+      "description": "En Australie, grâce à l'intelligence artificielle, un homme a réussi à développer en à peine quelques mois un vaccin pour soigner son chien condamné par un cancer. Et le traitement donne pour l’instan...",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/il-parvient-a-developper-un-vaccin-pour-soigner-son-chien-grace-a-une-intelligence-artificielle_7884251.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-03-21T13:36:53Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "J&#39;analyse ce Dashboard Power BI et je découvre un problème de rentabilité |  UEMOA",
+      "description": "J'ai analysé 50 000 transactions pharmaceutiques sur 4 ans, 8 pays et 80 pharmacies dans la zone UEMOA — et j'ai construit un ...",
+      "url": "https://www.youtube.com/watch?v=sJrvfgWQoE4",
+      "source": "Ngroup Media & Digital",
+      "publishedAt": "2026-03-07T17:41:19Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "sJrvfgWQoE4",
+      "thumbnail": "https://i.ytimg.com/vi/sJrvfgWQoE4/hqdefault.jpg"
     },
     {
       "title": "EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&#39;utiliser Excel !",
@@ -48,6 +84,18 @@
       "isYouTube": true,
       "videoId": "8Vh5bmRgmlo",
       "thumbnail": "https://i.ytimg.com/vi/8Vh5bmRgmlo/hqdefault.jpg"
+    },
+    {
+      "title": "Data Analysis with Python Full Course Tutorial",
+      "description": "Data Analysis with Python Full Course Tutorial Get Ad-Free Training by becoming a member today!",
+      "url": "https://www.youtube.com/watch?v=bLDbzcHwxM4",
+      "source": "Learn Skills Daily",
+      "publishedAt": "2026-01-23T17:30:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "bLDbzcHwxM4",
+      "thumbnail": "https://i.ytimg.com/vi/bLDbzcHwxM4/hqdefault.jpg"
     },
     {
       "title": "Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)",
@@ -72,66 +120,6 @@
       "isYouTube": true,
       "videoId": "NvdjH1fRRE0",
       "thumbnail": "https://i.ytimg.com/vi/NvdjH1fRRE0/hqdefault.jpg"
-    },
-    {
-      "title": "Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp; 10 | Guide complet",
-      "description": "Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...",
-      "url": "https://www.youtube.com/watch?v=G-4DERRKrHA",
-      "source": "AntalaSoft School",
-      "publishedAt": "2026-02-25T04:31:34Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "G-4DERRKrHA",
-      "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
-    },
-    {
-      "title": "« Il ne prend pas de vacances » : ces chiens robots à 300 000 $ surveillent des data centers aux États-Unis",
-      "description": "Face à l’essor des infrastructures dédiées au cloud et à l’intelligence artificielle, plusieurs exploitants américains de centres de données expérimentent des robots quadrupèdes pour renforcer la surv...",
-      "url": "https://www.numerama.com/tech/2214089-il-ne-prend-pas-de-vacances-ces-chiens-robots-a-300-000-surveillent-des-data-centers-aux-etats-unis.html",
-      "source": "Numerama",
-      "publishedAt": "2026-03-20T15:06:04Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)",
-      "description": "Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...",
-      "url": "https://www.youtube.com/watch?v=Vm-dZxN70kY",
-      "source": "TechVantage FR",
-      "publishedAt": "2026-03-14T20:01:02Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Vm-dZxN70kY",
-      "thumbnail": "https://i.ytimg.com/vi/Vm-dZxN70kY/hqdefault.jpg"
-    },
-    {
-      "title": "Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine",
-      "description": "Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...",
-      "url": "https://www.youtube.com/watch?v=2i9u_hwq05g",
-      "source": "Enogne School",
-      "publishedAt": "2026-02-13T23:00:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "2i9u_hwq05g",
-      "thumbnail": "https://i.ytimg.com/vi/2i9u_hwq05g/hqdefault.jpg"
-    },
-    {
-      "title": "Répertoire des positions orbitales et densités des constellations LEO",
-      "description": "### Répertoire des positions orbitales et densités des constellations LEO (Starlink, Amazon Leo, Guowang) 20 Mars 2026\n\n\n\nAteur [BisatelPhone](https://www.bisatelphone.com/internet-satellite-securise-...",
-      "url": "https://www.data.gouv.fr/datasets/repertoire-des-positions-orbitales-et-densites-des-constellations-leo",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-03-20T15:18:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
@@ -170,6 +158,66 @@
       "thumbnail": "https://i.ytimg.com/vi/XCnB65yh5NM/hqdefault.jpg"
     },
     {
+      "title": "DAX (Power BI) – Module 1 : Les Fondamentaux de DAX | Vidéo 7 : IF, SWITCH &amp; BLANK",
+      "description": "Bienvenue dans cette 7ème étape de notre formation complète : Maîtriser DAX ! Dans l'épisode précédent, nous avons appris ...",
+      "url": "https://www.youtube.com/watch?v=kcSObmOJaFE",
+      "source": "Learn with Jino",
+      "publishedAt": "2026-02-06T08:00:06Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "kcSObmOJaFE",
+      "thumbnail": "https://i.ytimg.com/vi/kcSObmOJaFE/hqdefault.jpg"
+    },
+    {
+      "title": "Municipales 2026. Une « défiance » envers les maires ? Ce que dit l'abstention de notre démocratie locale",
+      "description": "Les Français vont-ils se remobiliser après un premier tour marqué par une forte abstention ? Ces élections municipales interrogent sur le lien de confiance entre les habitants et leurs élus locaux, et...",
+      "url": "https://www.ledauphine.com/elections/2026/03/21/une-defiance-envers-les-maires-ce-que-dit-l-abstention-de-notre-democratie-locale",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-03-21T18:00:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "De zéro à data analyste : la troisième leçon avec Yao (3ème Session)",
+      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
+      "url": "https://www.youtube.com/watch?v=o1XuoQl0zDU",
+      "source": "Enogne School",
+      "publishedAt": "2026-01-23T23:30:31Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "o1XuoQl0zDU",
+      "thumbnail": "https://i.ytimg.com/vi/o1XuoQl0zDU/hqdefault.jpg"
+    },
+    {
+      "title": "De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)",
+      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
+      "url": "https://www.youtube.com/watch?v=n5uJWNTs-dQ",
+      "source": "Enogne School",
+      "publishedAt": "2026-01-30T23:01:09Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "n5uJWNTs-dQ",
+      "thumbnail": "https://i.ytimg.com/vi/n5uJWNTs-dQ/hqdefault.jpg"
+    },
+    {
+      "title": "De zéro à data analyste : la cinquième leçon avec Yao (5 ième Session)",
+      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
+      "url": "https://www.youtube.com/watch?v=9-oQG_NeITc",
+      "source": "Enogne School",
+      "publishedAt": "2026-02-06T23:00:11Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "9-oQG_NeITc",
+      "thumbnail": "https://i.ytimg.com/vi/9-oQG_NeITc/hqdefault.jpg"
+    },
+    {
       "title": "Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)",
       "description": "Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...",
       "url": "https://www.youtube.com/watch?v=qKWTshE6WDI",
@@ -182,64 +230,16 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
-      "title": "Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser",
-      "description": "Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...",
-      "url": "https://www.youtube.com/watch?v=SCKEMpv7Ld4",
-      "source": "CodeAvecLionel",
-      "publishedAt": "2026-03-02T12:00:06Z",
+      "title": "DAX (POWER BI) – Module 1 : Les Fondamentaux de DAX | Vidéo 8 : Tables Calculées (Table de Dates)",
+      "description": "Passez au niveau supérieur avec DAX ! Après avoir maîtrisé les fonctions logiques (IF, SWITCH), il est temps de découvrir ...",
+      "url": "https://www.youtube.com/watch?v=CyNZE40aias",
+      "source": "Learn with Jino",
+      "publishedAt": "2026-02-10T16:00:06Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "SCKEMpv7Ld4",
-      "thumbnail": "https://i.ytimg.com/vi/SCKEMpv7Ld4/hqdefault.jpg"
-    },
-    {
-      "title": "Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro",
-      "description": "Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...",
-      "url": "https://www.youtube.com/watch?v=8EXbMYHL8xw",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-01-31T08:46:46Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "8EXbMYHL8xw",
-      "thumbnail": "https://i.ytimg.com/vi/8EXbMYHL8xw/hqdefault.jpg"
-    },
-    {
-      "title": "Entre Netflix et le public, un malentendu qui engendre des films et des séries de plus en plus “stupides”",
-      "description": "Netflix, Disney+ ou Prime Video prétendent que les données qu’elles recueillent sur leur public reflètent fidèlement ce que celui-ci attend. Ce présupposé les conduit à brider l’originalité de leurs c...",
-      "url": "https://www.courrierinternational.com/article/streaming-entre-netflix-et-le-public-un-malentendu-qui-engendre-des-films-et-des-series-de-plus-en-plus-stupides_240775_1",
-      "source": "Courrier International",
-      "publishedAt": "2026-03-20T11:09:01Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Health Data Hub : Une Leçon Digitale pour les Entreprises Marocaines",
-      "description": "La décision du Conseil d'État français concernant le Health Data Hub, validant l'hébergement de données sensibles chez Microsoft, dépasse le simple fait...",
-      "url": "https://www.digido.ma/blog/le-health-data-hub-survivra-a-la-polemique-microsoft-le-conseil-d-etat-l-a-decide",
-      "source": "Digido.ma",
-      "publishedAt": "2026-03-21T03:35:35Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Python Pour la Data -  Jour 1/10",
-      "description": "Assurez-vous que Python est installé : https://youtu.be/Bd43Lt3vod8?si=_-k02WIEl4T4M5kS Ressources à utiliser ce soir ...",
-      "url": "https://www.youtube.com/watch?v=zk5jSdmKjvU",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-02-09T20:36:05Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "zk5jSdmKjvU",
-      "thumbnail": "https://i.ytimg.com/vi/zk5jSdmKjvU/hqdefault.jpg"
+      "videoId": "CyNZE40aias",
+      "thumbnail": "https://i.ytimg.com/vi/CyNZE40aias/hqdefault.jpg"
     },
     {
       "title": "ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)",
@@ -254,35 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
     },
     {
-      "title": "Qui gouverne l’IA dans les universités ?",
-      "description": "La course à l’adoption de l’intelligence artificielle (IA) dans l’enseignement supérieur a dépassé la capacité des institutions à en organiser la gouvernance. Les universitaires ne peuvent pas se perm...",
-      "url": "https://www.lalibre.be/debats/opinions/2026/03/20/qui-gouverne-lia-dans-les-universites-SCPNLHZVQNDQZLZRVGCQHLGEXI/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-03-20T15:10:59Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Actualité : Gardena smart Sileno sense : de l'IA, de la 4G et un robot qui tond à 1 cm du bord, vraiment ?",
-      "description": "Gardena renouvelle sa gamme de robots tondeuses avec le smart Sileno sense, un modèle qui promet de simplifier la tonte grâce à l'intelligence artificielle, une connexion 4G intégrée et une précision ...",
-      "url": "https://www.lesnumeriques.com/robot-tondeuse/gardena-smart-sileno-sense-de-l-ia-de-la-4g-et-un-robot-qui-tond-a-1-cm-du-bord-vraiment-n253351.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-03-21T08:30:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Hachette annule un roman pour usage présumé d'intelligence artificielle",
-      "description": "Le roman « Shy Girl » de Mia Ballard, un succès en autoédition, a été annulé par l'éditeur Hachette. Sa sortie américaine est stoppée et sa distribution britannique interrompue. Cette décision radical...",
-      "url": "https://www.generation-nt.com/actualites/hachette-shy-girl-intelligence-artificielle-annulation-livre-2072863",
-      "source": "Génération NT",
-      "publishedAt": "2026-03-20T19:50:01Z",
+      "title": "Le Xiaomi 15T est la bête noire de Samsung, surtout après cette 4ème baisse de prix",
+      "description": "Le Xiaomi 15T profite d'une énième baisse de prix pour doper ses ventes. Le smartphone haut de gamme est un incontournable et Xiaomi met la pression sur tous les concurrents avec ce rapport qualité pr...",
+      "url": "https://www.presse-citron.net/le-xiaomi-15t-est-la-bete-noire-de-samsung-surtout-apres-cette-4eme-baisse-de-prix/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-03-22T08:24:03Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -300,6 +276,30 @@
       "isYouTube": true,
       "videoId": "aL4657Cunhk",
       "thumbnail": "https://i.ytimg.com/vi/aL4657Cunhk/hqdefault.jpg"
+    },
+    {
+      "title": "OpenClaw Tutoriel : de zéro à expert – setup &amp; utilisation complète (ClawdBot) 🚀 C’est une TUERIE",
+      "description": "Ressources que j'utilise (liens affiliés — merci pour votre soutien ! ) Serveur OpenClaw (coupon : CLAW10) ...",
+      "url": "https://www.youtube.com/watch?v=K9SC6zqaeJU",
+      "source": "Dr. Firas",
+      "publishedAt": "2026-02-02T22:39:57Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "K9SC6zqaeJU",
+      "thumbnail": "https://i.ytimg.com/vi/K9SC6zqaeJU/hqdefault.jpg"
+    },
+    {
+      "title": "Tutoriel OpenClaw pour Débutants – Guide Complet de Configuration (ClawdBot)",
+      "description": "Tutoriel OpenClaw pour Débutants : guide complet montrant comment configurer OpenClaw (anciennement ClawdBot/Moltbot) sur un ...",
+      "url": "https://www.youtube.com/watch?v=Zo7Putdga_4",
+      "source": "Metics Media",
+      "publishedAt": "2026-02-05T09:25:12Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Zo7Putdga_4",
+      "thumbnail": "https://i.ytimg.com/vi/Zo7Putdga_4/hqdefault.jpg"
     }
   ]
 }

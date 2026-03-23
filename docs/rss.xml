@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 22 Mar 2026 08:40:46 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 09:03:50 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,28 +13,52 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Machine Learning et IA en éducation : Guide pour enseignants et formateurs en 2026</title>
-            <link>https://www.youtube.com/watch?v=GBICmtx6RSw</link>
-            <description><![CDATA[Machine Learning et IA : Guide Simple pour Formateurs (Sans les Maths) Vous avez peut-être déjà entendu cette affirmation : une ...]]></description>
-            <pubDate>Fri, 20 Mar 2026 19:33:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=GBICmtx6RSw</guid>
-            <source>Devenir formateur indépendant en 2026</source>
+            <title>Les régimes conçus par IA sont une menace pour la santé des adolescents</title>
+            <link>https://www.generation-nt.com/actualites/regimes-ia-menace-sante-adolescents-2072645</link>
+            <description><![CDATA[Confier son régime à une intelligence artificielle est une très mauvaise idée, surtout pour les jeunes. Une étude menée par des chercheurs turcs révèle que les plans alimentaires générés par des modèl...]]></description>
+            <pubDate>Sat, 21 Mar 2026 12:10:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/regimes-ia-menace-sante-adolescents-2072645</guid>
+            <source>Génération NT</source>
         </item>
         <item>
-            <title>L’intelligence artificielle promet de révolutionner la longévité humaine, mais les scientifiques appellent à garder la tête froide</title>
-            <link>https://dailygeekshow.com/?p=1005122</link>
-            <description><![CDATA[L’intelligence artificielle nourrit un rêve fascinant : prolonger radicalement la vie humaine. Entre annonces spectaculaires et réserves scientifiques, le sujet oscille entre révolution et mirage. Une...]]></description>
-            <pubDate>Fri, 20 Mar 2026 20:01:00 -0000</pubDate>
-            <guid isPermaLink="true">https://dailygeekshow.com/?p=1005122</guid>
-            <source>Daily Geek Show</source>
+            <title>GPT-5.4 : Ce que OpenAI ne veut pas que vous sachiez</title>
+            <link>https://www.youtube.com/watch?v=iDIB_dvMtZE</link>
+            <description><![CDATA[GPT-5.4 : Ce que OpenAI ne veut pas que vous sachiez Dans cette vidéo, on décrypte les actualités IA et Tech les plus ...]]></description>
+            <pubDate>Sat, 07 Mar 2026 17:50:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=iDIB_dvMtZE</guid>
+            <source>Parlons IA & Tech</source>
         </item>
         <item>
-            <title>Comment utiliser concrètement l'IA et Python pour analyser des données (exemple en temps réel)</title>
-            <link>https://www.youtube.com/watch?v=0BY-6tJmz1g</link>
-            <description><![CDATA[Apprenez à analyser des données hospitalières avec Python (pandas) grâce à des outils d'IA. Nous allons réaliser trois niveaux ...]]></description>
-            <pubDate>Thu, 05 Feb 2026 14:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=0BY-6tJmz1g</guid>
-            <source>Chandoo</source>
+            <title>webinaire-excel-kobotoolbox-PowerBi</title>
+            <link>https://www.youtube.com/watch?v=niw22vHlUw0</link>
+            <description><![CDATA[Vidéo 2: formation sur la maitrise de collecte et traitement des données avec excel, kobo toolbox et Power BI Orateur: Ingénieur ...]]></description>
+            <pubDate>Thu, 26 Feb 2026 18:07:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=niw22vHlUw0</guid>
+            <source>ECPCI</source>
+        </item>
+        <item>
+            <title>Créer un Dashboard Power BI en 15 Minutes | Analyse de Ventes avec Superstore - Retail</title>
+            <link>https://www.youtube.com/watch?v=n7Nvz5UuBV4</link>
+            <description><![CDATA[Créer un Dashboard Power BI Professionnel avec les Données Superstore Dans ce tutoriel complet, je te montre comment ...]]></description>
+            <pubDate>Mon, 02 Mar 2026 14:41:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=n7Nvz5UuBV4</guid>
+            <source>Ngroup Media & Digital</source>
+        </item>
+        <item>
+            <title>Il parvient à développer un vaccin pour soigner son chien grâce à une intelligence artificielle</title>
+            <link>https://www.franceinfo.fr/replay-jt/france-2/13-heures/il-parvient-a-developper-un-vaccin-pour-soigner-son-chien-grace-a-une-intelligence-artificielle_7884251.html</link>
+            <description><![CDATA[En Australie, grâce à l'intelligence artificielle, un homme a réussi à développer en à peine quelques mois un vaccin pour soigner son chien condamné par un cancer. Et le traitement donne pour l’instan...]]></description>
+            <pubDate>Sat, 21 Mar 2026 13:36:53 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/replay-jt/france-2/13-heures/il-parvient-a-developper-un-vaccin-pour-soigner-son-chien-grace-a-une-intelligence-artificielle_7884251.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
+            <title>J&amp;#39;analyse ce Dashboard Power BI et je découvre un problème de rentabilité |  UEMOA</title>
+            <link>https://www.youtube.com/watch?v=sJrvfgWQoE4</link>
+            <description><![CDATA[J'ai analysé 50 000 transactions pharmaceutiques sur 4 ans, 8 pays et 80 pharmacies dans la zone UEMOA — et j'ai construit un ...]]></description>
+            <pubDate>Sat, 07 Mar 2026 17:41:19 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=sJrvfgWQoE4</guid>
+            <source>Ngroup Media & Digital</source>
         </item>
         <item>
             <title>EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&amp;#39;utiliser Excel !</title>
@@ -43,6 +67,14 @@
             <pubDate>Fri, 06 Mar 2026 10:00:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=8Vh5bmRgmlo</guid>
             <source>Morpheus Formation | Excel, Sheets, Power BI</source>
+        </item>
+        <item>
+            <title>Data Analysis with Python Full Course Tutorial</title>
+            <link>https://www.youtube.com/watch?v=bLDbzcHwxM4</link>
+            <description><![CDATA[Data Analysis with Python Full Course Tutorial Get Ad-Free Training by becoming a member today!]]></description>
+            <pubDate>Fri, 23 Jan 2026 17:30:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=bLDbzcHwxM4</guid>
+            <source>Learn Skills Daily</source>
         </item>
         <item>
             <title>Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)</title>
@@ -59,50 +91,6 @@
             <pubDate>Mon, 16 Feb 2026 09:53:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=NvdjH1fRRE0</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp;amp; 10 | Guide complet</title>
-            <link>https://www.youtube.com/watch?v=G-4DERRKrHA</link>
-            <description><![CDATA[Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...]]></description>
-            <pubDate>Wed, 25 Feb 2026 04:31:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=G-4DERRKrHA</guid>
-            <source>AntalaSoft School</source>
-        </item>
-        <item>
-            <title>« Il ne prend pas de vacances » : ces chiens robots à 300 000 $ surveillent des data centers aux États-Unis</title>
-            <link>https://www.numerama.com/tech/2214089-il-ne-prend-pas-de-vacances-ces-chiens-robots-a-300-000-surveillent-des-data-centers-aux-etats-unis.html</link>
-            <description><![CDATA[Face à l’essor des infrastructures dédiées au cloud et à l’intelligence artificielle, plusieurs exploitants américains de centres de données expérimentent des robots quadrupèdes pour renforcer la surv...]]></description>
-            <pubDate>Fri, 20 Mar 2026 15:06:04 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/tech/2214089-il-ne-prend-pas-de-vacances-ces-chiens-robots-a-300-000-surveillent-des-data-centers-aux-etats-unis.html</guid>
-            <source>Numerama</source>
-        </item>
-        <item>
-            <title>Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)</title>
-            <link>https://www.youtube.com/watch?v=Vm-dZxN70kY</link>
-            <description><![CDATA[Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...]]></description>
-            <pubDate>Sat, 14 Mar 2026 20:01:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Vm-dZxN70kY</guid>
-            <source>TechVantage FR</source>
-        </item>
-        <item>
-            <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
-            <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
-            <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
-            <pubDate>Fri, 13 Feb 2026 23:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2i9u_hwq05g</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Répertoire des positions orbitales et densités des constellations LEO</title>
-            <link>https://www.data.gouv.fr/datasets/repertoire-des-positions-orbitales-et-densites-des-constellations-leo</link>
-            <description><![CDATA[### Répertoire des positions orbitales et densités des constellations LEO (Starlink, Amazon Leo, Guowang) 20 Mars 2026
-
-
-
-Ateur [BisatelPhone](https://www.bisatelphone.com/internet-satellite-securise-...]]></description>
-            <pubDate>Fri, 20 Mar 2026 15:18:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/repertoire-des-positions-orbitales-et-densites-des-constellations-leo</guid>
-            <source>Gouv.fr</source>
         </item>
         <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
@@ -129,6 +117,46 @@ Ateur [BisatelPhone](https://www.bisatelphone.com/internet-satellite-securise-..
             <source>Algomius</source>
         </item>
         <item>
+            <title>DAX (Power BI) – Module 1 : Les Fondamentaux de DAX | Vidéo 7 : IF, SWITCH &amp;amp; BLANK</title>
+            <link>https://www.youtube.com/watch?v=kcSObmOJaFE</link>
+            <description><![CDATA[Bienvenue dans cette 7ème étape de notre formation complète : Maîtriser DAX ! Dans l'épisode précédent, nous avons appris ...]]></description>
+            <pubDate>Fri, 06 Feb 2026 08:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=kcSObmOJaFE</guid>
+            <source>Learn with Jino</source>
+        </item>
+        <item>
+            <title>Municipales 2026. Une « défiance » envers les maires ? Ce que dit l'abstention de notre démocratie locale</title>
+            <link>https://www.ledauphine.com/elections/2026/03/21/une-defiance-envers-les-maires-ce-que-dit-l-abstention-de-notre-democratie-locale</link>
+            <description><![CDATA[Les Français vont-ils se remobiliser après un premier tour marqué par une forte abstention ? Ces élections municipales interrogent sur le lien de confiance entre les habitants et leurs élus locaux, et...]]></description>
+            <pubDate>Sat, 21 Mar 2026 18:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.ledauphine.com/elections/2026/03/21/une-defiance-envers-les-maires-ce-que-dit-l-abstention-de-notre-democratie-locale</guid>
+            <source>Le Dauphiné Libéré</source>
+        </item>
+        <item>
+            <title>De zéro à data analyste : la troisième leçon avec Yao (3ème Session)</title>
+            <link>https://www.youtube.com/watch?v=o1XuoQl0zDU</link>
+            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
+            <pubDate>Fri, 23 Jan 2026 23:30:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=o1XuoQl0zDU</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
+            <title>De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)</title>
+            <link>https://www.youtube.com/watch?v=n5uJWNTs-dQ</link>
+            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
+            <pubDate>Fri, 30 Jan 2026 23:01:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=n5uJWNTs-dQ</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
+            <title>De zéro à data analyste : la cinquième leçon avec Yao (5 ième Session)</title>
+            <link>https://www.youtube.com/watch?v=9-oQG_NeITc</link>
+            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
+            <pubDate>Fri, 06 Feb 2026 23:00:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=9-oQG_NeITc</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
             <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
             <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
             <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
@@ -137,44 +165,12 @@ Ateur [BisatelPhone](https://www.bisatelphone.com/internet-satellite-securise-..
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
-            <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
-            <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
-            <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
-            <source>CodeAvecLionel</source>
-        </item>
-        <item>
-            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
-            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
-            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
-            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
-            <source>Oscar Aksanti</source>
-        </item>
-        <item>
-            <title>Entre Netflix et le public, un malentendu qui engendre des films et des séries de plus en plus “stupides”</title>
-            <link>https://www.courrierinternational.com/article/streaming-entre-netflix-et-le-public-un-malentendu-qui-engendre-des-films-et-des-series-de-plus-en-plus-stupides_240775_1</link>
-            <description><![CDATA[Netflix, Disney+ ou Prime Video prétendent que les données qu’elles recueillent sur leur public reflètent fidèlement ce que celui-ci attend. Ce présupposé les conduit à brider l’originalité de leurs c...]]></description>
-            <pubDate>Fri, 20 Mar 2026 11:09:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.courrierinternational.com/article/streaming-entre-netflix-et-le-public-un-malentendu-qui-engendre-des-films-et-des-series-de-plus-en-plus-stupides_240775_1</guid>
-            <source>Courrier International</source>
-        </item>
-        <item>
-            <title>Health Data Hub : Une Leçon Digitale pour les Entreprises Marocaines</title>
-            <link>https://www.digido.ma/blog/le-health-data-hub-survivra-a-la-polemique-microsoft-le-conseil-d-etat-l-a-decide</link>
-            <description><![CDATA[La décision du Conseil d'État français concernant le Health Data Hub, validant l'hébergement de données sensibles chez Microsoft, dépasse le simple fait...]]></description>
-            <pubDate>Sat, 21 Mar 2026 03:35:35 -0000</pubDate>
-            <guid isPermaLink="true">https://www.digido.ma/blog/le-health-data-hub-survivra-a-la-polemique-microsoft-le-conseil-d-etat-l-a-decide</guid>
-            <source>Digido.ma</source>
-        </item>
-        <item>
-            <title>Python Pour la Data -  Jour 1/10</title>
-            <link>https://www.youtube.com/watch?v=zk5jSdmKjvU</link>
-            <description><![CDATA[Assurez-vous que Python est installé : https://youtu.be/Bd43Lt3vod8?si=_-k02WIEl4T4M5kS Ressources à utiliser ce soir ...]]></description>
-            <pubDate>Mon, 09 Feb 2026 20:36:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=zk5jSdmKjvU</guid>
-            <source>Oscar Aksanti</source>
+            <title>DAX (POWER BI) – Module 1 : Les Fondamentaux de DAX | Vidéo 8 : Tables Calculées (Table de Dates)</title>
+            <link>https://www.youtube.com/watch?v=CyNZE40aias</link>
+            <description><![CDATA[Passez au niveau supérieur avec DAX ! Après avoir maîtrisé les fonctions logiques (IF, SWITCH), il est temps de découvrir ...]]></description>
+            <pubDate>Tue, 10 Feb 2026 16:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=CyNZE40aias</guid>
+            <source>Learn with Jino</source>
         </item>
     </channel>
 </rss>
