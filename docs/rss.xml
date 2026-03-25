@@ -5,13 +5,37 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 24 Mar 2026 08:58:38 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 08:57:38 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>Actualité : De ChatGPT à Gemini, il n’y aura bientôt qu’un pas pour importer ses données : voici ce que Google prépare</title>
+            <link>https://www.lesnumeriques.com/intelligence-artificielle/de-chatgpt-a-gemini-il-n-y-aura-bientot-qu-un-pas-pour-importer-ses-donnees-voici-ce-que-google-prepare-n253427.html</link>
+            <description><![CDATA[Google prépare un outil pour importer votre mémoire et vos conversations depuis ChatGPT et d’autres IA vers Gemini, pour une migration simplifiée et rapide.]]></description>
+            <pubDate>Tue, 24 Mar 2026 08:38:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/de-chatgpt-a-gemini-il-n-y-aura-bientot-qu-un-pas-pour-importer-ses-donnees-voici-ce-que-google-prepare-n253427.html</guid>
+            <source>Les Numériques</source>
+        </item>
+        <item>
+            <title>Comment j’ai prompté une IA pour la faire accoucher du dernier chapitre de « Bouvard et Pécuchet » de Flaubert</title>
+            <link>https://www.nouvelobs.com/bibliobs/20260323.OBS113505/comment-j-ai-prompte-une-ia-pour-la-faire-accoucher-du-dernier-chapitre-de-bouvard-et-pecuchet-de-flaubert.html</link>
+            <description><![CDATA[Spécialiste de l’IA, Benoît Raphaël raconte comment il est parvenu à faire générer à une intelligence artificielle le dernier chapitre de « Bouvard et Pécuchet ». Et insiste sur l’importance de la rec...]]></description>
+            <pubDate>Mon, 23 Mar 2026 18:00:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.nouvelobs.com/bibliobs/20260323.OBS113505/comment-j-ai-prompte-une-ia-pour-la-faire-accoucher-du-dernier-chapitre-de-bouvard-et-pecuchet-de-flaubert.html</guid>
+            <source>L'Obs</source>
+        </item>
+        <item>
+            <title>Autorité de marque et Intelligence Artificielle : l’avantage inattendu des PME</title>
+            <link>https://siecledigital.fr/2026/03/24/autorite-de-marque-et-intelligence-artificielle-lavantage-inattendu-des-pme/</link>
+            <description><![CDATA[Pendant 20 ans, le marketing B2B a été obsédé par la visibilité dans les moteurs de recherche. Mais l’IA générative change la donne : l’optimisation des sites et le netlinking “traditionnel” ne suffis...]]></description>
+            <pubDate>Tue, 24 Mar 2026 07:23:14 -0000</pubDate>
+            <guid isPermaLink="true">https://siecledigital.fr/2026/03/24/autorite-de-marque-et-intelligence-artificielle-lavantage-inattendu-des-pme/</guid>
+            <source>Siècle Digital</source>
+        </item>
         <item>
             <title>Comment utiliser concrètement l'IA et Python pour analyser des données (exemple en temps réel)</title>
             <link>https://www.youtube.com/watch?v=0BY-6tJmz1g</link>
@@ -61,36 +85,12 @@
             <source>Donnée du Sens</source>
         </item>
         <item>
-            <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
-            <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
-            <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
-            <pubDate>Fri, 13 Feb 2026 23:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2i9u_hwq05g</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Pourquoi les télécoms ne peuvent plus se passer de la Data Science – Chike Odenigbo</title>
-            <link>https://www.youtube.com/watch?v=kNy0VnMMP3Y</link>
-            <description><![CDATA[Dans ce second podcast, Ekué a eu le plaisir de discuter avec Chike Odenigbo qui est un expert en data science dans le domaine ...]]></description>
-            <pubDate>Fri, 27 Feb 2026 23:01:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=kNy0VnMMP3Y</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Il utilise la Data Science pour battre le marché – Felix Carrier</title>
-            <link>https://www.youtube.com/watch?v=VNM4jJq8dSQ</link>
-            <description><![CDATA[Dans ce troisième podcast, Ekué a eu le plaisir de discuter avec Felix Carrier qui est un expert en data science dans le domaine ...]]></description>
-            <pubDate>Fri, 06 Mar 2026 23:00:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VNM4jJq8dSQ</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Pourquoi toutes les entreprises ont besoin de Data Science – Thibault Camara</title>
-            <link>https://www.youtube.com/watch?v=MGTY0HfU9Fc</link>
-            <description><![CDATA[Dans ce quatrième podcast, Ekué a eu le plaisir de discuter avec Thibault Camara qui est un expert en data science dans le ...]]></description>
-            <pubDate>Fri, 13 Mar 2026 22:15:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=MGTY0HfU9Fc</guid>
-            <source>Enogne School</source>
+            <title>La bulle financière IA va-t-elle éclater ? « Jusqu’à récemment, j’avais tendance à être rassurant... »</title>
+            <link>https://www.nouvelobs.com/idees/20260323.OBS113512/la-bulle-financiere-ia-va-t-elle-eclater-jusqu-a-recemment-j-avais-tendance-a-etre-rassurant.html</link>
+            <description><![CDATA[Qui va sortir gagnant de la bataille industrielle autour de l’intelligence artificielle ? Le philosophe Nick Srnicek analyse dans « Silicon Empires » les stratégies des grands acteurs du secteur. Et s...]]></description>
+            <pubDate>Mon, 23 Mar 2026 18:30:24 -0000</pubDate>
+            <guid isPermaLink="true">https://www.nouvelobs.com/idees/20260323.OBS113512/la-bulle-financiere-ia-va-t-elle-eclater-jusqu-a-recemment-j-avais-tendance-a-etre-rassurant.html</guid>
+            <source>L'Obs</source>
         </item>
         <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
@@ -109,28 +109,28 @@
             <source>Centre de formation Noormed</source>
         </item>
         <item>
-            <title>Python : FastAPI, SQLAlchemy et PostgreSQL</title>
-            <link>https://www.youtube.com/watch?v=XCnB65yh5NM</link>
-            <description><![CDATA[Cette vidéo explique comment relier une API FastAPI a une base de données postgreSQL. Nous allons pour cela utiliser l'ORM ...]]></description>
-            <pubDate>Fri, 23 Jan 2026 17:00:52 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=XCnB65yh5NM</guid>
-            <source>Algomius</source>
+            <title>L’IA qui fait la guerre aux États-Unis se rapproche de l’Europe : l’Angleterre l’adopte pour surveiller les fraudeurs</title>
+            <link>https://www.presse-citron.net/ia-fait-guerre-etats-unis-rapproche-europe-angleterre-surveiller-fraudeurs/</link>
+            <description><![CDATA[Palantir, le géant américain de l'analyse de données, vient d'être sélectionné par le régulateur financier britannique pour traquer la fraude et le blanchiment d'argent. Un contrat qui intervient au m...]]></description>
+            <pubDate>Tue, 24 Mar 2026 06:00:12 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/ia-fait-guerre-etats-unis-rapproche-europe-angleterre-surveiller-fraudeurs/</guid>
+            <source>Presse-citron</source>
         </item>
         <item>
-            <title>Philips passe au Dolby Vision 2 et à un Ambilight encore plus envahissant pour ses nouvelles télés OLED</title>
-            <link>https://www.journaldugeek.com/2026/03/23/philips-passe-au-dolby-vision-2-et-a-un-ambilight-encore-plus-envahissant-pour-ses-nouvelles-teles-oled/</link>
-            <description><![CDATA[Philips a levé le voile sur sa gamme OLED 2026. Quatre modèles au programme, dont deux très ambitieux, avec une nouveauté notable : la prise en charge de Dolby Vision 2 Max. Au menu : une image boosté...]]></description>
-            <pubDate>Mon, 23 Mar 2026 07:00:22 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/03/23/philips-passe-au-dolby-vision-2-et-a-un-ambilight-encore-plus-envahissant-pour-ses-nouvelles-teles-oled/</guid>
-            <source>Journal du geek</source>
+            <title>« C'est bien ce qu'on craignait », NVIDIA aurait bien menti sur son DLSS 5 qui fait scandale</title>
+            <link>https://www.gameblog.fr/jeu-video/ed/news/dlss-5-filtre-ia-generative-verite-713527</link>
+            <description><![CDATA[À l'annonce du DLSS 5 qui avait déjà fait couler beaucoup d'encre, NVIDIA aurait pour ne rien arranger caché une partie de la vérité quant à son fonctionnement.]]></description>
+            <pubDate>Tue, 24 Mar 2026 06:20:53 -0000</pubDate>
+            <guid isPermaLink="true">https://www.gameblog.fr/jeu-video/ed/news/dlss-5-filtre-ia-generative-verite-713527</guid>
+            <source>Gameblog</source>
         </item>
         <item>
-            <title>« Palantir reste le benchmark » : entre big data, IA et renseignement, l’entreprise sort de l’ombre</title>
-            <link>https://www.challenges.fr/entreprise/tech-numerique/palantir-reste-le-benchmark-entre-big-data-ia-et-renseignement-lentreprise-sort-de-lombre_641956</link>
-            <description><![CDATA[PODCAST - Pascal Tea, président de Palantir France, lève le voile sur une entreprise aussi puissante que méconnue. Entre contrats avec les services de renseignement, partenariat historique avec Airbus...]]></description>
-            <pubDate>Sun, 22 Mar 2026 17:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.challenges.fr/entreprise/tech-numerique/palantir-reste-le-benchmark-entre-big-data-ia-et-renseignement-lentreprise-sort-de-lombre_641956</guid>
-            <source>Challenges</source>
+            <title>De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)</title>
+            <link>https://www.youtube.com/watch?v=n5uJWNTs-dQ</link>
+            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
+            <pubDate>Fri, 30 Jan 2026 23:01:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=n5uJWNTs-dQ</guid>
+            <source>Enogne School</source>
         </item>
         <item>
             <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
@@ -141,14 +141,6 @@
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>Comprendre les Window Functions sur SQL 📊✅ #tuto #sql #data</title>
-            <link>https://www.youtube.com/watch?v=Z_SFL0oFwBk</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Tue, 17 Feb 2026 15:14:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z_SFL0oFwBk</guid>
-            <source>Le Decodeur</source>
-        </item>
-        <item>
             <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
             <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
             <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
@@ -157,12 +149,20 @@
             <source>CodeAvecLionel</source>
         </item>
         <item>
-            <title>Le référencement IA appliqué à la fiche produit</title>
-            <link>https://www.webmarketing-com.com/referencement-ia-applique-fiche-produit</link>
-            <description><![CDATA[On revient sur le GEO (Generative Engine Optimization), le grand sujet du moment. Promis, pas de salade : on va droit au but. Première chose, pour se (re)mettre dans le bain, une statistique qui va bi...]]></description>
-            <pubDate>Mon, 23 Mar 2026 08:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.webmarketing-com.com/referencement-ia-applique-fiche-produit</guid>
-            <source>Webmarketing-com.com</source>
+            <title>Accumulus Technologies lance Accumulus Connector, afin d’offrir une intégration en temps réel avec les systèmes réglementaires</title>
+            <link>https://www.globenewswire.com/news-release/2026/03/24/3260941/0/fr/Accumulus-Technologies-lance-Accumulus-Connector-afin-d-offrir-une-int%C3%A9gration-en-temps-r%C3%A9el-avec-les-syst%C3%A8mes-r%C3%A9glementaires.html</link>
+            <description><![CDATA[Cette nouvelle fonctionnalité permet l’interopérabilité et la connectivité à l’échelle mondiale, et pose ainsi les bases d’une intégration réglementaire de bout en bout Cette nouvelle fonctionnalité p...]]></description>
+            <pubDate>Tue, 24 Mar 2026 05:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/03/24/3260941/0/fr/Accumulus-Technologies-lance-Accumulus-Connector-afin-d-offrir-une-int%C3%A9gration-en-temps-r%C3%A9el-avec-les-syst%C3%A8mes-r%C3%A9glementaires.html</guid>
+            <source>GlobeNewswire</source>
+        </item>
+        <item>
+            <title>Pourquoi l'IA est à la fois une malédiction et une bénédiction pour les logiciels libres – selon les développeurs</title>
+            <link>https://www.zdnet.fr/actualites/pourquoi-lia-est-a-la-fois-une-malediction-et-une-benediction-pour-les-logiciels-libres-selon-les-developpeurs-492500.htm</link>
+            <description><![CDATA[L'IA a transformé la sécurité du code, accaparant du temps, de l'attention et sapant le moral. Mais, bien utilisée, elle peut être utile. Voici comment.]]></description>
+            <pubDate>Tue, 24 Mar 2026 06:03:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/pourquoi-lia-est-a-la-fois-une-malediction-et-une-benediction-pour-les-logiciels-libres-selon-les-developpeurs-492500.htm</guid>
+            <source>ZDNet France</source>
         </item>
         <item>
             <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
