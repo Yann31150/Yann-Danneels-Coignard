@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 25 Mar 2026 08:57:38 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 09:03:34 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,36 +13,44 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Actualité : De ChatGPT à Gemini, il n’y aura bientôt qu’un pas pour importer ses données : voici ce que Google prépare</title>
-            <link>https://www.lesnumeriques.com/intelligence-artificielle/de-chatgpt-a-gemini-il-n-y-aura-bientot-qu-un-pas-pour-importer-ses-donnees-voici-ce-que-google-prepare-n253427.html</link>
-            <description><![CDATA[Google prépare un outil pour importer votre mémoire et vos conversations depuis ChatGPT et d’autres IA vers Gemini, pour une migration simplifiée et rapide.]]></description>
-            <pubDate>Tue, 24 Mar 2026 08:38:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/de-chatgpt-a-gemini-il-n-y-aura-bientot-qu-un-pas-pour-importer-ses-donnees-voici-ce-que-google-prepare-n253427.html</guid>
-            <source>Les Numériques</source>
+            <title>ChatGPT dans ma peluche : l'inquiétant virage IA de l'industrie du jouet</title>
+            <link>https://journal-labreche.fr/chatgpt-dans-ma-peluche-linquietant-virage-ia-de-lindustrie-du-jouet/</link>
+            <description><![CDATA[Les jouets intègrent désormais de plus en plus des systèmes d'IA, à l'image de ChatGPT, avec des conséquences sur les enfants]]></description>
+            <pubDate>Wed, 25 Mar 2026 08:59:32 -0000</pubDate>
+            <guid isPermaLink="true">https://journal-labreche.fr/chatgpt-dans-ma-peluche-linquietant-virage-ia-de-lindustrie-du-jouet/</guid>
+            <source>Journal-labreche.fr</source>
         </item>
         <item>
-            <title>Comment j’ai prompté une IA pour la faire accoucher du dernier chapitre de « Bouvard et Pécuchet » de Flaubert</title>
-            <link>https://www.nouvelobs.com/bibliobs/20260323.OBS113505/comment-j-ai-prompte-une-ia-pour-la-faire-accoucher-du-dernier-chapitre-de-bouvard-et-pecuchet-de-flaubert.html</link>
-            <description><![CDATA[Spécialiste de l’IA, Benoît Raphaël raconte comment il est parvenu à faire générer à une intelligence artificielle le dernier chapitre de « Bouvard et Pécuchet ». Et insiste sur l’importance de la rec...]]></description>
-            <pubDate>Mon, 23 Mar 2026 18:00:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.nouvelobs.com/bibliobs/20260323.OBS113505/comment-j-ai-prompte-une-ia-pour-la-faire-accoucher-du-dernier-chapitre-de-bouvard-et-pecuchet-de-flaubert.html</guid>
-            <source>L'Obs</source>
+            <title>La fin de cet outil IA: OpenAI (ChatGPT) annonce fermer l'application vidéo Sora six mois après son lancement</title>
+            <link>https://www.lavenir.net/actu/conso/multimedia/2026/03/25/la-fin-de-cet-outil-ia-openai-annonce-fermer-lapplication-video-sora-six-mois-apres-son-lancement-4RPJ2YRTCRCQXBTOYKLHNJKHXA/</link>
+            <description><![CDATA[OpenAI a annoncé mardi la fermeture de Sora, son réseau social de vidéos courtes générées par intelligence artificielle (IA), six mois seulement après son lancement marqué par un vif engouement. ...]]></description>
+            <pubDate>Wed, 25 Mar 2026 06:29:35 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lavenir.net/actu/conso/multimedia/2026/03/25/la-fin-de-cet-outil-ia-openai-annonce-fermer-lapplication-video-sora-six-mois-apres-son-lancement-4RPJ2YRTCRCQXBTOYKLHNJKHXA/</guid>
+            <source>Lavenir.net</source>
         </item>
         <item>
-            <title>Autorité de marque et Intelligence Artificielle : l’avantage inattendu des PME</title>
-            <link>https://siecledigital.fr/2026/03/24/autorite-de-marque-et-intelligence-artificielle-lavantage-inattendu-des-pme/</link>
-            <description><![CDATA[Pendant 20 ans, le marketing B2B a été obsédé par la visibilité dans les moteurs de recherche. Mais l’IA générative change la donne : l’optimisation des sites et le netlinking “traditionnel” ne suffis...]]></description>
-            <pubDate>Tue, 24 Mar 2026 07:23:14 -0000</pubDate>
-            <guid isPermaLink="true">https://siecledigital.fr/2026/03/24/autorite-de-marque-et-intelligence-artificielle-lavantage-inattendu-des-pme/</guid>
+            <title>Analyse discriminante PLS « from scratch » avec ChatGPT (Python)</title>
+            <link>https://www.youtube.com/watch?v=YLh5gsmOFkQ</link>
+            <description><![CDATA[Machine learning. Data science. Classification supervisée. Analyse discriminante PLS, approche en deux étapes : régression ...]]></description>
+            <pubDate>Tue, 17 Feb 2026 16:40:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=YLh5gsmOFkQ</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Google prépare un mode pour vous entraîner à bien prononcer les langues</title>
+            <link>https://siecledigital.fr/2026/03/24/google-traduction-ameliore-votre-prononciation/</link>
+            <description><![CDATA[Depuis plusieurs années, Google Traduction s’est imposé comme un réflexe pour traduire rapidement un mot ou une phrase. Mais face à la montée en puissance des IA conversationnelles, jusqu’à un outil d...]]></description>
+            <pubDate>Wed, 25 Mar 2026 08:05:10 -0000</pubDate>
+            <guid isPermaLink="true">https://siecledigital.fr/2026/03/24/google-traduction-ameliore-votre-prononciation/</guid>
             <source>Siècle Digital</source>
         </item>
         <item>
-            <title>Comment utiliser concrètement l'IA et Python pour analyser des données (exemple en temps réel)</title>
-            <link>https://www.youtube.com/watch?v=0BY-6tJmz1g</link>
-            <description><![CDATA[Apprenez à analyser des données hospitalières avec Python (pandas) grâce à des outils d'IA. Nous allons réaliser trois niveaux ...]]></description>
-            <pubDate>Thu, 05 Feb 2026 14:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=0BY-6tJmz1g</guid>
-            <source>Chandoo</source>
+            <title>Formation PostgreSQL - PostGIS et QGIS pour Gestion Bases de données spatiales - SGBD</title>
+            <link>https://www.youtube.com/watch?v=WIiMhXP7yA0</link>
+            <description><![CDATA[Dans cette vidéo, nous abordons l'introduction aux bases de données spatiales et PostGIS afin de vous aider à concevoir et gérer ...]]></description>
+            <pubDate>Fri, 13 Feb 2026 16:15:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=WIiMhXP7yA0</guid>
+            <source>EGD ACADEMIA</source>
         </item>
         <item>
             <title>EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&amp;#39;utiliser Excel !</title>
@@ -85,12 +93,12 @@
             <source>Donnée du Sens</source>
         </item>
         <item>
-            <title>La bulle financière IA va-t-elle éclater ? « Jusqu’à récemment, j’avais tendance à être rassurant... »</title>
-            <link>https://www.nouvelobs.com/idees/20260323.OBS113512/la-bulle-financiere-ia-va-t-elle-eclater-jusqu-a-recemment-j-avais-tendance-a-etre-rassurant.html</link>
-            <description><![CDATA[Qui va sortir gagnant de la bataille industrielle autour de l’intelligence artificielle ? Le philosophe Nick Srnicek analyse dans « Silicon Empires » les stratégies des grands acteurs du secteur. Et s...]]></description>
-            <pubDate>Mon, 23 Mar 2026 18:30:24 -0000</pubDate>
-            <guid isPermaLink="true">https://www.nouvelobs.com/idees/20260323.OBS113512/la-bulle-financiere-ia-va-t-elle-eclater-jusqu-a-recemment-j-avais-tendance-a-etre-rassurant.html</guid>
-            <source>L'Obs</source>
+            <title>#3 - Power BI : Import MySQL + Nettoyage Données (2 Méthodes) | Tuto ETL Débutant</title>
+            <link>https://www.youtube.com/watch?v=mf8Tq-DVCGk</link>
+            <description><![CDATA[Importez 148K transactions dans Power BI et nettoyez vos données en 22 minutes — 2 méthodes universelles (MySQL direct + ...]]></description>
+            <pubDate>Thu, 05 Feb 2026 09:01:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=mf8Tq-DVCGk</guid>
+            <source>Boubacar | Data Analyst</source>
         </item>
         <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
@@ -109,20 +117,37 @@
             <source>Centre de formation Noormed</source>
         </item>
         <item>
-            <title>L’IA qui fait la guerre aux États-Unis se rapproche de l’Europe : l’Angleterre l’adopte pour surveiller les fraudeurs</title>
-            <link>https://www.presse-citron.net/ia-fait-guerre-etats-unis-rapproche-europe-angleterre-surveiller-fraudeurs/</link>
-            <description><![CDATA[Palantir, le géant américain de l'analyse de données, vient d'être sélectionné par le régulateur financier britannique pour traquer la fraude et le blanchiment d'argent. Un contrat qui intervient au m...]]></description>
-            <pubDate>Tue, 24 Mar 2026 06:00:12 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/ia-fait-guerre-etats-unis-rapproche-europe-angleterre-surveiller-fraudeurs/</guid>
-            <source>Presse-citron</source>
+            <title>Apprendre SQL en 40 minutes - Cours Complet Débutant</title>
+            <link>https://www.youtube.com/watch?v=xkJdg9zXGEI</link>
+            <description><![CDATA[Vous voulez aller plus loin et apprendre SQL ? Découvrez mon cours SQL ...]]></description>
+            <pubDate>Sun, 08 Mar 2026 09:05:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=xkJdg9zXGEI</guid>
+            <source>Comment Coder</source>
         </item>
         <item>
-            <title>« C'est bien ce qu'on craignait », NVIDIA aurait bien menti sur son DLSS 5 qui fait scandale</title>
-            <link>https://www.gameblog.fr/jeu-video/ed/news/dlss-5-filtre-ia-generative-verite-713527</link>
-            <description><![CDATA[À l'annonce du DLSS 5 qui avait déjà fait couler beaucoup d'encre, NVIDIA aurait pour ne rien arranger caché une partie de la vérité quant à son fonctionnement.]]></description>
-            <pubDate>Tue, 24 Mar 2026 06:20:53 -0000</pubDate>
-            <guid isPermaLink="true">https://www.gameblog.fr/jeu-video/ed/news/dlss-5-filtre-ia-generative-verite-713527</guid>
-            <source>Gameblog</source>
+            <title>Ford innove avec un compartiment isolé sur le tableau de bord</title>
+            <link>https://www.leblogauto.com/actualites/actualite/ford-innove-avec-un-compartiment-isole-sur-le-tableau-de-bord/</link>
+            <description><![CDATA[Ford développe un compartiment isolé pour tableau de bord afin de protéger appareils électroniques et objets sensibles à la chaleur. Ford poursuit ses recherches en [...]
+L’article Ford innove avec un...]]></description>
+            <pubDate>Wed, 25 Mar 2026 05:12:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.leblogauto.com/actualites/actualite/ford-innove-avec-un-compartiment-isole-sur-le-tableau-de-bord/</guid>
+            <source>Leblogauto.com</source>
+        </item>
+        <item>
+            <title>Captions devient Mirage et lève 75 millions de dollars pour conquérir la vidéo courte</title>
+            <link>https://siecledigital.fr/2026/03/25/mirage-leve-75-millions-de-dollars-et-mise-sur-des-modeles-ia-pour-dominer-ledition-video/</link>
+            <description><![CDATA[L’application de sous-titrage vidéo par IA, bien connue des créateurs de contenu, a changé de nom et de cap. Rebaptisée Mirage, la startup se repositionne comme un laboratoire IA spécialisé dans l’édi...]]></description>
+            <pubDate>Wed, 25 Mar 2026 08:30:47 -0000</pubDate>
+            <guid isPermaLink="true">https://siecledigital.fr/2026/03/25/mirage-leve-75-millions-de-dollars-et-mise-sur-des-modeles-ia-pour-dominer-ledition-video/</guid>
+            <source>Siècle Digital</source>
+        </item>
+        <item>
+            <title>Révisions HTML/CSS/JS/PHP/SQL  |  BTS CIEL-IR</title>
+            <link>https://www.youtube.com/watch?v=mo7p89NuNpc</link>
+            <description><![CDATA[Cours personnalisé du 28/01/2026 centré sur les notions basiques de HTML/CSS/JS/PHP et SQL étudiées en premières année ...]]></description>
+            <pubDate>Thu, 29 Jan 2026 05:02:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=mo7p89NuNpc</guid>
+            <source>Bryan_Drouet</source>
         </item>
         <item>
             <title>De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)</title>
@@ -133,44 +158,20 @@
             <source>Enogne School</source>
         </item>
         <item>
+            <title>De zéro à data analyste : la cinquième leçon avec Yao (5 ième Session)</title>
+            <link>https://www.youtube.com/watch?v=9-oQG_NeITc</link>
+            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
+            <pubDate>Fri, 06 Feb 2026 23:00:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=9-oQG_NeITc</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
             <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
             <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
             <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
             <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
             <source>Sébastien Daviot - Expertise Data</source>
-        </item>
-        <item>
-            <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
-            <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
-            <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
-            <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
-            <source>CodeAvecLionel</source>
-        </item>
-        <item>
-            <title>Accumulus Technologies lance Accumulus Connector, afin d’offrir une intégration en temps réel avec les systèmes réglementaires</title>
-            <link>https://www.globenewswire.com/news-release/2026/03/24/3260941/0/fr/Accumulus-Technologies-lance-Accumulus-Connector-afin-d-offrir-une-int%C3%A9gration-en-temps-r%C3%A9el-avec-les-syst%C3%A8mes-r%C3%A9glementaires.html</link>
-            <description><![CDATA[Cette nouvelle fonctionnalité permet l’interopérabilité et la connectivité à l’échelle mondiale, et pose ainsi les bases d’une intégration réglementaire de bout en bout Cette nouvelle fonctionnalité p...]]></description>
-            <pubDate>Tue, 24 Mar 2026 05:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/03/24/3260941/0/fr/Accumulus-Technologies-lance-Accumulus-Connector-afin-d-offrir-une-int%C3%A9gration-en-temps-r%C3%A9el-avec-les-syst%C3%A8mes-r%C3%A9glementaires.html</guid>
-            <source>GlobeNewswire</source>
-        </item>
-        <item>
-            <title>Pourquoi l'IA est à la fois une malédiction et une bénédiction pour les logiciels libres – selon les développeurs</title>
-            <link>https://www.zdnet.fr/actualites/pourquoi-lia-est-a-la-fois-une-malediction-et-une-benediction-pour-les-logiciels-libres-selon-les-developpeurs-492500.htm</link>
-            <description><![CDATA[L'IA a transformé la sécurité du code, accaparant du temps, de l'attention et sapant le moral. Mais, bien utilisée, elle peut être utile. Voici comment.]]></description>
-            <pubDate>Tue, 24 Mar 2026 06:03:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/pourquoi-lia-est-a-la-fois-une-malediction-et-une-benediction-pour-les-logiciels-libres-selon-les-developpeurs-492500.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
-            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
-            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
-            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
-            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
-            <source>Oscar Aksanti</source>
         </item>
     </channel>
 </rss>
