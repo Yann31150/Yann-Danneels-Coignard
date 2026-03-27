@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 26 Mar 2026 09:03:34 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 08:59:35 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,52 +13,44 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>ChatGPT dans ma peluche : l'inquiétant virage IA de l'industrie du jouet</title>
-            <link>https://journal-labreche.fr/chatgpt-dans-ma-peluche-linquietant-virage-ia-de-lindustrie-du-jouet/</link>
-            <description><![CDATA[Les jouets intègrent désormais de plus en plus des systèmes d'IA, à l'image de ChatGPT, avec des conséquences sur les enfants]]></description>
-            <pubDate>Wed, 25 Mar 2026 08:59:32 -0000</pubDate>
-            <guid isPermaLink="true">https://journal-labreche.fr/chatgpt-dans-ma-peluche-linquietant-virage-ia-de-lindustrie-du-jouet/</guid>
-            <source>Journal-labreche.fr</source>
+            <title>Claude : 3 fonctions cachées qui vont doper votre productivité</title>
+            <link>https://www.tomsguide.fr/claude-3-fonctions-cachees-qui-vont-doper-votre-productivite/</link>
+            <description><![CDATA[Porté par des performances impressionnantes, Claude fait désormais de l'ombre à ChatGPT et Gemini. Si vous débutez sur l'IA d'Anthropic, voici trois fonctionnalités pratiques qui vous aideront au quot...]]></description>
+            <pubDate>Thu, 26 Mar 2026 08:03:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.tomsguide.fr/claude-3-fonctions-cachees-qui-vont-doper-votre-productivite/</guid>
+            <source>Tom's Guide</source>
         </item>
         <item>
-            <title>La fin de cet outil IA: OpenAI (ChatGPT) annonce fermer l'application vidéo Sora six mois après son lancement</title>
-            <link>https://www.lavenir.net/actu/conso/multimedia/2026/03/25/la-fin-de-cet-outil-ia-openai-annonce-fermer-lapplication-video-sora-six-mois-apres-son-lancement-4RPJ2YRTCRCQXBTOYKLHNJKHXA/</link>
-            <description><![CDATA[OpenAI a annoncé mardi la fermeture de Sora, son réseau social de vidéos courtes générées par intelligence artificielle (IA), six mois seulement après son lancement marqué par un vif engouement. ...]]></description>
-            <pubDate>Wed, 25 Mar 2026 06:29:35 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lavenir.net/actu/conso/multimedia/2026/03/25/la-fin-de-cet-outil-ia-openai-annonce-fermer-lapplication-video-sora-six-mois-apres-son-lancement-4RPJ2YRTCRCQXBTOYKLHNJKHXA/</guid>
-            <source>Lavenir.net</source>
+            <title>🦾Avant l&amp;#39;IA, il y avait ça... L&amp;#39;Histoire Incroyable de l&amp;#39;Informatique👨‍💻🧠</title>
+            <link>https://www.youtube.com/watch?v=LFyk-ysq_yc</link>
+            <description><![CDATA[Avant ChatGPT, avant Google, avant Internet... Il y avait une idée folle dans la tête d'un mathématicien. Dans cette vidéo, on ...]]></description>
+            <pubDate>Thu, 26 Mar 2026 20:41:22 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=LFyk-ysq_yc</guid>
+            <source>🦾L’Ère Numérique 🧠Avant l’IA : L’Incroyable</source>
         </item>
         <item>
-            <title>Analyse discriminante PLS « from scratch » avec ChatGPT (Python)</title>
-            <link>https://www.youtube.com/watch?v=YLh5gsmOFkQ</link>
-            <description><![CDATA[Machine learning. Data science. Classification supervisée. Analyse discriminante PLS, approche en deux étapes : régression ...]]></description>
-            <pubDate>Tue, 17 Feb 2026 16:40:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=YLh5gsmOFkQ</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>GPT-5.4 : Ce que OpenAI ne veut pas que vous sachiez</title>
+            <link>https://www.youtube.com/watch?v=iDIB_dvMtZE</link>
+            <description><![CDATA[GPT-5.4 : Ce que OpenAI ne veut pas que vous sachiez Dans cette vidéo, on décrypte les actualités IA et Tech les plus ...]]></description>
+            <pubDate>Sat, 07 Mar 2026 17:50:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=iDIB_dvMtZE</guid>
+            <source>Parlons IA & Tech</source>
         </item>
         <item>
-            <title>Google prépare un mode pour vous entraîner à bien prononcer les langues</title>
-            <link>https://siecledigital.fr/2026/03/24/google-traduction-ameliore-votre-prononciation/</link>
-            <description><![CDATA[Depuis plusieurs années, Google Traduction s’est imposé comme un réflexe pour traduire rapidement un mot ou une phrase. Mais face à la montée en puissance des IA conversationnelles, jusqu’à un outil d...]]></description>
-            <pubDate>Wed, 25 Mar 2026 08:05:10 -0000</pubDate>
-            <guid isPermaLink="true">https://siecledigital.fr/2026/03/24/google-traduction-ameliore-votre-prononciation/</guid>
-            <source>Siècle Digital</source>
+            <title>J&amp;#39;analyse ce Dashboard Power BI et je découvre un problème de rentabilité |  UEMOA</title>
+            <link>https://www.youtube.com/watch?v=sJrvfgWQoE4</link>
+            <description><![CDATA[J'ai analysé 50 000 transactions pharmaceutiques sur 4 ans, 8 pays et 80 pharmacies dans la zone UEMOA — et j'ai construit un ...]]></description>
+            <pubDate>Sat, 07 Mar 2026 17:41:19 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=sJrvfgWQoE4</guid>
+            <source>Ngroup Media & Digital</source>
         </item>
         <item>
-            <title>Formation PostgreSQL - PostGIS et QGIS pour Gestion Bases de données spatiales - SGBD</title>
-            <link>https://www.youtube.com/watch?v=WIiMhXP7yA0</link>
-            <description><![CDATA[Dans cette vidéo, nous abordons l'introduction aux bases de données spatiales et PostGIS afin de vous aider à concevoir et gérer ...]]></description>
-            <pubDate>Fri, 13 Feb 2026 16:15:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=WIiMhXP7yA0</guid>
-            <source>EGD ACADEMIA</source>
-        </item>
-        <item>
-            <title>EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&amp;#39;utiliser Excel !</title>
-            <link>https://www.youtube.com/watch?v=8Vh5bmRgmlo</link>
-            <description><![CDATA[INSCRIVEZ-VOUS GRATUITEMENT AU WÉBINAIRE IA : morpheus-formation.fr/webinaire Testez votre niveau sur Excel (avec ...]]></description>
-            <pubDate>Fri, 06 Mar 2026 10:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=8Vh5bmRgmlo</guid>
-            <source>Morpheus Formation | Excel, Sheets, Power BI</source>
+            <title>RubiCap : une IA compacte d’Apple pour les images fait mieux que les grands modèles</title>
+            <link>https://iphoneaddict.fr/post/news-425970-rubicap-ia-compacte-dapple-images-mieux-grands-modeles</link>
+            <description><![CDATA[Des chercheurs d’Apple et de l’université du Wisconsin-Madison ont mis au point RubiCap, un framework qui produit des modèles de description d’image détaillée de 2 à 7 milliards de paramètres capables...]]></description>
+            <pubDate>Thu, 26 Mar 2026 08:00:23 -0000</pubDate>
+            <guid isPermaLink="true">https://iphoneaddict.fr/post/news-425970-rubicap-ia-compacte-dapple-images-mieux-grands-modeles</guid>
+            <source>Iphoneaddict.fr</source>
         </item>
         <item>
             <title>Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)</title>
@@ -93,12 +85,12 @@
             <source>Donnée du Sens</source>
         </item>
         <item>
-            <title>#3 - Power BI : Import MySQL + Nettoyage Données (2 Méthodes) | Tuto ETL Débutant</title>
-            <link>https://www.youtube.com/watch?v=mf8Tq-DVCGk</link>
-            <description><![CDATA[Importez 148K transactions dans Power BI et nettoyez vos données en 22 minutes — 2 méthodes universelles (MySQL direct + ...]]></description>
-            <pubDate>Thu, 05 Feb 2026 09:01:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=mf8Tq-DVCGk</guid>
-            <source>Boubacar | Data Analyst</source>
+            <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
+            <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
+            <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
+            <pubDate>Fri, 13 Feb 2026 23:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=2i9u_hwq05g</guid>
+            <source>Enogne School</source>
         </item>
         <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
@@ -125,45 +117,12 @@
             <source>Comment Coder</source>
         </item>
         <item>
-            <title>Ford innove avec un compartiment isolé sur le tableau de bord</title>
-            <link>https://www.leblogauto.com/actualites/actualite/ford-innove-avec-un-compartiment-isole-sur-le-tableau-de-bord/</link>
-            <description><![CDATA[Ford développe un compartiment isolé pour tableau de bord afin de protéger appareils électroniques et objets sensibles à la chaleur. Ford poursuit ses recherches en [...]
-L’article Ford innove avec un...]]></description>
-            <pubDate>Wed, 25 Mar 2026 05:12:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.leblogauto.com/actualites/actualite/ford-innove-avec-un-compartiment-isole-sur-le-tableau-de-bord/</guid>
-            <source>Leblogauto.com</source>
-        </item>
-        <item>
-            <title>Captions devient Mirage et lève 75 millions de dollars pour conquérir la vidéo courte</title>
-            <link>https://siecledigital.fr/2026/03/25/mirage-leve-75-millions-de-dollars-et-mise-sur-des-modeles-ia-pour-dominer-ledition-video/</link>
-            <description><![CDATA[L’application de sous-titrage vidéo par IA, bien connue des créateurs de contenu, a changé de nom et de cap. Rebaptisée Mirage, la startup se repositionne comme un laboratoire IA spécialisé dans l’édi...]]></description>
-            <pubDate>Wed, 25 Mar 2026 08:30:47 -0000</pubDate>
-            <guid isPermaLink="true">https://siecledigital.fr/2026/03/25/mirage-leve-75-millions-de-dollars-et-mise-sur-des-modeles-ia-pour-dominer-ledition-video/</guid>
-            <source>Siècle Digital</source>
-        </item>
-        <item>
-            <title>Révisions HTML/CSS/JS/PHP/SQL  |  BTS CIEL-IR</title>
-            <link>https://www.youtube.com/watch?v=mo7p89NuNpc</link>
-            <description><![CDATA[Cours personnalisé du 28/01/2026 centré sur les notions basiques de HTML/CSS/JS/PHP et SQL étudiées en premières année ...]]></description>
-            <pubDate>Thu, 29 Jan 2026 05:02:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=mo7p89NuNpc</guid>
-            <source>Bryan_Drouet</source>
-        </item>
-        <item>
-            <title>De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)</title>
-            <link>https://www.youtube.com/watch?v=n5uJWNTs-dQ</link>
-            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
-            <pubDate>Fri, 30 Jan 2026 23:01:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=n5uJWNTs-dQ</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>De zéro à data analyste : la cinquième leçon avec Yao (5 ième Session)</title>
-            <link>https://www.youtube.com/watch?v=9-oQG_NeITc</link>
-            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
-            <pubDate>Fri, 06 Feb 2026 23:00:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=9-oQG_NeITc</guid>
-            <source>Enogne School</source>
+            <title>IA : pourquoi former une « tête bien faite » n’a jamais été aussi crucial</title>
+            <link>https://theconversation.com/ia-pourquoi-former-une-tete-bien-faite-na-jamais-ete-aussi-crucial-278556</link>
+            <description><![CDATA[À l’ère de la surcharge informationnelle, former une « tête bien faite » ne consiste plus à accumuler des savoirs, mais à apprendre à juger de leur profondeur, de leur validité et de leur inscription ...]]></description>
+            <pubDate>Wed, 25 Mar 2026 14:27:17 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/ia-pourquoi-former-une-tete-bien-faite-na-jamais-ete-aussi-crucial-278556</guid>
+            <source>The Conversation Africa</source>
         </item>
         <item>
             <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
@@ -172,6 +131,46 @@ L’article Ford innove avec un...]]></description>
             <pubDate>Sun, 08 Feb 2026 07:41:39 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=qKWTshE6WDI</guid>
             <source>Sébastien Daviot - Expertise Data</source>
+        </item>
+        <item>
+            <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
+            <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
+            <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
+            <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
+            <source>CodeAvecLionel</source>
+        </item>
+        <item>
+            <title>data-science-document-ai 1.65.3</title>
+            <link>https://pypi.org/project/data-science-document-ai/1.65.3/</link>
+            <description><![CDATA["Document AI repo for data science"]]></description>
+            <pubDate>Wed, 25 Mar 2026 14:01:13 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.65.3/</guid>
+            <source>Pypi.org</source>
+        </item>
+        <item>
+            <title>Le grand requin blanc est toujours en Méditerranée, mais les dernières données scientifiques sont franchement alarmantes</title>
+            <link>https://dailygeekshow.com/?p=1005352</link>
+            <description><![CDATA[Le grand requin blanc n’a pas disparu de Méditerranée. Pourtant, il glisse désormais sous le radar des scientifiques. Entre ADN environnemental, indices récents en Espagne et signal adriatique, la cou...]]></description>
+            <pubDate>Wed, 25 Mar 2026 16:31:00 -0000</pubDate>
+            <guid isPermaLink="true">https://dailygeekshow.com/?p=1005352</guid>
+            <source>Daily Geek Show</source>
+        </item>
+        <item>
+            <title>Fiasco I-Police, une opportunité pour les petites entreprises Belges ? “Cela permettrait au ministre de sortir de ce bourbier”</title>
+            <link>https://www.lalibre.be/economie/entreprises-startup/2026/03/26/fiasco-i-police-une-opportunite-pour-les-petites-entreprises-belges-cela-permettrait-au-ministre-de-sortir-de-ce-bourbier-JTMHMAVA2JCBZLQP4PDMDIP7ZA/</link>
+            <description><![CDATA[La rupture du contrat controversé entre Sopra Steria et l’État belge pour moderniser sa police remue le secteur des PME alors que le ministre Quintin veut “des plus petits projets”, entend-on. ...]]></description>
+            <pubDate>Thu, 26 Mar 2026 08:13:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lalibre.be/economie/entreprises-startup/2026/03/26/fiasco-i-police-une-opportunite-pour-les-petites-entreprises-belges-cela-permettrait-au-ministre-de-sortir-de-ce-bourbier-JTMHMAVA2JCBZLQP4PDMDIP7ZA/</guid>
+            <source>Lalibre.be</source>
+        </item>
+        <item>
+            <title>Avec sa voiture électrique, Xiaomi a réalisé en 2 ans ce qui a demandé 10 ans à Tesla</title>
+            <link>https://www.frandroid.com/marques/xiaomi/3040567_avec-sa-voiture-electrique-xiaomi-a-realise-en-2-ans-ce-qui-a-demande-10-ans-a-tesla</link>
+            <description><![CDATA[La division automobile en Xiaomi, officiellement lancée fin 2023 vient de gagner de l’argent pour la première fois. Une très belle performance pour le constructeur de voitures électriques, qui rejoint...]]></description>
+            <pubDate>Thu, 26 Mar 2026 08:41:25 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/marques/xiaomi/3040567_avec-sa-voiture-electrique-xiaomi-a-realise-en-2-ans-ce-qui-a-demande-10-ans-a-tesla</guid>
+            <source>Frandroid</source>
         </item>
     </channel>
 </rss>
