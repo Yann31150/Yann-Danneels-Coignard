@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-03-28T08:48:08.554372",
+  "lastUpdate": "2026-03-29T08:49:09.677214",
   "articles": [
     {
-      "title": "Claude, ChatGPT, Gemini ou Perplexity : Apple pourrait vous laisser choisir votre IA préférée",
-      "description": "Toujours à l’affût d’une méthode pour rattraper son retard dans le milieu de l’intelligence artificielle, Apple pourrait bien permettre aux utilisateurs et utilisatrices de brancher Siri à n’importe q...",
-      "url": "https://www.frandroid.com/marques/apple/3042287_claude-chatgpt-gemini-ou-perplexity-apple-pourrait-vous-laisser-choisir-votre-ia-preferee",
-      "source": "Frandroid",
-      "publishedAt": "2026-03-27T06:20:13Z",
+      "title": "Actualité : ChatGPT, Claude, Gemini : les IA mentent délibérément, un phénomène documenté",
+      "description": "Le nombre de cas d'IA qui trompent leurs utilisateurs a été multiplié par cinq en six mois. Le Centre for Long-Term Resilience a analysé plus de 183 000 transcriptions de conversations partagées sur X...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-claude-gemini-les-ia-mentent-deliberement-un-phenomene-documente-n253634.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-03-27T21:15:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -14,11 +14,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Carrefour débarque sur ChatGPT : voici comment l’IA va faciliter vos courses",
-      "description": "Carrefour vient de lancer son application sur ChatGPT. Celle-ci vous permet de trouver des recettes, de vérifier la disponibilité d’un produit en rayon, ou de générer un panier avant de finaliser la c...",
-      "url": "https://www.presse-citron.net/carrefour-debarque-sur-chatgpt-voici-comment-lia-va-faciliter-vos-courses/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-03-27T08:31:47Z",
+      "title": "Tech Entrepreneur Yanik Guillemette Publishes Strategic Analysis on Artificial Intelligence and Its Impact on Business in North America",
+      "description": "Yanik Guillemette publie une analyse sur l’intelligence artificielle, l’innovation et leur impact sur les entreprises en Amérique du Nord....",
+      "url": "https://www.globenewswire.com/news-release/2026/03/27/3264031/0/en/Tech-Entrepreneur-Yanik-Guillemette-Publishes-Strategic-Analysis-on-Artificial-Intelligence-and-Its-Impact-on-Business-in-North-America.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-03-27T17:45:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -26,11 +26,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Apple veut s’ouvrir à toutes les IA : un coup dur pour ChatGPT et Gemini ?",
-      "description": "La pomme serait prête à laisser tous les modèles d'IA utiliser Siri comme porte d'entrée. Ce serait à l'utilisateur de choisir son application favorite.",
-      "url": "https://www.iphon.fr/post/apple-siri-ia-chatgpt-gemini",
-      "source": "Iphon.fr",
-      "publishedAt": "2026-03-27T07:57:54Z",
+      "title": "Fuites de données, fausses informations, attaques invisibles : comment L’IA s’infiltre dangereusement dans le monde du travail",
+      "description": "Pour gagner en productivité, la tentation est grande pour les salariés d’utiliser l’intelligence artificielle en lui confiant des données sensibles, sans autorisation de la direction. Une aubaine pour...",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/fuites-de-donnees-fausses-informations-attaques-invisibles-comment-lia-sinfiltre-dangereusement-dans-le-monde-du-travail_642113",
+      "source": "Challenges",
+      "publishedAt": "2026-03-28T08:00:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -38,40 +38,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Retrait de ChatGPT checkout : plus qu'un revirement, un hoquet agentique",
-      "description": "Dans l'actualité IA, une annonce se distingue des autres : la décision d'Open AI de désactiver Instant Checkout. Plus qu'un choix business, c'est l'illustration du décalage entre \"tech\" et usage.",
-      "url": "https://www.journaldunet.com/retail/1548869-retrait-de-chatgpt-checkout-plus-qu-un-revirement-un-hoquet-agentique-par-nicolas-moreau-dga-de-haigo/",
-      "source": "JDN",
-      "publishedAt": "2026-03-26T16:32:11Z",
+      "title": "Formation PostgreSQL - PostGIS et QGIS pour Gestion Bases de données spatiales - SGBD",
+      "description": "Dans cette vidéo, nous abordons l'introduction aux bases de données spatiales et PostGIS afin de vous aider à concevoir et gérer ...",
+      "url": "https://www.youtube.com/watch?v=WIiMhXP7yA0",
+      "source": "EGD ACADEMIA",
+      "publishedAt": "2026-02-13T16:15:06Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comment l’intelligence artificielle aide la Turquie à retrouver et rapatrier des œuvres dispersées dans le monde",
-      "description": "En 2025, la Turquie accélère une mission aussi technologique que symbolique : retrouver son patrimoine éparpillé à travers le monde. Grâce à des outils d’intelligence artificielle et des analyses scie...",
-      "url": "https://dailygeekshow.com/?p=1005378",
-      "source": "Daily Geek Show",
-      "publishedAt": "2026-03-26T17:01:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "\"On ne sait plus quelle photo croire\" : l’IA envahit les annonces immobilières",
-      "description": "L’intelligence artificielle transforme le secteur immobilier, en retouchant photos et annonces pour attirer plus d’acheteurs et de visites. Si ses bénéfices sont indéniables pour les agences, elle pos...",
-      "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/on-ne-sait-plus-quelle-photo-croire-l-ia-envahit-les-annonces-immobilieres_7864757.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-03-27T08:43:34Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "WIiMhXP7yA0",
+      "thumbnail": "https://i.ytimg.com/vi/WIiMhXP7yA0/hqdefault.jpg"
     },
     {
       "title": "LinkedIn gratuit ou LinkedIn Premium : lequel choisir ?",
@@ -122,6 +98,42 @@
       "thumbnail": "https://i.ytimg.com/vi/NvdjH1fRRE0/hqdefault.jpg"
     },
     {
+      "title": "Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp; 10 | Guide complet",
+      "description": "Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...",
+      "url": "https://www.youtube.com/watch?v=G-4DERRKrHA",
+      "source": "AntalaSoft School",
+      "publishedAt": "2026-02-25T04:31:34Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "G-4DERRKrHA",
+      "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
+    },
+    {
+      "title": "Xénobots : ces robots biologiques à la frontière du vivant",
+      "description": "Des cellules assemblées selon un plan conçu par intelligence artificielle : la recette des xénobots trouble la frontière...",
+      "url": "https://www.socialter.fr/article/xenobots-biobots-robots-biologiques-danger-medecine-promesses-intelligence-artificielle",
+      "source": "Socialter.fr",
+      "publishedAt": "2026-03-27T17:50:36Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "#3 - Power BI : Import MySQL + Nettoyage Données (2 Méthodes) | Tuto ETL Débutant",
+      "description": "Importez 148K transactions dans Power BI et nettoyez vos données en 22 minutes — 2 méthodes universelles (MySQL direct + ...",
+      "url": "https://www.youtube.com/watch?v=mf8Tq-DVCGk",
+      "source": "Boubacar | Data Analyst",
+      "publishedAt": "2026-02-05T09:01:11Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "mf8Tq-DVCGk",
+      "thumbnail": "https://i.ytimg.com/vi/mf8Tq-DVCGk/hqdefault.jpg"
+    },
+    {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
       "description": "Si vous passez encore vos journées à copier-coller des données dans Excel, cette vidéo va changer votre carrière. Power BI ...",
       "url": "https://www.youtube.com/watch?v=Dgm74TZPSkA",
@@ -158,16 +170,40 @@
       "thumbnail": "https://i.ytimg.com/vi/xkJdg9zXGEI/hqdefault.jpg"
     },
     {
-      "title": "Xiaomi SU7 : très légère hausse de prix, ambitions intactes",
-      "description": "Xiaomi met à jour sa berline SU7 avec plus d’autonomie, de puissance et de technologies, malgré une hausse de prix limitée. Xiaomi poursuit son offensive [...]\nL’article Xiaomi SU7 : très légère hauss...",
-      "url": "https://www.leblogauto.com/actualites/xiaomi-su7-tres-legere-hausse-de-prix-ambitions-intactes/",
-      "source": "Leblogauto.com",
-      "publishedAt": "2026-03-27T07:12:00Z",
+      "title": "Révisions HTML/CSS/JS/PHP/SQL  |  BTS CIEL-IR",
+      "description": "Cours personnalisé du 28/01/2026 centré sur les notions basiques de HTML/CSS/JS/PHP et SQL étudiées en premières année ...",
+      "url": "https://www.youtube.com/watch?v=mo7p89NuNpc",
+      "source": "Bryan_Drouet",
+      "publishedAt": "2026-01-29T05:02:08Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "mo7p89NuNpc",
+      "thumbnail": "https://i.ytimg.com/vi/mo7p89NuNpc/hqdefault.jpg"
+    },
+    {
+      "title": "De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)",
+      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
+      "url": "https://www.youtube.com/watch?v=n5uJWNTs-dQ",
+      "source": "Enogne School",
+      "publishedAt": "2026-01-30T23:01:09Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "n5uJWNTs-dQ",
+      "thumbnail": "https://i.ytimg.com/vi/n5uJWNTs-dQ/hqdefault.jpg"
+    },
+    {
+      "title": "De zéro à data analyste : la cinquième leçon avec Yao (5 ième Session)",
+      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
+      "url": "https://www.youtube.com/watch?v=9-oQG_NeITc",
+      "source": "Enogne School",
+      "publishedAt": "2026-02-06T23:00:11Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "9-oQG_NeITc",
+      "thumbnail": "https://i.ytimg.com/vi/9-oQG_NeITc/hqdefault.jpg"
     },
     {
       "title": "Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)",
@@ -182,6 +218,18 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
+      "title": "Bases de données : OLTP vs OLAP, ACID vs BASE",
+      "description": "Découvrez les fondamentaux des bases de données : OLTP vs OLAP et ACID vs BASE. Dans cette vidéo, nous allons explorer ...",
+      "url": "https://www.youtube.com/watch?v=jhGsYYaCdNc",
+      "source": "Alphorm",
+      "publishedAt": "2026-02-12T16:01:07Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "jhGsYYaCdNc",
+      "thumbnail": "https://i.ytimg.com/vi/jhGsYYaCdNc/hqdefault.jpg"
+    },
+    {
       "title": "Comprendre les Window Functions sur SQL 📊✅ #tuto #sql #data",
       "description": "",
       "url": "https://www.youtube.com/watch?v=Z_SFL0oFwBk",
@@ -192,54 +240,6 @@
       "isYouTube": true,
       "videoId": "Z_SFL0oFwBk",
       "thumbnail": "https://i.ytimg.com/vi/Z_SFL0oFwBk/hqdefault.jpg"
-    },
-    {
-      "title": "Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser",
-      "description": "Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...",
-      "url": "https://www.youtube.com/watch?v=SCKEMpv7Ld4",
-      "source": "CodeAvecLionel",
-      "publishedAt": "2026-03-02T12:00:06Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "SCKEMpv7Ld4",
-      "thumbnail": "https://i.ytimg.com/vi/SCKEMpv7Ld4/hqdefault.jpg"
-    },
-    {
-      "title": "5G Broadcast en France : la TV gratuite sans Internet arrive sur les smartphones",
-      "description": "Regarder la télévision en direct sur son smartphone sans consommer le moindre gigaoctet de données mobiles est sur le point de devenir une réalité en France, grâce au déploiement de la 5G Broadcast po...",
-      "url": "https://www.frandroid.com/produits-android/tv-connectee-produits/3042337_5g-broadcast-en-france-la-tv-gratuite-sans-internet-arrive-sur-les-smartphones",
-      "source": "Frandroid",
-      "publishedAt": "2026-03-27T07:20:05Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Rapport Geotab : Les entreprises placent les données au centre de leur stratégie de durabilité",
-      "description": "Le rapport 2025 de Geotab sur le développement durable montre que les organisations sont capables de réduire leur consommation de carburant, de diminuer les temps d'arrêt moteur tournant jusqu’à 30 % ...",
-      "url": "https://www.globenewswire.com/news-release/2026/03/27/3263595/0/fr/Rapport-Geotab-Les-entreprises-placent-les-donn%C3%A9es-au-centre-de-leur-strat%C3%A9gie-de-durabilit%C3%A9.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-03-27T08:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Derrière chaque piqûre de moustique se cache peut-être une découverte majeure sur des espèces en danger",
-      "description": "Une simple piqûre de moustique pourrait bien contenir des indices précieux sur la biodiversité mondiale. Grâce aux avancées scientifiques, ces insectes deviennent des alliés inattendus pour identifier...",
-      "url": "https://dailygeekshow.com/?p=1005354",
-      "source": "Daily Geek Show",
-      "publishedAt": "2026-03-26T17:33:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
     },
     {
-      "title": "Apple ouvre Siri aux IA tierces : vers une révolution multi-chatbots avec iOS 27",
-      "description": "Le groupe de Cupertino préparerait une refonte majeure de Siri en ouvrant son assistant vocal à des intelligences artificielles externes. Une évolution stratégique qui pourrait transformer en profonde...",
-      "url": "https://www.zdnet.fr/actualites/apple-ouvre-siri-aux-ia-tierces-vers-une-revolution-multi-chatbots-avec-ios-27-492667.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-03-27T07:06:14Z",
+      "title": "Apple recrute une vice-présidente de Google pour gérer le marketing de l’IA",
+      "description": "Apple a recruté Lilian Rincon, ancienne vice-présidente chez Google, pour occuper le poste de vice-présidente du marketing produit pour l’intelligence artificielle. Elle prendra la tête du marketing p...",
+      "url": "https://iphoneaddict.fr/post/news-426091-apple-recrute-vice-presidente-google-gerer-marketing-lia",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-03-27T18:04:09Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Elodie compose un album de 15 titres pour venir en aide à la SPA de Mouscron: \"Je ressentais l’envie profonde de me rendre utile\"",
-      "description": "La Mouscronnoise s’est aidée de l’intelligence artificielle pour les voix, mais a écrit les 15 chansons de l’album solidaire dont les bénéfices serviront à l’ASBL. ...",
-      "url": "https://www.dhnet.be/regions/tournai-ath-mouscron/mouscron-comines/2026/03/27/elodie-compose-un-album-de-15-titres-pour-venir-en-aide-a-la-spa-de-mouscron-je-ressentais-lenvie-profonde-de-me-rendre-utile-7WKS3UTSVJDQTKZCG5MBZYP4EU/",
-      "source": "dh.be",
-      "publishedAt": "2026-03-27T08:04:00Z",
+      "title": "\"Nos caméras voient tout\" : l'IA utilisée dans une station de ski, une première mondiale à 2700 mètres d'altitude",
+      "description": "C'est sur un parcours ludique qu'une station de ski située dans la Vallée d'Aoste en Italie, vient d'implanter son réseau de caméras pilotées par l'intelligence artificielle. Découvrez comment l'IA es...",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/haute-savoie/nos-cameras-voient-tout-l-ia-utilisee-dans-une-station-de-ski-une-premiere-mondiale-a-2700-metres-d-altitude-3323396.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-03-28T06:00:07Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,28 +278,28 @@
       "thumbnail": ""
     },
     {
-      "title": "Addiction aux réseaux sociaux : la décision de justice californienne qui pourrait contraindre les Gafam à sérieusement revoir leur business model",
-      "description": "En condamnant Meta et Google non plus pour les contenus diffusés sur leurs plateformes, mais pour la conception même de leurs outils — scroll infini, algorithmes addictifs, notifications compulsives —...",
-      "url": "https://atlantico.fr/article/decryptage/addiction-aux-reseaux-sociaux-la-decision-de-justice-californienne-qui-pourrait-contraindre-les-gafam-a-serieusement-revoir-leur-business-model-julien-pillot",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-03-27T07:50:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Les antidépresseurs sont-ils dangereux pour notre santé ?",
-      "description": "Encore plus de vidéos https://www.france.tv/france-5/enquete-de-sante/ Abonnez-vous ...",
-      "url": "https://www.youtube.com/watch?v=6O5drErKMw0",
-      "source": "Allo Docteurs",
-      "publishedAt": "2026-03-27T18:00:03Z",
+      "title": "Le Guide Google Antigravity ULTIME en 2026 ! (méthode complète)",
+      "description": "Récupère le template PRD et les autres ressources pour AntiGravity : https://tally.so/r/vGP7BA Forme-toi à construire et vendre ...",
+      "url": "https://www.youtube.com/watch?v=Fkfv96HdpPA",
+      "source": "Baptiste Simard - IA",
+      "publishedAt": "2026-01-29T17:00:21Z",
       "category": "tech",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "6O5drErKMw0",
-      "thumbnail": "https://i.ytimg.com/vi/6O5drErKMw0/hqdefault.jpg"
+      "videoId": "Fkfv96HdpPA",
+      "thumbnail": "https://i.ytimg.com/vi/Fkfv96HdpPA/hqdefault.jpg"
+    },
+    {
+      "title": "openClaw de zéro à expert : installation et utilisation réelle — Bluffant 😮",
+      "description": "Ressources que j'utilise (liens affiliés — merci pour votre soutien ! ) Serveur OpenClaw illimité (coupon : CLAW10) ...",
+      "url": "https://www.youtube.com/watch?v=aL4657Cunhk",
+      "source": "Dr. Firas",
+      "publishedAt": "2026-01-30T23:23:55Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "aL4657Cunhk",
+      "thumbnail": "https://i.ytimg.com/vi/aL4657Cunhk/hqdefault.jpg"
     }
   ]
 }
