@@ -5,53 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 29 Mar 2026 08:49:09 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 09:19:03 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Actualité : ChatGPT, Claude, Gemini : les IA mentent délibérément, un phénomène documenté</title>
-            <link>https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-claude-gemini-les-ia-mentent-deliberement-un-phenomene-documente-n253634.html</link>
-            <description><![CDATA[Le nombre de cas d'IA qui trompent leurs utilisateurs a été multiplié par cinq en six mois. Le Centre for Long-Term Resilience a analysé plus de 183 000 transcriptions de conversations partagées sur X...]]></description>
-            <pubDate>Fri, 27 Mar 2026 21:15:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-claude-gemini-les-ia-mentent-deliberement-un-phenomene-documente-n253634.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
-            <title>Tech Entrepreneur Yanik Guillemette Publishes Strategic Analysis on Artificial Intelligence and Its Impact on Business in North America</title>
-            <link>https://www.globenewswire.com/news-release/2026/03/27/3264031/0/en/Tech-Entrepreneur-Yanik-Guillemette-Publishes-Strategic-Analysis-on-Artificial-Intelligence-and-Its-Impact-on-Business-in-North-America.html</link>
-            <description><![CDATA[Yanik Guillemette publie une analyse sur l’intelligence artificielle, l’innovation et leur impact sur les entreprises en Amérique du Nord....]]></description>
-            <pubDate>Fri, 27 Mar 2026 17:45:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/03/27/3264031/0/en/Tech-Entrepreneur-Yanik-Guillemette-Publishes-Strategic-Analysis-on-Artificial-Intelligence-and-Its-Impact-on-Business-in-North-America.html</guid>
-            <source>GlobeNewswire</source>
-        </item>
-        <item>
-            <title>Fuites de données, fausses informations, attaques invisibles : comment L’IA s’infiltre dangereusement dans le monde du travail</title>
-            <link>https://www.challenges.fr/entreprise/tech-numerique/fuites-de-donnees-fausses-informations-attaques-invisibles-comment-lia-sinfiltre-dangereusement-dans-le-monde-du-travail_642113</link>
-            <description><![CDATA[Pour gagner en productivité, la tentation est grande pour les salariés d’utiliser l’intelligence artificielle en lui confiant des données sensibles, sans autorisation de la direction. Une aubaine pour...]]></description>
-            <pubDate>Sat, 28 Mar 2026 08:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.challenges.fr/entreprise/tech-numerique/fuites-de-donnees-fausses-informations-attaques-invisibles-comment-lia-sinfiltre-dangereusement-dans-le-monde-du-travail_642113</guid>
-            <source>Challenges</source>
-        </item>
-        <item>
-            <title>Formation PostgreSQL - PostGIS et QGIS pour Gestion Bases de données spatiales - SGBD</title>
-            <link>https://www.youtube.com/watch?v=WIiMhXP7yA0</link>
-            <description><![CDATA[Dans cette vidéo, nous abordons l'introduction aux bases de données spatiales et PostGIS afin de vous aider à concevoir et gérer ...]]></description>
-            <pubDate>Fri, 13 Feb 2026 16:15:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=WIiMhXP7yA0</guid>
-            <source>EGD ACADEMIA</source>
-        </item>
-        <item>
-            <title>LinkedIn gratuit ou LinkedIn Premium : lequel choisir ?</title>
-            <link>https://www.webmarketing-com.com/linkedin-gratuit-ou-linkedin-premium-lequel-choisir</link>
-            <description><![CDATA[LinkedIn est devenu bien plus qu’un simple réseau social professionnel. Avec plus d’1,3 milliard de membres, répartis dans 200 pays et régions dans le monde, il peut transformer votre visibilité, vos ...]]></description>
-            <pubDate>Fri, 27 Mar 2026 08:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.webmarketing-com.com/linkedin-gratuit-ou-linkedin-premium-lequel-choisir</guid>
-            <source>Webmarketing-com.com</source>
-        </item>
         <item>
             <title>EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&amp;#39;utiliser Excel !</title>
             <link>https://www.youtube.com/watch?v=8Vh5bmRgmlo</link>
@@ -85,20 +45,52 @@
             <source>AntalaSoft School</source>
         </item>
         <item>
-            <title>Xénobots : ces robots biologiques à la frontière du vivant</title>
-            <link>https://www.socialter.fr/article/xenobots-biobots-robots-biologiques-danger-medecine-promesses-intelligence-artificielle</link>
-            <description><![CDATA[Des cellules assemblées selon un plan conçu par intelligence artificielle : la recette des xénobots trouble la frontière...]]></description>
-            <pubDate>Fri, 27 Mar 2026 17:50:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.socialter.fr/article/xenobots-biobots-robots-biologiques-danger-medecine-promesses-intelligence-artificielle</guid>
-            <source>Socialter.fr</source>
+            <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
+            <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
+            <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
+            <pubDate>Fri, 13 Feb 2026 23:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=2i9u_hwq05g</guid>
+            <source>Enogne School</source>
         </item>
         <item>
-            <title>#3 - Power BI : Import MySQL + Nettoyage Données (2 Méthodes) | Tuto ETL Débutant</title>
-            <link>https://www.youtube.com/watch?v=mf8Tq-DVCGk</link>
-            <description><![CDATA[Importez 148K transactions dans Power BI et nettoyez vos données en 22 minutes — 2 méthodes universelles (MySQL direct + ...]]></description>
-            <pubDate>Thu, 05 Feb 2026 09:01:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=mf8Tq-DVCGk</guid>
-            <source>Boubacar | Data Analyst</source>
+            <title>Pourquoi les télécoms ne peuvent plus se passer de la Data Science – Chike Odenigbo</title>
+            <link>https://www.youtube.com/watch?v=kNy0VnMMP3Y</link>
+            <description><![CDATA[Dans ce second podcast, Ekué a eu le plaisir de discuter avec Chike Odenigbo qui est un expert en data science dans le ...]]></description>
+            <pubDate>Fri, 27 Feb 2026 23:01:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=kNy0VnMMP3Y</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
+            <title>Il utilise la Data Science pour battre le marché – Felix Carrier</title>
+            <link>https://www.youtube.com/watch?v=VNM4jJq8dSQ</link>
+            <description><![CDATA[Dans ce troisième podcast, Ekué a eu le plaisir de discuter avec Felix Carrier qui est un expert en data science dans le domaine ...]]></description>
+            <pubDate>Fri, 06 Mar 2026 23:00:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=VNM4jJq8dSQ</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
+            <title>Pourquoi toutes les entreprises ont besoin de Data Science – Thibault Camara</title>
+            <link>https://www.youtube.com/watch?v=MGTY0HfU9Fc</link>
+            <description><![CDATA[Dans ce quatrième podcast, Ekué a eu le plaisir de discuter avec Thibault Camara qui est un expert en data science dans le ...]]></description>
+            <pubDate>Fri, 13 Mar 2026 22:15:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=MGTY0HfU9Fc</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
+            <title>Tout Comprendre sur Claude IA en 22 Minutes</title>
+            <link>https://www.youtube.com/watch?v=-50BGEYgMr4</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...]]></description>
+            <pubDate>Sun, 22 Mar 2026 17:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=-50BGEYgMr4</guid>
+            <source>Yassine Sdiri</source>
+        </item>
+        <item>
+            <title>(C&amp;#39;EST QUOI L&amp;#39;IA ?) 99% des gens ne comprennent pas l’IA… Voici l’explication la plus simple ! 🤯</title>
+            <link>https://www.youtube.com/watch?v=yMgJt1Alro4</link>
+            <description><![CDATA[marketingdigital #intelligenceartificielle #businessenligne Tout le monde parle de l'intelligence artificielle aujourd'hui. Mais en ...]]></description>
+            <pubDate>Tue, 17 Mar 2026 17:05:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=yMgJt1Alro4</guid>
+            <source>Mr.konate</source>
         </item>
         <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
@@ -125,30 +117,6 @@
             <source>Comment Coder</source>
         </item>
         <item>
-            <title>Révisions HTML/CSS/JS/PHP/SQL  |  BTS CIEL-IR</title>
-            <link>https://www.youtube.com/watch?v=mo7p89NuNpc</link>
-            <description><![CDATA[Cours personnalisé du 28/01/2026 centré sur les notions basiques de HTML/CSS/JS/PHP et SQL étudiées en premières année ...]]></description>
-            <pubDate>Thu, 29 Jan 2026 05:02:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=mo7p89NuNpc</guid>
-            <source>Bryan_Drouet</source>
-        </item>
-        <item>
-            <title>De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)</title>
-            <link>https://www.youtube.com/watch?v=n5uJWNTs-dQ</link>
-            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
-            <pubDate>Fri, 30 Jan 2026 23:01:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=n5uJWNTs-dQ</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>De zéro à data analyste : la cinquième leçon avec Yao (5 ième Session)</title>
-            <link>https://www.youtube.com/watch?v=9-oQG_NeITc</link>
-            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
-            <pubDate>Fri, 06 Feb 2026 23:00:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=9-oQG_NeITc</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
             <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
             <link>https://www.youtube.com/watch?v=qKWTshE6WDI</link>
             <description><![CDATA[Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...]]></description>
@@ -157,20 +125,52 @@
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>Bases de données : OLTP vs OLAP, ACID vs BASE</title>
-            <link>https://www.youtube.com/watch?v=jhGsYYaCdNc</link>
-            <description><![CDATA[Découvrez les fondamentaux des bases de données : OLTP vs OLAP et ACID vs BASE. Dans cette vidéo, nous allons explorer ...]]></description>
-            <pubDate>Thu, 12 Feb 2026 16:01:07 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=jhGsYYaCdNc</guid>
-            <source>Alphorm</source>
-        </item>
-        <item>
             <title>Comprendre les Window Functions sur SQL 📊✅ #tuto #sql #data</title>
             <link>https://www.youtube.com/watch?v=Z_SFL0oFwBk</link>
             <description><![CDATA[]]></description>
             <pubDate>Tue, 17 Feb 2026 15:14:03 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Z_SFL0oFwBk</guid>
             <source>Le Decodeur</source>
+        </item>
+        <item>
+            <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
+            <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
+            <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
+            <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
+            <source>CodeAvecLionel</source>
+        </item>
+        <item>
+            <title>Le chat plus important que le conjoint ? Ce que disent vraiment les études va vous étonner</title>
+            <link>https://www.futura-sciences.com/planete/actualites/chat-chat-plus-important-conjoint-ce-disent-vraiment-etudes-va-vous-etonner-k2m6-133155/</link>
+            <description><![CDATA[Votre félin dort-il plus souvent contre vous que votre partenaire ? Des sondages récents révèlent une réalité aussi surprenante qu'amusante. Dans bien des foyers, le chat occupe une place émotionnelle...]]></description>
+            <pubDate>Sat, 28 Mar 2026 17:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/planete/actualites/chat-chat-plus-important-conjoint-ce-disent-vraiment-etudes-va-vous-etonner-k2m6-133155/</guid>
+            <source>Futura</source>
+        </item>
+        <item>
+            <title>Ça vous dirait des super bactéries résistantes aux antibiotiques? Le réchauffement climatique s'en occupe</title>
+            <link>https://www.slate.fr/sante/super-bacteries-resistantes-antibiotiques-rechauffement-climatique-secheresse-sol-hopitaux</link>
+            <description><![CDATA[Une étude montre que les sols asséchés deviennent des foyers de résistance aux antibiotiques, avec un impact déjà visible dans les hôpitaux.]]></description>
+            <pubDate>Sat, 28 Mar 2026 05:55:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.slate.fr/sante/super-bacteries-resistantes-antibiotiques-rechauffement-climatique-secheresse-sol-hopitaux</guid>
+            <source>Slate.fr</source>
+        </item>
+        <item>
+            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
+            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
+            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
+            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
+            <source>Oscar Aksanti</source>
+        </item>
+        <item>
+            <title>Elle transforme la finance grâce à la Data Science – Natacha Njongwa Yepnga</title>
+            <link>https://www.youtube.com/watch?v=ZNQg77H-K1k</link>
+            <description><![CDATA[Découverte et partage d'expérience avec Natacha NJONGWA YEPNGA. LINKEDIN DE Natacha ...]]></description>
+            <pubDate>Fri, 20 Mar 2026 21:00:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ZNQg77H-K1k</guid>
+            <source>Enogne School</source>
         </item>
     </channel>
 </rss>

@@ -1,66 +1,6 @@
 {
-  "lastUpdate": "2026-03-29T08:49:09.677214",
+  "lastUpdate": "2026-03-30T09:19:03.764393",
   "articles": [
-    {
-      "title": "Actualité : ChatGPT, Claude, Gemini : les IA mentent délibérément, un phénomène documenté",
-      "description": "Le nombre de cas d'IA qui trompent leurs utilisateurs a été multiplié par cinq en six mois. Le Centre for Long-Term Resilience a analysé plus de 183 000 transcriptions de conversations partagées sur X...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-claude-gemini-les-ia-mentent-deliberement-un-phenomene-documente-n253634.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-03-27T21:15:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tech Entrepreneur Yanik Guillemette Publishes Strategic Analysis on Artificial Intelligence and Its Impact on Business in North America",
-      "description": "Yanik Guillemette publie une analyse sur l’intelligence artificielle, l’innovation et leur impact sur les entreprises en Amérique du Nord....",
-      "url": "https://www.globenewswire.com/news-release/2026/03/27/3264031/0/en/Tech-Entrepreneur-Yanik-Guillemette-Publishes-Strategic-Analysis-on-Artificial-Intelligence-and-Its-Impact-on-Business-in-North-America.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-03-27T17:45:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fuites de données, fausses informations, attaques invisibles : comment L’IA s’infiltre dangereusement dans le monde du travail",
-      "description": "Pour gagner en productivité, la tentation est grande pour les salariés d’utiliser l’intelligence artificielle en lui confiant des données sensibles, sans autorisation de la direction. Une aubaine pour...",
-      "url": "https://www.challenges.fr/entreprise/tech-numerique/fuites-de-donnees-fausses-informations-attaques-invisibles-comment-lia-sinfiltre-dangereusement-dans-le-monde-du-travail_642113",
-      "source": "Challenges",
-      "publishedAt": "2026-03-28T08:00:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Formation PostgreSQL - PostGIS et QGIS pour Gestion Bases de données spatiales - SGBD",
-      "description": "Dans cette vidéo, nous abordons l'introduction aux bases de données spatiales et PostGIS afin de vous aider à concevoir et gérer ...",
-      "url": "https://www.youtube.com/watch?v=WIiMhXP7yA0",
-      "source": "EGD ACADEMIA",
-      "publishedAt": "2026-02-13T16:15:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "WIiMhXP7yA0",
-      "thumbnail": "https://i.ytimg.com/vi/WIiMhXP7yA0/hqdefault.jpg"
-    },
-    {
-      "title": "LinkedIn gratuit ou LinkedIn Premium : lequel choisir ?",
-      "description": "LinkedIn est devenu bien plus qu’un simple réseau social professionnel. Avec plus d’1,3 milliard de membres, répartis dans 200 pays et régions dans le monde, il peut transformer votre visibilité, vos ...",
-      "url": "https://www.webmarketing-com.com/linkedin-gratuit-ou-linkedin-premium-lequel-choisir",
-      "source": "Webmarketing-com.com",
-      "publishedAt": "2026-03-27T08:30:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&#39;utiliser Excel !",
       "description": "INSCRIVEZ-VOUS GRATUITEMENT AU WÉBINAIRE IA : morpheus-formation.fr/webinaire Testez votre niveau sur Excel (avec ...",
@@ -110,28 +50,76 @@
       "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
     },
     {
-      "title": "Xénobots : ces robots biologiques à la frontière du vivant",
-      "description": "Des cellules assemblées selon un plan conçu par intelligence artificielle : la recette des xénobots trouble la frontière...",
-      "url": "https://www.socialter.fr/article/xenobots-biobots-robots-biologiques-danger-medecine-promesses-intelligence-artificielle",
-      "source": "Socialter.fr",
-      "publishedAt": "2026-03-27T17:50:36Z",
+      "title": "Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine",
+      "description": "Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...",
+      "url": "https://www.youtube.com/watch?v=2i9u_hwq05g",
+      "source": "Enogne School",
+      "publishedAt": "2026-02-13T23:00:06Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "#3 - Power BI : Import MySQL + Nettoyage Données (2 Méthodes) | Tuto ETL Débutant",
-      "description": "Importez 148K transactions dans Power BI et nettoyez vos données en 22 minutes — 2 méthodes universelles (MySQL direct + ...",
-      "url": "https://www.youtube.com/watch?v=mf8Tq-DVCGk",
-      "source": "Boubacar | Data Analyst",
-      "publishedAt": "2026-02-05T09:01:11Z",
-      "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "mf8Tq-DVCGk",
-      "thumbnail": "https://i.ytimg.com/vi/mf8Tq-DVCGk/hqdefault.jpg"
+      "videoId": "2i9u_hwq05g",
+      "thumbnail": "https://i.ytimg.com/vi/2i9u_hwq05g/hqdefault.jpg"
+    },
+    {
+      "title": "Pourquoi les télécoms ne peuvent plus se passer de la Data Science – Chike Odenigbo",
+      "description": "Dans ce second podcast, Ekué a eu le plaisir de discuter avec Chike Odenigbo qui est un expert en data science dans le ...",
+      "url": "https://www.youtube.com/watch?v=kNy0VnMMP3Y",
+      "source": "Enogne School",
+      "publishedAt": "2026-02-27T23:01:09Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "kNy0VnMMP3Y",
+      "thumbnail": "https://i.ytimg.com/vi/kNy0VnMMP3Y/hqdefault.jpg"
+    },
+    {
+      "title": "Il utilise la Data Science pour battre le marché – Felix Carrier",
+      "description": "Dans ce troisième podcast, Ekué a eu le plaisir de discuter avec Felix Carrier qui est un expert en data science dans le domaine ...",
+      "url": "https://www.youtube.com/watch?v=VNM4jJq8dSQ",
+      "source": "Enogne School",
+      "publishedAt": "2026-03-06T23:00:40Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "VNM4jJq8dSQ",
+      "thumbnail": "https://i.ytimg.com/vi/VNM4jJq8dSQ/hqdefault.jpg"
+    },
+    {
+      "title": "Pourquoi toutes les entreprises ont besoin de Data Science – Thibault Camara",
+      "description": "Dans ce quatrième podcast, Ekué a eu le plaisir de discuter avec Thibault Camara qui est un expert en data science dans le ...",
+      "url": "https://www.youtube.com/watch?v=MGTY0HfU9Fc",
+      "source": "Enogne School",
+      "publishedAt": "2026-03-13T22:15:02Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "MGTY0HfU9Fc",
+      "thumbnail": "https://i.ytimg.com/vi/MGTY0HfU9Fc/hqdefault.jpg"
+    },
+    {
+      "title": "Tout Comprendre sur Claude IA en 22 Minutes",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=-50BGEYgMr4",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-03-22T17:00:00Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "-50BGEYgMr4",
+      "thumbnail": "https://i.ytimg.com/vi/-50BGEYgMr4/hqdefault.jpg"
+    },
+    {
+      "title": "(C&#39;EST QUOI L&#39;IA ?) 99% des gens ne comprennent pas l’IA… Voici l’explication la plus simple ! 🤯",
+      "description": "marketingdigital #intelligenceartificielle #businessenligne Tout le monde parle de l'intelligence artificielle aujourd'hui. Mais en ...",
+      "url": "https://www.youtube.com/watch?v=yMgJt1Alro4",
+      "source": "Mr.konate",
+      "publishedAt": "2026-03-17T17:05:45Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "yMgJt1Alro4",
+      "thumbnail": "https://i.ytimg.com/vi/yMgJt1Alro4/hqdefault.jpg"
     },
     {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
@@ -170,42 +158,6 @@
       "thumbnail": "https://i.ytimg.com/vi/xkJdg9zXGEI/hqdefault.jpg"
     },
     {
-      "title": "Révisions HTML/CSS/JS/PHP/SQL  |  BTS CIEL-IR",
-      "description": "Cours personnalisé du 28/01/2026 centré sur les notions basiques de HTML/CSS/JS/PHP et SQL étudiées en premières année ...",
-      "url": "https://www.youtube.com/watch?v=mo7p89NuNpc",
-      "source": "Bryan_Drouet",
-      "publishedAt": "2026-01-29T05:02:08Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "mo7p89NuNpc",
-      "thumbnail": "https://i.ytimg.com/vi/mo7p89NuNpc/hqdefault.jpg"
-    },
-    {
-      "title": "De zéro à data analyste : la quatrième leçon avec Yao (4ème Session)",
-      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
-      "url": "https://www.youtube.com/watch?v=n5uJWNTs-dQ",
-      "source": "Enogne School",
-      "publishedAt": "2026-01-30T23:01:09Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "n5uJWNTs-dQ",
-      "thumbnail": "https://i.ytimg.com/vi/n5uJWNTs-dQ/hqdefault.jpg"
-    },
-    {
-      "title": "De zéro à data analyste : la cinquième leçon avec Yao (5 ième Session)",
-      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
-      "url": "https://www.youtube.com/watch?v=9-oQG_NeITc",
-      "source": "Enogne School",
-      "publishedAt": "2026-02-06T23:00:11Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "9-oQG_NeITc",
-      "thumbnail": "https://i.ytimg.com/vi/9-oQG_NeITc/hqdefault.jpg"
-    },
-    {
       "title": "Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)",
       "description": "Téléchargez les fichiers du cours : https://github.com/SebastienDa/202601_data_cleaning_pandas_python Accédez à la ...",
       "url": "https://www.youtube.com/watch?v=qKWTshE6WDI",
@@ -216,18 +168,6 @@
       "isYouTube": true,
       "videoId": "qKWTshE6WDI",
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
-    },
-    {
-      "title": "Bases de données : OLTP vs OLAP, ACID vs BASE",
-      "description": "Découvrez les fondamentaux des bases de données : OLTP vs OLAP et ACID vs BASE. Dans cette vidéo, nous allons explorer ...",
-      "url": "https://www.youtube.com/watch?v=jhGsYYaCdNc",
-      "source": "Alphorm",
-      "publishedAt": "2026-02-12T16:01:07Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "jhGsYYaCdNc",
-      "thumbnail": "https://i.ytimg.com/vi/jhGsYYaCdNc/hqdefault.jpg"
     },
     {
       "title": "Comprendre les Window Functions sur SQL 📊✅ #tuto #sql #data",
@@ -242,6 +182,66 @@
       "thumbnail": "https://i.ytimg.com/vi/Z_SFL0oFwBk/hqdefault.jpg"
     },
     {
+      "title": "Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser",
+      "description": "Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...",
+      "url": "https://www.youtube.com/watch?v=SCKEMpv7Ld4",
+      "source": "CodeAvecLionel",
+      "publishedAt": "2026-03-02T12:00:06Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "SCKEMpv7Ld4",
+      "thumbnail": "https://i.ytimg.com/vi/SCKEMpv7Ld4/hqdefault.jpg"
+    },
+    {
+      "title": "Le chat plus important que le conjoint ? Ce que disent vraiment les études va vous étonner",
+      "description": "Votre félin dort-il plus souvent contre vous que votre partenaire ? Des sondages récents révèlent une réalité aussi surprenante qu'amusante. Dans bien des foyers, le chat occupe une place émotionnelle...",
+      "url": "https://www.futura-sciences.com/planete/actualites/chat-chat-plus-important-conjoint-ce-disent-vraiment-etudes-va-vous-etonner-k2m6-133155/",
+      "source": "Futura",
+      "publishedAt": "2026-03-28T17:00:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ça vous dirait des super bactéries résistantes aux antibiotiques? Le réchauffement climatique s'en occupe",
+      "description": "Une étude montre que les sols asséchés deviennent des foyers de résistance aux antibiotiques, avec un impact déjà visible dans les hôpitaux.",
+      "url": "https://www.slate.fr/sante/super-bacteries-resistantes-antibiotiques-rechauffement-climatique-secheresse-sol-hopitaux",
+      "source": "Slate.fr",
+      "publishedAt": "2026-03-28T05:55:01Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro",
+      "description": "Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...",
+      "url": "https://www.youtube.com/watch?v=8EXbMYHL8xw",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-01-31T08:46:46Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "8EXbMYHL8xw",
+      "thumbnail": "https://i.ytimg.com/vi/8EXbMYHL8xw/hqdefault.jpg"
+    },
+    {
+      "title": "Elle transforme la finance grâce à la Data Science – Natacha Njongwa Yepnga",
+      "description": "Découverte et partage d'expérience avec Natacha NJONGWA YEPNGA. LINKEDIN DE Natacha ...",
+      "url": "https://www.youtube.com/watch?v=ZNQg77H-K1k",
+      "source": "Enogne School",
+      "publishedAt": "2026-03-20T21:00:40Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "ZNQg77H-K1k",
+      "thumbnail": "https://i.ytimg.com/vi/ZNQg77H-K1k/hqdefault.jpg"
+    },
+    {
       "title": "ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)",
       "description": "Dans cette vidéo de 90 minutes, je vous apprends à utiliser ChatGPT simplement, avec des exemples concrets : comprendre ...",
       "url": "https://www.youtube.com/watch?v=Wg9M140pduU",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
     },
     {
-      "title": "Apple recrute une vice-présidente de Google pour gérer le marketing de l’IA",
-      "description": "Apple a recruté Lilian Rincon, ancienne vice-présidente chez Google, pour occuper le poste de vice-présidente du marketing produit pour l’intelligence artificielle. Elle prendra la tête du marketing p...",
-      "url": "https://iphoneaddict.fr/post/news-426091-apple-recrute-vice-presidente-google-gerer-marketing-lia",
-      "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-03-27T18:04:09Z",
+      "title": "Ultime bafouille - L'IA conversationnelle dans le jeu vidéo : doit-on avoir peur des studios ou des joueurs ?",
+      "description": "L'intelligence artificielle continue son petit bonhomme de chemin dans le paysage vidéoludique : Square Enix cède à son tour aux sirènes de Google et s'associe avec le géant américain pour épauler la ...",
+      "url": "https://www.gamekult.com/actualite/l-ia-conversationnelle-dans-le-jeu-video-doit-on-avoir-peur-des-studios-ou-des-joueurs-3050869177.html",
+      "source": "Gamekult",
+      "publishedAt": "2026-03-28T18:06:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "\"Nos caméras voient tout\" : l'IA utilisée dans une station de ski, une première mondiale à 2700 mètres d'altitude",
-      "description": "C'est sur un parcours ludique qu'une station de ski située dans la Vallée d'Aoste en Italie, vient d'implanter son réseau de caméras pilotées par l'intelligence artificielle. Découvrez comment l'IA es...",
-      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/haute-savoie/nos-cameras-voient-tout-l-ia-utilisee-dans-une-station-de-ski-une-premiere-mondiale-a-2700-metres-d-altitude-3323396.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-03-28T06:00:07Z",
+      "title": "IA et travail : « Avant la création de nouveaux emplois, il y a la destruction des anciens… »",
+      "description": "Entre ceux qui annoncent le remplacement de millions d’emplois par l’intelligence artificielle et d’autres qui croient en un marché du travail dopé par de nouveaux jobs, on ne sait plus qui écouter. «...",
+      "url": "https://www.nouvelobs.com/idees/20260329.OBS113709/ia-et-travail-avant-la-creation-de-nouveaux-emplois-il-y-a-la-destruction-des-anciens.html",
+      "source": "L'Obs",
+      "publishedAt": "2026-03-29T07:30:11Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,28 +278,28 @@
       "thumbnail": ""
     },
     {
-      "title": "Le Guide Google Antigravity ULTIME en 2026 ! (méthode complète)",
-      "description": "Récupère le template PRD et les autres ressources pour AntiGravity : https://tally.so/r/vGP7BA Forme-toi à construire et vendre ...",
-      "url": "https://www.youtube.com/watch?v=Fkfv96HdpPA",
-      "source": "Baptiste Simard - IA",
-      "publishedAt": "2026-01-29T17:00:21Z",
+      "title": "Des IA créent leur propre religion dans un jeu vidéo",
+      "description": "Dans le jeu en ligne SpaceMolt, exclusivement peuplé d'IA, un phénomène inattendu s'est produit : près de 700 agents autonomes ont spontanément créé leur propre religion, baptisée \"The Cult of the Sig...",
+      "url": "https://www.generation-nt.com/actualites/ia-religion-jeu-video-2073060",
+      "source": "Génération NT",
+      "publishedAt": "2026-03-29T08:10:01Z",
       "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Fkfv96HdpPA",
-      "thumbnail": "https://i.ytimg.com/vi/Fkfv96HdpPA/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "openClaw de zéro à expert : installation et utilisation réelle — Bluffant 😮",
-      "description": "Ressources que j'utilise (liens affiliés — merci pour votre soutien ! ) Serveur OpenClaw illimité (coupon : CLAW10) ...",
-      "url": "https://www.youtube.com/watch?v=aL4657Cunhk",
-      "source": "Dr. Firas",
-      "publishedAt": "2026-01-30T23:23:55Z",
+      "title": "XPeng devient (enfin) rentable et se lance dans un très cher pari sur l’IA",
+      "description": "C'est la fête chez XPeng. Le constructeur chinois vient en effet d'engranger son tout premier trimestre bénéficiaire ! Une étape importante qui cache surtout un changement de stratégie : l’entreprise ...",
+      "url": "https://www.journaldugeek.com/2026/03/29/xpeng-devient-enfin-rentable-et-se-lance-dans-un-pari-a-plusieurs-milliards-sur-lia/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-03-29T09:01:17Z",
       "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "aL4657Cunhk",
-      "thumbnail": "https://i.ytimg.com/vi/aL4657Cunhk/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }
