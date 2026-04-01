@@ -5,13 +5,29 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 31 Mar 2026 09:07:05 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 09:13:14 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>webinaire-excel-kobotoolbox-PowerBi</title>
+            <link>https://www.youtube.com/watch?v=niw22vHlUw0</link>
+            <description><![CDATA[Vidéo 2: formation sur la maitrise de collecte et traitement des données avec excel, kobo toolbox et Power BI Orateur: Ingénieur ...]]></description>
+            <pubDate>Thu, 26 Feb 2026 18:07:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=niw22vHlUw0</guid>
+            <source>ECPCI</source>
+        </item>
+        <item>
+            <title>Créer un Dashboard Power BI en 15 Minutes | Analyse de Ventes avec Superstore - Retail</title>
+            <link>https://www.youtube.com/watch?v=n7Nvz5UuBV4</link>
+            <description><![CDATA[Créer un Dashboard Power BI Professionnel avec les Données Superstore Dans ce tutoriel complet, je te montre comment ...]]></description>
+            <pubDate>Mon, 02 Mar 2026 14:41:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=n7Nvz5UuBV4</guid>
+            <source>Ngroup Media & Digital</source>
+        </item>
         <item>
             <title>IMITATION LEARNING : définition, fonctionnement et cas d’usage en intelligence artificielle</title>
             <link>https://www.frenchweb.fr/imitation-learning-definition-fonctionnement-et-cas-dusage-en-intelligence-artificielle/461035</link>
@@ -21,20 +37,12 @@
             <source>Frenchweb.fr</source>
         </item>
         <item>
-            <title>Charte éthique des bonnes pratiques de l’intelligence artificielle au ministère en charge de l'agriculture</title>
-            <link>https://agriculture.gouv.fr/charte-ethique-des-bonnes-pratiques-de-lintelligence-artificielle-au-ministere-en-charge-de</link>
-            <description><![CDATA[Cette charte, publiée en juin 2025, a pour objet d’encadrer et de préciser les bonnes pratiques sur l’intelligence artificielle dans le cadre de son utilisation dans un but professionnel.]]></description>
-            <pubDate>Mon, 30 Mar 2026 09:03:09 -0000</pubDate>
-            <guid isPermaLink="true">https://agriculture.gouv.fr/charte-ethique-des-bonnes-pratiques-de-lintelligence-artificielle-au-ministere-en-charge-de</guid>
-            <source>Gouv.fr</source>
-        </item>
-        <item>
-            <title>EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&amp;#39;utiliser Excel !</title>
-            <link>https://www.youtube.com/watch?v=8Vh5bmRgmlo</link>
-            <description><![CDATA[INSCRIVEZ-VOUS GRATUITEMENT AU WÉBINAIRE IA : morpheus-formation.fr/webinaire Testez votre niveau sur Excel (avec ...]]></description>
-            <pubDate>Fri, 06 Mar 2026 10:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=8Vh5bmRgmlo</guid>
-            <source>Morpheus Formation | Excel, Sheets, Power BI</source>
+            <title>Pourquoi l'introduction en bourse de SpaceX est sans précédent et ce qu’elle dit de la faiblesse de notre industrie spatiale</title>
+            <link>https://atlantico.fr/article/decryptage/pourquoi-introduction-bourse-spacex-sans-precedent-faiblesse-notre-industrie-spatiale-julien-pillot-nathalie-janson</link>
+            <description><![CDATA[Elon Musk a annoncé, lundi 2 février, l’absorption de xAI, sa société d’intelligence artificielle au sein de son entreprise spatiale SpaceX, afin de réaliser, notamment, son projet de construire des c...]]></description>
+            <pubDate>Tue, 31 Mar 2026 07:43:00 -0000</pubDate>
+            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/pourquoi-introduction-bourse-spacex-sans-precedent-faiblesse-notre-industrie-spatiale-julien-pillot-nathalie-janson</guid>
+            <source>Atlantico.fr</source>
         </item>
         <item>
             <title>Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)</title>
@@ -61,35 +69,27 @@
             <source>AntalaSoft School</source>
         </item>
         <item>
+            <title>Bluesky lance Attie, une IA capable de construire votre fil idéal en quelques secondes</title>
+            <link>https://siecledigital.fr/2026/03/31/bluesky-contre-x-la-plateforme-vous-aide-a-trouver-de-vrais-sujets-pertinents-grace-a-attie/</link>
+            <description><![CDATA[Il y a une phrase de Jay Graber, ancienne PDG de Bluesky et désormais responsable de l’innovation, qui résume l’ambition d’Attie mieux que n’importe quel communiqué de presse. Elle estime que l’Intell...]]></description>
+            <pubDate>Tue, 31 Mar 2026 09:06:25 -0000</pubDate>
+            <guid isPermaLink="true">https://siecledigital.fr/2026/03/31/bluesky-contre-x-la-plateforme-vous-aide-a-trouver-de-vrais-sujets-pertinents-grace-a-attie/</guid>
+            <source>Siècle Digital</source>
+        </item>
+        <item>
+            <title>Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)</title>
+            <link>https://www.youtube.com/watch?v=Vm-dZxN70kY</link>
+            <description><![CDATA[Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...]]></description>
+            <pubDate>Sat, 14 Mar 2026 20:01:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Vm-dZxN70kY</guid>
+            <source>TechVantage FR</source>
+        </item>
+        <item>
             <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
             <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
             <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
             <pubDate>Fri, 13 Feb 2026 23:00:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=2i9u_hwq05g</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Pourquoi les télécoms ne peuvent plus se passer de la Data Science – Chike Odenigbo</title>
-            <link>https://www.youtube.com/watch?v=kNy0VnMMP3Y</link>
-            <description><![CDATA[Dans ce second podcast, Ekué a eu le plaisir de discuter avec Chike Odenigbo qui est un expert en data science dans le ...]]></description>
-            <pubDate>Fri, 27 Feb 2026 23:01:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=kNy0VnMMP3Y</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Il utilise la Data Science pour battre le marché – Felix Carrier</title>
-            <link>https://www.youtube.com/watch?v=VNM4jJq8dSQ</link>
-            <description><![CDATA[Dans ce troisième podcast, Ekué a eu le plaisir de discuter avec Felix Carrier qui est un expert en data science dans le domaine ...]]></description>
-            <pubDate>Fri, 06 Mar 2026 23:00:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VNM4jJq8dSQ</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Pourquoi toutes les entreprises ont besoin de Data Science – Thibault Camara</title>
-            <link>https://www.youtube.com/watch?v=MGTY0HfU9Fc</link>
-            <description><![CDATA[Dans ce quatrième podcast, Ekué a eu le plaisir de discuter avec Thibault Camara qui est un expert en data science dans le ...]]></description>
-            <pubDate>Fri, 13 Mar 2026 22:15:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=MGTY0HfU9Fc</guid>
             <source>Enogne School</source>
         </item>
         <item>
@@ -109,12 +109,36 @@
             <source>Centre de formation Noormed</source>
         </item>
         <item>
-            <title>Apprendre SQL en 40 minutes - Cours Complet Débutant</title>
+            <title>Pour doper sa R&amp;D à l’IA, Sanofi se rapproche de Station F et des startups</title>
+            <link>https://www.zdnet.fr/actualites/pour-doper-sa-rd-a-lia-sanofi-se-rapproche-de-station-f-et-des-startups-492857.htm</link>
+            <description><![CDATA[Dans le cadre de sa stratégie IA, le groupe pharmaceutique annonce sa collaboration avec Station F, le campus de startups français. L’ambition : identifier des partenaires pour contribuer à sa R&amp;D via...]]></description>
+            <pubDate>Tue, 31 Mar 2026 06:03:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/pour-doper-sa-rd-a-lia-sanofi-se-rapproche-de-station-f-et-des-startups-492857.htm</guid>
+            <source>ZDNet France</source>
+        </item>
+        <item>
+            <title>Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)</title>
             <link>https://www.youtube.com/watch?v=xkJdg9zXGEI</link>
             <description><![CDATA[Vous voulez aller plus loin et apprendre SQL ? Découvrez mon cours SQL ...]]></description>
             <pubDate>Sun, 08 Mar 2026 09:05:01 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=xkJdg9zXGEI</guid>
             <source>Comment Coder</source>
+        </item>
+        <item>
+            <title>Free annonce une « nouvelle révolution mobile » : suivez la conférence en direct</title>
+            <link>https://www.igen.fr/telecoms/2026/03/free-annonce-une-nouvelle-revolution-mobile-suivez-la-conference-en-direct-155449</link>
+            <description><![CDATA[Free Mobile a convié la presse ce matin pour une conférence pleine de promesse. L’opérateur promet rien de moins qu’une « nouvelle révolution mobile ». Alors pétard mouillé ou véritable innovation en ...]]></description>
+            <pubDate>Tue, 31 Mar 2026 07:34:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.igen.fr/telecoms/2026/03/free-annonce-une-nouvelle-revolution-mobile-suivez-la-conference-en-direct-155449</guid>
+            <source>iGeneration</source>
+        </item>
+        <item>
+            <title>Starcloud devient licorne et vise les étoiles pour les datacenters IA du futur</title>
+            <link>https://www.generation-nt.com/actualites/starcloud-data-center-espace-levee-fonds-ia-spacex-2073258</link>
+            <description><![CDATA[Avec une levée de fonds de 170 millions de dollars, la startup Starcloud atteint une valorisation de 1,1 milliard et confirme son ambition démesurée : bâtir l'infrastructure de calcul de demain, non p...]]></description>
+            <pubDate>Mon, 30 Mar 2026 15:40:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/starcloud-data-center-espace-levee-fonds-ia-spacex-2073258</guid>
+            <source>Génération NT</source>
         </item>
         <item>
             <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
@@ -139,30 +163,6 @@
             <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
             <source>CodeAvecLionel</source>
-        </item>
-        <item>
-            <title>Comment des cybercriminels recyclent les dernières fuites de données pour leurs tentatives d’escroquerie</title>
-            <link>https://www.zdnet.fr/actualites/comment-des-cybercriminels-recyclent-les-dernieres-fuites-de-donnees-pour-leurs-tentatives-descroquerie-492742.htm</link>
-            <description><![CDATA[En 2025, le groupement d’intérêt public Cybermalveillance a remarqué des campagnes de hameçonnage personnalisées, vraisemblablement nourries par des fuites de données.]]></description>
-            <pubDate>Mon, 30 Mar 2026 08:10:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/comment-des-cybercriminels-recyclent-les-dernieres-fuites-de-donnees-pour-leurs-tentatives-descroquerie-492742.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
-            <title>Le studio derrière Kingdom Come: Deliverance 2 fait scandale en virant un employé au profit d’une IA</title>
-            <link>https://www.numerama.com/pop-culture/2221025-le-studio-derriere-kingdom-come-deliverance-2-fait-scandale-en-virant-un-employe-au-profit-dune-ia.html</link>
-            <description><![CDATA[S’il y a bien une profession menacée par l’arrivée de l’IA dans l’industrie du jeu vidéo, c’est celle de traducteur. Alors que de plus en plus de traductions sont réalisées automatiquement à l'aide d'...]]></description>
-            <pubDate>Mon, 30 Mar 2026 08:58:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/pop-culture/2221025-le-studio-derriere-kingdom-come-deliverance-2-fait-scandale-en-virant-un-employe-au-profit-dune-ia.html</guid>
-            <source>Numerama</source>
-        </item>
-        <item>
-            <title>Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro</title>
-            <link>https://www.youtube.com/watch?v=8EXbMYHL8xw</link>
-            <description><![CDATA[Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...]]></description>
-            <pubDate>Sat, 31 Jan 2026 08:46:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=8EXbMYHL8xw</guid>
-            <source>Oscar Aksanti</source>
         </item>
         <item>
             <title>Elle transforme la finance grâce à la Data Science – Natacha Njongwa Yepnga</title>

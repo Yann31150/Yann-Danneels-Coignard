@@ -1,6 +1,30 @@
 {
-  "lastUpdate": "2026-03-31T09:07:05.225859",
+  "lastUpdate": "2026-04-01T09:13:14.756329",
   "articles": [
+    {
+      "title": "webinaire-excel-kobotoolbox-PowerBi",
+      "description": "Vidéo 2: formation sur la maitrise de collecte et traitement des données avec excel, kobo toolbox et Power BI Orateur: Ingénieur ...",
+      "url": "https://www.youtube.com/watch?v=niw22vHlUw0",
+      "source": "ECPCI",
+      "publishedAt": "2026-02-26T18:07:51Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "niw22vHlUw0",
+      "thumbnail": "https://i.ytimg.com/vi/niw22vHlUw0/hqdefault.jpg"
+    },
+    {
+      "title": "Créer un Dashboard Power BI en 15 Minutes | Analyse de Ventes avec Superstore - Retail",
+      "description": "Créer un Dashboard Power BI Professionnel avec les Données Superstore Dans ce tutoriel complet, je te montre comment ...",
+      "url": "https://www.youtube.com/watch?v=n7Nvz5UuBV4",
+      "source": "Ngroup Media & Digital",
+      "publishedAt": "2026-03-02T14:41:37Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "n7Nvz5UuBV4",
+      "thumbnail": "https://i.ytimg.com/vi/n7Nvz5UuBV4/hqdefault.jpg"
+    },
     {
       "title": "IMITATION LEARNING : définition, fonctionnement et cas d’usage en intelligence artificielle",
       "description": "L’imitation learning, ou apprentissage par imitation, s’impose progressivement comme l’un des paradigmes centraux de l’intelligence artificielle appliquée, en particulier dans la robotique et les syst...",
@@ -14,28 +38,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Charte éthique des bonnes pratiques de l’intelligence artificielle au ministère en charge de l'agriculture",
-      "description": "Cette charte, publiée en juin 2025, a pour objet d’encadrer et de préciser les bonnes pratiques sur l’intelligence artificielle dans le cadre de son utilisation dans un but professionnel.",
-      "url": "https://agriculture.gouv.fr/charte-ethique-des-bonnes-pratiques-de-lintelligence-artificielle-au-ministere-en-charge-de",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-03-30T09:03:09Z",
+      "title": "Pourquoi l'introduction en bourse de SpaceX est sans précédent et ce qu’elle dit de la faiblesse de notre industrie spatiale",
+      "description": "Elon Musk a annoncé, lundi 2 février, l’absorption de xAI, sa société d’intelligence artificielle au sein de son entreprise spatiale SpaceX, afin de réaliser, notamment, son projet de construire des c...",
+      "url": "https://atlantico.fr/article/decryptage/pourquoi-introduction-bourse-spacex-sans-precedent-faiblesse-notre-industrie-spatiale-julien-pillot-nathalie-janson",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-03-31T07:43:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
-    },
-    {
-      "title": "EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&#39;utiliser Excel !",
-      "description": "INSCRIVEZ-VOUS GRATUITEMENT AU WÉBINAIRE IA : morpheus-formation.fr/webinaire Testez votre niveau sur Excel (avec ...",
-      "url": "https://www.youtube.com/watch?v=8Vh5bmRgmlo",
-      "source": "Morpheus Formation | Excel, Sheets, Power BI",
-      "publishedAt": "2026-03-06T10:00:00Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "8Vh5bmRgmlo",
-      "thumbnail": "https://i.ytimg.com/vi/8Vh5bmRgmlo/hqdefault.jpg"
     },
     {
       "title": "Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)",
@@ -74,6 +86,30 @@
       "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
     },
     {
+      "title": "Bluesky lance Attie, une IA capable de construire votre fil idéal en quelques secondes",
+      "description": "Il y a une phrase de Jay Graber, ancienne PDG de Bluesky et désormais responsable de l’innovation, qui résume l’ambition d’Attie mieux que n’importe quel communiqué de presse. Elle estime que l’Intell...",
+      "url": "https://siecledigital.fr/2026/03/31/bluesky-contre-x-la-plateforme-vous-aide-a-trouver-de-vrais-sujets-pertinents-grace-a-attie/",
+      "source": "Siècle Digital",
+      "publishedAt": "2026-03-31T09:06:25Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)",
+      "description": "Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...",
+      "url": "https://www.youtube.com/watch?v=Vm-dZxN70kY",
+      "source": "TechVantage FR",
+      "publishedAt": "2026-03-14T20:01:02Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Vm-dZxN70kY",
+      "thumbnail": "https://i.ytimg.com/vi/Vm-dZxN70kY/hqdefault.jpg"
+    },
+    {
       "title": "Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine",
       "description": "Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...",
       "url": "https://www.youtube.com/watch?v=2i9u_hwq05g",
@@ -84,42 +120,6 @@
       "isYouTube": true,
       "videoId": "2i9u_hwq05g",
       "thumbnail": "https://i.ytimg.com/vi/2i9u_hwq05g/hqdefault.jpg"
-    },
-    {
-      "title": "Pourquoi les télécoms ne peuvent plus se passer de la Data Science – Chike Odenigbo",
-      "description": "Dans ce second podcast, Ekué a eu le plaisir de discuter avec Chike Odenigbo qui est un expert en data science dans le ...",
-      "url": "https://www.youtube.com/watch?v=kNy0VnMMP3Y",
-      "source": "Enogne School",
-      "publishedAt": "2026-02-27T23:01:09Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "kNy0VnMMP3Y",
-      "thumbnail": "https://i.ytimg.com/vi/kNy0VnMMP3Y/hqdefault.jpg"
-    },
-    {
-      "title": "Il utilise la Data Science pour battre le marché – Felix Carrier",
-      "description": "Dans ce troisième podcast, Ekué a eu le plaisir de discuter avec Felix Carrier qui est un expert en data science dans le domaine ...",
-      "url": "https://www.youtube.com/watch?v=VNM4jJq8dSQ",
-      "source": "Enogne School",
-      "publishedAt": "2026-03-06T23:00:40Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "VNM4jJq8dSQ",
-      "thumbnail": "https://i.ytimg.com/vi/VNM4jJq8dSQ/hqdefault.jpg"
-    },
-    {
-      "title": "Pourquoi toutes les entreprises ont besoin de Data Science – Thibault Camara",
-      "description": "Dans ce quatrième podcast, Ekué a eu le plaisir de discuter avec Thibault Camara qui est un expert en data science dans le ...",
-      "url": "https://www.youtube.com/watch?v=MGTY0HfU9Fc",
-      "source": "Enogne School",
-      "publishedAt": "2026-03-13T22:15:02Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "MGTY0HfU9Fc",
-      "thumbnail": "https://i.ytimg.com/vi/MGTY0HfU9Fc/hqdefault.jpg"
     },
     {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
@@ -146,7 +146,19 @@
       "thumbnail": "https://i.ytimg.com/vi/kWWxN73GuUI/hqdefault.jpg"
     },
     {
-      "title": "Apprendre SQL en 40 minutes - Cours Complet Débutant",
+      "title": "Pour doper sa R&D à l’IA, Sanofi se rapproche de Station F et des startups",
+      "description": "Dans le cadre de sa stratégie IA, le groupe pharmaceutique annonce sa collaboration avec Station F, le campus de startups français. L’ambition : identifier des partenaires pour contribuer à sa R&D via...",
+      "url": "https://www.zdnet.fr/actualites/pour-doper-sa-rd-a-lia-sanofi-se-rapproche-de-station-f-et-des-startups-492857.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-03-31T06:03:02Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)",
       "description": "Vous voulez aller plus loin et apprendre SQL ? Découvrez mon cours SQL ...",
       "url": "https://www.youtube.com/watch?v=xkJdg9zXGEI",
       "source": "Comment Coder",
@@ -156,6 +168,30 @@
       "isYouTube": true,
       "videoId": "xkJdg9zXGEI",
       "thumbnail": "https://i.ytimg.com/vi/xkJdg9zXGEI/hqdefault.jpg"
+    },
+    {
+      "title": "Free annonce une « nouvelle révolution mobile » : suivez la conférence en direct",
+      "description": "Free Mobile a convié la presse ce matin pour une conférence pleine de promesse. L’opérateur promet rien de moins qu’une « nouvelle révolution mobile ». Alors pétard mouillé ou véritable innovation en ...",
+      "url": "https://www.igen.fr/telecoms/2026/03/free-annonce-une-nouvelle-revolution-mobile-suivez-la-conference-en-direct-155449",
+      "source": "iGeneration",
+      "publishedAt": "2026-03-31T07:34:34Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Starcloud devient licorne et vise les étoiles pour les datacenters IA du futur",
+      "description": "Avec une levée de fonds de 170 millions de dollars, la startup Starcloud atteint une valorisation de 1,1 milliard et confirme son ambition démesurée : bâtir l'infrastructure de calcul de demain, non p...",
+      "url": "https://www.generation-nt.com/actualites/starcloud-data-center-espace-levee-fonds-ia-spacex-2073258",
+      "source": "Génération NT",
+      "publishedAt": "2026-03-30T15:40:01Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)",
@@ -194,42 +230,6 @@
       "thumbnail": "https://i.ytimg.com/vi/SCKEMpv7Ld4/hqdefault.jpg"
     },
     {
-      "title": "Comment des cybercriminels recyclent les dernières fuites de données pour leurs tentatives d’escroquerie",
-      "description": "En 2025, le groupement d’intérêt public Cybermalveillance a remarqué des campagnes de hameçonnage personnalisées, vraisemblablement nourries par des fuites de données.",
-      "url": "https://www.zdnet.fr/actualites/comment-des-cybercriminels-recyclent-les-dernieres-fuites-de-donnees-pour-leurs-tentatives-descroquerie-492742.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-03-30T08:10:25Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le studio derrière Kingdom Come: Deliverance 2 fait scandale en virant un employé au profit d’une IA",
-      "description": "S’il y a bien une profession menacée par l’arrivée de l’IA dans l’industrie du jeu vidéo, c’est celle de traducteur. Alors que de plus en plus de traductions sont réalisées automatiquement à l'aide d'...",
-      "url": "https://www.numerama.com/pop-culture/2221025-le-studio-derriere-kingdom-come-deliverance-2-fait-scandale-en-virant-un-employe-au-profit-dune-ia.html",
-      "source": "Numerama",
-      "publishedAt": "2026-03-30T08:58:20Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Maîtrise SQL en 10 Heures (Cours Complet 2026) – De Zéro à Pro",
-      "description": "Inscrivez-vous à la formation ici : https://formations4data.systeme.io/inscrivez-vous-gratuitement Optez pour une option de ...",
-      "url": "https://www.youtube.com/watch?v=8EXbMYHL8xw",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-01-31T08:46:46Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "8EXbMYHL8xw",
-      "thumbnail": "https://i.ytimg.com/vi/8EXbMYHL8xw/hqdefault.jpg"
-    },
-    {
       "title": "Elle transforme la finance grâce à la Data Science – Natacha Njongwa Yepnga",
       "description": "Découverte et partage d'expérience avec Natacha NJONGWA YEPNGA. LINKEDIN DE Natacha ...",
       "url": "https://www.youtube.com/watch?v=ZNQg77H-K1k",
@@ -254,47 +254,47 @@
       "thumbnail": "https://i.ytimg.com/vi/Wg9M140pduU/hqdefault.jpg"
     },
     {
-      "title": "iOS 27 : l’App Store aurait droit à une section dédiée aux extensions de Siri",
-      "description": "Avec iOS 27, Apple ne joue plus à cache-cache. Dans son invitation pour la WWDC, la marque à la pomme a posé les jalons d'une conférence largement placée sous le signe de l'intelligence artificielle g...",
-      "url": "https://www.igen.fr/ios/2026/03/ios-27-lapp-store-disposerait-dune-section-dediee-aux-extensions-de-siri-155421",
-      "source": "iGeneration",
-      "publishedAt": "2026-03-30T04:54:59Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Pour ses 50 ans, Apple se transforme en barrière de péage",
-      "description": "La firme de Cupertino s'apprête à opérer un pivot avec iOS 27. En ouvrant Siri aux IA tierces comme Claude et Gemini, le groupe ne se contente pas de rattraper son retard en matière d'intelligence art...",
-      "url": "https://www.zdnet.fr/actualites/pour-ses-50-ans-apple-se-transforme-en-barriere-de-peage-492806.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-03-30T05:03:18Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Intelligence artificielle : l'administration Trump a-t-elle bafoué la constitution en ciblant Anthropic ?",
-      "description": "Dans une décision cinglante, la justice américaine vient de poser des limites claires à la pression exercée par le pouvoir politique sur les géants de la tech, qualifiant la démarche de l'exécutif de ...",
-      "url": "https://www.generation-nt.com/actualites/anthropic-justice-trump-pentagone-ia-claude-2073222",
-      "source": "Génération NT",
-      "publishedAt": "2026-03-30T07:20:01Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "App Store : le vibe coding allonge la validation des applications",
-      "description": "Il y a de plus en plus de personnes qui passent par la pratique du vibe coding pour leurs applications. Ils demandent à une intelligence artificielle de générer le code sans avoir forcément des compét...",
-      "url": "https://iphoneaddict.fr/post/news-426114-app-store-vibe-coding-allonge-validation-applications",
+      "title": "Siri IA est toujours absent d’iOS 26.5 bêta : en route vers iOS 27",
+      "description": "La première bêta d’iOS 26.5, disponible dès maintenant, ne contient aucune nouvelle fonctionnalité de Siri liée à l’intelligence artificielle avec Apple Intelligence. Après deux glissements successifs...",
+      "url": "https://iphoneaddict.fr/post/news-426180-siri-ia-toujours-absent-dios-26-5-beta-route-vers-ios-27",
       "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-03-30T05:00:15Z",
+      "publishedAt": "2026-03-30T20:20:30Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Midterms 2026 : David SACKS pousse l’agenda pro-IA de Donald Trump face à une Amérique de plus en plus hostile",
+      "description": "À huit mois des élections de mi-mandat, l’intelligence artificielle s’impose progressivement comme un sujet politique à part entière aux États-Unis. Longtemps cantonnée aux cercles technologiques et a...",
+      "url": "https://www.frenchweb.fr/midterms-2026-david-sacks-pousse-lagenda-pro-ia-de-donald-trump-face-a-une-amerique-de-plus-en-plus-hostile/461099",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-03-31T03:52:09Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Kingdom Come 2 : la traduction humaine remplacée par une iA",
+      "description": "Warhorse Studios, le développeur du jeu acclamé Kingdom Come: Deliverance 2, a licencié son traducteur tchèque-anglais, Max Hejtmánek. La raison invoquée est une restructuration visant à utiliser une ...",
+      "url": "https://www.generation-nt.com/actualites/kingdom-come-traduction-obsolete-2073272",
+      "source": "Génération NT",
+      "publishedAt": "2026-03-31T04:30:01Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Quels types de contenus les IA génératives citent vraiment (et ceux qu’elles ignorent)",
+      "description": "Depuis que les outils d’IA générative sont devenus des moteurs de recherche alternatifs, la question obsède les équipes marketing. Quel type de contenu les LLM préfèrent-ils citer ? L’étude, publiée l...",
+      "url": "https://siecledigital.fr/2026/03/31/ce-que-chatgpt-perplexity-et-google-citent-letude-qui-va-forcer-les-marketeurs-a-revoir-leur-strategie-de-contenu/",
+      "source": "Siècle Digital",
+      "publishedAt": "2026-03-31T09:08:10Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
