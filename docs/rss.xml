@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 02 Apr 2026 09:04:27 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 09:01:27 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,60 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Apple veut transformer Siri en assistant multitâche, plus rapide et plus complet</title>
-            <link>https://www.zdnet.fr/actualites/siri-devrait-bientot-franchir-un-cap-en-etant-capable-de-gerer-plusieurs-taches-a-la-fois-492892.htm</link>
-            <description><![CDATA[Selon des informations de Bloomberg, Apple prépare une évolution majeure de Siri. L’assistant vocal pourrait bientôt exécuter plusieurs commandes en une seule requête, marquant un tournant dans la str...]]></description>
-            <pubDate>Wed, 01 Apr 2026 06:10:57 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/siri-devrait-bientot-franchir-un-cap-en-etant-capable-de-gerer-plusieurs-taches-a-la-fois-492892.htm</guid>
-            <source>ZDNet France</source>
+            <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
+            <link>https://www.youtube.com/watch?v=77IMWD4TWtg</link>
+            <description><![CDATA[Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...]]></description>
+            <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
+            <source>Comprendre l'informatique</source>
         </item>
         <item>
-            <title>Intégration IA business : Comment réussir son implémentation en entreprise</title>
-            <link>https://www.aruco.com/intelligence-artificielle/integration-ia-business-guide-etapes/</link>
-            <description><![CDATA[L’intelligence artificielle n’est pas juste un effet de mode. Elle commence à s’imposer comme un véritable levier stratégique en entreprise. Automatisation, analyse de données, génération de contenus…...]]></description>
-            <pubDate>Wed, 01 Apr 2026 07:53:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.aruco.com/intelligence-artificielle/integration-ia-business-guide-etapes/</guid>
-            <source>Aruco.com</source>
+            <title>Intelligence artificielle et étudiants : refuser l'illusion de l'interdiction, construire les conditions d'un bon usage.</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1549143-intelligence-artificielle-et-etudiants-refuser-l-illusion-de-l-interdiction-construire-les-conditions-d-un-bon-usage/</link>
+            <description><![CDATA[Alors que l'Éducation Nationale annonce la création d'un Comité d'anticipation en éducation et la généralisation prochaine d'un parcours dédié à l'intelligence artificielle, un constat s'impose : l'IA...]]></description>
+            <pubDate>Thu, 02 Apr 2026 08:45:21 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1549143-intelligence-artificielle-et-etudiants-refuser-l-illusion-de-l-interdiction-construire-les-conditions-d-un-bon-usage/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
+            <title>Pourquoi l'impact de l'IA est sous-estimé et comment elle va transformer la productivité des entreprises</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1549145-pourquoi-l-impact-de-l-ia-est-sous-estime-et-comment-elle-va-transformer-la-productivite-des-entreprises/</link>
+            <description><![CDATA[L'IA, souvent sous-estimée, va transformer le travail et accélérer fortement la productivité. Elle modifiera plus les emplois qu'elle ne les supprimera, favorisant ceux qui s'y adaptent rapidement.]]></description>
+            <pubDate>Thu, 02 Apr 2026 08:45:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1549145-pourquoi-l-impact-de-l-ia-est-sous-estime-et-comment-elle-va-transformer-la-productivite-des-entreprises/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
+            <title>webinaire-excel-kobotoolbox-PowerBi</title>
+            <link>https://www.youtube.com/watch?v=niw22vHlUw0</link>
+            <description><![CDATA[Vidéo 2: formation sur la maitrise de collecte et traitement des données avec excel, kobo toolbox et Power BI Orateur: Ingénieur ...]]></description>
+            <pubDate>Thu, 26 Feb 2026 18:07:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=niw22vHlUw0</guid>
+            <source>ECPCI</source>
+        </item>
+        <item>
+            <title>Créer un Dashboard Power BI en 15 Minutes | Analyse de Ventes avec Superstore - Retail</title>
+            <link>https://www.youtube.com/watch?v=n7Nvz5UuBV4</link>
+            <description><![CDATA[Créer un Dashboard Power BI Professionnel avec les Données Superstore Dans ce tutoriel complet, je te montre comment ...]]></description>
+            <pubDate>Mon, 02 Mar 2026 14:41:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=n7Nvz5UuBV4</guid>
+            <source>Ngroup Media & Digital</source>
+        </item>
+        <item>
+            <title>J&amp;#39;analyse ce Dashboard Power BI et je découvre un problème de rentabilité |  UEMOA</title>
+            <link>https://www.youtube.com/watch?v=sJrvfgWQoE4</link>
+            <description><![CDATA[J'ai analysé 50 000 transactions pharmaceutiques sur 4 ans, 8 pays et 80 pharmacies dans la zone UEMOA — et j'ai construit un ...]]></description>
+            <pubDate>Sat, 07 Mar 2026 17:41:19 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=sJrvfgWQoE4</guid>
+            <source>Ngroup Media & Digital</source>
+        </item>
+        <item>
+            <title>EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&amp;#39;utiliser Excel !</title>
+            <link>https://www.youtube.com/watch?v=8Vh5bmRgmlo</link>
+            <description><![CDATA[INSCRIVEZ-VOUS GRATUITEMENT AU WÉBINAIRE IA : morpheus-formation.fr/webinaire Testez votre niveau sur Excel (avec ...]]></description>
+            <pubDate>Fri, 06 Mar 2026 10:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=8Vh5bmRgmlo</guid>
+            <source>Morpheus Formation | Excel, Sheets, Power BI</source>
         </item>
         <item>
             <title>Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)</title>
@@ -53,46 +93,6 @@
             <source>AntalaSoft School</source>
         </item>
         <item>
-            <title>Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)</title>
-            <link>https://www.youtube.com/watch?v=Vm-dZxN70kY</link>
-            <description><![CDATA[Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...]]></description>
-            <pubDate>Sat, 14 Mar 2026 20:01:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Vm-dZxN70kY</guid>
-            <source>TechVantage FR</source>
-        </item>
-        <item>
-            <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
-            <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
-            <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
-            <pubDate>Fri, 13 Feb 2026 23:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2i9u_hwq05g</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Pourquoi les télécoms ne peuvent plus se passer de la Data Science – Chike Odenigbo</title>
-            <link>https://www.youtube.com/watch?v=kNy0VnMMP3Y</link>
-            <description><![CDATA[Dans ce second podcast, Ekué a eu le plaisir de discuter avec Chike Odenigbo qui est un expert en data science dans le ...]]></description>
-            <pubDate>Fri, 27 Feb 2026 23:01:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=kNy0VnMMP3Y</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Il utilise la Data Science pour battre le marché – Felix Carrier</title>
-            <link>https://www.youtube.com/watch?v=VNM4jJq8dSQ</link>
-            <description><![CDATA[Dans ce troisième podcast, Ekué a eu le plaisir de discuter avec Felix Carrier qui est un expert en data science dans le domaine ...]]></description>
-            <pubDate>Fri, 06 Mar 2026 23:00:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VNM4jJq8dSQ</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Pourquoi toutes les entreprises ont besoin de Data Science – Thibault Camara</title>
-            <link>https://www.youtube.com/watch?v=MGTY0HfU9Fc</link>
-            <description><![CDATA[Dans ce quatrième podcast, Ekué a eu le plaisir de discuter avec Thibault Camara qui est un expert en data science dans le ...]]></description>
-            <pubDate>Fri, 13 Mar 2026 22:15:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=MGTY0HfU9Fc</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
             <link>https://www.youtube.com/watch?v=Dgm74TZPSkA</link>
             <description><![CDATA[Si vous passez encore vos journées à copier-coller des données dans Excel, cette vidéo va changer votre carrière. Power BI ...]]></description>
@@ -109,12 +109,20 @@
             <source>Centre de formation Noormed</source>
         </item>
         <item>
-            <title>Pour doper sa R&amp;D à l’IA, Sanofi se rapproche de Station F et des startups</title>
-            <link>https://www.zdnet.fr/actualites/pour-doper-sa-rd-a-lia-sanofi-se-rapproche-de-station-f-et-des-startups-492857.htm</link>
-            <description><![CDATA[Dans le cadre de sa stratégie IA, le groupe pharmaceutique annonce sa collaboration avec Station F, le campus de startups français. L’ambition : identifier des partenaires pour contribuer à sa R&amp;D via...]]></description>
-            <pubDate>Tue, 31 Mar 2026 06:03:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/pour-doper-sa-rd-a-lia-sanofi-se-rapproche-de-station-f-et-des-startups-492857.htm</guid>
-            <source>ZDNet France</source>
+            <title>This is how you&amp;#39;ll become a REMOTE Data Analyst in 2026 (FULL Guide)</title>
+            <link>https://www.youtube.com/watch?v=q5MOKiZzSFA</link>
+            <description><![CDATA[Try DataCamp Free: SQL Track: https://datacamp.pxf.io/E0KXDW Power BI Track: https://datacamp.pxf.io/7Xa2nr Remote data ...]]></description>
+            <pubDate>Mon, 23 Mar 2026 14:05:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=q5MOKiZzSFA</guid>
+            <source>Matt Mike</source>
+        </item>
+        <item>
+            <title>DAX (Power BI) – Module 1 : Les Fondamentaux de DAX | Vidéo 7 : IF, SWITCH &amp;amp; BLANK</title>
+            <link>https://www.youtube.com/watch?v=kcSObmOJaFE</link>
+            <description><![CDATA[Bienvenue dans cette 7ème étape de notre formation complète : Maîtriser DAX ! Dans l'épisode précédent, nous avons appris ...]]></description>
+            <pubDate>Fri, 06 Feb 2026 08:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=kcSObmOJaFE</guid>
+            <source>Learn with Jino</source>
         </item>
         <item>
             <title>Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)</title>
@@ -125,12 +133,28 @@
             <source>Comment Coder</source>
         </item>
         <item>
-            <title>IMPACT DES METHODES ANALYTIQUES ET LA VISUALISATION D’INFORMATION DANS LE CONTEXTE DES DONNEES MASSIVES : UNE APPROCHE PAR L’ABSTRACTION DE DONNEES DIABETOLOGIQUES</title>
-            <link>https://www.data.gouv.fr/datasets/impact-des-methodes-analytiques-et-la-visualisation-dinformation-dans-le-contexte-des-donnees-massives-une-approche-par-labstraction-de-donnees-diabetologiques</link>
-            <description><![CDATA[Avec l’augmentation exponentielle des données générées dans les systèmes de santé modernes, les méthodes analytiques et les techniques de visualisation de l’information deviennent essentielles pour ex...]]></description>
-            <pubDate>Tue, 31 Mar 2026 19:05:21 -0000</pubDate>
-            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/impact-des-methodes-analytiques-et-la-visualisation-dinformation-dans-le-contexte-des-donnees-massives-une-approche-par-labstraction-de-donnees-diabetologiques</guid>
-            <source>Gouv.fr</source>
+            <title>Fitbit prépare son grand retour avec un bracelet sans écran totalement inattendu !</title>
+            <link>https://www.generation-nt.com/actualites/google-fitbit-bracelet-sans-ecran-stephen-curry-sante-2073419</link>
+            <description><![CDATA[Google, via sa marque Fitbit et en partenariat avec le basketteur Stephen Curry, s'apprête à lancer un bracelet connecté sans écran. Conçu pour un suivi passif de la santé et des performances, cet app...]]></description>
+            <pubDate>Wed, 01 Apr 2026 16:50:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/google-fitbit-bracelet-sans-ecran-stephen-curry-sante-2073419</guid>
+            <source>Génération NT</source>
+        </item>
+        <item>
+            <title>TPE : l'IA prédictive remplace l'intuition par la rentabilité</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1549177-tpe-l-ia-predictive-remplace-l-intuition-par-la-rentabilite/</link>
+            <description><![CDATA[Comment l'IA prédictive sécurise la rentabilité en calculant les coûts réels et en automatisant la facturation pour redonner du temps aux dirigeants.]]></description>
+            <pubDate>Thu, 02 Apr 2026 08:48:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1549177-tpe-l-ia-predictive-remplace-l-intuition-par-la-rentabilite/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
+            <title>De zéro à data analyste : la cinquième leçon avec Yao (5 ième Session)</title>
+            <link>https://www.youtube.com/watch?v=9-oQG_NeITc</link>
+            <description><![CDATA[ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...]]></description>
+            <pubDate>Fri, 06 Feb 2026 23:00:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=9-oQG_NeITc</guid>
+            <source>Enogne School</source>
         </item>
         <item>
             <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
@@ -141,36 +165,12 @@
             <source>Sébastien Daviot - Expertise Data</source>
         </item>
         <item>
-            <title>Comprendre les Window Functions sur SQL 📊✅ #tuto #sql #data</title>
-            <link>https://www.youtube.com/watch?v=Z_SFL0oFwBk</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Tue, 17 Feb 2026 15:14:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z_SFL0oFwBk</guid>
-            <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
-            <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
-            <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
-            <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
-            <source>CodeAvecLionel</source>
-        </item>
-        <item>
-            <title>Ordinal s’implante en France avec un principe que ses fondateurs ont d’abord appliqué à eux-mêmes : comprendre avant d’automatiser</title>
-            <link>https://www.frenchweb.fr/ordinal-simplante-en-france-avec-un-principe-que-ses-fondateurs-ont-dabord-applique-a-eux-memes-comprendre-avant-dautomatiser/461122</link>
-            <description><![CDATA[Le cabinet de stratégie opérationnelle accompagne les PME françaises et européennes dans la construction des fondations qui rendent l’automatisation viable, en commençant par la clarté, pas par les ou...]]></description>
-            <pubDate>Wed, 01 Apr 2026 08:41:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frenchweb.fr/ordinal-simplante-en-france-avec-un-principe-que-ses-fondateurs-ont-dabord-applique-a-eux-memes-comprendre-avant-dautomatiser/461122</guid>
-            <source>Frenchweb.fr</source>
-        </item>
-        <item>
-            <title>5 tendances e-commerce à surveiller pour rester dans la course</title>
-            <link>https://www.journaldunet.com/retail/1549061-5-tendances-e-commerce-a-surveiller-pour-rester-dans-la-course/</link>
-            <description><![CDATA[Achat via les réseaux sociaux, recherche vocale, durabilité, expériences immersives, approche hyperlocale : 5 tendances qui vont bousculer le commerce en ligne en 2026.]]></description>
-            <pubDate>Tue, 31 Mar 2026 15:06:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/retail/1549061-5-tendances-e-commerce-a-surveiller-pour-rester-dans-la-course/</guid>
-            <source>JDN</source>
+            <title>DAX (POWER BI) – Module 1 : Les Fondamentaux de DAX | Vidéo 8 : Tables Calculées (Table de Dates)</title>
+            <link>https://www.youtube.com/watch?v=CyNZE40aias</link>
+            <description><![CDATA[Passez au niveau supérieur avec DAX ! Après avoir maîtrisé les fonctions logiques (IF, SWITCH), il est temps de découvrir ...]]></description>
+            <pubDate>Tue, 10 Feb 2026 16:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=CyNZE40aias</guid>
+            <source>Learn with Jino</source>
         </item>
     </channel>
 </rss>
