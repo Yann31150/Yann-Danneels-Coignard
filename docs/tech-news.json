@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-04-03T09:01:27.273441",
+  "lastUpdate": "2026-04-04T08:49:02.808584",
   "articles": [
+    {
+      "title": "Voici ce que font réellement les salariés sur ChatGPT au bureau",
+      "description": "Une étude d'envergure lève enfin le voile sur l'utilisation réelle de l'IA en entreprise. Entre la rédaction de mails et l'aide à la décision, voici comment cet outil transforme concrètement le quotid...",
+      "url": "https://www.zdnet.fr/actualites/voici-ce-que-font-reellement-les-salaries-sur-chatgpt-au-bureau-493086.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-04-03T02:04:08Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
     {
       "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
       "description": "Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...",
@@ -14,30 +26,6 @@
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
     },
     {
-      "title": "Intelligence artificielle et étudiants : refuser l'illusion de l'interdiction, construire les conditions d'un bon usage.",
-      "description": "Alors que l'Éducation Nationale annonce la création d'un Comité d'anticipation en éducation et la généralisation prochaine d'un parcours dédié à l'intelligence artificielle, un constat s'impose : l'IA...",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1549143-intelligence-artificielle-et-etudiants-refuser-l-illusion-de-l-interdiction-construire-les-conditions-d-un-bon-usage/",
-      "source": "JDN",
-      "publishedAt": "2026-04-02T08:45:21Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Pourquoi l'impact de l'IA est sous-estimé et comment elle va transformer la productivité des entreprises",
-      "description": "L'IA, souvent sous-estimée, va transformer le travail et accélérer fortement la productivité. Elle modifiera plus les emplois qu'elle ne les supprimera, favorisant ceux qui s'y adaptent rapidement.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1549145-pourquoi-l-impact-de-l-ia-est-sous-estime-et-comment-elle-va-transformer-la-productivite-des-entreprises/",
-      "source": "JDN",
-      "publishedAt": "2026-04-02T08:45:42Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "webinaire-excel-kobotoolbox-PowerBi",
       "description": "Vidéo 2: formation sur la maitrise de collecte et traitement des données avec excel, kobo toolbox et Power BI Orateur: Ingénieur ...",
       "url": "https://www.youtube.com/watch?v=niw22vHlUw0",
@@ -48,42 +36,6 @@
       "isYouTube": true,
       "videoId": "niw22vHlUw0",
       "thumbnail": "https://i.ytimg.com/vi/niw22vHlUw0/hqdefault.jpg"
-    },
-    {
-      "title": "Créer un Dashboard Power BI en 15 Minutes | Analyse de Ventes avec Superstore - Retail",
-      "description": "Créer un Dashboard Power BI Professionnel avec les Données Superstore Dans ce tutoriel complet, je te montre comment ...",
-      "url": "https://www.youtube.com/watch?v=n7Nvz5UuBV4",
-      "source": "Ngroup Media & Digital",
-      "publishedAt": "2026-03-02T14:41:37Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "n7Nvz5UuBV4",
-      "thumbnail": "https://i.ytimg.com/vi/n7Nvz5UuBV4/hqdefault.jpg"
-    },
-    {
-      "title": "J&#39;analyse ce Dashboard Power BI et je découvre un problème de rentabilité |  UEMOA",
-      "description": "J'ai analysé 50 000 transactions pharmaceutiques sur 4 ans, 8 pays et 80 pharmacies dans la zone UEMOA — et j'ai construit un ...",
-      "url": "https://www.youtube.com/watch?v=sJrvfgWQoE4",
-      "source": "Ngroup Media & Digital",
-      "publishedAt": "2026-03-07T17:41:19Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "sJrvfgWQoE4",
-      "thumbnail": "https://i.ytimg.com/vi/sJrvfgWQoE4/hqdefault.jpg"
-    },
-    {
-      "title": "EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&#39;utiliser Excel !",
-      "description": "INSCRIVEZ-VOUS GRATUITEMENT AU WÉBINAIRE IA : morpheus-formation.fr/webinaire Testez votre niveau sur Excel (avec ...",
-      "url": "https://www.youtube.com/watch?v=8Vh5bmRgmlo",
-      "source": "Morpheus Formation | Excel, Sheets, Power BI",
-      "publishedAt": "2026-03-06T10:00:00Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "8Vh5bmRgmlo",
-      "thumbnail": "https://i.ytimg.com/vi/8Vh5bmRgmlo/hqdefault.jpg"
     },
     {
       "title": "Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)",
@@ -122,6 +74,54 @@
       "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
     },
     {
+      "title": "Actualité : Exoplanètes : une IA de la Nasa en détecte 100 nouvelles et s'attaque au mystère des mondes “évaporés”",
+      "description": "Le télescope TESS de la Nasa ne dort jamais, mais ses données cachent des trésors. Grâce à l’intelligence artificielle, des chercheurs ont débusqué 100 nouvelles exoplanètes ignorées par les méthodes ...",
+      "url": "https://www.lesnumeriques.com/astronomie-conquete-spatiale/exoplanetes-une-ia-de-la-nasa-en-detecte-100-nouvelles-et-s-attaque-au-mystere-des-mondes-evapores-n253815.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-04-02T06:15:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "RAM : Apple chercherait à vider les stocks mondiaux pour étouffer la concurrence",
+      "description": "Le marché de la mémoire vive est en pleine surchauffe. Sous l'impulsion d'une intelligence artificielle vorace et de l'expansion frénétique des centres de données, les prix de la DRAM s'envolent inexo...",
+      "url": "https://www.macg.co/aapl/2026/04/ram-apple-chercherait-vider-les-stocks-mondiaux-pour-etouffer-la-concurrence-307839",
+      "source": "MacGeneration",
+      "publishedAt": "2026-04-03T05:45:13Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)",
+      "description": "Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...",
+      "url": "https://www.youtube.com/watch?v=Vm-dZxN70kY",
+      "source": "TechVantage FR",
+      "publishedAt": "2026-03-14T20:01:02Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Vm-dZxN70kY",
+      "thumbnail": "https://i.ytimg.com/vi/Vm-dZxN70kY/hqdefault.jpg"
+    },
+    {
+      "title": "Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine",
+      "description": "Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...",
+      "url": "https://www.youtube.com/watch?v=2i9u_hwq05g",
+      "source": "Enogne School",
+      "publishedAt": "2026-02-13T23:00:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "2i9u_hwq05g",
+      "thumbnail": "https://i.ytimg.com/vi/2i9u_hwq05g/hqdefault.jpg"
+    },
+    {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
       "description": "Si vous passez encore vos journées à copier-coller des données dans Excel, cette vidéo va changer votre carrière. Power BI ...",
       "url": "https://www.youtube.com/watch?v=Dgm74TZPSkA",
@@ -146,30 +146,6 @@
       "thumbnail": "https://i.ytimg.com/vi/kWWxN73GuUI/hqdefault.jpg"
     },
     {
-      "title": "This is how you&#39;ll become a REMOTE Data Analyst in 2026 (FULL Guide)",
-      "description": "Try DataCamp Free: SQL Track: https://datacamp.pxf.io/E0KXDW Power BI Track: https://datacamp.pxf.io/7Xa2nr Remote data ...",
-      "url": "https://www.youtube.com/watch?v=q5MOKiZzSFA",
-      "source": "Matt Mike",
-      "publishedAt": "2026-03-23T14:05:49Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "q5MOKiZzSFA",
-      "thumbnail": "https://i.ytimg.com/vi/q5MOKiZzSFA/hqdefault.jpg"
-    },
-    {
-      "title": "DAX (Power BI) – Module 1 : Les Fondamentaux de DAX | Vidéo 7 : IF, SWITCH &amp; BLANK",
-      "description": "Bienvenue dans cette 7ème étape de notre formation complète : Maîtriser DAX ! Dans l'épisode précédent, nous avons appris ...",
-      "url": "https://www.youtube.com/watch?v=kcSObmOJaFE",
-      "source": "Learn with Jino",
-      "publishedAt": "2026-02-06T08:00:06Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "kcSObmOJaFE",
-      "thumbnail": "https://i.ytimg.com/vi/kcSObmOJaFE/hqdefault.jpg"
-    },
-    {
       "title": "Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)",
       "description": "Vous voulez aller plus loin et apprendre SQL ? Découvrez mon cours SQL ...",
       "url": "https://www.youtube.com/watch?v=xkJdg9zXGEI",
@@ -182,11 +158,11 @@
       "thumbnail": "https://i.ytimg.com/vi/xkJdg9zXGEI/hqdefault.jpg"
     },
     {
-      "title": "Fitbit prépare son grand retour avec un bracelet sans écran totalement inattendu !",
-      "description": "Google, via sa marque Fitbit et en partenariat avec le basketteur Stephen Curry, s'apprête à lancer un bracelet connecté sans écran. Conçu pour un suivi passif de la santé et des performances, cet app...",
-      "url": "https://www.generation-nt.com/actualites/google-fitbit-bracelet-sans-ecran-stephen-curry-sante-2073419",
-      "source": "Génération NT",
-      "publishedAt": "2026-04-01T16:50:01Z",
+      "title": "TCL dévoile sa gamme NXTVision QD-Mini LED 2026 : quand le téléviseur devient œuvre d’art",
+      "description": "TCL Electronics a officialisé en France trois nouveaux téléviseurs de la collection NXTVision, alliant technologie QD-Mini LED et design inspiré du mobilier d'intérieur. Une gamme qui s'attaque fronta...",
+      "url": "https://www.frandroid.com/marques/tcl/3051595_tcl-devoile-sa-gamme-nxtvision-qd-mini-led-2026-quand-le-televiseur-devient-oeuvre-dart",
+      "source": "Frandroid",
+      "publishedAt": "2026-04-03T07:58:38Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -194,28 +170,16 @@
       "thumbnail": ""
     },
     {
-      "title": "TPE : l'IA prédictive remplace l'intuition par la rentabilité",
-      "description": "Comment l'IA prédictive sécurise la rentabilité en calculant les coûts réels et en automatisant la facturation pour redonner du temps aux dirigeants.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1549177-tpe-l-ia-predictive-remplace-l-intuition-par-la-rentabilite/",
-      "source": "JDN",
-      "publishedAt": "2026-04-02T08:48:49Z",
+      "title": "« Aucun des deux ne marche » : en pleine mission vers la Lune, les astronautes d’Artémis 2 ont subi… un bug d’Outlook",
+      "description": "L'épique mission Artémis II qui se dirige vers la Lune a été rattrapée par la trivialité d'un bug informatique : selon le commandant Reid Wiseman, le logiciel de messagerie Outlook n'a pas bien foncti...",
+      "url": "https://www.numerama.com/tech/2225773-aucun-des-deux-ne-marche-en-pleine-mission-vers-la-lune-les-astronautes-dartemis-2-ont-subi-un-bug-doutlook.html",
+      "source": "Numerama",
+      "publishedAt": "2026-04-03T08:47:40Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
-    },
-    {
-      "title": "De zéro à data analyste : la cinquième leçon avec Yao (5 ième Session)",
-      "description": "ABONNEZ-VOUS pour en savoir plus sur Power et Excel BI ! https://www.youtube.com/channel/UCy2wjQukT3zdBERSH7QFNNQ ...",
-      "url": "https://www.youtube.com/watch?v=9-oQG_NeITc",
-      "source": "Enogne School",
-      "publishedAt": "2026-02-06T23:00:11Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "9-oQG_NeITc",
-      "thumbnail": "https://i.ytimg.com/vi/9-oQG_NeITc/hqdefault.jpg"
     },
     {
       "title": "Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)",
@@ -230,16 +194,52 @@
       "thumbnail": "https://i.ytimg.com/vi/qKWTshE6WDI/hqdefault.jpg"
     },
     {
-      "title": "DAX (POWER BI) – Module 1 : Les Fondamentaux de DAX | Vidéo 8 : Tables Calculées (Table de Dates)",
-      "description": "Passez au niveau supérieur avec DAX ! Après avoir maîtrisé les fonctions logiques (IF, SWITCH), il est temps de découvrir ...",
-      "url": "https://www.youtube.com/watch?v=CyNZE40aias",
-      "source": "Learn with Jino",
-      "publishedAt": "2026-02-10T16:00:06Z",
+      "title": "Comprendre les Window Functions sur SQL 📊✅ #tuto #sql #data",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Z_SFL0oFwBk",
+      "source": "Le Decodeur",
+      "publishedAt": "2026-02-17T15:14:03Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "CyNZE40aias",
-      "thumbnail": "https://i.ytimg.com/vi/CyNZE40aias/hqdefault.jpg"
+      "videoId": "Z_SFL0oFwBk",
+      "thumbnail": "https://i.ytimg.com/vi/Z_SFL0oFwBk/hqdefault.jpg"
+    },
+    {
+      "title": "Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser",
+      "description": "Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...",
+      "url": "https://www.youtube.com/watch?v=SCKEMpv7Ld4",
+      "source": "CodeAvecLionel",
+      "publishedAt": "2026-03-02T12:00:06Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "SCKEMpv7Ld4",
+      "thumbnail": "https://i.ytimg.com/vi/SCKEMpv7Ld4/hqdefault.jpg"
+    },
+    {
+      "title": "Décollage parfait pour Artémis II… Mais à bord, les astronautes ont eu un petit problème de toilettes",
+      "description": "Le décollage d'Artémis II a pu se dérouler sans encombre dans la nuit du 1er au 2 avril 2026. En revanche, l'ambiance était un peu moins à la fête du côté du vaisseau Orion, dans lequel les quatre ast...",
+      "url": "https://www.numerama.com/sciences/2224709-decollage-parfait-pour-artemis-ii-mais-a-bord-les-astronautes-ont-eu-un-petit-probleme-de-toilettes.html",
+      "source": "Numerama",
+      "publishedAt": "2026-04-02T08:35:35Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Impact Analytics annonce un partenariat stratégique avec AllSaints",
+      "description": "La célèbre marque de mode londonienne va moderniser ses processus d’achat et de merchandising grâce à une plateforme native IA de bout en bout couvrant la chaîne d’approvisionnement, la planification,...",
+      "url": "https://www.globenewswire.com/news-release/2026/04/03/3267943/0/fr/Impact-Analytics-annonce-un-partenariat-strat%C3%A9gique-avec-AllSaints.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-04-03T06:00:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)",
@@ -266,11 +266,11 @@
       "thumbnail": "https://i.ytimg.com/vi/EQ15g3OhzPs/hqdefault.jpg"
     },
     {
-      "title": "Melania Trump accueille un robot humanoïde à la Maison Blanche pour promouvoir l’IA éducative",
-      "description": "À la Maison-Blanche, Melania Trump est apparue aux côtés d’un robot humanoïde lors d’un sommet consacré à l’intelligence artificielle et à l’éducation. Une démonstration pour promouvoir l’usage de l’I...",
-      "url": "https://www.aruco.com/robotique/melania-trump-robot-humanoide-maison-blanche/",
-      "source": "Aruco.com",
-      "publishedAt": "2026-04-01T17:18:43Z",
+      "title": "Les IA mentent pour protéger les autres IA",
+      "description": "Des chercheurs de Berkeley viennent de publier une étude qui fait un peu froid dans le dos. Les sept principaux modèles d'IA testés, dont GPT 5.2, Gemini 3 et Claude, ont été surpris à mentir, tricher...",
+      "url": "https://korben.info/les-ia-mentent-pour-proteger-les-autres-ia.html",
+      "source": "Korben.info",
+      "publishedAt": "2026-04-03T08:24:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,23 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Nouvelle fomation Architecte Power Platform !",
-      "description": "Microsoft Power Platform Solution Architect ✔️ Comprendre le rôle et les responsabilités d'un Solution Architect Power Platform ...",
-      "url": "https://www.youtube.com/watch?v=09S53i-ntOE",
-      "source": "Fabrice Chrzanowski – Passionate IT Training",
-      "publishedAt": "2026-02-06T14:35:03Z",
+      "title": "L’UE bannit les contenus IA, Donald Trump en fait un levier politique",
+      "description": "Face à la montée des deepfakes, les institutions européennes optent pour une ligne stricte en interdisant les images et vidéos générées par intelligence artificielle. Une stratégie à contre-courant de...",
+      "url": "https://www.zdnet.fr/actualites/lue-bannit-les-contenus-ia-donald-trump-en-fait-un-levier-politique-493056.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-04-03T06:23:21Z",
       "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "09S53i-ntOE",
-      "thumbnail": "https://i.ytimg.com/vi/09S53i-ntOE/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "L'IA ne sauvera pas vos campagnes d'acquisition",
-      "description": "L'intelligence artificielle est devenue incontournable en acquisition, mais elle ne garantit pas de meilleures performances. En s'appuyant sur des analyses partielles et des logiques parfois éloignées",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1549227-l-ia-ne-sauvera-pas-vos-campagnes-d-acquisition/",
-      "source": "JDN",
-      "publishedAt": "2026-04-02T08:53:59Z",
+      "title": "Robotaxis : Pony AI atteint l’équilibre et s’étend",
+      "description": "Pony AI devient rentable et accélère le déploiement de robotaxis dans 20 villes, malgré une concurrence mondiale intense. Le spécialiste de la conduite autonome Pony [...]\nL’article Robotaxis : Pony A...",
+      "url": "https://www.leblogauto.com/actualites/robotaxis-pony-ai-atteint-lequilibre-et-setend/",
+      "source": "Leblogauto.com",
+      "publishedAt": "2026-04-03T06:17:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
