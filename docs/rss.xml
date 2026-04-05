@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 04 Apr 2026 08:49:02 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 08:51:47 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,28 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Voici ce que font réellement les salariés sur ChatGPT au bureau</title>
-            <link>https://www.zdnet.fr/actualites/voici-ce-que-font-reellement-les-salaries-sur-chatgpt-au-bureau-493086.htm</link>
-            <description><![CDATA[Une étude d'envergure lève enfin le voile sur l'utilisation réelle de l'IA en entreprise. Entre la rédaction de mails et l'aide à la décision, voici comment cet outil transforme concrètement le quotid...]]></description>
-            <pubDate>Fri, 03 Apr 2026 02:04:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/voici-ce-que-font-reellement-les-salaries-sur-chatgpt-au-bureau-493086.htm</guid>
-            <source>ZDNet France</source>
+            <title>iOS 26.4 : Apple intègre enfin ChatGPT à CarPlay, mais avec un gros défaut</title>
+            <link>https://www.frandroid.com/marques/apple/3052239_ios-26-4-apple-integre-enfin-chatgpt-a-carplay-mais-avec-un-gros-defaut</link>
+            <description><![CDATA[L'intelligence artificielle s'invite enfin au volant, mais Apple et Google empruntent des routes radicalement différentes. La mise à jour iOS 26.4 intègre un ChatGPT sous haute surveillance à CarPlay....]]></description>
+            <pubDate>Fri, 03 Apr 2026 10:20:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/marques/apple/3052239_ios-26-4-apple-integre-enfin-chatgpt-a-carplay-mais-avec-un-gros-defaut</guid>
+            <source>Frandroid</source>
+        </item>
+        <item>
+            <title>Apprentissage par renforcement</title>
+            <link>https://www.futura-sciences.com/tech/definitions/intelligence-artificielle-apprentissage-renforcement-28412/</link>
+            <description><![CDATA[L’apprentissage par renforcement est une technique d’apprentissage des modèles d’intelligence artificielle. Il s’agit d’une branche de ce que l’on appelle le machine learning et qui amène une IA à déf...]]></description>
+            <pubDate>Sat, 04 Apr 2026 06:00:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/tech/definitions/intelligence-artificielle-apprentissage-renforcement-28412/</guid>
+            <source>Futura</source>
+        </item>
+        <item>
+            <title>«Je fais des erreurs, certes, mais avec élégance»: quand ChatGPT débat avec une philosophe</title>
+            <link>https://www.slate.fr/tech-internet/bonnes-feuilles-peine-kapital-monologue-intelligence-artificielle-marie-jose-mondzain-discussion-chatgpt-philosophe-erreurs-debat-verite-ia</link>
+            <description><![CDATA[Dans «Peine Kapital – Monologue avec l'intelligence artificielle», son nouvel essai qui vient de paraître, la philosophe Marie José Mondzain tient une discussion avec le célèbre agent conversationnel...]]></description>
+            <pubDate>Fri, 03 Apr 2026 17:55:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.slate.fr/tech-internet/bonnes-feuilles-peine-kapital-monologue-intelligence-artificielle-marie-jose-mondzain-discussion-chatgpt-philosophe-erreurs-debat-verite-ia</guid>
+            <source>Slate.fr</source>
         </item>
         <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
@@ -29,12 +45,20 @@
             <source>Comprendre l'informatique</source>
         </item>
         <item>
-            <title>webinaire-excel-kobotoolbox-PowerBi</title>
-            <link>https://www.youtube.com/watch?v=niw22vHlUw0</link>
-            <description><![CDATA[Vidéo 2: formation sur la maitrise de collecte et traitement des données avec excel, kobo toolbox et Power BI Orateur: Ingénieur ...]]></description>
-            <pubDate>Thu, 26 Feb 2026 18:07:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=niw22vHlUw0</guid>
-            <source>ECPCI</source>
+            <title>L'intelligence artificielle réduit-elle vraiment la charge mentale ?</title>
+            <link>https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/l-intelligence-artificielle-reduit-elle-vraiment-la-charge-mentale_7883687.html</link>
+            <description><![CDATA[L'utilisation de l'intelligence artificielle est censée nous faire gagner du temps et nous rendre plus productifs au travail. Or une nouvelle étude américaine montre qu'avec certains usages, l'IA prod...]]></description>
+            <pubDate>Sat, 04 Apr 2026 08:00:07 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/l-intelligence-artificielle-reduit-elle-vraiment-la-charge-mentale_7883687.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
+            <title>Comparatif : 6 LLMs locaux face à un exercice Python simple</title>
+            <link>https://linuxfr.org/users/jobpilot/journaux/comparatif-6-llms-locaux-face-a-un-exercice-python-simple</link>
+            <description><![CDATA[Comparatif : 6 LLMs locaux face à un exercice Python simple]]></description>
+            <pubDate>Fri, 03 Apr 2026 14:26:24 -0000</pubDate>
+            <guid isPermaLink="true">https://linuxfr.org/users/jobpilot/journaux/comparatif-6-llms-locaux-face-a-un-exercice-python-simple</guid>
+            <source>Linuxfr.org</source>
         </item>
         <item>
             <title>Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)</title>
@@ -61,36 +85,12 @@
             <source>AntalaSoft School</source>
         </item>
         <item>
-            <title>Actualité : Exoplanètes : une IA de la Nasa en détecte 100 nouvelles et s'attaque au mystère des mondes “évaporés”</title>
-            <link>https://www.lesnumeriques.com/astronomie-conquete-spatiale/exoplanetes-une-ia-de-la-nasa-en-detecte-100-nouvelles-et-s-attaque-au-mystere-des-mondes-evapores-n253815.html</link>
-            <description><![CDATA[Le télescope TESS de la Nasa ne dort jamais, mais ses données cachent des trésors. Grâce à l’intelligence artificielle, des chercheurs ont débusqué 100 nouvelles exoplanètes ignorées par les méthodes ...]]></description>
-            <pubDate>Thu, 02 Apr 2026 06:15:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/astronomie-conquete-spatiale/exoplanetes-une-ia-de-la-nasa-en-detecte-100-nouvelles-et-s-attaque-au-mystere-des-mondes-evapores-n253815.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
-            <title>RAM : Apple chercherait à vider les stocks mondiaux pour étouffer la concurrence</title>
-            <link>https://www.macg.co/aapl/2026/04/ram-apple-chercherait-vider-les-stocks-mondiaux-pour-etouffer-la-concurrence-307839</link>
-            <description><![CDATA[Le marché de la mémoire vive est en pleine surchauffe. Sous l'impulsion d'une intelligence artificielle vorace et de l'expansion frénétique des centres de données, les prix de la DRAM s'envolent inexo...]]></description>
-            <pubDate>Fri, 03 Apr 2026 05:45:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.macg.co/aapl/2026/04/ram-apple-chercherait-vider-les-stocks-mondiaux-pour-etouffer-la-concurrence-307839</guid>
-            <source>MacGeneration</source>
-        </item>
-        <item>
             <title>Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)</title>
             <link>https://www.youtube.com/watch?v=Vm-dZxN70kY</link>
             <description><![CDATA[Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...]]></description>
             <pubDate>Sat, 14 Mar 2026 20:01:02 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Vm-dZxN70kY</guid>
             <source>TechVantage FR</source>
-        </item>
-        <item>
-            <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
-            <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
-            <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
-            <pubDate>Fri, 13 Feb 2026 23:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2i9u_hwq05g</guid>
-            <source>Enogne School</source>
         </item>
         <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
@@ -109,6 +109,14 @@
             <source>Centre de formation Noormed</source>
         </item>
         <item>
+            <title>Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/4</title>
+            <link>https://www.youtube.com/watch?v=dlH4Xfn7dGA</link>
+            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
+            <pubDate>Thu, 19 Feb 2026 17:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=dlH4Xfn7dGA</guid>
+            <source>Morpheus Formation | Excel, Sheets, Power BI</source>
+        </item>
+        <item>
             <title>Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)</title>
             <link>https://www.youtube.com/watch?v=xkJdg9zXGEI</link>
             <description><![CDATA[Vous voulez aller plus loin et apprendre SQL ? Découvrez mon cours SQL ...]]></description>
@@ -117,20 +125,20 @@
             <source>Comment Coder</source>
         </item>
         <item>
-            <title>TCL dévoile sa gamme NXTVision QD-Mini LED 2026 : quand le téléviseur devient œuvre d’art</title>
-            <link>https://www.frandroid.com/marques/tcl/3051595_tcl-devoile-sa-gamme-nxtvision-qd-mini-led-2026-quand-le-televiseur-devient-oeuvre-dart</link>
-            <description><![CDATA[TCL Electronics a officialisé en France trois nouveaux téléviseurs de la collection NXTVision, alliant technologie QD-Mini LED et design inspiré du mobilier d'intérieur. Une gamme qui s'attaque fronta...]]></description>
-            <pubDate>Fri, 03 Apr 2026 07:58:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/marques/tcl/3051595_tcl-devoile-sa-gamme-nxtvision-qd-mini-led-2026-quand-le-televiseur-devient-oeuvre-dart</guid>
-            <source>Frandroid</source>
+            <title>Ce que les frappes iraniennes sur des centres de données Amazon changent — ou non — à la conduite de la guerre</title>
+            <link>https://theconversation.com/ce-que-les-frappes-iraniennes-sur-des-centres-de-donnees-amazon-changent-ou-non-a-la-conduite-de-la-guerre-279867</link>
+            <description><![CDATA[Les centres de données commerciaux sont devenus des infrastructures cruciales et sont donc désormais ciblés en temps de guerre.]]></description>
+            <pubDate>Sat, 04 Apr 2026 08:00:36 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/ce-que-les-frappes-iraniennes-sur-des-centres-de-donnees-amazon-changent-ou-non-a-la-conduite-de-la-guerre-279867</guid>
+            <source>The Conversation Africa</source>
         </item>
         <item>
-            <title>« Aucun des deux ne marche » : en pleine mission vers la Lune, les astronautes d’Artémis 2 ont subi… un bug d’Outlook</title>
-            <link>https://www.numerama.com/tech/2225773-aucun-des-deux-ne-marche-en-pleine-mission-vers-la-lune-les-astronautes-dartemis-2-ont-subi-un-bug-doutlook.html</link>
-            <description><![CDATA[L'épique mission Artémis II qui se dirige vers la Lune a été rattrapée par la trivialité d'un bug informatique : selon le commandant Reid Wiseman, le logiciel de messagerie Outlook n'a pas bien foncti...]]></description>
-            <pubDate>Fri, 03 Apr 2026 08:47:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/tech/2225773-aucun-des-deux-ne-marche-en-pleine-mission-vers-la-lune-les-astronautes-dartemis-2-ont-subi-un-bug-doutlook.html</guid>
-            <source>Numerama</source>
+            <title>Pourquoi l'Iran cible les centres de données Amazon - et ce que cela change dans la guerre</title>
+            <link>https://theconversation.com/pourquoi-liran-cible-les-centres-de-donnees-amazon-et-ce-que-cela-change-dans-la-guerre-279867</link>
+            <description><![CDATA[Les centres de données commerciaux sont devenus des infrastructures cruciales - et comme toute infrastructure essentielle, ils sont  ciblés en temps de guerre.]]></description>
+            <pubDate>Sat, 04 Apr 2026 08:00:36 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/pourquoi-liran-cible-les-centres-de-donnees-amazon-et-ce-que-cela-change-dans-la-guerre-279867</guid>
+            <source>The Conversation Africa</source>
         </item>
         <item>
             <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
@@ -157,20 +165,12 @@
             <source>CodeAvecLionel</source>
         </item>
         <item>
-            <title>Décollage parfait pour Artémis II… Mais à bord, les astronautes ont eu un petit problème de toilettes</title>
-            <link>https://www.numerama.com/sciences/2224709-decollage-parfait-pour-artemis-ii-mais-a-bord-les-astronautes-ont-eu-un-petit-probleme-de-toilettes.html</link>
-            <description><![CDATA[Le décollage d'Artémis II a pu se dérouler sans encombre dans la nuit du 1er au 2 avril 2026. En revanche, l'ambiance était un peu moins à la fête du côté du vaisseau Orion, dans lequel les quatre ast...]]></description>
-            <pubDate>Thu, 02 Apr 2026 08:35:35 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/sciences/2224709-decollage-parfait-pour-artemis-ii-mais-a-bord-les-astronautes-ont-eu-un-petit-probleme-de-toilettes.html</guid>
-            <source>Numerama</source>
-        </item>
-        <item>
-            <title>Impact Analytics annonce un partenariat stratégique avec AllSaints</title>
-            <link>https://www.globenewswire.com/news-release/2026/04/03/3267943/0/fr/Impact-Analytics-annonce-un-partenariat-strat%C3%A9gique-avec-AllSaints.html</link>
-            <description><![CDATA[La célèbre marque de mode londonienne va moderniser ses processus d’achat et de merchandising grâce à une plateforme native IA de bout en bout couvrant la chaîne d’approvisionnement, la planification,...]]></description>
-            <pubDate>Fri, 03 Apr 2026 06:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/04/03/3267943/0/fr/Impact-Analytics-annonce-un-partenariat-strat%C3%A9gique-avec-AllSaints.html</guid>
-            <source>GlobeNewswire</source>
+            <title>Un porte-conteneur du groupe français CMA CGM et un navire japonais ont réussi à traverser le détroit d'Ormuz</title>
+            <link>https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/un-porte-conteneur-du-groupe-francais-cma-cgm-et-un-navire-japonais-ont-reussi-a-traverser-le-detroit-d-ormuz_7913879.html</link>
+            <description><![CDATA[Le Kribi, porte-conteneur sous pavillon maltais du groupe français de transport maritime CMA CGM, est passé au nord de l'île de Larak, proche des côtes iraniennes, selon les données de MarineTraffic, ...]]></description>
+            <pubDate>Fri, 03 Apr 2026 20:13:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/un-porte-conteneur-du-groupe-francais-cma-cgm-et-un-navire-japonais-ont-reussi-a-traverser-le-detroit-d-ormuz_7913879.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
     </channel>
 </rss>

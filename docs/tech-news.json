@@ -1,12 +1,36 @@
 {
-  "lastUpdate": "2026-04-04T08:49:02.808584",
+  "lastUpdate": "2026-04-05T08:51:47.988432",
   "articles": [
     {
-      "title": "Voici ce que font réellement les salariés sur ChatGPT au bureau",
-      "description": "Une étude d'envergure lève enfin le voile sur l'utilisation réelle de l'IA en entreprise. Entre la rédaction de mails et l'aide à la décision, voici comment cet outil transforme concrètement le quotid...",
-      "url": "https://www.zdnet.fr/actualites/voici-ce-que-font-reellement-les-salaries-sur-chatgpt-au-bureau-493086.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-04-03T02:04:08Z",
+      "title": "iOS 26.4 : Apple intègre enfin ChatGPT à CarPlay, mais avec un gros défaut",
+      "description": "L'intelligence artificielle s'invite enfin au volant, mais Apple et Google empruntent des routes radicalement différentes. La mise à jour iOS 26.4 intègre un ChatGPT sous haute surveillance à CarPlay....",
+      "url": "https://www.frandroid.com/marques/apple/3052239_ios-26-4-apple-integre-enfin-chatgpt-a-carplay-mais-avec-un-gros-defaut",
+      "source": "Frandroid",
+      "publishedAt": "2026-04-03T10:20:16Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apprentissage par renforcement",
+      "description": "L’apprentissage par renforcement est une technique d’apprentissage des modèles d’intelligence artificielle. Il s’agit d’une branche de ce que l’on appelle le machine learning et qui amène une IA à déf...",
+      "url": "https://www.futura-sciences.com/tech/definitions/intelligence-artificielle-apprentissage-renforcement-28412/",
+      "source": "Futura",
+      "publishedAt": "2026-04-04T06:00:05Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "«Je fais des erreurs, certes, mais avec élégance»: quand ChatGPT débat avec une philosophe",
+      "description": "Dans «Peine Kapital – Monologue avec l'intelligence artificielle», son nouvel essai qui vient de paraître, la philosophe Marie José Mondzain tient une discussion avec le célèbre agent conversationnel...",
+      "url": "https://www.slate.fr/tech-internet/bonnes-feuilles-peine-kapital-monologue-intelligence-artificielle-marie-jose-mondzain-discussion-chatgpt-philosophe-erreurs-debat-verite-ia",
+      "source": "Slate.fr",
+      "publishedAt": "2026-04-03T17:55:02Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -26,16 +50,28 @@
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
     },
     {
-      "title": "webinaire-excel-kobotoolbox-PowerBi",
-      "description": "Vidéo 2: formation sur la maitrise de collecte et traitement des données avec excel, kobo toolbox et Power BI Orateur: Ingénieur ...",
-      "url": "https://www.youtube.com/watch?v=niw22vHlUw0",
-      "source": "ECPCI",
-      "publishedAt": "2026-02-26T18:07:51Z",
+      "title": "L'intelligence artificielle réduit-elle vraiment la charge mentale ?",
+      "description": "L'utilisation de l'intelligence artificielle est censée nous faire gagner du temps et nous rendre plus productifs au travail. Or une nouvelle étude américaine montre qu'avec certains usages, l'IA prod...",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/l-intelligence-artificielle-reduit-elle-vraiment-la-charge-mentale_7883687.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-04-04T08:00:07Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "niw22vHlUw0",
-      "thumbnail": "https://i.ytimg.com/vi/niw22vHlUw0/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comparatif : 6 LLMs locaux face à un exercice Python simple",
+      "description": "Comparatif : 6 LLMs locaux face à un exercice Python simple",
+      "url": "https://linuxfr.org/users/jobpilot/journaux/comparatif-6-llms-locaux-face-a-un-exercice-python-simple",
+      "source": "Linuxfr.org",
+      "publishedAt": "2026-04-03T14:26:24Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)",
@@ -74,30 +110,6 @@
       "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
     },
     {
-      "title": "Actualité : Exoplanètes : une IA de la Nasa en détecte 100 nouvelles et s'attaque au mystère des mondes “évaporés”",
-      "description": "Le télescope TESS de la Nasa ne dort jamais, mais ses données cachent des trésors. Grâce à l’intelligence artificielle, des chercheurs ont débusqué 100 nouvelles exoplanètes ignorées par les méthodes ...",
-      "url": "https://www.lesnumeriques.com/astronomie-conquete-spatiale/exoplanetes-une-ia-de-la-nasa-en-detecte-100-nouvelles-et-s-attaque-au-mystere-des-mondes-evapores-n253815.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-04-02T06:15:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "RAM : Apple chercherait à vider les stocks mondiaux pour étouffer la concurrence",
-      "description": "Le marché de la mémoire vive est en pleine surchauffe. Sous l'impulsion d'une intelligence artificielle vorace et de l'expansion frénétique des centres de données, les prix de la DRAM s'envolent inexo...",
-      "url": "https://www.macg.co/aapl/2026/04/ram-apple-chercherait-vider-les-stocks-mondiaux-pour-etouffer-la-concurrence-307839",
-      "source": "MacGeneration",
-      "publishedAt": "2026-04-03T05:45:13Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)",
       "description": "Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...",
       "url": "https://www.youtube.com/watch?v=Vm-dZxN70kY",
@@ -108,18 +120,6 @@
       "isYouTube": true,
       "videoId": "Vm-dZxN70kY",
       "thumbnail": "https://i.ytimg.com/vi/Vm-dZxN70kY/hqdefault.jpg"
-    },
-    {
-      "title": "Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine",
-      "description": "Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...",
-      "url": "https://www.youtube.com/watch?v=2i9u_hwq05g",
-      "source": "Enogne School",
-      "publishedAt": "2026-02-13T23:00:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "2i9u_hwq05g",
-      "thumbnail": "https://i.ytimg.com/vi/2i9u_hwq05g/hqdefault.jpg"
     },
     {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
@@ -146,6 +146,18 @@
       "thumbnail": "https://i.ytimg.com/vi/kWWxN73GuUI/hqdefault.jpg"
     },
     {
+      "title": "Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/4",
+      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
+      "url": "https://www.youtube.com/watch?v=dlH4Xfn7dGA",
+      "source": "Morpheus Formation | Excel, Sheets, Power BI",
+      "publishedAt": "2026-02-19T17:00:00Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "dlH4Xfn7dGA",
+      "thumbnail": "https://i.ytimg.com/vi/dlH4Xfn7dGA/hqdefault.jpg"
+    },
+    {
       "title": "Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)",
       "description": "Vous voulez aller plus loin et apprendre SQL ? Découvrez mon cours SQL ...",
       "url": "https://www.youtube.com/watch?v=xkJdg9zXGEI",
@@ -158,11 +170,11 @@
       "thumbnail": "https://i.ytimg.com/vi/xkJdg9zXGEI/hqdefault.jpg"
     },
     {
-      "title": "TCL dévoile sa gamme NXTVision QD-Mini LED 2026 : quand le téléviseur devient œuvre d’art",
-      "description": "TCL Electronics a officialisé en France trois nouveaux téléviseurs de la collection NXTVision, alliant technologie QD-Mini LED et design inspiré du mobilier d'intérieur. Une gamme qui s'attaque fronta...",
-      "url": "https://www.frandroid.com/marques/tcl/3051595_tcl-devoile-sa-gamme-nxtvision-qd-mini-led-2026-quand-le-televiseur-devient-oeuvre-dart",
-      "source": "Frandroid",
-      "publishedAt": "2026-04-03T07:58:38Z",
+      "title": "Ce que les frappes iraniennes sur des centres de données Amazon changent — ou non — à la conduite de la guerre",
+      "description": "Les centres de données commerciaux sont devenus des infrastructures cruciales et sont donc désormais ciblés en temps de guerre.",
+      "url": "https://theconversation.com/ce-que-les-frappes-iraniennes-sur-des-centres-de-donnees-amazon-changent-ou-non-a-la-conduite-de-la-guerre-279867",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-04-04T08:00:36Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -170,11 +182,11 @@
       "thumbnail": ""
     },
     {
-      "title": "« Aucun des deux ne marche » : en pleine mission vers la Lune, les astronautes d’Artémis 2 ont subi… un bug d’Outlook",
-      "description": "L'épique mission Artémis II qui se dirige vers la Lune a été rattrapée par la trivialité d'un bug informatique : selon le commandant Reid Wiseman, le logiciel de messagerie Outlook n'a pas bien foncti...",
-      "url": "https://www.numerama.com/tech/2225773-aucun-des-deux-ne-marche-en-pleine-mission-vers-la-lune-les-astronautes-dartemis-2-ont-subi-un-bug-doutlook.html",
-      "source": "Numerama",
-      "publishedAt": "2026-04-03T08:47:40Z",
+      "title": "Pourquoi l'Iran cible les centres de données Amazon - et ce que cela change dans la guerre",
+      "description": "Les centres de données commerciaux sont devenus des infrastructures cruciales - et comme toute infrastructure essentielle, ils sont  ciblés en temps de guerre.",
+      "url": "https://theconversation.com/pourquoi-liran-cible-les-centres-de-donnees-amazon-et-ce-que-cela-change-dans-la-guerre-279867",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-04-04T08:00:36Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,23 +230,11 @@
       "thumbnail": "https://i.ytimg.com/vi/SCKEMpv7Ld4/hqdefault.jpg"
     },
     {
-      "title": "Décollage parfait pour Artémis II… Mais à bord, les astronautes ont eu un petit problème de toilettes",
-      "description": "Le décollage d'Artémis II a pu se dérouler sans encombre dans la nuit du 1er au 2 avril 2026. En revanche, l'ambiance était un peu moins à la fête du côté du vaisseau Orion, dans lequel les quatre ast...",
-      "url": "https://www.numerama.com/sciences/2224709-decollage-parfait-pour-artemis-ii-mais-a-bord-les-astronautes-ont-eu-un-petit-probleme-de-toilettes.html",
-      "source": "Numerama",
-      "publishedAt": "2026-04-02T08:35:35Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Impact Analytics annonce un partenariat stratégique avec AllSaints",
-      "description": "La célèbre marque de mode londonienne va moderniser ses processus d’achat et de merchandising grâce à une plateforme native IA de bout en bout couvrant la chaîne d’approvisionnement, la planification,...",
-      "url": "https://www.globenewswire.com/news-release/2026/04/03/3267943/0/fr/Impact-Analytics-annonce-un-partenariat-strat%C3%A9gique-avec-AllSaints.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-04-03T06:00:00Z",
+      "title": "Un porte-conteneur du groupe français CMA CGM et un navire japonais ont réussi à traverser le détroit d'Ormuz",
+      "description": "Le Kribi, porte-conteneur sous pavillon maltais du groupe français de transport maritime CMA CGM, est passé au nord de l'île de Larak, proche des côtes iraniennes, selon les données de MarineTraffic, ...",
+      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/un-porte-conteneur-du-groupe-francais-cma-cgm-et-un-navire-japonais-ont-reussi-a-traverser-le-detroit-d-ormuz_7913879.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-04-03T20:13:03Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": "https://i.ytimg.com/vi/EQ15g3OhzPs/hqdefault.jpg"
     },
     {
-      "title": "Les IA mentent pour protéger les autres IA",
-      "description": "Des chercheurs de Berkeley viennent de publier une étude qui fait un peu froid dans le dos. Les sept principaux modèles d'IA testés, dont GPT 5.2, Gemini 3 et Claude, ont été surpris à mentir, tricher...",
-      "url": "https://korben.info/les-ia-mentent-pour-proteger-les-autres-ia.html",
-      "source": "Korben.info",
-      "publishedAt": "2026-04-03T08:24:00Z",
+      "title": "Avant d’utiliser une IA, se poser les bonnes questions peut vraiment changer votre impact écologique au quotidien",
+      "description": "L’intelligence artificielle semble légère, presque abstraite, alors qu’elle repose sur des machines très concrètes, gourmandes en énergie et en refroidissement. Avant d’adopter un assistant, un généra...",
+      "url": "https://dailygeekshow.com/?p=1006091",
+      "source": "Daily Geek Show",
+      "publishedAt": "2026-04-03T18:31:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "L’UE bannit les contenus IA, Donald Trump en fait un levier politique",
-      "description": "Face à la montée des deepfakes, les institutions européennes optent pour une ligne stricte en interdisant les images et vidéos générées par intelligence artificielle. Une stratégie à contre-courant de...",
-      "url": "https://www.zdnet.fr/actualites/lue-bannit-les-contenus-ia-donald-trump-en-fait-un-levier-politique-493056.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-04-03T06:23:21Z",
+      "title": "Décès de Chuck Norris : l’IA ravage la famille de l’acteur",
+      "description": "La famille a publié un communiqué sur Instagram, deux semaines après la mort de l’acteur. Icône d’Internet, Chuck Norris en a payé les frais ces derniers jours, à cause de multiples publications génér...",
+      "url": "https://www.presse-citron.net/deces-de-chuck-norris-lia-ravage-la-famille-de-lacteur/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-04-03T17:00:39Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Robotaxis : Pony AI atteint l’équilibre et s’étend",
-      "description": "Pony AI devient rentable et accélère le déploiement de robotaxis dans 20 villes, malgré une concurrence mondiale intense. Le spécialiste de la conduite autonome Pony [...]\nL’article Robotaxis : Pony A...",
-      "url": "https://www.leblogauto.com/actualites/robotaxis-pony-ai-atteint-lequilibre-et-setend/",
-      "source": "Leblogauto.com",
-      "publishedAt": "2026-04-03T06:17:00Z",
+      "title": "On a testé Perplexity Computer : c'est révolutionnaire, mais ça coute cher",
+      "description": "Perplexity Computer promet de transformer votre PC en assistant intelligent, qui se charge de tout votre travail à votre place. Pour voir ce dont l'IA est vraiment capable, nous avons voulu créer une ...",
+      "url": "https://www.01net.com/tests/test-perplexity-computer-revolutionnaire-mais-coute-cher.html",
+      "source": "01net.com",
+      "publishedAt": "2026-04-04T08:03:27Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
