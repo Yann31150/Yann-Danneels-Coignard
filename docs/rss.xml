@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 05 Apr 2026 08:51:47 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 09:14:47 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>iOS 26.4 : Apple intègre enfin ChatGPT à CarPlay, mais avec un gros défaut</title>
-            <link>https://www.frandroid.com/marques/apple/3052239_ios-26-4-apple-integre-enfin-chatgpt-a-carplay-mais-avec-un-gros-defaut</link>
-            <description><![CDATA[L'intelligence artificielle s'invite enfin au volant, mais Apple et Google empruntent des routes radicalement différentes. La mise à jour iOS 26.4 intègre un ChatGPT sous haute surveillance à CarPlay....]]></description>
-            <pubDate>Fri, 03 Apr 2026 10:20:16 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/marques/apple/3052239_ios-26-4-apple-integre-enfin-chatgpt-a-carplay-mais-avec-un-gros-defaut</guid>
-            <source>Frandroid</source>
-        </item>
         <item>
             <title>Apprentissage par renforcement</title>
             <link>https://www.futura-sciences.com/tech/definitions/intelligence-artificielle-apprentissage-renforcement-28412/</link>
@@ -29,12 +21,12 @@
             <source>Futura</source>
         </item>
         <item>
-            <title>«Je fais des erreurs, certes, mais avec élégance»: quand ChatGPT débat avec une philosophe</title>
-            <link>https://www.slate.fr/tech-internet/bonnes-feuilles-peine-kapital-monologue-intelligence-artificielle-marie-jose-mondzain-discussion-chatgpt-philosophe-erreurs-debat-verite-ia</link>
-            <description><![CDATA[Dans «Peine Kapital – Monologue avec l'intelligence artificielle», son nouvel essai qui vient de paraître, la philosophe Marie José Mondzain tient une discussion avec le célèbre agent conversationnel...]]></description>
-            <pubDate>Fri, 03 Apr 2026 17:55:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.slate.fr/tech-internet/bonnes-feuilles-peine-kapital-monologue-intelligence-artificielle-marie-jose-mondzain-discussion-chatgpt-philosophe-erreurs-debat-verite-ia</guid>
-            <source>Slate.fr</source>
+            <title>"Sam tente de saper notre position" : Pourquoi Sam Altman et Dario Amodei, patrons de ChatGPT et de Claude, se déchirent pour l’IA</title>
+            <link>https://www.lalibre.be/economie/entreprises-startup/2026/04/05/sam-tente-de-saper-notre-position-pourquoi-sam-altman-et-dario-amodei-patrons-de-chatgpt-et-de-claude-se-dechirent-pour-lia-4YFSVZIJS5EOFFI36P7Q3EOGLE/</link>
+            <description><![CDATA[L’animosité entre les deux PDG de la Silicon Valley agite le secteur de l’intelligence artificielle depuis plusieurs années. Refus de se tenir la main, tacles dans le dos… une friction de niveau cour ...]]></description>
+            <pubDate>Sun, 05 Apr 2026 07:30:56 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lalibre.be/economie/entreprises-startup/2026/04/05/sam-tente-de-saper-notre-position-pourquoi-sam-altman-et-dario-amodei-patrons-de-chatgpt-et-de-claude-se-dechirent-pour-lia-4YFSVZIJS5EOFFI36P7Q3EOGLE/</guid>
+            <source>Lalibre.be</source>
         </item>
         <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
@@ -45,20 +37,20 @@
             <source>Comprendre l'informatique</source>
         </item>
         <item>
+            <title>Apfel - Le LLM caché de votre Mac enfin libéré</title>
+            <link>https://korben.info/apfel-ia-mac-apple-silicon.html</link>
+            <description><![CDATA[J'sais pas si vous saviez mais Apple a planqué un LLM dans votre Mac et ne veut pas que vous y touchiez... enfin, pas directement. En effet, leur modèle est là, intégré au système via le framework Fou...]]></description>
+            <pubDate>Sun, 05 Apr 2026 07:24:06 -0000</pubDate>
+            <guid isPermaLink="true">https://korben.info/apfel-ia-mac-apple-silicon.html</guid>
+            <source>Korben.info</source>
+        </item>
+        <item>
             <title>L'intelligence artificielle réduit-elle vraiment la charge mentale ?</title>
             <link>https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/l-intelligence-artificielle-reduit-elle-vraiment-la-charge-mentale_7883687.html</link>
             <description><![CDATA[L'utilisation de l'intelligence artificielle est censée nous faire gagner du temps et nous rendre plus productifs au travail. Or une nouvelle étude américaine montre qu'avec certains usages, l'IA prod...]]></description>
             <pubDate>Sat, 04 Apr 2026 08:00:07 -0000</pubDate>
             <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/l-intelligence-artificielle-reduit-elle-vraiment-la-charge-mentale_7883687.html</guid>
             <source>Franceinfo.fr</source>
-        </item>
-        <item>
-            <title>Comparatif : 6 LLMs locaux face à un exercice Python simple</title>
-            <link>https://linuxfr.org/users/jobpilot/journaux/comparatif-6-llms-locaux-face-a-un-exercice-python-simple</link>
-            <description><![CDATA[Comparatif : 6 LLMs locaux face à un exercice Python simple]]></description>
-            <pubDate>Fri, 03 Apr 2026 14:26:24 -0000</pubDate>
-            <guid isPermaLink="true">https://linuxfr.org/users/jobpilot/journaux/comparatif-6-llms-locaux-face-a-un-exercice-python-simple</guid>
-            <source>Linuxfr.org</source>
         </item>
         <item>
             <title>Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)</title>
@@ -93,20 +85,20 @@
             <source>TechVantage FR</source>
         </item>
         <item>
+            <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
+            <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
+            <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
+            <pubDate>Fri, 13 Feb 2026 23:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=2i9u_hwq05g</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
             <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
             <link>https://www.youtube.com/watch?v=Dgm74TZPSkA</link>
             <description><![CDATA[Si vous passez encore vos journées à copier-coller des données dans Excel, cette vidéo va changer votre carrière. Power BI ...]]></description>
             <pubDate>Mon, 09 Feb 2026 05:36:43 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Dgm74TZPSkA</guid>
             <source>EasyExcelQuery</source>
-        </item>
-        <item>
-            <title>Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀</title>
-            <link>https://www.youtube.com/watch?v=kWWxN73GuUI</link>
-            <description><![CDATA[Bienvenue dans ce premier module de notre formation complète dédiée à la certification PL-300 : Microsoft Power BI Data Analyst ...]]></description>
-            <pubDate>Wed, 18 Feb 2026 12:59:31 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=kWWxN73GuUI</guid>
-            <source>Centre de formation Noormed</source>
         </item>
         <item>
             <title>Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/4</title>
@@ -125,20 +117,12 @@
             <source>Comment Coder</source>
         </item>
         <item>
-            <title>Ce que les frappes iraniennes sur des centres de données Amazon changent — ou non — à la conduite de la guerre</title>
-            <link>https://theconversation.com/ce-que-les-frappes-iraniennes-sur-des-centres-de-donnees-amazon-changent-ou-non-a-la-conduite-de-la-guerre-279867</link>
-            <description><![CDATA[Les centres de données commerciaux sont devenus des infrastructures cruciales et sont donc désormais ciblés en temps de guerre.]]></description>
-            <pubDate>Sat, 04 Apr 2026 08:00:36 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/ce-que-les-frappes-iraniennes-sur-des-centres-de-donnees-amazon-changent-ou-non-a-la-conduite-de-la-guerre-279867</guid>
-            <source>The Conversation Africa</source>
-        </item>
-        <item>
-            <title>Pourquoi l'Iran cible les centres de données Amazon - et ce que cela change dans la guerre</title>
-            <link>https://theconversation.com/pourquoi-liran-cible-les-centres-de-donnees-amazon-et-ce-que-cela-change-dans-la-guerre-279867</link>
-            <description><![CDATA[Les centres de données commerciaux sont devenus des infrastructures cruciales - et comme toute infrastructure essentielle, ils sont  ciblés en temps de guerre.]]></description>
-            <pubDate>Sat, 04 Apr 2026 08:00:36 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/pourquoi-liran-cible-les-centres-de-donnees-amazon-et-ce-que-cela-change-dans-la-guerre-279867</guid>
-            <source>The Conversation Africa</source>
+            <title>« Faire en deux jours ce qui en prenait deux mois » : comment l'IA de Newtone booste la visibilité de Sandro, Kiabi... sur Google</title>
+            <link>https://www.challenges.fr/entreprise/start-up/faire-en-deux-jours-ce-qui-en-prenait-deux-mois-comment-lia-de-newtone-booste-la-visibilite-de-sandro-kiabi-sur-google_642344</link>
+            <description><![CDATA[La startup de Nanterre propose aux marques de retail un référencement optimisé sur les moteurs de recherche grâce à des contenus rédigés par l’IA correspondant à leur ton et leurs valeurs. Cette start...]]></description>
+            <pubDate>Sun, 05 Apr 2026 05:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.challenges.fr/entreprise/start-up/faire-en-deux-jours-ce-qui-en-prenait-deux-mois-comment-lia-de-newtone-booste-la-visibilite-de-sandro-kiabi-sur-google_642344</guid>
+            <source>Challenges</source>
         </item>
         <item>
             <title>Data Cleaning avec Python et Pandas : Le Guide Complet (1h de cours)</title>
@@ -165,12 +149,28 @@
             <source>CodeAvecLionel</source>
         </item>
         <item>
-            <title>Un porte-conteneur du groupe français CMA CGM et un navire japonais ont réussi à traverser le détroit d'Ormuz</title>
-            <link>https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/un-porte-conteneur-du-groupe-francais-cma-cgm-et-un-navire-japonais-ont-reussi-a-traverser-le-detroit-d-ormuz_7913879.html</link>
-            <description><![CDATA[Le Kribi, porte-conteneur sous pavillon maltais du groupe français de transport maritime CMA CGM, est passé au nord de l'île de Larak, proche des côtes iraniennes, selon les données de MarineTraffic, ...]]></description>
-            <pubDate>Fri, 03 Apr 2026 20:13:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/un-porte-conteneur-du-groupe-francais-cma-cgm-et-un-navire-japonais-ont-reussi-a-traverser-le-detroit-d-ormuz_7913879.html</guid>
-            <source>Franceinfo.fr</source>
+            <title>Les adolescentes, plus insatisfaites de leur corps que les garçons : ce que révèle une étude sur 300 000 données</title>
+            <link>https://theconversation.com/les-adolescentes-plus-insatisfaites-de-leur-corps-que-les-garcons-ce-que-revele-une-etude-sur-300-000-donnees-279570</link>
+            <description><![CDATA[La reconnaissance de l’égalité des genres ne suffit pas à contrer les stéréotypes associant les filles à leur apparence physique plutôt qu’à leurs compétences.]]></description>
+            <pubDate>Sun, 05 Apr 2026 08:13:02 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/les-adolescentes-plus-insatisfaites-de-leur-corps-que-les-garcons-ce-que-revele-une-etude-sur-300-000-donnees-279570</guid>
+            <source>The Conversation Africa</source>
+        </item>
+        <item>
+            <title>Robotique mobile : l'autonomie réelle commence (enfin) avec l'IA embarquée</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1549201-robotique-mobile-l-autonomie-reelle-commence-enfin-avec-l-ia-embarquee/</link>
+            <description><![CDATA[Après l'ère du robot programmé, nous entrons dans celle du robot qui comprend. Et cette révolution est d'abord celle des logiciels d'IA embarquée.]]></description>
+            <pubDate>Sat, 04 Apr 2026 08:52:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1549201-robotique-mobile-l-autonomie-reelle-commence-enfin-avec-l-ia-embarquee/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
+            <title>Elle transforme la finance grâce à la Data Science – Natacha Njongwa Yepnga</title>
+            <link>https://www.youtube.com/watch?v=ZNQg77H-K1k</link>
+            <description><![CDATA[Découverte et partage d'expérience avec Natacha NJONGWA YEPNGA. LINKEDIN DE Natacha ...]]></description>
+            <pubDate>Fri, 20 Mar 2026 21:00:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ZNQg77H-K1k</guid>
+            <source>Enogne School</source>
         </item>
     </channel>
 </rss>

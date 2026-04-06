@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-04-05T08:51:47.988432",
+  "lastUpdate": "2026-04-06T09:14:47.566893",
   "articles": [
-    {
-      "title": "iOS 26.4 : Apple intègre enfin ChatGPT à CarPlay, mais avec un gros défaut",
-      "description": "L'intelligence artificielle s'invite enfin au volant, mais Apple et Google empruntent des routes radicalement différentes. La mise à jour iOS 26.4 intègre un ChatGPT sous haute surveillance à CarPlay....",
-      "url": "https://www.frandroid.com/marques/apple/3052239_ios-26-4-apple-integre-enfin-chatgpt-a-carplay-mais-avec-un-gros-defaut",
-      "source": "Frandroid",
-      "publishedAt": "2026-04-03T10:20:16Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "Apprentissage par renforcement",
       "description": "L’apprentissage par renforcement est une technique d’apprentissage des modèles d’intelligence artificielle. Il s’agit d’une branche de ce que l’on appelle le machine learning et qui amène une IA à déf...",
@@ -26,11 +14,11 @@
       "thumbnail": ""
     },
     {
-      "title": "«Je fais des erreurs, certes, mais avec élégance»: quand ChatGPT débat avec une philosophe",
-      "description": "Dans «Peine Kapital – Monologue avec l'intelligence artificielle», son nouvel essai qui vient de paraître, la philosophe Marie José Mondzain tient une discussion avec le célèbre agent conversationnel...",
-      "url": "https://www.slate.fr/tech-internet/bonnes-feuilles-peine-kapital-monologue-intelligence-artificielle-marie-jose-mondzain-discussion-chatgpt-philosophe-erreurs-debat-verite-ia",
-      "source": "Slate.fr",
-      "publishedAt": "2026-04-03T17:55:02Z",
+      "title": "\"Sam tente de saper notre position\" : Pourquoi Sam Altman et Dario Amodei, patrons de ChatGPT et de Claude, se déchirent pour l’IA",
+      "description": "L’animosité entre les deux PDG de la Silicon Valley agite le secteur de l’intelligence artificielle depuis plusieurs années. Refus de se tenir la main, tacles dans le dos… une friction de niveau cour ...",
+      "url": "https://www.lalibre.be/economie/entreprises-startup/2026/04/05/sam-tente-de-saper-notre-position-pourquoi-sam-altman-et-dario-amodei-patrons-de-chatgpt-et-de-claude-se-dechirent-pour-lia-4YFSVZIJS5EOFFI36P7Q3EOGLE/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-04-05T07:30:56Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -50,11 +38,11 @@
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
     },
     {
-      "title": "L'intelligence artificielle réduit-elle vraiment la charge mentale ?",
-      "description": "L'utilisation de l'intelligence artificielle est censée nous faire gagner du temps et nous rendre plus productifs au travail. Or une nouvelle étude américaine montre qu'avec certains usages, l'IA prod...",
-      "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/l-intelligence-artificielle-reduit-elle-vraiment-la-charge-mentale_7883687.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-04-04T08:00:07Z",
+      "title": "Apfel - Le LLM caché de votre Mac enfin libéré",
+      "description": "J'sais pas si vous saviez mais Apple a planqué un LLM dans votre Mac et ne veut pas que vous y touchiez... enfin, pas directement. En effet, leur modèle est là, intégré au système via le framework Fou...",
+      "url": "https://korben.info/apfel-ia-mac-apple-silicon.html",
+      "source": "Korben.info",
+      "publishedAt": "2026-04-05T07:24:06Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -62,11 +50,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Comparatif : 6 LLMs locaux face à un exercice Python simple",
-      "description": "Comparatif : 6 LLMs locaux face à un exercice Python simple",
-      "url": "https://linuxfr.org/users/jobpilot/journaux/comparatif-6-llms-locaux-face-a-un-exercice-python-simple",
-      "source": "Linuxfr.org",
-      "publishedAt": "2026-04-03T14:26:24Z",
+      "title": "L'intelligence artificielle réduit-elle vraiment la charge mentale ?",
+      "description": "L'utilisation de l'intelligence artificielle est censée nous faire gagner du temps et nous rendre plus productifs au travail. Or une nouvelle étude américaine montre qu'avec certains usages, l'IA prod...",
+      "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/l-intelligence-artificielle-reduit-elle-vraiment-la-charge-mentale_7883687.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-04-04T08:00:07Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -122,6 +110,18 @@
       "thumbnail": "https://i.ytimg.com/vi/Vm-dZxN70kY/hqdefault.jpg"
     },
     {
+      "title": "Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine",
+      "description": "Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...",
+      "url": "https://www.youtube.com/watch?v=2i9u_hwq05g",
+      "source": "Enogne School",
+      "publishedAt": "2026-02-13T23:00:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "2i9u_hwq05g",
+      "thumbnail": "https://i.ytimg.com/vi/2i9u_hwq05g/hqdefault.jpg"
+    },
+    {
       "title": "Arrêtez d&#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)",
       "description": "Si vous passez encore vos journées à copier-coller des données dans Excel, cette vidéo va changer votre carrière. Power BI ...",
       "url": "https://www.youtube.com/watch?v=Dgm74TZPSkA",
@@ -132,18 +132,6 @@
       "isYouTube": true,
       "videoId": "Dgm74TZPSkA",
       "thumbnail": "https://i.ytimg.com/vi/Dgm74TZPSkA/hqdefault.jpg"
-    },
-    {
-      "title": "Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀",
-      "description": "Bienvenue dans ce premier module de notre formation complète dédiée à la certification PL-300 : Microsoft Power BI Data Analyst ...",
-      "url": "https://www.youtube.com/watch?v=kWWxN73GuUI",
-      "source": "Centre de formation Noormed",
-      "publishedAt": "2026-02-18T12:59:31Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "kWWxN73GuUI",
-      "thumbnail": "https://i.ytimg.com/vi/kWWxN73GuUI/hqdefault.jpg"
     },
     {
       "title": "Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/4",
@@ -170,23 +158,11 @@
       "thumbnail": "https://i.ytimg.com/vi/xkJdg9zXGEI/hqdefault.jpg"
     },
     {
-      "title": "Ce que les frappes iraniennes sur des centres de données Amazon changent — ou non — à la conduite de la guerre",
-      "description": "Les centres de données commerciaux sont devenus des infrastructures cruciales et sont donc désormais ciblés en temps de guerre.",
-      "url": "https://theconversation.com/ce-que-les-frappes-iraniennes-sur-des-centres-de-donnees-amazon-changent-ou-non-a-la-conduite-de-la-guerre-279867",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-04-04T08:00:36Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Pourquoi l'Iran cible les centres de données Amazon - et ce que cela change dans la guerre",
-      "description": "Les centres de données commerciaux sont devenus des infrastructures cruciales - et comme toute infrastructure essentielle, ils sont  ciblés en temps de guerre.",
-      "url": "https://theconversation.com/pourquoi-liran-cible-les-centres-de-donnees-amazon-et-ce-que-cela-change-dans-la-guerre-279867",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-04-04T08:00:36Z",
+      "title": "« Faire en deux jours ce qui en prenait deux mois » : comment l'IA de Newtone booste la visibilité de Sandro, Kiabi... sur Google",
+      "description": "La startup de Nanterre propose aux marques de retail un référencement optimisé sur les moteurs de recherche grâce à des contenus rédigés par l’IA correspondant à leur ton et leurs valeurs. Cette start...",
+      "url": "https://www.challenges.fr/entreprise/start-up/faire-en-deux-jours-ce-qui-en-prenait-deux-mois-comment-lia-de-newtone-booste-la-visibilite-de-sandro-kiabi-sur-google_642344",
+      "source": "Challenges",
+      "publishedAt": "2026-04-05T05:30:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,16 +206,40 @@
       "thumbnail": "https://i.ytimg.com/vi/SCKEMpv7Ld4/hqdefault.jpg"
     },
     {
-      "title": "Un porte-conteneur du groupe français CMA CGM et un navire japonais ont réussi à traverser le détroit d'Ormuz",
-      "description": "Le Kribi, porte-conteneur sous pavillon maltais du groupe français de transport maritime CMA CGM, est passé au nord de l'île de Larak, proche des côtes iraniennes, selon les données de MarineTraffic, ...",
-      "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/un-porte-conteneur-du-groupe-francais-cma-cgm-et-un-navire-japonais-ont-reussi-a-traverser-le-detroit-d-ormuz_7913879.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-04-03T20:13:03Z",
+      "title": "Les adolescentes, plus insatisfaites de leur corps que les garçons : ce que révèle une étude sur 300 000 données",
+      "description": "La reconnaissance de l’égalité des genres ne suffit pas à contrer les stéréotypes associant les filles à leur apparence physique plutôt qu’à leurs compétences.",
+      "url": "https://theconversation.com/les-adolescentes-plus-insatisfaites-de-leur-corps-que-les-garcons-ce-que-revele-une-etude-sur-300-000-donnees-279570",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-04-05T08:13:02Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "Robotique mobile : l'autonomie réelle commence (enfin) avec l'IA embarquée",
+      "description": "Après l'ère du robot programmé, nous entrons dans celle du robot qui comprend. Et cette révolution est d'abord celle des logiciels d'IA embarquée.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1549201-robotique-mobile-l-autonomie-reelle-commence-enfin-avec-l-ia-embarquee/",
+      "source": "JDN",
+      "publishedAt": "2026-04-04T08:52:03Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Elle transforme la finance grâce à la Data Science – Natacha Njongwa Yepnga",
+      "description": "Découverte et partage d'expérience avec Natacha NJONGWA YEPNGA. LINKEDIN DE Natacha ...",
+      "url": "https://www.youtube.com/watch?v=ZNQg77H-K1k",
+      "source": "Enogne School",
+      "publishedAt": "2026-03-20T21:00:40Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "ZNQg77H-K1k",
+      "thumbnail": "https://i.ytimg.com/vi/ZNQg77H-K1k/hqdefault.jpg"
     },
     {
       "title": "ChatGPT : la formation complète pour débutants (prompts, images, GPT, réglages)",
@@ -266,11 +266,11 @@
       "thumbnail": "https://i.ytimg.com/vi/EQ15g3OhzPs/hqdefault.jpg"
     },
     {
-      "title": "Avant d’utiliser une IA, se poser les bonnes questions peut vraiment changer votre impact écologique au quotidien",
-      "description": "L’intelligence artificielle semble légère, presque abstraite, alors qu’elle repose sur des machines très concrètes, gourmandes en énergie et en refroidissement. Avant d’adopter un assistant, un généra...",
-      "url": "https://dailygeekshow.com/?p=1006091",
-      "source": "Daily Geek Show",
-      "publishedAt": "2026-04-03T18:31:00Z",
+      "title": "Le gouvernement \"propose\" une \"négociation sociale\" dans la fonction publique consacrée à l'intelligence artificielle",
+      "description": "\"L'enjeu sera notamment de définir des usages prioritaires de l'IA, de fixer les principes éthiques, de souveraineté, de formation, d'accompagnement, avance le ministre de l'Action et des Comptes publ...",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-gouvernement-propose-une-negociation-sociale-dans-la-fonction-publique-consacree-a-l-intelligence-artificielle_7917020.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-04-05T07:04:13Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Décès de Chuck Norris : l’IA ravage la famille de l’acteur",
-      "description": "La famille a publié un communiqué sur Instagram, deux semaines après la mort de l’acteur. Icône d’Internet, Chuck Norris en a payé les frais ces derniers jours, à cause de multiples publications génér...",
-      "url": "https://www.presse-citron.net/deces-de-chuck-norris-lia-ravage-la-famille-de-lacteur/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-04-03T17:00:39Z",
+      "title": "L'IA au coeur de la guerre en Iran : Que faut-il savoir sur le \"Project Maven\" du Pentagone ?",
+      "description": "Un programme d'intelligence artificielle du Pentagone, Project Maven, se trouve au coeur de la campagne militaire contre l'Iran. ...",
+      "url": "https://www.lalibre.be/economie/digital/2026/04/05/lia-au-coeur-de-la-guerre-en-iran-que-faut-il-savoir-sur-le-project-maven-du-pentagone-3QX7A3IRANFGTFFADZGYGPTHTQ/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-04-05T06:44:21Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "On a testé Perplexity Computer : c'est révolutionnaire, mais ça coute cher",
-      "description": "Perplexity Computer promet de transformer votre PC en assistant intelligent, qui se charge de tout votre travail à votre place. Pour voir ce dont l'IA est vraiment capable, nous avons voulu créer une ...",
-      "url": "https://www.01net.com/tests/test-perplexity-computer-revolutionnaire-mais-coute-cher.html",
-      "source": "01net.com",
-      "publishedAt": "2026-04-04T08:03:27Z",
+      "title": "IA en entreprise : du sujet magique au sujet IT, pourquoi les projets ne passent pas à l'échelle",
+      "description": "L'industrialisation de l'IA échoue car elle est plus traitée comme un test technique que comme une transformation organisationnelle mêlant vision stratégique, refonte des métiers et mix de compétences",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1549223-ia-en-entreprise-du-sujet-magique-au-sujet-it-pourquoi-les-projets-ne-passent-pas-a-l-echelle/",
+      "source": "JDN",
+      "publishedAt": "2026-04-05T08:53:02Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
