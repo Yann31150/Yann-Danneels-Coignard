@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 09 Apr 2026 09:15:28 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 09:16:03 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,44 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>GEO : quand l’intelligence artificielle redessine les règles du search</title>
-            <link>https://www.frenchweb.fr/geo-quand-lintelligence-artificielle-redessine-les-regles-du-search/461199</link>
-            <description><![CDATA[L’émergence des moteurs génératifs, de ChatGPT à Perplexity AI, et l’intégration progressive de l’IA dans le search de Google redessinent les règles de la visibilité en ligne. Dans ce contexte, le GEO...]]></description>
-            <pubDate>Wed, 08 Apr 2026 05:07:53 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frenchweb.fr/geo-quand-lintelligence-artificielle-redessine-les-regles-du-search/461199</guid>
-            <source>Frenchweb.fr</source>
-        </item>
-        <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
             <link>https://www.youtube.com/watch?v=77IMWD4TWtg</link>
             <description><![CDATA[Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...]]></description>
             <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
             <source>Comprendre l'informatique</source>
+        </item>
+        <item>
+            <title>Meta fait un bond spectaculaire dans l’IA (après avoir dépensé des milliards) : voici de quoi “Muse Spark” est capable</title>
+            <link>https://www.presse-citron.net/meta-ia-muse-spark-milliards-depenses-capable/</link>
+            <description><![CDATA[Après l'échec de Llama, Meta retente sa chance en déployant une nouvelle IA qui se rapproche des performances de ChatGPT, Claude et Gemini. Elle arrive sur l'application Meta AI et sera aussi déployée...]]></description>
+            <pubDate>Thu, 09 Apr 2026 07:54:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/meta-ia-muse-spark-milliards-depenses-capable/</guid>
+            <source>Presse-citron</source>
+        </item>
+        <item>
+            <title>AI and Machine Learning Full Course 2026 | AI &amp;amp; Machine Learning Tutorial For Beginners |Simplilearn</title>
+            <link>https://www.youtube.com/watch?v=MsVujBISof8</link>
+            <description><![CDATA[Microsoft AI Engineer Program ...]]></description>
+            <pubDate>Sat, 21 Feb 2026 16:30:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=MsVujBISof8</guid>
+            <source>Simplilearn</source>
+        </item>
+        <item>
+            <title>AI &amp;amp; ML Full Course 2026 | Complete Artificial Intelligence and Machine Learning Tutorial |  Edureka</title>
+            <link>https://www.youtube.com/watch?v=1Qm_RgejEHg</link>
+            <description><![CDATA[PGP in Generative AI and ML in collaboration with Illinois Tech: ...]]></description>
+            <pubDate>Thu, 12 Mar 2026 17:16:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1Qm_RgejEHg</guid>
+            <source>edureka!</source>
+        </item>
+        <item>
+            <title>Data Analytics With Python Full Course 2026 [FREE] | Python Data Analytics Tutorial | Simplilearn</title>
+            <link>https://www.youtube.com/watch?v=4ZGJs6TRzls</link>
+            <description><![CDATA[Data Analyst Masters Program (Discount - YTBE15) ...]]></description>
+            <pubDate>Sat, 21 Feb 2026 00:43:48 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=4ZGJs6TRzls</guid>
+            <source>Simplilearn</source>
         </item>
         <item>
             <title>SQL pour Débutants (2026) : Maîtrisez les bases en moins d&amp;#39;une heure !</title>
@@ -45,14 +69,6 @@
             <source>Morpheus Formation | Excel, Sheets, Power BI</source>
         </item>
         <item>
-            <title>Comment installer Power BI Desktop en 3 minutes ! (Méthode Facile)</title>
-            <link>https://www.youtube.com/watch?v=AsNBiYCJRyk</link>
-            <description><![CDATA[Vous voulez apprendre à créer des tableaux de bord mais vous ne savez pas par où commencer ? Tout commence ici ! ​Dans ...]]></description>
-            <pubDate>Sun, 08 Feb 2026 09:29:17 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=AsNBiYCJRyk</guid>
-            <source>Diaby Fatemate </source>
-        </item>
-        <item>
             <title>Analyse discriminante avec « discrimintools » (Python)</title>
             <link>https://www.youtube.com/watch?v=NvdjH1fRRE0</link>
             <description><![CDATA[Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...]]></description>
@@ -69,36 +85,12 @@
             <source>AntalaSoft School</source>
         </item>
         <item>
-            <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
-            <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
-            <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
-            <pubDate>Fri, 13 Feb 2026 23:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2i9u_hwq05g</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Pourquoi les télécoms ne peuvent plus se passer de la Data Science – Chike Odenigbo</title>
-            <link>https://www.youtube.com/watch?v=kNy0VnMMP3Y</link>
-            <description><![CDATA[Dans ce second podcast, Ekué a eu le plaisir de discuter avec Chike Odenigbo qui est un expert en data science dans le ...]]></description>
-            <pubDate>Fri, 27 Feb 2026 23:01:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=kNy0VnMMP3Y</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Il utilise la Data Science pour battre le marché – Felix Carrier</title>
-            <link>https://www.youtube.com/watch?v=VNM4jJq8dSQ</link>
-            <description><![CDATA[Dans ce troisième podcast, Ekué a eu le plaisir de discuter avec Felix Carrier qui est un expert en data science dans le domaine ...]]></description>
-            <pubDate>Fri, 06 Mar 2026 23:00:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VNM4jJq8dSQ</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Arrêtez d&amp;#39;utiliser Excel pour vos Tableaux de Bord 🛑 (Passez à Power BI)</title>
-            <link>https://www.youtube.com/watch?v=Dgm74TZPSkA</link>
-            <description><![CDATA[Si vous passez encore vos journées à copier-coller des données dans Excel, cette vidéo va changer votre carrière. Power BI ...]]></description>
-            <pubDate>Mon, 09 Feb 2026 05:36:43 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Dgm74TZPSkA</guid>
-            <source>EasyExcelQuery</source>
+            <title>Google maps mise sur l’IA pour simplifier le partage de contenus</title>
+            <link>https://www.fredzone.org/google-maps-mise-sur-lia-pour-simplifier-le-partage-de-contenus/</link>
+            <description><![CDATA[L’écosystème des applications mobiles évolue rapidement, porté par des avancées constantes en intelligence artificielle. Dans ce contexte, Google renforce l’expérience utilisateur sur Maps en introdui...]]></description>
+            <pubDate>Wed, 08 Apr 2026 16:55:32 -0000</pubDate>
+            <guid isPermaLink="true">https://www.fredzone.org/google-maps-mise-sur-lia-pour-simplifier-le-partage-de-contenus/</guid>
+            <source>FREDZONE</source>
         </item>
         <item>
             <title>Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀</title>
@@ -107,6 +99,14 @@
             <pubDate>Wed, 18 Feb 2026 12:59:31 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=kWWxN73GuUI</guid>
             <source>Centre de formation Noormed</source>
+        </item>
+        <item>
+            <title>Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise</title>
+            <link>https://www.youtube.com/watch?v=ltlf84WBXeY</link>
+            <description><![CDATA[00:00 - Introduction &amp; présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...]]></description>
+            <pubDate>Fri, 03 Apr 2026 16:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ltlf84WBXeY</guid>
+            <source>Laurent MAGANTO</source>
         </item>
         <item>
             <title>Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/4</title>
@@ -125,12 +125,12 @@
             <source>Comment Coder</source>
         </item>
         <item>
-            <title>Comprendre les Window Functions sur SQL 📊✅ #tuto #sql #data</title>
-            <link>https://www.youtube.com/watch?v=Z_SFL0oFwBk</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Tue, 17 Feb 2026 15:14:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z_SFL0oFwBk</guid>
-            <source>Le Decodeur</source>
+            <title>Printemps de Bourges : comment réserver billets et Airbnb sans risque avec Surfshark ?</title>
+            <link>https://www.futura-sciences.com/conso/bons-plans/guides-vpn-printemps-bourges-reserver-billets-airbnb-risque-surfshark-9694/</link>
+            <description><![CDATA[Vous préparez le Printemps de Bourges ? Avant de réserver vos billets et Airbnb, mieux vaut sécuriser vos données. Découvrez comment Surfshark peut vous aider à éviter les mauvaises surprises.]]></description>
+            <pubDate>Thu, 09 Apr 2026 08:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/conso/bons-plans/guides-vpn-printemps-bourges-reserver-billets-airbnb-risque-surfshark-9694/</guid>
+            <source>Futura</source>
         </item>
         <item>
             <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
@@ -141,36 +141,36 @@
             <source>CodeAvecLionel</source>
         </item>
         <item>
-            <title>Une spoliation oubliée : les rescapés de la Shoah et les difficultés pour récupérer leurs biens et leur logement</title>
-            <link>https://theconversation.com/une-spoliation-oubliee-les-rescapes-de-la-shoah-et-les-difficultes-pour-recuperer-leurs-biens-et-leur-logement-279778</link>
-            <description><![CDATA[Les lois adoptées après la guerre visaient à restituer les biens volés et à indemniser les victimes. En réalité, de nombreuses familles juives ont dû faire face à une longue attente et à des obstacles...]]></description>
-            <pubDate>Wed, 08 Apr 2026 08:29:22 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/une-spoliation-oubliee-les-rescapes-de-la-shoah-et-les-difficultes-pour-recuperer-leurs-biens-et-leur-logement-279778</guid>
-            <source>The Conversation Africa</source>
+            <title>On a découvert une étrange étoile qui ne ressemble à aucune autre dans la Voie lactée</title>
+            <link>https://www.slate.fr/sciences/decouverte-etoile-etrange-pure-voie-lactee-astronomes-metaux-formation-galaxie-geante-rouge-nuage-magellan</link>
+            <description><![CDATA[Identifiée dans les données d'un vaste programme d'observation, SDSS J0715-7334 intrigue les astronomes par son extrême pauvreté en métaux. Un indice rare, qui pourrait la relier aux toutes premières ...]]></description>
+            <pubDate>Thu, 09 Apr 2026 05:55:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.slate.fr/sciences/decouverte-etoile-etrange-pure-voie-lactee-astronomes-metaux-formation-galaxie-geante-rouge-nuage-magellan</guid>
+            <source>Slate.fr</source>
         </item>
         <item>
-            <title>CRM et IA en 2026 : ce que les agents intelligents changent vraiment pour les PME. Décryptage par Lilit Schoo (Bitrix24)</title>
-            <link>https://www.blogdumoderateur.com/crm-ia-2026-pme/</link>
-            <description><![CDATA[Lilit Schoo, cheffe marketing numérique de Bitrix24, donne les clés pour distinguer un agent intelligent d'une automatisation enrichie, et éviter les erreurs de déploiement les plus courantes.]]></description>
-            <pubDate>Wed, 08 Apr 2026 08:59:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.blogdumoderateur.com/crm-ia-2026-pme/</guid>
-            <source>Blogdumoderateur.com</source>
+            <title>THESE DE DOCTORAT EN SCIENCES - UNIVERSITE DE MONTPELLIER, 2025</title>
+            <link>https://www.data.gouv.fr/datasets/these-de-doctorat-en-sciences-universite-de-montpellier-2025</link>
+            <description><![CDATA[Avec l’augmentation exponentielle des données générées dans les systèmes de santé modernes, les méthodes analytiques et les techniques de visualisation de l’information deviennent essentielles pour ex...]]></description>
+            <pubDate>Thu, 09 Apr 2026 08:57:41 -0000</pubDate>
+            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/these-de-doctorat-en-sciences-universite-de-montpellier-2025</guid>
+            <source>Gouv.fr</source>
         </item>
         <item>
-            <title>Top 3 du jour : Xiaomi TV S Mini LED 75 à 800€, Xiaomi Smart Band 10 à 40€ et écran MSI QD-OLED 27" à 400€</title>
-            <link>https://www.generation-nt.com/actualites/promos-pas-cher-xiaomi-tv-mini-led-75-2025-bracelet-connecte-smart-band-10-ecran-pc-gaming-msi-mag-271qp-qd-oled-x24-2073644</link>
-            <description><![CDATA[GNT est le portail Hi-Tech français consacré aux nouvelles technologies (internet, logiciel, matériel, mobilité, entreprise) et au jeu vidéo PC et consoles.]]></description>
-            <pubDate>Wed, 08 Apr 2026 08:50:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/promos-pas-cher-xiaomi-tv-mini-led-75-2025-bracelet-connecte-smart-band-10-ecran-pc-gaming-msi-mag-271qp-qd-oled-x24-2073644</guid>
-            <source>Génération NT</source>
+            <title>data-science-document-ai 1.65.5</title>
+            <link>https://pypi.org/project/data-science-document-ai/1.65.5/</link>
+            <description><![CDATA["Document AI repo for data science"]]></description>
+            <pubDate>Wed, 08 Apr 2026 11:18:14 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.65.5/</guid>
+            <source>Pypi.org</source>
         </item>
         <item>
-            <title>Elle transforme la finance grâce à la Data Science – Natacha Njongwa Yepnga</title>
-            <link>https://www.youtube.com/watch?v=ZNQg77H-K1k</link>
-            <description><![CDATA[Découverte et partage d'expérience avec Natacha NJONGWA YEPNGA. LINKEDIN DE Natacha ...]]></description>
-            <pubDate>Fri, 20 Mar 2026 21:00:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ZNQg77H-K1k</guid>
-            <source>Enogne School</source>
+            <title>data-science-document-ai 1.65.6</title>
+            <link>https://pypi.org/project/data-science-document-ai/1.65.6/</link>
+            <description><![CDATA["Document AI repo for data science"]]></description>
+            <pubDate>Wed, 08 Apr 2026 11:39:29 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.65.6/</guid>
+            <source>Pypi.org</source>
         </item>
     </channel>
 </rss>
