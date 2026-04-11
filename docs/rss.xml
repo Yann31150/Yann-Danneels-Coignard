@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 10 Apr 2026 09:16:03 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 08:52:09 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -19,14 +19,6 @@
             <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
             <source>Comprendre l'informatique</source>
-        </item>
-        <item>
-            <title>Meta fait un bond spectaculaire dans l’IA (après avoir dépensé des milliards) : voici de quoi “Muse Spark” est capable</title>
-            <link>https://www.presse-citron.net/meta-ia-muse-spark-milliards-depenses-capable/</link>
-            <description><![CDATA[Après l'échec de Llama, Meta retente sa chance en déployant une nouvelle IA qui se rapproche des performances de ChatGPT, Claude et Gemini. Elle arrive sur l'application Meta AI et sera aussi déployée...]]></description>
-            <pubDate>Thu, 09 Apr 2026 07:54:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/meta-ia-muse-spark-milliards-depenses-capable/</guid>
-            <source>Presse-citron</source>
         </item>
         <item>
             <title>AI and Machine Learning Full Course 2026 | AI &amp;amp; Machine Learning Tutorial For Beginners |Simplilearn</title>
@@ -43,6 +35,14 @@
             <pubDate>Thu, 12 Mar 2026 17:16:46 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=1Qm_RgejEHg</guid>
             <source>edureka!</source>
+        </item>
+        <item>
+            <title>J’ai créé mon petit ami par intelligence artificielle</title>
+            <link>https://www.courrierinternational.com/long-format/chine-j-ai-cree-mon-petit-ami-par-intelligence-artificielle_210774_1</link>
+            <description><![CDATA[En Chine, de plus en plus d’applications en ligne permettent de configurer un “être aimé” parfait et de flirter avec lui grâce à l’intelligence artificielle. Pour mieux comprendre ce phénomène, le com...]]></description>
+            <pubDate>Fri, 10 Apr 2026 08:15:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.courrierinternational.com/long-format/chine-j-ai-cree-mon-petit-ami-par-intelligence-artificielle_210774_1</guid>
+            <source>Courrier International</source>
         </item>
         <item>
             <title>Data Analytics With Python Full Course 2026 [FREE] | Python Data Analytics Tutorial | Simplilearn</title>
@@ -85,12 +85,12 @@
             <source>AntalaSoft School</source>
         </item>
         <item>
-            <title>Google maps mise sur l’IA pour simplifier le partage de contenus</title>
-            <link>https://www.fredzone.org/google-maps-mise-sur-lia-pour-simplifier-le-partage-de-contenus/</link>
-            <description><![CDATA[L’écosystème des applications mobiles évolue rapidement, porté par des avancées constantes en intelligence artificielle. Dans ce contexte, Google renforce l’expérience utilisateur sur Maps en introdui...]]></description>
-            <pubDate>Wed, 08 Apr 2026 16:55:32 -0000</pubDate>
-            <guid isPermaLink="true">https://www.fredzone.org/google-maps-mise-sur-lia-pour-simplifier-le-partage-de-contenus/</guid>
-            <source>FREDZONE</source>
+            <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
+            <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
+            <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
+            <pubDate>Fri, 13 Feb 2026 23:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=2i9u_hwq05g</guid>
+            <source>Enogne School</source>
         </item>
         <item>
             <title>Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀</title>
@@ -99,14 +99,6 @@
             <pubDate>Wed, 18 Feb 2026 12:59:31 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=kWWxN73GuUI</guid>
             <source>Centre de formation Noormed</source>
-        </item>
-        <item>
-            <title>Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise</title>
-            <link>https://www.youtube.com/watch?v=ltlf84WBXeY</link>
-            <description><![CDATA[00:00 - Introduction &amp; présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...]]></description>
-            <pubDate>Fri, 03 Apr 2026 16:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ltlf84WBXeY</guid>
-            <source>Laurent MAGANTO</source>
         </item>
         <item>
             <title>Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/4</title>
@@ -125,12 +117,44 @@
             <source>Comment Coder</source>
         </item>
         <item>
-            <title>Printemps de Bourges : comment réserver billets et Airbnb sans risque avec Surfshark ?</title>
-            <link>https://www.futura-sciences.com/conso/bons-plans/guides-vpn-printemps-bourges-reserver-billets-airbnb-risque-surfshark-9694/</link>
-            <description><![CDATA[Vous préparez le Printemps de Bourges ? Avant de réserver vos billets et Airbnb, mieux vaut sécuriser vos données. Découvrez comment Surfshark peut vous aider à éviter les mauvaises surprises.]]></description>
-            <pubDate>Thu, 09 Apr 2026 08:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/conso/bons-plans/guides-vpn-printemps-bourges-reserver-billets-airbnb-risque-surfshark-9694/</guid>
+            <title>Comment créer un visuel carte KPI dans Power BI ! Afficher vos performances ! 🤩</title>
+            <link>https://www.youtube.com/watch?v=VZJUEuu5LV8</link>
+            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
+            <pubDate>Thu, 19 Mar 2026 17:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=VZJUEuu5LV8</guid>
+            <source>Morpheus Formation | Excel, Sheets, Power BI</source>
+        </item>
+        <item>
+            <title>SQL pour Débutant : Cours Complet avec Exemples pratiques sur Snowflake</title>
+            <link>https://www.youtube.com/watch?v=OAkGA2wCRN8</link>
+            <description><![CDATA[Apprendre SQL facilement (Cours complet débutant avec Snowflake) Vous voulez apprendre SQL rapidement ? Cette vidéo vous ...]]></description>
+            <pubDate>Fri, 20 Mar 2026 19:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=OAkGA2wCRN8</guid>
+            <source>J.A DATATECH CONSULTING</source>
+        </item>
+        <item>
+            <title>Tutoriel Power BI 2026 : le guide complet pour les débutants  🚀</title>
+            <link>https://www.youtube.com/watch?v=SqzUaKJb384</link>
+            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
+            <pubDate>Thu, 02 Apr 2026 16:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=SqzUaKJb384</guid>
+            <source>Morpheus Formation | Excel, Sheets, Power BI</source>
+        </item>
+        <item>
+            <title>Cadmium : faut-il passer au bio pour moins s’exposer ? Voici ce que l’on sait à ce stade</title>
+            <link>https://www.futura-sciences.com/sante/actualites/cadmium-cadmium-faut-il-passer-bio-moins-exposer-voici-ce-on-sait-ce-stade-133627/</link>
+            <description><![CDATA[Manger bio limite-t-il vraiment l’exposition au cadmium ? Derrière les idées reçues, les études scientifiques peinent à trancher. Entre incertitudes, controverses et données partielles, voici ce que l...]]></description>
+            <pubDate>Thu, 09 Apr 2026 11:28:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/sante/actualites/cadmium-cadmium-faut-il-passer-bio-moins-exposer-voici-ce-on-sait-ce-stade-133627/</guid>
             <source>Futura</source>
+        </item>
+        <item>
+            <title>Piégées par des chercheurs, des IA donnent des conseils médicaux sur une fausse maladie</title>
+            <link>https://www.franceinfo.fr/replay-radio/le-billet-vert/piegees-par-des-chercheurs-des-ia-donnent-des-conseils-medicaux-sur-une-fausse-maladie_7928324.html</link>
+            <description><![CDATA[La bixonimanie est une maladie inexistante que des chercheurs ont inventé dans le cadre d'un étude. En publiant des articles scientifiques tout aussi bidons, ils voulaient voir les réactions des intel...]]></description>
+            <pubDate>Fri, 10 Apr 2026 08:48:14 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/le-billet-vert/piegees-par-des-chercheurs-des-ia-donnent-des-conseils-medicaux-sur-une-fausse-maladie_7928324.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
         <item>
             <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
@@ -141,36 +165,12 @@
             <source>CodeAvecLionel</source>
         </item>
         <item>
-            <title>On a découvert une étrange étoile qui ne ressemble à aucune autre dans la Voie lactée</title>
-            <link>https://www.slate.fr/sciences/decouverte-etoile-etrange-pure-voie-lactee-astronomes-metaux-formation-galaxie-geante-rouge-nuage-magellan</link>
-            <description><![CDATA[Identifiée dans les données d'un vaste programme d'observation, SDSS J0715-7334 intrigue les astronomes par son extrême pauvreté en métaux. Un indice rare, qui pourrait la relier aux toutes premières ...]]></description>
-            <pubDate>Thu, 09 Apr 2026 05:55:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.slate.fr/sciences/decouverte-etoile-etrange-pure-voie-lactee-astronomes-metaux-formation-galaxie-geante-rouge-nuage-magellan</guid>
-            <source>Slate.fr</source>
-        </item>
-        <item>
-            <title>THESE DE DOCTORAT EN SCIENCES - UNIVERSITE DE MONTPELLIER, 2025</title>
-            <link>https://www.data.gouv.fr/datasets/these-de-doctorat-en-sciences-universite-de-montpellier-2025</link>
-            <description><![CDATA[Avec l’augmentation exponentielle des données générées dans les systèmes de santé modernes, les méthodes analytiques et les techniques de visualisation de l’information deviennent essentielles pour ex...]]></description>
-            <pubDate>Thu, 09 Apr 2026 08:57:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/these-de-doctorat-en-sciences-universite-de-montpellier-2025</guid>
-            <source>Gouv.fr</source>
-        </item>
-        <item>
-            <title>data-science-document-ai 1.65.5</title>
-            <link>https://pypi.org/project/data-science-document-ai/1.65.5/</link>
-            <description><![CDATA["Document AI repo for data science"]]></description>
-            <pubDate>Wed, 08 Apr 2026 11:18:14 -0000</pubDate>
-            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.65.5/</guid>
-            <source>Pypi.org</source>
-        </item>
-        <item>
-            <title>data-science-document-ai 1.65.6</title>
-            <link>https://pypi.org/project/data-science-document-ai/1.65.6/</link>
-            <description><![CDATA["Document AI repo for data science"]]></description>
-            <pubDate>Wed, 08 Apr 2026 11:39:29 -0000</pubDate>
-            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.65.6/</guid>
-            <source>Pypi.org</source>
+            <title>Car Avenue veut réduire sa dépendance au véhicule neuf pour atteindre les 2,2 milliards d’euros de chiffre d’affaires</title>
+            <link>https://www.lejournaldesentreprises.com/article/car-avenue-veut-reduire-sa-dependance-au-vehicule-neuf-pour-atteindre-les-22-milliards-deuros-de-2140753</link>
+            <description><![CDATA[Confronté à un marché automobile français en recul structurel et à des clients désorientés par les injonctions paradoxales de l’État, le groupe Car Avenue dévoile sa feuille de route stratégique pour ...]]></description>
+            <pubDate>Fri, 10 Apr 2026 06:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/article/car-avenue-veut-reduire-sa-dependance-au-vehicule-neuf-pour-atteindre-les-22-milliards-deuros-de-2140753</guid>
+            <source>Le Journal des Entreprises</source>
         </item>
     </channel>
 </rss>
