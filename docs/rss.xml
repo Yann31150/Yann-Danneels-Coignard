@@ -5,13 +5,37 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 11 Apr 2026 08:52:09 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 08:56:05 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>Gemma 4 : L&amp;#39;IA gratuite de Google qui va remplacer ChatGPT</title>
+            <link>https://www.youtube.com/watch?v=s2vervy8thc</link>
+            <description><![CDATA[Je t'accompagne à lancer un business IA Rentable https://bit.ly/3PIHsae Gemma 4 est la nouvelle génération de modèles d'IA ...]]></description>
+            <pubDate>Sun, 05 Apr 2026 13:50:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=s2vervy8thc</guid>
+            <source>Julien Massey</source>
+        </item>
+        <item>
+            <title>L’IA aurait dû rester en laboratoire : le patron de Google DeepMind regrette que ChatGPT soit sorti trop vite</title>
+            <link>https://www.numerama.com/tech/2229749-lia-aurait-du-rester-en-laboratoire-le-patron-de-google-deepmind-regrette-que-chatgpt-soit-sorti-trop-vite.html</link>
+            <description><![CDATA[Invité du podcast de Cleo Abram, Demis Hassabis, le patron de Google DeepMind, est longuement revenu sur l'émergence de l'IA générative commerciale en 2022, qui a d'abord pris Google par surprise. Le ...]]></description>
+            <pubDate>Fri, 10 Apr 2026 10:07:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/tech/2229749-lia-aurait-du-rester-en-laboratoire-le-patron-de-google-deepmind-regrette-que-chatgpt-soit-sorti-trop-vite.html</guid>
+            <source>Numerama</source>
+        </item>
+        <item>
+            <title>La maison du créateur de ChatGPT, Sam Altman, a été touchée par un cocktail Molotov, l'assaillant interpellé</title>
+            <link>https://www.franceinfo.fr/internet/intelligence-artificielle/la-maison-du-createur-de-chatgpt-sam-altman-a-ete-touchee-par-un-cocktail-molotov-l-assaillant-interpelle_7816895.html</link>
+            <description><![CDATA[Le dirigeant de la startup OpenAI a appelé à une "désescalade de la rhétorique et des méthodes", en faisant allusion aux critiques qui visent le secteur de l'intelligence artificielle.]]></description>
+            <pubDate>Sat, 11 Apr 2026 07:08:04 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/internet/intelligence-artificielle/la-maison-du-createur-de-chatgpt-sam-altman-a-ete-touchee-par-un-cocktail-molotov-l-assaillant-interpelle_7816895.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
         <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
             <link>https://www.youtube.com/watch?v=77IMWD4TWtg</link>
@@ -21,12 +45,12 @@
             <source>Comprendre l'informatique</source>
         </item>
         <item>
-            <title>AI and Machine Learning Full Course 2026 | AI &amp;amp; Machine Learning Tutorial For Beginners |Simplilearn</title>
-            <link>https://www.youtube.com/watch?v=MsVujBISof8</link>
-            <description><![CDATA[Microsoft AI Engineer Program ...]]></description>
-            <pubDate>Sat, 21 Feb 2026 16:30:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=MsVujBISof8</guid>
-            <source>Simplilearn</source>
+            <title>Actualité : Petite révolution pour Fitbit : l’IA Gemini arrive en France pour transformer votre montre en vrai coach</title>
+            <link>https://www.lesnumeriques.com/montre-connectee/petite-revolution-pour-fitbit-l-ia-gemini-arrive-en-france-pour-transformer-votre-montre-en-vrai-coach-n254188.html#article</link>
+            <description><![CDATA[Fitbit franchit une nouvelle étape dans l’intégration de l’intelligence artificielle avec le déploiement en France, en version "Public Preview", de son Coach de santé personnelle. Désormais dopée par ...]]></description>
+            <pubDate>Fri, 10 Apr 2026 14:17:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/montre-connectee/petite-revolution-pour-fitbit-l-ia-gemini-arrive-en-france-pour-transformer-votre-montre-en-vrai-coach-n254188.html#article</guid>
+            <source>Les Numériques</source>
         </item>
         <item>
             <title>AI &amp;amp; ML Full Course 2026 | Complete Artificial Intelligence and Machine Learning Tutorial |  Edureka</title>
@@ -37,14 +61,6 @@
             <source>edureka!</source>
         </item>
         <item>
-            <title>J’ai créé mon petit ami par intelligence artificielle</title>
-            <link>https://www.courrierinternational.com/long-format/chine-j-ai-cree-mon-petit-ami-par-intelligence-artificielle_210774_1</link>
-            <description><![CDATA[En Chine, de plus en plus d’applications en ligne permettent de configurer un “être aimé” parfait et de flirter avec lui grâce à l’intelligence artificielle. Pour mieux comprendre ce phénomène, le com...]]></description>
-            <pubDate>Fri, 10 Apr 2026 08:15:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.courrierinternational.com/long-format/chine-j-ai-cree-mon-petit-ami-par-intelligence-artificielle_210774_1</guid>
-            <source>Courrier International</source>
-        </item>
-        <item>
             <title>Data Analytics With Python Full Course 2026 [FREE] | Python Data Analytics Tutorial | Simplilearn</title>
             <link>https://www.youtube.com/watch?v=4ZGJs6TRzls</link>
             <description><![CDATA[Data Analyst Masters Program (Discount - YTBE15) ...]]></description>
@@ -53,7 +69,7 @@
             <source>Simplilearn</source>
         </item>
         <item>
-            <title>SQL pour Débutants (2026) : Maîtrisez les bases en moins d&amp;#39;une heure !</title>
+            <title>Maîtriser SQL en 1 heure sans prise de tête</title>
             <link>https://www.youtube.com/watch?v=GVNc1ZrOoAs</link>
             <description><![CDATA[Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...]]></description>
             <pubDate>Mon, 06 Apr 2026 13:00:06 -0000</pubDate>
@@ -69,36 +85,12 @@
             <source>Morpheus Formation | Excel, Sheets, Power BI</source>
         </item>
         <item>
-            <title>Analyse discriminante avec « discrimintools » (Python)</title>
-            <link>https://www.youtube.com/watch?v=NvdjH1fRRE0</link>
-            <description><![CDATA[Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...]]></description>
-            <pubDate>Mon, 16 Feb 2026 09:53:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=NvdjH1fRRE0</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp;amp; 10 | Guide complet</title>
-            <link>https://www.youtube.com/watch?v=G-4DERRKrHA</link>
-            <description><![CDATA[Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...]]></description>
-            <pubDate>Wed, 25 Feb 2026 04:31:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=G-4DERRKrHA</guid>
-            <source>AntalaSoft School</source>
-        </item>
-        <item>
-            <title>Tu fais encore du marketing sans data science ? Écoute Fayçal Zouine</title>
-            <link>https://www.youtube.com/watch?v=2i9u_hwq05g</link>
-            <description><![CDATA[Dans ce premier podcast, Ekué a eu le plaisir de discuter avec Faycal Zouine qui est un expert en data science dans le domaine ...]]></description>
-            <pubDate>Fri, 13 Feb 2026 23:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2i9u_hwq05g</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Introduction à Power BI : Tout savoir pour réussir la Certification PL-300 🚀</title>
-            <link>https://www.youtube.com/watch?v=kWWxN73GuUI</link>
-            <description><![CDATA[Bienvenue dans ce premier module de notre formation complète dédiée à la certification PL-300 : Microsoft Power BI Data Analyst ...]]></description>
-            <pubDate>Wed, 18 Feb 2026 12:59:31 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=kWWxN73GuUI</guid>
-            <source>Centre de formation Noormed</source>
+            <title>Télécharger WinXVideo AI pour Windows, Mac, Web - Telecharger.com</title>
+            <link>https://www.01net.com/telecharger/multimedia/edition-audio-et-video/winxvideo-ai.html</link>
+            <description><![CDATA[Winxvideo AI est un logiciel qui utilise l’intelligence artificielle pour sublimer vos vidéos et images. Il permet d’augmenter la résolution, de stabiliser les séquences et de convertir vos fichiers a...]]></description>
+            <pubDate>Fri, 10 Apr 2026 15:08:20 -0000</pubDate>
+            <guid isPermaLink="true">https://www.01net.com/telecharger/multimedia/edition-audio-et-video/winxvideo-ai.html</guid>
+            <source>01net.com</source>
         </item>
         <item>
             <title>Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/4</title>
@@ -107,6 +99,14 @@
             <pubDate>Thu, 19 Feb 2026 17:00:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=dlH4Xfn7dGA</guid>
             <source>Morpheus Formation | Excel, Sheets, Power BI</source>
+        </item>
+        <item>
+            <title>Exploratory Data Analysis (EDA) with Pandas</title>
+            <link>https://www.youtube.com/watch?v=ch9dwbbNlOE</link>
+            <description><![CDATA[In this video, I share a powerful EDA (Exploratory Data Analysis) Cheatsheet using Pandas that will help you quickly analyze any ...]]></description>
+            <pubDate>Thu, 26 Feb 2026 15:48:55 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ch9dwbbNlOE</guid>
+            <source>KNOWLEDGE DOCTOR</source>
         </item>
         <item>
             <title>Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)</title>
@@ -141,20 +141,12 @@
             <source>Morpheus Formation | Excel, Sheets, Power BI</source>
         </item>
         <item>
-            <title>Cadmium : faut-il passer au bio pour moins s’exposer ? Voici ce que l’on sait à ce stade</title>
-            <link>https://www.futura-sciences.com/sante/actualites/cadmium-cadmium-faut-il-passer-bio-moins-exposer-voici-ce-on-sait-ce-stade-133627/</link>
-            <description><![CDATA[Manger bio limite-t-il vraiment l’exposition au cadmium ? Derrière les idées reçues, les études scientifiques peinent à trancher. Entre incertitudes, controverses et données partielles, voici ce que l...]]></description>
-            <pubDate>Thu, 09 Apr 2026 11:28:17 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/sante/actualites/cadmium-cadmium-faut-il-passer-bio-moins-exposer-voici-ce-on-sait-ce-stade-133627/</guid>
-            <source>Futura</source>
-        </item>
-        <item>
-            <title>Piégées par des chercheurs, des IA donnent des conseils médicaux sur une fausse maladie</title>
-            <link>https://www.franceinfo.fr/replay-radio/le-billet-vert/piegees-par-des-chercheurs-des-ia-donnent-des-conseils-medicaux-sur-une-fausse-maladie_7928324.html</link>
-            <description><![CDATA[La bixonimanie est une maladie inexistante que des chercheurs ont inventé dans le cadre d'un étude. En publiant des articles scientifiques tout aussi bidons, ils voulaient voir les réactions des intel...]]></description>
-            <pubDate>Fri, 10 Apr 2026 08:48:14 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/le-billet-vert/piegees-par-des-chercheurs-des-ia-donnent-des-conseils-medicaux-sur-une-fausse-maladie_7928324.html</guid>
-            <source>Franceinfo.fr</source>
+            <title>Le recyclage du plastique face à ses limites structurelles et économiques : ce que disent vraiment les données</title>
+            <link>https://dailygeekshow.com/le-recyclage-du-plastique-face-a-ses-limites-structurelles-et-economiques-ce-que-disent-vraiment-les-donnees/</link>
+            <description><![CDATA[Chaque semaine, des millions de tonnes d’emballages plastiques sont triées avec application. Pourtant, derrière ce geste devenu réflexe, les données scientifiques révèlent une réalité bien plus comple...]]></description>
+            <pubDate>Fri, 10 Apr 2026 16:35:00 -0000</pubDate>
+            <guid isPermaLink="true">https://dailygeekshow.com/le-recyclage-du-plastique-face-a-ses-limites-structurelles-et-economiques-ce-que-disent-vraiment-les-donnees/</guid>
+            <source>Daily Geek Show</source>
         </item>
         <item>
             <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
@@ -165,12 +157,20 @@
             <source>CodeAvecLionel</source>
         </item>
         <item>
-            <title>Car Avenue veut réduire sa dépendance au véhicule neuf pour atteindre les 2,2 milliards d’euros de chiffre d’affaires</title>
-            <link>https://www.lejournaldesentreprises.com/article/car-avenue-veut-reduire-sa-dependance-au-vehicule-neuf-pour-atteindre-les-22-milliards-deuros-de-2140753</link>
-            <description><![CDATA[Confronté à un marché automobile français en recul structurel et à des clients désorientés par les injonctions paradoxales de l’État, le groupe Car Avenue dévoile sa feuille de route stratégique pour ...]]></description>
-            <pubDate>Fri, 10 Apr 2026 06:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/article/car-avenue-veut-reduire-sa-dependance-au-vehicule-neuf-pour-atteindre-les-22-milliards-deuros-de-2140753</guid>
-            <source>Le Journal des Entreprises</source>
+            <title>« Combien ai-je dépensé en café cette année ? » : Revolut dévoile AIR, un assistant financier pas comme les autres</title>
+            <link>https://www.frandroid.com/services/banque-en-ligne/3060895_combien-ai-je-depense-en-cafe-cette-annee-revolut-devoile-air-un-assistant-financier-pas-comme-les-autres</link>
+            <description><![CDATA[Depuis 2025, Revolut travaille sur un assistant IA totalement intégré à la banque en ligne et chargé de gérer nos finances personnelles. Cet assistant IA financier, c'est AIR, désormais déployé au Roy...]]></description>
+            <pubDate>Fri, 10 Apr 2026 13:27:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/services/banque-en-ligne/3060895_combien-ai-je-depense-en-cafe-cette-annee-revolut-devoile-air-un-assistant-financier-pas-comme-les-autres</guid>
+            <source>Frandroid</source>
+        </item>
+        <item>
+            <title>Elle transforme la finance grâce à la Data Science – Natacha Njongwa Yepnga</title>
+            <link>https://www.youtube.com/watch?v=ZNQg77H-K1k</link>
+            <description><![CDATA[Découverte et partage d'expérience avec Natacha NJONGWA YEPNGA. LINKEDIN DE Natacha ...]]></description>
+            <pubDate>Fri, 20 Mar 2026 21:00:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ZNQg77H-K1k</guid>
+            <source>Enogne School</source>
         </item>
     </channel>
 </rss>
