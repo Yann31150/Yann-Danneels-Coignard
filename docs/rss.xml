@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 13 Apr 2026 09:59:55 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 09:24:31 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Le Nobel de chimie qui dirige l’IA chez Google : « J’aurais préféré guérir le cancer avant de lancer ChatGPT »</title>
-            <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3062141_le-nobel-de-chimie-qui-dirige-lia-chez-google-jaurais-prefere-guerir-le-cancer-avant-de-lancer-chatgpt</link>
-            <description><![CDATA[Et si l'IA avait servi à guérir le cancer plutôt qu'à rédiger vos e-mails ? C’est le regret amer de Demis Hassabis, patron de Google DeepMind. Selon lui, la déferlante ChatGPT a forcé l'industrie dans...]]></description>
-            <pubDate>Sat, 11 Apr 2026 15:51:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3062141_le-nobel-de-chimie-qui-dirige-lia-chez-google-jaurais-prefere-guerir-le-cancer-avant-de-lancer-chatgpt</guid>
-            <source>Frandroid</source>
+            <title>IA : John Giannandrea s’apprête à vraiment quitter Apple après une longue mise à l’écart</title>
+            <link>https://iphoneaddict.fr/post/news-426895-ia-john-giannandrea-sapprete-vraiment-quitter-apple-apres-longue-mise-lecart</link>
+            <description><![CDATA[Le départ de John Giannandrea est entré en quelque sorte dans sa phase finale. Recruté en 2018 en provenance de Google pour renforcer les ambitions d’Apple en intelligence artificielle, l’ancien patro...]]></description>
+            <pubDate>Mon, 13 Apr 2026 07:45:36 -0000</pubDate>
+            <guid isPermaLink="true">https://iphoneaddict.fr/post/news-426895-ia-john-giannandrea-sapprete-vraiment-quitter-apple-apres-longue-mise-lecart</guid>
+            <source>Iphoneaddict.fr</source>
         </item>
         <item>
             <title>Gemma 4 : L&amp;#39;IA gratuite de Google qui va remplacer ChatGPT</title>
@@ -35,14 +35,6 @@
             <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
             <source>Comprendre l'informatique</source>
-        </item>
-        <item>
-            <title>AI and Machine Learning Full Course 2026 | AI &amp;amp; Machine Learning Tutorial For Beginners |Simplilearn</title>
-            <link>https://www.youtube.com/watch?v=MsVujBISof8</link>
-            <description><![CDATA[Microsoft AI Engineer Program ...]]></description>
-            <pubDate>Sat, 21 Feb 2026 16:30:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=MsVujBISof8</guid>
-            <source>Simplilearn</source>
         </item>
         <item>
             <title>AI &amp;amp; ML Full Course 2026 | Complete Artificial Intelligence and Machine Learning Tutorial |  Edureka</title>
@@ -67,6 +59,14 @@
             <pubDate>Sat, 21 Feb 2026 00:43:48 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=4ZGJs6TRzls</guid>
             <source>Simplilearn</source>
+        </item>
+        <item>
+            <title>Quels métiers sont les plus menacés par l’IA, et lesquels le sont le moins ? Anthropic répond de manière éclairante</title>
+            <link>https://www.presse-citron.net/quels-metiers-sont-les-plus-menaces-par-lia-et-lesquels-le-sont-le-moins-anthropic-repond-de-maniere-eclairante/</link>
+            <description><![CDATA[Anthropic publie une nouvelle méthode pour évaluer l’impact de l’intelligence artificielle sur l’emploi. Celle-ci ne s’appuie pas uniquement sur les données théoriques sur les performances de l’IA, ma...]]></description>
+            <pubDate>Mon, 13 Apr 2026 05:24:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/quels-metiers-sont-les-plus-menaces-par-lia-et-lesquels-le-sont-le-moins-anthropic-repond-de-maniere-eclairante/</guid>
+            <source>Presse-citron</source>
         </item>
         <item>
             <title>Maîtriser SQL en 1 heure sans prise de tête</title>
@@ -99,6 +99,14 @@
             <pubDate>Fri, 03 Apr 2026 16:30:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=ltlf84WBXeY</guid>
             <source>Laurent MAGANTO</source>
+        </item>
+        <item>
+            <title>MyLovely.ai : la fuite de données qui expose les fantasmes de 100 000 utilisateurs</title>
+            <link>https://www.generation-nt.com/actualites/mylovely-ai-fuite-donnees-fantasmes-2073861</link>
+            <description><![CDATA[La plateforme de "petite amie IA" MyLovely.ai a subi une fuite de données massive, exposant les informations personnelles et surtout les fantasmes les plus intimes de plus de 106 000 utilisateurs. Les...]]></description>
+            <pubDate>Mon, 13 Apr 2026 08:45:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/mylovely-ai-fuite-donnees-fantasmes-2073861</guid>
+            <source>Génération NT</source>
         </item>
         <item>
             <title>Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/4</title>
@@ -149,28 +157,20 @@
             <source>Morpheus Formation | Excel, Sheets, Power BI</source>
         </item>
         <item>
+            <title>Comprendre les Window Functions sur SQL 📊✅ #tuto #sql #data</title>
+            <link>https://www.youtube.com/watch?v=Z_SFL0oFwBk</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Tue, 17 Feb 2026 15:14:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z_SFL0oFwBk</guid>
+            <source>Le Decodeur</source>
+        </item>
+        <item>
             <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
             <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
             <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
             <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
             <source>CodeAvecLionel</source>
-        </item>
-        <item>
-            <title>Elle transforme la finance grâce à la Data Science – Natacha Njongwa Yepnga</title>
-            <link>https://www.youtube.com/watch?v=ZNQg77H-K1k</link>
-            <description><![CDATA[Découverte et partage d'expérience avec Natacha NJONGWA YEPNGA. LINKEDIN DE Natacha ...]]></description>
-            <pubDate>Fri, 20 Mar 2026 21:00:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ZNQg77H-K1k</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Après "Pirates des Caraïbes", Gore Verbinski s’attaque à la science-fiction et part en guerre contre l’IA dans "Good Luck, Have Fun, Don’t Die"</title>
-            <link>https://www.franceinfo.fr/culture/cinema/sorties-de-films/apres-pirates-des-caraibes-gore-verbinski-s-attaque-a-la-science-fiction-et-part-en-guerre-contre-l-ia-dans-good-luck-have-fun-don-t-die_7911452.html</link>
-            <description><![CDATA[Dans le sillon de Jack Sparrow et du cow-boy caméléon Rango, Sam Rockwell est le nouvel aventurier excentrique de la galerie de personnages hauts en couleur du réalisateur américain.]]></description>
-            <pubDate>Sun, 12 Apr 2026 08:55:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/culture/cinema/sorties-de-films/apres-pirates-des-caraibes-gore-verbinski-s-attaque-a-la-science-fiction-et-part-en-guerre-contre-l-ia-dans-good-luck-have-fun-don-t-die_7911452.html</guid>
-            <source>Franceinfo.fr</source>
         </item>
     </channel>
 </rss>

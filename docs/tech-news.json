@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-04-13T09:59:55.724219",
+  "lastUpdate": "2026-04-14T09:24:31.603403",
   "articles": [
     {
-      "title": "Le Nobel de chimie qui dirige l’IA chez Google : « J’aurais préféré guérir le cancer avant de lancer ChatGPT »",
-      "description": "Et si l'IA avait servi à guérir le cancer plutôt qu'à rédiger vos e-mails ? C’est le regret amer de Demis Hassabis, patron de Google DeepMind. Selon lui, la déferlante ChatGPT a forcé l'industrie dans...",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3062141_le-nobel-de-chimie-qui-dirige-lia-chez-google-jaurais-prefere-guerir-le-cancer-avant-de-lancer-chatgpt",
-      "source": "Frandroid",
-      "publishedAt": "2026-04-11T15:51:00Z",
+      "title": "IA : John Giannandrea s’apprête à vraiment quitter Apple après une longue mise à l’écart",
+      "description": "Le départ de John Giannandrea est entré en quelque sorte dans sa phase finale. Recruté en 2018 en provenance de Google pour renforcer les ambitions d’Apple en intelligence artificielle, l’ancien patro...",
+      "url": "https://iphoneaddict.fr/post/news-426895-ia-john-giannandrea-sapprete-vraiment-quitter-apple-apres-longue-mise-lecart",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-04-13T07:45:36Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -36,18 +36,6 @@
       "isYouTube": true,
       "videoId": "77IMWD4TWtg",
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
-    },
-    {
-      "title": "AI and Machine Learning Full Course 2026 | AI &amp; Machine Learning Tutorial For Beginners |Simplilearn",
-      "description": "Microsoft AI Engineer Program ...",
-      "url": "https://www.youtube.com/watch?v=MsVujBISof8",
-      "source": "Simplilearn",
-      "publishedAt": "2026-02-21T16:30:18Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "MsVujBISof8",
-      "thumbnail": "https://i.ytimg.com/vi/MsVujBISof8/hqdefault.jpg"
     },
     {
       "title": "AI &amp; ML Full Course 2026 | Complete Artificial Intelligence and Machine Learning Tutorial |  Edureka",
@@ -84,6 +72,18 @@
       "isYouTube": true,
       "videoId": "4ZGJs6TRzls",
       "thumbnail": "https://i.ytimg.com/vi/4ZGJs6TRzls/hqdefault.jpg"
+    },
+    {
+      "title": "Quels métiers sont les plus menacés par l’IA, et lesquels le sont le moins ? Anthropic répond de manière éclairante",
+      "description": "Anthropic publie une nouvelle méthode pour évaluer l’impact de l’intelligence artificielle sur l’emploi. Celle-ci ne s’appuie pas uniquement sur les données théoriques sur les performances de l’IA, ma...",
+      "url": "https://www.presse-citron.net/quels-metiers-sont-les-plus-menaces-par-lia-et-lesquels-le-sont-le-moins-anthropic-repond-de-maniere-eclairante/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-04-13T05:24:18Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Maîtriser SQL en 1 heure sans prise de tête",
@@ -132,6 +132,18 @@
       "isYouTube": true,
       "videoId": "ltlf84WBXeY",
       "thumbnail": "https://i.ytimg.com/vi/ltlf84WBXeY/hqdefault.jpg"
+    },
+    {
+      "title": "MyLovely.ai : la fuite de données qui expose les fantasmes de 100 000 utilisateurs",
+      "description": "La plateforme de \"petite amie IA\" MyLovely.ai a subi une fuite de données massive, exposant les informations personnelles et surtout les fantasmes les plus intimes de plus de 106 000 utilisateurs. Les...",
+      "url": "https://www.generation-nt.com/actualites/mylovely-ai-fuite-donnees-fantasmes-2073861",
+      "source": "Génération NT",
+      "publishedAt": "2026-04-13T08:45:01Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/4",
@@ -206,6 +218,18 @@
       "thumbnail": "https://i.ytimg.com/vi/SqzUaKJb384/hqdefault.jpg"
     },
     {
+      "title": "Comprendre les Window Functions sur SQL 📊✅ #tuto #sql #data",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Z_SFL0oFwBk",
+      "source": "Le Decodeur",
+      "publishedAt": "2026-02-17T15:14:03Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Z_SFL0oFwBk",
+      "thumbnail": "https://i.ytimg.com/vi/Z_SFL0oFwBk/hqdefault.jpg"
+    },
+    {
       "title": "Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser",
       "description": "Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...",
       "url": "https://www.youtube.com/watch?v=SCKEMpv7Ld4",
@@ -218,35 +242,47 @@
       "thumbnail": "https://i.ytimg.com/vi/SCKEMpv7Ld4/hqdefault.jpg"
     },
     {
-      "title": "Elle transforme la finance grâce à la Data Science – Natacha Njongwa Yepnga",
-      "description": "Découverte et partage d'expérience avec Natacha NJONGWA YEPNGA. LINKEDIN DE Natacha ...",
-      "url": "https://www.youtube.com/watch?v=ZNQg77H-K1k",
-      "source": "Enogne School",
-      "publishedAt": "2026-03-20T21:00:40Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ZNQg77H-K1k",
-      "thumbnail": "https://i.ytimg.com/vi/ZNQg77H-K1k/hqdefault.jpg"
+      "title": "Burger King recrute une IA pour surveiller la courtoisie de ses salariés ?",
+      "description": "Chez Burger King une intelligence artificielle baptisée Patty s’invite désormais dans les restaurants pour écouter et analyser les échanges entre employés et clients. Présentée comme un outil d’assist...",
+      "url": "https://www.futura-sciences.com/tech/actualites/tech-burger-king-recrute-ia-surveiller-courtoisie-salaries-133664/",
+      "source": "Futura",
+      "publishedAt": "2026-04-13T07:01:04Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "Après \"Pirates des Caraïbes\", Gore Verbinski s’attaque à la science-fiction et part en guerre contre l’IA dans \"Good Luck, Have Fun, Don’t Die\"",
-      "description": "Dans le sillon de Jack Sparrow et du cow-boy caméléon Rango, Sam Rockwell est le nouvel aventurier excentrique de la galerie de personnages hauts en couleur du réalisateur américain.",
-      "url": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/apres-pirates-des-caraibes-gore-verbinski-s-attaque-a-la-science-fiction-et-part-en-guerre-contre-l-ia-dans-good-luck-have-fun-don-t-die_7911452.html",
+      "title": "Les autorités américaines sonnent l'alarme face à Mythos, l'IA qui menace les banques",
+      "description": "Une réunion confidentielle au sommet de la finance américaine a mis en lumière une menace d'un nouveau genre, propulsant les capacités d'une intelligence artificielle au centre des préoccupations de s...",
+      "url": "https://www.generation-nt.com/actualites/anthropic-mythos-ia-cybersecurite-banque-fed-2073864",
+      "source": "Génération NT",
+      "publishedAt": "2026-04-13T07:20:01Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L’IA gratuite, c’est terminé : les prix du compute s’envolent",
+      "description": "Pendant deux ans, l’intelligence artificielle s’est imposée comme une ressource quasi illimitée. Chatbots accessibles, APIs à bas coût, génération de contenu à la demande : l’illusion d’une intelligen...",
+      "url": "https://www.frenchweb.fr/lia-gratuite-cest-termine-les-prix-du-compute-senvolent/461250",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-04-13T07:27:07Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "La startup Anthropic reporte la sortie de sa nouvelle IA Claude Mythos, jugée trop dangereuse pour la cybersécurité actuelle",
+      "description": "L'intelligence artificielle Claude Mythos aurait détecté des \"milliers\" de failles informatiques dangereuses dans des programmes grand public, selon son créateur. Seules une poignée d'entreprises ont ...",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/la-startup-anthropic-reporte-la-sortie-de-sa-nouvelle-ia-claude-mythos-jugee-trop-dangereuse-pour-la-cybersecurite-actuelle_7814369.html",
       "source": "Franceinfo.fr",
-      "publishedAt": "2026-04-12T08:55:13Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Serge Tisseron : \"Avec l'IA, certaines personnes abandonnent toute idée de vie amoureuse\"",
-      "description": "Le psychiatre examine, dans un nouvel essai, les surprenantes relations que certains humains nouent avec l'IA.",
-      "url": "https://www.lexpress.fr/argent/bourse/serge-tisseron-si-vous-confiez-a-chatgpt-vous-etre-dispute-avec-votre-copine-TSE46X6CZRCMPE3WR3MNSLLDYU/",
-      "source": "L'Express",
-      "publishedAt": "2026-04-12T05:45:00Z",
+      "publishedAt": "2026-04-13T08:55:42Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,35 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "La start-up finlandaise Polar Night Energy stocke l’énergie solaire dans du sable chauffé à 600 °C sans aucun métal rare",
-      "description": "En Finlande, la start-up Polar Night Energy transforme du sable ordinaire en réservoir d'énergie thermique. Le procédé consiste à chauffer ce matériau jusqu'à 600 °C pour stocker les surplus solaires ...",
-      "url": "https://dailygeekshow.com/la-start-up-finlandaise-polar-night-energy-stocke-lenergie-solaire-dans-du-sable-chauffe-a-600-c-sans-aucun-metal-rare/",
+      "title": "À Houston, une salle clé de la mission Artemis II montre l’évolution du rôle des femmes dans l’analyse scientifique spatiale",
+      "description": "Au cœur du centre spatial Johnson, une image inattendue a bouleversé les représentations collectives. En effet, loin des clichés d’Apollo, la mission Artemis II révèle une mutation profonde et tangibl...",
+      "url": "https://dailygeekshow.com/?p=1006597",
       "source": "Daily Geek Show",
-      "publishedAt": "2026-04-11T17:01:54Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cancer: une IA prédit les métastases avec 80% de précision",
-      "description": "Des cellules cancéreuses capables de rester en place... ou de partir à la conquête du corps: cette différence est cruciale et change totalement le pronostic des patients.\n\nUne étude de...",
-      "url": "https://www.techno-science.net/actualite/cancer-ia-predit-metastases-avec-80-precision-N28568.html",
-      "source": "Techno-science.net",
-      "publishedAt": "2026-04-12T04:00:03Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L’IA transforme Slack en assistant de travail avancé",
-      "description": "Slack franchit un nouveau cap avec un assistant capable d’automatiser les tâches du quotidien grâce à l’IA.",
-      "url": "https://www.begeek.fr/lia-transforme-slack-en-assistant-de-travail-avance-430777",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-04-12T06:00:34Z",
+      "publishedAt": "2026-04-12T19:06:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
