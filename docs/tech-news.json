@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-14T09:24:31.603403",
+  "lastUpdate": "2026-04-15T09:25:31.446046",
   "articles": [
     {
       "title": "IA : John Giannandrea s’apprête à vraiment quitter Apple après une longue mise à l’écart",
@@ -14,16 +14,28 @@
       "thumbnail": ""
     },
     {
-      "title": "Gemma 4 : L&#39;IA gratuite de Google qui va remplacer ChatGPT",
-      "description": "Je t'accompagne à lancer un business IA Rentable https://bit.ly/3PIHsae Gemma 4 est la nouvelle génération de modèles d'IA ...",
-      "url": "https://www.youtube.com/watch?v=s2vervy8thc",
-      "source": "Julien Massey",
-      "publishedAt": "2026-04-05T13:50:54Z",
+      "title": "OpenAI se met sérieusement à la fintech en rachetant un spécialiste des finances personnelles",
+      "description": "Le créateur de ChatGPT vient de racheter Hiro Finance, une startup qui a développé une IA qui se comporte comme un conseiller financier, et qui aide les particuliers à gérer leur trésorerie. Hiro Fina...",
+      "url": "https://www.presse-citron.net/openai-fintech-rachete-specialiste-finances-personnelles/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-04-14T06:39:30Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "s2vervy8thc",
-      "thumbnail": "https://i.ytimg.com/vi/s2vervy8thc/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Le pape Léon XIV joue à Wordle avec son frère, mais refuse ChatGPT",
+      "description": "Le frère du pape vient de se confier à \"La Croix\". John Prevost, qui vit toujours dans l'Illinois, révèle que depuis l'élection de Robert Francis Prevost au pontificat en mai 2025, les deux hommes gar...",
+      "url": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/le-pape-leon-xiv-joue-a-wordle-avec-son-frere-mais-refuse-chatgpt_7936658.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-04-14T09:13:12Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
@@ -50,6 +62,18 @@
       "thumbnail": "https://i.ytimg.com/vi/1Qm_RgejEHg/hqdefault.jpg"
     },
     {
+      "title": "Microsoft veut transformer Copilot en agent IA autonome 24h/24, mais sa stratégie n’est pas sans risque",
+      "description": "Microsoft semble prêt à passer à la vitesse supérieure pour transformer Copilot en véritable agent IA. Pour ce faire, la firme de Redmond développerait pour son assistant IA de nouvelles...",
+      "url": "https://www.phonandroid.com/microsoft-veut-transformer-copilot-en-agent-ia-autonome-24h-24-mais-sa-strategie-nest-pas-sans-risque.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-04-14T09:25:16Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "I Tried 50 Machine Learning Courses: Here are The BEST 5",
       "description": "What are the best machine learning courses? I tried 50 (honestly, probably more at this point) to find out! DataCamp Machine ...",
       "url": "https://www.youtube.com/watch?v=fXojHUuBnaY",
@@ -74,16 +98,16 @@
       "thumbnail": "https://i.ytimg.com/vi/4ZGJs6TRzls/hqdefault.jpg"
     },
     {
-      "title": "Quels métiers sont les plus menacés par l’IA, et lesquels le sont le moins ? Anthropic répond de manière éclairante",
-      "description": "Anthropic publie une nouvelle méthode pour évaluer l’impact de l’intelligence artificielle sur l’emploi. Celle-ci ne s’appuie pas uniquement sur les données théoriques sur les performances de l’IA, ma...",
-      "url": "https://www.presse-citron.net/quels-metiers-sont-les-plus-menaces-par-lia-et-lesquels-le-sont-le-moins-anthropic-repond-de-maniere-eclairante/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-04-13T05:24:18Z",
+      "title": "Le vrai pouvoir des filtres dans Power BI",
+      "description": "Les filtres dans Power BI paraissent simples… jusqu'au moment où tout se mélange. Voici ce qu'il faut vraiment comprendre pour ...",
+      "url": "https://www.youtube.com/watch?v=ykiwukJ0dWE",
+      "source": "Elephorm",
+      "publishedAt": "2026-03-25T23:58:29Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "ykiwukJ0dWE",
+      "thumbnail": "https://i.ytimg.com/vi/ykiwukJ0dWE/hqdefault.jpg"
     },
     {
       "title": "Maîtriser SQL en 1 heure sans prise de tête",
@@ -96,54 +120,6 @@
       "isYouTube": true,
       "videoId": "GVNc1ZrOoAs",
       "thumbnail": "https://i.ytimg.com/vi/GVNc1ZrOoAs/hqdefault.jpg"
-    },
-    {
-      "title": "EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&#39;utiliser Excel !",
-      "description": "INSCRIVEZ-VOUS GRATUITEMENT AU WÉBINAIRE IA : morpheus-formation.fr/webinaire Testez votre niveau sur Excel (avec ...",
-      "url": "https://www.youtube.com/watch?v=8Vh5bmRgmlo",
-      "source": "Morpheus Formation | Excel, Sheets, Power BI",
-      "publishedAt": "2026-03-06T10:00:00Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "8Vh5bmRgmlo",
-      "thumbnail": "https://i.ytimg.com/vi/8Vh5bmRgmlo/hqdefault.jpg"
-    },
-    {
-      "title": "Analyse discriminante avec « discrimintools » (Python)",
-      "description": "Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...",
-      "url": "https://www.youtube.com/watch?v=NvdjH1fRRE0",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-02-16T09:53:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "NvdjH1fRRE0",
-      "thumbnail": "https://i.ytimg.com/vi/NvdjH1fRRE0/hqdefault.jpg"
-    },
-    {
-      "title": "Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise",
-      "description": "00:00 - Introduction & présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...",
-      "url": "https://www.youtube.com/watch?v=ltlf84WBXeY",
-      "source": "Laurent MAGANTO",
-      "publishedAt": "2026-04-03T16:30:00Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ltlf84WBXeY",
-      "thumbnail": "https://i.ytimg.com/vi/ltlf84WBXeY/hqdefault.jpg"
-    },
-    {
-      "title": "MyLovely.ai : la fuite de données qui expose les fantasmes de 100 000 utilisateurs",
-      "description": "La plateforme de \"petite amie IA\" MyLovely.ai a subi une fuite de données massive, exposant les informations personnelles et surtout les fantasmes les plus intimes de plus de 106 000 utilisateurs. Les...",
-      "url": "https://www.generation-nt.com/actualites/mylovely-ai-fuite-donnees-fantasmes-2073861",
-      "source": "Génération NT",
-      "publishedAt": "2026-04-13T08:45:01Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/4",
@@ -218,16 +194,16 @@
       "thumbnail": "https://i.ytimg.com/vi/SqzUaKJb384/hqdefault.jpg"
     },
     {
-      "title": "Comprendre les Window Functions sur SQL 📊✅ #tuto #sql #data",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=Z_SFL0oFwBk",
-      "source": "Le Decodeur",
-      "publishedAt": "2026-02-17T15:14:03Z",
+      "title": "Les données intermédiaires de l'essai pivot testant cema-cel mettent en évidence la solidité de la plateforme CAR-T allogénique de Cellectis",
+      "description": "NEW YORK, 13 avr. 2026 (GLOBE NEWSWIRE) -- Cellectis (Euronext Growth : ALCLS ; Nasdaq : CLLS), société de biotechnologie de stade clinique, qui utilise sa plateforme pionnière d'édition de génome pou...",
+      "url": "https://www.globenewswire.com/news-release/2026/04/13/3272912/0/fr/Les-donn%C3%A9es-interm%C3%A9diaires-de-l-essai-pivot-testant-cema-cel-mettent-en-%C3%A9vidence-la-solidit%C3%A9-de-la-plateforme-CAR-T-allog%C3%A9nique-de-Cellectis.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-04-13T20:30:00Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Z_SFL0oFwBk",
-      "thumbnail": "https://i.ytimg.com/vi/Z_SFL0oFwBk/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser",
@@ -242,23 +218,35 @@
       "thumbnail": "https://i.ytimg.com/vi/SCKEMpv7Ld4/hqdefault.jpg"
     },
     {
-      "title": "Burger King recrute une IA pour surveiller la courtoisie de ses salariés ?",
-      "description": "Chez Burger King une intelligence artificielle baptisée Patty s’invite désormais dans les restaurants pour écouter et analyser les échanges entre employés et clients. Présentée comme un outil d’assist...",
-      "url": "https://www.futura-sciences.com/tech/actualites/tech-burger-king-recrute-ia-surveiller-courtoisie-salaries-133664/",
-      "source": "Futura",
-      "publishedAt": "2026-04-13T07:01:04Z",
-      "category": "innovation",
+      "title": "Apple Intelligence piratée : l’IA de votre iPhone peut trahir vos données personnelles",
+      "description": "Un rapport de cybersécurité vient de dévoiler une faille de sécurité majeure dans iOS. Apple l'a corrigée avec iOS 26.4. Une raison de plus d'installer la mise à jour sur son appareil.",
+      "url": "https://www.iphon.fr/post/apple-intelligence-ia-iphone-piratee-donnees-personnelles",
+      "source": "Iphon.fr",
+      "publishedAt": "2026-04-14T07:55:19Z",
+      "category": "data",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Les autorités américaines sonnent l'alarme face à Mythos, l'IA qui menace les banques",
-      "description": "Une réunion confidentielle au sommet de la finance américaine a mis en lumière une menace d'un nouveau genre, propulsant les capacités d'une intelligence artificielle au centre des préoccupations de s...",
-      "url": "https://www.generation-nt.com/actualites/anthropic-mythos-ia-cybersecurite-banque-fed-2073864",
-      "source": "Génération NT",
-      "publishedAt": "2026-04-13T07:20:01Z",
+      "title": "Pourquoi le Soleil a quitté le centre de la galaxie : l’étude qui éclaire notre origine stellaire",
+      "description": "Des chercheurs ont utilisé les données du télescope Gaia pour identifier 6 594 « jumeaux solaires » – des étoiles similaires au Soleil par leur âge et leur composition. Leur analyse révèle que ces éto...",
+      "url": "https://atlantico.fr/article/decryptage/pourquoi-le-soleil-a-quitte-le-centre-de-la-galaxie-letude-qui-eclaire-notre-origine-stellaire-anna-alter",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-04-14T08:29:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Les jeunes ont déjà adopté l’IA, aux entreprises maintenant de revoir leurs règles du jeu",
+      "description": "Le baromètre Talents 2026, conduit par SKEMA Business School et EY avec Ipsos-BVA auprès de 1609 étudiants e jeunes diplômés met clairement un terme au débat. 96% d’entre eux ont déjà mis les mains da...",
+      "url": "https://siecledigital.fr/2026/04/14/les-jeunes-ont-deja-adopte-lia-aux-entreprises-maintenant-de-revoir-leurs-regles-du-jeu/",
+      "source": "Siècle Digital",
+      "publishedAt": "2026-04-14T08:43:38Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "L’IA gratuite, c’est terminé : les prix du compute s’envolent",
-      "description": "Pendant deux ans, l’intelligence artificielle s’est imposée comme une ressource quasi illimitée. Chatbots accessibles, APIs à bas coût, génération de contenu à la demande : l’illusion d’une intelligen...",
-      "url": "https://www.frenchweb.fr/lia-gratuite-cest-termine-les-prix-du-compute-senvolent/461250",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-04-13T07:27:07Z",
+      "title": "IA : à l’Hôtel de Lassay, les Margaret Awards couronnent trois figures de la tech au féminin",
+      "description": "Roxane Laigle, Juliette Mattioli et Koralie Theresine ont été récompensées ce jeudi 9 avril lors de la cérémonie des Margaret Awards 2026. Une édition dédiée à l’intelligence artificielle qui met en l...",
+      "url": "https://www.latribune.fr/article/tech/23043266392750/ia-a-l-hotel-de-lassay-les-margaret-awards-couronnent-trois-figures-de-la-tech-au-feminin",
+      "source": "La Tribune.fr",
+      "publishedAt": "2026-04-14T06:25:45Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "La startup Anthropic reporte la sortie de sa nouvelle IA Claude Mythos, jugée trop dangereuse pour la cybersécurité actuelle",
-      "description": "L'intelligence artificielle Claude Mythos aurait détecté des \"milliers\" de failles informatiques dangereuses dans des programmes grand public, selon son créateur. Seules une poignée d'entreprises ont ...",
-      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/la-startup-anthropic-reporte-la-sortie-de-sa-nouvelle-ia-claude-mythos-jugee-trop-dangereuse-pour-la-cybersecurite-actuelle_7814369.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-04-13T08:55:42Z",
+      "title": "Trump s’attire les foudres de la droite religieuse américaine après la publication d’une image le représentant en Jésus",
+      "description": "L’illustration générée par intelligence artificielle a été publiée peu après de virulentes critiques du président américain contre le pape Léon XIV. Une séquence qui consterne les catholiques outre-At...",
+      "url": "https://www.nouvelobs.com/monde/20260414.OBS114159/trump-s-attire-les-foudres-de-la-droite-religieuse-americaine-apres-la-publication-d-une-image-le-representant-en-jesus.html",
+      "source": "L'Obs",
+      "publishedAt": "2026-04-14T06:52:26Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "À Houston, une salle clé de la mission Artemis II montre l’évolution du rôle des femmes dans l’analyse scientifique spatiale",
-      "description": "Au cœur du centre spatial Johnson, une image inattendue a bouleversé les représentations collectives. En effet, loin des clichés d’Apollo, la mission Artemis II révèle une mutation profonde et tangibl...",
-      "url": "https://dailygeekshow.com/?p=1006597",
-      "source": "Daily Geek Show",
-      "publishedAt": "2026-04-12T19:06:00Z",
+      "title": "Comprendre les « modèles de fondation », ces nouvelles infrastructures numériques à la base de nombreuses applications d’IA",
+      "description": "La polyvalence des modèles de fondation les transforme en une nouvelle « infrastructure » numérique, au même titre que le cloud ou Internet. Au lieu de reconstruire un modèle d’IA spécifique à chaque ...",
+      "url": "https://theconversation.com/comprendre-les-modeles-de-fondation-ces-nouvelles-infrastructures-numeriques-a-la-base-de-nombreuses-applications-dia-277990",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-04-13T14:45:37Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI rachète Hiro et met un pied de plus dans la fintech",
+      "description": "Non, OpenAI ne collectionne pas les rachats, il y a un réel intérêt. Toutefois, la firme vient d’acheter Hiro Finance, une startup qui avait construit son ADN autour d’un assistant financier IA capabl...",
+      "url": "https://siecledigital.fr/2026/04/14/openai-rachete-hiro-et-met-un-pied-de-plus-dans-la-fintech/",
+      "source": "Siècle Digital",
+      "publishedAt": "2026-04-14T07:35:52Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

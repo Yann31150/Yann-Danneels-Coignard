@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 14 Apr 2026 09:24:31 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 09:25:31 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,12 +21,20 @@
             <source>Iphoneaddict.fr</source>
         </item>
         <item>
-            <title>Gemma 4 : L&amp;#39;IA gratuite de Google qui va remplacer ChatGPT</title>
-            <link>https://www.youtube.com/watch?v=s2vervy8thc</link>
-            <description><![CDATA[Je t'accompagne à lancer un business IA Rentable https://bit.ly/3PIHsae Gemma 4 est la nouvelle génération de modèles d'IA ...]]></description>
-            <pubDate>Sun, 05 Apr 2026 13:50:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=s2vervy8thc</guid>
-            <source>Julien Massey</source>
+            <title>OpenAI se met sérieusement à la fintech en rachetant un spécialiste des finances personnelles</title>
+            <link>https://www.presse-citron.net/openai-fintech-rachete-specialiste-finances-personnelles/</link>
+            <description><![CDATA[Le créateur de ChatGPT vient de racheter Hiro Finance, une startup qui a développé une IA qui se comporte comme un conseiller financier, et qui aide les particuliers à gérer leur trésorerie. Hiro Fina...]]></description>
+            <pubDate>Tue, 14 Apr 2026 06:39:30 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/openai-fintech-rachete-specialiste-finances-personnelles/</guid>
+            <source>Presse-citron</source>
+        </item>
+        <item>
+            <title>Le pape Léon XIV joue à Wordle avec son frère, mais refuse ChatGPT</title>
+            <link>https://www.franceinfo.fr/replay-radio/l-il-de-constance/le-pape-leon-xiv-joue-a-wordle-avec-son-frere-mais-refuse-chatgpt_7936658.html</link>
+            <description><![CDATA[Le frère du pape vient de se confier à "La Croix". John Prevost, qui vit toujours dans l'Illinois, révèle que depuis l'élection de Robert Francis Prevost au pontificat en mai 2025, les deux hommes gar...]]></description>
+            <pubDate>Tue, 14 Apr 2026 09:13:12 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/l-il-de-constance/le-pape-leon-xiv-joue-a-wordle-avec-son-frere-mais-refuse-chatgpt_7936658.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
         <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
@@ -45,6 +53,14 @@
             <source>edureka!</source>
         </item>
         <item>
+            <title>Microsoft veut transformer Copilot en agent IA autonome 24h/24, mais sa stratégie n’est pas sans risque</title>
+            <link>https://www.phonandroid.com/microsoft-veut-transformer-copilot-en-agent-ia-autonome-24h-24-mais-sa-strategie-nest-pas-sans-risque.html</link>
+            <description><![CDATA[Microsoft semble prêt à passer à la vitesse supérieure pour transformer Copilot en véritable agent IA. Pour ce faire, la firme de Redmond développerait pour son assistant IA de nouvelles...]]></description>
+            <pubDate>Tue, 14 Apr 2026 09:25:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.phonandroid.com/microsoft-veut-transformer-copilot-en-agent-ia-autonome-24h-24-mais-sa-strategie-nest-pas-sans-risque.html</guid>
+            <source>Phonandroid</source>
+        </item>
+        <item>
             <title>I Tried 50 Machine Learning Courses: Here are The BEST 5</title>
             <link>https://www.youtube.com/watch?v=fXojHUuBnaY</link>
             <description><![CDATA[What are the best machine learning courses? I tried 50 (honestly, probably more at this point) to find out! DataCamp Machine ...]]></description>
@@ -61,12 +77,12 @@
             <source>Simplilearn</source>
         </item>
         <item>
-            <title>Quels métiers sont les plus menacés par l’IA, et lesquels le sont le moins ? Anthropic répond de manière éclairante</title>
-            <link>https://www.presse-citron.net/quels-metiers-sont-les-plus-menaces-par-lia-et-lesquels-le-sont-le-moins-anthropic-repond-de-maniere-eclairante/</link>
-            <description><![CDATA[Anthropic publie une nouvelle méthode pour évaluer l’impact de l’intelligence artificielle sur l’emploi. Celle-ci ne s’appuie pas uniquement sur les données théoriques sur les performances de l’IA, ma...]]></description>
-            <pubDate>Mon, 13 Apr 2026 05:24:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/quels-metiers-sont-les-plus-menaces-par-lia-et-lesquels-le-sont-le-moins-anthropic-repond-de-maniere-eclairante/</guid>
-            <source>Presse-citron</source>
+            <title>Le vrai pouvoir des filtres dans Power BI</title>
+            <link>https://www.youtube.com/watch?v=ykiwukJ0dWE</link>
+            <description><![CDATA[Les filtres dans Power BI paraissent simples… jusqu'au moment où tout se mélange. Voici ce qu'il faut vraiment comprendre pour ...]]></description>
+            <pubDate>Wed, 25 Mar 2026 23:58:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ykiwukJ0dWE</guid>
+            <source>Elephorm</source>
         </item>
         <item>
             <title>Maîtriser SQL en 1 heure sans prise de tête</title>
@@ -75,38 +91,6 @@
             <pubDate>Mon, 06 Apr 2026 13:00:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=GVNc1ZrOoAs</guid>
             <source>CodeAvecLionel</source>
-        </item>
-        <item>
-            <title>EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&amp;#39;utiliser Excel !</title>
-            <link>https://www.youtube.com/watch?v=8Vh5bmRgmlo</link>
-            <description><![CDATA[INSCRIVEZ-VOUS GRATUITEMENT AU WÉBINAIRE IA : morpheus-formation.fr/webinaire Testez votre niveau sur Excel (avec ...]]></description>
-            <pubDate>Fri, 06 Mar 2026 10:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=8Vh5bmRgmlo</guid>
-            <source>Morpheus Formation | Excel, Sheets, Power BI</source>
-        </item>
-        <item>
-            <title>Analyse discriminante avec « discrimintools » (Python)</title>
-            <link>https://www.youtube.com/watch?v=NvdjH1fRRE0</link>
-            <description><![CDATA[Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...]]></description>
-            <pubDate>Mon, 16 Feb 2026 09:53:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=NvdjH1fRRE0</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise</title>
-            <link>https://www.youtube.com/watch?v=ltlf84WBXeY</link>
-            <description><![CDATA[00:00 - Introduction &amp; présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...]]></description>
-            <pubDate>Fri, 03 Apr 2026 16:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ltlf84WBXeY</guid>
-            <source>Laurent MAGANTO</source>
-        </item>
-        <item>
-            <title>MyLovely.ai : la fuite de données qui expose les fantasmes de 100 000 utilisateurs</title>
-            <link>https://www.generation-nt.com/actualites/mylovely-ai-fuite-donnees-fantasmes-2073861</link>
-            <description><![CDATA[La plateforme de "petite amie IA" MyLovely.ai a subi une fuite de données massive, exposant les informations personnelles et surtout les fantasmes les plus intimes de plus de 106 000 utilisateurs. Les...]]></description>
-            <pubDate>Mon, 13 Apr 2026 08:45:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/mylovely-ai-fuite-donnees-fantasmes-2073861</guid>
-            <source>Génération NT</source>
         </item>
         <item>
             <title>Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/4</title>
@@ -157,12 +141,12 @@
             <source>Morpheus Formation | Excel, Sheets, Power BI</source>
         </item>
         <item>
-            <title>Comprendre les Window Functions sur SQL 📊✅ #tuto #sql #data</title>
-            <link>https://www.youtube.com/watch?v=Z_SFL0oFwBk</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Tue, 17 Feb 2026 15:14:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z_SFL0oFwBk</guid>
-            <source>Le Decodeur</source>
+            <title>Les données intermédiaires de l'essai pivot testant cema-cel mettent en évidence la solidité de la plateforme CAR-T allogénique de Cellectis</title>
+            <link>https://www.globenewswire.com/news-release/2026/04/13/3272912/0/fr/Les-donn%C3%A9es-interm%C3%A9diaires-de-l-essai-pivot-testant-cema-cel-mettent-en-%C3%A9vidence-la-solidit%C3%A9-de-la-plateforme-CAR-T-allog%C3%A9nique-de-Cellectis.html</link>
+            <description><![CDATA[NEW YORK, 13 avr. 2026 (GLOBE NEWSWIRE) -- Cellectis (Euronext Growth : ALCLS ; Nasdaq : CLLS), société de biotechnologie de stade clinique, qui utilise sa plateforme pionnière d'édition de génome pou...]]></description>
+            <pubDate>Mon, 13 Apr 2026 20:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/04/13/3272912/0/fr/Les-donn%C3%A9es-interm%C3%A9diaires-de-l-essai-pivot-testant-cema-cel-mettent-en-%C3%A9vidence-la-solidit%C3%A9-de-la-plateforme-CAR-T-allog%C3%A9nique-de-Cellectis.html</guid>
+            <source>GlobeNewswire</source>
         </item>
         <item>
             <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
@@ -171,6 +155,22 @@
             <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
             <source>CodeAvecLionel</source>
+        </item>
+        <item>
+            <title>Apple Intelligence piratée : l’IA de votre iPhone peut trahir vos données personnelles</title>
+            <link>https://www.iphon.fr/post/apple-intelligence-ia-iphone-piratee-donnees-personnelles</link>
+            <description><![CDATA[Un rapport de cybersécurité vient de dévoiler une faille de sécurité majeure dans iOS. Apple l'a corrigée avec iOS 26.4. Une raison de plus d'installer la mise à jour sur son appareil.]]></description>
+            <pubDate>Tue, 14 Apr 2026 07:55:19 -0000</pubDate>
+            <guid isPermaLink="true">https://www.iphon.fr/post/apple-intelligence-ia-iphone-piratee-donnees-personnelles</guid>
+            <source>Iphon.fr</source>
+        </item>
+        <item>
+            <title>Pourquoi le Soleil a quitté le centre de la galaxie : l’étude qui éclaire notre origine stellaire</title>
+            <link>https://atlantico.fr/article/decryptage/pourquoi-le-soleil-a-quitte-le-centre-de-la-galaxie-letude-qui-eclaire-notre-origine-stellaire-anna-alter</link>
+            <description><![CDATA[Des chercheurs ont utilisé les données du télescope Gaia pour identifier 6 594 « jumeaux solaires » – des étoiles similaires au Soleil par leur âge et leur composition. Leur analyse révèle que ces éto...]]></description>
+            <pubDate>Tue, 14 Apr 2026 08:29:00 -0000</pubDate>
+            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/pourquoi-le-soleil-a-quitte-le-centre-de-la-galaxie-letude-qui-eclaire-notre-origine-stellaire-anna-alter</guid>
+            <source>Atlantico.fr</source>
         </item>
     </channel>
 </rss>
