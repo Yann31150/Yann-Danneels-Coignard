@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 15 Apr 2026 09:25:31 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 09:24:46 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,36 +13,28 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>IA : John Giannandrea s’apprête à vraiment quitter Apple après une longue mise à l’écart</title>
-            <link>https://iphoneaddict.fr/post/news-426895-ia-john-giannandrea-sapprete-vraiment-quitter-apple-apres-longue-mise-lecart</link>
-            <description><![CDATA[Le départ de John Giannandrea est entré en quelque sorte dans sa phase finale. Recruté en 2018 en provenance de Google pour renforcer les ambitions d’Apple en intelligence artificielle, l’ancien patro...]]></description>
-            <pubDate>Mon, 13 Apr 2026 07:45:36 -0000</pubDate>
-            <guid isPermaLink="true">https://iphoneaddict.fr/post/news-426895-ia-john-giannandrea-sapprete-vraiment-quitter-apple-apres-longue-mise-lecart</guid>
-            <source>Iphoneaddict.fr</source>
-        </item>
-        <item>
-            <title>OpenAI se met sérieusement à la fintech en rachetant un spécialiste des finances personnelles</title>
-            <link>https://www.presse-citron.net/openai-fintech-rachete-specialiste-finances-personnelles/</link>
-            <description><![CDATA[Le créateur de ChatGPT vient de racheter Hiro Finance, une startup qui a développé une IA qui se comporte comme un conseiller financier, et qui aide les particuliers à gérer leur trésorerie. Hiro Fina...]]></description>
-            <pubDate>Tue, 14 Apr 2026 06:39:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/openai-fintech-rachete-specialiste-finances-personnelles/</guid>
-            <source>Presse-citron</source>
-        </item>
-        <item>
-            <title>Le pape Léon XIV joue à Wordle avec son frère, mais refuse ChatGPT</title>
-            <link>https://www.franceinfo.fr/replay-radio/l-il-de-constance/le-pape-leon-xiv-joue-a-wordle-avec-son-frere-mais-refuse-chatgpt_7936658.html</link>
-            <description><![CDATA[Le frère du pape vient de se confier à "La Croix". John Prevost, qui vit toujours dans l'Illinois, révèle que depuis l'élection de Robert Francis Prevost au pontificat en mai 2025, les deux hommes gar...]]></description>
-            <pubDate>Tue, 14 Apr 2026 09:13:12 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/l-il-de-constance/le-pape-leon-xiv-joue-a-wordle-avec-son-frere-mais-refuse-chatgpt_7936658.html</guid>
-            <source>Franceinfo.fr</source>
-        </item>
-        <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
             <link>https://www.youtube.com/watch?v=77IMWD4TWtg</link>
             <description><![CDATA[Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...]]></description>
             <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
             <source>Comprendre l'informatique</source>
+        </item>
+        <item>
+            <title>Qu’est-ce que GPT-5.4-Cyber, la nouvelle IA d’OpenAI pour la cybersécurité ?</title>
+            <link>https://www.numerama.com/cyberguerre/2233039-quest-ce-que-gpt-5-4-cyber-la-nouvelle-ia-dopenai-pour-la-cybersecurite.html</link>
+            <description><![CDATA[Le 14 avril 2026, OpenAI a présenté GPT-5.4-Cyber, une variante de son dernier modèle pensée pour la cyberdéfense et destinée aux professionnels de la sécurité. L’annonce suit de près le bruit médiati...]]></description>
+            <pubDate>Wed, 15 Apr 2026 08:15:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/cyberguerre/2233039-quest-ce-que-gpt-5-4-cyber-la-nouvelle-ia-dopenai-pour-la-cybersecurite.html</guid>
+            <source>Numerama</source>
+        </item>
+        <item>
+            <title>AI and Machine Learning Full Course 2026 | AI &amp;amp; Machine Learning Tutorial For Beginners |Simplilearn</title>
+            <link>https://www.youtube.com/watch?v=MsVujBISof8</link>
+            <description><![CDATA[Microsoft AI Engineer Program ...]]></description>
+            <pubDate>Sat, 21 Feb 2026 16:30:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=MsVujBISof8</guid>
+            <source>Simplilearn</source>
         </item>
         <item>
             <title>AI &amp;amp; ML Full Course 2026 | Complete Artificial Intelligence and Machine Learning Tutorial |  Edureka</title>
@@ -53,20 +45,20 @@
             <source>edureka!</source>
         </item>
         <item>
-            <title>Microsoft veut transformer Copilot en agent IA autonome 24h/24, mais sa stratégie n’est pas sans risque</title>
-            <link>https://www.phonandroid.com/microsoft-veut-transformer-copilot-en-agent-ia-autonome-24h-24-mais-sa-strategie-nest-pas-sans-risque.html</link>
-            <description><![CDATA[Microsoft semble prêt à passer à la vitesse supérieure pour transformer Copilot en véritable agent IA. Pour ce faire, la firme de Redmond développerait pour son assistant IA de nouvelles...]]></description>
-            <pubDate>Tue, 14 Apr 2026 09:25:16 -0000</pubDate>
-            <guid isPermaLink="true">https://www.phonandroid.com/microsoft-veut-transformer-copilot-en-agent-ia-autonome-24h-24-mais-sa-strategie-nest-pas-sans-risque.html</guid>
-            <source>Phonandroid</source>
-        </item>
-        <item>
             <title>I Tried 50 Machine Learning Courses: Here are The BEST 5</title>
             <link>https://www.youtube.com/watch?v=fXojHUuBnaY</link>
             <description><![CDATA[What are the best machine learning courses? I tried 50 (honestly, probably more at this point) to find out! DataCamp Machine ...]]></description>
             <pubDate>Tue, 07 Apr 2026 14:01:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=fXojHUuBnaY</guid>
             <source>Marina Wyss - AI & Machine Learning</source>
+        </item>
+        <item>
+            <title>Lancement par AliveCor du Kardia 12L alimenté par l’IA en Europe : le premier ECG portable à 12 dérivations au monde, doté d’une conception inédite à câble unique</title>
+            <link>https://www.globenewswire.com/news-release/2026/04/15/3274174/0/fr/Lancement-par-AliveCor-du-Kardia-12L-aliment%C3%A9-par-l-IA-en-Europe-le-premier-ECG-portable-%C3%A0-12-d%C3%A9rivations-au-monde-dot%C3%A9-d-une-conception-in%C3%A9dite-%C3%A0-c%C3%A2ble-unique.html</link>
+            <description><![CDATA[Désormais certifié CE, le système 12L utilise l’intelligence artificielle pour effectuer 35 diagnostics cardiaques, ce qui simplifie le processus d’ECG et facilite l’accès aux données cardiaques essen...]]></description>
+            <pubDate>Wed, 15 Apr 2026 08:01:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/04/15/3274174/0/fr/Lancement-par-AliveCor-du-Kardia-12L-aliment%C3%A9-par-l-IA-en-Europe-le-premier-ECG-portable-%C3%A0-12-d%C3%A9rivations-au-monde-dot%C3%A9-d-une-conception-in%C3%A9dite-%C3%A0-c%C3%A2ble-unique.html</guid>
+            <source>GlobeNewswire</source>
         </item>
         <item>
             <title>Data Analytics With Python Full Course 2026 [FREE] | Python Data Analytics Tutorial | Simplilearn</title>
@@ -85,6 +77,14 @@
             <source>Elephorm</source>
         </item>
         <item>
+            <title>Robotique biohybride : des cafards contrôlés par IA pour explorer là où les machines échouent</title>
+            <link>https://www.futura-sciences.com/tech/actualites/robotique-robotique-biohybride-cafards-controles-ia-explorer-machines-echouent-k2m6-133563/</link>
+            <description><![CDATA[Et si les cafards devenaient les espions de demain ? Une entreprise allemande transforme ces insectes en biorobots pilotés par intelligence artificielle. Des capteurs miniatures, une discrétion absolu...]]></description>
+            <pubDate>Wed, 15 Apr 2026 08:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/robotique-robotique-biohybride-cafards-controles-ia-explorer-machines-echouent-k2m6-133563/</guid>
+            <source>Futura</source>
+        </item>
+        <item>
             <title>Maîtriser SQL en 1 heure sans prise de tête</title>
             <link>https://www.youtube.com/watch?v=GVNc1ZrOoAs</link>
             <description><![CDATA[Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...]]></description>
@@ -93,7 +93,15 @@
             <source>CodeAvecLionel</source>
         </item>
         <item>
-            <title>Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/4</title>
+            <title>Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise</title>
+            <link>https://www.youtube.com/watch?v=ltlf84WBXeY</link>
+            <description><![CDATA[00:00 - Introduction &amp; présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...]]></description>
+            <pubDate>Fri, 03 Apr 2026 16:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ltlf84WBXeY</guid>
+            <source>Laurent MAGANTO</source>
+        </item>
+        <item>
+            <title>Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/5</title>
             <link>https://www.youtube.com/watch?v=dlH4Xfn7dGA</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
             <pubDate>Thu, 19 Feb 2026 17:00:00 -0000</pubDate>
@@ -141,14 +149,6 @@
             <source>Morpheus Formation | Excel, Sheets, Power BI</source>
         </item>
         <item>
-            <title>Les données intermédiaires de l'essai pivot testant cema-cel mettent en évidence la solidité de la plateforme CAR-T allogénique de Cellectis</title>
-            <link>https://www.globenewswire.com/news-release/2026/04/13/3272912/0/fr/Les-donn%C3%A9es-interm%C3%A9diaires-de-l-essai-pivot-testant-cema-cel-mettent-en-%C3%A9vidence-la-solidit%C3%A9-de-la-plateforme-CAR-T-allog%C3%A9nique-de-Cellectis.html</link>
-            <description><![CDATA[NEW YORK, 13 avr. 2026 (GLOBE NEWSWIRE) -- Cellectis (Euronext Growth : ALCLS ; Nasdaq : CLLS), société de biotechnologie de stade clinique, qui utilise sa plateforme pionnière d'édition de génome pou...]]></description>
-            <pubDate>Mon, 13 Apr 2026 20:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/04/13/3272912/0/fr/Les-donn%C3%A9es-interm%C3%A9diaires-de-l-essai-pivot-testant-cema-cel-mettent-en-%C3%A9vidence-la-solidit%C3%A9-de-la-plateforme-CAR-T-allog%C3%A9nique-de-Cellectis.html</guid>
-            <source>GlobeNewswire</source>
-        </item>
-        <item>
             <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
             <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
             <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
@@ -157,20 +157,20 @@
             <source>CodeAvecLionel</source>
         </item>
         <item>
-            <title>Apple Intelligence piratée : l’IA de votre iPhone peut trahir vos données personnelles</title>
-            <link>https://www.iphon.fr/post/apple-intelligence-ia-iphone-piratee-donnees-personnelles</link>
-            <description><![CDATA[Un rapport de cybersécurité vient de dévoiler une faille de sécurité majeure dans iOS. Apple l'a corrigée avec iOS 26.4. Une raison de plus d'installer la mise à jour sur son appareil.]]></description>
-            <pubDate>Tue, 14 Apr 2026 07:55:19 -0000</pubDate>
-            <guid isPermaLink="true">https://www.iphon.fr/post/apple-intelligence-ia-iphone-piratee-donnees-personnelles</guid>
-            <source>Iphon.fr</source>
+            <title>data-science-document-ai 1.66.1</title>
+            <link>https://pypi.org/project/data-science-document-ai/1.66.1/</link>
+            <description><![CDATA["Document AI repo for data science"]]></description>
+            <pubDate>Tue, 14 Apr 2026 10:46:28 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.66.1/</guid>
+            <source>Pypi.org</source>
         </item>
         <item>
-            <title>Pourquoi le Soleil a quitté le centre de la galaxie : l’étude qui éclaire notre origine stellaire</title>
-            <link>https://atlantico.fr/article/decryptage/pourquoi-le-soleil-a-quitte-le-centre-de-la-galaxie-letude-qui-eclaire-notre-origine-stellaire-anna-alter</link>
-            <description><![CDATA[Des chercheurs ont utilisé les données du télescope Gaia pour identifier 6 594 « jumeaux solaires » – des étoiles similaires au Soleil par leur âge et leur composition. Leur analyse révèle que ces éto...]]></description>
-            <pubDate>Tue, 14 Apr 2026 08:29:00 -0000</pubDate>
-            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/pourquoi-le-soleil-a-quitte-le-centre-de-la-galaxie-letude-qui-eclaire-notre-origine-stellaire-anna-alter</guid>
-            <source>Atlantico.fr</source>
+            <title>Lidl devient un opérateur virtuel de téléphone mobile</title>
+            <link>https://www.zdnet.fr/actualites/lidl-devient-un-operateur-virtuel-de-telephone-mobile-493738.htm</link>
+            <description><![CDATA[Après le cloud, l’enseigne de hard discount poursuit sa diversification d’activité dans les télécoms. En s’associant à l’opérateur 1Global, elle proposera des forfaits mobiles bon marché dans plusieur...]]></description>
+            <pubDate>Wed, 15 Apr 2026 03:04:30 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/lidl-devient-un-operateur-virtuel-de-telephone-mobile-493738.htm</guid>
+            <source>ZDNet France</source>
         </item>
     </channel>
 </rss>
