@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 16 Apr 2026 09:24:46 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 09:23:32 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,12 +21,12 @@
             <source>Comprendre l'informatique</source>
         </item>
         <item>
-            <title>Qu’est-ce que GPT-5.4-Cyber, la nouvelle IA d’OpenAI pour la cybersécurité ?</title>
-            <link>https://www.numerama.com/cyberguerre/2233039-quest-ce-que-gpt-5-4-cyber-la-nouvelle-ia-dopenai-pour-la-cybersecurite.html</link>
-            <description><![CDATA[Le 14 avril 2026, OpenAI a présenté GPT-5.4-Cyber, une variante de son dernier modèle pensée pour la cyberdéfense et destinée aux professionnels de la sécurité. L’annonce suit de près le bruit médiati...]]></description>
-            <pubDate>Wed, 15 Apr 2026 08:15:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/cyberguerre/2233039-quest-ce-que-gpt-5-4-cyber-la-nouvelle-ia-dopenai-pour-la-cybersecurite.html</guid>
-            <source>Numerama</source>
+            <title>Seule une meilleure pédagogie peut faciliter l’adoption de l’IA</title>
+            <link>https://fredcavazza.net/2026/04/15/seule-une-meilleure-pedagogie-peut-faciliter-ladoption-de-lia/</link>
+            <description><![CDATA[Plus de 3 ans après la sortie de ChatGPT, force est de constater que l’adoption de l’IA générative patine encore sérieusement : une étude récente révèle ainsi que 80 % des salariés refusent l’adoption...]]></description>
+            <pubDate>Wed, 15 Apr 2026 13:18:23 -0000</pubDate>
+            <guid isPermaLink="true">https://fredcavazza.net/2026/04/15/seule-une-meilleure-pedagogie-peut-faciliter-ladoption-de-lia/</guid>
+            <source>Fredcavazza.net</source>
         </item>
         <item>
             <title>AI and Machine Learning Full Course 2026 | AI &amp;amp; Machine Learning Tutorial For Beginners |Simplilearn</title>
@@ -45,20 +45,20 @@
             <source>edureka!</source>
         </item>
         <item>
+            <title>Utiliser Claude avec Power BI : le hack ultime</title>
+            <link>https://www.youtube.com/watch?v=NFpt6GfkTg8</link>
+            <description><![CDATA[https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...]]></description>
+            <pubDate>Sat, 11 Apr 2026 16:34:52 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=NFpt6GfkTg8</guid>
+            <source>Clément LVL</source>
+        </item>
+        <item>
             <title>I Tried 50 Machine Learning Courses: Here are The BEST 5</title>
             <link>https://www.youtube.com/watch?v=fXojHUuBnaY</link>
             <description><![CDATA[What are the best machine learning courses? I tried 50 (honestly, probably more at this point) to find out! DataCamp Machine ...]]></description>
             <pubDate>Tue, 07 Apr 2026 14:01:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=fXojHUuBnaY</guid>
             <source>Marina Wyss - AI & Machine Learning</source>
-        </item>
-        <item>
-            <title>Lancement par AliveCor du Kardia 12L alimenté par l’IA en Europe : le premier ECG portable à 12 dérivations au monde, doté d’une conception inédite à câble unique</title>
-            <link>https://www.globenewswire.com/news-release/2026/04/15/3274174/0/fr/Lancement-par-AliveCor-du-Kardia-12L-aliment%C3%A9-par-l-IA-en-Europe-le-premier-ECG-portable-%C3%A0-12-d%C3%A9rivations-au-monde-dot%C3%A9-d-une-conception-in%C3%A9dite-%C3%A0-c%C3%A2ble-unique.html</link>
-            <description><![CDATA[Désormais certifié CE, le système 12L utilise l’intelligence artificielle pour effectuer 35 diagnostics cardiaques, ce qui simplifie le processus d’ECG et facilite l’accès aux données cardiaques essen...]]></description>
-            <pubDate>Wed, 15 Apr 2026 08:01:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/04/15/3274174/0/fr/Lancement-par-AliveCor-du-Kardia-12L-aliment%C3%A9-par-l-IA-en-Europe-le-premier-ECG-portable-%C3%A0-12-d%C3%A9rivations-au-monde-dot%C3%A9-d-une-conception-in%C3%A9dite-%C3%A0-c%C3%A2ble-unique.html</guid>
-            <source>GlobeNewswire</source>
         </item>
         <item>
             <title>Data Analytics With Python Full Course 2026 [FREE] | Python Data Analytics Tutorial | Simplilearn</title>
@@ -69,22 +69,6 @@
             <source>Simplilearn</source>
         </item>
         <item>
-            <title>Le vrai pouvoir des filtres dans Power BI</title>
-            <link>https://www.youtube.com/watch?v=ykiwukJ0dWE</link>
-            <description><![CDATA[Les filtres dans Power BI paraissent simples… jusqu'au moment où tout se mélange. Voici ce qu'il faut vraiment comprendre pour ...]]></description>
-            <pubDate>Wed, 25 Mar 2026 23:58:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ykiwukJ0dWE</guid>
-            <source>Elephorm</source>
-        </item>
-        <item>
-            <title>Robotique biohybride : des cafards contrôlés par IA pour explorer là où les machines échouent</title>
-            <link>https://www.futura-sciences.com/tech/actualites/robotique-robotique-biohybride-cafards-controles-ia-explorer-machines-echouent-k2m6-133563/</link>
-            <description><![CDATA[Et si les cafards devenaient les espions de demain ? Une entreprise allemande transforme ces insectes en biorobots pilotés par intelligence artificielle. Des capteurs miniatures, une discrétion absolu...]]></description>
-            <pubDate>Wed, 15 Apr 2026 08:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/robotique-robotique-biohybride-cafards-controles-ia-explorer-machines-echouent-k2m6-133563/</guid>
-            <source>Futura</source>
-        </item>
-        <item>
             <title>Maîtriser SQL en 1 heure sans prise de tête</title>
             <link>https://www.youtube.com/watch?v=GVNc1ZrOoAs</link>
             <description><![CDATA[Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...]]></description>
@@ -93,12 +77,28 @@
             <source>CodeAvecLionel</source>
         </item>
         <item>
-            <title>Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise</title>
-            <link>https://www.youtube.com/watch?v=ltlf84WBXeY</link>
-            <description><![CDATA[00:00 - Introduction &amp; présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...]]></description>
-            <pubDate>Fri, 03 Apr 2026 16:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ltlf84WBXeY</guid>
-            <source>Laurent MAGANTO</source>
+            <title>Analyse discriminante avec « discrimintools » (Python)</title>
+            <link>https://www.youtube.com/watch?v=NvdjH1fRRE0</link>
+            <description><![CDATA[Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...]]></description>
+            <pubDate>Mon, 16 Feb 2026 09:53:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=NvdjH1fRRE0</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp;amp; 10 | Guide complet</title>
+            <link>https://www.youtube.com/watch?v=G-4DERRKrHA</link>
+            <description><![CDATA[Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...]]></description>
+            <pubDate>Wed, 25 Feb 2026 04:31:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=G-4DERRKrHA</guid>
+            <source>AntalaSoft School</source>
+        </item>
+        <item>
+            <title>Adoption de l'IA : l'indispensable préparation des données</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1549367-adoption-de-l-ia-l-indispensable-preparation-des-donnees/</link>
+            <description><![CDATA[L'un des obstacles majeurs réside dans le manque de confiance accordée aux données utilisées pour alimenter les modèles d'IA : seules 12 % des organisations estiment aujourd'hui disposer de données d'...]]></description>
+            <pubDate>Thu, 16 Apr 2026 08:53:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1549367-adoption-de-l-ia-l-indispensable-preparation-des-donnees/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/5</title>
@@ -115,6 +115,14 @@
             <pubDate>Thu, 26 Feb 2026 15:48:55 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=ch9dwbbNlOE</guid>
             <source>KNOWLEDGE DOCTOR</source>
+        </item>
+        <item>
+            <title>Dashboard Power BI Impressionnant | Tutoriel Débutant</title>
+            <link>https://www.youtube.com/watch?v=86cmlVHp4cs</link>
+            <description><![CDATA[Dans cette vidéo, je vous montre comment créer un dashboard professionnel dans Power BI en partant de zéro. Pas besoin de ...]]></description>
+            <pubDate>Wed, 08 Apr 2026 14:17:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=86cmlVHp4cs</guid>
+            <source>Benjamin Ejzenberg (votre coach Power BI)</source>
         </item>
         <item>
             <title>Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)</title>
@@ -149,28 +157,20 @@
             <source>Morpheus Formation | Excel, Sheets, Power BI</source>
         </item>
         <item>
+            <title>IA et jumeaux numériques : la souveraineté numérique devient critique pour le secteur de la défense</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1549473-ia-et-jumeaux-numeriques-quand-la-souverainete-numerique-devient-critique-pour-le-secteur-de-la-defense/</link>
+            <description><![CDATA[IA et jumeaux numériques renforcent la souveraineté numérique, essentielle pour la défense. Maîtrise des données, autonomie stratégique et interopérabilité sont clés face aux tensions géopolitiques.]]></description>
+            <pubDate>Thu, 16 Apr 2026 08:51:55 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1549473-ia-et-jumeaux-numeriques-quand-la-souverainete-numerique-devient-critique-pour-le-secteur-de-la-defense/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
             <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
             <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
             <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
             <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
             <source>CodeAvecLionel</source>
-        </item>
-        <item>
-            <title>data-science-document-ai 1.66.1</title>
-            <link>https://pypi.org/project/data-science-document-ai/1.66.1/</link>
-            <description><![CDATA["Document AI repo for data science"]]></description>
-            <pubDate>Tue, 14 Apr 2026 10:46:28 -0000</pubDate>
-            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.66.1/</guid>
-            <source>Pypi.org</source>
-        </item>
-        <item>
-            <title>Lidl devient un opérateur virtuel de téléphone mobile</title>
-            <link>https://www.zdnet.fr/actualites/lidl-devient-un-operateur-virtuel-de-telephone-mobile-493738.htm</link>
-            <description><![CDATA[Après le cloud, l’enseigne de hard discount poursuit sa diversification d’activité dans les télécoms. En s’associant à l’opérateur 1Global, elle proposera des forfaits mobiles bon marché dans plusieur...]]></description>
-            <pubDate>Wed, 15 Apr 2026 03:04:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/lidl-devient-un-operateur-virtuel-de-telephone-mobile-493738.htm</guid>
-            <source>ZDNet France</source>
         </item>
     </channel>
 </rss>

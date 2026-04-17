@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-16T09:24:46.385214",
+  "lastUpdate": "2026-04-17T09:23:32.283560",
   "articles": [
     {
       "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
@@ -14,11 +14,11 @@
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
     },
     {
-      "title": "Qu’est-ce que GPT-5.4-Cyber, la nouvelle IA d’OpenAI pour la cybersécurité ?",
-      "description": "Le 14 avril 2026, OpenAI a présenté GPT-5.4-Cyber, une variante de son dernier modèle pensée pour la cyberdéfense et destinée aux professionnels de la sécurité. L’annonce suit de près le bruit médiati...",
-      "url": "https://www.numerama.com/cyberguerre/2233039-quest-ce-que-gpt-5-4-cyber-la-nouvelle-ia-dopenai-pour-la-cybersecurite.html",
-      "source": "Numerama",
-      "publishedAt": "2026-04-15T08:15:45Z",
+      "title": "Seule une meilleure pédagogie peut faciliter l’adoption de l’IA",
+      "description": "Plus de 3 ans après la sortie de ChatGPT, force est de constater que l’adoption de l’IA générative patine encore sérieusement : une étude récente révèle ainsi que 80 % des salariés refusent l’adoption...",
+      "url": "https://fredcavazza.net/2026/04/15/seule-une-meilleure-pedagogie-peut-faciliter-ladoption-de-lia/",
+      "source": "Fredcavazza.net",
+      "publishedAt": "2026-04-15T13:18:23Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -50,6 +50,18 @@
       "thumbnail": "https://i.ytimg.com/vi/1Qm_RgejEHg/hqdefault.jpg"
     },
     {
+      "title": "Utiliser Claude avec Power BI : le hack ultime",
+      "description": "https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...",
+      "url": "https://www.youtube.com/watch?v=NFpt6GfkTg8",
+      "source": "Clément LVL",
+      "publishedAt": "2026-04-11T16:34:52Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "NFpt6GfkTg8",
+      "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
+    },
+    {
       "title": "I Tried 50 Machine Learning Courses: Here are The BEST 5",
       "description": "What are the best machine learning courses? I tried 50 (honestly, probably more at this point) to find out! DataCamp Machine ...",
       "url": "https://www.youtube.com/watch?v=fXojHUuBnaY",
@@ -60,18 +72,6 @@
       "isYouTube": true,
       "videoId": "fXojHUuBnaY",
       "thumbnail": "https://i.ytimg.com/vi/fXojHUuBnaY/hqdefault.jpg"
-    },
-    {
-      "title": "Lancement par AliveCor du Kardia 12L alimenté par l’IA en Europe : le premier ECG portable à 12 dérivations au monde, doté d’une conception inédite à câble unique",
-      "description": "Désormais certifié CE, le système 12L utilise l’intelligence artificielle pour effectuer 35 diagnostics cardiaques, ce qui simplifie le processus d’ECG et facilite l’accès aux données cardiaques essen...",
-      "url": "https://www.globenewswire.com/news-release/2026/04/15/3274174/0/fr/Lancement-par-AliveCor-du-Kardia-12L-aliment%C3%A9-par-l-IA-en-Europe-le-premier-ECG-portable-%C3%A0-12-d%C3%A9rivations-au-monde-dot%C3%A9-d-une-conception-in%C3%A9dite-%C3%A0-c%C3%A2ble-unique.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-04-15T08:01:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Data Analytics With Python Full Course 2026 [FREE] | Python Data Analytics Tutorial | Simplilearn",
@@ -86,30 +86,6 @@
       "thumbnail": "https://i.ytimg.com/vi/4ZGJs6TRzls/hqdefault.jpg"
     },
     {
-      "title": "Le vrai pouvoir des filtres dans Power BI",
-      "description": "Les filtres dans Power BI paraissent simples… jusqu'au moment où tout se mélange. Voici ce qu'il faut vraiment comprendre pour ...",
-      "url": "https://www.youtube.com/watch?v=ykiwukJ0dWE",
-      "source": "Elephorm",
-      "publishedAt": "2026-03-25T23:58:29Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ykiwukJ0dWE",
-      "thumbnail": "https://i.ytimg.com/vi/ykiwukJ0dWE/hqdefault.jpg"
-    },
-    {
-      "title": "Robotique biohybride : des cafards contrôlés par IA pour explorer là où les machines échouent",
-      "description": "Et si les cafards devenaient les espions de demain ? Une entreprise allemande transforme ces insectes en biorobots pilotés par intelligence artificielle. Des capteurs miniatures, une discrétion absolu...",
-      "url": "https://www.futura-sciences.com/tech/actualites/robotique-robotique-biohybride-cafards-controles-ia-explorer-machines-echouent-k2m6-133563/",
-      "source": "Futura",
-      "publishedAt": "2026-04-15T08:00:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Maîtriser SQL en 1 heure sans prise de tête",
       "description": "Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...",
       "url": "https://www.youtube.com/watch?v=GVNc1ZrOoAs",
@@ -122,16 +98,40 @@
       "thumbnail": "https://i.ytimg.com/vi/GVNc1ZrOoAs/hqdefault.jpg"
     },
     {
-      "title": "Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise",
-      "description": "00:00 - Introduction & présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...",
-      "url": "https://www.youtube.com/watch?v=ltlf84WBXeY",
-      "source": "Laurent MAGANTO",
-      "publishedAt": "2026-04-03T16:30:00Z",
-      "category": "data",
+      "title": "Analyse discriminante avec « discrimintools » (Python)",
+      "description": "Machine learning. Data Science. Présentation de la librairie « discrimintools » pour Python. Elle implémente différentes variantes ...",
+      "url": "https://www.youtube.com/watch?v=NvdjH1fRRE0",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-02-16T09:53:06Z",
+      "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "ltlf84WBXeY",
-      "thumbnail": "https://i.ytimg.com/vi/ltlf84WBXeY/hqdefault.jpg"
+      "videoId": "NvdjH1fRRE0",
+      "thumbnail": "https://i.ytimg.com/vi/NvdjH1fRRE0/hqdefault.jpg"
+    },
+    {
+      "title": "Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp; 10 | Guide complet",
+      "description": "Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...",
+      "url": "https://www.youtube.com/watch?v=G-4DERRKrHA",
+      "source": "AntalaSoft School",
+      "publishedAt": "2026-02-25T04:31:34Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "G-4DERRKrHA",
+      "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
+    },
+    {
+      "title": "Adoption de l'IA : l'indispensable préparation des données",
+      "description": "L'un des obstacles majeurs réside dans le manque de confiance accordée aux données utilisées pour alimenter les modèles d'IA : seules 12 % des organisations estiment aujourd'hui disposer de données d'...",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1549367-adoption-de-l-ia-l-indispensable-preparation-des-donnees/",
+      "source": "JDN",
+      "publishedAt": "2026-04-16T08:53:08Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/5",
@@ -156,6 +156,18 @@
       "isYouTube": true,
       "videoId": "ch9dwbbNlOE",
       "thumbnail": "https://i.ytimg.com/vi/ch9dwbbNlOE/hqdefault.jpg"
+    },
+    {
+      "title": "Dashboard Power BI Impressionnant | Tutoriel Débutant",
+      "description": "Dans cette vidéo, je vous montre comment créer un dashboard professionnel dans Power BI en partant de zéro. Pas besoin de ...",
+      "url": "https://www.youtube.com/watch?v=86cmlVHp4cs",
+      "source": "Benjamin Ejzenberg (votre coach Power BI)",
+      "publishedAt": "2026-04-08T14:17:40Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "86cmlVHp4cs",
+      "thumbnail": "https://i.ytimg.com/vi/86cmlVHp4cs/hqdefault.jpg"
     },
     {
       "title": "Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)",
@@ -206,6 +218,18 @@
       "thumbnail": "https://i.ytimg.com/vi/SqzUaKJb384/hqdefault.jpg"
     },
     {
+      "title": "IA et jumeaux numériques : la souveraineté numérique devient critique pour le secteur de la défense",
+      "description": "IA et jumeaux numériques renforcent la souveraineté numérique, essentielle pour la défense. Maîtrise des données, autonomie stratégique et interopérabilité sont clés face aux tensions géopolitiques.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1549473-ia-et-jumeaux-numeriques-quand-la-souverainete-numerique-devient-critique-pour-le-secteur-de-la-defense/",
+      "source": "JDN",
+      "publishedAt": "2026-04-16T08:51:55Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser",
       "description": "Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...",
       "url": "https://www.youtube.com/watch?v=SCKEMpv7Ld4",
@@ -218,35 +242,11 @@
       "thumbnail": "https://i.ytimg.com/vi/SCKEMpv7Ld4/hqdefault.jpg"
     },
     {
-      "title": "data-science-document-ai 1.66.1",
-      "description": "\"Document AI repo for data science\"",
-      "url": "https://pypi.org/project/data-science-document-ai/1.66.1/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-04-14T10:46:28Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Lidl devient un opérateur virtuel de téléphone mobile",
-      "description": "Après le cloud, l’enseigne de hard discount poursuit sa diversification d’activité dans les télécoms. En s’associant à l’opérateur 1Global, elle proposera des forfaits mobiles bon marché dans plusieur...",
-      "url": "https://www.zdnet.fr/actualites/lidl-devient-un-operateur-virtuel-de-telephone-mobile-493738.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-04-15T03:04:30Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "États-Unis: une intelligence artificielle à l’effigie de Jésus-Christ lancée...pour 2 dollars la minute",
-      "description": "Une entreprise américaine propose des appels vidéo avec le Christ grâce à l’IA. Mais évidemment, il faut payer... ...",
-      "url": "https://www.lavenir.net/buzz/2026/04/15/etats-unis-une-intelligence-artificielle-a-leffigie-du-christ-lanceepour-2-dollars-la-minute-UI5LVMU27NG3RAU4IWHY5SFNRY/",
-      "source": "Lavenir.net",
-      "publishedAt": "2026-04-15T07:46:12Z",
+      "title": "Médecins, avocats, développeurs : et si tous devenaient des orchestrateurs d'IA ?",
+      "description": "L'IA ne supprimera peut-être pas tous les métiers. Elle pourrait faire plus radical : les fusionner en un seul. Médecins, avocats, développeurs… tous deviendraient des orchestrateurs d'IA.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1549487-medecins-avocats-developpeurs-et-si-tous-devenaient-des-orchestrateurs-d-ia/",
+      "source": "JDN",
+      "publishedAt": "2026-04-16T05:01:02Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Sorties ciné. Good Luck Have Fun Don’t Die : une comédie sur l’IA par le réalisateur de Pirates des Caraïbes",
-      "description": "Comédie de science-fiction sur l’intelligence artificielle, Good Luck Have Fun Don’t Die, en salles ce mercredi, est un joyeux bazar, mais dont le ton paternaliste empêche de pleinement exprimer la fo...",
-      "url": "https://www.ledauphine.com/culture-loisirs/2026/04/15/i-good-luck-have-fun-don-t-die-i-une-comedie-sur-l-ia-par-le-realisateur-de-i-pirates-des-caraibes-i",
-      "source": "Le Dauphiné Libéré",
-      "publishedAt": "2026-04-15T08:00:00Z",
+      "title": "L’IA qui fait trembler Hollywood vient d’arriver sur TikTok : voici de quoi elle est capable",
+      "description": "L’IA Seedance 2.0 de Bytedance arrive sur CapCut et TikTok. Grâce à ses performances, celle-ci défie les technologies de génération de vidéos d’OpenAI et de Google.",
+      "url": "https://www.presse-citron.net/lia-qui-fait-trembler-hollywood-vient-darriver-sur-tiktok-voici-de-quoi-elle-est-capable/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-04-16T05:01:26Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ce smartphone vous dit comment poser pour vos photos grâce à l’IA",
+      "description": "Huawei dévoile une fonction inédite : un système d'IA qui analyse votre environnement et vous suggère comment poser pour vos portraits et selfies.\n\n© 2026 Phototrend - Ce smartphone vous dit comment p...",
+      "url": "https://phototrend.fr/2026/04/huawei-pura-90-conseils-pose-photo/",
+      "source": "Phototrend.fr",
+      "publishedAt": "2026-04-16T05:35:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "BlackLine présente Agentic Financial Operations, destiné à combler les lacunes de l’IA en matière de gouvernance et de confiance",
-      "description": "LOS ANGELES, 15 avr. 2026 (GLOBE NEWSWIRE) -- BlackLine, Inc. (Nasdaq : BL) annonce aujourd’hui le lancement d’Agentic Financial Operations, un nouveau modèle opérationnel visant à remédier aux problè...",
-      "url": "https://www.globenewswire.com/news-release/2026/04/15/3274138/0/fr/BlackLine-pr%C3%A9sente-Agentic-Financial-Operations-destin%C3%A9-%C3%A0-combler-les-lacunes-de-l-IA-en-mati%C3%A8re-de-gouvernance-et-de-confiance.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-04-15T06:12:00Z",
+      "title": "IA : une nouvelle étape de la lutte des classes ?",
+      "description": "Frustration Magazine, média indépendant et offensif qui relate la guerre des classes.",
+      "url": "https://frustrationmagazine.fr/ia-lutte/",
+      "source": "Frustrationmagazine.fr",
+      "publishedAt": "2026-04-15T15:34:07Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,23 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Penser la santé mondiale dans la crise de la mondialisation : 10 thèses pour faire face",
-      "description": "La santé mondiale est en danger.  Fragilisés par le choc d'Ormuz, les systèmes sanitaires sont en crise depuis plusieurs années et désormais attaqués par l'administration Trump.  Dans une étude fouill...",
-      "url": "https://legrandcontinent.eu/fr/2026/04/14/sante-mondiale-futur/",
-      "source": "Legrandcontinent.eu",
-      "publishedAt": "2026-04-14T15:18:13Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Les scanners médicaux pourraient-ils augmenter le risque de cancer ? Ce que révèle une nouvelle étude",
-      "description": "Quelque 103 000 cancers potentiellement liés aux scanners médicaux aux États-Unis : le chiffre fait froid dans le dos. Faut-il craindre ces examens devenus banals dans nos hôpitaux ? Entre bénéfices d...",
-      "url": "https://www.futura-sciences.com/sante/questions-reponses/cancer-scanners-medicaux-pourraient-ils-augmenter-risque-cancer-ce-revele-nouvelle-etude-k2m6-24900/",
+      "title": "Plus d’un milliard de caméras IA vous observent… ces vêtements sont conçus pour les tromper",
+      "description": "À mi-chemin entre science-fiction et dystopie orwellienne, la mode high-tech innove pour préserver l'anonymat dans les grandes villes.",
+      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-plus-milliard-cameras-ia-vous-observent-ces-vetements-sont-concus-tromper-133653/",
       "source": "Futura",
-      "publishedAt": "2026-04-14T08:00:00Z",
+      "publishedAt": "2026-04-16T05:08:39Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
