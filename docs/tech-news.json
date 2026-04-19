@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-18T08:57:01.046707",
+  "lastUpdate": "2026-04-19T08:59:51.022023",
   "articles": [
     {
       "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
@@ -12,6 +12,18 @@
       "isYouTube": true,
       "videoId": "77IMWD4TWtg",
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
+    },
+    {
+      "title": "Utiliser Claude avec Power BI : le hack ultime",
+      "description": "https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...",
+      "url": "https://www.youtube.com/watch?v=NFpt6GfkTg8",
+      "source": "Clément LVL",
+      "publishedAt": "2026-04-11T16:34:52Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "NFpt6GfkTg8",
+      "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
     },
     {
       "title": "I Tried 50 Machine Learning Courses: Here are The BEST 5",
@@ -50,18 +62,6 @@
       "thumbnail": "https://i.ytimg.com/vi/4cExalx09xU/hqdefault.jpg"
     },
     {
-      "title": "Le vrai pouvoir des filtres dans Power BI",
-      "description": "Les filtres dans Power BI paraissent simples… jusqu'au moment où tout se mélange. Voici ce qu'il faut vraiment comprendre pour ...",
-      "url": "https://www.youtube.com/watch?v=ykiwukJ0dWE",
-      "source": "Elephorm",
-      "publishedAt": "2026-03-25T23:58:29Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ykiwukJ0dWE",
-      "thumbnail": "https://i.ytimg.com/vi/ykiwukJ0dWE/hqdefault.jpg"
-    },
-    {
       "title": "Maîtriser SQL en 1 heure sans prise de tête",
       "description": "Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...",
       "url": "https://www.youtube.com/watch?v=GVNc1ZrOoAs",
@@ -74,18 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/GVNc1ZrOoAs/hqdefault.jpg"
     },
     {
-      "title": "SQL pour débutants : Maitrisez les base en moins d&#39;un mois (LIVE)",
-      "description": "Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...",
-      "url": "https://www.youtube.com/watch?v=DngKcAFU3Kc",
-      "source": "CodeAvecLionel",
-      "publishedAt": "2026-04-08T07:53:49Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "DngKcAFU3Kc",
-      "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
-    },
-    {
       "title": "Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp; 10 | Guide complet",
       "description": "Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...",
       "url": "https://www.youtube.com/watch?v=G-4DERRKrHA",
@@ -96,6 +84,18 @@
       "isYouTube": true,
       "videoId": "G-4DERRKrHA",
       "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
+    },
+    {
+      "title": "SQL - Question bac NSI",
+      "description": "SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...",
+      "url": "https://www.youtube.com/watch?v=VLzCWa3nXrw",
+      "source": "Célian",
+      "publishedAt": "2026-04-06T08:26:26Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "VLzCWa3nXrw",
+      "thumbnail": "https://i.ytimg.com/vi/VLzCWa3nXrw/hqdefault.jpg"
     },
     {
       "title": "Pourquoi les télécoms ne peuvent plus se passer de la Data Science – Chike Odenigbo",
@@ -122,18 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/VNM4jJq8dSQ/hqdefault.jpg"
     },
     {
-      "title": "Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise",
-      "description": "00:00 - Introduction & présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...",
-      "url": "https://www.youtube.com/watch?v=ltlf84WBXeY",
-      "source": "Laurent MAGANTO",
-      "publishedAt": "2026-04-03T16:30:00Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ltlf84WBXeY",
-      "thumbnail": "https://i.ytimg.com/vi/ltlf84WBXeY/hqdefault.jpg"
-    },
-    {
       "title": "Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/5",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=dlH4Xfn7dGA",
@@ -156,6 +144,18 @@
       "isYouTube": true,
       "videoId": "ch9dwbbNlOE",
       "thumbnail": "https://i.ytimg.com/vi/ch9dwbbNlOE/hqdefault.jpg"
+    },
+    {
+      "title": "Dashboard Power BI Impressionnant | Tutoriel Débutant",
+      "description": "Dans cette vidéo, je vous montre comment créer un dashboard professionnel dans Power BI en partant de zéro. Pas besoin de ...",
+      "url": "https://www.youtube.com/watch?v=86cmlVHp4cs",
+      "source": "Benjamin Ejzenberg (votre coach Power BI)",
+      "publishedAt": "2026-04-08T14:17:40Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "86cmlVHp4cs",
+      "thumbnail": "https://i.ytimg.com/vi/86cmlVHp4cs/hqdefault.jpg"
     },
     {
       "title": "Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)",
@@ -206,6 +206,18 @@
       "thumbnail": "https://i.ytimg.com/vi/SqzUaKJb384/hqdefault.jpg"
     },
     {
+      "title": "1,3 milliard de photos : des découvertes majeures pourraient se cacher dans les images du « Shazam des plantes »",
+      "description": "Conçue pour les chercheurs mais adoptée par des millions de curieux, PlantNet est bien plus qu’une application d’identification de plantes utilisée par le grand public. C'est un outil scientifique pré...",
+      "url": "https://www.futura-sciences.com/planete/actualites/botanique-13-milliard-photos-decouvertes-majeures-pourraient-cacher-images-shazam-plantes-133622/",
+      "source": "Futura",
+      "publishedAt": "2026-04-18T05:03:24Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser",
       "description": "Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...",
       "url": "https://www.youtube.com/watch?v=SCKEMpv7Ld4",
@@ -218,11 +230,11 @@
       "thumbnail": "https://i.ytimg.com/vi/SCKEMpv7Ld4/hqdefault.jpg"
     },
     {
-      "title": "Bruxelles pousse Google à partager ses données clés pour briser sa domination",
-      "description": "Le Digital Markets Act avance ses pions. Un an après son entrée en application, la Commission européenne durcit le ton face à Google avec une série d’exigences précises. La firme doit ouvrir l’accès a...",
-      "url": "https://siecledigital.fr/2026/04/17/bruxelles-pousse-google-a-partager-ses-donnees-cles-pour-briser-sa-domination/",
-      "source": "Siècle Digital",
-      "publishedAt": "2026-04-17T08:21:51Z",
+      "title": "La loi sur la parité en politique est sauvée, mais à bout de souffle",
+      "description": "Le Conseil constitutionnel a validé le texte qui prévoit les amendes des partis qui ne présentent pas assez de femmes. Mais les données que publie « Mediapart » montrent que d’autres formations, y com...",
+      "url": "https://www.mediapart.fr/journal/politique/170426/la-loi-sur-la-parite-en-politique-est-sauvee-mais-bout-de-souffle",
+      "source": "Mediapart",
+      "publishedAt": "2026-04-17T08:46:26Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,23 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Bpifrance a mobilisé 1,6 milliard d’euros au soutien des entreprises d’Occitanie en 2025",
-      "description": "La banque publique d’investissement Bpifrance vient de dresser le bilan de son action dans la région Occitanie en 2025, où ses équipes accompagnent la vie des entreprises, de leur création à leur tran...",
-      "url": "https://www.lejournaldesentreprises.com/article/bpifrance-mobilise-16-milliard-deuros-au-soutien-des-entreprises-doccitanie-en-2025-2141229",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-04-17T08:04:22Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Stargate Norvège : Après le Royaume-Uni, OpenAI se désiste et laisse la place à Microsoft",
-      "description": "Dans le grand échiquier de l'intelligence artificielle, les pions bougent vite. Le projet \"Stargate\" d'OpenAI en Norvège vient de connaître un pivot stratégique majeur, redessinant les alliances et le...",
-      "url": "https://www.generation-nt.com/actualites/openai-stargate-norvege-centre-donnees-microsoft-2074148",
-      "source": "Génération NT",
-      "publishedAt": "2026-04-17T07:20:01Z",
+      "title": "L’IA en PME : de l’expérimentation au ROI mesurable",
+      "description": "L'intelligence artificielle promet de révolutionner la productivité des PME. Mais entre les démos spectaculaires et la réalité opérationnelle, le fossé est immense. Le manager IT doit passer du pilote...",
+      "url": "https://www.itespresso.fr/lia-en-pme-de-lexperimentation-au-roi-mesurable-280388.html",
+      "source": "Itespresso.fr",
+      "publishedAt": "2026-04-17T10:30:23Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Canva dévoile sa plateforme intégrée d'IA",
-      "description": "Canva lance Canva AI 2.0, une plateforme permettant de gérer de manière intégrée l'ensemble des tâches professionnelles grâce à l'intelligence artificielle générative.",
-      "url": "https://www.zdnet.fr/actualites/canva-devoile-sa-plateforme-integree-dia-493899.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-04-17T06:52:04Z",
+      "title": "Plus de 20 procès et 14 milliards en jeu, Tesla n’a jamais été aussi menacé par la justice",
+      "description": "Tesla se retrouve face à plus de 20 fronts judiciaires simultanés aux États-Unis. Les montants en jeu pourraient atteindre 14,5 milliards de dollars. Et selon une analyse détaillée, le pire...",
+      "url": "https://www.phonandroid.com/plus-de-20-proces-et-14-milliards-en-jeu-tesla-na-jamais-ete-aussi-menace-par-la-justice.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-04-17T15:14:15Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Samsung S90F OLED avec Vision AI : et si la véritable star, c’était lui ?",
-      "description": "L’image OLED fascine, mais avec les 55S90F et 65S90F et son intelligence artificielle Vision AI, Samsung franchit une nouvelle frontière… celle d’un téléviseur qui ne se contente plus d’afficher des c...",
-      "url": "https://www.lesnumeriques.com/tv-televiseur/samsung-s90f-oled-avec-vision-ai-et-si-la-veritable-star-c-etait-lui-na254388.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-04-17T08:00:00Z",
+      "title": "Avis sur la qualité du support client chez Legiano Casino",
+      "description": "Le support client est un élément crucial pour toute plateforme de jeu en ligne, car il garantit une expérience fluide et rassurante pour les utilisateurs. Legiano Casino s’efforce de fournir une assis...",
+      "url": "http://www.blogtrepreneur.com/avis-sur-la-qualite-du-support-client-chez-legiano-casino/",
+      "source": "Blogtrepreneur.com",
+      "publishedAt": "2026-04-17T23:07:10Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,23 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Google AI Studio : c’est quoi et comment l’utiliser ?",
-      "description": "L’intelligence artificielle générative transforme profondément la manière dont on imagine, conçoit et développe des applications. Ce qui prenait autrefois des semaines de prototypage peut aujourd’hui ...",
-      "url": "https://www.webmarketing-com.com/google-ai-studio-cest-quoi-et-comment-lutiliser",
-      "source": "Webmarketing-com.com",
-      "publishedAt": "2026-04-17T07:30:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kia retarde ses SDV et accélère ses investissements",
-      "description": "Kia repousse son premier véhicule défini par logiciel à 2028 et augmente fortement ses investissements en IA et autonomie. Le constructeur sud-coréen Kia Corp revoit [...]\nL’article Kia retarde ses SD...",
-      "url": "https://www.leblogauto.com/actualites/kia-retarde-ses-sdv-et-accelere-ses-investissements/",
-      "source": "Leblogauto.com",
-      "publishedAt": "2026-04-17T06:20:00Z",
+      "title": "Elon Musk convoqué devant la justice française concernant les contenus à caractère pédopornographique qui circulent sur X",
+      "description": "Elon Musk répondra-t-il à la convocation du parquet de Paris? Le multimilliardaire américain est attendu lundi, en audition libre, dans le cadre de l'enquête menée par la justice française sur son rés...",
+      "url": "https://www.lalibre.be/international/europe/2026/04/18/elon-musk-convoque-devant-la-justice-francaise-concernant-les-contenus-a-caractere-pedopornographique-qui-circulent-sur-x-ZU5K3SLHGRHSFK3S6DQQQ5Y47M/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-04-18T05:40:16Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
