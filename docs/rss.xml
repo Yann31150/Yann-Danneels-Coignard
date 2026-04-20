@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 19 Apr 2026 08:59:51 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 10:02:35 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -19,6 +19,14 @@
             <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
             <source>Comprendre l'informatique</source>
+        </item>
+        <item>
+            <title>TEMOIGNAGES. Itinéraires, dénivelés, matériel... Pourquoi vous faites fausse route en en vous fiant à l'IA pour préparer votre randonnée</title>
+            <link>https://www.franceinfo.fr/decouverte/temoignages-itineraires-deniveles-materiel-pourquoi-vous-faites-fausse-route-en-en-vous-fiant-a-l-ia-pour-preparer-votre-randonnee_7923731.html</link>
+            <description><![CDATA[Le parc national des Cévennes alerte, exemple à l'appui, des dangers encourus par les randonneurs qui planifient leur itinéraire à l'aide de ChatGPT, une pratique de plus en plus courante, non sans ri...]]></description>
+            <pubDate>Sun, 19 Apr 2026 08:57:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/decouverte/temoignages-itineraires-deniveles-materiel-pourquoi-vous-faites-fausse-route-en-en-vous-fiant-a-l-ia-pour-preparer-votre-randonnee_7923731.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
         <item>
             <title>Utiliser Claude avec Power BI : le hack ultime</title>
@@ -35,6 +43,14 @@
             <pubDate>Tue, 07 Apr 2026 14:01:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=fXojHUuBnaY</guid>
             <source>Marina Wyss - AI & Machine Learning</source>
+        </item>
+        <item>
+            <title>Maroc : l’intelligence artificielle au chevet d’un système de santé en transition</title>
+            <link>https://www.jeuneafrique.com/1789374/economie-entreprises/maroc-lintelligence-artificielle-au-chevet-dun-systeme-de-sante-en-transition/</link>
+            <description><![CDATA[Alors que la Gen Z qui a manifesté au Maroc en octobre 2025 réclamait une profonde réforme du système de santé, et que Mohammed VI appelle à en finir avec un pays « à deux vitesses », l’intelligence a...]]></description>
+            <pubDate>Sun, 19 Apr 2026 09:20:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.jeuneafrique.com/1789374/economie-entreprises/maroc-lintelligence-artificielle-au-chevet-dun-systeme-de-sante-en-transition/</guid>
+            <source>Jeune Afrique</source>
         </item>
         <item>
             <title>Data Analytics With Python Full Course 2026 [FREE] | Python Data Analytics Tutorial | Simplilearn</title>
@@ -77,22 +93,6 @@
             <source>Célian</source>
         </item>
         <item>
-            <title>Pourquoi les télécoms ne peuvent plus se passer de la Data Science – Chike Odenigbo</title>
-            <link>https://www.youtube.com/watch?v=kNy0VnMMP3Y</link>
-            <description><![CDATA[Dans ce second podcast, Ekué a eu le plaisir de discuter avec Chike Odenigbo qui est un expert en data science dans le ...]]></description>
-            <pubDate>Fri, 27 Feb 2026 23:01:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=kNy0VnMMP3Y</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
-            <title>Il utilise la Data Science pour battre le marché – Felix Carrier</title>
-            <link>https://www.youtube.com/watch?v=VNM4jJq8dSQ</link>
-            <description><![CDATA[Dans ce troisième podcast, Ekué a eu le plaisir de discuter avec Felix Carrier qui est un expert en data science dans le domaine ...]]></description>
-            <pubDate>Fri, 06 Mar 2026 23:00:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VNM4jJq8dSQ</guid>
-            <source>Enogne School</source>
-        </item>
-        <item>
             <title>Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/5</title>
             <link>https://www.youtube.com/watch?v=dlH4Xfn7dGA</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
@@ -115,6 +115,22 @@
             <pubDate>Wed, 08 Apr 2026 14:17:40 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=86cmlVHp4cs</guid>
             <source>Benjamin Ejzenberg (votre coach Power BI)</source>
+        </item>
+        <item>
+            <title>Dossier : Sosh Fibre 2 Gbps à 24,99€ vs B&amp;YOU 8 Gbps à 25,99€ : débit maximal ou fiabilité du réseau ?</title>
+            <link>https://www.lesnumeriques.com/disque-dur-multimedia/sosh-fibre-2-gbps-a-24-99-vs-b-you-8-gbps-a-25-99-debit-maximal-ou-fiabilite-du-reseau-a254535.html</link>
+            <description><![CDATA[Pour 1 € de plus, la B&amp;YOU Pure Fibre Plus promet des débits bien supérieurs à Sosh. Mais cela fait-il vraiment la différence au quotidien ? Ce comparatif vous donne toutes les clés pour choisir la me...]]></description>
+            <pubDate>Sun, 19 Apr 2026 10:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/disque-dur-multimedia/sosh-fibre-2-gbps-a-24-99-vs-b-you-8-gbps-a-25-99-debit-maximal-ou-fiabilite-du-reseau-a254535.html</guid>
+            <source>Les Numériques</source>
+        </item>
+        <item>
+            <title>Windscribe s’invite dans les agents IA pour renforcer la confidentialité</title>
+            <link>https://www.begeek.fr/windscribe-sinvite-dans-les-agents-ia-pour-renforcer-la-confidentialite-431114</link>
+            <description><![CDATA[Les assistants intelligents connectés exposent désormais les données et habitudes des foyers via leur adresse IP.]]></description>
+            <pubDate>Sun, 19 Apr 2026 06:00:50 -0000</pubDate>
+            <guid isPermaLink="true">https://www.begeek.fr/windscribe-sinvite-dans-les-agents-ia-pour-renforcer-la-confidentialite-431114</guid>
+            <source>Begeek.fr</source>
         </item>
         <item>
             <title>Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)</title>
@@ -155,22 +171,6 @@
             <pubDate>Sat, 18 Apr 2026 05:03:24 -0000</pubDate>
             <guid isPermaLink="true">https://www.futura-sciences.com/planete/actualites/botanique-13-milliard-photos-decouvertes-majeures-pourraient-cacher-images-shazam-plantes-133622/</guid>
             <source>Futura</source>
-        </item>
-        <item>
-            <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
-            <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
-            <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
-            <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
-            <source>CodeAvecLionel</source>
-        </item>
-        <item>
-            <title>La loi sur la parité en politique est sauvée, mais à bout de souffle</title>
-            <link>https://www.mediapart.fr/journal/politique/170426/la-loi-sur-la-parite-en-politique-est-sauvee-mais-bout-de-souffle</link>
-            <description><![CDATA[Le Conseil constitutionnel a validé le texte qui prévoit les amendes des partis qui ne présentent pas assez de femmes. Mais les données que publie « Mediapart » montrent que d’autres formations, y com...]]></description>
-            <pubDate>Fri, 17 Apr 2026 08:46:26 -0000</pubDate>
-            <guid isPermaLink="true">https://www.mediapart.fr/journal/politique/170426/la-loi-sur-la-parite-en-politique-est-sauvee-mais-bout-de-souffle</guid>
-            <source>Mediapart</source>
         </item>
     </channel>
 </rss>
