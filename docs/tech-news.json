@@ -1,6 +1,54 @@
 {
-  "lastUpdate": "2026-04-20T10:02:35.605057",
+  "lastUpdate": "2026-04-21T09:44:12.053601",
   "articles": [
+    {
+      "title": "ZD Tech : vous pourriez vendre votre bien plus cher et sans agence en utilisant l'IA comme ce propriétaire",
+      "description": "Vendre son bien immobilier en un temps record tout en réalisant une plus-value inespérée, le tout sans débourser un centime en frais d'agence. En utilisant ChatGPT comme un véritable chef de projet, c...",
+      "url": "https://www.zdnet.fr/actualites/zd-tech-vous-pourriez-vendre-votre-bien-plus-cher-et-sans-agence-en-utilisant-lia-comme-ce-proprietaire-493776.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-04-20T05:41:01Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mozilla lance Thunderbolt, un client IA open source pour contrer Copilot, ChatGPT et Claude",
+      "description": "MZLA Technologies Corporation, filiale de la fondation Mozilla, dévoile un client IA open source et auto-hébergé pour les entreprises qui veulent garder la main sur leurs données.",
+      "url": "https://www.blogdumoderateur.com/mozilla-lance-thunderbolt-client-ia-open-source/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-04-20T09:24:37Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sephora confie son programme de fidélité à ChatGPT : pourquoi c’est un tournant",
+      "description": "SPECIAL SEPHORA SPRING – Las Vegas  Premier jour à Shoptalk Spring à Las Vegas fin mars, et déjà l’annonce la plus fracassante. Non seulement Sephora s’allie à OpenAI, mais l’enseigne de beauté lui co...",
+      "url": "https://www.frenchweb.fr/sephora-confie-son-programme-de-fidelite-a-chatgpt-pourquoi-cest-un-tournant/461313",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-04-20T09:24:09Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comment utiliser Grok AI en 2026, le guide complet : chatbot, images et vidéos",
+      "description": "Lancé par xAI et intégré à X (anciennement Twitter), Grok s’est rapidement imposé comme un concurrent crédible de ChatGPT ou Claude. Sa promesse initiale (une IA puissante et en partie gratuite) a séd...",
+      "url": "https://www.aruco.com/intelligence-artificielle/grok-ai-2026-guide-complet/",
+      "source": "Aruco.com",
+      "publishedAt": "2026-04-19T16:34:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
     {
       "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
       "description": "Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...",
@@ -12,18 +60,6 @@
       "isYouTube": true,
       "videoId": "77IMWD4TWtg",
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
-    },
-    {
-      "title": "TEMOIGNAGES. Itinéraires, dénivelés, matériel... Pourquoi vous faites fausse route en en vous fiant à l'IA pour préparer votre randonnée",
-      "description": "Le parc national des Cévennes alerte, exemple à l'appui, des dangers encourus par les randonneurs qui planifient leur itinéraire à l'aide de ChatGPT, une pratique de plus en plus courante, non sans ri...",
-      "url": "https://www.franceinfo.fr/decouverte/temoignages-itineraires-deniveles-materiel-pourquoi-vous-faites-fausse-route-en-en-vous-fiant-a-l-ia-pour-preparer-votre-randonnee_7923731.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-04-19T08:57:45Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Utiliser Claude avec Power BI : le hack ultime",
@@ -50,18 +86,6 @@
       "thumbnail": "https://i.ytimg.com/vi/fXojHUuBnaY/hqdefault.jpg"
     },
     {
-      "title": "Maroc : l’intelligence artificielle au chevet d’un système de santé en transition",
-      "description": "Alors que la Gen Z qui a manifesté au Maroc en octobre 2025 réclamait une profonde réforme du système de santé, et que Mohammed VI appelle à en finir avec un pays « à deux vitesses », l’intelligence a...",
-      "url": "https://www.jeuneafrique.com/1789374/economie-entreprises/maroc-lintelligence-artificielle-au-chevet-dun-systeme-de-sante-en-transition/",
-      "source": "Jeune Afrique",
-      "publishedAt": "2026-04-19T09:20:08Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Data Analytics With Python Full Course 2026 [FREE] | Python Data Analytics Tutorial | Simplilearn",
       "description": "Data Analyst Masters Program (Discount - YTBE15) ...",
       "url": "https://www.youtube.com/watch?v=4ZGJs6TRzls",
@@ -86,52 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/4cExalx09xU/hqdefault.jpg"
     },
     {
-      "title": "Maîtriser SQL en 1 heure sans prise de tête",
-      "description": "Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...",
-      "url": "https://www.youtube.com/watch?v=GVNc1ZrOoAs",
-      "source": "CodeAvecLionel",
-      "publishedAt": "2026-04-06T13:00:06Z",
+      "title": "Le vrai pouvoir des filtres dans Power BI",
+      "description": "Les filtres dans Power BI paraissent simples… jusqu'au moment où tout se mélange. Voici ce qu'il faut vraiment comprendre pour ...",
+      "url": "https://www.youtube.com/watch?v=ykiwukJ0dWE",
+      "source": "Elephorm",
+      "publishedAt": "2026-03-25T23:58:29Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "GVNc1ZrOoAs",
-      "thumbnail": "https://i.ytimg.com/vi/GVNc1ZrOoAs/hqdefault.jpg"
-    },
-    {
-      "title": "Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp; 10 | Guide complet",
-      "description": "Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...",
-      "url": "https://www.youtube.com/watch?v=G-4DERRKrHA",
-      "source": "AntalaSoft School",
-      "publishedAt": "2026-02-25T04:31:34Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "G-4DERRKrHA",
-      "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
-    },
-    {
-      "title": "SQL - Question bac NSI",
-      "description": "SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...",
-      "url": "https://www.youtube.com/watch?v=VLzCWa3nXrw",
-      "source": "Célian",
-      "publishedAt": "2026-04-06T08:26:26Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "VLzCWa3nXrw",
-      "thumbnail": "https://i.ytimg.com/vi/VLzCWa3nXrw/hqdefault.jpg"
-    },
-    {
-      "title": "Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/5",
-      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
-      "url": "https://www.youtube.com/watch?v=dlH4Xfn7dGA",
-      "source": "Morpheus Formation | Excel, Sheets, Power BI",
-      "publishedAt": "2026-02-19T17:00:00Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "dlH4Xfn7dGA",
-      "thumbnail": "https://i.ytimg.com/vi/dlH4Xfn7dGA/hqdefault.jpg"
+      "videoId": "ykiwukJ0dWE",
+      "thumbnail": "https://i.ytimg.com/vi/ykiwukJ0dWE/hqdefault.jpg"
     },
     {
       "title": "Exploratory Data Analysis (EDA) with Pandas",
@@ -156,30 +144,6 @@
       "isYouTube": true,
       "videoId": "86cmlVHp4cs",
       "thumbnail": "https://i.ytimg.com/vi/86cmlVHp4cs/hqdefault.jpg"
-    },
-    {
-      "title": "Dossier : Sosh Fibre 2 Gbps à 24,99€ vs B&YOU 8 Gbps à 25,99€ : débit maximal ou fiabilité du réseau ?",
-      "description": "Pour 1 € de plus, la B&YOU Pure Fibre Plus promet des débits bien supérieurs à Sosh. Mais cela fait-il vraiment la différence au quotidien ? Ce comparatif vous donne toutes les clés pour choisir la me...",
-      "url": "https://www.lesnumeriques.com/disque-dur-multimedia/sosh-fibre-2-gbps-a-24-99-vs-b-you-8-gbps-a-25-99-debit-maximal-ou-fiabilite-du-reseau-a254535.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-04-19T10:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Windscribe s’invite dans les agents IA pour renforcer la confidentialité",
-      "description": "Les assistants intelligents connectés exposent désormais les données et habitudes des foyers via leur adresse IP.",
-      "url": "https://www.begeek.fr/windscribe-sinvite-dans-les-agents-ia-pour-renforcer-la-confidentialite-431114",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-04-19T06:00:50Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)",
@@ -230,11 +194,11 @@
       "thumbnail": "https://i.ytimg.com/vi/SqzUaKJb384/hqdefault.jpg"
     },
     {
-      "title": "1,3 milliard de photos : des découvertes majeures pourraient se cacher dans les images du « Shazam des plantes »",
-      "description": "Conçue pour les chercheurs mais adoptée par des millions de curieux, PlantNet est bien plus qu’une application d’identification de plantes utilisée par le grand public. C'est un outil scientifique pré...",
-      "url": "https://www.futura-sciences.com/planete/actualites/botanique-13-milliard-photos-decouvertes-majeures-pourraient-cacher-images-shazam-plantes-133622/",
-      "source": "Futura",
-      "publishedAt": "2026-04-18T05:03:24Z",
+      "title": "Databricks pousse l'IA documentaire au-delà de l'OCR",
+      "description": "La plateforme d’IA combine Lakeflow et Document Intelligence pour unifier, sur une même pile, la collecte des documents d'entreprise et l'extraction des données qu'ils contiennent.",
+      "url": "https://www.zdnet.fr/actualites/databricks-pousse-lia-documentaire-au-dela-de-locr-493933.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-04-20T05:23:12Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +206,47 @@
       "thumbnail": ""
     },
     {
-      "title": "L’envol des lunettes connectées en Belgique en 2026 : “tu filmes l’instant présent”, “ce n’est plus un gadget”",
-      "description": "Dopées ou non à l’intelligence artificielle (IA), les lunettes connectées ont le vent en poupe. Les deux principaux acteurs du marché belge : le duo EssilorLuxottica/Meta et un petit nouveau, le group...",
-      "url": "https://www.lavenir.net/actu/conso/multimedia/2026/04/21/lenvol-des-lunettes-connectees-en-belgique-en-2026-tu-filmes-linstant-present-ce-nest-plus-un-gadget-UZZ2W33GCFFXBFQUJJXMMWEM6Y/",
-      "source": "Lavenir.net",
-      "publishedAt": "2026-04-19T05:00:00Z",
+      "title": "Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser",
+      "description": "Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...",
+      "url": "https://www.youtube.com/watch?v=SCKEMpv7Ld4",
+      "source": "CodeAvecLionel",
+      "publishedAt": "2026-03-02T12:00:06Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "SCKEMpv7Ld4",
+      "thumbnail": "https://i.ytimg.com/vi/SCKEMpv7Ld4/hqdefault.jpg"
+    },
+    {
+      "title": "Pourquoi les agents IA vont devenir les nouveaux assistants des recruteurs",
+      "description": "Le recrutement échoue souvent faute de temps pour bien évaluer les candidats. L'IA permet d'analyser à grande échelle et d'améliorer les décisions, en renforçant le rôle du recruteur.",
+      "url": "https://www.journaldunet.com/management/direction-generale/1549651-pourquoi-les-agents-ia-vont-devenir-les-nouveaux-assistants-des-recruteurs/",
+      "source": "JDN",
+      "publishedAt": "2026-04-20T08:00:08Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Grand Prix ACF AutoTech 2026 : quand les startups françaises montrent la voie sur les matériaux du futur",
+      "description": "C’est dans le cadre majestueux de l’Automobile Club de France, place de la Concorde, que s’est jouée mercredi 15 avril la grande finale de la [...]\nL’article Grand Prix ACF AutoTech 2026 : quand les s...",
+      "url": "https://www.leblogauto.com/actualites/actualite/grand-prix-acf-autotech-2026-quand-les-startups-francaises-montrent-la-voie-sur-les-materiaux-du-futur/",
+      "source": "Leblogauto.com",
+      "publishedAt": "2026-04-20T08:07:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Santé. Peut-on faire confiance à l'IA pour un diagnostic médical ?",
+      "description": "Nous sommes de plus en plus nombreux à consulter une intelligence artificielle pour obtenir des informations sur notre santé. Pourtant, selon un récente étude, l’IA donne, dans la majorité des cas, un...",
+      "url": "https://www.leprogres.fr/magazine-sante/2026/04/20/peut-on-faire-confiance-a-l-ia-pour-un-diagnostic-medical",
+      "source": "Le Progrès",
+      "publishedAt": "2026-04-20T05:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "⚡ IA hybride: 100 fois plus économe en énergie !",
-      "description": "L'intelligence artificielle se développe à un rythme effréné, et son appétit énergétique grandit tout autant. Aux États-Unis, les data centers, véritables ogres en électricité, absorbent...",
-      "url": "https://www.techno-science.net/actualite/ia-hybride-100-fois-plus-econome-energie-N28605.html",
-      "source": "Techno-science.net",
-      "publishedAt": "2026-04-19T06:00:04Z",
+      "title": "Apple tease le nouveau Siri IA d’iOS 27 avec la WWDC 2026",
+      "description": "Apple a discrètement teasé le tout nouveau Siri d’iOS 27 qui s’appuiera sur l’intelligence artificielle. Selon Mark Gurman de Bloomberg, le teasing a eu lieu avec le logo de la WWDC 2026 qui se tiendr...",
+      "url": "https://iphoneaddict.fr/post/news-427209-apple-tease-nouveau-siri-ia-ios-27-wwdc-2026",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-04-19T15:17:46Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Face à l’IA, Bernard Minier est « dans la stupeur et la sidération » : « On va tout perdre »",
-      "description": "L’écrivain qui évoque largement la problématique de l’intelligence artificielle dans son roman « Ruptures » s’est confié au « HuffPost ».",
-      "url": "https://www.huffingtonpost.fr/culture/article/face-a-l-ia-bernard-minier-est-dans-la-stupeur-et-la-sideration-on-va-tout-perdre_262721.html",
-      "source": "Le HuffPost",
-      "publishedAt": "2026-04-19T06:55:36Z",
+      "title": "Les discussions avec une IA peuvent-elles être utilisées comme preuve contre vous en justice ?",
+      "description": "Une décision de justice américaine vient de faire voler en éclats une certitude. Des conversations sensibles avec une intelligence artificielle ne sont absolument pas protégées et peuvent être saisies...",
+      "url": "https://www.generation-nt.com/actualites/justice-ia-chatbot-conversation-utilisation-preuve-avocat-2074074",
+      "source": "Génération NT",
+      "publishedAt": "2026-04-19T14:35:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Négationnisme, deepfakes, usurpation d'identité... On vous résume les accusations qui visent le réseau X et pour lesquelles Elon Musk est convoqué devant la justice française",
-      "description": "Depuis son rachat en 2022 par Elon Musk, le réseau social fait l'objet de nombreuses accusations. L'enquête porte notamment sur une manipulation de l'algorithme de recommandation des contenus, la diff...",
-      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/twitter/negationnisme-deepfakes-usurpation-d-identite-on-vous-resume-les-accusations-qui-visent-le-reseau-x-et-pour-lesquelles-elon-musk-est-convoque-devant-la-justice-francaise_7814324.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-04-19T05:07:26Z",
+      "title": "Près de la moitié des titres qui arrivent chaque jour sur Deezer sont générés par IA",
+      "description": "Près de la moitié des titres mis en ligne chaque jour sur Deezer ont été générés par l'intelligence artificielle, contre moins de 20% il y a un an, a annoncé lundi la plateforme française de...",
+      "url": "https://www.konbini.com/popculture/pres-de-la-moitie-des-titres-qui-arrivent-chaque-jour-sur-deezer-sont-generes-par-ia/",
+      "source": "Konbini France",
+      "publishedAt": "2026-04-20T09:07:58Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Participez à l'étude des insectes avec votre voiture",
-      "description": "Une initiative de science participative, lancée par Vigie-Nature et le Muséum national d’histoire naturelle, vous propose d’aider à l’étude des insectes en photographiant votre plaque d’immatriculatio...",
-      "url": "https://www.franceinfo.fr/sciences/participez-a-l-etude-des-insectes-avec-votre-voiture_7945571.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-04-19T06:00:01Z",
+      "title": "Swiss AI Initiative",
+      "description": "Comments",
+      "url": "https://www.swiss-ai.org",
+      "source": "Swiss-ai.org",
+      "publishedAt": "2026-04-19T22:58:35Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

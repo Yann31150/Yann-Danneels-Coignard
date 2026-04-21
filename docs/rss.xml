@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 20 Apr 2026 10:02:35 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 09:44:12 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,44 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
+            <title>ZD Tech : vous pourriez vendre votre bien plus cher et sans agence en utilisant l'IA comme ce propriétaire</title>
+            <link>https://www.zdnet.fr/actualites/zd-tech-vous-pourriez-vendre-votre-bien-plus-cher-et-sans-agence-en-utilisant-lia-comme-ce-proprietaire-493776.htm</link>
+            <description><![CDATA[Vendre son bien immobilier en un temps record tout en réalisant une plus-value inespérée, le tout sans débourser un centime en frais d'agence. En utilisant ChatGPT comme un véritable chef de projet, c...]]></description>
+            <pubDate>Mon, 20 Apr 2026 05:41:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/zd-tech-vous-pourriez-vendre-votre-bien-plus-cher-et-sans-agence-en-utilisant-lia-comme-ce-proprietaire-493776.htm</guid>
+            <source>ZDNet France</source>
+        </item>
+        <item>
+            <title>Mozilla lance Thunderbolt, un client IA open source pour contrer Copilot, ChatGPT et Claude</title>
+            <link>https://www.blogdumoderateur.com/mozilla-lance-thunderbolt-client-ia-open-source/</link>
+            <description><![CDATA[MZLA Technologies Corporation, filiale de la fondation Mozilla, dévoile un client IA open source et auto-hébergé pour les entreprises qui veulent garder la main sur leurs données.]]></description>
+            <pubDate>Mon, 20 Apr 2026 09:24:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.blogdumoderateur.com/mozilla-lance-thunderbolt-client-ia-open-source/</guid>
+            <source>Blogdumoderateur.com</source>
+        </item>
+        <item>
+            <title>Sephora confie son programme de fidélité à ChatGPT : pourquoi c’est un tournant</title>
+            <link>https://www.frenchweb.fr/sephora-confie-son-programme-de-fidelite-a-chatgpt-pourquoi-cest-un-tournant/461313</link>
+            <description><![CDATA[SPECIAL SEPHORA SPRING – Las Vegas  Premier jour à Shoptalk Spring à Las Vegas fin mars, et déjà l’annonce la plus fracassante. Non seulement Sephora s’allie à OpenAI, mais l’enseigne de beauté lui co...]]></description>
+            <pubDate>Mon, 20 Apr 2026 09:24:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frenchweb.fr/sephora-confie-son-programme-de-fidelite-a-chatgpt-pourquoi-cest-un-tournant/461313</guid>
+            <source>Frenchweb.fr</source>
+        </item>
+        <item>
+            <title>Comment utiliser Grok AI en 2026, le guide complet : chatbot, images et vidéos</title>
+            <link>https://www.aruco.com/intelligence-artificielle/grok-ai-2026-guide-complet/</link>
+            <description><![CDATA[Lancé par xAI et intégré à X (anciennement Twitter), Grok s’est rapidement imposé comme un concurrent crédible de ChatGPT ou Claude. Sa promesse initiale (une IA puissante et en partie gratuite) a séd...]]></description>
+            <pubDate>Sun, 19 Apr 2026 16:34:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.aruco.com/intelligence-artificielle/grok-ai-2026-guide-complet/</guid>
+            <source>Aruco.com</source>
+        </item>
+        <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
             <link>https://www.youtube.com/watch?v=77IMWD4TWtg</link>
             <description><![CDATA[Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...]]></description>
             <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
             <source>Comprendre l'informatique</source>
-        </item>
-        <item>
-            <title>TEMOIGNAGES. Itinéraires, dénivelés, matériel... Pourquoi vous faites fausse route en en vous fiant à l'IA pour préparer votre randonnée</title>
-            <link>https://www.franceinfo.fr/decouverte/temoignages-itineraires-deniveles-materiel-pourquoi-vous-faites-fausse-route-en-en-vous-fiant-a-l-ia-pour-preparer-votre-randonnee_7923731.html</link>
-            <description><![CDATA[Le parc national des Cévennes alerte, exemple à l'appui, des dangers encourus par les randonneurs qui planifient leur itinéraire à l'aide de ChatGPT, une pratique de plus en plus courante, non sans ri...]]></description>
-            <pubDate>Sun, 19 Apr 2026 08:57:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/decouverte/temoignages-itineraires-deniveles-materiel-pourquoi-vous-faites-fausse-route-en-en-vous-fiant-a-l-ia-pour-preparer-votre-randonnee_7923731.html</guid>
-            <source>Franceinfo.fr</source>
         </item>
         <item>
             <title>Utiliser Claude avec Power BI : le hack ultime</title>
@@ -45,14 +69,6 @@
             <source>Marina Wyss - AI & Machine Learning</source>
         </item>
         <item>
-            <title>Maroc : l’intelligence artificielle au chevet d’un système de santé en transition</title>
-            <link>https://www.jeuneafrique.com/1789374/economie-entreprises/maroc-lintelligence-artificielle-au-chevet-dun-systeme-de-sante-en-transition/</link>
-            <description><![CDATA[Alors que la Gen Z qui a manifesté au Maroc en octobre 2025 réclamait une profonde réforme du système de santé, et que Mohammed VI appelle à en finir avec un pays « à deux vitesses », l’intelligence a...]]></description>
-            <pubDate>Sun, 19 Apr 2026 09:20:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.jeuneafrique.com/1789374/economie-entreprises/maroc-lintelligence-artificielle-au-chevet-dun-systeme-de-sante-en-transition/</guid>
-            <source>Jeune Afrique</source>
-        </item>
-        <item>
             <title>Data Analytics With Python Full Course 2026 [FREE] | Python Data Analytics Tutorial | Simplilearn</title>
             <link>https://www.youtube.com/watch?v=4ZGJs6TRzls</link>
             <description><![CDATA[Data Analyst Masters Program (Discount - YTBE15) ...]]></description>
@@ -69,36 +85,12 @@
             <source>edureka!</source>
         </item>
         <item>
-            <title>Maîtriser SQL en 1 heure sans prise de tête</title>
-            <link>https://www.youtube.com/watch?v=GVNc1ZrOoAs</link>
-            <description><![CDATA[Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...]]></description>
-            <pubDate>Mon, 06 Apr 2026 13:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=GVNc1ZrOoAs</guid>
-            <source>CodeAvecLionel</source>
-        </item>
-        <item>
-            <title>Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp;amp; 10 | Guide complet</title>
-            <link>https://www.youtube.com/watch?v=G-4DERRKrHA</link>
-            <description><![CDATA[Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...]]></description>
-            <pubDate>Wed, 25 Feb 2026 04:31:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=G-4DERRKrHA</guid>
-            <source>AntalaSoft School</source>
-        </item>
-        <item>
-            <title>SQL - Question bac NSI</title>
-            <link>https://www.youtube.com/watch?v=VLzCWa3nXrw</link>
-            <description><![CDATA[SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...]]></description>
-            <pubDate>Mon, 06 Apr 2026 08:26:26 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VLzCWa3nXrw</guid>
-            <source>Célian</source>
-        </item>
-        <item>
-            <title>Créer un TABLEAU DE BORD sur Power BI : Les fondations #1/5</title>
-            <link>https://www.youtube.com/watch?v=dlH4Xfn7dGA</link>
-            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
-            <pubDate>Thu, 19 Feb 2026 17:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=dlH4Xfn7dGA</guid>
-            <source>Morpheus Formation | Excel, Sheets, Power BI</source>
+            <title>Le vrai pouvoir des filtres dans Power BI</title>
+            <link>https://www.youtube.com/watch?v=ykiwukJ0dWE</link>
+            <description><![CDATA[Les filtres dans Power BI paraissent simples… jusqu'au moment où tout se mélange. Voici ce qu'il faut vraiment comprendre pour ...]]></description>
+            <pubDate>Wed, 25 Mar 2026 23:58:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ykiwukJ0dWE</guid>
+            <source>Elephorm</source>
         </item>
         <item>
             <title>Exploratory Data Analysis (EDA) with Pandas</title>
@@ -115,22 +107,6 @@
             <pubDate>Wed, 08 Apr 2026 14:17:40 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=86cmlVHp4cs</guid>
             <source>Benjamin Ejzenberg (votre coach Power BI)</source>
-        </item>
-        <item>
-            <title>Dossier : Sosh Fibre 2 Gbps à 24,99€ vs B&amp;YOU 8 Gbps à 25,99€ : débit maximal ou fiabilité du réseau ?</title>
-            <link>https://www.lesnumeriques.com/disque-dur-multimedia/sosh-fibre-2-gbps-a-24-99-vs-b-you-8-gbps-a-25-99-debit-maximal-ou-fiabilite-du-reseau-a254535.html</link>
-            <description><![CDATA[Pour 1 € de plus, la B&amp;YOU Pure Fibre Plus promet des débits bien supérieurs à Sosh. Mais cela fait-il vraiment la différence au quotidien ? Ce comparatif vous donne toutes les clés pour choisir la me...]]></description>
-            <pubDate>Sun, 19 Apr 2026 10:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/disque-dur-multimedia/sosh-fibre-2-gbps-a-24-99-vs-b-you-8-gbps-a-25-99-debit-maximal-ou-fiabilite-du-reseau-a254535.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
-            <title>Windscribe s’invite dans les agents IA pour renforcer la confidentialité</title>
-            <link>https://www.begeek.fr/windscribe-sinvite-dans-les-agents-ia-pour-renforcer-la-confidentialite-431114</link>
-            <description><![CDATA[Les assistants intelligents connectés exposent désormais les données et habitudes des foyers via leur adresse IP.]]></description>
-            <pubDate>Sun, 19 Apr 2026 06:00:50 -0000</pubDate>
-            <guid isPermaLink="true">https://www.begeek.fr/windscribe-sinvite-dans-les-agents-ia-pour-renforcer-la-confidentialite-431114</guid>
-            <source>Begeek.fr</source>
         </item>
         <item>
             <title>Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)</title>
@@ -165,12 +141,37 @@
             <source>Morpheus Formation | Excel, Sheets, Power BI</source>
         </item>
         <item>
-            <title>1,3 milliard de photos : des découvertes majeures pourraient se cacher dans les images du « Shazam des plantes »</title>
-            <link>https://www.futura-sciences.com/planete/actualites/botanique-13-milliard-photos-decouvertes-majeures-pourraient-cacher-images-shazam-plantes-133622/</link>
-            <description><![CDATA[Conçue pour les chercheurs mais adoptée par des millions de curieux, PlantNet est bien plus qu’une application d’identification de plantes utilisée par le grand public. C'est un outil scientifique pré...]]></description>
-            <pubDate>Sat, 18 Apr 2026 05:03:24 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/planete/actualites/botanique-13-milliard-photos-decouvertes-majeures-pourraient-cacher-images-shazam-plantes-133622/</guid>
-            <source>Futura</source>
+            <title>Databricks pousse l'IA documentaire au-delà de l'OCR</title>
+            <link>https://www.zdnet.fr/actualites/databricks-pousse-lia-documentaire-au-dela-de-locr-493933.htm</link>
+            <description><![CDATA[La plateforme d’IA combine Lakeflow et Document Intelligence pour unifier, sur une même pile, la collecte des documents d'entreprise et l'extraction des données qu'ils contiennent.]]></description>
+            <pubDate>Mon, 20 Apr 2026 05:23:12 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/databricks-pousse-lia-documentaire-au-dela-de-locr-493933.htm</guid>
+            <source>ZDNet France</source>
+        </item>
+        <item>
+            <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
+            <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
+            <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
+            <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
+            <source>CodeAvecLionel</source>
+        </item>
+        <item>
+            <title>Pourquoi les agents IA vont devenir les nouveaux assistants des recruteurs</title>
+            <link>https://www.journaldunet.com/management/direction-generale/1549651-pourquoi-les-agents-ia-vont-devenir-les-nouveaux-assistants-des-recruteurs/</link>
+            <description><![CDATA[Le recrutement échoue souvent faute de temps pour bien évaluer les candidats. L'IA permet d'analyser à grande échelle et d'améliorer les décisions, en renforçant le rôle du recruteur.]]></description>
+            <pubDate>Mon, 20 Apr 2026 08:00:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/management/direction-generale/1549651-pourquoi-les-agents-ia-vont-devenir-les-nouveaux-assistants-des-recruteurs/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
+            <title>Grand Prix ACF AutoTech 2026 : quand les startups françaises montrent la voie sur les matériaux du futur</title>
+            <link>https://www.leblogauto.com/actualites/actualite/grand-prix-acf-autotech-2026-quand-les-startups-francaises-montrent-la-voie-sur-les-materiaux-du-futur/</link>
+            <description><![CDATA[C’est dans le cadre majestueux de l’Automobile Club de France, place de la Concorde, que s’est jouée mercredi 15 avril la grande finale de la [...]
+L’article Grand Prix ACF AutoTech 2026 : quand les s...]]></description>
+            <pubDate>Mon, 20 Apr 2026 08:07:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.leblogauto.com/actualites/actualite/grand-prix-acf-autotech-2026-quand-les-startups-francaises-montrent-la-voie-sur-les-materiaux-du-futur/</guid>
+            <source>Leblogauto.com</source>
         </item>
     </channel>
 </rss>
