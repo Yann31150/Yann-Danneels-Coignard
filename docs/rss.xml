@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 23 Apr 2026 09:48:33 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 09:48:41 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,28 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>ChatGPT Images 2.0 : OpenAI résout enfin le problème du texte dans les images générées par IA</title>
-            <link>https://www.fredzone.org/chatgpt-images-2-0-openai-resout-enfin-le-probleme-du-texte-dans-les-images-generees-par-ia/</link>
-            <description><![CDATA[Pendant des années, un test suffisait à démasquer une image générée par intelligence artificielle : demander un menu de restaurant. Les modèles produisaient invariablement des plats aux noms improbabl...]]></description>
-            <pubDate>Wed, 22 Apr 2026 09:00:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.fredzone.org/chatgpt-images-2-0-openai-resout-enfin-le-probleme-du-texte-dans-les-images-generees-par-ia/</guid>
-            <source>FREDZONE</source>
-        </item>
-        <item>
-            <title>Ubisoft impose désormais la maîtrise des IA pour développer ses futurs jeux AAA</title>
-            <link>https://www.generation-nt.com/actualites/ubisoft-chatgpt-jeux-aaa-2074396</link>
-            <description><![CDATA[Ubisoft a franchi un cap décisif. L'éditeur de jeux vidéo exige désormais une expérience concrète avec des modèles d'IA générative comme ChatGPT ou MidJourney pour des postes de développement clés. Ce...]]></description>
-            <pubDate>Wed, 22 Apr 2026 08:05:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/ubisoft-chatgpt-jeux-aaa-2074396</guid>
-            <source>Génération NT</source>
-        </item>
-        <item>
-            <title>ZDNET Morning 22/04/2026 : ChatGPT Images 2.0, Alliance Red Hat / Google, 3 secrets RH pour booster votre profil LinkedIn, ...</title>
-            <link>https://www.zdnet.fr/actualites/zdnet-morning-22-04-2026-chatgpt-images-2-0-alliance-red-hat-google-3-secrets-rh-pour-booster-votre-profil-linkedin-494073.htm</link>
-            <description><![CDATA[Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.]]></description>
-            <pubDate>Wed, 22 Apr 2026 08:39:48 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/zdnet-morning-22-04-2026-chatgpt-images-2-0-alliance-red-hat-google-3-secrets-rh-pour-booster-votre-profil-linkedin-494073.htm</guid>
-            <source>ZDNet France</source>
+            <title>Gemma 4 : L&amp;#39;IA de Google Gratuite, Illimitée, Locale &amp;amp; SANS Internet !</title>
+            <link>https://www.youtube.com/watch?v=9onqtz5EwHE</link>
+            <description><![CDATA[Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...]]></description>
+            <pubDate>Tue, 21 Apr 2026 14:02:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=9onqtz5EwHE</guid>
+            <source>Alpa14</source>
         </item>
         <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
@@ -61,28 +45,20 @@
             <source>CodeAvecLionel</source>
         </item>
         <item>
+            <title>Dans le parcours d’achat, les avis clients résistent à la montée de l’intelligence artificielle</title>
+            <link>https://siecledigital.fr/2026/04/23/dans-le-parcours-dachat-les-avis-clients-resistent-a-la-montee-de-lintelligence-artificielle/</link>
+            <description><![CDATA[On nous répète que l’IA va tout changer. Qu’elle va raccourcir nos recherches, nous mâcher le travail de comparaison, nous souffler le bon resto ou le bon plombier sans qu’on ait besoin de scroller pe...]]></description>
+            <pubDate>Thu, 23 Apr 2026 09:35:17 -0000</pubDate>
+            <guid isPermaLink="true">https://siecledigital.fr/2026/04/23/dans-le-parcours-dachat-les-avis-clients-resistent-a-la-montee-de-lintelligence-artificielle/</guid>
+            <source>Siècle Digital</source>
+        </item>
+        <item>
             <title>Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp;amp; 10 | Guide complet</title>
             <link>https://www.youtube.com/watch?v=G-4DERRKrHA</link>
             <description><![CDATA[Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...]]></description>
             <pubDate>Wed, 25 Feb 2026 04:31:34 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=G-4DERRKrHA</guid>
             <source>AntalaSoft School</source>
-        </item>
-        <item>
-            <title>L’équivalent chinois de Netflix propose, grâce à l’IA, de faire jouer des acteurs… sans les faire tourner</title>
-            <link>https://www.franceinfo.fr/replay-radio/bientot-chez-vous/l-equivalent-chinois-de-netflix-propose-grace-a-l-ia-de-faire-jouer-des-acteurs-sans-les-faire-tourner_7939856.html</link>
-            <description><![CDATA[Une société chinoise a annoncé la création d’une base de données d’acteurs exploitables par intelligence artificielle, pour réaliser des films sans tournage traditionnel.]]></description>
-            <pubDate>Wed, 22 Apr 2026 09:21:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/bientot-chez-vous/l-equivalent-chinois-de-netflix-propose-grace-a-l-ia-de-faire-jouer-des-acteurs-sans-les-faire-tourner_7939856.html</guid>
-            <source>Franceinfo.fr</source>
-        </item>
-        <item>
-            <title>SQL - Question bac NSI</title>
-            <link>https://www.youtube.com/watch?v=VLzCWa3nXrw</link>
-            <description><![CDATA[SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...]]></description>
-            <pubDate>Mon, 06 Apr 2026 08:26:26 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VLzCWa3nXrw</guid>
-            <source>Célian</source>
         </item>
         <item>
             <title>Pourquoi les télécoms ne peuvent plus se passer de la Data Science – Chike Odenigbo</title>
@@ -93,12 +69,44 @@
             <source>Enogne School</source>
         </item>
         <item>
+            <title>Il utilise la Data Science pour battre le marché – Felix Carrier</title>
+            <link>https://www.youtube.com/watch?v=VNM4jJq8dSQ</link>
+            <description><![CDATA[Dans ce troisième podcast, Ekué a eu le plaisir de discuter avec Felix Carrier qui est un expert en data science dans le domaine ...]]></description>
+            <pubDate>Fri, 06 Mar 2026 23:00:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=VNM4jJq8dSQ</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
+            <title>Pourquoi toutes les entreprises ont besoin de Data Science – Thibault Camara</title>
+            <link>https://www.youtube.com/watch?v=MGTY0HfU9Fc</link>
+            <description><![CDATA[Dans ce quatrième podcast, Ekué a eu le plaisir de discuter avec Thibault Camara qui est un expert en data science dans le ...]]></description>
+            <pubDate>Fri, 13 Mar 2026 22:15:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=MGTY0HfU9Fc</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
+            <title>Tout Comprendre sur Claude IA en 22 Minutes</title>
+            <link>https://www.youtube.com/watch?v=-50BGEYgMr4</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...]]></description>
+            <pubDate>Sun, 22 Mar 2026 17:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=-50BGEYgMr4</guid>
+            <source>Yassine Sdiri</source>
+        </item>
+        <item>
             <title>Questions et réponses d’entretien pour analyste de données</title>
             <link>https://www.youtube.com/watch?v=Z5LsWFrltHU</link>
             <description><![CDATA[Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...]]></description>
             <pubDate>Sat, 11 Apr 2026 07:15:03 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Z5LsWFrltHU</guid>
             <source>Damal Consult Carrière TV- Français</source>
+        </item>
+        <item>
+            <title>SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025</title>
+            <link>https://www.youtube.com/watch?v=10SDW2LoxX4</link>
+            <description><![CDATA[Maîtrisez SQL Server Management Studio 22 (SSMS 22) dès aujourd'hui ! Dans ce tutoriel complet SQL Server, vous découvrirez ...]]></description>
+            <pubDate>Sat, 04 Apr 2026 10:00:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=10SDW2LoxX4</guid>
+            <source>Tchaps Tech</source>
         </item>
         <item>
             <title>Exploratory Data Analysis (EDA) with Pandas</title>
@@ -125,20 +133,12 @@
             <source>Benjamin Ejzenberg (votre coach Power BI)</source>
         </item>
         <item>
-            <title>Grandir bilingue transforme votre cerveau : ces 9 traits invisibles qui vous donnent un avantage sur les autres</title>
-            <link>https://www.futura-sciences.com/sciences/questions-reponses/angage-grandir-bilingue-transforme-votre-cerveau-ces-9-traits-invisibles-vous-donnent-avantage-autres-k2m6-24918/</link>
-            <description><![CDATA[Grandir avec deux langues, c'est bien plus qu'un avantage à la table des négociations. Le bilinguisme précoce remodèle en profondeur l'architecture cognitive, au point de repousser l'apparition d'Alzh...]]></description>
-            <pubDate>Tue, 21 Apr 2026 16:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/questions-reponses/angage-grandir-bilingue-transforme-votre-cerveau-ces-9-traits-invisibles-vous-donnent-avantage-autres-k2m6-24918/</guid>
-            <source>Futura</source>
-        </item>
-        <item>
-            <title>Le développement à grande échelle de l'IA agentique nécessite des données solides : 4 étapes à suivre en premier lieu</title>
-            <link>https://www.zdnet.fr/pratique/le-developpement-a-grande-echelle-de-lia-agentique-necessite-des-donnees-solides-4-etapes-a-suivre-en-premier-lieu-494097.htm</link>
-            <description><![CDATA[McKinsey identifie quatre étapes coordonnées qui relient stratégie, technologie et ressources humaines afin de mettre en place de solides capacités de base en matière de données.]]></description>
-            <pubDate>Wed, 22 Apr 2026 02:04:32 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/pratique/le-developpement-a-grande-echelle-de-lia-agentique-necessite-des-donnees-solides-4-etapes-a-suivre-en-premier-lieu-494097.htm</guid>
-            <source>ZDNet France</source>
+            <title>Syngenta déploie Tetra OS pour accélérer la découverte scientifique grâce à l’automatisation des données à l’échelle industrielle</title>
+            <link>https://www.globenewswire.com/news-release/2026/04/22/3279296/0/fr/Syngenta-d%C3%A9ploie-Tetra-OS-pour-acc%C3%A9l%C3%A9rer-la-d%C3%A9couverte-scientifique-gr%C3%A2ce-%C3%A0-l-automatisation-des-donn%C3%A9es-%C3%A0-l-%C3%A9chelle-industrielle.html</link>
+            <description><![CDATA[BOSTON, 22 avr. 2026 (GLOBE NEWSWIRE) -- TetraScience, entreprise spécialisée dans les données scientifiques et l’IA, annonce ce jour que Syngenta a choisi Tetra OS pour soutenir l’automatisation numé...]]></description>
+            <pubDate>Wed, 22 Apr 2026 17:09:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/04/22/3279296/0/fr/Syngenta-d%C3%A9ploie-Tetra-OS-pour-acc%C3%A9l%C3%A9rer-la-d%C3%A9couverte-scientifique-gr%C3%A2ce-%C3%A0-l-automatisation-des-donn%C3%A9es-%C3%A0-l-%C3%A9chelle-industrielle.html</guid>
+            <source>GlobeNewswire</source>
         </item>
         <item>
             <title>Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)</title>
