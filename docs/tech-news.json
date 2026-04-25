@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "2026-04-24T09:48:41.921365",
+  "lastUpdate": "2026-04-25T08:59:36.717347",
   "articles": [
     {
-      "title": "Gemma 4 : L&#39;IA de Google Gratuite, Illimitée, Locale &amp; SANS Internet !",
-      "description": "Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...",
-      "url": "https://www.youtube.com/watch?v=9onqtz5EwHE",
-      "source": "Alpa14",
-      "publishedAt": "2026-04-21T14:02:45Z",
+      "title": "Comparatif Google Gemini vs ChatGPT : quelle est la meilleure IA en marketing ?",
+      "description": "Vous avez probablement déjà vu passer ces graphiques complexes. Des benchmarks techniques affirmant que tel modèle surpasse l’autre de 2,4 % sur un test de logique mathématique ou de compréhension du ...",
+      "url": "https://www.webmarketing-com.com/comparatif-google-gemini-vs-chatgpt-meilleure-ia-marketing",
+      "source": "Webmarketing-com.com",
+      "publishedAt": "2026-04-24T07:30:00Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "9onqtz5EwHE",
-      "thumbnail": "https://i.ytimg.com/vi/9onqtz5EwHE/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
@@ -24,6 +24,18 @@
       "isYouTube": true,
       "videoId": "77IMWD4TWtg",
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI dévoile GPT-5.5, son modèle le plus avancé pour l’IA agentique",
+      "description": "Avec GPT-5.5, OpenAI entend améliorer la capacité de son modèle à planifier, utiliser des outils et mener à bien des tâches complexes sans supervision détaillée.",
+      "url": "https://www.blogdumoderateur.com/openai-devoile-gpt-5-5-modele-plus-avance-ia-agentique/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-04-24T08:33:21Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Utiliser Claude avec Power BI : le hack ultime",
@@ -50,11 +62,11 @@
       "thumbnail": "https://i.ytimg.com/vi/GVNc1ZrOoAs/hqdefault.jpg"
     },
     {
-      "title": "Dans le parcours d’achat, les avis clients résistent à la montée de l’intelligence artificielle",
-      "description": "On nous répète que l’IA va tout changer. Qu’elle va raccourcir nos recherches, nous mâcher le travail de comparaison, nous souffler le bon resto ou le bon plombier sans qu’on ait besoin de scroller pe...",
-      "url": "https://siecledigital.fr/2026/04/23/dans-le-parcours-dachat-les-avis-clients-resistent-a-la-montee-de-lintelligence-artificielle/",
-      "source": "Siècle Digital",
-      "publishedAt": "2026-04-23T09:35:17Z",
+      "title": "L'entreprise chinoise DeepSeek lance un nouveau modèle d'intelligence artificielle",
+      "description": "L'industrie mondiale de la tech guettait depuis plusieurs semaines cette annonce, baromètre des ambitions chinoises dans le secteur.",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-entreprise-chinoise-deepseek-lance-un-nouveau-modele-d-intelligence-artificielle_7961183.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-04-24T05:19:59Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -72,6 +84,18 @@
       "isYouTube": true,
       "videoId": "G-4DERRKrHA",
       "thumbnail": "https://i.ytimg.com/vi/G-4DERRKrHA/hqdefault.jpg"
+    },
+    {
+      "title": "Un ciment 17 fois plus résistant grâce aux huîtres : cette innovation pourrait transformer la construction moderne",
+      "description": "Quelque 8 % des émissions mondiales de gaz à effet de serre. C'est la part du ciment dans le bilan carbone de la Planète. Alors quand des chercheurs parviennent à le rendre 17 fois plus résistant en s...",
+      "url": "https://www.futura-sciences.com/maison/actualites/materiau-ciment-17-fois-plus-resistant-grace-huitres-cette-innovation-pourrait-transformer-construction-moderne-k2m6-133962/",
+      "source": "Futura",
+      "publishedAt": "2026-04-24T08:00:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Pourquoi les télécoms ne peuvent plus se passer de la Data Science – Chike Odenigbo",
@@ -96,30 +120,6 @@
       "isYouTube": true,
       "videoId": "VNM4jJq8dSQ",
       "thumbnail": "https://i.ytimg.com/vi/VNM4jJq8dSQ/hqdefault.jpg"
-    },
-    {
-      "title": "Pourquoi toutes les entreprises ont besoin de Data Science – Thibault Camara",
-      "description": "Dans ce quatrième podcast, Ekué a eu le plaisir de discuter avec Thibault Camara qui est un expert en data science dans le ...",
-      "url": "https://www.youtube.com/watch?v=MGTY0HfU9Fc",
-      "source": "Enogne School",
-      "publishedAt": "2026-03-13T22:15:02Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "MGTY0HfU9Fc",
-      "thumbnail": "https://i.ytimg.com/vi/MGTY0HfU9Fc/hqdefault.jpg"
-    },
-    {
-      "title": "Tout Comprendre sur Claude IA en 22 Minutes",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=-50BGEYgMr4",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2026-03-22T17:00:00Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "-50BGEYgMr4",
-      "thumbnail": "https://i.ytimg.com/vi/-50BGEYgMr4/hqdefault.jpg"
     },
     {
       "title": "Questions et réponses d’entretien pour analyste de données",
@@ -182,11 +182,11 @@
       "thumbnail": "https://i.ytimg.com/vi/86cmlVHp4cs/hqdefault.jpg"
     },
     {
-      "title": "Syngenta déploie Tetra OS pour accélérer la découverte scientifique grâce à l’automatisation des données à l’échelle industrielle",
-      "description": "BOSTON, 22 avr. 2026 (GLOBE NEWSWIRE) -- TetraScience, entreprise spécialisée dans les données scientifiques et l’IA, annonce ce jour que Syngenta a choisi Tetra OS pour soutenir l’automatisation numé...",
-      "url": "https://www.globenewswire.com/news-release/2026/04/22/3279296/0/fr/Syngenta-d%C3%A9ploie-Tetra-OS-pour-acc%C3%A9l%C3%A9rer-la-d%C3%A9couverte-scientifique-gr%C3%A2ce-%C3%A0-l-automatisation-des-donn%C3%A9es-%C3%A0-l-%C3%A9chelle-industrielle.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-04-22T17:09:00Z",
+      "title": "Philips Ambilight & AmbiScape : les TV qui vous procurent un maximum d’émotions pour suivre vos matchs préférés",
+      "description": "La marque Philips transforme votre expérience télévisuelle à quelques semaines de la coupe du monde de football, avec ses technologies Ambilight et AmbiScape. Découvrez comment ces téléviseurs mythiqu...",
+      "url": "https://www.lesnumeriques.com/tv-televiseur/philips-ambilight-ambiscape-les-tv-qui-vous-procurent-un-maximum-d-emotions-pour-suivre-vos-matchs-preferes-na254753.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-04-24T08:00:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +242,23 @@
       "thumbnail": "https://i.ytimg.com/vi/SqzUaKJb384/hqdefault.jpg"
     },
     {
-      "title": "Siri basé sur Gemini ? Google confirme à demi-mot un partenariat avec Apple",
-      "description": "Lors de Google Cloud Next 2026, Google a laissé entendre qu’Apple s’apprêtait à franchir une nouvelle étape dans l’intelligence artificielle.",
-      "url": "https://www.zdnet.fr/actualites/siri-base-sur-gemini-google-confirme-a-demi-mot-un-partenariat-avec-apple-494138.htm",
+      "title": "Meta donne raison aux discours alarmistes et licencie 10 % de ses effectifs pour laisser place à l’IA",
+      "description": "La crainte de nombreux experts se matérialise. Meta s’apprête à licencier 10 % de ses effectifs pour basculer de force dans l’ère de l’intelligence artificielle (IA). Et la situation pourrait empirer ...",
+      "url": "https://www.presse-citron.net/meta-donne-raison-discours-alarmistes-licencie-effectifs-laisser-place-ia/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-04-24T08:30:11Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta supprime 8 000 postes pour financer sa course à l'IA",
+      "description": "Confronté à une explosion de ses dépenses en intelligence artificielle, Meta annonce la suppression de 10 % de ses effectifs mondiaux, soit 8 000 postes, et le gel de 6 000 recrutements.",
+      "url": "https://www.zdnet.fr/actualites/meta-supprime-8-000-postes-pour-financer-sa-course-a-lia-494215.htm",
       "source": "ZDNet France",
-      "publishedAt": "2026-04-23T06:36:04Z",
+      "publishedAt": "2026-04-24T07:10:47Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "À l’approche des midterms, l'IA fabrique de faux soutiens pour Donald Trump",
-      "description": "Des centaines de comptes TikTok mettent, actuellement, en scène de belles femmes pro-Trump générées par intelligence artificielle. L'objectif n'est pas de convaincre, mais de saturer l'espace et de do...",
-      "url": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/a-l-approche-des-midterms-l-ia-fabrique-de-faux-soutiens-pour-donald-trump_7939814.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-04-23T07:53:34Z",
+      "title": "IA générative : quand les images deviennent impossibles à distinguer du réel",
+      "description": "Ces images semblent réelles. Elles ne le sont pas. Générées par une intelligence artificielle, elles brouillent volontairement nos repères visuels. Visages, villes, paysages ou corps humains : tout pa...",
+      "url": "https://www.futura-sciences.com/tech/photos/intelligence-artificielle-ia-generative-images-deviennent-impossibles-distinguer-reel-2415/",
+      "source": "Futura",
+      "publishedAt": "2026-04-24T07:30:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Locaux, achats et recrutement... À San Francisco, une IA gère une boutique de A à Z",
-      "description": "À San Francisco, une boutique est entièrement pilotée par une intelligence artificielle capable de louer, recruter et acheter sans intervention humaine. Une expérimentation inédite, mais déjà marquée ...",
-      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/locaux-achats-et-recrutement-a-san-francisco-une-ia-gere-une-boutique-de-a-a-z_7939853.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-04-23T08:15:08Z",
+      "title": "Trump annonce une prolongation de la trêve au Liban et a tout son temps en Iran, Licenciements chez Meta et Microsoft, Le chinois DeepSeek lance un nouveau modèle d’IA… Ça s’est passé cette nuit",
+      "description": "Trump annonce une prolongation de la trêve au Liban et a tout son temps en Iran, Licenciements chez Meta et Microsoft, Le chinois DeepSeek lance un nouveau modèle d’IA",
+      "url": "https://www.challenges.fr/monde/trump-annonce-une-prolongation-de-la-treve-au-liban-et-a-tout-son-temps-en-iran-licenciements-chez-meta-et-microsoft-le-chinois-deepseek-lance-un-nouveau-modele-dia-ca-sest-passe-cette-nuit_642947",
+      "source": "Challenges",
+      "publishedAt": "2026-04-24T05:45:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,23 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "SpaceX prépare un pari colossal à 60 milliards pour s’offrir la pépite de l’IA Cursor",
-      "description": "Nous avons une nouvelle annonce dans le monde de la tech et surtout de l’IA. Elle risque de faire couler beaucoup d’encre. Cursor a mis moins de deux ans pour s’installer sur l’écran de presque tous l...",
-      "url": "https://siecledigital.fr/2026/04/23/spacex-prepare-un-pari-colossal-a-60-milliards-pour-soffrir-la-pepite-de-lia-cursor/",
-      "source": "Siècle Digital",
-      "publishedAt": "2026-04-23T07:30:14Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Isère - France. STMicroelectronics dévoile un chiffre d’affaires un peu au-dessus de ses prévisions",
-      "description": "STMicroelectronics a réalisé, sur le premier trimestre 2026, un chiffre d’affaires de 3,095 milliards de dollars, en hausse de 23 % en variation annuelle et au-dessus du point médian de sa fourchette ...",
-      "url": "https://www.ledauphine.com/economie/2026/04/23/stmicroelectronics-devoile-un-chiffre-d-affaires-un-peu-au-dessus-de-ses-previsions",
+      "title": "Économie. Entrepreneuriat : quand la science balaie les idées reçues sur les start‑up, les savoir‑être…",
+      "description": "Incubateurs, subventions, formations à la créativité… les dispositifs de soutien à l’entrepreneuriat se multiplient en France. Ces solutions sont-elles vraiment efficaces ? Et si les « bonnes idées » ...",
+      "url": "https://www.ledauphine.com/economie/2026/04/24/entrepreneuriat-quand-la-science-balaie-les-idees-recues-sur-les-start-up-les-savoir-etre",
       "source": "Le Dauphiné Libéré",
-      "publishedAt": "2026-04-23T09:14:00Z",
+      "publishedAt": "2026-04-24T04:05:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
