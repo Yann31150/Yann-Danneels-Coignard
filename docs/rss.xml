@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 25 Apr 2026 08:59:36 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 09:06:53 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Comparatif Google Gemini vs ChatGPT : quelle est la meilleure IA en marketing ?</title>
-            <link>https://www.webmarketing-com.com/comparatif-google-gemini-vs-chatgpt-meilleure-ia-marketing</link>
-            <description><![CDATA[Vous avez probablement déjà vu passer ces graphiques complexes. Des benchmarks techniques affirmant que tel modèle surpasse l’autre de 2,4 % sur un test de logique mathématique ou de compréhension du ...]]></description>
-            <pubDate>Fri, 24 Apr 2026 07:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.webmarketing-com.com/comparatif-google-gemini-vs-chatgpt-meilleure-ia-marketing</guid>
-            <source>Webmarketing-com.com</source>
+            <title>Gemma 4 : L&amp;#39;IA de Google Gratuite, Illimitée, Locale &amp;amp; SANS Internet !</title>
+            <link>https://www.youtube.com/watch?v=9onqtz5EwHE</link>
+            <description><![CDATA[Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...]]></description>
+            <pubDate>Tue, 21 Apr 2026 14:02:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=9onqtz5EwHE</guid>
+            <source>Alpa14</source>
         </item>
         <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
@@ -29,12 +29,12 @@
             <source>Comprendre l'informatique</source>
         </item>
         <item>
-            <title>OpenAI dévoile GPT-5.5, son modèle le plus avancé pour l’IA agentique</title>
-            <link>https://www.blogdumoderateur.com/openai-devoile-gpt-5-5-modele-plus-avance-ia-agentique/</link>
-            <description><![CDATA[Avec GPT-5.5, OpenAI entend améliorer la capacité de son modèle à planifier, utiliser des outils et mener à bien des tâches complexes sans supervision détaillée.]]></description>
-            <pubDate>Fri, 24 Apr 2026 08:33:21 -0000</pubDate>
-            <guid isPermaLink="true">https://www.blogdumoderateur.com/openai-devoile-gpt-5-5-modele-plus-avance-ia-agentique/</guid>
-            <source>Blogdumoderateur.com</source>
+            <title>Quelles IA confortent les idées délirantes de leurs utilisateurs ? Une étude compare ChatGPT, Gemini, Claude et Grok</title>
+            <link>https://www.phonandroid.com/quelles-ia-confortent-les-idees-delirantes-de-leurs-utilisateurs-une-etude-compare-chatgpt-gemini-claude-et-grok.html</link>
+            <description><![CDATA[Une récente étude s'intéresse au renforcement des croyances délirantes chez les utilisateurs qui interagissent de façon prolongée avec de grands modèles d'IA. Mais tous ne sont pas égaux, d'après un.....]]></description>
+            <pubDate>Sat, 25 Apr 2026 05:15:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.phonandroid.com/quelles-ia-confortent-les-idees-delirantes-de-leurs-utilisateurs-une-etude-compare-chatgpt-gemini-claude-et-grok.html</guid>
+            <source>Phonandroid</source>
         </item>
         <item>
             <title>Utiliser Claude avec Power BI : le hack ultime</title>
@@ -45,36 +45,28 @@
             <source>Clément LVL</source>
         </item>
         <item>
-            <title>Maîtriser SQL en 1 heure sans prise de tête</title>
-            <link>https://www.youtube.com/watch?v=GVNc1ZrOoAs</link>
-            <description><![CDATA[Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...]]></description>
-            <pubDate>Mon, 06 Apr 2026 13:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=GVNc1ZrOoAs</guid>
-            <source>CodeAvecLionel</source>
+            <title>Fini la recherche d'infos, Workspace Intelligence arrive sur Google</title>
+            <link>https://www.generation-nt.com/actualites/google-workspace-intelligence-gemini-ia-drive-2074653</link>
+            <description><![CDATA[Google annonce Workspace Intelligence, une couche sémantique qui connecte Gemini à l'ensemble de vos données professionnelles (Gmail, Drive, Chat, Docs). L'objectif est de transformer l'IA en un assis...]]></description>
+            <pubDate>Fri, 24 Apr 2026 17:50:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/google-workspace-intelligence-gemini-ia-drive-2074653</guid>
+            <source>Génération NT</source>
         </item>
         <item>
-            <title>L'entreprise chinoise DeepSeek lance un nouveau modèle d'intelligence artificielle</title>
-            <link>https://www.franceinfo.fr/internet/intelligence-artificielle/l-entreprise-chinoise-deepseek-lance-un-nouveau-modele-d-intelligence-artificielle_7961183.html</link>
-            <description><![CDATA[L'industrie mondiale de la tech guettait depuis plusieurs semaines cette annonce, baromètre des ambitions chinoises dans le secteur.]]></description>
-            <pubDate>Fri, 24 Apr 2026 05:19:59 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/internet/intelligence-artificielle/l-entreprise-chinoise-deepseek-lance-un-nouveau-modele-d-intelligence-artificielle_7961183.html</guid>
-            <source>Franceinfo.fr</source>
+            <title>Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)</title>
+            <link>https://www.youtube.com/watch?v=Vm-dZxN70kY</link>
+            <description><![CDATA[Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...]]></description>
+            <pubDate>Sat, 14 Mar 2026 20:01:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Vm-dZxN70kY</guid>
+            <source>TechVantage FR</source>
         </item>
         <item>
-            <title>Télécharger et Installer SQL Server 2025 et SSMS sur Windows 11 &amp;amp; 10 | Guide complet</title>
-            <link>https://www.youtube.com/watch?v=G-4DERRKrHA</link>
-            <description><![CDATA[Dans cette vidéo, nous allons voir comment télécharger et Installer SQL Server 2025 ainsi que SQL Server Management Studio ...]]></description>
-            <pubDate>Wed, 25 Feb 2026 04:31:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=G-4DERRKrHA</guid>
-            <source>AntalaSoft School</source>
-        </item>
-        <item>
-            <title>Un ciment 17 fois plus résistant grâce aux huîtres : cette innovation pourrait transformer la construction moderne</title>
-            <link>https://www.futura-sciences.com/maison/actualites/materiau-ciment-17-fois-plus-resistant-grace-huitres-cette-innovation-pourrait-transformer-construction-moderne-k2m6-133962/</link>
-            <description><![CDATA[Quelque 8 % des émissions mondiales de gaz à effet de serre. C'est la part du ciment dans le bilan carbone de la Planète. Alors quand des chercheurs parviennent à le rendre 17 fois plus résistant en s...]]></description>
-            <pubDate>Fri, 24 Apr 2026 08:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/maison/actualites/materiau-ciment-17-fois-plus-resistant-grace-huitres-cette-innovation-pourrait-transformer-construction-moderne-k2m6-133962/</guid>
-            <source>Futura</source>
+            <title>SQL - Question bac NSI</title>
+            <link>https://www.youtube.com/watch?v=VLzCWa3nXrw</link>
+            <description><![CDATA[SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...]]></description>
+            <pubDate>Mon, 06 Apr 2026 08:26:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=VLzCWa3nXrw</guid>
+            <source>Célian</source>
         </item>
         <item>
             <title>Pourquoi les télécoms ne peuvent plus se passer de la Data Science – Chike Odenigbo</title>
@@ -93,12 +85,12 @@
             <source>Enogne School</source>
         </item>
         <item>
-            <title>Questions et réponses d’entretien pour analyste de données</title>
-            <link>https://www.youtube.com/watch?v=Z5LsWFrltHU</link>
-            <description><![CDATA[Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...]]></description>
-            <pubDate>Sat, 11 Apr 2026 07:15:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z5LsWFrltHU</guid>
-            <source>Damal Consult Carrière TV- Français</source>
+            <title>Pourquoi toutes les entreprises ont besoin de Data Science – Thibault Camara</title>
+            <link>https://www.youtube.com/watch?v=MGTY0HfU9Fc</link>
+            <description><![CDATA[Dans ce quatrième podcast, Ekué a eu le plaisir de discuter avec Thibault Camara qui est un expert en data science dans le ...]]></description>
+            <pubDate>Fri, 13 Mar 2026 22:15:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=MGTY0HfU9Fc</guid>
+            <source>Enogne School</source>
         </item>
         <item>
             <title>SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025</title>
@@ -133,14 +125,6 @@
             <source>Benjamin Ejzenberg (votre coach Power BI)</source>
         </item>
         <item>
-            <title>Philips Ambilight &amp; AmbiScape : les TV qui vous procurent un maximum d’émotions pour suivre vos matchs préférés</title>
-            <link>https://www.lesnumeriques.com/tv-televiseur/philips-ambilight-ambiscape-les-tv-qui-vous-procurent-un-maximum-d-emotions-pour-suivre-vos-matchs-preferes-na254753.html</link>
-            <description><![CDATA[La marque Philips transforme votre expérience télévisuelle à quelques semaines de la coupe du monde de football, avec ses technologies Ambilight et AmbiScape. Découvrez comment ces téléviseurs mythiqu...]]></description>
-            <pubDate>Fri, 24 Apr 2026 08:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/tv-televiseur/philips-ambilight-ambiscape-les-tv-qui-vous-procurent-un-maximum-d-emotions-pour-suivre-vos-matchs-preferes-na254753.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
             <title>Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)</title>
             <link>https://www.youtube.com/watch?v=xkJdg9zXGEI</link>
             <description><![CDATA[Vous voulez aller plus loin et apprendre SQL ? Découvrez mon cours SQL ...]]></description>
@@ -171,6 +155,22 @@
             <pubDate>Thu, 02 Apr 2026 16:30:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=SqzUaKJb384</guid>
             <source>Morpheus Formation | Excel, Sheets, Power BI</source>
+        </item>
+        <item>
+            <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
+            <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
+            <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
+            <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
+            <source>CodeAvecLionel</source>
+        </item>
+        <item>
+            <title>Liens vagabonds : Chaque créateur aura-t-il bientôt son propre jumeau numérique ?</title>
+            <link>https://www.meta-media.fr/2026/04/25/liens-vagabonds-chaque-createur-aura-t-il-bientot-son-propre-jumeau-numerique.html</link>
+            <description><![CDATA[Notre identité numérique n’a jamais été aussi menacée. Dans un monde où les cyberattaques  « sont aussi cruciales pour la guerre moderne que les missiles », l’IA générative permet désormais de cloner ...]]></description>
+            <pubDate>Sat, 25 Apr 2026 07:13:21 -0000</pubDate>
+            <guid isPermaLink="true">https://www.meta-media.fr/2026/04/25/liens-vagabonds-chaque-createur-aura-t-il-bientot-son-propre-jumeau-numerique.html</guid>
+            <source>Meta-media.fr</source>
         </item>
     </channel>
 </rss>
