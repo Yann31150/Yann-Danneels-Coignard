@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 26 Apr 2026 09:06:53 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 10:21:47 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,28 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Gemma 4 : L&amp;#39;IA de Google Gratuite, Illimitée, Locale &amp;amp; SANS Internet !</title>
-            <link>https://www.youtube.com/watch?v=9onqtz5EwHE</link>
-            <description><![CDATA[Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...]]></description>
-            <pubDate>Tue, 21 Apr 2026 14:02:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=9onqtz5EwHE</guid>
-            <source>Alpa14</source>
-        </item>
-        <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
             <link>https://www.youtube.com/watch?v=77IMWD4TWtg</link>
             <description><![CDATA[Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...]]></description>
             <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
             <source>Comprendre l'informatique</source>
-        </item>
-        <item>
-            <title>Quelles IA confortent les idées délirantes de leurs utilisateurs ? Une étude compare ChatGPT, Gemini, Claude et Grok</title>
-            <link>https://www.phonandroid.com/quelles-ia-confortent-les-idees-delirantes-de-leurs-utilisateurs-une-etude-compare-chatgpt-gemini-claude-et-grok.html</link>
-            <description><![CDATA[Une récente étude s'intéresse au renforcement des croyances délirantes chez les utilisateurs qui interagissent de façon prolongée avec de grands modèles d'IA. Mais tous ne sont pas égaux, d'après un.....]]></description>
-            <pubDate>Sat, 25 Apr 2026 05:15:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.phonandroid.com/quelles-ia-confortent-les-idees-delirantes-de-leurs-utilisateurs-une-etude-compare-chatgpt-gemini-claude-et-grok.html</guid>
-            <source>Phonandroid</source>
         </item>
         <item>
             <title>Utiliser Claude avec Power BI : le hack ultime</title>
@@ -45,11 +29,11 @@
             <source>Clément LVL</source>
         </item>
         <item>
-            <title>Fini la recherche d'infos, Workspace Intelligence arrive sur Google</title>
-            <link>https://www.generation-nt.com/actualites/google-workspace-intelligence-gemini-ia-drive-2074653</link>
-            <description><![CDATA[Google annonce Workspace Intelligence, une couche sémantique qui connecte Gemini à l'ensemble de vos données professionnelles (Gmail, Drive, Chat, Docs). L'objectif est de transformer l'IA en un assis...]]></description>
-            <pubDate>Fri, 24 Apr 2026 17:50:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/google-workspace-intelligence-gemini-ia-drive-2074653</guid>
+            <title>Bixonimanie : la fausse maladie qui a piégé l'intelligence artificielle et la science</title>
+            <link>https://www.generation-nt.com/actualites/bixonimanie-maladie-fictive-canular-intelligence-artificielle-2074461</link>
+            <description><![CDATA[Imaginez une maladie avec des symptômes précis, un nom technique et des études à l'appui. Une pathologie que les IA diagnostiquent et que des revues scientifiques citent. Sauf que tout est faux. Absol...]]></description>
+            <pubDate>Sat, 25 Apr 2026 17:30:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/bixonimanie-maladie-fictive-canular-intelligence-artificielle-2074461</guid>
             <source>Génération NT</source>
         </item>
         <item>
@@ -91,6 +75,30 @@
             <pubDate>Fri, 13 Mar 2026 22:15:02 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=MGTY0HfU9Fc</guid>
             <source>Enogne School</source>
+        </item>
+        <item>
+            <title>Meilleur VPN gratuit sur Mac : sécurité, vitesse et confidentialité</title>
+            <link>https://www.futura-sciences.com/conso/guides-achat/guides-vpn-meilleur-vpn-gratuit-mac-securite-vitesse-confidentialite-1389/</link>
+            <description><![CDATA[Sur MacOS, choisir un VPN gratuit reste un vrai sujet. Sécurité des données, vitesse de connexion, respect de la confidentialité. Tout compte. Apple soigne l’expérience, mais Internet expose encore le...]]></description>
+            <pubDate>Sun, 26 Apr 2026 06:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/conso/guides-achat/guides-vpn-meilleur-vpn-gratuit-mac-securite-vitesse-confidentialite-1389/</guid>
+            <source>Futura</source>
+        </item>
+        <item>
+            <title>Meta veut alimenter son IA avec du gaz</title>
+            <link>https://www.journaldugeek.com/2026/04/26/meta-veut-alimenter-son-ia-avec-du-gaz/</link>
+            <description><![CDATA[Pour faire tourner ses futurs centres de données IA, Meta veut financer dix centrales électriques au gaz en Louisiane. Un choix douteux alors que nous sommes plongés dans une crise climatique, même si...]]></description>
+            <pubDate>Sun, 26 Apr 2026 07:00:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/04/26/meta-veut-alimenter-son-ia-avec-du-gaz/</guid>
+            <source>Journal du geek</source>
+        </item>
+        <item>
+            <title>Questions et réponses d’entretien pour analyste de données</title>
+            <link>https://www.youtube.com/watch?v=Z5LsWFrltHU</link>
+            <description><![CDATA[Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...]]></description>
+            <pubDate>Sat, 11 Apr 2026 07:15:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z5LsWFrltHU</guid>
+            <source>Damal Consult Carrière TV- Français</source>
         </item>
         <item>
             <title>SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025</title>
@@ -163,14 +171,6 @@
             <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
             <source>CodeAvecLionel</source>
-        </item>
-        <item>
-            <title>Liens vagabonds : Chaque créateur aura-t-il bientôt son propre jumeau numérique ?</title>
-            <link>https://www.meta-media.fr/2026/04/25/liens-vagabonds-chaque-createur-aura-t-il-bientot-son-propre-jumeau-numerique.html</link>
-            <description><![CDATA[Notre identité numérique n’a jamais été aussi menacée. Dans un monde où les cyberattaques  « sont aussi cruciales pour la guerre moderne que les missiles », l’IA générative permet désormais de cloner ...]]></description>
-            <pubDate>Sat, 25 Apr 2026 07:13:21 -0000</pubDate>
-            <guid isPermaLink="true">https://www.meta-media.fr/2026/04/25/liens-vagabonds-chaque-createur-aura-t-il-bientot-son-propre-jumeau-numerique.html</guid>
-            <source>Meta-media.fr</source>
         </item>
     </channel>
 </rss>
