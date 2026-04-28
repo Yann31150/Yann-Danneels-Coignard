@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-04-27T10:21:47.810539",
+  "lastUpdate": "2026-04-28T10:20:19.460795",
   "articles": [
+    {
+      "title": "Intelligence artificielle : Pourquoi Elon Musk intente-t-il un procès à OpenAI ?",
+      "description": "Elon Musk attaque un autre capitaine de l’industrie IA américaine, Sam Altman, qu’il accuse d’avoir trahi la vocation non lucrative d’OpenAI - maison mère de ChatGPT - qu’ils ont créé ensemble",
+      "url": "https://www.20minutes.fr/monde/etats-unis/4220411-20260427-intelligence-artificielle-pourquoi-elon-musk-intente-proces-openai",
+      "source": "20 Minutes",
+      "publishedAt": "2026-04-27T07:22:40Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
     {
       "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
       "description": "Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...",
@@ -26,11 +38,11 @@
       "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
     },
     {
-      "title": "Bixonimanie : la fausse maladie qui a piégé l'intelligence artificielle et la science",
-      "description": "Imaginez une maladie avec des symptômes précis, un nom technique et des études à l'appui. Une pathologie que les IA diagnostiquent et que des revues scientifiques citent. Sauf que tout est faux. Absol...",
-      "url": "https://www.generation-nt.com/actualites/bixonimanie-maladie-fictive-canular-intelligence-artificielle-2074461",
-      "source": "Génération NT",
-      "publishedAt": "2026-04-25T17:30:01Z",
+      "title": "World models : vers une IA qui comprend le monde ?",
+      "description": "Comprendre la gravité, anticiper une situation, agir dans le monde physique : les world models partent d'une logique différente des LLM. Emmanuelle Guyot, Head of Data Science chez Hellowork, décrypte...",
+      "url": "https://www.blogdumoderateur.com/world-models-vers-ia-comprend-monde/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-04-27T05:00:08Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -98,28 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/MGTY0HfU9Fc/hqdefault.jpg"
     },
     {
-      "title": "Meilleur VPN gratuit sur Mac : sécurité, vitesse et confidentialité",
-      "description": "Sur MacOS, choisir un VPN gratuit reste un vrai sujet. Sécurité des données, vitesse de connexion, respect de la confidentialité. Tout compte. Apple soigne l’expérience, mais Internet expose encore le...",
-      "url": "https://www.futura-sciences.com/conso/guides-achat/guides-vpn-meilleur-vpn-gratuit-mac-securite-vitesse-confidentialite-1389/",
-      "source": "Futura",
-      "publishedAt": "2026-04-26T06:30:00Z",
+      "title": "Tout Comprendre sur Claude IA en 22 Minutes",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=-50BGEYgMr4",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-03-22T17:00:00Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Meta veut alimenter son IA avec du gaz",
-      "description": "Pour faire tourner ses futurs centres de données IA, Meta veut financer dix centrales électriques au gaz en Louisiane. Un choix douteux alors que nous sommes plongés dans une crise climatique, même si...",
-      "url": "https://www.journaldugeek.com/2026/04/26/meta-veut-alimenter-son-ia-avec-du-gaz/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-04-26T07:00:34Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "-50BGEYgMr4",
+      "thumbnail": "https://i.ytimg.com/vi/-50BGEYgMr4/hqdefault.jpg"
     },
     {
       "title": "Questions et réponses d’entretien pour analyste de données",
@@ -146,18 +146,6 @@
       "thumbnail": "https://i.ytimg.com/vi/10SDW2LoxX4/hqdefault.jpg"
     },
     {
-      "title": "Exploratory Data Analysis (EDA) with Pandas",
-      "description": "In this video, I share a powerful EDA (Exploratory Data Analysis) Cheatsheet using Pandas that will help you quickly analyze any ...",
-      "url": "https://www.youtube.com/watch?v=ch9dwbbNlOE",
-      "source": "KNOWLEDGE DOCTOR",
-      "publishedAt": "2026-02-26T15:48:55Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ch9dwbbNlOE",
-      "thumbnail": "https://i.ytimg.com/vi/ch9dwbbNlOE/hqdefault.jpg"
-    },
-    {
       "title": "Tuto Power BI : Débuter en 2026",
       "description": "Maîtrisez Power BI en 2026 : Le Guide Complet pour Débutants ! Vous voulez passer au niveau supérieur dans l'analyse de ...",
       "url": "https://www.youtube.com/watch?v=dL3fQRR4Ywc",
@@ -180,6 +168,18 @@
       "isYouTube": true,
       "videoId": "86cmlVHp4cs",
       "thumbnail": "https://i.ytimg.com/vi/86cmlVHp4cs/hqdefault.jpg"
+    },
+    {
+      "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
+      "description": "Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...",
+      "url": "https://www.youtube.com/watch?v=FL9r4dDKiIU",
+      "source": "Houssem Lahiani",
+      "publishedAt": "2026-04-19T20:17:51Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "FL9r4dDKiIU",
+      "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
     },
     {
       "title": "Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)",
@@ -242,11 +242,23 @@
       "thumbnail": "https://i.ytimg.com/vi/SCKEMpv7Ld4/hqdefault.jpg"
     },
     {
-      "title": "Val Kilmer de retour à l’écran avec l’IA : le pari malaisant du film « As Deep as the Grave »",
-      "description": "Et si un acteur disparu pouvait tout de même tenir son rôle à l’écran ? « As Deep as the Grave » tente l’expérience avec Val Kilmer, recréé par intelligence artificielle avec l’accord de sa famille. U...",
-      "url": "https://www.journaldugeek.com/2026/04/25/val-kilmer-de-retour-a-lecran-avec-lia-le-pari-malaisant-du-film-as-deep-as-the-grave/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-04-25T15:00:13Z",
+      "title": "John Ternus, nouveau patron d’Apple, dit que l’IA va « créer des expériences incroyables »",
+      "description": "John Ternus, qui va succéder à Tim Cook en tant que patron d’Apple dès le 1er septembre 2026, est plus que confiant dans l’intelligence artificielle. Il pense réellement que l’IA va permettre de nouve...",
+      "url": "https://iphoneaddict.fr/post/news-427627-john-ternus-nouveau-patron-dapple-dit-lia-creer-experiences-incroyables",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-04-26T16:12:24Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "IA souveraine : Cohere et Aleph Alpha fusionnent pour créer un géant de l'IA européen",
+      "description": "Un axe Ottawa-Berlin se dessine dans la tech. Loin des projecteurs braqués sur la Silicon Valley, une alliance stratégique prend forme pour bâtir un contre-pouvoir dans le monde de l'intelligence arti...",
+      "url": "https://www.generation-nt.com/actualites/cohere-aleph-alpha-intelligence-artificielle-europe-alliance-2074687",
+      "source": "Génération NT",
+      "publishedAt": "2026-04-27T10:10:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Jeux vidéo : l’IA ne remplacera pas les créateurs selon Take-Two Interactive",
-      "description": "Le PDG de Take-Two Interactive estime que l’intelligence artificielle ne remplacera pas la créativité humaine dans le jeu vidéo.",
-      "url": "https://www.begeek.fr/jeux-video-lia-ne-remplacera-pas-les-createurs-selon-take-two-interactive-431390",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-04-26T08:00:07Z",
+      "title": "Les Manuscrits de la mer Morte datés par une IA : un secret vieux de 2000 ans refait surface",
+      "description": "Des chercheurs ont imaginé une approche hybride, à la croisée des techniques de datation traditionnelles et de l'intelligence artificielle, pour découvrir de nouveaux éléments de contexte fascinants s...",
+      "url": "https://www.journaldugeek.com/2026/04/26/les-manuscrits-de-la-mer-morte-dates-par-une-ia-un-secret-vieux-de-2000-ans-refait-surface/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-04-26T18:37:16Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,23 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Roblox franchit un cap avec la création assistée par IA",
-      "description": "Du concept au test, l’intelligence artificielle promet de réduire drastiquement le temps de développement.",
-      "url": "https://www.begeek.fr/roblox-franchit-un-cap-avec-la-creation-assistee-par-ia-431392",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-04-26T10:00:34Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "« N’abandonnons pas le financement public du secteur culturel à l’oukase des réseaux sociaux »",
-      "description": "Le député socialiste Arthur Delaporte revient sur une polémique récente ayant visé le Centre national du cinéma et de l’image animée et appelle à un fonctionnement serein pour réaliser sa mission cruc...",
-      "url": "https://www.nouvelobs.com/tribunes/20260426.OBS114475/n-abandonnons-pas-le-financement-public-du-secteur-culturel-a-l-oukase-des-reseaux-sociaux.html",
-      "source": "L'Obs",
-      "publishedAt": "2026-04-26T07:45:08Z",
+      "title": "SQUAREMIND lève 15,3 millions d’euros pour déployer Swan, sa plateforme d’imagerie dermatologique robotisée",
+      "description": "SquareMind accélère son passage à l’échelle, la startup française spécialisée en intelligence artificielle et robotique appliquées à la dermatologie annonce une levée de 18 millions de dollars, soit e...",
+      "url": "https://www.frenchweb.fr/squaremind-leve-153-millions-deuros-pour-deployer-swan-sa-plateforme-dimagerie-dermatologique-robotisee/461470",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-04-27T08:44:38Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
