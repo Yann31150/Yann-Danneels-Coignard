@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-30T10:10:04.134428",
+  "lastUpdate": "2026-05-01T09:50:16.766968",
   "articles": [
     {
       "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
@@ -38,18 +38,6 @@
       "thumbnail": "https://i.ytimg.com/vi/fXojHUuBnaY/hqdefault.jpg"
     },
     {
-      "title": "EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&#39;utiliser Excel !",
-      "description": "INSCRIVEZ-VOUS GRATUITEMENT AU WÉBINAIRE IA : morpheus-formation.fr/webinaire Testez votre niveau sur Excel (avec ...",
-      "url": "https://www.youtube.com/watch?v=8Vh5bmRgmlo",
-      "source": "Morpheus Formation | Excel, Sheets, Power BI",
-      "publishedAt": "2026-03-06T10:00:00Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "8Vh5bmRgmlo",
-      "thumbnail": "https://i.ytimg.com/vi/8Vh5bmRgmlo/hqdefault.jpg"
-    },
-    {
       "title": "Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)",
       "description": "Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...",
       "url": "https://www.youtube.com/watch?v=Vm-dZxN70kY",
@@ -72,6 +60,18 @@
       "isYouTube": true,
       "videoId": "VLzCWa3nXrw",
       "thumbnail": "https://i.ytimg.com/vi/VLzCWa3nXrw/hqdefault.jpg"
+    },
+    {
+      "title": "Google Photos va transformer votre galerie en dressing numérique grâce à cette nouvelle fonction IA",
+      "description": "Google Photos va bientôt connaître vos vêtements mieux que vous. L'application va scanner vos anciennes photos pour composer un dressing numérique complet. Il sera même possible d'essayer des tenues v...",
+      "url": "https://www.phonandroid.com/google-photos-va-transformer-votre-galerie-en-dressing-numerique-grace-a-cette-nouvelle-fonction-ia.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-04-30T08:09:31Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Il utilise la Data Science pour battre le marché – Felix Carrier",
@@ -98,18 +98,6 @@
       "thumbnail": "https://i.ytimg.com/vi/MGTY0HfU9Fc/hqdefault.jpg"
     },
     {
-      "title": "Elon Musk fait son autoportrait (biaisé) au procès d’OpenAI",
-      "description": "Le milliardaire, que l’on connaît avide de pouvoir et d’argent, accuse OpenAI et son patron d’avoir volé son « œuvre caritative ».",
-      "url": "https://www.huffingtonpost.fr/international/article/elon-musk-fait-son-autoportrait-biaise-au-proces-d-openai_263208.html",
-      "source": "Le HuffPost",
-      "publishedAt": "2026-04-29T09:46:11Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Tout Comprendre sur Claude IA en 22 Minutes",
       "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...",
       "url": "https://www.youtube.com/watch?v=-50BGEYgMr4",
@@ -122,16 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/-50BGEYgMr4/hqdefault.jpg"
     },
     {
-      "title": "Questions et réponses d’entretien pour analyste de données",
-      "description": "Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...",
-      "url": "https://www.youtube.com/watch?v=Z5LsWFrltHU",
-      "source": "Damal Consult Carrière TV- Français",
-      "publishedAt": "2026-04-11T07:15:03Z",
-      "category": "data",
+      "title": "La Descente de Gradient EXPLIQUÉE SIMPLEMENT  | Machine Learning Facile",
+      "description": "Tu veux comprendre la descente de gradient simplement ? Dans cette vidéo, je vous explique l'un des concepts les plus ...",
+      "url": "https://www.youtube.com/watch?v=oOYE4K1eqyc",
+      "source": "Comprendre l'informatique",
+      "publishedAt": "2026-03-29T13:12:10Z",
+      "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Z5LsWFrltHU",
-      "thumbnail": "https://i.ytimg.com/vi/Z5LsWFrltHU/hqdefault.jpg"
+      "videoId": "oOYE4K1eqyc",
+      "thumbnail": "https://i.ytimg.com/vi/oOYE4K1eqyc/hqdefault.jpg"
     },
     {
       "title": "SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025",
@@ -144,6 +132,30 @@
       "isYouTube": true,
       "videoId": "10SDW2LoxX4",
       "thumbnail": "https://i.ytimg.com/vi/10SDW2LoxX4/hqdefault.jpg"
+    },
+    {
+      "title": "Tuto Power BI : Débuter en 2026",
+      "description": "Maîtrisez Power BI en 2026 : Le Guide Complet pour Débutants ! Vous voulez passer au niveau supérieur dans l'analyse de ...",
+      "url": "https://www.youtube.com/watch?v=dL3fQRR4Ywc",
+      "source": "Compétences BI | Maîtrisez les outils de demain",
+      "publishedAt": "2026-03-15T12:46:46Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "dL3fQRR4Ywc",
+      "thumbnail": "https://i.ytimg.com/vi/dL3fQRR4Ywc/hqdefault.jpg"
+    },
+    {
+      "title": "This is how you&#39;ll become a REMOTE Data Analyst in 2026 (FULL Guide)",
+      "description": "Try DataCamp Free: SQL Track: https://datacamp.pxf.io/E0KXDW Power BI Track: https://datacamp.pxf.io/7Xa2nr Remote data ...",
+      "url": "https://www.youtube.com/watch?v=q5MOKiZzSFA",
+      "source": "Matt Mike",
+      "publishedAt": "2026-03-23T14:05:49Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "q5MOKiZzSFA",
+      "thumbnail": "https://i.ytimg.com/vi/q5MOKiZzSFA/hqdefault.jpg"
     },
     {
       "title": "Dashboard Power BI Impressionnant | Tutoriel Débutant",
@@ -168,6 +180,18 @@
       "isYouTube": true,
       "videoId": "FL9r4dDKiIU",
       "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
+    },
+    {
+      "title": "Attention si vous avez un Fitbit, vous pourriez perdre toutes vos données",
+      "description": "Vous utilisez un bracelet Fitbit ? Ne tardez pas à effectuer une manipulation obligatoire sous peine de perdre toutes vos données. Vous avez encore un peu de temps pour le...",
+      "url": "https://www.phonandroid.com/attention-si-vous-avez-un-fitbit-vous-pourriez-perdre-toutes-vos-donnees.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-04-30T09:49:20Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)",
@@ -218,35 +242,11 @@
       "thumbnail": "https://i.ytimg.com/vi/SqzUaKJb384/hqdefault.jpg"
     },
     {
-      "title": "Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser",
-      "description": "Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...",
-      "url": "https://www.youtube.com/watch?v=SCKEMpv7Ld4",
-      "source": "NKwaTech",
-      "publishedAt": "2026-03-02T12:00:06Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "SCKEMpv7Ld4",
-      "thumbnail": "https://i.ytimg.com/vi/SCKEMpv7Ld4/hqdefault.jpg"
-    },
-    {
-      "title": "Elle transforme la finance grâce à la Data Science – Natacha Njongwa Yepnga",
-      "description": "Découverte et partage d'expérience avec Natacha NJONGWA YEPNGA. LINKEDIN DE Natacha ...",
-      "url": "https://www.youtube.com/watch?v=ZNQg77H-K1k",
-      "source": "Enogne School",
-      "publishedAt": "2026-03-20T21:00:40Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ZNQg77H-K1k",
-      "thumbnail": "https://i.ytimg.com/vi/ZNQg77H-K1k/hqdefault.jpg"
-    },
-    {
-      "title": "IA et Pentagone : Google signe avec le DoD là où Anthropic a refusé de céder",
-      "description": "Le débat sur l’utilisation militaire de l’intelligence artificielle prend une nouvelle dimension. Google vient d’accorder au département américain de la Défense un accès à son IA sur des réseaux class...",
-      "url": "https://www.fredzone.org/ia-et-pentagone-google-signe-avec-le-dod-la-ou-anthropic-a-refuse-de-ceder/",
-      "source": "FREDZONE",
-      "publishedAt": "2026-04-29T09:56:17Z",
+      "title": "Le pape dénonce l’IA… mais ses messages auraient été écrits par IA",
+      "description": "Le compte X du pape serait-il lui aussi touché par la vague de contenus générés par IA ? Plusieurs messages récents attribués à Léon XIV portent la signature probable de l’intelligence artificielle, u...",
+      "url": "https://www.numerama.com/tech/2244283-le-pape-denonce-lia-mais-ses-messages-auraient-ete-ecrits-par-ia.html",
+      "source": "Numerama",
+      "publishedAt": "2026-04-30T05:15:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Transition énergétique, intelligence artificielle : le concours Lépine \"évolue avec la société\", estime sa directrice",
-      "description": "205 inventions sont présentées lors de la 125e édition du concours Lépine qui se déroule jusqu'au 11 mai, au Paris Expo, porte de Versailles à Paris.",
-      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/transition-energetique-intelligence-artificielle-le-concours-lepine-evolue-avec-la-societe-estime-sa-directrice_7971785.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-04-29T08:37:38Z",
+      "title": "Diam Bouchage lance un plan technologique pour contrer la décrue du vin",
+      "description": "Face à la déconsommation mondiale du vin, le bouchonnier Diam Bouchage lance un plan stratégique offensif à l’horizon 2030. Moyennant 10 millions d’investissements annuels dans l’intelligence artifici...",
+      "url": "https://www.lejournaldesentreprises.com/article/diam-bouchage-lance-un-plan-technologique-pour-contrer-la-decrue-du-vin-2138078",
+      "source": "Le Journal des Entreprises",
+      "publishedAt": "2026-04-30T09:20:03Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Pour alimenter son IA la nuit, Meta a signé le deal le plus fou de l’histoire de l’énergie",
-      "description": "L'intelligence artificielle de Meta consomme des quantités d'énergie colossales, de jour comme de nuit. Pour y répondre, la firme vient de signer un accord que personne n'avait encore osé conclure....",
-      "url": "https://www.phonandroid.com/pour-alimenter-son-ia-la-nuit-meta-a-signe-le-deal-le-plus-fou-de-lhistoire-de-lenergie.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-04-29T09:26:20Z",
+      "title": "Alphabet dépasse les 20 milliards de dollars de revenus dans le cloud grâce à l’essor de l’IA",
+      "description": "Porté par la demande croissante en intelligence artificielle, Alphabet signe un trimestre record. Le groupe américain affiche une forte progression de son chiffre d’affaires et de ses bénéfices, tandi...",
+      "url": "https://www.zdnet.fr/actualites/alphabet-depasse-les-20-milliards-de-dollars-de-revenus-dans-le-cloud-grace-a-lessor-de-lia-494402.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-04-30T06:07:09Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Même l’horloge de Windows 11 va intégrer de l’IA, mais pour quoi faire ?",
-      "description": "Microsoft prépare une refonte de l'application Horloge de Windows 11. Sans surprise, l'intelligence artificielle va y faire son entrée. Voici ce qu'elle permettra de faire si la firme va au...",
-      "url": "https://www.phonandroid.com/meme-lhorloge-de-windows-11-va-integrer-de-lia-mais-pour-quoi-faire.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-04-29T09:38:03Z",
+      "title": "Amazon dépasse les attentes, soutenu par l’essor de l’IA et Anthropic",
+      "description": "Grâce à la forte demande en intelligence artificielle, Amazon dépasse les prévisions, avec un bénéfice en nette hausse soutenu par son cloud et par Anthropic. ...",
+      "url": "https://www.lalibre.be/economie/entreprises-startup/2026/04/30/amazon-depasse-les-attentes-soutenu-par-lessor-de-lia-et-anthropic-3U6PWDRKHZBYXKK63DIYFKY324/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-04-30T04:46:50Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "iOS 27 va faire le plein de fonctionnalités IA pour retoucher vos photos en un clic",
-      "description": "Apple se prépare à dévoiler iOS 27 aux yeux du monde le 8 juin prochain, à l'occasion de la prochaine WWDC. L'événement devrait faire la part belle à l'intelligence artificielle,...",
-      "url": "https://www.phonandroid.com/ios-27-va-faire-le-plein-de-fonctionnalites-ia-pour-retoucher-vos-photos-en-un-clic.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-04-29T10:00:56Z",
+      "title": "Apple glisserait un « mode Siri » dans l’appareil photo de l’iPhone",
+      "description": "Apple prépare une évolution assez visible de l’appareil photo de l’iPhone avec iOS 27. L’idée est d'intégrer plus directement l’intelligence artificielle dans l’interface, avec un nouveau mode « Siri ...",
+      "url": "https://www.journaldugeek.com/2026/04/30/apple-glisserait-un-mode-siri-dans-lappareil-photo-de-liphone/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-04-30T09:29:49Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

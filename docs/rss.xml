@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 30 Apr 2026 10:10:04 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 09:50:16 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -37,14 +37,6 @@
             <source>Marina Wyss - AI & Machine Learning</source>
         </item>
         <item>
-            <title>EXCEL COPILOT : 3 astuces qui vont transformer votre façon d&amp;#39;utiliser Excel !</title>
-            <link>https://www.youtube.com/watch?v=8Vh5bmRgmlo</link>
-            <description><![CDATA[INSCRIVEZ-VOUS GRATUITEMENT AU WÉBINAIRE IA : morpheus-formation.fr/webinaire Testez votre niveau sur Excel (avec ...]]></description>
-            <pubDate>Fri, 06 Mar 2026 10:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=8Vh5bmRgmlo</guid>
-            <source>Morpheus Formation | Excel, Sheets, Power BI</source>
-        </item>
-        <item>
             <title>Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)</title>
             <link>https://www.youtube.com/watch?v=Vm-dZxN70kY</link>
             <description><![CDATA[Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...]]></description>
@@ -59,6 +51,14 @@
             <pubDate>Mon, 06 Apr 2026 08:26:26 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=VLzCWa3nXrw</guid>
             <source>Célian</source>
+        </item>
+        <item>
+            <title>Google Photos va transformer votre galerie en dressing numérique grâce à cette nouvelle fonction IA</title>
+            <link>https://www.phonandroid.com/google-photos-va-transformer-votre-galerie-en-dressing-numerique-grace-a-cette-nouvelle-fonction-ia.html</link>
+            <description><![CDATA[Google Photos va bientôt connaître vos vêtements mieux que vous. L'application va scanner vos anciennes photos pour composer un dressing numérique complet. Il sera même possible d'essayer des tenues v...]]></description>
+            <pubDate>Thu, 30 Apr 2026 08:09:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.phonandroid.com/google-photos-va-transformer-votre-galerie-en-dressing-numerique-grace-a-cette-nouvelle-fonction-ia.html</guid>
+            <source>Phonandroid</source>
         </item>
         <item>
             <title>Il utilise la Data Science pour battre le marché – Felix Carrier</title>
@@ -77,14 +77,6 @@
             <source>Enogne School</source>
         </item>
         <item>
-            <title>Elon Musk fait son autoportrait (biaisé) au procès d’OpenAI</title>
-            <link>https://www.huffingtonpost.fr/international/article/elon-musk-fait-son-autoportrait-biaise-au-proces-d-openai_263208.html</link>
-            <description><![CDATA[Le milliardaire, que l’on connaît avide de pouvoir et d’argent, accuse OpenAI et son patron d’avoir volé son « œuvre caritative ».]]></description>
-            <pubDate>Wed, 29 Apr 2026 09:46:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.huffingtonpost.fr/international/article/elon-musk-fait-son-autoportrait-biaise-au-proces-d-openai_263208.html</guid>
-            <source>Le HuffPost</source>
-        </item>
-        <item>
             <title>Tout Comprendre sur Claude IA en 22 Minutes</title>
             <link>https://www.youtube.com/watch?v=-50BGEYgMr4</link>
             <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...]]></description>
@@ -93,12 +85,12 @@
             <source>Yassine Sdiri</source>
         </item>
         <item>
-            <title>Questions et réponses d’entretien pour analyste de données</title>
-            <link>https://www.youtube.com/watch?v=Z5LsWFrltHU</link>
-            <description><![CDATA[Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...]]></description>
-            <pubDate>Sat, 11 Apr 2026 07:15:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z5LsWFrltHU</guid>
-            <source>Damal Consult Carrière TV- Français</source>
+            <title>La Descente de Gradient EXPLIQUÉE SIMPLEMENT  | Machine Learning Facile</title>
+            <link>https://www.youtube.com/watch?v=oOYE4K1eqyc</link>
+            <description><![CDATA[Tu veux comprendre la descente de gradient simplement ? Dans cette vidéo, je vous explique l'un des concepts les plus ...]]></description>
+            <pubDate>Sun, 29 Mar 2026 13:12:10 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=oOYE4K1eqyc</guid>
+            <source>Comprendre l'informatique</source>
         </item>
         <item>
             <title>SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025</title>
@@ -107,6 +99,22 @@
             <pubDate>Sat, 04 Apr 2026 10:00:02 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=10SDW2LoxX4</guid>
             <source>Tchaps Tech</source>
+        </item>
+        <item>
+            <title>Tuto Power BI : Débuter en 2026</title>
+            <link>https://www.youtube.com/watch?v=dL3fQRR4Ywc</link>
+            <description><![CDATA[Maîtrisez Power BI en 2026 : Le Guide Complet pour Débutants ! Vous voulez passer au niveau supérieur dans l'analyse de ...]]></description>
+            <pubDate>Sun, 15 Mar 2026 12:46:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=dL3fQRR4Ywc</guid>
+            <source>Compétences BI | Maîtrisez les outils de demain</source>
+        </item>
+        <item>
+            <title>This is how you&amp;#39;ll become a REMOTE Data Analyst in 2026 (FULL Guide)</title>
+            <link>https://www.youtube.com/watch?v=q5MOKiZzSFA</link>
+            <description><![CDATA[Try DataCamp Free: SQL Track: https://datacamp.pxf.io/E0KXDW Power BI Track: https://datacamp.pxf.io/7Xa2nr Remote data ...]]></description>
+            <pubDate>Mon, 23 Mar 2026 14:05:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=q5MOKiZzSFA</guid>
+            <source>Matt Mike</source>
         </item>
         <item>
             <title>Dashboard Power BI Impressionnant | Tutoriel Débutant</title>
@@ -123,6 +131,14 @@
             <pubDate>Sun, 19 Apr 2026 20:17:51 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=FL9r4dDKiIU</guid>
             <source>Houssem Lahiani</source>
+        </item>
+        <item>
+            <title>Attention si vous avez un Fitbit, vous pourriez perdre toutes vos données</title>
+            <link>https://www.phonandroid.com/attention-si-vous-avez-un-fitbit-vous-pourriez-perdre-toutes-vos-donnees.html</link>
+            <description><![CDATA[Vous utilisez un bracelet Fitbit ? Ne tardez pas à effectuer une manipulation obligatoire sous peine de perdre toutes vos données. Vous avez encore un peu de temps pour le...]]></description>
+            <pubDate>Thu, 30 Apr 2026 09:49:20 -0000</pubDate>
+            <guid isPermaLink="true">https://www.phonandroid.com/attention-si-vous-avez-un-fitbit-vous-pourriez-perdre-toutes-vos-donnees.html</guid>
+            <source>Phonandroid</source>
         </item>
         <item>
             <title>Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)</title>
@@ -155,22 +171,6 @@
             <pubDate>Thu, 02 Apr 2026 16:30:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=SqzUaKJb384</guid>
             <source>Morpheus Formation | Excel, Sheets, Power BI</source>
-        </item>
-        <item>
-            <title>Python, Pandas DataFrame, Business Intelligence, Python pour débutants, Automatiser</title>
-            <link>https://www.youtube.com/watch?v=SCKEMpv7Ld4</link>
-            <description><![CDATA[Transformez vos fichiers CSV Amazon bruts en rapports d'analyse stratégiques ! Dans cette vidéo, je vous montre comment ...]]></description>
-            <pubDate>Mon, 02 Mar 2026 12:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=SCKEMpv7Ld4</guid>
-            <source>NKwaTech</source>
-        </item>
-        <item>
-            <title>Elle transforme la finance grâce à la Data Science – Natacha Njongwa Yepnga</title>
-            <link>https://www.youtube.com/watch?v=ZNQg77H-K1k</link>
-            <description><![CDATA[Découverte et partage d'expérience avec Natacha NJONGWA YEPNGA. LINKEDIN DE Natacha ...]]></description>
-            <pubDate>Fri, 20 Mar 2026 21:00:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ZNQg77H-K1k</guid>
-            <source>Enogne School</source>
         </item>
     </channel>
 </rss>
