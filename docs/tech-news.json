@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-02T09:11:54.658959",
+  "lastUpdate": "2026-05-03T09:24:27.439474",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -26,6 +26,18 @@
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
     },
     {
+      "title": "Notre édito: Et si on faisait du 1er mai, jour de la fête du travail, une journée sans intelligence artificielle?",
+      "description": "Le 1er mai célèbre depuis plus d’un siècle le travail, sa dignité, ses luttes et ses conquêtes. Mais que reste-t-il de cette notion à l’heure où l’intelligence artificielle redessine en profondeur not...",
+      "url": "https://www.lavenir.net/opinions/2026/05/01/notre-edito-et-si-on-faisait-du-1er-mai-jour-de-la-fete-du-travail-une-journee-sans-intelligence-artificielle-XY45HNAI7BAWDPEI7DUR7P6AYU/",
+      "source": "Lavenir.net",
+      "publishedAt": "2026-05-01T21:23:40Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Utiliser Claude avec Power BI : le hack ultime",
       "description": "https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...",
       "url": "https://www.youtube.com/watch?v=NFpt6GfkTg8",
@@ -36,30 +48,6 @@
       "isYouTube": true,
       "videoId": "NFpt6GfkTg8",
       "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
-    },
-    {
-      "title": "Science : l’IA Mythos résout 30 % des 23 problèmes qui déconcertent les humains",
-      "description": "Claude a testé les compétences de ses modèles d’IA (dont Claude Mythos et les modèles Claude Opus) en bio-informatique. Les résultats sont impressionnants, puisque l’intelligence artificielle a pu rés...",
-      "url": "https://www.presse-citron.net/science-ia-mythos-resout-problemes-qui-deconcertent-les-humains/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-04-30T10:31:06Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Des chercheurs ont créé une IA bloquée en 1930 pour voir comment elle comprend, prédit ou découvre notre monde moderne",
-      "description": "Et si une intelligence artificielle permettait de dialoguer avec le monde… tel qu’il était avant les années 1930 ? Avec Talkie, des chercheurs recréent une IA « hors du temps » pour tester ses limites...",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-chercheurs-ont-cree-ia-bloquee-1930-voir-elle-comprend-predit-decouvre-notre-monde-moderne-134157/",
-      "source": "Futura",
-      "publishedAt": "2026-04-30T14:15:40Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)",
@@ -122,6 +110,18 @@
       "thumbnail": "https://i.ytimg.com/vi/Np65Lymn0ZI/hqdefault.jpg"
     },
     {
+      "title": "Tout Comprendre sur Claude IA en 22 Minutes",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=-50BGEYgMr4",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-03-22T17:00:00Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "-50BGEYgMr4",
+      "thumbnail": "https://i.ytimg.com/vi/-50BGEYgMr4/hqdefault.jpg"
+    },
+    {
       "title": "Questions et réponses d’entretien pour analyste de données",
       "description": "Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...",
       "url": "https://www.youtube.com/watch?v=Z5LsWFrltHU",
@@ -156,18 +156,6 @@
       "isYouTube": true,
       "videoId": "dL3fQRR4Ywc",
       "thumbnail": "https://i.ytimg.com/vi/dL3fQRR4Ywc/hqdefault.jpg"
-    },
-    {
-      "title": "This is how you&#39;ll become a REMOTE Data Analyst in 2026 (FULL Guide)",
-      "description": "Try DataCamp Free: SQL Track: https://datacamp.pxf.io/E0KXDW Power BI Track: https://datacamp.pxf.io/7Xa2nr Remote data ...",
-      "url": "https://www.youtube.com/watch?v=q5MOKiZzSFA",
-      "source": "Matt Mike",
-      "publishedAt": "2026-03-23T14:05:49Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "q5MOKiZzSFA",
-      "thumbnail": "https://i.ytimg.com/vi/q5MOKiZzSFA/hqdefault.jpg"
     },
     {
       "title": "Dashboard Power BI Impressionnant | Tutoriel Débutant",
@@ -242,23 +230,23 @@
       "thumbnail": "https://i.ytimg.com/vi/SqzUaKJb384/hqdefault.jpg"
     },
     {
-      "title": "Microsoft intègre une IA juridique à Word pour automatiser la révision des contrats",
-      "description": "Avec son nouvel « Agent juridique » intégré à Word, Microsoft veut transformer Copilot en véritable assistant pour les directions juridiques. Une avancée stratégique qui illustre la montée en puissanc...",
-      "url": "https://www.zdnet.fr/actualites/microsoft-integre-une-ia-juridique-a-word-pour-automatiser-la-revision-des-contrats-494443.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-05-01T07:21:43Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dossier : Deepfake : comment les reconnaître et se protéger des arnaques (voix, vidéo, réseaux sociaux) ?",
-      "description": "Un message audio crédible. Une vidéo troublante. Une image qui semble vraie. Les deepfakes s’imposent dans le monde numérique. Grâce à l’intelligence artificielle, ces contenus profonds imitent une vo...",
-      "url": "https://www.lesnumeriques.com/antivirus/deepfake-comment-les-reconnaitre-et-se-proteger-des-arnaques-voix-video-reseaux-sociaux-a252903.html",
+      "title": "Actualité : Steam Controller : Valve mise sur la durabilité et un partenariat avec iFixit",
+      "description": "Connu pour être plutôt accueillant envers les bidouilleurs et bidouilleuses, Valve n’a pas fait d’exception à sa règle pour la sortie de son Steam Controller. La manette tant attendue est relativement...",
+      "url": "https://www.lesnumeriques.com/joypad/steam-controller-valve-mise-sur-la-durabilite-et-un-partenariat-avec-ifixit-n254964.html",
       "source": "Les Numériques",
-      "publishedAt": "2026-05-01T06:00:00Z",
+      "publishedAt": "2026-05-02T08:54:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ils ont demandé à l’IA d’imaginer la dernière pièce de Molière",
+      "description": "Et si l’intelligence artificielle pouvait ressusciter le génie de Jean-Baptiste Poquelin ? À travers le projet Molière Ex Machina, des experts en IA et des universitaires ont entraîné des modèles de l...",
+      "url": "https://www.numerama.com/tech/2237247-ils-ont-demande-a-lia-dimaginer-la-derniere-piece-de-moliere.html",
+      "source": "Numerama",
+      "publishedAt": "2026-05-01T16:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "IA et travail : « Une poignée d’hommes de la Silicon Valley doit-elle être en mesure de remodeler tout notre contrat social ? »",
-      "description": "Et si la Fête du Travail devenait celle des IA ? Le collectif Pause IA s’empare du 1ᵉʳ-Mai pour alerter sur les risques d’une fuite en avant technologique destructrice d’emplois. Des rassemblements so...",
-      "url": "https://www.nouvelobs.com/economie/20260501.OBS114604/ia-et-travail-une-poignee-d-hommes-de-la-silicon-valley-doit-elle-etre-en-mesure-de-remodeler-tout-notre-contrat-social.html",
-      "source": "L'Obs",
-      "publishedAt": "2026-05-01T07:30:24Z",
+      "title": "Oscars : Les acteurs et les scénarios générés par IA ne pourront pas obtenir de statuette",
+      "description": "Les acteurs et les scénarios générés par intelligence artificielle (IA) ne seront pas éligibles aux Oscars, a annoncé vendredi l’Académie",
+      "url": "https://www.20minutes.fr/arts-stars/cinema/4221430-20260501-oscars-acteurs-scenarios-generes-ia-pourront-obtenir-statuette",
+      "source": "20 Minutes",
+      "publishedAt": "2026-05-01T20:28:16Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Gemini veut devenir l’assistant bureautique ultime de Google",
-      "description": "L’IA de Google peut désormais transformer notes et prompts en fichiers exploitables en quelques secondes.",
-      "url": "https://www.begeek.fr/gemini-veut-devenir-lassistant-bureautique-ultime-de-google-431610",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-05-01T08:00:45Z",
+      "title": "Stop forcé en vue : l’IA face à un sérieux goulot d’étranglement",
+      "description": "Derrière la promesse d’une intelligence artificielle en expansion continue, une contrainte plus discrète mais décisive s’impose : celle des infrastructures. Entre pénuries de composants, limites énerg...",
+      "url": "https://atlantico.fr/article/decryptage/stop-force-en-vue-ia-face-a-un-serieux-goulot-etranglement-production-industrie-intelligence-artificielle-nvidia-puces-microprocesseurs-production-Silicon-Valley-Frederic-Gaven",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-05-02T08:28:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "AliExpress : jusqu'à 60 % de remise et des coupons pour le Choice Day de mai !",
-      "description": "Prêt à faire le plein de bonnes affaires pour débuter le mois de mai ? AliExpress lance son Choice Day avec des remises jusqu'à -60 %, une pluie de codes promos et un bonus exclusif allant jusqu'à 33 ...",
-      "url": "https://www.generation-nt.com/actualites/aliexpress-promos-pas-cher-choice-day-redmi-pad-2-pro-garmin-forerunner-265-camera-insta360-x5-poco-x7-pro-drone-dji-neo-2-2074891",
-      "source": "Génération NT",
-      "publishedAt": "2026-05-01T07:10:01Z",
+      "title": "Les acteurs et les scénarios générés par IA ne sont pas éligibles aux Oscars, annonce l'Académie",
+      "description": "Le recours à l'intelligence artificielle est un sujet sensible à Hollywood. Des grèves avaient paralysé l'industrie en 2023, en raison des inquiétudes de nombreux professionnels face à l'émergence de ...",
+      "url": "https://www.franceinfo.fr/culture/les-acteurs-et-les-scenarios-generes-par-ia-ne-sont-pas-eligibles-aux-oscars-annonce-l-academie_7977140.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-05-01T19:52:07Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Économie. Après les VTC et les livraisons de repas, Uber se lance dans les hôtels",
+      "description": "À l’occasion de sa conférence annuelle Uber Go-Get, le géant des transports a annoncé qu’il allait proposer des réservations de chambres d’hôtel grâce à un partenariat avec Expedia. Uber veut transfor...",
+      "url": "https://www.ledauphine.com/economie/2026/05/02/apres-les-vtc-et-les-livraisons-de-repas-uber-se-lance-dans-les-hotels",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-05-02T06:30:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
