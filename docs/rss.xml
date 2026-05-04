@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 03 May 2026 09:24:27 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 10:17:48 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,6 +21,14 @@
             <source>Nicolasit</source>
         </item>
         <item>
+            <title>Claude AI : Pourquoi cette IA va dépasser ChatGPT en 2026 ?</title>
+            <link>https://www.youtube.com/watch?v=dQwpkJyG27Y</link>
+            <description><![CDATA[Claude AI, l'IA d'Anthropic, vient de devenir en 7 jours l'application iPhone et Android la plus téléchargée au monde devant ...]]></description>
+            <pubDate>Sun, 08 Mar 2026 16:13:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=dQwpkJyG27Y</guid>
+            <source>Jeanviet</source>
+        </item>
+        <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
             <link>https://www.youtube.com/watch?v=77IMWD4TWtg</link>
             <description><![CDATA[Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...]]></description>
@@ -29,12 +37,12 @@
             <source>Comprendre l'informatique</source>
         </item>
         <item>
-            <title>Notre édito: Et si on faisait du 1er mai, jour de la fête du travail, une journée sans intelligence artificielle?</title>
-            <link>https://www.lavenir.net/opinions/2026/05/01/notre-edito-et-si-on-faisait-du-1er-mai-jour-de-la-fete-du-travail-une-journee-sans-intelligence-artificielle-XY45HNAI7BAWDPEI7DUR7P6AYU/</link>
-            <description><![CDATA[Le 1er mai célèbre depuis plus d’un siècle le travail, sa dignité, ses luttes et ses conquêtes. Mais que reste-t-il de cette notion à l’heure où l’intelligence artificielle redessine en profondeur not...]]></description>
-            <pubDate>Fri, 01 May 2026 21:23:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lavenir.net/opinions/2026/05/01/notre-edito-et-si-on-faisait-du-1er-mai-jour-de-la-fete-du-travail-une-journee-sans-intelligence-artificielle-XY45HNAI7BAWDPEI7DUR7P6AYU/</guid>
-            <source>Lavenir.net</source>
+            <title>⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)</title>
+            <link>https://www.youtube.com/watch?v=EI_SnEnGfX0</link>
+            <description><![CDATA[Dans cette vidéo, je réalise un projet complet de Machine Learning avec Dataiku DSS. L'objectif : construire un modèle prédictif ...]]></description>
+            <pubDate>Fri, 27 Mar 2026 12:03:55 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=EI_SnEnGfX0</guid>
+            <source>Mastering AI</source>
         </item>
         <item>
             <title>Utiliser Claude avec Power BI : le hack ultime</title>
@@ -43,6 +51,14 @@
             <pubDate>Sat, 11 Apr 2026 16:34:52 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=NFpt6GfkTg8</guid>
             <source>Clément LVL</source>
+        </item>
+        <item>
+            <title>I Tried 50 Machine Learning Courses: Here are The BEST 5</title>
+            <link>https://www.youtube.com/watch?v=fXojHUuBnaY</link>
+            <description><![CDATA[What are the best machine learning courses? I tried 50 (honestly, probably more at this point) to find out! DataCamp Machine ...]]></description>
+            <pubDate>Tue, 07 Apr 2026 14:01:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=fXojHUuBnaY</guid>
+            <source>Marina Wyss - AI & Machine Learning</source>
         </item>
         <item>
             <title>Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)</title>
@@ -77,22 +93,6 @@
             <source>Enogne School</source>
         </item>
         <item>
-            <title>End-to-End Supply Chain Analysis Project Using Python | Data Analyst Portfolio Project 2026</title>
-            <link>https://www.youtube.com/watch?v=Np65Lymn0ZI</link>
-            <description><![CDATA[Build an END-TO-END Supply Chain Analysis Project using Python perfect for Data Analyst and Data Scientist. In this complete ...]]></description>
-            <pubDate>Fri, 17 Apr 2026 11:30:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Np65Lymn0ZI</guid>
-            <source>Tech Classes</source>
-        </item>
-        <item>
-            <title>Tout Comprendre sur Claude IA en 22 Minutes</title>
-            <link>https://www.youtube.com/watch?v=-50BGEYgMr4</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...]]></description>
-            <pubDate>Sun, 22 Mar 2026 17:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=-50BGEYgMr4</guid>
-            <source>Yassine Sdiri</source>
-        </item>
-        <item>
             <title>Questions et réponses d’entretien pour analyste de données</title>
             <link>https://www.youtube.com/watch?v=Z5LsWFrltHU</link>
             <description><![CDATA[Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...]]></description>
@@ -115,6 +115,14 @@
             <pubDate>Sun, 15 Mar 2026 12:46:46 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=dL3fQRR4Ywc</guid>
             <source>Compétences BI | Maîtrisez les outils de demain</source>
+        </item>
+        <item>
+            <title>This is how you&amp;#39;ll become a REMOTE Data Analyst in 2026 (FULL Guide)</title>
+            <link>https://www.youtube.com/watch?v=q5MOKiZzSFA</link>
+            <description><![CDATA[Try DataCamp Free: SQL Track: https://datacamp.pxf.io/E0KXDW Power BI Track: https://datacamp.pxf.io/7Xa2nr Remote data ...]]></description>
+            <pubDate>Mon, 23 Mar 2026 14:05:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=q5MOKiZzSFA</guid>
+            <source>Matt Mike</source>
         </item>
         <item>
             <title>Dashboard Power BI Impressionnant | Tutoriel Débutant</title>
@@ -163,14 +171,6 @@
             <pubDate>Thu, 02 Apr 2026 16:30:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=SqzUaKJb384</guid>
             <source>Morpheus Formation | Excel, Sheets, Power BI</source>
-        </item>
-        <item>
-            <title>Actualité : Steam Controller : Valve mise sur la durabilité et un partenariat avec iFixit</title>
-            <link>https://www.lesnumeriques.com/joypad/steam-controller-valve-mise-sur-la-durabilite-et-un-partenariat-avec-ifixit-n254964.html</link>
-            <description><![CDATA[Connu pour être plutôt accueillant envers les bidouilleurs et bidouilleuses, Valve n’a pas fait d’exception à sa règle pour la sortie de son Steam Controller. La manette tant attendue est relativement...]]></description>
-            <pubDate>Sat, 02 May 2026 08:54:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/joypad/steam-controller-valve-mise-sur-la-durabilite-et-un-partenariat-avec-ifixit-n254964.html</guid>
-            <source>Les Numériques</source>
         </item>
     </channel>
 </rss>

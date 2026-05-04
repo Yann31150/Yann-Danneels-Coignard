@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-03T09:24:27.439474",
+  "lastUpdate": "2026-05-04T10:17:48.179075",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -14,6 +14,18 @@
       "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
     },
     {
+      "title": "Claude AI : Pourquoi cette IA va dépasser ChatGPT en 2026 ?",
+      "description": "Claude AI, l'IA d'Anthropic, vient de devenir en 7 jours l'application iPhone et Android la plus téléchargée au monde devant ...",
+      "url": "https://www.youtube.com/watch?v=dQwpkJyG27Y",
+      "source": "Jeanviet",
+      "publishedAt": "2026-03-08T16:13:29Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "dQwpkJyG27Y",
+      "thumbnail": "https://i.ytimg.com/vi/dQwpkJyG27Y/hqdefault.jpg"
+    },
+    {
       "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
       "description": "Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...",
       "url": "https://www.youtube.com/watch?v=77IMWD4TWtg",
@@ -26,16 +38,16 @@
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
     },
     {
-      "title": "Notre édito: Et si on faisait du 1er mai, jour de la fête du travail, une journée sans intelligence artificielle?",
-      "description": "Le 1er mai célèbre depuis plus d’un siècle le travail, sa dignité, ses luttes et ses conquêtes. Mais que reste-t-il de cette notion à l’heure où l’intelligence artificielle redessine en profondeur not...",
-      "url": "https://www.lavenir.net/opinions/2026/05/01/notre-edito-et-si-on-faisait-du-1er-mai-jour-de-la-fete-du-travail-une-journee-sans-intelligence-artificielle-XY45HNAI7BAWDPEI7DUR7P6AYU/",
-      "source": "Lavenir.net",
-      "publishedAt": "2026-05-01T21:23:40Z",
+      "title": "⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)",
+      "description": "Dans cette vidéo, je réalise un projet complet de Machine Learning avec Dataiku DSS. L'objectif : construire un modèle prédictif ...",
+      "url": "https://www.youtube.com/watch?v=EI_SnEnGfX0",
+      "source": "Mastering AI",
+      "publishedAt": "2026-03-27T12:03:55Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "EI_SnEnGfX0",
+      "thumbnail": "https://i.ytimg.com/vi/EI_SnEnGfX0/hqdefault.jpg"
     },
     {
       "title": "Utiliser Claude avec Power BI : le hack ultime",
@@ -48,6 +60,18 @@
       "isYouTube": true,
       "videoId": "NFpt6GfkTg8",
       "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
+    },
+    {
+      "title": "I Tried 50 Machine Learning Courses: Here are The BEST 5",
+      "description": "What are the best machine learning courses? I tried 50 (honestly, probably more at this point) to find out! DataCamp Machine ...",
+      "url": "https://www.youtube.com/watch?v=fXojHUuBnaY",
+      "source": "Marina Wyss - AI & Machine Learning",
+      "publishedAt": "2026-04-07T14:01:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "fXojHUuBnaY",
+      "thumbnail": "https://i.ytimg.com/vi/fXojHUuBnaY/hqdefault.jpg"
     },
     {
       "title": "Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)",
@@ -98,30 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/MGTY0HfU9Fc/hqdefault.jpg"
     },
     {
-      "title": "End-to-End Supply Chain Analysis Project Using Python | Data Analyst Portfolio Project 2026",
-      "description": "Build an END-TO-END Supply Chain Analysis Project using Python perfect for Data Analyst and Data Scientist. In this complete ...",
-      "url": "https://www.youtube.com/watch?v=Np65Lymn0ZI",
-      "source": "Tech Classes",
-      "publishedAt": "2026-04-17T11:30:30Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Np65Lymn0ZI",
-      "thumbnail": "https://i.ytimg.com/vi/Np65Lymn0ZI/hqdefault.jpg"
-    },
-    {
-      "title": "Tout Comprendre sur Claude IA en 22 Minutes",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=-50BGEYgMr4",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2026-03-22T17:00:00Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "-50BGEYgMr4",
-      "thumbnail": "https://i.ytimg.com/vi/-50BGEYgMr4/hqdefault.jpg"
-    },
-    {
       "title": "Questions et réponses d’entretien pour analyste de données",
       "description": "Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...",
       "url": "https://www.youtube.com/watch?v=Z5LsWFrltHU",
@@ -156,6 +156,18 @@
       "isYouTube": true,
       "videoId": "dL3fQRR4Ywc",
       "thumbnail": "https://i.ytimg.com/vi/dL3fQRR4Ywc/hqdefault.jpg"
+    },
+    {
+      "title": "This is how you&#39;ll become a REMOTE Data Analyst in 2026 (FULL Guide)",
+      "description": "Try DataCamp Free: SQL Track: https://datacamp.pxf.io/E0KXDW Power BI Track: https://datacamp.pxf.io/7Xa2nr Remote data ...",
+      "url": "https://www.youtube.com/watch?v=q5MOKiZzSFA",
+      "source": "Matt Mike",
+      "publishedAt": "2026-03-23T14:05:49Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "q5MOKiZzSFA",
+      "thumbnail": "https://i.ytimg.com/vi/q5MOKiZzSFA/hqdefault.jpg"
     },
     {
       "title": "Dashboard Power BI Impressionnant | Tutoriel Débutant",
@@ -230,23 +242,35 @@
       "thumbnail": "https://i.ytimg.com/vi/SqzUaKJb384/hqdefault.jpg"
     },
     {
-      "title": "Actualité : Steam Controller : Valve mise sur la durabilité et un partenariat avec iFixit",
-      "description": "Connu pour être plutôt accueillant envers les bidouilleurs et bidouilleuses, Valve n’a pas fait d’exception à sa règle pour la sortie de son Steam Controller. La manette tant attendue est relativement...",
-      "url": "https://www.lesnumeriques.com/joypad/steam-controller-valve-mise-sur-la-durabilite-et-un-partenariat-avec-ifixit-n254964.html",
+      "title": "Étudiants étrangers : des outils d’intelligence artificielle pour réduire la barrière de la langue ?",
+      "description": "À l’université, la traduction automatique face au défi de la maîtrise de la langue française pour les étudiants étrangers.",
+      "url": "https://theconversation.com/etudiants-etrangers-des-outils-dintelligence-artificielle-pour-reduire-la-barriere-de-la-langue-276236",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-05-03T06:39:03Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L’IA dans les PME ne va pas de soi",
+      "description": "L’intelligence artificielle (IA) donne de plus en plus le sentiment qu’il faudrait saisir toutes les opportunités qu’elle propose. C’est une fausse bonne idée. Pour les PME, l’enjeu n’est pas de tout ...",
+      "url": "https://www.lalibre.be/economie/decideurs-chroniqueurs/2026/05/03/lia-dans-les-pme-ne-va-pas-de-soi-RFN5SUMIVJHS7CEGTAKP5IXDIY/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-05-03T09:22:46Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Actualité : 30 000 Pa et lavage à 100 °C : Mova vise la lune avec son nouveau robot P70 Pro Ultra",
+      "description": "Le nouveau robot aspirateur Mova P70 Pro Ultra arrive sur le marché avec une puissance d'aspiration de 30 000 Pa et une station de nettoyage entièrement automatisée. Ce modèle mise sur l'intelligence ...",
+      "url": "https://www.lesnumeriques.com/aspirateur-robot/30-000-pa-et-lavage-a-100-0c-mova-vise-la-lune-avec-son-nouveau-robot-p70-pro-ultra-n255213.html",
       "source": "Les Numériques",
-      "publishedAt": "2026-05-02T08:54:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ils ont demandé à l’IA d’imaginer la dernière pièce de Molière",
-      "description": "Et si l’intelligence artificielle pouvait ressusciter le génie de Jean-Baptiste Poquelin ? À travers le projet Molière Ex Machina, des experts en IA et des universitaires ont entraîné des modèles de l...",
-      "url": "https://www.numerama.com/tech/2237247-ils-ont-demande-a-lia-dimaginer-la-derniere-piece-de-moliere.html",
-      "source": "Numerama",
-      "publishedAt": "2026-05-01T16:00:00Z",
+      "publishedAt": "2026-05-02T16:20:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Oscars : Les acteurs et les scénarios générés par IA ne pourront pas obtenir de statuette",
-      "description": "Les acteurs et les scénarios générés par intelligence artificielle (IA) ne seront pas éligibles aux Oscars, a annoncé vendredi l’Académie",
-      "url": "https://www.20minutes.fr/arts-stars/cinema/4221430-20260501-oscars-acteurs-scenarios-generes-ia-pourront-obtenir-statuette",
-      "source": "20 Minutes",
-      "publishedAt": "2026-05-01T20:28:16Z",
+      "title": "Xiaomi YU7 : on a testé le SUV électrique concurrent du Tesla Model Y en Chine",
+      "description": "Le constructeur Xiaomi vient de frapper un grand coup sur le marché des voitures électriques. Avec son nouveau SUV, le...\nL’article Xiaomi YU7 : on a testé le SUV électrique concurrent du Tesla Model ...",
+      "url": "https://www.tuxboard.com/xiaomi-yu7-on-a-teste-le-suv-electrique-concurrent-du-tesla-model-y-en-chine/",
+      "source": "Tuxboard.com",
+      "publishedAt": "2026-05-03T10:05:28Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,35 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Stop forcé en vue : l’IA face à un sérieux goulot d’étranglement",
-      "description": "Derrière la promesse d’une intelligence artificielle en expansion continue, une contrainte plus discrète mais décisive s’impose : celle des infrastructures. Entre pénuries de composants, limites énerg...",
-      "url": "https://atlantico.fr/article/decryptage/stop-force-en-vue-ia-face-a-un-serieux-goulot-etranglement-production-industrie-intelligence-artificielle-nvidia-puces-microprocesseurs-production-Silicon-Valley-Frederic-Gaven",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-05-02T08:28:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Les acteurs et les scénarios générés par IA ne sont pas éligibles aux Oscars, annonce l'Académie",
-      "description": "Le recours à l'intelligence artificielle est un sujet sensible à Hollywood. Des grèves avaient paralysé l'industrie en 2023, en raison des inquiétudes de nombreux professionnels face à l'émergence de ...",
-      "url": "https://www.franceinfo.fr/culture/les-acteurs-et-les-scenarios-generes-par-ia-ne-sont-pas-eligibles-aux-oscars-annonce-l-academie_7977140.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-05-01T19:52:07Z",
-      "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Économie. Après les VTC et les livraisons de repas, Uber se lance dans les hôtels",
-      "description": "À l’occasion de sa conférence annuelle Uber Go-Get, le géant des transports a annoncé qu’il allait proposer des réservations de chambres d’hôtel grâce à un partenariat avec Expedia. Uber veut transfor...",
-      "url": "https://www.ledauphine.com/economie/2026/05/02/apres-les-vtc-et-les-livraisons-de-repas-uber-se-lance-dans-les-hotels",
-      "source": "Le Dauphiné Libéré",
-      "publishedAt": "2026-05-02T06:30:00Z",
+      "title": "OpenAI et Circles visent à révolutionner le secteur télécom grâce à l’IA",
+      "description": "Un partenariat entre Circles et OpenAI veut unifier services, opérations et revenus dans une seule plateforme intelligente.",
+      "url": "https://www.begeek.fr/openai-et-circles-visent-a-revolutionner-le-secteur-telecom-grace-a-lia-431711",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-05-03T10:00:15Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
