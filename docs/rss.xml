@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 05 May 2026 10:06:28 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 10:22:30 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,12 +21,20 @@
             <source>Nicolasit</source>
         </item>
         <item>
-            <title>Deux ans après son lancement, Le Chat rivalise-t-il avec ChatGPT ?</title>
-            <link>https://www.blogdumoderateur.com/le-chat-rivalise-chatgpt-deux-ans-apres/</link>
-            <description><![CDATA[Lancé en février 2024, Le Chat a suscité un certain enthousiasme en France, s'imposant comme une alternative crédible aux solutions américaines. Mais a-t-il, deux ans après, rattrapé une partie de son...]]></description>
-            <pubDate>Mon, 04 May 2026 05:00:32 -0000</pubDate>
-            <guid isPermaLink="true">https://www.blogdumoderateur.com/le-chat-rivalise-chatgpt-deux-ans-apres/</guid>
-            <source>Blogdumoderateur.com</source>
+            <title>Claude AI : Pourquoi cette IA va dépasser ChatGPT en 2026 ?</title>
+            <link>https://www.youtube.com/watch?v=dQwpkJyG27Y</link>
+            <description><![CDATA[Claude AI, l'IA d'Anthropic, vient de devenir en 7 jours l'application iPhone et Android la plus téléchargée au monde devant ...]]></description>
+            <pubDate>Sun, 08 Mar 2026 16:13:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=dQwpkJyG27Y</guid>
+            <source>Jeanviet</source>
+        </item>
+        <item>
+            <title>Le machine learning ne vous concerne pas ? Détrompez-vous</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1550029-le-machine-learning-ne-vous-concerne-pas-detrompez-vous/</link>
+            <description><![CDATA[Derrière les systèmes d'IA modernes — qu'il s'agisse de ChatGPT, ou des outils de recrutement que vos équipes utilisent déjà —   il y a un principe statistique simple mais souvent mal compris.]]></description>
+            <pubDate>Tue, 05 May 2026 09:07:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1550029-le-machine-learning-ne-vous-concerne-pas-detrompez-vous/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
@@ -37,6 +45,30 @@
             <source>Comprendre l'informatique</source>
         </item>
         <item>
+            <title>Une enquête alerte sur les risques de l'intelligence artificielle conversationnelle sur la santé mentale des jeunes</title>
+            <link>https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/une-enquete-alerte-sur-les-risques-de-l-intelligence-artificielle-conversationnelle-sur-la-sante-mentale-des-jeunes_7984544.html</link>
+            <description><![CDATA[Près de la moitié des jeunes interrogés dans cette étude ont des conversations intimes avec l'intelligence artificielle. Ils ont majoritairement confiance en la confidentialité et la fiabilité des con...]]></description>
+            <pubDate>Tue, 05 May 2026 09:02:24 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/une-enquete-alerte-sur-les-risques-de-l-intelligence-artificielle-conversationnelle-sur-la-sante-mentale-des-jeunes_7984544.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
+            <title>Intelligence artificielle et données produit : le vrai sujet n'est pas l'algorithme, mais la qualité du référentiel</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1549935-intelligence-artificielle-et-donnees-produit-le-vrai-sujet-n-est-pas-l-algorithme-mais-la-qualite-du-referentiel/</link>
+            <description><![CDATA[L'IA peut accélérer la gestion des données produit, à condition de s'appuyer sur un référentiel fiable, structuré et gouverné.]]></description>
+            <pubDate>Tue, 05 May 2026 09:02:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1549935-intelligence-artificielle-et-donnees-produit-le-vrai-sujet-n-est-pas-l-algorithme-mais-la-qualite-du-referentiel/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
+            <title>⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)</title>
+            <link>https://www.youtube.com/watch?v=EI_SnEnGfX0</link>
+            <description><![CDATA[Dans cette vidéo, je réalise un projet complet de Machine Learning avec Dataiku DSS. L'objectif : construire un modèle prédictif ...]]></description>
+            <pubDate>Fri, 27 Mar 2026 12:03:55 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=EI_SnEnGfX0</guid>
+            <source>Mastering AI</source>
+        </item>
+        <item>
             <title>Utiliser Claude avec Power BI : le hack ultime</title>
             <link>https://www.youtube.com/watch?v=NFpt6GfkTg8</link>
             <description><![CDATA[https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...]]></description>
@@ -45,52 +77,20 @@
             <source>Clément LVL</source>
         </item>
         <item>
-            <title>L’intelligence artificielle va-t-elle mettre fin à la recherche en sciences sociales ?</title>
-            <link>https://theconversation.com/lintelligence-artificielle-va-t-elle-mettre-fin-a-la-recherche-en-sciences-sociales-281380</link>
-            <description><![CDATA[L’impact de l’intelligence artificielle générative sur les sciences de gestion peut être compris à travers la métaphore du roman « Things Fall Apart », de Chinua Achebe.]]></description>
-            <pubDate>Mon, 04 May 2026 09:18:46 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/lintelligence-artificielle-va-t-elle-mettre-fin-a-la-recherche-en-sciences-sociales-281380</guid>
-            <source>The Conversation Africa</source>
+            <title>L’AGI pourrait arriver en 2030… mais pas avec les IA actuelles, prévient Demis Hassabis patron de Google DeepMind</title>
+            <link>https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-agi-pourrait-arriver-2030-mais-pas-ia-actuelles-previent-demis-hassabis-patron-google-deepmind-134248/</link>
+            <description><![CDATA[Invité du podcast de Y Combinator, le fondateur de DeepMind et lauréat du prix Nobel de chimie a livré une vision lucide des défis qui restent à franchir avant l'intelligence artificielle générale (AG...]]></description>
+            <pubDate>Mon, 04 May 2026 19:08:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-agi-pourrait-arriver-2030-mais-pas-ia-actuelles-previent-demis-hassabis-patron-google-deepmind-134248/</guid>
+            <source>Futura</source>
         </item>
         <item>
-            <title>Arnaques aux colis : l’intelligence artificielle change tout, faites très attention car c’est inquiétant</title>
-            <link>https://www.journaldugeek.com/2026/05/04/arnaques-aux-colis-lintelligence-artificielle-change-tout-et-cest-inquietant/</link>
-            <description><![CDATA[On pourrait tous tomber dans le panneau, face à une telle tromperie. Et pourtant, elle repose, une fois de plus, sur une utilisation malveillante de l’intelligence artificielle. Une nouvelle escroquer...]]></description>
-            <pubDate>Mon, 04 May 2026 09:08:33 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/05/04/arnaques-aux-colis-lintelligence-artificielle-change-tout-et-cest-inquietant/</guid>
-            <source>Journal du geek</source>
-        </item>
-        <item>
-            <title>Agent Safehouse - Un garde-fou pour vos agents IA sur macOS</title>
-            <link>https://korben.info/agent-safehouse-garde-fou-agents-ia-macos.html</link>
-            <description><![CDATA[Comme vous le savez, les LLMs sont assez probabilistes de par leur nature. C'est leur force mais également leur principal problème de sécurité car si votre agent IA a une probabilité de 1% de faire un...]]></description>
-            <pubDate>Mon, 04 May 2026 09:13:08 -0000</pubDate>
-            <guid isPermaLink="true">https://korben.info/agent-safehouse-garde-fou-agents-ia-macos.html</guid>
-            <source>Korben.info</source>
-        </item>
-        <item>
-            <title>La Chine teste un réacteur nucléaire sur camion pour alimenter l'intelligence artificielle</title>
-            <link>https://www.generation-nt.com/actualites/reacteur-nucleaire-mobile-camion-intelligence-artificielle-2074877</link>
-            <description><![CDATA[Et si la solution à la boulimie énergétique de l'IA tenait sur la remorque d'un camion ? La Chine est en train de tester un concept qui semble tout droit sorti d'un film de science-fiction : une centr...]]></description>
-            <pubDate>Sun, 03 May 2026 15:40:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/reacteur-nucleaire-mobile-camion-intelligence-artificielle-2074877</guid>
-            <source>Génération NT</source>
-        </item>
-        <item>
-            <title>Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)</title>
-            <link>https://www.youtube.com/watch?v=Vm-dZxN70kY</link>
-            <description><![CDATA[Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...]]></description>
-            <pubDate>Sat, 14 Mar 2026 20:01:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Vm-dZxN70kY</guid>
-            <source>TechVantage FR</source>
-        </item>
-        <item>
-            <title>SQL - Question bac NSI</title>
-            <link>https://www.youtube.com/watch?v=VLzCWa3nXrw</link>
-            <description><![CDATA[SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...]]></description>
-            <pubDate>Mon, 06 Apr 2026 08:26:26 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VLzCWa3nXrw</guid>
-            <source>Célian</source>
+            <title>L’IA sort du cloud et part à la conquête du sous-sol : LITHOSQUARE lève 22 millions d’euros en seed</title>
+            <link>https://www.frenchweb.fr/lia-sort-du-cloud-et-part-a-la-conquete-du-sous-sol-lithosquare-leve-22-millions-deuros-en-seed/461562</link>
+            <description><![CDATA[Les metaux critiques, l’angle mort de la transition énergétique L’électrification des usages, la montée en puissance des centres de données et l’industrialisation de l’intelligence artificielle repose...]]></description>
+            <pubDate>Tue, 05 May 2026 04:00:48 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frenchweb.fr/lia-sort-du-cloud-et-part-a-la-conquete-du-sous-sol-lithosquare-leve-22-millions-deuros-en-seed/461562</guid>
+            <source>Frenchweb.fr</source>
         </item>
         <item>
             <title>Questions et réponses d’entretien pour analyste de données</title>
@@ -115,14 +115,6 @@
             <pubDate>Sun, 15 Mar 2026 12:46:46 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=dL3fQRR4Ywc</guid>
             <source>Compétences BI | Maîtrisez les outils de demain</source>
-        </item>
-        <item>
-            <title>This is how you&amp;#39;ll become a REMOTE Data Analyst in 2026 (FULL Guide)</title>
-            <link>https://www.youtube.com/watch?v=q5MOKiZzSFA</link>
-            <description><![CDATA[Try DataCamp Free: SQL Track: https://datacamp.pxf.io/E0KXDW Power BI Track: https://datacamp.pxf.io/7Xa2nr Remote data ...]]></description>
-            <pubDate>Mon, 23 Mar 2026 14:05:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=q5MOKiZzSFA</guid>
-            <source>Matt Mike</source>
         </item>
         <item>
             <title>Dashboard Power BI Impressionnant | Tutoriel Débutant</title>
@@ -154,7 +146,7 @@
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
             <pubDate>Thu, 19 Mar 2026 17:00:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=VZJUEuu5LV8</guid>
-            <source>Morpheus Formation | Excel, Sheets, Power BI</source>
+            <source>Morpheus Formation | Excel, Power BI, Sheets</source>
         </item>
         <item>
             <title>SQL pour Débutant : Cours Complet avec Exemples pratiques sur Snowflake</title>
@@ -170,7 +162,15 @@
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
             <pubDate>Thu, 02 Apr 2026 16:30:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=SqzUaKJb384</guid>
-            <source>Morpheus Formation | Excel, Sheets, Power BI</source>
+            <source>Morpheus Formation | Excel, Power BI, Sheets</source>
+        </item>
+        <item>
+            <title>Sebastian KLAUS, de l’armée allemande à la logistique orbitale</title>
+            <link>https://www.frenchweb.fr/sebastian-klaus-de-larmee-allemande-a-la-logistique-orbitale/461581</link>
+            <description><![CDATA[Sebastian Klaus n’entre pas dans la catégorie habituelle des fondateurs du New Space européen. Son parcours mêle ingénierie aérospatiale, culture militaire, connaissance opérationnelle du risque et in...]]></description>
+            <pubDate>Tue, 05 May 2026 09:22:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frenchweb.fr/sebastian-klaus-de-larmee-allemande-a-la-logistique-orbitale/461581</guid>
+            <source>Frenchweb.fr</source>
         </item>
     </channel>
 </rss>
