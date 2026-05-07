@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-06T10:22:30.788986",
+  "lastUpdate": "2026-05-07T10:28:46.123050",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -12,18 +12,6 @@
       "isYouTube": true,
       "videoId": "k2rifQzyqtA",
       "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
-    },
-    {
-      "title": "Claude AI : Pourquoi cette IA va dépasser ChatGPT en 2026 ?",
-      "description": "Claude AI, l'IA d'Anthropic, vient de devenir en 7 jours l'application iPhone et Android la plus téléchargée au monde devant ...",
-      "url": "https://www.youtube.com/watch?v=dQwpkJyG27Y",
-      "source": "Jeanviet",
-      "publishedAt": "2026-03-08T16:13:29Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "dQwpkJyG27Y",
-      "thumbnail": "https://i.ytimg.com/vi/dQwpkJyG27Y/hqdefault.jpg"
     },
     {
       "title": "Le machine learning ne vous concerne pas ? Détrompez-vous",
@@ -50,30 +38,6 @@
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
     },
     {
-      "title": "Une enquête alerte sur les risques de l'intelligence artificielle conversationnelle sur la santé mentale des jeunes",
-      "description": "Près de la moitié des jeunes interrogés dans cette étude ont des conversations intimes avec l'intelligence artificielle. Ils ont majoritairement confiance en la confidentialité et la fiabilité des con...",
-      "url": "https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/une-enquete-alerte-sur-les-risques-de-l-intelligence-artificielle-conversationnelle-sur-la-sante-mentale-des-jeunes_7984544.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-05-05T09:02:24Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Intelligence artificielle et données produit : le vrai sujet n'est pas l'algorithme, mais la qualité du référentiel",
-      "description": "L'IA peut accélérer la gestion des données produit, à condition de s'appuyer sur un référentiel fiable, structuré et gouverné.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1549935-intelligence-artificielle-et-donnees-produit-le-vrai-sujet-n-est-pas-l-algorithme-mais-la-qualite-du-referentiel/",
-      "source": "JDN",
-      "publishedAt": "2026-05-05T09:02:46Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)",
       "description": "Dans cette vidéo, je réalise un projet complet de Machine Learning avec Dataiku DSS. L'objectif : construire un modèle prédictif ...",
       "url": "https://www.youtube.com/watch?v=EI_SnEnGfX0",
@@ -98,11 +62,23 @@
       "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
     },
     {
-      "title": "L’AGI pourrait arriver en 2030… mais pas avec les IA actuelles, prévient Demis Hassabis patron de Google DeepMind",
-      "description": "Invité du podcast de Y Combinator, le fondateur de DeepMind et lauréat du prix Nobel de chimie a livré une vision lucide des défis qui restent à franchir avant l'intelligence artificielle générale (AG...",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-agi-pourrait-arriver-2030-mais-pas-ia-actuelles-previent-demis-hassabis-patron-google-deepmind-134248/",
-      "source": "Futura",
-      "publishedAt": "2026-05-04T19:08:05Z",
+      "title": "Maîtriser SQL en 1 heure sans prise de tête",
+      "description": "Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...",
+      "url": "https://www.youtube.com/watch?v=GVNc1ZrOoAs",
+      "source": "NKwaTech",
+      "publishedAt": "2026-04-06T13:00:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "GVNc1ZrOoAs",
+      "thumbnail": "https://i.ytimg.com/vi/GVNc1ZrOoAs/hqdefault.jpg"
+    },
+    {
+      "title": "Batinéo déploie un agent IA pour faciliter le chiffrage de la rénovation énergétique des maisons",
+      "description": "À Saint-Malo, Batinéo Groupe, filiale du groupe immobilier Duval, déploie un agent d’intelligence artificielle destiné à accélérer la rénovation énergétique des maisons individuelles.",
+      "url": "https://www.lejournaldesentreprises.com/breve/batineo-deploie-un-agent-ia-pour-faciliter-le-chiffrage-de-la-renovation-energetique-des-maisons-2142385",
+      "source": "Le Journal des Entreprises",
+      "publishedAt": "2026-05-06T07:03:29Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -110,16 +86,40 @@
       "thumbnail": ""
     },
     {
-      "title": "L’IA sort du cloud et part à la conquête du sous-sol : LITHOSQUARE lève 22 millions d’euros en seed",
-      "description": "Les metaux critiques, l’angle mort de la transition énergétique L’électrification des usages, la montée en puissance des centres de données et l’industrialisation de l’intelligence artificielle repose...",
-      "url": "https://www.frenchweb.fr/lia-sort-du-cloud-et-part-a-la-conquete-du-sous-sol-lithosquare-leve-22-millions-deuros-en-seed/461562",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-05-05T04:00:48Z",
+      "title": "“Skibidi Tentafruit” : sur les réseaux sociaux, les entreprises de la tech nous pourrissent le cerveau",
+      "description": "Dans des vidéos virales sur TikTok et Instagram cumulant des millions de vues, des fruits humanoïdes générés par intelligence artificielle rejouent les pires stéréotypes racistes et sexistes. Dans l’i...",
+      "url": "https://www.telerama.fr/debats-reportages/skibidi-tentafruit-sur-les-reseaux-sociaux-les-entreprises-de-la-tech-nous-pourrissent-le-cerveau-7030950.php",
+      "source": "Telerama.fr",
+      "publishedAt": "2026-05-06T10:00:14Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "Meta analyse la structure osseuse pour détecter les mineurs",
+      "description": "Meta intensifie sa lutte contre les fausses déclarations d'âge sur ses plateformes, en déployant une intelligence artificielle capable d'analyser bien plus que le texte pour garantir la sécurité des p...",
+      "url": "https://www.generation-nt.com/actualites/meta-instagram-facebook-ia-age-mineurs-adolescents-2075105",
+      "source": "Génération NT",
+      "publishedAt": "2026-05-06T09:50:01Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)",
+      "description": "Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...",
+      "url": "https://www.youtube.com/watch?v=Vm-dZxN70kY",
+      "source": "TechVantage FR",
+      "publishedAt": "2026-03-14T20:01:02Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Vm-dZxN70kY",
+      "thumbnail": "https://i.ytimg.com/vi/Vm-dZxN70kY/hqdefault.jpg"
     },
     {
       "title": "Questions et réponses d’entretien pour analyste de données",
@@ -182,18 +182,6 @@
       "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
     },
     {
-      "title": "Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)",
-      "description": "Vous voulez aller plus loin et apprendre SQL ? Découvrez mon cours SQL ...",
-      "url": "https://www.youtube.com/watch?v=xkJdg9zXGEI",
-      "source": "Comment Coder",
-      "publishedAt": "2026-03-08T09:05:01Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "xkJdg9zXGEI",
-      "thumbnail": "https://i.ytimg.com/vi/xkJdg9zXGEI/hqdefault.jpg"
-    },
-    {
       "title": "Comment créer un visuel carte KPI dans Power BI ! Afficher vos performances ! 🤩",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=VZJUEuu5LV8",
@@ -230,11 +218,11 @@
       "thumbnail": "https://i.ytimg.com/vi/SqzUaKJb384/hqdefault.jpg"
     },
     {
-      "title": "Sebastian KLAUS, de l’armée allemande à la logistique orbitale",
-      "description": "Sebastian Klaus n’entre pas dans la catégorie habituelle des fondateurs du New Space européen. Son parcours mêle ingénierie aérospatiale, culture militaire, connaissance opérationnelle du risque et in...",
-      "url": "https://www.frenchweb.fr/sebastian-klaus-de-larmee-allemande-a-la-logistique-orbitale/461581",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-05-05T09:22:08Z",
+      "title": "Des plantes bioluminescentes pour éclairer les villes : une solution énergétique durable ?",
+      "description": "L’essor des plantes bioluminescentes ouvre une révolution mêlant génétique, écologie et urbanisme, mais soulève déjà des questions techniques, éthiques et réglementaires.  \nEntre prouesse biologique, ...",
+      "url": "https://atlantico.fr/article/decryptage/des-plantes-bioluminescentes-pour-eclairer-les-villes-une-solution-energetique-durable",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-05-06T08:14:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +230,23 @@
       "thumbnail": ""
     },
     {
-      "title": "“Avec l’intelligence artificielle, on ne pourra jamais faire de découvertes scientifiques spectaculaires par hasard”",
-      "description": "Un chercheur en climatologie et son confrère spécialisé en cancérologie évoquent les opportunités et les dangers de l’IA dans la recherche. ...",
-      "url": "https://www.lalibre.be/belgique/enseignement/2026/05/05/avec-lintelligence-artificielle-on-ne-pourra-jamais-faire-de-decouvertes-scientifiques-spectaculaires-par-hasard-GZDN4GDG4ZGAJESWQYA4Y6ID6U/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-05-05T04:40:49Z",
+      "title": "Ces Belges qui s’accrochent à leur vieux téléphone portable 2G : le chiffre fou révélé par Proximus",
+      "description": "Les téléphones portables limités aux appels et aux SMS sont encore bien présents sur le réseau mobile de Proximus en 2026. Ils se connectent à la 2G, une technologie d’hier qui sera débranchée à jamai...",
+      "url": "https://www.lavenir.net/actu/conso/multimedia/2026/05/06/ces-belges-qui-saccrochent-a-leur-vieux-telephone-portable-2g-le-chiffre-fou-revele-par-proximus-FOREWES3MZHNTCPHVKZN3INWUY/",
+      "source": "Lavenir.net",
+      "publishedAt": "2026-05-06T09:52:37Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple accepte de payer pour solder le fiasco Apple Intelligence",
+      "description": "Confronté à des accusations de publicité mensongère, Apple préfère un accord à l'amiable pour clore un chapitre embarrassant de sa course à l'intelligence artificielle, avec des promesses non tenues c...",
+      "url": "https://www.generation-nt.com/actualites/siri-ia-apple-accord-250-millions-dollars-publicite-mensongere-iphone-2075104",
+      "source": "Génération NT",
+      "publishedAt": "2026-05-06T08:30:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "REPORTAGE. \"Elle connaît parfois mieux que nous la langue du XVIIe siècle\" : coécrite avec l’IA, une pièce de théâtre tente de recréer l’esprit de Molière",
-      "description": "Ce projet mêle intelligence artificielle et création humaine pour imaginer une œuvre inédite que Molière aurait pu écrire. Portée par Sorbonne Université, la pièce \"L'Astrologue ou les faux présages\" ...",
-      "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-elle-connait-parfois-mieux-que-nous-la-langue-du-xviie-siecle-coecrite-avec-l-ia-une-piece-de-theatre-tente-de-recreer-l-esprit-de-moliere_7952951.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-05-05T05:06:43Z",
+      "title": "Chrome installe en douce un modèle IA de 4 Go sur votre disque sans rien demander",
+      "description": "Alexander Hanff, consultant, a remonté un truc pas net sur Chrome. La dernière version du navigateur télécharge en arrière-plan un modèle de langage local appelé Gemini Nano, qui pèse environ 4 Go, sa...",
+      "url": "https://korben.info/chrome-installe-en-douce-un-modele-ia-de-4-go-sur-votre-disque-sans-rien-demander.html",
+      "source": "Korben.info",
+      "publishedAt": "2026-05-06T10:09:25Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Au cœur de la recherche académique, on constate que l’IA favorise l’avancement individuel au détriment du progrès scientifique collectif",
-      "description": "Si l’intelligence artificielle permet de publier plus d’articles et d’être plus cité par ses pairs, son utilisation comporte aussi des écueils. ...",
-      "url": "https://www.lalibre.be/belgique/enseignement/2026/05/05/au-coeur-de-la-recherche-academique-on-constate-que-lia-favorise-lavancement-individuel-au-detriment-du-progres-scientifique-collectif-DYOXT263D5CFDOTY6MSAQXMZ7Y/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-05-05T04:41:00Z",
+      "title": "Une formation gratuite sur l'IA pour les dirigeants est organisée le 20 mai à Nantes",
+      "description": "Dans le cadre de la Semaine de l’IA pour Tous, organisée du 18 au 24 mai 2026, SavoirIA, organisme de formation spécialisé dans l’IA depuis 2023, propose une série d’ateliers gratuits destinés aux dir...",
+      "url": "https://www.lejournaldesentreprises.com/breve/une-formation-gratuite-sur-lia-pour-les-dirigeants-est-organisee-le-20-mai-nantes-2142421",
+      "source": "Le Journal des Entreprises",
+      "publishedAt": "2026-05-06T10:02:44Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Licencier un salarié pour le remplacer par une IA est désormais illégal en Chine",
-      "description": "En Chine, un tribunal a donné gain de cause à un employé qu’une entreprise technologique voulait remplacer par une intelligence artificielle. Ayant refusé une rétrogradation et une baisse de salaire, ...",
-      "url": "https://www.presse-citron.net/licencier-un-salarie-pour-le-remplacer-par-une-ia-est-desormais-illegal-en-chine/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-05-05T10:01:56Z",
+      "title": "On a testé le \"Claude Cowork chinois\" : la claque est réelle, le prix aussi",
+      "description": "Manus My Computer promet plus d'autonomie et de vitesse que Claude Cowork. Nous l'avons testé sur un cas d'usage concret de machine learning. Verdict : l'agent impressionne, mais le pris aussi.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1550091-on-a-teste-le-claude-cowork-chinois-la-claque-est-reelle-le-prix-aussi/",
+      "source": "JDN",
+      "publishedAt": "2026-05-05T08:11:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "« Ne tombez pas dans ces pièges » : le coup de gueule d’Émilien des « 12 Coups de midi » sur ces fausses pubs",
-      "description": "Le vidéaste alerte sur des contenus générés par intelligence artificielle qui utilisent son image pour promouvoir des plateformes de cryptomonnaies.",
-      "url": "https://www.huffingtonpost.fr/divertissement/article/ne-tombez-pas-dans-ces-pieges-le-coup-de-gueule-d-emilien-des-12-coups-de-midi-sur-ces-fausses-pubs_263382.html",
-      "source": "Le HuffPost",
-      "publishedAt": "2026-05-04T20:44:06Z",
+      "title": "Se cacher derrière l'IA : comment l'autorité de santé publique au Kenya a fait peser les coûts du système sur les plus pauvres (Anglais)",
+      "description": "-\nÉconomie et social\n\n/ \nAnglais, \nInégalités, \nProtections sociales, \nNumérique",
+      "url": "https://sha.africauncensored.online/",
+      "source": "Africauncensored.online",
+      "publishedAt": "2026-05-05T11:53:49Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 06 May 2026 10:22:30 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 10:28:46 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -19,14 +19,6 @@
             <pubDate>Sat, 25 Apr 2026 19:16:18 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=k2rifQzyqtA</guid>
             <source>Nicolasit</source>
-        </item>
-        <item>
-            <title>Claude AI : Pourquoi cette IA va dépasser ChatGPT en 2026 ?</title>
-            <link>https://www.youtube.com/watch?v=dQwpkJyG27Y</link>
-            <description><![CDATA[Claude AI, l'IA d'Anthropic, vient de devenir en 7 jours l'application iPhone et Android la plus téléchargée au monde devant ...]]></description>
-            <pubDate>Sun, 08 Mar 2026 16:13:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=dQwpkJyG27Y</guid>
-            <source>Jeanviet</source>
         </item>
         <item>
             <title>Le machine learning ne vous concerne pas ? Détrompez-vous</title>
@@ -45,22 +37,6 @@
             <source>Comprendre l'informatique</source>
         </item>
         <item>
-            <title>Une enquête alerte sur les risques de l'intelligence artificielle conversationnelle sur la santé mentale des jeunes</title>
-            <link>https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/une-enquete-alerte-sur-les-risques-de-l-intelligence-artificielle-conversationnelle-sur-la-sante-mentale-des-jeunes_7984544.html</link>
-            <description><![CDATA[Près de la moitié des jeunes interrogés dans cette étude ont des conversations intimes avec l'intelligence artificielle. Ils ont majoritairement confiance en la confidentialité et la fiabilité des con...]]></description>
-            <pubDate>Tue, 05 May 2026 09:02:24 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/une-enquete-alerte-sur-les-risques-de-l-intelligence-artificielle-conversationnelle-sur-la-sante-mentale-des-jeunes_7984544.html</guid>
-            <source>Franceinfo.fr</source>
-        </item>
-        <item>
-            <title>Intelligence artificielle et données produit : le vrai sujet n'est pas l'algorithme, mais la qualité du référentiel</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1549935-intelligence-artificielle-et-donnees-produit-le-vrai-sujet-n-est-pas-l-algorithme-mais-la-qualite-du-referentiel/</link>
-            <description><![CDATA[L'IA peut accélérer la gestion des données produit, à condition de s'appuyer sur un référentiel fiable, structuré et gouverné.]]></description>
-            <pubDate>Tue, 05 May 2026 09:02:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1549935-intelligence-artificielle-et-donnees-produit-le-vrai-sujet-n-est-pas-l-algorithme-mais-la-qualite-du-referentiel/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
             <title>⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)</title>
             <link>https://www.youtube.com/watch?v=EI_SnEnGfX0</link>
             <description><![CDATA[Dans cette vidéo, je réalise un projet complet de Machine Learning avec Dataiku DSS. L'objectif : construire un modèle prédictif ...]]></description>
@@ -77,20 +53,44 @@
             <source>Clément LVL</source>
         </item>
         <item>
-            <title>L’AGI pourrait arriver en 2030… mais pas avec les IA actuelles, prévient Demis Hassabis patron de Google DeepMind</title>
-            <link>https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-agi-pourrait-arriver-2030-mais-pas-ia-actuelles-previent-demis-hassabis-patron-google-deepmind-134248/</link>
-            <description><![CDATA[Invité du podcast de Y Combinator, le fondateur de DeepMind et lauréat du prix Nobel de chimie a livré une vision lucide des défis qui restent à franchir avant l'intelligence artificielle générale (AG...]]></description>
-            <pubDate>Mon, 04 May 2026 19:08:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-agi-pourrait-arriver-2030-mais-pas-ia-actuelles-previent-demis-hassabis-patron-google-deepmind-134248/</guid>
-            <source>Futura</source>
+            <title>Maîtriser SQL en 1 heure sans prise de tête</title>
+            <link>https://www.youtube.com/watch?v=GVNc1ZrOoAs</link>
+            <description><![CDATA[Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...]]></description>
+            <pubDate>Mon, 06 Apr 2026 13:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=GVNc1ZrOoAs</guid>
+            <source>NKwaTech</source>
         </item>
         <item>
-            <title>L’IA sort du cloud et part à la conquête du sous-sol : LITHOSQUARE lève 22 millions d’euros en seed</title>
-            <link>https://www.frenchweb.fr/lia-sort-du-cloud-et-part-a-la-conquete-du-sous-sol-lithosquare-leve-22-millions-deuros-en-seed/461562</link>
-            <description><![CDATA[Les metaux critiques, l’angle mort de la transition énergétique L’électrification des usages, la montée en puissance des centres de données et l’industrialisation de l’intelligence artificielle repose...]]></description>
-            <pubDate>Tue, 05 May 2026 04:00:48 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frenchweb.fr/lia-sort-du-cloud-et-part-a-la-conquete-du-sous-sol-lithosquare-leve-22-millions-deuros-en-seed/461562</guid>
-            <source>Frenchweb.fr</source>
+            <title>Batinéo déploie un agent IA pour faciliter le chiffrage de la rénovation énergétique des maisons</title>
+            <link>https://www.lejournaldesentreprises.com/breve/batineo-deploie-un-agent-ia-pour-faciliter-le-chiffrage-de-la-renovation-energetique-des-maisons-2142385</link>
+            <description><![CDATA[À Saint-Malo, Batinéo Groupe, filiale du groupe immobilier Duval, déploie un agent d’intelligence artificielle destiné à accélérer la rénovation énergétique des maisons individuelles.]]></description>
+            <pubDate>Wed, 06 May 2026 07:03:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/breve/batineo-deploie-un-agent-ia-pour-faciliter-le-chiffrage-de-la-renovation-energetique-des-maisons-2142385</guid>
+            <source>Le Journal des Entreprises</source>
+        </item>
+        <item>
+            <title>“Skibidi Tentafruit” : sur les réseaux sociaux, les entreprises de la tech nous pourrissent le cerveau</title>
+            <link>https://www.telerama.fr/debats-reportages/skibidi-tentafruit-sur-les-reseaux-sociaux-les-entreprises-de-la-tech-nous-pourrissent-le-cerveau-7030950.php</link>
+            <description><![CDATA[Dans des vidéos virales sur TikTok et Instagram cumulant des millions de vues, des fruits humanoïdes générés par intelligence artificielle rejouent les pires stéréotypes racistes et sexistes. Dans l’i...]]></description>
+            <pubDate>Wed, 06 May 2026 10:00:14 -0000</pubDate>
+            <guid isPermaLink="true">https://www.telerama.fr/debats-reportages/skibidi-tentafruit-sur-les-reseaux-sociaux-les-entreprises-de-la-tech-nous-pourrissent-le-cerveau-7030950.php</guid>
+            <source>Telerama.fr</source>
+        </item>
+        <item>
+            <title>Meta analyse la structure osseuse pour détecter les mineurs</title>
+            <link>https://www.generation-nt.com/actualites/meta-instagram-facebook-ia-age-mineurs-adolescents-2075105</link>
+            <description><![CDATA[Meta intensifie sa lutte contre les fausses déclarations d'âge sur ses plateformes, en déployant une intelligence artificielle capable d'analyser bien plus que le texte pour garantir la sécurité des p...]]></description>
+            <pubDate>Wed, 06 May 2026 09:50:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/meta-instagram-facebook-ia-age-mineurs-adolescents-2075105</guid>
+            <source>Génération NT</source>
+        </item>
+        <item>
+            <title>Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)</title>
+            <link>https://www.youtube.com/watch?v=Vm-dZxN70kY</link>
+            <description><![CDATA[Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...]]></description>
+            <pubDate>Sat, 14 Mar 2026 20:01:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Vm-dZxN70kY</guid>
+            <source>TechVantage FR</source>
         </item>
         <item>
             <title>Questions et réponses d’entretien pour analyste de données</title>
@@ -133,14 +133,6 @@
             <source>Houssem Lahiani</source>
         </item>
         <item>
-            <title>Apprendre SQL en 40 minutes - Cours Complet Débutant (4K)</title>
-            <link>https://www.youtube.com/watch?v=xkJdg9zXGEI</link>
-            <description><![CDATA[Vous voulez aller plus loin et apprendre SQL ? Découvrez mon cours SQL ...]]></description>
-            <pubDate>Sun, 08 Mar 2026 09:05:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=xkJdg9zXGEI</guid>
-            <source>Comment Coder</source>
-        </item>
-        <item>
             <title>Comment créer un visuel carte KPI dans Power BI ! Afficher vos performances ! 🤩</title>
             <link>https://www.youtube.com/watch?v=VZJUEuu5LV8</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
@@ -165,12 +157,21 @@
             <source>Morpheus Formation | Excel, Power BI, Sheets</source>
         </item>
         <item>
-            <title>Sebastian KLAUS, de l’armée allemande à la logistique orbitale</title>
-            <link>https://www.frenchweb.fr/sebastian-klaus-de-larmee-allemande-a-la-logistique-orbitale/461581</link>
-            <description><![CDATA[Sebastian Klaus n’entre pas dans la catégorie habituelle des fondateurs du New Space européen. Son parcours mêle ingénierie aérospatiale, culture militaire, connaissance opérationnelle du risque et in...]]></description>
-            <pubDate>Tue, 05 May 2026 09:22:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frenchweb.fr/sebastian-klaus-de-larmee-allemande-a-la-logistique-orbitale/461581</guid>
-            <source>Frenchweb.fr</source>
+            <title>Des plantes bioluminescentes pour éclairer les villes : une solution énergétique durable ?</title>
+            <link>https://atlantico.fr/article/decryptage/des-plantes-bioluminescentes-pour-eclairer-les-villes-une-solution-energetique-durable</link>
+            <description><![CDATA[L’essor des plantes bioluminescentes ouvre une révolution mêlant génétique, écologie et urbanisme, mais soulève déjà des questions techniques, éthiques et réglementaires.  
+Entre prouesse biologique, ...]]></description>
+            <pubDate>Wed, 06 May 2026 08:14:00 -0000</pubDate>
+            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/des-plantes-bioluminescentes-pour-eclairer-les-villes-une-solution-energetique-durable</guid>
+            <source>Atlantico.fr</source>
+        </item>
+        <item>
+            <title>Ces Belges qui s’accrochent à leur vieux téléphone portable 2G : le chiffre fou révélé par Proximus</title>
+            <link>https://www.lavenir.net/actu/conso/multimedia/2026/05/06/ces-belges-qui-saccrochent-a-leur-vieux-telephone-portable-2g-le-chiffre-fou-revele-par-proximus-FOREWES3MZHNTCPHVKZN3INWUY/</link>
+            <description><![CDATA[Les téléphones portables limités aux appels et aux SMS sont encore bien présents sur le réseau mobile de Proximus en 2026. Ils se connectent à la 2G, une technologie d’hier qui sera débranchée à jamai...]]></description>
+            <pubDate>Wed, 06 May 2026 09:52:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lavenir.net/actu/conso/multimedia/2026/05/06/ces-belges-qui-saccrochent-a-leur-vieux-telephone-portable-2g-le-chiffre-fou-revele-par-proximus-FOREWES3MZHNTCPHVKZN3INWUY/</guid>
+            <source>Lavenir.net</source>
         </item>
     </channel>
 </rss>
