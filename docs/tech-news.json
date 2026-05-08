@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-07T10:28:46.123050",
+  "lastUpdate": "2026-05-08T09:43:48.322627",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -14,16 +14,28 @@
       "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
     },
     {
-      "title": "Le machine learning ne vous concerne pas ? Détrompez-vous",
-      "description": "Derrière les systèmes d'IA modernes — qu'il s'agisse de ChatGPT, ou des outils de recrutement que vos équipes utilisent déjà —   il y a un principe statistique simple mais souvent mal compris.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1550029-le-machine-learning-ne-vous-concerne-pas-detrompez-vous/",
-      "source": "JDN",
-      "publishedAt": "2026-05-05T09:07:36Z",
+      "title": "Colossus aujourd’hui, orbital compute demain : la vision long terme d’ELON MUSK",
+      "description": "Si la compétition dans l’intelligence artificielle est la plupart du temps vue à travers le prisme des modèles : taille des LLM, qualité des agents, performances des benchmarks ou sophistication des c...",
+      "url": "https://www.frenchweb.fr/colossus-aujourdhui-orbital-compute-demain-la-vision-long-terme-delon-musk/461633",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-05-07T04:14:40Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "Les 3 types d&#39;apprentissage IA qui changent tout",
+      "description": "Comment une intelligence artificielle apprend-elle vraiment ? Dans ce deuxième épisode de notre série sur le Machine Learning, ...",
+      "url": "https://www.youtube.com/watch?v=vS8H8somgEs",
+      "source": "Vitamine IA",
+      "publishedAt": "2026-05-07T10:47:03Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "vS8H8somgEs",
+      "thumbnail": "https://i.ytimg.com/vi/vS8H8somgEs/hqdefault.jpg"
     },
     {
       "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
@@ -36,6 +48,30 @@
       "isYouTube": true,
       "videoId": "77IMWD4TWtg",
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
+    },
+    {
+      "title": "\"L'intelligence est le moteur, le contexte est le carburant\" : comment Atlassian veut imposer son IA en entreprise",
+      "description": "En couplant son agent autonome Rovo à une \"mémoire vive\" de 150 milliards de connexions appelée Teamwork Graph, Atlassian promet des résultats 44 % plus précis. Entre exécution de tâches complexes et ...",
+      "url": "https://www.zdnet.fr/actualites/lintelligence-est-le-moteur-le-contexte-est-le-carburant-comment-atlassian-veut-imposer-son-ia-en-entreprise-494678.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-05-07T07:10:57Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "LIPSTIP développe une IA pensée pour les cabinets de propriété intellectuelle",
+      "description": "L’intelligence artificielle commence à transformer des secteurs professionnels longtemps restés en marge de la numérisation avancée. Après les fonctions marketing, le développement logiciel ou le supp...",
+      "url": "https://www.frenchweb.fr/lipstip-developpe-une-ia-pensee-pour-les-cabinets-de-propriete-intellectuelle/461638",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-05-07T04:56:19Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)",
@@ -62,6 +98,18 @@
       "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
     },
     {
+      "title": "Les « world models », lorsque l’intelligence artificielle apprend à comprendre le monde",
+      "description": "Des stratégies pour doter les systèmes d’intelligence artificielle d’un sens commun qui leur permettrait de mieux comprendre le monde physique, et d’interagir avec lui.",
+      "url": "https://theconversation.com/les-world-models-lorsque-lintelligence-artificielle-apprend-a-comprendre-le-monde-281055",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-05-06T13:11:12Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Maîtriser SQL en 1 heure sans prise de tête",
       "description": "Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...",
       "url": "https://www.youtube.com/watch?v=GVNc1ZrOoAs",
@@ -72,54 +120,6 @@
       "isYouTube": true,
       "videoId": "GVNc1ZrOoAs",
       "thumbnail": "https://i.ytimg.com/vi/GVNc1ZrOoAs/hqdefault.jpg"
-    },
-    {
-      "title": "Batinéo déploie un agent IA pour faciliter le chiffrage de la rénovation énergétique des maisons",
-      "description": "À Saint-Malo, Batinéo Groupe, filiale du groupe immobilier Duval, déploie un agent d’intelligence artificielle destiné à accélérer la rénovation énergétique des maisons individuelles.",
-      "url": "https://www.lejournaldesentreprises.com/breve/batineo-deploie-un-agent-ia-pour-faciliter-le-chiffrage-de-la-renovation-energetique-des-maisons-2142385",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-05-06T07:03:29Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "“Skibidi Tentafruit” : sur les réseaux sociaux, les entreprises de la tech nous pourrissent le cerveau",
-      "description": "Dans des vidéos virales sur TikTok et Instagram cumulant des millions de vues, des fruits humanoïdes générés par intelligence artificielle rejouent les pires stéréotypes racistes et sexistes. Dans l’i...",
-      "url": "https://www.telerama.fr/debats-reportages/skibidi-tentafruit-sur-les-reseaux-sociaux-les-entreprises-de-la-tech-nous-pourrissent-le-cerveau-7030950.php",
-      "source": "Telerama.fr",
-      "publishedAt": "2026-05-06T10:00:14Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Meta analyse la structure osseuse pour détecter les mineurs",
-      "description": "Meta intensifie sa lutte contre les fausses déclarations d'âge sur ses plateformes, en déployant une intelligence artificielle capable d'analyser bien plus que le texte pour garantir la sécurité des p...",
-      "url": "https://www.generation-nt.com/actualites/meta-instagram-facebook-ia-age-mineurs-adolescents-2075105",
-      "source": "Génération NT",
-      "publishedAt": "2026-05-06T09:50:01Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)",
-      "description": "Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...",
-      "url": "https://www.youtube.com/watch?v=Vm-dZxN70kY",
-      "source": "TechVantage FR",
-      "publishedAt": "2026-03-14T20:01:02Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Vm-dZxN70kY",
-      "thumbnail": "https://i.ytimg.com/vi/Vm-dZxN70kY/hqdefault.jpg"
     },
     {
       "title": "Questions et réponses d’entretien pour analyste de données",
@@ -182,6 +182,18 @@
       "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
     },
     {
+      "title": "\"J'ai testé l'application IA de santé la plus avancée du marché : elle m'a bluffé\"",
+      "description": "Bevel transforme vos données biométriques en conseils de santé actionnables, générés par une IA à mémoire persistante.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1550153-j-ai-teste-l-application-ia-de-sante-la-plus-avancee-du-marche-elle-m-a-bluffe/",
+      "source": "JDN",
+      "publishedAt": "2026-05-07T08:26:51Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Comment créer un visuel carte KPI dans Power BI ! Afficher vos performances ! 🤩",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=VZJUEuu5LV8",
@@ -218,11 +230,11 @@
       "thumbnail": "https://i.ytimg.com/vi/SqzUaKJb384/hqdefault.jpg"
     },
     {
-      "title": "Des plantes bioluminescentes pour éclairer les villes : une solution énergétique durable ?",
-      "description": "L’essor des plantes bioluminescentes ouvre une révolution mêlant génétique, écologie et urbanisme, mais soulève déjà des questions techniques, éthiques et réglementaires.  \nEntre prouesse biologique, ...",
-      "url": "https://atlantico.fr/article/decryptage/des-plantes-bioluminescentes-pour-eclairer-les-villes-une-solution-energetique-durable",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-05-06T08:14:00Z",
+      "title": "data-science-document-ai 1.67.1",
+      "description": "\"Document AI repo for data science\"",
+      "url": "https://pypi.org/project/data-science-document-ai/1.67.1/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-05-06T22:01:55Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,59 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Ces Belges qui s’accrochent à leur vieux téléphone portable 2G : le chiffre fou révélé par Proximus",
-      "description": "Les téléphones portables limités aux appels et aux SMS sont encore bien présents sur le réseau mobile de Proximus en 2026. Ils se connectent à la 2G, une technologie d’hier qui sera débranchée à jamai...",
-      "url": "https://www.lavenir.net/actu/conso/multimedia/2026/05/06/ces-belges-qui-saccrochent-a-leur-vieux-telephone-portable-2g-le-chiffre-fou-revele-par-proximus-FOREWES3MZHNTCPHVKZN3INWUY/",
-      "source": "Lavenir.net",
-      "publishedAt": "2026-05-06T09:52:37Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Apple accepte de payer pour solder le fiasco Apple Intelligence",
-      "description": "Confronté à des accusations de publicité mensongère, Apple préfère un accord à l'amiable pour clore un chapitre embarrassant de sa course à l'intelligence artificielle, avec des promesses non tenues c...",
-      "url": "https://www.generation-nt.com/actualites/siri-ia-apple-accord-250-millions-dollars-publicite-mensongere-iphone-2075104",
-      "source": "Génération NT",
-      "publishedAt": "2026-05-06T08:30:01Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chrome installe en douce un modèle IA de 4 Go sur votre disque sans rien demander",
-      "description": "Alexander Hanff, consultant, a remonté un truc pas net sur Chrome. La dernière version du navigateur télécharge en arrière-plan un modèle de langage local appelé Gemini Nano, qui pèse environ 4 Go, sa...",
-      "url": "https://korben.info/chrome-installe-en-douce-un-modele-ia-de-4-go-sur-votre-disque-sans-rien-demander.html",
-      "source": "Korben.info",
-      "publishedAt": "2026-05-06T10:09:25Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Une formation gratuite sur l'IA pour les dirigeants est organisée le 20 mai à Nantes",
-      "description": "Dans le cadre de la Semaine de l’IA pour Tous, organisée du 18 au 24 mai 2026, SavoirIA, organisme de formation spécialisé dans l’IA depuis 2023, propose une série d’ateliers gratuits destinés aux dir...",
-      "url": "https://www.lejournaldesentreprises.com/breve/une-formation-gratuite-sur-lia-pour-les-dirigeants-est-organisee-le-20-mai-nantes-2142421",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-05-06T10:02:44Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "On a testé le \"Claude Cowork chinois\" : la claque est réelle, le prix aussi",
-      "description": "Manus My Computer promet plus d'autonomie et de vitesse que Claude Cowork. Nous l'avons testé sur un cas d'usage concret de machine learning. Verdict : l'agent impressionne, mais le pris aussi.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1550091-on-a-teste-le-claude-cowork-chinois-la-claque-est-reelle-le-prix-aussi/",
+      "title": "\"L'intérêt des dirigeants pour les robots humanoïdes est énorme\"",
+      "description": "Alexandre Embry dirige le laboratoire AI Robotics and Experiences de Capgemini, une entité qui se concentre sur la robotique couplée à l'intelligence artificielle. Les robots polyfonctionnels et auton...",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1550151-l-interet-des-dirigeants-pour-les-robots-humanoides-est-enorme/",
       "source": "JDN",
-      "publishedAt": "2026-05-05T08:11:00Z",
+      "publishedAt": "2026-05-07T06:27:09Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +254,47 @@
       "thumbnail": ""
     },
     {
-      "title": "Se cacher derrière l'IA : comment l'autorité de santé publique au Kenya a fait peser les coûts du système sur les plus pauvres (Anglais)",
-      "description": "-\nÉconomie et social\n\n/ \nAnglais, \nInégalités, \nProtections sociales, \nNumérique",
-      "url": "https://sha.africauncensored.online/",
-      "source": "Africauncensored.online",
-      "publishedAt": "2026-05-05T11:53:49Z",
+      "title": "C’est la fin de xAI (Grok) : Elon Musk dévoile sa nouvelle stratégie IA",
+      "description": "Créée pour rivaliser avec un OpenAI devenu « maléfique » selon Elon Musk, la structure xAI avait été rachetée par SpaceX en février 2026 dans un deal à 250 milliards de dollars. Alors qu'Elon Musk se ...",
+      "url": "https://www.numerama.com/tech/2248661-cest-la-fin-de-xai-grok-elon-musk-devoile-sa-nouvelle-strategie-ia.html",
+      "source": "Numerama",
+      "publishedAt": "2026-05-07T07:52:29Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Samsung franchit les 1 000 milliards de dollars de capitalisation boursière",
+      "description": "Samsung traînait derrière TSMC dans la course aux puces IA. Mercredi, le titre a bondi de plus de 10 % à Séoul et la capitalisation a franchi le seuil symbolique. Samsung devient la deuxième entrepris...",
+      "url": "https://siecledigital.fr/2026/05/07/samsung-franchit-les-1-000-milliards-de-dollars-de-capitalisation-boursiere/",
+      "source": "Siècle Digital",
+      "publishedAt": "2026-05-07T09:29:10Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Conférence OW2con'26 : l'open source et les modèles ouverts, moteurs de la souveraineté européenne",
+      "description": "L’actualité du logiciel libre et des sujets voisins (DIY, Open Hardware, Open Data, les Communs, etc.), sur un site francophone contributif géré par une équipe bénévole par et pour des libristes entho...",
+      "url": "https://linuxfr.org/news/conference-ow2con-26-l-open-source-et-les-modeles-ouverts-moteurs-de-la-souverainete-europeenne",
+      "source": "Linuxfr.org",
+      "publishedAt": "2026-05-06T11:32:49Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Norton s’attaque au défi des agents IA avec un VPN dédié",
+      "description": "Une réponse aux nouveaux enjeux de confidentialité posés par l’automatisation des tâches en ligne.",
+      "url": "https://www.begeek.fr/norton-sattaque-au-defi-des-agents-ia-avec-un-vpn-dedie-431895",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-05-07T06:00:52Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

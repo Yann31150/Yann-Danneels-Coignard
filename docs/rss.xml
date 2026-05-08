@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 07 May 2026 10:28:46 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 09:43:48 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,12 +21,20 @@
             <source>Nicolasit</source>
         </item>
         <item>
-            <title>Le machine learning ne vous concerne pas ? Détrompez-vous</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1550029-le-machine-learning-ne-vous-concerne-pas-detrompez-vous/</link>
-            <description><![CDATA[Derrière les systèmes d'IA modernes — qu'il s'agisse de ChatGPT, ou des outils de recrutement que vos équipes utilisent déjà —   il y a un principe statistique simple mais souvent mal compris.]]></description>
-            <pubDate>Tue, 05 May 2026 09:07:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1550029-le-machine-learning-ne-vous-concerne-pas-detrompez-vous/</guid>
-            <source>JDN</source>
+            <title>Colossus aujourd’hui, orbital compute demain : la vision long terme d’ELON MUSK</title>
+            <link>https://www.frenchweb.fr/colossus-aujourdhui-orbital-compute-demain-la-vision-long-terme-delon-musk/461633</link>
+            <description><![CDATA[Si la compétition dans l’intelligence artificielle est la plupart du temps vue à travers le prisme des modèles : taille des LLM, qualité des agents, performances des benchmarks ou sophistication des c...]]></description>
+            <pubDate>Thu, 07 May 2026 04:14:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frenchweb.fr/colossus-aujourdhui-orbital-compute-demain-la-vision-long-terme-delon-musk/461633</guid>
+            <source>Frenchweb.fr</source>
+        </item>
+        <item>
+            <title>Les 3 types d&amp;#39;apprentissage IA qui changent tout</title>
+            <link>https://www.youtube.com/watch?v=vS8H8somgEs</link>
+            <description><![CDATA[Comment une intelligence artificielle apprend-elle vraiment ? Dans ce deuxième épisode de notre série sur le Machine Learning, ...]]></description>
+            <pubDate>Thu, 07 May 2026 10:47:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=vS8H8somgEs</guid>
+            <source>Vitamine IA</source>
         </item>
         <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
@@ -35,6 +43,22 @@
             <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
             <source>Comprendre l'informatique</source>
+        </item>
+        <item>
+            <title>"L'intelligence est le moteur, le contexte est le carburant" : comment Atlassian veut imposer son IA en entreprise</title>
+            <link>https://www.zdnet.fr/actualites/lintelligence-est-le-moteur-le-contexte-est-le-carburant-comment-atlassian-veut-imposer-son-ia-en-entreprise-494678.htm</link>
+            <description><![CDATA[En couplant son agent autonome Rovo à une "mémoire vive" de 150 milliards de connexions appelée Teamwork Graph, Atlassian promet des résultats 44 % plus précis. Entre exécution de tâches complexes et ...]]></description>
+            <pubDate>Thu, 07 May 2026 07:10:57 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/lintelligence-est-le-moteur-le-contexte-est-le-carburant-comment-atlassian-veut-imposer-son-ia-en-entreprise-494678.htm</guid>
+            <source>ZDNet France</source>
+        </item>
+        <item>
+            <title>LIPSTIP développe une IA pensée pour les cabinets de propriété intellectuelle</title>
+            <link>https://www.frenchweb.fr/lipstip-developpe-une-ia-pensee-pour-les-cabinets-de-propriete-intellectuelle/461638</link>
+            <description><![CDATA[L’intelligence artificielle commence à transformer des secteurs professionnels longtemps restés en marge de la numérisation avancée. Après les fonctions marketing, le développement logiciel ou le supp...]]></description>
+            <pubDate>Thu, 07 May 2026 04:56:19 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frenchweb.fr/lipstip-developpe-une-ia-pensee-pour-les-cabinets-de-propriete-intellectuelle/461638</guid>
+            <source>Frenchweb.fr</source>
         </item>
         <item>
             <title>⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)</title>
@@ -53,44 +77,20 @@
             <source>Clément LVL</source>
         </item>
         <item>
+            <title>Les « world models », lorsque l’intelligence artificielle apprend à comprendre le monde</title>
+            <link>https://theconversation.com/les-world-models-lorsque-lintelligence-artificielle-apprend-a-comprendre-le-monde-281055</link>
+            <description><![CDATA[Des stratégies pour doter les systèmes d’intelligence artificielle d’un sens commun qui leur permettrait de mieux comprendre le monde physique, et d’interagir avec lui.]]></description>
+            <pubDate>Wed, 06 May 2026 13:11:12 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/les-world-models-lorsque-lintelligence-artificielle-apprend-a-comprendre-le-monde-281055</guid>
+            <source>The Conversation Africa</source>
+        </item>
+        <item>
             <title>Maîtriser SQL en 1 heure sans prise de tête</title>
             <link>https://www.youtube.com/watch?v=GVNc1ZrOoAs</link>
             <description><![CDATA[Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...]]></description>
             <pubDate>Mon, 06 Apr 2026 13:00:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=GVNc1ZrOoAs</guid>
             <source>NKwaTech</source>
-        </item>
-        <item>
-            <title>Batinéo déploie un agent IA pour faciliter le chiffrage de la rénovation énergétique des maisons</title>
-            <link>https://www.lejournaldesentreprises.com/breve/batineo-deploie-un-agent-ia-pour-faciliter-le-chiffrage-de-la-renovation-energetique-des-maisons-2142385</link>
-            <description><![CDATA[À Saint-Malo, Batinéo Groupe, filiale du groupe immobilier Duval, déploie un agent d’intelligence artificielle destiné à accélérer la rénovation énergétique des maisons individuelles.]]></description>
-            <pubDate>Wed, 06 May 2026 07:03:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/breve/batineo-deploie-un-agent-ia-pour-faciliter-le-chiffrage-de-la-renovation-energetique-des-maisons-2142385</guid>
-            <source>Le Journal des Entreprises</source>
-        </item>
-        <item>
-            <title>“Skibidi Tentafruit” : sur les réseaux sociaux, les entreprises de la tech nous pourrissent le cerveau</title>
-            <link>https://www.telerama.fr/debats-reportages/skibidi-tentafruit-sur-les-reseaux-sociaux-les-entreprises-de-la-tech-nous-pourrissent-le-cerveau-7030950.php</link>
-            <description><![CDATA[Dans des vidéos virales sur TikTok et Instagram cumulant des millions de vues, des fruits humanoïdes générés par intelligence artificielle rejouent les pires stéréotypes racistes et sexistes. Dans l’i...]]></description>
-            <pubDate>Wed, 06 May 2026 10:00:14 -0000</pubDate>
-            <guid isPermaLink="true">https://www.telerama.fr/debats-reportages/skibidi-tentafruit-sur-les-reseaux-sociaux-les-entreprises-de-la-tech-nous-pourrissent-le-cerveau-7030950.php</guid>
-            <source>Telerama.fr</source>
-        </item>
-        <item>
-            <title>Meta analyse la structure osseuse pour détecter les mineurs</title>
-            <link>https://www.generation-nt.com/actualites/meta-instagram-facebook-ia-age-mineurs-adolescents-2075105</link>
-            <description><![CDATA[Meta intensifie sa lutte contre les fausses déclarations d'âge sur ses plateformes, en déployant une intelligence artificielle capable d'analyser bien plus que le texte pour garantir la sécurité des p...]]></description>
-            <pubDate>Wed, 06 May 2026 09:50:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/meta-instagram-facebook-ia-age-mineurs-adolescents-2075105</guid>
-            <source>Génération NT</source>
-        </item>
-        <item>
-            <title>Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)</title>
-            <link>https://www.youtube.com/watch?v=Vm-dZxN70kY</link>
-            <description><![CDATA[Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...]]></description>
-            <pubDate>Sat, 14 Mar 2026 20:01:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Vm-dZxN70kY</guid>
-            <source>TechVantage FR</source>
         </item>
         <item>
             <title>Questions et réponses d’entretien pour analyste de données</title>
@@ -133,6 +133,14 @@
             <source>Houssem Lahiani</source>
         </item>
         <item>
+            <title>"J'ai testé l'application IA de santé la plus avancée du marché : elle m'a bluffé"</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1550153-j-ai-teste-l-application-ia-de-sante-la-plus-avancee-du-marche-elle-m-a-bluffe/</link>
+            <description><![CDATA[Bevel transforme vos données biométriques en conseils de santé actionnables, générés par une IA à mémoire persistante.]]></description>
+            <pubDate>Thu, 07 May 2026 08:26:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1550153-j-ai-teste-l-application-ia-de-sante-la-plus-avancee-du-marche-elle-m-a-bluffe/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
             <title>Comment créer un visuel carte KPI dans Power BI ! Afficher vos performances ! 🤩</title>
             <link>https://www.youtube.com/watch?v=VZJUEuu5LV8</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
@@ -157,21 +165,12 @@
             <source>Morpheus Formation | Excel, Power BI, Sheets</source>
         </item>
         <item>
-            <title>Des plantes bioluminescentes pour éclairer les villes : une solution énergétique durable ?</title>
-            <link>https://atlantico.fr/article/decryptage/des-plantes-bioluminescentes-pour-eclairer-les-villes-une-solution-energetique-durable</link>
-            <description><![CDATA[L’essor des plantes bioluminescentes ouvre une révolution mêlant génétique, écologie et urbanisme, mais soulève déjà des questions techniques, éthiques et réglementaires.  
-Entre prouesse biologique, ...]]></description>
-            <pubDate>Wed, 06 May 2026 08:14:00 -0000</pubDate>
-            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/des-plantes-bioluminescentes-pour-eclairer-les-villes-une-solution-energetique-durable</guid>
-            <source>Atlantico.fr</source>
-        </item>
-        <item>
-            <title>Ces Belges qui s’accrochent à leur vieux téléphone portable 2G : le chiffre fou révélé par Proximus</title>
-            <link>https://www.lavenir.net/actu/conso/multimedia/2026/05/06/ces-belges-qui-saccrochent-a-leur-vieux-telephone-portable-2g-le-chiffre-fou-revele-par-proximus-FOREWES3MZHNTCPHVKZN3INWUY/</link>
-            <description><![CDATA[Les téléphones portables limités aux appels et aux SMS sont encore bien présents sur le réseau mobile de Proximus en 2026. Ils se connectent à la 2G, une technologie d’hier qui sera débranchée à jamai...]]></description>
-            <pubDate>Wed, 06 May 2026 09:52:37 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lavenir.net/actu/conso/multimedia/2026/05/06/ces-belges-qui-saccrochent-a-leur-vieux-telephone-portable-2g-le-chiffre-fou-revele-par-proximus-FOREWES3MZHNTCPHVKZN3INWUY/</guid>
-            <source>Lavenir.net</source>
+            <title>data-science-document-ai 1.67.1</title>
+            <link>https://pypi.org/project/data-science-document-ai/1.67.1/</link>
+            <description><![CDATA["Document AI repo for data science"]]></description>
+            <pubDate>Wed, 06 May 2026 22:01:55 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.67.1/</guid>
+            <source>Pypi.org</source>
         </item>
     </channel>
 </rss>
