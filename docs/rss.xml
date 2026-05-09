@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 08 May 2026 09:43:48 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 09:23:58 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -45,20 +45,12 @@
             <source>Comprendre l'informatique</source>
         </item>
         <item>
-            <title>"L'intelligence est le moteur, le contexte est le carburant" : comment Atlassian veut imposer son IA en entreprise</title>
-            <link>https://www.zdnet.fr/actualites/lintelligence-est-le-moteur-le-contexte-est-le-carburant-comment-atlassian-veut-imposer-son-ia-en-entreprise-494678.htm</link>
-            <description><![CDATA[En couplant son agent autonome Rovo à une "mémoire vive" de 150 milliards de connexions appelée Teamwork Graph, Atlassian promet des résultats 44 % plus précis. Entre exécution de tâches complexes et ...]]></description>
-            <pubDate>Thu, 07 May 2026 07:10:57 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/lintelligence-est-le-moteur-le-contexte-est-le-carburant-comment-atlassian-veut-imposer-son-ia-en-entreprise-494678.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
-            <title>LIPSTIP développe une IA pensée pour les cabinets de propriété intellectuelle</title>
-            <link>https://www.frenchweb.fr/lipstip-developpe-une-ia-pensee-pour-les-cabinets-de-propriete-intellectuelle/461638</link>
-            <description><![CDATA[L’intelligence artificielle commence à transformer des secteurs professionnels longtemps restés en marge de la numérisation avancée. Après les fonctions marketing, le développement logiciel ou le supp...]]></description>
-            <pubDate>Thu, 07 May 2026 04:56:19 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frenchweb.fr/lipstip-developpe-une-ia-pensee-pour-les-cabinets-de-propriete-intellectuelle/461638</guid>
-            <source>Frenchweb.fr</source>
+            <title>A l’Alpha School, l’intelligence artificielle a remplacé les enseignants</title>
+            <link>https://www.nouvelobs.com/economie/20260508.OBS114765/a-l-alpha-school-l-intelligence-artificielle-a-remplace-les-enseignants.html</link>
+            <description><![CDATA[Bienvenue à l’Alpha School à San Francisco, une école privée hors de prix et affichant des ambitions élitistes, où les enseignements sont délivrés par une intelligence artificielle qui promet un appre...]]></description>
+            <pubDate>Fri, 08 May 2026 06:00:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.nouvelobs.com/economie/20260508.OBS114765/a-l-alpha-school-l-intelligence-artificielle-a-remplace-les-enseignants.html</guid>
+            <source>L'Obs</source>
         </item>
         <item>
             <title>⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)</title>
@@ -77,20 +69,28 @@
             <source>Clément LVL</source>
         </item>
         <item>
-            <title>Les « world models », lorsque l’intelligence artificielle apprend à comprendre le monde</title>
-            <link>https://theconversation.com/les-world-models-lorsque-lintelligence-artificielle-apprend-a-comprendre-le-monde-281055</link>
-            <description><![CDATA[Des stratégies pour doter les systèmes d’intelligence artificielle d’un sens commun qui leur permettrait de mieux comprendre le monde physique, et d’interagir avec lui.]]></description>
-            <pubDate>Wed, 06 May 2026 13:11:12 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/les-world-models-lorsque-lintelligence-artificielle-apprend-a-comprendre-le-monde-281055</guid>
-            <source>The Conversation Africa</source>
+            <title>SQL pour débutants : Maitrisez les base en moins d&amp;#39;un mois (LIVE)</title>
+            <link>https://www.youtube.com/watch?v=DngKcAFU3Kc</link>
+            <description><![CDATA[Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...]]></description>
+            <pubDate>Wed, 08 Apr 2026 07:53:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=DngKcAFU3Kc</guid>
+            <source>NKwaTech</source>
         </item>
         <item>
-            <title>Maîtriser SQL en 1 heure sans prise de tête</title>
-            <link>https://www.youtube.com/watch?v=GVNc1ZrOoAs</link>
-            <description><![CDATA[Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...]]></description>
-            <pubDate>Mon, 06 Apr 2026 13:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=GVNc1ZrOoAs</guid>
-            <source>NKwaTech</source>
+            <title>« Consternant et exaspérant » : cinq grands éditeurs portent plainte contre Meta pour « violation de droits d’auteur »</title>
+            <link>https://www.challenges.fr/entreprise/tech-numerique/consternant-et-exasperant-cinq-grands-editeurs-portent-plainte-contre-meta-pour-violation-de-droits-dauteur_643267</link>
+            <description><![CDATA[Aux Etats-Unis, cinq grands éditeurs accusent Meta d’avoir pillé leurs livres, manuels et revues scientifiques pour entraîner son intelligence artificielle. Les plaignants insistent sur la responsabil...]]></description>
+            <pubDate>Thu, 07 May 2026 16:50:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.challenges.fr/entreprise/tech-numerique/consternant-et-exasperant-cinq-grands-editeurs-portent-plainte-contre-meta-pour-violation-de-droits-dauteur_643267</guid>
+            <source>Challenges</source>
+        </item>
+        <item>
+            <title>Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)</title>
+            <link>https://www.youtube.com/watch?v=Vm-dZxN70kY</link>
+            <description><![CDATA[Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...]]></description>
+            <pubDate>Sat, 14 Mar 2026 20:01:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Vm-dZxN70kY</guid>
+            <source>TechVantage FR</source>
         </item>
         <item>
             <title>Questions et réponses d’entretien pour analyste de données</title>
@@ -133,14 +133,6 @@
             <source>Houssem Lahiani</source>
         </item>
         <item>
-            <title>"J'ai testé l'application IA de santé la plus avancée du marché : elle m'a bluffé"</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1550153-j-ai-teste-l-application-ia-de-sante-la-plus-avancee-du-marche-elle-m-a-bluffe/</link>
-            <description><![CDATA[Bevel transforme vos données biométriques en conseils de santé actionnables, générés par une IA à mémoire persistante.]]></description>
-            <pubDate>Thu, 07 May 2026 08:26:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1550153-j-ai-teste-l-application-ia-de-sante-la-plus-avancee-du-marche-elle-m-a-bluffe/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
             <title>Comment créer un visuel carte KPI dans Power BI ! Afficher vos performances ! 🤩</title>
             <link>https://www.youtube.com/watch?v=VZJUEuu5LV8</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
@@ -165,12 +157,20 @@
             <source>Morpheus Formation | Excel, Power BI, Sheets</source>
         </item>
         <item>
-            <title>data-science-document-ai 1.67.1</title>
-            <link>https://pypi.org/project/data-science-document-ai/1.67.1/</link>
-            <description><![CDATA["Document AI repo for data science"]]></description>
-            <pubDate>Wed, 06 May 2026 22:01:55 -0000</pubDate>
-            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/1.67.1/</guid>
-            <source>Pypi.org</source>
+            <title>Biais de la recherche médicale : l'Afrique absente des essais cliniques</title>
+            <link>https://theconversation.com/biais-de-la-recherche-medicale-lafrique-absente-des-essais-cliniques-282184</link>
+            <description><![CDATA[Alors que l'Afrique représente environ 25 % de la charge mondiale de morbidité, ses populations sont largement absentes des essais cliniques randomisés.]]></description>
+            <pubDate>Thu, 07 May 2026 13:42:34 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/biais-de-la-recherche-medicale-lafrique-absente-des-essais-cliniques-282184</guid>
+            <source>The Conversation Africa</source>
+        </item>
+        <item>
+            <title>Advaita Bio lance iSCanGuide™ : analyse unifiée de la transcriptomique unicellulaire et spatiale, reposant sur une infrastructure optimisée par GPU</title>
+            <link>https://www.prnewswire.com/news-releases/advaita-bio-lance-iscanguide--analyse-unifiee-de-la-transcriptomique-unicellulaire-et-spatiale-reposant-sur-une-infrastructure-optimisee-par-gpu-302765906.html</link>
+            <description><![CDATA[La plateforme optimisée par GPU unifie les flux de travail fragmentés, réduisant des semaines d'analyse en quelques minutes. ANN ARBOR, Michigan, 7 mai 2026 /PRNewswire/ -- Advaita Bio a annoncé aujou...]]></description>
+            <pubDate>Thu, 07 May 2026 15:52:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/advaita-bio-lance-iscanguide--analyse-unifiee-de-la-transcriptomique-unicellulaire-et-spatiale-reposant-sur-une-infrastructure-optimisee-par-gpu-302765906.html</guid>
+            <source>PRNewswire</source>
         </item>
     </channel>
 </rss>
