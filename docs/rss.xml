@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 09 May 2026 09:23:58 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 09:41:05 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -19,14 +19,6 @@
             <pubDate>Sat, 25 Apr 2026 19:16:18 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=k2rifQzyqtA</guid>
             <source>Nicolasit</source>
-        </item>
-        <item>
-            <title>Colossus aujourd’hui, orbital compute demain : la vision long terme d’ELON MUSK</title>
-            <link>https://www.frenchweb.fr/colossus-aujourdhui-orbital-compute-demain-la-vision-long-terme-delon-musk/461633</link>
-            <description><![CDATA[Si la compétition dans l’intelligence artificielle est la plupart du temps vue à travers le prisme des modèles : taille des LLM, qualité des agents, performances des benchmarks ou sophistication des c...]]></description>
-            <pubDate>Thu, 07 May 2026 04:14:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frenchweb.fr/colossus-aujourdhui-orbital-compute-demain-la-vision-long-terme-delon-musk/461633</guid>
-            <source>Frenchweb.fr</source>
         </item>
         <item>
             <title>Les 3 types d&amp;#39;apprentissage IA qui changent tout</title>
@@ -45,14 +37,6 @@
             <source>Comprendre l'informatique</source>
         </item>
         <item>
-            <title>A l’Alpha School, l’intelligence artificielle a remplacé les enseignants</title>
-            <link>https://www.nouvelobs.com/economie/20260508.OBS114765/a-l-alpha-school-l-intelligence-artificielle-a-remplace-les-enseignants.html</link>
-            <description><![CDATA[Bienvenue à l’Alpha School à San Francisco, une école privée hors de prix et affichant des ambitions élitistes, où les enseignements sont délivrés par une intelligence artificielle qui promet un appre...]]></description>
-            <pubDate>Fri, 08 May 2026 06:00:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.nouvelobs.com/economie/20260508.OBS114765/a-l-alpha-school-l-intelligence-artificielle-a-remplace-les-enseignants.html</guid>
-            <source>L'Obs</source>
-        </item>
-        <item>
             <title>⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)</title>
             <link>https://www.youtube.com/watch?v=EI_SnEnGfX0</link>
             <description><![CDATA[Dans cette vidéo, je réalise un projet complet de Machine Learning avec Dataiku DSS. L'objectif : construire un modèle prédictif ...]]></description>
@@ -69,20 +53,12 @@
             <source>Clément LVL</source>
         </item>
         <item>
-            <title>SQL pour débutants : Maitrisez les base en moins d&amp;#39;un mois (LIVE)</title>
-            <link>https://www.youtube.com/watch?v=DngKcAFU3Kc</link>
+            <title>Maîtriser SQL en 1 heure sans prise de tête</title>
+            <link>https://www.youtube.com/watch?v=GVNc1ZrOoAs</link>
             <description><![CDATA[Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...]]></description>
-            <pubDate>Wed, 08 Apr 2026 07:53:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=DngKcAFU3Kc</guid>
+            <pubDate>Mon, 06 Apr 2026 13:00:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=GVNc1ZrOoAs</guid>
             <source>NKwaTech</source>
-        </item>
-        <item>
-            <title>« Consternant et exaspérant » : cinq grands éditeurs portent plainte contre Meta pour « violation de droits d’auteur »</title>
-            <link>https://www.challenges.fr/entreprise/tech-numerique/consternant-et-exasperant-cinq-grands-editeurs-portent-plainte-contre-meta-pour-violation-de-droits-dauteur_643267</link>
-            <description><![CDATA[Aux Etats-Unis, cinq grands éditeurs accusent Meta d’avoir pillé leurs livres, manuels et revues scientifiques pour entraîner son intelligence artificielle. Les plaignants insistent sur la responsabil...]]></description>
-            <pubDate>Thu, 07 May 2026 16:50:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.challenges.fr/entreprise/tech-numerique/consternant-et-exasperant-cinq-grands-editeurs-portent-plainte-contre-meta-pour-violation-de-droits-dauteur_643267</guid>
-            <source>Challenges</source>
         </item>
         <item>
             <title>Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)</title>
@@ -93,12 +69,28 @@
             <source>TechVantage FR</source>
         </item>
         <item>
-            <title>Questions et réponses d’entretien pour analyste de données</title>
-            <link>https://www.youtube.com/watch?v=Z5LsWFrltHU</link>
-            <description><![CDATA[Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...]]></description>
-            <pubDate>Sat, 11 Apr 2026 07:15:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z5LsWFrltHU</guid>
-            <source>Damal Consult Carrière TV- Français</source>
+            <title>SQL - Question bac NSI</title>
+            <link>https://www.youtube.com/watch?v=VLzCWa3nXrw</link>
+            <description><![CDATA[SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...]]></description>
+            <pubDate>Mon, 06 Apr 2026 08:26:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=VLzCWa3nXrw</guid>
+            <source>Célian</source>
+        </item>
+        <item>
+            <title>Pourquoi toutes les entreprises ont besoin de Data Science – Thibault Camara</title>
+            <link>https://www.youtube.com/watch?v=MGTY0HfU9Fc</link>
+            <description><![CDATA[Dans ce quatrième podcast, Ekué a eu le plaisir de discuter avec Thibault Camara qui est un expert en data science dans le ...]]></description>
+            <pubDate>Fri, 13 Mar 2026 22:15:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=MGTY0HfU9Fc</guid>
+            <source>Enogne School</source>
+        </item>
+        <item>
+            <title>End-to-End Supply Chain Analysis Project Using Python | Data Analyst Portfolio Project 2026</title>
+            <link>https://www.youtube.com/watch?v=Np65Lymn0ZI</link>
+            <description><![CDATA[Build an END-TO-END Supply Chain Analysis Project using Python perfect for Data Analyst and Data Scientist. In this complete ...]]></description>
+            <pubDate>Fri, 17 Apr 2026 11:30:30 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Np65Lymn0ZI</guid>
+            <source>Tech Classes</source>
         </item>
         <item>
             <title>SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025</title>
@@ -115,6 +107,14 @@
             <pubDate>Sun, 15 Mar 2026 12:46:46 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=dL3fQRR4Ywc</guid>
             <source>Compétences BI | Maîtrisez les outils de demain</source>
+        </item>
+        <item>
+            <title>Data Analytics Full Course 2026 | Learn Data Analytics For Free | Intellipaat</title>
+            <link>https://www.youtube.com/watch?v=jjHVEFK8fiQ</link>
+            <description><![CDATA[In this video, we bring you a complete roadmap to becoming a data analyst with our Data Analytics Full Course 2026. Starting ...]]></description>
+            <pubDate>Tue, 17 Mar 2026 18:57:53 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=jjHVEFK8fiQ</guid>
+            <source>Intellipaat</source>
         </item>
         <item>
             <title>Dashboard Power BI Impressionnant | Tutoriel Débutant</title>
@@ -155,22 +155,6 @@
             <pubDate>Thu, 02 Apr 2026 16:30:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=SqzUaKJb384</guid>
             <source>Morpheus Formation | Excel, Power BI, Sheets</source>
-        </item>
-        <item>
-            <title>Biais de la recherche médicale : l'Afrique absente des essais cliniques</title>
-            <link>https://theconversation.com/biais-de-la-recherche-medicale-lafrique-absente-des-essais-cliniques-282184</link>
-            <description><![CDATA[Alors que l'Afrique représente environ 25 % de la charge mondiale de morbidité, ses populations sont largement absentes des essais cliniques randomisés.]]></description>
-            <pubDate>Thu, 07 May 2026 13:42:34 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/biais-de-la-recherche-medicale-lafrique-absente-des-essais-cliniques-282184</guid>
-            <source>The Conversation Africa</source>
-        </item>
-        <item>
-            <title>Advaita Bio lance iSCanGuide™ : analyse unifiée de la transcriptomique unicellulaire et spatiale, reposant sur une infrastructure optimisée par GPU</title>
-            <link>https://www.prnewswire.com/news-releases/advaita-bio-lance-iscanguide--analyse-unifiee-de-la-transcriptomique-unicellulaire-et-spatiale-reposant-sur-une-infrastructure-optimisee-par-gpu-302765906.html</link>
-            <description><![CDATA[La plateforme optimisée par GPU unifie les flux de travail fragmentés, réduisant des semaines d'analyse en quelques minutes. ANN ARBOR, Michigan, 7 mai 2026 /PRNewswire/ -- Advaita Bio a annoncé aujou...]]></description>
-            <pubDate>Thu, 07 May 2026 15:52:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/advaita-bio-lance-iscanguide--analyse-unifiee-de-la-transcriptomique-unicellulaire-et-spatiale-reposant-sur-une-infrastructure-optimisee-par-gpu-302765906.html</guid>
-            <source>PRNewswire</source>
         </item>
     </channel>
 </rss>

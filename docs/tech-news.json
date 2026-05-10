@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-09T09:23:58.092735",
+  "lastUpdate": "2026-05-10T09:41:05.348572",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -12,18 +12,6 @@
       "isYouTube": true,
       "videoId": "k2rifQzyqtA",
       "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
-    },
-    {
-      "title": "Colossus aujourd’hui, orbital compute demain : la vision long terme d’ELON MUSK",
-      "description": "Si la compétition dans l’intelligence artificielle est la plupart du temps vue à travers le prisme des modèles : taille des LLM, qualité des agents, performances des benchmarks ou sophistication des c...",
-      "url": "https://www.frenchweb.fr/colossus-aujourdhui-orbital-compute-demain-la-vision-long-terme-delon-musk/461633",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-05-07T04:14:40Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Les 3 types d&#39;apprentissage IA qui changent tout",
@@ -50,18 +38,6 @@
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
     },
     {
-      "title": "A l’Alpha School, l’intelligence artificielle a remplacé les enseignants",
-      "description": "Bienvenue à l’Alpha School à San Francisco, une école privée hors de prix et affichant des ambitions élitistes, où les enseignements sont délivrés par une intelligence artificielle qui promet un appre...",
-      "url": "https://www.nouvelobs.com/economie/20260508.OBS114765/a-l-alpha-school-l-intelligence-artificielle-a-remplace-les-enseignants.html",
-      "source": "L'Obs",
-      "publishedAt": "2026-05-08T06:00:15Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)",
       "description": "Dans cette vidéo, je réalise un projet complet de Machine Learning avec Dataiku DSS. L'objectif : construire un modèle prédictif ...",
       "url": "https://www.youtube.com/watch?v=EI_SnEnGfX0",
@@ -86,28 +62,16 @@
       "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
     },
     {
-      "title": "SQL pour débutants : Maitrisez les base en moins d&#39;un mois (LIVE)",
+      "title": "Maîtriser SQL en 1 heure sans prise de tête",
       "description": "Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...",
-      "url": "https://www.youtube.com/watch?v=DngKcAFU3Kc",
+      "url": "https://www.youtube.com/watch?v=GVNc1ZrOoAs",
       "source": "NKwaTech",
-      "publishedAt": "2026-04-08T07:53:49Z",
+      "publishedAt": "2026-04-06T13:00:06Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "DngKcAFU3Kc",
-      "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
-    },
-    {
-      "title": "« Consternant et exaspérant » : cinq grands éditeurs portent plainte contre Meta pour « violation de droits d’auteur »",
-      "description": "Aux Etats-Unis, cinq grands éditeurs accusent Meta d’avoir pillé leurs livres, manuels et revues scientifiques pour entraîner son intelligence artificielle. Les plaignants insistent sur la responsabil...",
-      "url": "https://www.challenges.fr/entreprise/tech-numerique/consternant-et-exasperant-cinq-grands-editeurs-portent-plainte-contre-meta-pour-violation-de-droits-dauteur_643267",
-      "source": "Challenges",
-      "publishedAt": "2026-05-07T16:50:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "videoId": "GVNc1ZrOoAs",
+      "thumbnail": "https://i.ytimg.com/vi/GVNc1ZrOoAs/hqdefault.jpg"
     },
     {
       "title": "Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)",
@@ -122,16 +86,40 @@
       "thumbnail": "https://i.ytimg.com/vi/Vm-dZxN70kY/hqdefault.jpg"
     },
     {
-      "title": "Questions et réponses d’entretien pour analyste de données",
-      "description": "Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...",
-      "url": "https://www.youtube.com/watch?v=Z5LsWFrltHU",
-      "source": "Damal Consult Carrière TV- Français",
-      "publishedAt": "2026-04-11T07:15:03Z",
-      "category": "data",
+      "title": "SQL - Question bac NSI",
+      "description": "SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...",
+      "url": "https://www.youtube.com/watch?v=VLzCWa3nXrw",
+      "source": "Célian",
+      "publishedAt": "2026-04-06T08:26:26Z",
+      "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Z5LsWFrltHU",
-      "thumbnail": "https://i.ytimg.com/vi/Z5LsWFrltHU/hqdefault.jpg"
+      "videoId": "VLzCWa3nXrw",
+      "thumbnail": "https://i.ytimg.com/vi/VLzCWa3nXrw/hqdefault.jpg"
+    },
+    {
+      "title": "Pourquoi toutes les entreprises ont besoin de Data Science – Thibault Camara",
+      "description": "Dans ce quatrième podcast, Ekué a eu le plaisir de discuter avec Thibault Camara qui est un expert en data science dans le ...",
+      "url": "https://www.youtube.com/watch?v=MGTY0HfU9Fc",
+      "source": "Enogne School",
+      "publishedAt": "2026-03-13T22:15:02Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "MGTY0HfU9Fc",
+      "thumbnail": "https://i.ytimg.com/vi/MGTY0HfU9Fc/hqdefault.jpg"
+    },
+    {
+      "title": "End-to-End Supply Chain Analysis Project Using Python | Data Analyst Portfolio Project 2026",
+      "description": "Build an END-TO-END Supply Chain Analysis Project using Python perfect for Data Analyst and Data Scientist. In this complete ...",
+      "url": "https://www.youtube.com/watch?v=Np65Lymn0ZI",
+      "source": "Tech Classes",
+      "publishedAt": "2026-04-17T11:30:30Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Np65Lymn0ZI",
+      "thumbnail": "https://i.ytimg.com/vi/Np65Lymn0ZI/hqdefault.jpg"
     },
     {
       "title": "SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025",
@@ -156,6 +144,18 @@
       "isYouTube": true,
       "videoId": "dL3fQRR4Ywc",
       "thumbnail": "https://i.ytimg.com/vi/dL3fQRR4Ywc/hqdefault.jpg"
+    },
+    {
+      "title": "Data Analytics Full Course 2026 | Learn Data Analytics For Free | Intellipaat",
+      "description": "In this video, we bring you a complete roadmap to becoming a data analyst with our Data Analytics Full Course 2026. Starting ...",
+      "url": "https://www.youtube.com/watch?v=jjHVEFK8fiQ",
+      "source": "Intellipaat",
+      "publishedAt": "2026-03-17T18:57:53Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "jjHVEFK8fiQ",
+      "thumbnail": "https://i.ytimg.com/vi/jjHVEFK8fiQ/hqdefault.jpg"
     },
     {
       "title": "Dashboard Power BI Impressionnant | Tutoriel Débutant",
@@ -216,90 +216,6 @@
       "isYouTube": true,
       "videoId": "SqzUaKJb384",
       "thumbnail": "https://i.ytimg.com/vi/SqzUaKJb384/hqdefault.jpg"
-    },
-    {
-      "title": "Biais de la recherche médicale : l'Afrique absente des essais cliniques",
-      "description": "Alors que l'Afrique représente environ 25 % de la charge mondiale de morbidité, ses populations sont largement absentes des essais cliniques randomisés.",
-      "url": "https://theconversation.com/biais-de-la-recherche-medicale-lafrique-absente-des-essais-cliniques-282184",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-05-07T13:42:34Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Advaita Bio lance iSCanGuide™ : analyse unifiée de la transcriptomique unicellulaire et spatiale, reposant sur une infrastructure optimisée par GPU",
-      "description": "La plateforme optimisée par GPU unifie les flux de travail fragmentés, réduisant des semaines d'analyse en quelques minutes. ANN ARBOR, Michigan, 7 mai 2026 /PRNewswire/ -- Advaita Bio a annoncé aujou...",
-      "url": "https://www.prnewswire.com/news-releases/advaita-bio-lance-iscanguide--analyse-unifiee-de-la-transcriptomique-unicellulaire-et-spatiale-reposant-sur-une-infrastructure-optimisee-par-gpu-302765906.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-05-07T15:52:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L’explosion de l’IA propulse les dépenses cloud au-delà des 500 milliards de dollars annuels",
-      "description": "La croissance fulgurante de l’intelligence artificielle propulse les investissements dans le cloud à un niveau inédit, dépassant désormais un rythme annuel de 500 milliards de dollars et soulignant l’...",
-      "url": "https://www.begeek.fr/lexplosion-de-lia-propulse-les-depenses-cloud-au-dela-des-500-milliards-de-dollars-annuels-431929",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-05-08T06:00:03Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cette IA pourrait accélérer la découverte de médicaments grâce à des molécules jamais vues !",
-      "description": "Capable de générer des millions de molécules inédites tout en respectant les lois de la chimie, une nouvelle intelligence artificielle développée par des chercheurs espagnols pourrait accélérer la déc...",
-      "url": "https://www.futura-sciences.com/sante/actualites/biologie-cette-ia-pourrait-accelerer-decouverte-medicaments-grace-molecules-jamais-vues-134340/",
-      "source": "Futura",
-      "publishedAt": "2026-05-07T18:03:54Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comment l’océan pourrait alimenter vos applications IA à l’horizon 2027",
-      "description": "Des data centers au fond de l'océan, alimentés par les vagues et refroidis par la mer. Panthalassa lève 140 milliards de dollars pour transformer l'océan en infrastructure numérique mondiale.",
-      "url": "https://www.journaldugeek.com/2026/05/08/comment-locean-pourrait-alimenter-vos-applications-ia-a-lhorizon-2027/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-05-08T09:03:28Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le DJ IA de Spotify débarque enfin en France : comment l’activer",
-      "description": "Environ 3 ans après son lancement en bêta, Spotify se dote de la fonction DJ personnel en France. Propulsé par l'intelligence artificielle, il prend le contrôle de votre liste de...",
-      "url": "https://www.phonandroid.com/le-dj-ia-de-spotify-debarque-enfin-en-france-comment-lactiver.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-05-08T08:08:02Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Les AirPods avec caméra approchent de la production, en attente du nouveau Siri",
-      "description": "Depuis que les rumeurs s’affolent concernant les futurs projets liés à l’intelligence artificielle chez Apple, pas grand chose n’est sorti : pas de HomePad, pas d’écouteurs avec caméra intégrée, pas d...",
-      "url": "https://www.watchgeneration.fr/audio/2026/05/les-airpods-equipes-dune-camera-seraient-en-phase-finale-avant-la-production-nattendant-que-siri-pour-sortir-19641",
-      "source": "Watchgeneration.fr",
-      "publishedAt": "2026-05-07T19:40:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     }
   ]
 }
