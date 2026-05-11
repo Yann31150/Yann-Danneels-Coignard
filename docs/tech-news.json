@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-10T09:41:05.348572",
+  "lastUpdate": "2026-05-11T11:29:09.681625",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -50,28 +50,16 @@
       "thumbnail": "https://i.ytimg.com/vi/EI_SnEnGfX0/hqdefault.jpg"
     },
     {
-      "title": "Utiliser Claude avec Power BI : le hack ultime",
-      "description": "https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...",
-      "url": "https://www.youtube.com/watch?v=NFpt6GfkTg8",
-      "source": "Clément LVL",
-      "publishedAt": "2026-04-11T16:34:52Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "NFpt6GfkTg8",
-      "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
-    },
-    {
-      "title": "Maîtriser SQL en 1 heure sans prise de tête",
+      "title": "SQL pour débutants : Maitrisez les base en moins d&#39;un mois (LIVE)",
       "description": "Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...",
-      "url": "https://www.youtube.com/watch?v=GVNc1ZrOoAs",
+      "url": "https://www.youtube.com/watch?v=DngKcAFU3Kc",
       "source": "NKwaTech",
-      "publishedAt": "2026-04-06T13:00:06Z",
+      "publishedAt": "2026-04-08T07:53:49Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "GVNc1ZrOoAs",
-      "thumbnail": "https://i.ytimg.com/vi/GVNc1ZrOoAs/hqdefault.jpg"
+      "videoId": "DngKcAFU3Kc",
+      "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
     },
     {
       "title": "Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)",
@@ -110,16 +98,40 @@
       "thumbnail": "https://i.ytimg.com/vi/MGTY0HfU9Fc/hqdefault.jpg"
     },
     {
-      "title": "End-to-End Supply Chain Analysis Project Using Python | Data Analyst Portfolio Project 2026",
-      "description": "Build an END-TO-END Supply Chain Analysis Project using Python perfect for Data Analyst and Data Scientist. In this complete ...",
-      "url": "https://www.youtube.com/watch?v=Np65Lymn0ZI",
-      "source": "Tech Classes",
-      "publishedAt": "2026-04-17T11:30:30Z",
+      "title": "Tout Comprendre sur Claude IA en 22 Minutes",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=-50BGEYgMr4",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-03-22T17:00:00Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Np65Lymn0ZI",
-      "thumbnail": "https://i.ytimg.com/vi/Np65Lymn0ZI/hqdefault.jpg"
+      "videoId": "-50BGEYgMr4",
+      "thumbnail": "https://i.ytimg.com/vi/-50BGEYgMr4/hqdefault.jpg"
+    },
+    {
+      "title": "Comment Détecter du Contenu Générer par Intelligence Artificielle IA",
+      "description": "Dans cette vidéo, je te montre comment utiliser Hive AI Detector, l'un des outils les plus efficaces du moment pour détecter du ...",
+      "url": "https://www.youtube.com/watch?v=MWg_b4tANT4",
+      "source": "Benoit Dedieu",
+      "publishedAt": "2026-05-10T06:00:30Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "MWg_b4tANT4",
+      "thumbnail": "https://i.ytimg.com/vi/MWg_b4tANT4/hqdefault.jpg"
+    },
+    {
+      "title": "Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise",
+      "description": "00:00 - Introduction & présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...",
+      "url": "https://www.youtube.com/watch?v=ltlf84WBXeY",
+      "source": "Laurent MAGANTO",
+      "publishedAt": "2026-04-03T16:30:00Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "ltlf84WBXeY",
+      "thumbnail": "https://i.ytimg.com/vi/ltlf84WBXeY/hqdefault.jpg"
     },
     {
       "title": "SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025",
@@ -144,18 +156,6 @@
       "isYouTube": true,
       "videoId": "dL3fQRR4Ywc",
       "thumbnail": "https://i.ytimg.com/vi/dL3fQRR4Ywc/hqdefault.jpg"
-    },
-    {
-      "title": "Data Analytics Full Course 2026 | Learn Data Analytics For Free | Intellipaat",
-      "description": "In this video, we bring you a complete roadmap to becoming a data analyst with our Data Analytics Full Course 2026. Starting ...",
-      "url": "https://www.youtube.com/watch?v=jjHVEFK8fiQ",
-      "source": "Intellipaat",
-      "publishedAt": "2026-03-17T18:57:53Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "jjHVEFK8fiQ",
-      "thumbnail": "https://i.ytimg.com/vi/jjHVEFK8fiQ/hqdefault.jpg"
     },
     {
       "title": "Dashboard Power BI Impressionnant | Tutoriel Débutant",
@@ -216,6 +216,18 @@
       "isYouTube": true,
       "videoId": "SqzUaKJb384",
       "thumbnail": "https://i.ytimg.com/vi/SqzUaKJb384/hqdefault.jpg"
+    },
+    {
+      "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
+      "description": "Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...",
+      "url": "https://www.youtube.com/watch?v=9t1mXWkqj0g",
+      "source": "DataSet By d@ne",
+      "publishedAt": "2026-05-10T18:00:17Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "9t1mXWkqj0g",
+      "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     }
   ]
 }

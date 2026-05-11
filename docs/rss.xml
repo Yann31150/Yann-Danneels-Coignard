@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 10 May 2026 09:41:05 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 11:29:09 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -45,19 +45,11 @@
             <source>Mastering AI</source>
         </item>
         <item>
-            <title>Utiliser Claude avec Power BI : le hack ultime</title>
-            <link>https://www.youtube.com/watch?v=NFpt6GfkTg8</link>
-            <description><![CDATA[https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...]]></description>
-            <pubDate>Sat, 11 Apr 2026 16:34:52 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=NFpt6GfkTg8</guid>
-            <source>Clément LVL</source>
-        </item>
-        <item>
-            <title>Maîtriser SQL en 1 heure sans prise de tête</title>
-            <link>https://www.youtube.com/watch?v=GVNc1ZrOoAs</link>
+            <title>SQL pour débutants : Maitrisez les base en moins d&amp;#39;un mois (LIVE)</title>
+            <link>https://www.youtube.com/watch?v=DngKcAFU3Kc</link>
             <description><![CDATA[Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...]]></description>
-            <pubDate>Mon, 06 Apr 2026 13:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=GVNc1ZrOoAs</guid>
+            <pubDate>Wed, 08 Apr 2026 07:53:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=DngKcAFU3Kc</guid>
             <source>NKwaTech</source>
         </item>
         <item>
@@ -85,12 +77,28 @@
             <source>Enogne School</source>
         </item>
         <item>
-            <title>End-to-End Supply Chain Analysis Project Using Python | Data Analyst Portfolio Project 2026</title>
-            <link>https://www.youtube.com/watch?v=Np65Lymn0ZI</link>
-            <description><![CDATA[Build an END-TO-END Supply Chain Analysis Project using Python perfect for Data Analyst and Data Scientist. In this complete ...]]></description>
-            <pubDate>Fri, 17 Apr 2026 11:30:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Np65Lymn0ZI</guid>
-            <source>Tech Classes</source>
+            <title>Tout Comprendre sur Claude IA en 22 Minutes</title>
+            <link>https://www.youtube.com/watch?v=-50BGEYgMr4</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...]]></description>
+            <pubDate>Sun, 22 Mar 2026 17:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=-50BGEYgMr4</guid>
+            <source>Yassine Sdiri</source>
+        </item>
+        <item>
+            <title>Comment Détecter du Contenu Générer par Intelligence Artificielle IA</title>
+            <link>https://www.youtube.com/watch?v=MWg_b4tANT4</link>
+            <description><![CDATA[Dans cette vidéo, je te montre comment utiliser Hive AI Detector, l'un des outils les plus efficaces du moment pour détecter du ...]]></description>
+            <pubDate>Sun, 10 May 2026 06:00:30 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=MWg_b4tANT4</guid>
+            <source>Benoit Dedieu</source>
+        </item>
+        <item>
+            <title>Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise</title>
+            <link>https://www.youtube.com/watch?v=ltlf84WBXeY</link>
+            <description><![CDATA[00:00 - Introduction &amp; présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...]]></description>
+            <pubDate>Fri, 03 Apr 2026 16:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ltlf84WBXeY</guid>
+            <source>Laurent MAGANTO</source>
         </item>
         <item>
             <title>SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025</title>
@@ -107,14 +115,6 @@
             <pubDate>Sun, 15 Mar 2026 12:46:46 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=dL3fQRR4Ywc</guid>
             <source>Compétences BI | Maîtrisez les outils de demain</source>
-        </item>
-        <item>
-            <title>Data Analytics Full Course 2026 | Learn Data Analytics For Free | Intellipaat</title>
-            <link>https://www.youtube.com/watch?v=jjHVEFK8fiQ</link>
-            <description><![CDATA[In this video, we bring you a complete roadmap to becoming a data analyst with our Data Analytics Full Course 2026. Starting ...]]></description>
-            <pubDate>Tue, 17 Mar 2026 18:57:53 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=jjHVEFK8fiQ</guid>
-            <source>Intellipaat</source>
         </item>
         <item>
             <title>Dashboard Power BI Impressionnant | Tutoriel Débutant</title>
@@ -155,6 +155,14 @@
             <pubDate>Thu, 02 Apr 2026 16:30:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=SqzUaKJb384</guid>
             <source>Morpheus Formation | Excel, Power BI, Sheets</source>
+        </item>
+        <item>
+            <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>
+            <link>https://www.youtube.com/watch?v=9t1mXWkqj0g</link>
+            <description><![CDATA[Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...]]></description>
+            <pubDate>Sun, 10 May 2026 18:00:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=9t1mXWkqj0g</guid>
+            <source>DataSet By d@ne</source>
         </item>
     </channel>
 </rss>
