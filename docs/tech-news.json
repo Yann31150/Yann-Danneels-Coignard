@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-11T11:29:09.681625",
+  "lastUpdate": "2026-05-12T10:36:06.868136",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -26,6 +26,18 @@
       "thumbnail": "https://i.ytimg.com/vi/vS8H8somgEs/hqdefault.jpg"
     },
     {
+      "title": "Comment utiliser Gemini comme un pro (Tutoriel complet 2026) Rien à voir avec ChatGPT",
+      "description": "Diagnostic IA de 30 minutes dédié aux dirigeants et décideurs https://www.aelabsolution.com/appel L'E-Book \"Booster ta ...",
+      "url": "https://www.youtube.com/watch?v=2lWwlaOMMcQ",
+      "source": "Ludovic Nédélec",
+      "publishedAt": "2026-03-30T15:29:14Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "2lWwlaOMMcQ",
+      "thumbnail": "https://i.ytimg.com/vi/2lWwlaOMMcQ/hqdefault.jpg"
+    },
+    {
       "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
       "description": "Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...",
       "url": "https://www.youtube.com/watch?v=77IMWD4TWtg",
@@ -50,16 +62,16 @@
       "thumbnail": "https://i.ytimg.com/vi/EI_SnEnGfX0/hqdefault.jpg"
     },
     {
-      "title": "SQL pour débutants : Maitrisez les base en moins d&#39;un mois (LIVE)",
+      "title": "Maîtriser SQL en 1 heure sans prise de tête",
       "description": "Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...",
-      "url": "https://www.youtube.com/watch?v=DngKcAFU3Kc",
-      "source": "NKwaTech",
-      "publishedAt": "2026-04-08T07:53:49Z",
+      "url": "https://www.youtube.com/watch?v=GVNc1ZrOoAs",
+      "source": "Kelenix",
+      "publishedAt": "2026-04-06T13:00:06Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "DngKcAFU3Kc",
-      "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
+      "videoId": "GVNc1ZrOoAs",
+      "thumbnail": "https://i.ytimg.com/vi/GVNc1ZrOoAs/hqdefault.jpg"
     },
     {
       "title": "Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)",
@@ -98,28 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/MGTY0HfU9Fc/hqdefault.jpg"
     },
     {
-      "title": "Tout Comprendre sur Claude IA en 22 Minutes",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=-50BGEYgMr4",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2026-03-22T17:00:00Z",
+      "title": "IA SANS INTERNET &amp; GRATUITE ! Je teste Google Gemma 4 sur Mobile (Tuto complet) ✈️",
+      "description": "Découvrez dans ce tuto complet comment installer et utiliser Google Gemma 4 sur mobile, 100% gratuit et sans internet ! Grâce à ...",
+      "url": "https://www.youtube.com/watch?v=hh5m3dg8YD0",
+      "source": "Alpa14",
+      "publishedAt": "2026-05-10T11:46:23Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "-50BGEYgMr4",
-      "thumbnail": "https://i.ytimg.com/vi/-50BGEYgMr4/hqdefault.jpg"
-    },
-    {
-      "title": "Comment Détecter du Contenu Générer par Intelligence Artificielle IA",
-      "description": "Dans cette vidéo, je te montre comment utiliser Hive AI Detector, l'un des outils les plus efficaces du moment pour détecter du ...",
-      "url": "https://www.youtube.com/watch?v=MWg_b4tANT4",
-      "source": "Benoit Dedieu",
-      "publishedAt": "2026-05-10T06:00:30Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "MWg_b4tANT4",
-      "thumbnail": "https://i.ytimg.com/vi/MWg_b4tANT4/hqdefault.jpg"
+      "videoId": "hh5m3dg8YD0",
+      "thumbnail": "https://i.ytimg.com/vi/hh5m3dg8YD0/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise",
@@ -170,18 +170,6 @@
       "thumbnail": "https://i.ytimg.com/vi/86cmlVHp4cs/hqdefault.jpg"
     },
     {
-      "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
-      "description": "Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...",
-      "url": "https://www.youtube.com/watch?v=FL9r4dDKiIU",
-      "source": "Houssem Lahiani",
-      "publishedAt": "2026-04-19T20:17:51Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "FL9r4dDKiIU",
-      "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
-    },
-    {
       "title": "Comment créer un visuel carte KPI dans Power BI ! Afficher vos performances ! 🤩",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=VZJUEuu5LV8",
@@ -228,6 +216,18 @@
       "isYouTube": true,
       "videoId": "9t1mXWkqj0g",
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
+    },
+    {
+      "title": "Elle transforme la finance grâce à la Data Science – Natacha Njongwa Yepnga",
+      "description": "Découverte et partage d'expérience avec Natacha NJONGWA YEPNGA. LINKEDIN DE Natacha ...",
+      "url": "https://www.youtube.com/watch?v=ZNQg77H-K1k",
+      "source": "Enogne School",
+      "publishedAt": "2026-03-20T21:00:40Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "ZNQg77H-K1k",
+      "thumbnail": "https://i.ytimg.com/vi/ZNQg77H-K1k/hqdefault.jpg"
     }
   ]
 }
