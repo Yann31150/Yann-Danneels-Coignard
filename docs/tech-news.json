@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-12T10:36:06.868136",
+  "lastUpdate": "2026-05-13T10:33:44.246872",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -14,6 +14,18 @@
       "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
     },
     {
+      "title": "Comment l&#39;IA apprend-elle ? (Le Machine Learning expliqué simplement)",
+      "description": "Bonjour à tous et bienvenue dans cette nouvelle aventure au cœur de l'intelligence artificielle ! Dans cette vidéo, on brise les ...",
+      "url": "https://www.youtube.com/watch?v=W41BgkNkQ0g",
+      "source": "Vitamine IA",
+      "publishedAt": "2026-05-06T21:38:41Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "W41BgkNkQ0g",
+      "thumbnail": "https://i.ytimg.com/vi/W41BgkNkQ0g/hqdefault.jpg"
+    },
+    {
       "title": "Les 3 types d&#39;apprentissage IA qui changent tout",
       "description": "Comment une intelligence artificielle apprend-elle vraiment ? Dans ce deuxième épisode de notre série sur le Machine Learning, ...",
       "url": "https://www.youtube.com/watch?v=vS8H8somgEs",
@@ -24,18 +36,6 @@
       "isYouTube": true,
       "videoId": "vS8H8somgEs",
       "thumbnail": "https://i.ytimg.com/vi/vS8H8somgEs/hqdefault.jpg"
-    },
-    {
-      "title": "Comment utiliser Gemini comme un pro (Tutoriel complet 2026) Rien à voir avec ChatGPT",
-      "description": "Diagnostic IA de 30 minutes dédié aux dirigeants et décideurs https://www.aelabsolution.com/appel L'E-Book \"Booster ta ...",
-      "url": "https://www.youtube.com/watch?v=2lWwlaOMMcQ",
-      "source": "Ludovic Nédélec",
-      "publishedAt": "2026-03-30T15:29:14Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "2lWwlaOMMcQ",
-      "thumbnail": "https://i.ytimg.com/vi/2lWwlaOMMcQ/hqdefault.jpg"
     },
     {
       "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
@@ -74,16 +74,16 @@
       "thumbnail": "https://i.ytimg.com/vi/GVNc1ZrOoAs/hqdefault.jpg"
     },
     {
-      "title": "Comment connecter Microsoft SQL à N8N (Étape par Étape 2026)",
-      "description": "Nous expliquons comment connecter Microsoft SQL à N8N. Ce guide couvre la configuration des identifiants et l'exécution de ...",
-      "url": "https://www.youtube.com/watch?v=Vm-dZxN70kY",
-      "source": "TechVantage FR",
-      "publishedAt": "2026-03-14T20:01:02Z",
+      "title": "SQL pour débutants : Maitrisez les base en moins d&#39;un mois (LIVE)",
+      "description": "Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...",
+      "url": "https://www.youtube.com/watch?v=DngKcAFU3Kc",
+      "source": "Kelenix",
+      "publishedAt": "2026-04-08T07:53:49Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Vm-dZxN70kY",
-      "thumbnail": "https://i.ytimg.com/vi/Vm-dZxN70kY/hqdefault.jpg"
+      "videoId": "DngKcAFU3Kc",
+      "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
     },
     {
       "title": "SQL - Question bac NSI",
@@ -98,28 +98,28 @@
       "thumbnail": "https://i.ytimg.com/vi/VLzCWa3nXrw/hqdefault.jpg"
     },
     {
-      "title": "Pourquoi toutes les entreprises ont besoin de Data Science – Thibault Camara",
-      "description": "Dans ce quatrième podcast, Ekué a eu le plaisir de discuter avec Thibault Camara qui est un expert en data science dans le ...",
-      "url": "https://www.youtube.com/watch?v=MGTY0HfU9Fc",
-      "source": "Enogne School",
-      "publishedAt": "2026-03-13T22:15:02Z",
+      "title": "End-to-End Supply Chain Analysis Project Using Python | Data Analyst Portfolio Project 2026",
+      "description": "Build an END-TO-END Supply Chain Analysis Project using Python perfect for Data Analyst and Data Scientist. In this complete ...",
+      "url": "https://www.youtube.com/watch?v=Np65Lymn0ZI",
+      "source": "Tech Classes",
+      "publishedAt": "2026-04-17T11:30:30Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "MGTY0HfU9Fc",
-      "thumbnail": "https://i.ytimg.com/vi/MGTY0HfU9Fc/hqdefault.jpg"
+      "videoId": "Np65Lymn0ZI",
+      "thumbnail": "https://i.ytimg.com/vi/Np65Lymn0ZI/hqdefault.jpg"
     },
     {
-      "title": "IA SANS INTERNET &amp; GRATUITE ! Je teste Google Gemma 4 sur Mobile (Tuto complet) ✈️",
-      "description": "Découvrez dans ce tuto complet comment installer et utiliser Google Gemma 4 sur mobile, 100% gratuit et sans internet ! Grâce à ...",
-      "url": "https://www.youtube.com/watch?v=hh5m3dg8YD0",
-      "source": "Alpa14",
-      "publishedAt": "2026-05-10T11:46:23Z",
+      "title": "emlyon business school x Centrale Lyon - BSc in Data Science for Responsible Business",
+      "description": "00:00 Introduction 1:48 LE PITCH 3:04 LES ADMISSIONS 3:07 Comment postuler? 4:22 Quel type d'étudiant étais-tu?",
+      "url": "https://www.youtube.com/watch?v=5WwBqJAMlGo",
+      "source": "Campus Channel",
+      "publishedAt": "2026-03-30T09:00:04Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "hh5m3dg8YD0",
-      "thumbnail": "https://i.ytimg.com/vi/hh5m3dg8YD0/hqdefault.jpg"
+      "videoId": "5WwBqJAMlGo",
+      "thumbnail": "https://i.ytimg.com/vi/5WwBqJAMlGo/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise",
@@ -170,6 +170,18 @@
       "thumbnail": "https://i.ytimg.com/vi/86cmlVHp4cs/hqdefault.jpg"
     },
     {
+      "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
+      "description": "Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...",
+      "url": "https://www.youtube.com/watch?v=FL9r4dDKiIU",
+      "source": "Houssem Lahiani",
+      "publishedAt": "2026-04-19T20:17:51Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "FL9r4dDKiIU",
+      "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
+    },
+    {
       "title": "Comment créer un visuel carte KPI dans Power BI ! Afficher vos performances ! 🤩",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=VZJUEuu5LV8",
@@ -216,18 +228,6 @@
       "isYouTube": true,
       "videoId": "9t1mXWkqj0g",
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
-    },
-    {
-      "title": "Elle transforme la finance grâce à la Data Science – Natacha Njongwa Yepnga",
-      "description": "Découverte et partage d'expérience avec Natacha NJONGWA YEPNGA. LINKEDIN DE Natacha ...",
-      "url": "https://www.youtube.com/watch?v=ZNQg77H-K1k",
-      "source": "Enogne School",
-      "publishedAt": "2026-03-20T21:00:40Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ZNQg77H-K1k",
-      "thumbnail": "https://i.ytimg.com/vi/ZNQg77H-K1k/hqdefault.jpg"
     }
   ]
 }
