@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 13 May 2026 10:33:44 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 10:23:47 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,28 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>IA - réseau de neurones / Machine learning</title>
-            <link>https://www.youtube.com/watch?v=k2rifQzyqtA</link>
-            <description><![CDATA[ia #ai #machinelearning #réseaudeneurones #informatique #chatgpt #gemini #copilot Lien utilisé dans la vidéo ...]]></description>
-            <pubDate>Sat, 25 Apr 2026 19:16:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=k2rifQzyqtA</guid>
-            <source>Nicolasit</source>
+            <title>Intelligence artificielle à l’école : ne perdons pas la mémoire !</title>
+            <link>https://atlantico.fr/article/decryptage/intelligence-artificielle-a-lecole-ne-perdons-pas-la-memoire-julien-aubert</link>
+            <description><![CDATA[Le lancement de ChatGPT 3.5 en novembre 2022 a provoqué une onde de choc mondiale. L’irruption de l’intelligence artificielle générative est, depuis lors, considérée comme une rupture comparable à la ...]]></description>
+            <pubDate>Wed, 13 May 2026 09:39:00 -0000</pubDate>
+            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/intelligence-artificielle-a-lecole-ne-perdons-pas-la-memoire-julien-aubert</guid>
+            <source>Atlantico.fr</source>
         </item>
         <item>
-            <title>Comment l&amp;#39;IA apprend-elle ? (Le Machine Learning expliqué simplement)</title>
-            <link>https://www.youtube.com/watch?v=W41BgkNkQ0g</link>
-            <description><![CDATA[Bonjour à tous et bienvenue dans cette nouvelle aventure au cœur de l'intelligence artificielle ! Dans cette vidéo, on brise les ...]]></description>
-            <pubDate>Wed, 06 May 2026 21:38:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=W41BgkNkQ0g</guid>
-            <source>Vitamine IA</source>
+            <title>Cet homme raconte comment il a perdu sa femme, sa famille et ses amis: "ChatGPT a tout simplement ruiné ma vie"</title>
+            <link>https://www.lalibre.be/international/amerique/2026/05/13/cet-homme-raconte-comment-il-a-perdu-sa-femme-sa-famille-et-ses-amis-chatgpt-a-tout-simplement-ruine-ma-vie-4UI3AHATDVAQ3FRZOOTDZH35F4/</link>
+            <description><![CDATA[Aidé de ChatGPT, Tom Millar a élucidé tous les secrets de l'Univers, comme Einstein en rêvait, puis, conseillé par l'agent conversationnel dopé à l'intelligence artificielle, a espéré devenir pape, pe...]]></description>
+            <pubDate>Wed, 13 May 2026 06:24:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lalibre.be/international/amerique/2026/05/13/cet-homme-raconte-comment-il-a-perdu-sa-femme-sa-famille-et-ses-amis-chatgpt-a-tout-simplement-ruine-ma-vie-4UI3AHATDVAQ3FRZOOTDZH35F4/</guid>
+            <source>Lalibre.be</source>
+        </item>
+        <item>
+            <title>Apple publie ses travaux sur l’IA confidentielle et le machine learning « respectueux » de la vie privée</title>
+            <link>https://iphoneaddict.fr/post/news-428409-apple-publie-travaux-lia-confidentielle-machine-learning-respectueux-vie-privee</link>
+            <description><![CDATA[Une fois n’est pas coutume, Apple met en avant sa recherche sur l’intelligence artificielle privée. La firme de Cupertino a en effet publié quatre conférences vidéo et un récapitulatif scientifique is...]]></description>
+            <pubDate>Tue, 12 May 2026 12:20:42 -0000</pubDate>
+            <guid isPermaLink="true">https://iphoneaddict.fr/post/news-428409-apple-publie-travaux-lia-confidentielle-machine-learning-respectueux-vie-privee</guid>
+            <source>Iphoneaddict.fr</source>
         </item>
         <item>
             <title>Les 3 types d&amp;#39;apprentissage IA qui changent tout</title>
@@ -85,20 +93,12 @@
             <source>Tech Classes</source>
         </item>
         <item>
-            <title>emlyon business school x Centrale Lyon - BSc in Data Science for Responsible Business</title>
-            <link>https://www.youtube.com/watch?v=5WwBqJAMlGo</link>
-            <description><![CDATA[00:00 Introduction 1:48 LE PITCH 3:04 LES ADMISSIONS 3:07 Comment postuler? 4:22 Quel type d'étudiant étais-tu?]]></description>
-            <pubDate>Mon, 30 Mar 2026 09:00:04 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=5WwBqJAMlGo</guid>
-            <source>Campus Channel</source>
-        </item>
-        <item>
-            <title>Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise</title>
-            <link>https://www.youtube.com/watch?v=ltlf84WBXeY</link>
-            <description><![CDATA[00:00 - Introduction &amp; présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...]]></description>
-            <pubDate>Fri, 03 Apr 2026 16:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ltlf84WBXeY</guid>
-            <source>Laurent MAGANTO</source>
+            <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
+            <link>https://www.youtube.com/watch?v=rhE7Ab_sBTo</link>
+            <description><![CDATA[Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...]]></description>
+            <pubDate>Wed, 06 May 2026 02:55:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=rhE7Ab_sBTo</guid>
+            <source>Oscar Aksanti</source>
         </item>
         <item>
             <title>SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025</title>
@@ -163,6 +163,14 @@
             <pubDate>Sun, 10 May 2026 18:00:17 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=9t1mXWkqj0g</guid>
             <source>DataSet By d@ne</source>
+        </item>
+        <item>
+            <title>Cassandre Laurent (Agence wallonne du Numérique) : “On a arrêté de vouloir courir tous les lièvres à la fois”</title>
+            <link>https://www.lalibre.be/economie/digital/2026/05/13/cassandre-laurent-agence-wallonne-du-numerique-on-a-arrete-de-vouloir-courir-tous-les-lievres-a-la-fois-Z6KX2RAELJBILDLSZPE2P7EMMI/</link>
+            <description><![CDATA[Nommé à la tête de l’Agence wallonne du Numérique à la mi-2024, Cassandre Laurent dresse un premier bilan des chantiers en cours et à venir. Avec un accent mis sur l’IA, la cybersécurité et la valoris...]]></description>
+            <pubDate>Wed, 13 May 2026 07:27:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lalibre.be/economie/digital/2026/05/13/cassandre-laurent-agence-wallonne-du-numerique-on-a-arrete-de-vouloir-courir-tous-les-lievres-a-la-fois-Z6KX2RAELJBILDLSZPE2P7EMMI/</guid>
+            <source>Lalibre.be</source>
         </item>
     </channel>
 </rss>

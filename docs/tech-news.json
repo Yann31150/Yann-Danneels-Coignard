@@ -1,29 +1,41 @@
 {
-  "lastUpdate": "2026-05-13T10:33:44.246872",
+  "lastUpdate": "2026-05-14T10:23:47.491200",
   "articles": [
     {
-      "title": "IA - réseau de neurones / Machine learning",
-      "description": "ia #ai #machinelearning #réseaudeneurones #informatique #chatgpt #gemini #copilot Lien utilisé dans la vidéo ...",
-      "url": "https://www.youtube.com/watch?v=k2rifQzyqtA",
-      "source": "Nicolasit",
-      "publishedAt": "2026-04-25T19:16:18Z",
+      "title": "Intelligence artificielle à l’école : ne perdons pas la mémoire !",
+      "description": "Le lancement de ChatGPT 3.5 en novembre 2022 a provoqué une onde de choc mondiale. L’irruption de l’intelligence artificielle générative est, depuis lors, considérée comme une rupture comparable à la ...",
+      "url": "https://atlantico.fr/article/decryptage/intelligence-artificielle-a-lecole-ne-perdons-pas-la-memoire-julien-aubert",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-05-13T09:39:00Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "k2rifQzyqtA",
-      "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "Comment l&#39;IA apprend-elle ? (Le Machine Learning expliqué simplement)",
-      "description": "Bonjour à tous et bienvenue dans cette nouvelle aventure au cœur de l'intelligence artificielle ! Dans cette vidéo, on brise les ...",
-      "url": "https://www.youtube.com/watch?v=W41BgkNkQ0g",
-      "source": "Vitamine IA",
-      "publishedAt": "2026-05-06T21:38:41Z",
+      "title": "Cet homme raconte comment il a perdu sa femme, sa famille et ses amis: \"ChatGPT a tout simplement ruiné ma vie\"",
+      "description": "Aidé de ChatGPT, Tom Millar a élucidé tous les secrets de l'Univers, comme Einstein en rêvait, puis, conseillé par l'agent conversationnel dopé à l'intelligence artificielle, a espéré devenir pape, pe...",
+      "url": "https://www.lalibre.be/international/amerique/2026/05/13/cet-homme-raconte-comment-il-a-perdu-sa-femme-sa-famille-et-ses-amis-chatgpt-a-tout-simplement-ruine-ma-vie-4UI3AHATDVAQ3FRZOOTDZH35F4/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-05-13T06:24:49Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "W41BgkNkQ0g",
-      "thumbnail": "https://i.ytimg.com/vi/W41BgkNkQ0g/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple publie ses travaux sur l’IA confidentielle et le machine learning « respectueux » de la vie privée",
+      "description": "Une fois n’est pas coutume, Apple met en avant sa recherche sur l’intelligence artificielle privée. La firme de Cupertino a en effet publié quatre conférences vidéo et un récapitulatif scientifique is...",
+      "url": "https://iphoneaddict.fr/post/news-428409-apple-publie-travaux-lia-confidentielle-machine-learning-respectueux-vie-privee",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-05-12T12:20:42Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Les 3 types d&#39;apprentissage IA qui changent tout",
@@ -110,28 +122,16 @@
       "thumbnail": "https://i.ytimg.com/vi/Np65Lymn0ZI/hqdefault.jpg"
     },
     {
-      "title": "emlyon business school x Centrale Lyon - BSc in Data Science for Responsible Business",
-      "description": "00:00 Introduction 1:48 LE PITCH 3:04 LES ADMISSIONS 3:07 Comment postuler? 4:22 Quel type d'étudiant étais-tu?",
-      "url": "https://www.youtube.com/watch?v=5WwBqJAMlGo",
-      "source": "Campus Channel",
-      "publishedAt": "2026-03-30T09:00:04Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "5WwBqJAMlGo",
-      "thumbnail": "https://i.ytimg.com/vi/5WwBqJAMlGo/hqdefault.jpg"
-    },
-    {
-      "title": "Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise",
-      "description": "00:00 - Introduction & présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...",
-      "url": "https://www.youtube.com/watch?v=ltlf84WBXeY",
-      "source": "Laurent MAGANTO",
-      "publishedAt": "2026-04-03T16:30:00Z",
+      "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
+      "description": "Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...",
+      "url": "https://www.youtube.com/watch?v=rhE7Ab_sBTo",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-05-06T02:55:02Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "ltlf84WBXeY",
-      "thumbnail": "https://i.ytimg.com/vi/ltlf84WBXeY/hqdefault.jpg"
+      "videoId": "rhE7Ab_sBTo",
+      "thumbnail": "https://i.ytimg.com/vi/rhE7Ab_sBTo/hqdefault.jpg"
     },
     {
       "title": "SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025",
@@ -228,6 +228,78 @@
       "isYouTube": true,
       "videoId": "9t1mXWkqj0g",
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
+    },
+    {
+      "title": "Cassandre Laurent (Agence wallonne du Numérique) : “On a arrêté de vouloir courir tous les lièvres à la fois”",
+      "description": "Nommé à la tête de l’Agence wallonne du Numérique à la mi-2024, Cassandre Laurent dresse un premier bilan des chantiers en cours et à venir. Avec un accent mis sur l’IA, la cybersécurité et la valoris...",
+      "url": "https://www.lalibre.be/economie/digital/2026/05/13/cassandre-laurent-agence-wallonne-du-numerique-on-a-arrete-de-vouloir-courir-tous-les-lievres-a-la-fois-Z6KX2RAELJBILDLSZPE2P7EMMI/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-05-13T07:27:36Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Elon Musk contre Sam Altman : leur procès changera-t-il l’avenir de l’IA ?",
+      "description": "Sam Altman, le patron d’OpenAI, a témoigné, le mardi 12 mai, dans le cadre du procès que lui a intenté Elon Musk, qui avait fondé avec lui l’entreprise d’intelligence artificielle en 2015. L’affaire s...",
+      "url": "https://www.courrierinternational.com/article/justice-elon-musk-contre-sam-altman-leur-proces-changera-t-il-l-avenir-de-l-ia_243919",
+      "source": "Courrier International",
+      "publishedAt": "2026-05-13T10:22:22Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Googlebook : date de sortie, prix, constructeurs… Tout savoir sur les futurs rivaux des MacBook",
+      "description": "Avec les Googlebook, une toute nouvelle gamme d'ordinateurs premium taillée pour l'intelligence artificielle Gemini, Google s'attaque frontalement aux MacBook d'Apple et aux PC Windows. Voici tout ce ...",
+      "url": "https://www.numerama.com/tech/2252323-googlebook-date-de-sortie-prix-constructeurs-tout-savoir-sur-les-futurs-rivaux-des-macbook.html",
+      "source": "Numerama",
+      "publishedAt": "2026-05-13T09:54:43Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sony Xperia 1 VIII vs Xperia 1 VII : le grand saut technique ou une simple mise à jour ?",
+      "description": "Avec son Xperia 1 VIII, Sony opère une rupture visuelle attendue depuis des années tout en sacrifiant son zoom optique continu pour privilégier la qualité pure de l'image. Face au Xperia 1 VII qu'est-...",
+      "url": "https://www.frandroid.com/marques/sony/3097373_sony-xperia-1-viii-vs-xperia-1-vii-le-grand-saut-technique-ou-une-simple-mise-a-jour",
+      "source": "Frandroid",
+      "publishedAt": "2026-05-13T09:29:41Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Grève Samsung : l’IA et le prix de la RAM menacés par un « scénario catastrophe »",
+      "description": "Le 12 mai 2026, Samsung et un syndicat sud-coréen ont échoué à trouver un accord sur le partage des profits liés à l’essor de l’IA. Plus de 50 000 salariés menacent de lancer une grève susceptible de ...",
+      "url": "https://www.numerama.com/tech/2252375-greve-samsung-lia-et-le-prix-de-la-ram-menaces-par-un-scenario-catastrophe.html",
+      "source": "Numerama",
+      "publishedAt": "2026-05-13T09:51:56Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sony Xperia 1 VIII : la fin du télézoom optique au profit d’une meilleure qualité d’image ?",
+      "description": "S’il s’appuie sur la fiche technique de son prédécesseur, le Xperia 1 VIII s’en distingue en remplaçant le télézoom optique au profit d’une « simple » focale fixe couplée à un capteur de plus grande t...",
+      "url": "https://phototrend.fr/2026/05/sony-xperia-1-viii/",
+      "source": "Phototrend.fr",
+      "publishedAt": "2026-05-13T10:18:05Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }
