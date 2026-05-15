@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-05-14T10:23:47.491200",
+  "lastUpdate": "2026-05-15T10:29:19.130415",
   "articles": [
     {
-      "title": "Intelligence artificielle à l’école : ne perdons pas la mémoire !",
-      "description": "Le lancement de ChatGPT 3.5 en novembre 2022 a provoqué une onde de choc mondiale. L’irruption de l’intelligence artificielle générative est, depuis lors, considérée comme une rupture comparable à la ...",
-      "url": "https://atlantico.fr/article/decryptage/intelligence-artificielle-a-lecole-ne-perdons-pas-la-memoire-julien-aubert",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-05-13T09:39:00Z",
+      "title": "ChatGPT : OpenAI déploie un système d’alerte pour prévenir les drames",
+      "description": "ChatGPT renforce la sécurité de ses utilisateurs en introduisant une nouvelle fonctionnalité baptisée « Trusted Contacts ». Ce dispositif permet d’ajouter des contacts de confiance afin d’améliorer la...",
+      "url": "https://www.begeek.fr/chatgpt-openai-deploie-un-systeme-dalerte-pour-prevenir-les-drames-432183",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-05-14T08:00:48Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -14,28 +14,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Cet homme raconte comment il a perdu sa femme, sa famille et ses amis: \"ChatGPT a tout simplement ruiné ma vie\"",
-      "description": "Aidé de ChatGPT, Tom Millar a élucidé tous les secrets de l'Univers, comme Einstein en rêvait, puis, conseillé par l'agent conversationnel dopé à l'intelligence artificielle, a espéré devenir pape, pe...",
-      "url": "https://www.lalibre.be/international/amerique/2026/05/13/cet-homme-raconte-comment-il-a-perdu-sa-femme-sa-famille-et-ses-amis-chatgpt-a-tout-simplement-ruine-ma-vie-4UI3AHATDVAQ3FRZOOTDZH35F4/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-05-13T06:24:49Z",
+      "title": "Comment l&#39;IA apprend-elle ? (Le Machine Learning expliqué simplement)",
+      "description": "Bonjour à tous et bienvenue dans cette nouvelle aventure au cœur de l'intelligence artificielle ! Dans cette vidéo, on brise les ...",
+      "url": "https://www.youtube.com/watch?v=W41BgkNkQ0g",
+      "source": "Vitamine IA",
+      "publishedAt": "2026-05-06T21:38:41Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Apple publie ses travaux sur l’IA confidentielle et le machine learning « respectueux » de la vie privée",
-      "description": "Une fois n’est pas coutume, Apple met en avant sa recherche sur l’intelligence artificielle privée. La firme de Cupertino a en effet publié quatre conférences vidéo et un récapitulatif scientifique is...",
-      "url": "https://iphoneaddict.fr/post/news-428409-apple-publie-travaux-lia-confidentielle-machine-learning-respectueux-vie-privee",
-      "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-05-12T12:20:42Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "W41BgkNkQ0g",
+      "thumbnail": "https://i.ytimg.com/vi/W41BgkNkQ0g/hqdefault.jpg"
     },
     {
       "title": "Les 3 types d&#39;apprentissage IA qui changent tout",
@@ -48,6 +36,18 @@
       "isYouTube": true,
       "videoId": "vS8H8somgEs",
       "thumbnail": "https://i.ytimg.com/vi/vS8H8somgEs/hqdefault.jpg"
+    },
+    {
+      "title": "Vous pensez connaître Claude ? Attendez de voir ces 4 niveaux d’utilisation en entreprise",
+      "description": "Vous utilisez ChatGPT ou Gemini pour votre marketing digital et vous pensez avoir fait le tour des outils IA disponibles ? Attendez de voir ce que Claude a dans le ventre ! Derrière l’interface de cha...",
+      "url": "https://www.webmarketing-com.com/claude-4-niveaux-utilisation-entreprise",
+      "source": "Webmarketing-com.com",
+      "publishedAt": "2026-05-14T07:30:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
@@ -98,6 +98,18 @@
       "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
     },
     {
+      "title": "Aux États-Unis, une start-up va tester des mini data centers installés chez des particuliers",
+      "description": "Le développement de l’intelligence artificielle nécessite toujours plus de data centers, des infrastructures massives, coûteuses et contestées. Une start-up californienne a donc eu l'idée de concevoir...",
+      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-une-start-up-va-tester-des-mini-data-centers-installes-chez-des-particuliers_7973573.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-05-14T09:02:01Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "SQL - Question bac NSI",
       "description": "SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...",
       "url": "https://www.youtube.com/watch?v=VLzCWa3nXrw",
@@ -110,28 +122,28 @@
       "thumbnail": "https://i.ytimg.com/vi/VLzCWa3nXrw/hqdefault.jpg"
     },
     {
-      "title": "End-to-End Supply Chain Analysis Project Using Python | Data Analyst Portfolio Project 2026",
-      "description": "Build an END-TO-END Supply Chain Analysis Project using Python perfect for Data Analyst and Data Scientist. In this complete ...",
-      "url": "https://www.youtube.com/watch?v=Np65Lymn0ZI",
-      "source": "Tech Classes",
-      "publishedAt": "2026-04-17T11:30:30Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Np65Lymn0ZI",
-      "thumbnail": "https://i.ytimg.com/vi/Np65Lymn0ZI/hqdefault.jpg"
-    },
-    {
-      "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
-      "description": "Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...",
-      "url": "https://www.youtube.com/watch?v=rhE7Ab_sBTo",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-05-06T02:55:02Z",
+      "title": "Questions et réponses d’entretien pour analyste de données",
+      "description": "Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...",
+      "url": "https://www.youtube.com/watch?v=Z5LsWFrltHU",
+      "source": "Damal Consult Carrière TV- Français",
+      "publishedAt": "2026-04-11T07:15:03Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "rhE7Ab_sBTo",
-      "thumbnail": "https://i.ytimg.com/vi/rhE7Ab_sBTo/hqdefault.jpg"
+      "videoId": "Z5LsWFrltHU",
+      "thumbnail": "https://i.ytimg.com/vi/Z5LsWFrltHU/hqdefault.jpg"
+    },
+    {
+      "title": "Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise",
+      "description": "00:00 - Introduction & présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...",
+      "url": "https://www.youtube.com/watch?v=ltlf84WBXeY",
+      "source": "Laurent MAGANTO",
+      "publishedAt": "2026-04-03T16:30:00Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "ltlf84WBXeY",
+      "thumbnail": "https://i.ytimg.com/vi/ltlf84WBXeY/hqdefault.jpg"
     },
     {
       "title": "SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025",
@@ -144,18 +156,6 @@
       "isYouTube": true,
       "videoId": "10SDW2LoxX4",
       "thumbnail": "https://i.ytimg.com/vi/10SDW2LoxX4/hqdefault.jpg"
-    },
-    {
-      "title": "Tuto Power BI : Débuter en 2026",
-      "description": "Maîtrisez Power BI en 2026 : Le Guide Complet pour Débutants ! Vous voulez passer au niveau supérieur dans l'analyse de ...",
-      "url": "https://www.youtube.com/watch?v=dL3fQRR4Ywc",
-      "source": "Compétences BI | Maîtrisez les outils de demain",
-      "publishedAt": "2026-03-15T12:46:46Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "dL3fQRR4Ywc",
-      "thumbnail": "https://i.ytimg.com/vi/dL3fQRR4Ywc/hqdefault.jpg"
     },
     {
       "title": "Dashboard Power BI Impressionnant | Tutoriel Débutant",
@@ -206,6 +206,18 @@
       "thumbnail": "https://i.ytimg.com/vi/OAkGA2wCRN8/hqdefault.jpg"
     },
     {
+      "title": "Comment installer Power BI en 3 minutes ! ⏱️🤩",
+      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
+      "url": "https://www.youtube.com/watch?v=1uaJPZMHNho",
+      "source": "Morpheus Formation | Excel, Power BI, Sheets",
+      "publishedAt": "2026-03-27T17:15:00Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1uaJPZMHNho",
+      "thumbnail": "https://i.ytimg.com/vi/1uaJPZMHNho/hqdefault.jpg"
+    },
+    {
       "title": "Tutoriel Power BI 2026 : le guide complet pour les débutants  🚀",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=SqzUaKJb384",
@@ -230,23 +242,11 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "Cassandre Laurent (Agence wallonne du Numérique) : “On a arrêté de vouloir courir tous les lièvres à la fois”",
-      "description": "Nommé à la tête de l’Agence wallonne du Numérique à la mi-2024, Cassandre Laurent dresse un premier bilan des chantiers en cours et à venir. Avec un accent mis sur l’IA, la cybersécurité et la valoris...",
-      "url": "https://www.lalibre.be/economie/digital/2026/05/13/cassandre-laurent-agence-wallonne-du-numerique-on-a-arrete-de-vouloir-courir-tous-les-lievres-a-la-fois-Z6KX2RAELJBILDLSZPE2P7EMMI/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-05-13T07:27:36Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Elon Musk contre Sam Altman : leur procès changera-t-il l’avenir de l’IA ?",
-      "description": "Sam Altman, le patron d’OpenAI, a témoigné, le mardi 12 mai, dans le cadre du procès que lui a intenté Elon Musk, qui avait fondé avec lui l’entreprise d’intelligence artificielle en 2015. L’affaire s...",
-      "url": "https://www.courrierinternational.com/article/justice-elon-musk-contre-sam-altman-leur-proces-changera-t-il-l-avenir-de-l-ia_243919",
-      "source": "Courrier International",
-      "publishedAt": "2026-05-13T10:22:22Z",
+      "title": "Musk, Nvidia, Apple, Visa, Boeing... Pour sa visite en Chine, Donald Trump s'entoure du All-Star Game du business",
+      "description": "Donald Trump a débuté mardi sa visite d’État en Chine entouré des plus grands patrons américains. Commerce, intelligence artificielle, puces électroniques et rivalité stratégique avec Pékin sont au cœ...",
+      "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/musk-nvidia-apple-visa-boeing-pour-sa-visite-en-chine-donald-trump-s-entoure-du-all-star-game-du-business_7973558.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-05-14T05:54:46Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Googlebook : date de sortie, prix, constructeurs… Tout savoir sur les futurs rivaux des MacBook",
-      "description": "Avec les Googlebook, une toute nouvelle gamme d'ordinateurs premium taillée pour l'intelligence artificielle Gemini, Google s'attaque frontalement aux MacBook d'Apple et aux PC Windows. Voici tout ce ...",
-      "url": "https://www.numerama.com/tech/2252323-googlebook-date-de-sortie-prix-constructeurs-tout-savoir-sur-les-futurs-rivaux-des-macbook.html",
-      "source": "Numerama",
-      "publishedAt": "2026-05-13T09:54:43Z",
+      "title": "Wellcome lance le plus important prix mondial dédié à la science de la santé mentale",
+      "description": "Ce prix, en partenariat avec Nature, récompensera des avancées majeures en matière de science de la santé mentale. Il vise à accélérer la mise en application des connaissances, à influencer les politi...",
+      "url": "https://www.prnewswire.com/news-releases/wellcome-lance-le-plus-important-prix-mondial-dedie-a-la-science-de-la-sante-mentale-302770824.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-05-14T08:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Sony Xperia 1 VIII vs Xperia 1 VII : le grand saut technique ou une simple mise à jour ?",
-      "description": "Avec son Xperia 1 VIII, Sony opère une rupture visuelle attendue depuis des années tout en sacrifiant son zoom optique continu pour privilégier la qualité pure de l'image. Face au Xperia 1 VII qu'est-...",
-      "url": "https://www.frandroid.com/marques/sony/3097373_sony-xperia-1-viii-vs-xperia-1-vii-le-grand-saut-technique-ou-une-simple-mise-a-jour",
-      "source": "Frandroid",
-      "publishedAt": "2026-05-13T09:29:41Z",
+      "title": "Artmarket.com: T1 2026 en hausse, Manifeste Artprice by Artmarket : 22 règles pour un Marché de l'Art régulé et transparent à l'ère de l'IA",
+      "description": "Chiffre d'affaires en K€ compte sociaux 1T2026* 1T2025* Variation en % Internet global dont variation des produits constatés d'avance* 4108 3964 +3,63 Total CA 1 T2026 4108 3964 +3,63 (*) Comptes non ...",
+      "url": "https://www.prnewswire.com/news-releases/artmarketcom-t1-2026-en-hausse-manifeste-artprice-by-artmarket--22-regles-pour-un-marche-de-lart-regule-et-transparent-a-lere-de-lia-302771656.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-05-14T05:30:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Grève Samsung : l’IA et le prix de la RAM menacés par un « scénario catastrophe »",
-      "description": "Le 12 mai 2026, Samsung et un syndicat sud-coréen ont échoué à trouver un accord sur le partage des profits liés à l’essor de l’IA. Plus de 50 000 salariés menacent de lancer une grève susceptible de ...",
-      "url": "https://www.numerama.com/tech/2252375-greve-samsung-lia-et-le-prix-de-la-ram-menaces-par-un-scenario-catastrophe.html",
-      "source": "Numerama",
-      "publishedAt": "2026-05-13T09:51:56Z",
+      "title": "« La prise de vue réelle pourrait devenir une relique du passé » : au World AI Film Festival de Cannes, l’IA veut imposer son cinéma",
+      "description": "Moins chères et plus faciles à mettre œuvre, les alternatives proposées par l’IA touchent tous les métiers de la production audiovisuelle. Cannes leur consacre même un festival.",
+      "url": "https://www.challenges.fr/entreprise/culture/la-prise-de-vue-reelle-pourrait-devenir-une-relique-du-passe-au-world-ai-film-festival-de-cannes-lia-veut-imposer-son-cinema_643311",
+      "source": "Challenges",
+      "publishedAt": "2026-05-14T10:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Sony Xperia 1 VIII : la fin du télézoom optique au profit d’une meilleure qualité d’image ?",
-      "description": "S’il s’appuie sur la fiche technique de son prédécesseur, le Xperia 1 VIII s’en distingue en remplaçant le télézoom optique au profit d’une « simple » focale fixe couplée à un capteur de plus grande t...",
-      "url": "https://phototrend.fr/2026/05/sony-xperia-1-viii/",
-      "source": "Phototrend.fr",
-      "publishedAt": "2026-05-13T10:18:05Z",
+      "title": "NanoXplore annonce ses résultats pour T3-2026",
+      "description": "MONTRÉAL, 13 mai 2026 (GLOBE NEWSWIRE) -- NanoXplore Inc. (« NanoXplore » ou « la Société ») (TSX : GRA et OTCQX : NNXPF), chef de file mondial dans le domaine du graphène, a annoncé aujourd'hui ses r...",
+      "url": "https://www.globenewswire.com/news-release/2026/05/13/3294463/0/fr/NanoXplore-annonce-ses-r%C3%A9sultats-pour-T3-2026.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-05-13T20:30:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

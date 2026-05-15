@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 14 May 2026 10:23:47 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 10:29:19 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,28 +13,20 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Intelligence artificielle à l’école : ne perdons pas la mémoire !</title>
-            <link>https://atlantico.fr/article/decryptage/intelligence-artificielle-a-lecole-ne-perdons-pas-la-memoire-julien-aubert</link>
-            <description><![CDATA[Le lancement de ChatGPT 3.5 en novembre 2022 a provoqué une onde de choc mondiale. L’irruption de l’intelligence artificielle générative est, depuis lors, considérée comme une rupture comparable à la ...]]></description>
-            <pubDate>Wed, 13 May 2026 09:39:00 -0000</pubDate>
-            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/intelligence-artificielle-a-lecole-ne-perdons-pas-la-memoire-julien-aubert</guid>
-            <source>Atlantico.fr</source>
+            <title>ChatGPT : OpenAI déploie un système d’alerte pour prévenir les drames</title>
+            <link>https://www.begeek.fr/chatgpt-openai-deploie-un-systeme-dalerte-pour-prevenir-les-drames-432183</link>
+            <description><![CDATA[ChatGPT renforce la sécurité de ses utilisateurs en introduisant une nouvelle fonctionnalité baptisée « Trusted Contacts ». Ce dispositif permet d’ajouter des contacts de confiance afin d’améliorer la...]]></description>
+            <pubDate>Thu, 14 May 2026 08:00:48 -0000</pubDate>
+            <guid isPermaLink="true">https://www.begeek.fr/chatgpt-openai-deploie-un-systeme-dalerte-pour-prevenir-les-drames-432183</guid>
+            <source>Begeek.fr</source>
         </item>
         <item>
-            <title>Cet homme raconte comment il a perdu sa femme, sa famille et ses amis: "ChatGPT a tout simplement ruiné ma vie"</title>
-            <link>https://www.lalibre.be/international/amerique/2026/05/13/cet-homme-raconte-comment-il-a-perdu-sa-femme-sa-famille-et-ses-amis-chatgpt-a-tout-simplement-ruine-ma-vie-4UI3AHATDVAQ3FRZOOTDZH35F4/</link>
-            <description><![CDATA[Aidé de ChatGPT, Tom Millar a élucidé tous les secrets de l'Univers, comme Einstein en rêvait, puis, conseillé par l'agent conversationnel dopé à l'intelligence artificielle, a espéré devenir pape, pe...]]></description>
-            <pubDate>Wed, 13 May 2026 06:24:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lalibre.be/international/amerique/2026/05/13/cet-homme-raconte-comment-il-a-perdu-sa-femme-sa-famille-et-ses-amis-chatgpt-a-tout-simplement-ruine-ma-vie-4UI3AHATDVAQ3FRZOOTDZH35F4/</guid>
-            <source>Lalibre.be</source>
-        </item>
-        <item>
-            <title>Apple publie ses travaux sur l’IA confidentielle et le machine learning « respectueux » de la vie privée</title>
-            <link>https://iphoneaddict.fr/post/news-428409-apple-publie-travaux-lia-confidentielle-machine-learning-respectueux-vie-privee</link>
-            <description><![CDATA[Une fois n’est pas coutume, Apple met en avant sa recherche sur l’intelligence artificielle privée. La firme de Cupertino a en effet publié quatre conférences vidéo et un récapitulatif scientifique is...]]></description>
-            <pubDate>Tue, 12 May 2026 12:20:42 -0000</pubDate>
-            <guid isPermaLink="true">https://iphoneaddict.fr/post/news-428409-apple-publie-travaux-lia-confidentielle-machine-learning-respectueux-vie-privee</guid>
-            <source>Iphoneaddict.fr</source>
+            <title>Comment l&amp;#39;IA apprend-elle ? (Le Machine Learning expliqué simplement)</title>
+            <link>https://www.youtube.com/watch?v=W41BgkNkQ0g</link>
+            <description><![CDATA[Bonjour à tous et bienvenue dans cette nouvelle aventure au cœur de l'intelligence artificielle ! Dans cette vidéo, on brise les ...]]></description>
+            <pubDate>Wed, 06 May 2026 21:38:41 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=W41BgkNkQ0g</guid>
+            <source>Vitamine IA</source>
         </item>
         <item>
             <title>Les 3 types d&amp;#39;apprentissage IA qui changent tout</title>
@@ -43,6 +35,14 @@
             <pubDate>Thu, 07 May 2026 10:47:03 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=vS8H8somgEs</guid>
             <source>Vitamine IA</source>
+        </item>
+        <item>
+            <title>Vous pensez connaître Claude ? Attendez de voir ces 4 niveaux d’utilisation en entreprise</title>
+            <link>https://www.webmarketing-com.com/claude-4-niveaux-utilisation-entreprise</link>
+            <description><![CDATA[Vous utilisez ChatGPT ou Gemini pour votre marketing digital et vous pensez avoir fait le tour des outils IA disponibles ? Attendez de voir ce que Claude a dans le ventre ! Derrière l’interface de cha...]]></description>
+            <pubDate>Thu, 14 May 2026 07:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.webmarketing-com.com/claude-4-niveaux-utilisation-entreprise</guid>
+            <source>Webmarketing-com.com</source>
         </item>
         <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
@@ -77,6 +77,14 @@
             <source>Kelenix</source>
         </item>
         <item>
+            <title>Aux États-Unis, une start-up va tester des mini data centers installés chez des particuliers</title>
+            <link>https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-une-start-up-va-tester-des-mini-data-centers-installes-chez-des-particuliers_7973573.html</link>
+            <description><![CDATA[Le développement de l’intelligence artificielle nécessite toujours plus de data centers, des infrastructures massives, coûteuses et contestées. Une start-up californienne a donc eu l'idée de concevoir...]]></description>
+            <pubDate>Thu, 14 May 2026 09:02:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-une-start-up-va-tester-des-mini-data-centers-installes-chez-des-particuliers_7973573.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
             <title>SQL - Question bac NSI</title>
             <link>https://www.youtube.com/watch?v=VLzCWa3nXrw</link>
             <description><![CDATA[SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...]]></description>
@@ -85,20 +93,20 @@
             <source>Célian</source>
         </item>
         <item>
-            <title>End-to-End Supply Chain Analysis Project Using Python | Data Analyst Portfolio Project 2026</title>
-            <link>https://www.youtube.com/watch?v=Np65Lymn0ZI</link>
-            <description><![CDATA[Build an END-TO-END Supply Chain Analysis Project using Python perfect for Data Analyst and Data Scientist. In this complete ...]]></description>
-            <pubDate>Fri, 17 Apr 2026 11:30:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Np65Lymn0ZI</guid>
-            <source>Tech Classes</source>
+            <title>Questions et réponses d’entretien pour analyste de données</title>
+            <link>https://www.youtube.com/watch?v=Z5LsWFrltHU</link>
+            <description><![CDATA[Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...]]></description>
+            <pubDate>Sat, 11 Apr 2026 07:15:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z5LsWFrltHU</guid>
+            <source>Damal Consult Carrière TV- Français</source>
         </item>
         <item>
-            <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
-            <link>https://www.youtube.com/watch?v=rhE7Ab_sBTo</link>
-            <description><![CDATA[Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...]]></description>
-            <pubDate>Wed, 06 May 2026 02:55:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=rhE7Ab_sBTo</guid>
-            <source>Oscar Aksanti</source>
+            <title>Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise</title>
+            <link>https://www.youtube.com/watch?v=ltlf84WBXeY</link>
+            <description><![CDATA[00:00 - Introduction &amp; présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...]]></description>
+            <pubDate>Fri, 03 Apr 2026 16:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ltlf84WBXeY</guid>
+            <source>Laurent MAGANTO</source>
         </item>
         <item>
             <title>SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025</title>
@@ -107,14 +115,6 @@
             <pubDate>Sat, 04 Apr 2026 10:00:02 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=10SDW2LoxX4</guid>
             <source>Tchaps Tech</source>
-        </item>
-        <item>
-            <title>Tuto Power BI : Débuter en 2026</title>
-            <link>https://www.youtube.com/watch?v=dL3fQRR4Ywc</link>
-            <description><![CDATA[Maîtrisez Power BI en 2026 : Le Guide Complet pour Débutants ! Vous voulez passer au niveau supérieur dans l'analyse de ...]]></description>
-            <pubDate>Sun, 15 Mar 2026 12:46:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=dL3fQRR4Ywc</guid>
-            <source>Compétences BI | Maîtrisez les outils de demain</source>
         </item>
         <item>
             <title>Dashboard Power BI Impressionnant | Tutoriel Débutant</title>
@@ -149,6 +149,14 @@
             <source>J.A DATATECH CONSULTING</source>
         </item>
         <item>
+            <title>Comment installer Power BI en 3 minutes ! ⏱️🤩</title>
+            <link>https://www.youtube.com/watch?v=1uaJPZMHNho</link>
+            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
+            <pubDate>Fri, 27 Mar 2026 17:15:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1uaJPZMHNho</guid>
+            <source>Morpheus Formation | Excel, Power BI, Sheets</source>
+        </item>
+        <item>
             <title>Tutoriel Power BI 2026 : le guide complet pour les débutants  🚀</title>
             <link>https://www.youtube.com/watch?v=SqzUaKJb384</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
@@ -163,14 +171,6 @@
             <pubDate>Sun, 10 May 2026 18:00:17 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=9t1mXWkqj0g</guid>
             <source>DataSet By d@ne</source>
-        </item>
-        <item>
-            <title>Cassandre Laurent (Agence wallonne du Numérique) : “On a arrêté de vouloir courir tous les lièvres à la fois”</title>
-            <link>https://www.lalibre.be/economie/digital/2026/05/13/cassandre-laurent-agence-wallonne-du-numerique-on-a-arrete-de-vouloir-courir-tous-les-lievres-a-la-fois-Z6KX2RAELJBILDLSZPE2P7EMMI/</link>
-            <description><![CDATA[Nommé à la tête de l’Agence wallonne du Numérique à la mi-2024, Cassandre Laurent dresse un premier bilan des chantiers en cours et à venir. Avec un accent mis sur l’IA, la cybersécurité et la valoris...]]></description>
-            <pubDate>Wed, 13 May 2026 07:27:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lalibre.be/economie/digital/2026/05/13/cassandre-laurent-agence-wallonne-du-numerique-on-a-arrete-de-vouloir-courir-tous-les-lievres-a-la-fois-Z6KX2RAELJBILDLSZPE2P7EMMI/</guid>
-            <source>Lalibre.be</source>
         </item>
     </channel>
 </rss>
