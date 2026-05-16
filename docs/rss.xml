@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 15 May 2026 10:29:19 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 09:44:50 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,36 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>ChatGPT : OpenAI déploie un système d’alerte pour prévenir les drames</title>
-            <link>https://www.begeek.fr/chatgpt-openai-deploie-un-systeme-dalerte-pour-prevenir-les-drames-432183</link>
-            <description><![CDATA[ChatGPT renforce la sécurité de ses utilisateurs en introduisant une nouvelle fonctionnalité baptisée « Trusted Contacts ». Ce dispositif permet d’ajouter des contacts de confiance afin d’améliorer la...]]></description>
-            <pubDate>Thu, 14 May 2026 08:00:48 -0000</pubDate>
-            <guid isPermaLink="true">https://www.begeek.fr/chatgpt-openai-deploie-un-systeme-dalerte-pour-prevenir-les-drames-432183</guid>
-            <source>Begeek.fr</source>
-        </item>
-        <item>
-            <title>Comment l&amp;#39;IA apprend-elle ? (Le Machine Learning expliqué simplement)</title>
-            <link>https://www.youtube.com/watch?v=W41BgkNkQ0g</link>
-            <description><![CDATA[Bonjour à tous et bienvenue dans cette nouvelle aventure au cœur de l'intelligence artificielle ! Dans cette vidéo, on brise les ...]]></description>
-            <pubDate>Wed, 06 May 2026 21:38:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=W41BgkNkQ0g</guid>
-            <source>Vitamine IA</source>
-        </item>
-        <item>
             <title>Les 3 types d&amp;#39;apprentissage IA qui changent tout</title>
             <link>https://www.youtube.com/watch?v=vS8H8somgEs</link>
             <description><![CDATA[Comment une intelligence artificielle apprend-elle vraiment ? Dans ce deuxième épisode de notre série sur le Machine Learning, ...]]></description>
             <pubDate>Thu, 07 May 2026 10:47:03 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=vS8H8somgEs</guid>
             <source>Vitamine IA</source>
-        </item>
-        <item>
-            <title>Vous pensez connaître Claude ? Attendez de voir ces 4 niveaux d’utilisation en entreprise</title>
-            <link>https://www.webmarketing-com.com/claude-4-niveaux-utilisation-entreprise</link>
-            <description><![CDATA[Vous utilisez ChatGPT ou Gemini pour votre marketing digital et vous pensez avoir fait le tour des outils IA disponibles ? Attendez de voir ce que Claude a dans le ventre ! Derrière l’interface de cha...]]></description>
-            <pubDate>Thu, 14 May 2026 07:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.webmarketing-com.com/claude-4-niveaux-utilisation-entreprise</guid>
-            <source>Webmarketing-com.com</source>
         </item>
         <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
@@ -69,22 +45,6 @@
             <source>Kelenix</source>
         </item>
         <item>
-            <title>SQL pour débutants : Maitrisez les base en moins d&amp;#39;un mois (LIVE)</title>
-            <link>https://www.youtube.com/watch?v=DngKcAFU3Kc</link>
-            <description><![CDATA[Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...]]></description>
-            <pubDate>Wed, 08 Apr 2026 07:53:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=DngKcAFU3Kc</guid>
-            <source>Kelenix</source>
-        </item>
-        <item>
-            <title>Aux États-Unis, une start-up va tester des mini data centers installés chez des particuliers</title>
-            <link>https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-une-start-up-va-tester-des-mini-data-centers-installes-chez-des-particuliers_7973573.html</link>
-            <description><![CDATA[Le développement de l’intelligence artificielle nécessite toujours plus de data centers, des infrastructures massives, coûteuses et contestées. Une start-up californienne a donc eu l'idée de concevoir...]]></description>
-            <pubDate>Thu, 14 May 2026 09:02:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-une-start-up-va-tester-des-mini-data-centers-installes-chez-des-particuliers_7973573.html</guid>
-            <source>Franceinfo.fr</source>
-        </item>
-        <item>
             <title>SQL - Question bac NSI</title>
             <link>https://www.youtube.com/watch?v=VLzCWa3nXrw</link>
             <description><![CDATA[SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...]]></description>
@@ -93,20 +53,60 @@
             <source>Célian</source>
         </item>
         <item>
+            <title>emlyon business school x Centrale Lyon - BSc in Data Science for Responsible Business</title>
+            <link>https://www.youtube.com/watch?v=5WwBqJAMlGo</link>
+            <description><![CDATA[00:00 Introduction 1:48 LE PITCH 3:04 LES ADMISSIONS 3:07 Comment postuler? 4:22 Quel type d'étudiant étais-tu?]]></description>
+            <pubDate>Mon, 30 Mar 2026 09:00:04 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=5WwBqJAMlGo</guid>
+            <source>Campus Channel</source>
+        </item>
+        <item>
+            <title>Tout Comprendre sur Claude IA en 22 Minutes</title>
+            <link>https://www.youtube.com/watch?v=-50BGEYgMr4</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...]]></description>
+            <pubDate>Sun, 22 Mar 2026 17:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=-50BGEYgMr4</guid>
+            <source>Yassine Sdiri</source>
+        </item>
+        <item>
+            <title>5 Astuces Secrètes sur Claude IA à Absolument Connaître en 2026</title>
+            <link>https://www.youtube.com/watch?v=w2JE7HUNJFU</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...]]></description>
+            <pubDate>Sun, 10 May 2026 15:00:38 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=w2JE7HUNJFU</guid>
+            <source>Yassine Sdiri</source>
+        </item>
+        <item>
+            <title>La Descente de Gradient EXPLIQUÉE SIMPLEMENT  | Machine Learning Facile</title>
+            <link>https://www.youtube.com/watch?v=oOYE4K1eqyc</link>
+            <description><![CDATA[Tu veux comprendre la descente de gradient simplement ? Dans cette vidéo, je vous explique l'un des concepts les plus ...]]></description>
+            <pubDate>Sun, 29 Mar 2026 13:12:10 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=oOYE4K1eqyc</guid>
+            <source>Comprendre l'informatique</source>
+        </item>
+        <item>
+            <title>Comprendre la Régression Logistique Autrement  | Machine Learning</title>
+            <link>https://www.youtube.com/watch?v=PQs8UmNSf9E</link>
+            <description><![CDATA[Tu veux comprendre la régression logistique facilement sans te perdre dans les formules mathématiques ? Dans cette vidéo, je ...]]></description>
+            <pubDate>Tue, 28 Apr 2026 20:05:24 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=PQs8UmNSf9E</guid>
+            <source>Comprendre l'informatique</source>
+        </item>
+        <item>
+            <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
+            <link>https://www.youtube.com/watch?v=rhE7Ab_sBTo</link>
+            <description><![CDATA[Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...]]></description>
+            <pubDate>Wed, 06 May 2026 02:55:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=rhE7Ab_sBTo</guid>
+            <source>Oscar Aksanti</source>
+        </item>
+        <item>
             <title>Questions et réponses d’entretien pour analyste de données</title>
             <link>https://www.youtube.com/watch?v=Z5LsWFrltHU</link>
             <description><![CDATA[Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...]]></description>
             <pubDate>Sat, 11 Apr 2026 07:15:03 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Z5LsWFrltHU</guid>
             <source>Damal Consult Carrière TV- Français</source>
-        </item>
-        <item>
-            <title>Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise</title>
-            <link>https://www.youtube.com/watch?v=ltlf84WBXeY</link>
-            <description><![CDATA[00:00 - Introduction &amp; présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...]]></description>
-            <pubDate>Fri, 03 Apr 2026 16:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ltlf84WBXeY</guid>
-            <source>Laurent MAGANTO</source>
         </item>
         <item>
             <title>SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025</title>

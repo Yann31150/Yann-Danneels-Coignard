@@ -1,30 +1,6 @@
 {
-  "lastUpdate": "2026-05-15T10:29:19.130415",
+  "lastUpdate": "2026-05-16T09:44:50.736731",
   "articles": [
-    {
-      "title": "ChatGPT : OpenAI déploie un système d’alerte pour prévenir les drames",
-      "description": "ChatGPT renforce la sécurité de ses utilisateurs en introduisant une nouvelle fonctionnalité baptisée « Trusted Contacts ». Ce dispositif permet d’ajouter des contacts de confiance afin d’améliorer la...",
-      "url": "https://www.begeek.fr/chatgpt-openai-deploie-un-systeme-dalerte-pour-prevenir-les-drames-432183",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-05-14T08:00:48Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comment l&#39;IA apprend-elle ? (Le Machine Learning expliqué simplement)",
-      "description": "Bonjour à tous et bienvenue dans cette nouvelle aventure au cœur de l'intelligence artificielle ! Dans cette vidéo, on brise les ...",
-      "url": "https://www.youtube.com/watch?v=W41BgkNkQ0g",
-      "source": "Vitamine IA",
-      "publishedAt": "2026-05-06T21:38:41Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "W41BgkNkQ0g",
-      "thumbnail": "https://i.ytimg.com/vi/W41BgkNkQ0g/hqdefault.jpg"
-    },
     {
       "title": "Les 3 types d&#39;apprentissage IA qui changent tout",
       "description": "Comment une intelligence artificielle apprend-elle vraiment ? Dans ce deuxième épisode de notre série sur le Machine Learning, ...",
@@ -36,18 +12,6 @@
       "isYouTube": true,
       "videoId": "vS8H8somgEs",
       "thumbnail": "https://i.ytimg.com/vi/vS8H8somgEs/hqdefault.jpg"
-    },
-    {
-      "title": "Vous pensez connaître Claude ? Attendez de voir ces 4 niveaux d’utilisation en entreprise",
-      "description": "Vous utilisez ChatGPT ou Gemini pour votre marketing digital et vous pensez avoir fait le tour des outils IA disponibles ? Attendez de voir ce que Claude a dans le ventre ! Derrière l’interface de cha...",
-      "url": "https://www.webmarketing-com.com/claude-4-niveaux-utilisation-entreprise",
-      "source": "Webmarketing-com.com",
-      "publishedAt": "2026-05-14T07:30:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
@@ -86,30 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/GVNc1ZrOoAs/hqdefault.jpg"
     },
     {
-      "title": "SQL pour débutants : Maitrisez les base en moins d&#39;un mois (LIVE)",
-      "description": "Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...",
-      "url": "https://www.youtube.com/watch?v=DngKcAFU3Kc",
-      "source": "Kelenix",
-      "publishedAt": "2026-04-08T07:53:49Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "DngKcAFU3Kc",
-      "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
-    },
-    {
-      "title": "Aux États-Unis, une start-up va tester des mini data centers installés chez des particuliers",
-      "description": "Le développement de l’intelligence artificielle nécessite toujours plus de data centers, des infrastructures massives, coûteuses et contestées. Une start-up californienne a donc eu l'idée de concevoir...",
-      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-une-start-up-va-tester-des-mini-data-centers-installes-chez-des-particuliers_7973573.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-05-14T09:02:01Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "SQL - Question bac NSI",
       "description": "SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...",
       "url": "https://www.youtube.com/watch?v=VLzCWa3nXrw",
@@ -122,6 +62,78 @@
       "thumbnail": "https://i.ytimg.com/vi/VLzCWa3nXrw/hqdefault.jpg"
     },
     {
+      "title": "emlyon business school x Centrale Lyon - BSc in Data Science for Responsible Business",
+      "description": "00:00 Introduction 1:48 LE PITCH 3:04 LES ADMISSIONS 3:07 Comment postuler? 4:22 Quel type d'étudiant étais-tu?",
+      "url": "https://www.youtube.com/watch?v=5WwBqJAMlGo",
+      "source": "Campus Channel",
+      "publishedAt": "2026-03-30T09:00:04Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "5WwBqJAMlGo",
+      "thumbnail": "https://i.ytimg.com/vi/5WwBqJAMlGo/hqdefault.jpg"
+    },
+    {
+      "title": "Tout Comprendre sur Claude IA en 22 Minutes",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=-50BGEYgMr4",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-03-22T17:00:00Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "-50BGEYgMr4",
+      "thumbnail": "https://i.ytimg.com/vi/-50BGEYgMr4/hqdefault.jpg"
+    },
+    {
+      "title": "5 Astuces Secrètes sur Claude IA à Absolument Connaître en 2026",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-05-10T15:00:38Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "w2JE7HUNJFU",
+      "thumbnail": "https://i.ytimg.com/vi/w2JE7HUNJFU/hqdefault.jpg"
+    },
+    {
+      "title": "La Descente de Gradient EXPLIQUÉE SIMPLEMENT  | Machine Learning Facile",
+      "description": "Tu veux comprendre la descente de gradient simplement ? Dans cette vidéo, je vous explique l'un des concepts les plus ...",
+      "url": "https://www.youtube.com/watch?v=oOYE4K1eqyc",
+      "source": "Comprendre l'informatique",
+      "publishedAt": "2026-03-29T13:12:10Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "oOYE4K1eqyc",
+      "thumbnail": "https://i.ytimg.com/vi/oOYE4K1eqyc/hqdefault.jpg"
+    },
+    {
+      "title": "Comprendre la Régression Logistique Autrement  | Machine Learning",
+      "description": "Tu veux comprendre la régression logistique facilement sans te perdre dans les formules mathématiques ? Dans cette vidéo, je ...",
+      "url": "https://www.youtube.com/watch?v=PQs8UmNSf9E",
+      "source": "Comprendre l'informatique",
+      "publishedAt": "2026-04-28T20:05:24Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "PQs8UmNSf9E",
+      "thumbnail": "https://i.ytimg.com/vi/PQs8UmNSf9E/hqdefault.jpg"
+    },
+    {
+      "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
+      "description": "Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...",
+      "url": "https://www.youtube.com/watch?v=rhE7Ab_sBTo",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-05-06T02:55:02Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "rhE7Ab_sBTo",
+      "thumbnail": "https://i.ytimg.com/vi/rhE7Ab_sBTo/hqdefault.jpg"
+    },
+    {
       "title": "Questions et réponses d’entretien pour analyste de données",
       "description": "Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...",
       "url": "https://www.youtube.com/watch?v=Z5LsWFrltHU",
@@ -132,18 +144,6 @@
       "isYouTube": true,
       "videoId": "Z5LsWFrltHU",
       "thumbnail": "https://i.ytimg.com/vi/Z5LsWFrltHU/hqdefault.jpg"
-    },
-    {
-      "title": "Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise",
-      "description": "00:00 - Introduction & présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...",
-      "url": "https://www.youtube.com/watch?v=ltlf84WBXeY",
-      "source": "Laurent MAGANTO",
-      "publishedAt": "2026-04-03T16:30:00Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ltlf84WBXeY",
-      "thumbnail": "https://i.ytimg.com/vi/ltlf84WBXeY/hqdefault.jpg"
     },
     {
       "title": "SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025",
@@ -240,66 +240,6 @@
       "isYouTube": true,
       "videoId": "9t1mXWkqj0g",
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
-    },
-    {
-      "title": "Musk, Nvidia, Apple, Visa, Boeing... Pour sa visite en Chine, Donald Trump s'entoure du All-Star Game du business",
-      "description": "Donald Trump a débuté mardi sa visite d’État en Chine entouré des plus grands patrons américains. Commerce, intelligence artificielle, puces électroniques et rivalité stratégique avec Pékin sont au cœ...",
-      "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/musk-nvidia-apple-visa-boeing-pour-sa-visite-en-chine-donald-trump-s-entoure-du-all-star-game-du-business_7973558.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-05-14T05:54:46Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Wellcome lance le plus important prix mondial dédié à la science de la santé mentale",
-      "description": "Ce prix, en partenariat avec Nature, récompensera des avancées majeures en matière de science de la santé mentale. Il vise à accélérer la mise en application des connaissances, à influencer les politi...",
-      "url": "https://www.prnewswire.com/news-releases/wellcome-lance-le-plus-important-prix-mondial-dedie-a-la-science-de-la-sante-mentale-302770824.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-05-14T08:00:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Artmarket.com: T1 2026 en hausse, Manifeste Artprice by Artmarket : 22 règles pour un Marché de l'Art régulé et transparent à l'ère de l'IA",
-      "description": "Chiffre d'affaires en K€ compte sociaux 1T2026* 1T2025* Variation en % Internet global dont variation des produits constatés d'avance* 4108 3964 +3,63 Total CA 1 T2026 4108 3964 +3,63 (*) Comptes non ...",
-      "url": "https://www.prnewswire.com/news-releases/artmarketcom-t1-2026-en-hausse-manifeste-artprice-by-artmarket--22-regles-pour-un-marche-de-lart-regule-et-transparent-a-lere-de-lia-302771656.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-05-14T05:30:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "« La prise de vue réelle pourrait devenir une relique du passé » : au World AI Film Festival de Cannes, l’IA veut imposer son cinéma",
-      "description": "Moins chères et plus faciles à mettre œuvre, les alternatives proposées par l’IA touchent tous les métiers de la production audiovisuelle. Cannes leur consacre même un festival.",
-      "url": "https://www.challenges.fr/entreprise/culture/la-prise-de-vue-reelle-pourrait-devenir-une-relique-du-passe-au-world-ai-film-festival-de-cannes-lia-veut-imposer-son-cinema_643311",
-      "source": "Challenges",
-      "publishedAt": "2026-05-14T10:00:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "NanoXplore annonce ses résultats pour T3-2026",
-      "description": "MONTRÉAL, 13 mai 2026 (GLOBE NEWSWIRE) -- NanoXplore Inc. (« NanoXplore » ou « la Société ») (TSX : GRA et OTCQX : NNXPF), chef de file mondial dans le domaine du graphène, a annoncé aujourd'hui ses r...",
-      "url": "https://www.globenewswire.com/news-release/2026/05/13/3294463/0/fr/NanoXplore-annonce-ses-r%C3%A9sultats-pour-T3-2026.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-05-13T20:30:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     }
   ]
 }
