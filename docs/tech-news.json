@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-17T09:50:32.780282",
+  "lastUpdate": "2026-05-18T11:47:54.102615",
   "articles": [
     {
       "title": "Les 3 types d&#39;apprentissage IA qui changent tout",
@@ -62,6 +62,18 @@
       "thumbnail": "https://i.ytimg.com/vi/VLzCWa3nXrw/hqdefault.jpg"
     },
     {
+      "title": "End-to-End Supply Chain Analysis Project Using Python | Data Analyst Portfolio Project 2026",
+      "description": "Build an END-TO-END Supply Chain Analysis Project using Python perfect for Data Analyst and Data Scientist. In this complete ...",
+      "url": "https://www.youtube.com/watch?v=Np65Lymn0ZI",
+      "source": "Tech Classes",
+      "publishedAt": "2026-04-17T11:30:30Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Np65Lymn0ZI",
+      "thumbnail": "https://i.ytimg.com/vi/Np65Lymn0ZI/hqdefault.jpg"
+    },
+    {
       "title": "emlyon business school x Centrale Lyon - BSc in Data Science for Responsible Business",
       "description": "00:00 Introduction 1:48 LE PITCH 3:04 LES ADMISSIONS 3:07 Comment postuler? 4:22 Quel type d'étudiant étais-tu?",
       "url": "https://www.youtube.com/watch?v=5WwBqJAMlGo",
@@ -86,7 +98,7 @@
       "thumbnail": "https://i.ytimg.com/vi/-50BGEYgMr4/hqdefault.jpg"
     },
     {
-      "title": "5 Astuces Secrètes sur Claude IA à Absolument Connaître en 2026",
+      "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
       "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...",
       "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
       "source": "Yassine Sdiri",
@@ -110,16 +122,16 @@
       "thumbnail": "https://i.ytimg.com/vi/oOYE4K1eqyc/hqdefault.jpg"
     },
     {
-      "title": "Comprendre la Régression Logistique Autrement  | Machine Learning",
-      "description": "Tu veux comprendre la régression logistique facilement sans te perdre dans les formules mathématiques ? Dans cette vidéo, je ...",
-      "url": "https://www.youtube.com/watch?v=PQs8UmNSf9E",
-      "source": "Comprendre l'informatique",
-      "publishedAt": "2026-04-28T20:05:24Z",
-      "category": "ai",
+      "title": "👉 Analyse de données Python : Pandas + NumPy + Matplotlib (Projet complet)",
+      "description": "Dans cette vidéo, tu vas apprendre à analyser des données avec Python en utilisant trois bibliothèques puissantes : pandas, ...",
+      "url": "https://www.youtube.com/watch?v=6DyBw0IcShA",
+      "source": "Rasen Tech ",
+      "publishedAt": "2026-05-01T18:01:54Z",
+      "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "PQs8UmNSf9E",
-      "thumbnail": "https://i.ytimg.com/vi/PQs8UmNSf9E/hqdefault.jpg"
+      "videoId": "6DyBw0IcShA",
+      "thumbnail": "https://i.ytimg.com/vi/6DyBw0IcShA/hqdefault.jpg"
     },
     {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
@@ -132,18 +144,6 @@
       "isYouTube": true,
       "videoId": "rhE7Ab_sBTo",
       "thumbnail": "https://i.ytimg.com/vi/rhE7Ab_sBTo/hqdefault.jpg"
-    },
-    {
-      "title": "Questions et réponses d’entretien pour analyste de données",
-      "description": "Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...",
-      "url": "https://www.youtube.com/watch?v=Z5LsWFrltHU",
-      "source": "Damal Consult Carrière TV- Français",
-      "publishedAt": "2026-04-11T07:15:03Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Z5LsWFrltHU",
-      "thumbnail": "https://i.ytimg.com/vi/Z5LsWFrltHU/hqdefault.jpg"
     },
     {
       "title": "SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025",
