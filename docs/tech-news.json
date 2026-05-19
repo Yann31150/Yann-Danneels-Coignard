@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-05-18T11:47:54.102615",
+  "lastUpdate": "2026-05-19T11:25:24.020833",
   "articles": [
+    {
+      "title": "ChatGPT, Claude, Gemini : Top 10 des meilleures applis d&#39;IA gratuites en 2026",
+      "description": "ChatGPT, Claude, Gemini : laquelle est vraiment la meilleure IA sur iPhone et Android ? Chaque modèle a sa spécialité et dans ...",
+      "url": "https://www.youtube.com/watch?v=2C1rvFFditA",
+      "source": "Jeanviet",
+      "publishedAt": "2026-05-18T16:00:02Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "2C1rvFFditA",
+      "thumbnail": "https://i.ytimg.com/vi/2C1rvFFditA/hqdefault.jpg"
+    },
     {
       "title": "Les 3 types d&#39;apprentissage IA qui changent tout",
       "description": "Comment une intelligence artificielle apprend-elle vraiment ? Dans ce deuxième épisode de notre série sur le Machine Learning, ...",
@@ -60,18 +72,6 @@
       "isYouTube": true,
       "videoId": "VLzCWa3nXrw",
       "thumbnail": "https://i.ytimg.com/vi/VLzCWa3nXrw/hqdefault.jpg"
-    },
-    {
-      "title": "End-to-End Supply Chain Analysis Project Using Python | Data Analyst Portfolio Project 2026",
-      "description": "Build an END-TO-END Supply Chain Analysis Project using Python perfect for Data Analyst and Data Scientist. In this complete ...",
-      "url": "https://www.youtube.com/watch?v=Np65Lymn0ZI",
-      "source": "Tech Classes",
-      "publishedAt": "2026-04-17T11:30:30Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Np65Lymn0ZI",
-      "thumbnail": "https://i.ytimg.com/vi/Np65Lymn0ZI/hqdefault.jpg"
     },
     {
       "title": "emlyon business school x Centrale Lyon - BSc in Data Science for Responsible Business",
@@ -146,6 +146,18 @@
       "thumbnail": "https://i.ytimg.com/vi/rhE7Ab_sBTo/hqdefault.jpg"
     },
     {
+      "title": "Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise",
+      "description": "00:00 - Introduction & présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...",
+      "url": "https://www.youtube.com/watch?v=ltlf84WBXeY",
+      "source": "Laurent MAGANTO",
+      "publishedAt": "2026-04-03T16:30:00Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "ltlf84WBXeY",
+      "thumbnail": "https://i.ytimg.com/vi/ltlf84WBXeY/hqdefault.jpg"
+    },
+    {
       "title": "SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025",
       "description": "Maîtrisez SQL Server Management Studio 22 (SSMS 22) dès aujourd'hui ! Dans ce tutoriel complet SQL Server, vous découvrirez ...",
       "url": "https://www.youtube.com/watch?v=10SDW2LoxX4",
@@ -180,18 +192,6 @@
       "isYouTube": true,
       "videoId": "FL9r4dDKiIU",
       "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
-    },
-    {
-      "title": "Comment créer un visuel carte KPI dans Power BI ! Afficher vos performances ! 🤩",
-      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
-      "url": "https://www.youtube.com/watch?v=VZJUEuu5LV8",
-      "source": "Morpheus Formation | Excel, Power BI, Sheets",
-      "publishedAt": "2026-03-19T17:00:00Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "VZJUEuu5LV8",
-      "thumbnail": "https://i.ytimg.com/vi/VZJUEuu5LV8/hqdefault.jpg"
     },
     {
       "title": "SQL pour Débutant : Cours Complet avec Exemples pratiques sur Snowflake",
