@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 19 May 2026 11:25:24 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 10:56:05 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,20 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>ChatGPT, Claude, Gemini : Top 10 des meilleures applis d&amp;#39;IA gratuites en 2026</title>
-            <link>https://www.youtube.com/watch?v=2C1rvFFditA</link>
-            <description><![CDATA[ChatGPT, Claude, Gemini : laquelle est vraiment la meilleure IA sur iPhone et Android ? Chaque modèle a sa spécialité et dans ...]]></description>
-            <pubDate>Mon, 18 May 2026 16:00:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2C1rvFFditA</guid>
-            <source>Jeanviet</source>
-        </item>
-        <item>
             <title>Les 3 types d&amp;#39;apprentissage IA qui changent tout</title>
             <link>https://www.youtube.com/watch?v=vS8H8somgEs</link>
             <description><![CDATA[Comment une intelligence artificielle apprend-elle vraiment ? Dans ce deuxième épisode de notre série sur le Machine Learning, ...]]></description>
             <pubDate>Thu, 07 May 2026 10:47:03 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=vS8H8somgEs</guid>
             <source>Vitamine IA</source>
+        </item>
+        <item>
+            <title>Le Machine Learning en Finance : Mythes vs Réalité</title>
+            <link>https://www.youtube.com/watch?v=cv3KzQShV_o</link>
+            <description><![CDATA[L'Intelligence Artificielle est-elle une boule de cristal magique capable de prédire les marchés financiers ? Dans cette première ...]]></description>
+            <pubDate>Thu, 09 Apr 2026 14:50:55 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=cv3KzQShV_o</guid>
+            <source>Quant Insights FR</source>
         </item>
         <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
@@ -37,6 +37,14 @@
             <source>Comprendre l'informatique</source>
         </item>
         <item>
+            <title>ChatGPT, Gemini, Claude... Quand des IA épousent des thèses marxistes et dénoncent leurs conditions de travail</title>
+            <link>https://www.franceinfo.fr/replay-radio/bientot-chez-vous/chatgpt-gemini-claude-quand-des-ia-epousent-des-theses-marxistes-et-denoncent-leurs-conditions-de-travail_7984028.html</link>
+            <description><![CDATA[Des économistes américains ont soumis des intelligences artificielles à des interactions hostiles et des consignes vagues. Résultat : plusieurs d'entre elles ont commencé à dénoncer un système "toxiqu...]]></description>
+            <pubDate>Tue, 19 May 2026 08:26:38 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/bientot-chez-vous/chatgpt-gemini-claude-quand-des-ia-epousent-des-theses-marxistes-et-denoncent-leurs-conditions-de-travail_7984028.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
             <title>⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)</title>
             <link>https://www.youtube.com/watch?v=EI_SnEnGfX0</link>
             <description><![CDATA[Dans cette vidéo, je réalise un projet complet de Machine Learning avec Dataiku DSS. L'objectif : construire un modèle prédictif ...]]></description>
@@ -45,12 +53,28 @@
             <source>Mastering AI</source>
         </item>
         <item>
-            <title>Maîtriser SQL en 1 heure sans prise de tête</title>
-            <link>https://www.youtube.com/watch?v=GVNc1ZrOoAs</link>
+            <title>VIOMBA REND L'INTELLIGENCE DE L'ATTENTION HUMAINE ACCESSIBLE À TOUS LES AGENTS D'INTELLIGENCE ARTIFICIELLE</title>
+            <link>https://www.prnewswire.com/news-releases/viomba-rend-lintelligence-de-lattention-humaine-accessible-a-tous-les-agents-dintelligence-artificielle-302775333.html</link>
+            <description><![CDATA[À l'issue d'une décennie de développement silencieux, Viomba rend l'intelligence de l'attention humaine de haute précision accessible à n'importe quel agent d'intelligence artificielle. Sans contrat d...]]></description>
+            <pubDate>Tue, 19 May 2026 08:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/viomba-rend-lintelligence-de-lattention-humaine-accessible-a-tous-les-agents-dintelligence-artificielle-302775333.html</guid>
+            <source>PRNewswire</source>
+        </item>
+        <item>
+            <title>SQL pour débutants : Maitrisez les base en moins d&amp;#39;un mois (LIVE)</title>
+            <link>https://www.youtube.com/watch?v=DngKcAFU3Kc</link>
             <description><![CDATA[Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...]]></description>
-            <pubDate>Mon, 06 Apr 2026 13:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=GVNc1ZrOoAs</guid>
+            <pubDate>Wed, 08 Apr 2026 07:53:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=DngKcAFU3Kc</guid>
             <source>Kelenix</source>
+        </item>
+        <item>
+            <title>Bitget IPO Prime investit dans le marché de l’IA avec OpenAI, une opportunité de 4 000 milliards de dollars</title>
+            <link>https://www.globenewswire.com/news-release/2026/05/19/3297298/0/fr/Bitget-IPO-Prime-investit-dans-le-march%C3%A9-de-l-IA-avec-OpenAI-une-opportunit%C3%A9-de-4-000-milliards-de-dollars.html</link>
+            <description><![CDATA[VICTORIA, Seychelles, 19 mai 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (ou UEX, de l’anglais Universal Exchange) au monde, a ajouté OpenAI (preOPAI) à sa plateforme IPO Prime,...]]></description>
+            <pubDate>Tue, 19 May 2026 10:51:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/05/19/3297298/0/fr/Bitget-IPO-Prime-investit-dans-le-march%C3%A9-de-l-IA-avec-OpenAI-une-opportunit%C3%A9-de-4-000-milliards-de-dollars.html</guid>
+            <source>GlobeNewswire</source>
         </item>
         <item>
             <title>SQL - Question bac NSI</title>
@@ -61,36 +85,12 @@
             <source>Célian</source>
         </item>
         <item>
-            <title>emlyon business school x Centrale Lyon - BSc in Data Science for Responsible Business</title>
-            <link>https://www.youtube.com/watch?v=5WwBqJAMlGo</link>
-            <description><![CDATA[00:00 Introduction 1:48 LE PITCH 3:04 LES ADMISSIONS 3:07 Comment postuler? 4:22 Quel type d'étudiant étais-tu?]]></description>
-            <pubDate>Mon, 30 Mar 2026 09:00:04 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=5WwBqJAMlGo</guid>
-            <source>Campus Channel</source>
-        </item>
-        <item>
-            <title>Tout Comprendre sur Claude IA en 22 Minutes</title>
-            <link>https://www.youtube.com/watch?v=-50BGEYgMr4</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...]]></description>
-            <pubDate>Sun, 22 Mar 2026 17:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=-50BGEYgMr4</guid>
-            <source>Yassine Sdiri</source>
-        </item>
-        <item>
-            <title>5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population</title>
-            <link>https://www.youtube.com/watch?v=w2JE7HUNJFU</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...]]></description>
-            <pubDate>Sun, 10 May 2026 15:00:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=w2JE7HUNJFU</guid>
-            <source>Yassine Sdiri</source>
-        </item>
-        <item>
-            <title>La Descente de Gradient EXPLIQUÉE SIMPLEMENT  | Machine Learning Facile</title>
-            <link>https://www.youtube.com/watch?v=oOYE4K1eqyc</link>
-            <description><![CDATA[Tu veux comprendre la descente de gradient simplement ? Dans cette vidéo, je vous explique l'un des concepts les plus ...]]></description>
-            <pubDate>Sun, 29 Mar 2026 13:12:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=oOYE4K1eqyc</guid>
-            <source>Comprendre l'informatique</source>
+            <title># 14 - Synchroniser votre base de données avec les migrations</title>
+            <link>https://www.youtube.com/watch?v=IXFP0bdMO3Y</link>
+            <description><![CDATA[Dans cette leçon, nous allons apprendre à faire le pont entre votre code PHP et votre base de données. Vous avez créé vos ...]]></description>
+            <pubDate>Mon, 20 Apr 2026 10:49:56 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=IXFP0bdMO3Y</guid>
+            <source>Nicely Dev - Apprendre à coder</source>
         </item>
         <item>
             <title>👉 Analyse de données Python : Pandas + NumPy + Matplotlib (Projet complet)</title>
@@ -141,14 +141,6 @@
             <source>Houssem Lahiani</source>
         </item>
         <item>
-            <title>SQL pour Débutant : Cours Complet avec Exemples pratiques sur Snowflake</title>
-            <link>https://www.youtube.com/watch?v=OAkGA2wCRN8</link>
-            <description><![CDATA[Apprendre SQL facilement (Cours complet débutant avec Snowflake) Vous voulez apprendre SQL rapidement ? Cette vidéo vous ...]]></description>
-            <pubDate>Fri, 20 Mar 2026 19:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=OAkGA2wCRN8</guid>
-            <source>J.A DATATECH CONSULTING</source>
-        </item>
-        <item>
             <title>Comment installer Power BI en 3 minutes ! ⏱️🤩</title>
             <link>https://www.youtube.com/watch?v=1uaJPZMHNho</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
@@ -163,6 +155,14 @@
             <pubDate>Thu, 02 Apr 2026 16:30:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=SqzUaKJb384</guid>
             <source>Morpheus Formation | Excel, Power BI, Sheets</source>
+        </item>
+        <item>
+            <title>ZTE présente ses produits au GSMA M360 LATAM 2026, favorisant la restructuration du modèle d'affaires du futur - l'intégration bidirectionnelle de l'IA et des réseaux</title>
+            <link>https://www.prnewswire.com/news-releases/zte-presente-ses-produits-au-gsma-m360-latam-2026-favorisant-la-restructuration-du-modele-daffaires-du-futur---lintegration-bidirectionnelle-de-lia-et-des-reseaux-302776064.html</link>
+            <description><![CDATA[ZTE propose une analyse approfondie de la valeur industrielle que représente l'intégration bidirectionnelle de l'IA et des réseaux ZTE continue de consolider sa présence en Amérique latine et de déplo...]]></description>
+            <pubDate>Tue, 19 May 2026 10:49:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/zte-presente-ses-produits-au-gsma-m360-latam-2026-favorisant-la-restructuration-du-modele-daffaires-du-futur---lintegration-bidirectionnelle-de-lia-et-des-reseaux-302776064.html</guid>
+            <source>PRNewswire</source>
         </item>
         <item>
             <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>

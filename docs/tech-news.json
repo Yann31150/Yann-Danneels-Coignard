@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-05-19T11:25:24.020833",
+  "lastUpdate": "2026-05-20T10:56:05.577284",
   "articles": [
-    {
-      "title": "ChatGPT, Claude, Gemini : Top 10 des meilleures applis d&#39;IA gratuites en 2026",
-      "description": "ChatGPT, Claude, Gemini : laquelle est vraiment la meilleure IA sur iPhone et Android ? Chaque modèle a sa spécialité et dans ...",
-      "url": "https://www.youtube.com/watch?v=2C1rvFFditA",
-      "source": "Jeanviet",
-      "publishedAt": "2026-05-18T16:00:02Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "2C1rvFFditA",
-      "thumbnail": "https://i.ytimg.com/vi/2C1rvFFditA/hqdefault.jpg"
-    },
     {
       "title": "Les 3 types d&#39;apprentissage IA qui changent tout",
       "description": "Comment une intelligence artificielle apprend-elle vraiment ? Dans ce deuxième épisode de notre série sur le Machine Learning, ...",
@@ -24,6 +12,18 @@
       "isYouTube": true,
       "videoId": "vS8H8somgEs",
       "thumbnail": "https://i.ytimg.com/vi/vS8H8somgEs/hqdefault.jpg"
+    },
+    {
+      "title": "Le Machine Learning en Finance : Mythes vs Réalité",
+      "description": "L'Intelligence Artificielle est-elle une boule de cristal magique capable de prédire les marchés financiers ? Dans cette première ...",
+      "url": "https://www.youtube.com/watch?v=cv3KzQShV_o",
+      "source": "Quant Insights FR",
+      "publishedAt": "2026-04-09T14:50:55Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "cv3KzQShV_o",
+      "thumbnail": "https://i.ytimg.com/vi/cv3KzQShV_o/hqdefault.jpg"
     },
     {
       "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
@@ -38,6 +38,18 @@
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
     },
     {
+      "title": "ChatGPT, Gemini, Claude... Quand des IA épousent des thèses marxistes et dénoncent leurs conditions de travail",
+      "description": "Des économistes américains ont soumis des intelligences artificielles à des interactions hostiles et des consignes vagues. Résultat : plusieurs d'entre elles ont commencé à dénoncer un système \"toxiqu...",
+      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/chatgpt-gemini-claude-quand-des-ia-epousent-des-theses-marxistes-et-denoncent-leurs-conditions-de-travail_7984028.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-05-19T08:26:38Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)",
       "description": "Dans cette vidéo, je réalise un projet complet de Machine Learning avec Dataiku DSS. L'objectif : construire un modèle prédictif ...",
       "url": "https://www.youtube.com/watch?v=EI_SnEnGfX0",
@@ -50,16 +62,40 @@
       "thumbnail": "https://i.ytimg.com/vi/EI_SnEnGfX0/hqdefault.jpg"
     },
     {
-      "title": "Maîtriser SQL en 1 heure sans prise de tête",
+      "title": "VIOMBA REND L'INTELLIGENCE DE L'ATTENTION HUMAINE ACCESSIBLE À TOUS LES AGENTS D'INTELLIGENCE ARTIFICIELLE",
+      "description": "À l'issue d'une décennie de développement silencieux, Viomba rend l'intelligence de l'attention humaine de haute précision accessible à n'importe quel agent d'intelligence artificielle. Sans contrat d...",
+      "url": "https://www.prnewswire.com/news-releases/viomba-rend-lintelligence-de-lattention-humaine-accessible-a-tous-les-agents-dintelligence-artificielle-302775333.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-05-19T08:00:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "SQL pour débutants : Maitrisez les base en moins d&#39;un mois (LIVE)",
       "description": "Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...",
-      "url": "https://www.youtube.com/watch?v=GVNc1ZrOoAs",
+      "url": "https://www.youtube.com/watch?v=DngKcAFU3Kc",
       "source": "Kelenix",
-      "publishedAt": "2026-04-06T13:00:06Z",
+      "publishedAt": "2026-04-08T07:53:49Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "GVNc1ZrOoAs",
-      "thumbnail": "https://i.ytimg.com/vi/GVNc1ZrOoAs/hqdefault.jpg"
+      "videoId": "DngKcAFU3Kc",
+      "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
+    },
+    {
+      "title": "Bitget IPO Prime investit dans le marché de l’IA avec OpenAI, une opportunité de 4 000 milliards de dollars",
+      "description": "VICTORIA, Seychelles, 19 mai 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (ou UEX, de l’anglais Universal Exchange) au monde, a ajouté OpenAI (preOPAI) à sa plateforme IPO Prime,...",
+      "url": "https://www.globenewswire.com/news-release/2026/05/19/3297298/0/fr/Bitget-IPO-Prime-investit-dans-le-march%C3%A9-de-l-IA-avec-OpenAI-une-opportunit%C3%A9-de-4-000-milliards-de-dollars.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-05-19T10:51:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "SQL - Question bac NSI",
@@ -74,52 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/VLzCWa3nXrw/hqdefault.jpg"
     },
     {
-      "title": "emlyon business school x Centrale Lyon - BSc in Data Science for Responsible Business",
-      "description": "00:00 Introduction 1:48 LE PITCH 3:04 LES ADMISSIONS 3:07 Comment postuler? 4:22 Quel type d'étudiant étais-tu?",
-      "url": "https://www.youtube.com/watch?v=5WwBqJAMlGo",
-      "source": "Campus Channel",
-      "publishedAt": "2026-03-30T09:00:04Z",
+      "title": "# 14 - Synchroniser votre base de données avec les migrations",
+      "description": "Dans cette leçon, nous allons apprendre à faire le pont entre votre code PHP et votre base de données. Vous avez créé vos ...",
+      "url": "https://www.youtube.com/watch?v=IXFP0bdMO3Y",
+      "source": "Nicely Dev - Apprendre à coder",
+      "publishedAt": "2026-04-20T10:49:56Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "5WwBqJAMlGo",
-      "thumbnail": "https://i.ytimg.com/vi/5WwBqJAMlGo/hqdefault.jpg"
-    },
-    {
-      "title": "Tout Comprendre sur Claude IA en 22 Minutes",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4bHZe4G Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=-50BGEYgMr4",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2026-03-22T17:00:00Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "-50BGEYgMr4",
-      "thumbnail": "https://i.ytimg.com/vi/-50BGEYgMr4/hqdefault.jpg"
-    },
-    {
-      "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2026-05-10T15:00:38Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "w2JE7HUNJFU",
-      "thumbnail": "https://i.ytimg.com/vi/w2JE7HUNJFU/hqdefault.jpg"
-    },
-    {
-      "title": "La Descente de Gradient EXPLIQUÉE SIMPLEMENT  | Machine Learning Facile",
-      "description": "Tu veux comprendre la descente de gradient simplement ? Dans cette vidéo, je vous explique l'un des concepts les plus ...",
-      "url": "https://www.youtube.com/watch?v=oOYE4K1eqyc",
-      "source": "Comprendre l'informatique",
-      "publishedAt": "2026-03-29T13:12:10Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "oOYE4K1eqyc",
-      "thumbnail": "https://i.ytimg.com/vi/oOYE4K1eqyc/hqdefault.jpg"
+      "videoId": "IXFP0bdMO3Y",
+      "thumbnail": "https://i.ytimg.com/vi/IXFP0bdMO3Y/hqdefault.jpg"
     },
     {
       "title": "👉 Analyse de données Python : Pandas + NumPy + Matplotlib (Projet complet)",
@@ -194,18 +194,6 @@
       "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
     },
     {
-      "title": "SQL pour Débutant : Cours Complet avec Exemples pratiques sur Snowflake",
-      "description": "Apprendre SQL facilement (Cours complet débutant avec Snowflake) Vous voulez apprendre SQL rapidement ? Cette vidéo vous ...",
-      "url": "https://www.youtube.com/watch?v=OAkGA2wCRN8",
-      "source": "J.A DATATECH CONSULTING",
-      "publishedAt": "2026-03-20T19:00:06Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "OAkGA2wCRN8",
-      "thumbnail": "https://i.ytimg.com/vi/OAkGA2wCRN8/hqdefault.jpg"
-    },
-    {
       "title": "Comment installer Power BI en 3 minutes ! ⏱️🤩",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=1uaJPZMHNho",
@@ -230,6 +218,18 @@
       "thumbnail": "https://i.ytimg.com/vi/SqzUaKJb384/hqdefault.jpg"
     },
     {
+      "title": "ZTE présente ses produits au GSMA M360 LATAM 2026, favorisant la restructuration du modèle d'affaires du futur - l'intégration bidirectionnelle de l'IA et des réseaux",
+      "description": "ZTE propose une analyse approfondie de la valeur industrielle que représente l'intégration bidirectionnelle de l'IA et des réseaux ZTE continue de consolider sa présence en Amérique latine et de déplo...",
+      "url": "https://www.prnewswire.com/news-releases/zte-presente-ses-produits-au-gsma-m360-latam-2026-favorisant-la-restructuration-du-modele-daffaires-du-futur---lintegration-bidirectionnelle-de-lia-et-des-reseaux-302776064.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-05-19T10:49:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
       "description": "Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...",
       "url": "https://www.youtube.com/watch?v=9t1mXWkqj0g",
@@ -240,6 +240,66 @@
       "isYouTube": true,
       "videoId": "9t1mXWkqj0g",
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
+    },
+    {
+      "title": "Après l’échec du plant-based, Tristan Maurel veut transformer UMIAMI en “Factory as a Service”",
+      "description": "La liquidation d’Umiami ne marque pas uniquement l’échec d’une FoodTech française du plant-based, mais révèle surtout la fin d’un cycle pour tout un modèle de financement de l’innovation alimentaire. ...",
+      "url": "https://www.frenchweb.fr/apres-lechec-du-plant-based-tristan-maurel-veut-transformer-umiami-en-factory-as-a-service/461880",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-05-19T10:44:04Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "WWDC 2026 : Demandez le programme complet",
+      "description": "Le 8 juin prochain, Apple ouvre sa semaine la plus attendue pour la partie logicielle, avec au menu iOS 27, un Siri entièrement repensé et de nouvelles fonctions d'intelligence artificielle. Voici le ...",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/apple-intelligence/3102963_wwdc-2026-demandez-le-programme-complet",
+      "source": "Frandroid",
+      "publishedAt": "2026-05-19T06:20:14Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Avec 3,8 millions d’euros, LEADBAY veut réinventer la sales intelligence avec ses modèles d’inférence",
+      "description": "Les outils de prospection commerciale ont construit leur efficacité sur un même socle : profils LinkedIn, offres d’emploi, trafic web, stack technologique, campagnes marketing ou activité sur les rése...",
+      "url": "https://www.frenchweb.fr/avec-38-millions-deuros-leadbay-veut-reinventer-la-sales-intelligence-avec-ses-modeles-dinference/461873",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-05-19T08:00:25Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google publie son guide officiel pour l'optimisation IA",
+      "description": "Google a mis en ligne un guide officiel, assez compact, que beaucoup attendaient pour expliquer comment optimiser son site pour ses fonctionnalités d'IA (obtention de résumés automatiques, mode \"IA\" d...",
+      "url": "https://www.alsacreations.com/actu/lire/1990-Google-publie-son-guide-officiel-pour-l039optimisation-IA.html",
+      "source": "Alsacreations.com",
+      "publishedAt": "2026-05-19T08:24:21Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Actualité : Google publie son guide officiel pour l'optimisation IA",
+      "description": "Google a mis en ligne un guide officiel, assez compact, que beaucoup attendaient pour expliquer comment optimiser son site pour ses fonctionnalités d'IA (obtention de résumés automatiques, mode \"IA\" d...",
+      "url": "https://www.alsacreations.com/actu/lire/1990-google-publie-guide-officiel-optimisation-ia-llm.html",
+      "source": "Alsacreations.com",
+      "publishedAt": "2026-05-19T09:07:04Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }
