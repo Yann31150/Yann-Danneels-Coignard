@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-05-21T11:30:06.273493",
+  "lastUpdate": "2026-05-22T10:54:33.272858",
   "articles": [
+    {
+      "title": "Gemma 4 : L&#39;IA gratuite de Google qui va remplacer ChatGPT",
+      "description": "Je t'accompagne à lancer un business IA Rentable https://bit.ly/3PIHsae Gemma 4 est la nouvelle génération de modèles d'IA ...",
+      "url": "https://www.youtube.com/watch?v=s2vervy8thc",
+      "source": "Julien Massey",
+      "publishedAt": "2026-04-05T13:50:54Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "s2vervy8thc",
+      "thumbnail": "https://i.ytimg.com/vi/s2vervy8thc/hqdefault.jpg"
+    },
     {
       "title": "Comment l&#39;IA apprend-elle ? (Le Machine Learning expliqué simplement)",
       "description": "Bonjour à tous et bienvenue dans cette nouvelle aventure au cœur de l'intelligence artificielle ! Dans cette vidéo, on brise les ...",
@@ -38,16 +50,16 @@
       "thumbnail": "https://i.ytimg.com/vi/cv3KzQShV_o/hqdefault.jpg"
     },
     {
-      "title": "OpenAI lance un outil pour identifier les images créées par ChatGPT",
-      "description": "OpenAI met en ligne un outil pour détecter si une image provient de ses modèles, en croisant les métadonnées C2PA et le filigrane invisible SynthID de Google. Voici comment y accéder, et l'utiliser.",
-      "url": "https://www.blogdumoderateur.com/openai-outil-identifier-images-chatgpt/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-05-20T09:48:32Z",
+      "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
+      "description": "Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...",
+      "url": "https://www.youtube.com/watch?v=77IMWD4TWtg",
+      "source": "Comprendre l'informatique",
+      "publishedAt": "2026-04-02T23:58:08Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "77IMWD4TWtg",
+      "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
     },
     {
       "title": "⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)",
@@ -86,18 +98,6 @@
       "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
     },
     {
-      "title": "Actualité : De l'iPhone au Vision Pro : Apple mise sur l'intelligence artificielle pour réinventer l'accessibilité avec iOS 27",
-      "description": "Apple a officialisé 5 nouveautés axées sur l’accessibilité à venir sur iPhone avec iOS 27, et elles tirent toutes parti d’Apple Intelligence.",
-      "url": "https://www.lesnumeriques.com/telephone-portable/de-l-iphone-au-vision-pro-apple-mise-sur-l-intelligence-artificielle-pour-reinventer-l-accessibilite-avec-ios-27-n256176.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-05-20T09:08:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "SQL - Question bac NSI",
       "description": "SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...",
       "url": "https://www.youtube.com/watch?v=VLzCWa3nXrw",
@@ -110,16 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/VLzCWa3nXrw/hqdefault.jpg"
     },
     {
-      "title": "Amii alimente la dynamique de l’IA au Canada alors que Upper Bound ouvre ses portes avec une croissance de 53 % et 11 000 participants internationaux",
-      "description": "L’événement canadien sur l’IA qui connaît la croissance la plus rapide affiche complet un mois à l’avance, confirmant ainsi la position d’Edmonton comme pôle mondial d’innovation et de sensibilisation...",
-      "url": "https://www.globenewswire.com/news-release/2026/05/19/3297242/0/fr/Amii-alimente-la-dynamique-de-l-IA-au-Canada-alors-que-Upper-Bound-ouvre-ses-portes-avec-une-croissance-de-53-et-11-000-participants-internationaux.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-05-19T10:00:00Z",
+      "title": "emlyon business school x Centrale Lyon - BSc in Data Science for Responsible Business",
+      "description": "00:00 Introduction 1:48 LE PITCH 3:04 LES ADMISSIONS 3:07 Comment postuler? 4:22 Quel type d'étudiant étais-tu?",
+      "url": "https://www.youtube.com/watch?v=5WwBqJAMlGo",
+      "source": "Campus Channel",
+      "publishedAt": "2026-03-30T09:00:04Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "5WwBqJAMlGo",
+      "thumbnail": "https://i.ytimg.com/vi/5WwBqJAMlGo/hqdefault.jpg"
     },
     {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
@@ -134,16 +134,16 @@
       "thumbnail": "https://i.ytimg.com/vi/rhE7Ab_sBTo/hqdefault.jpg"
     },
     {
-      "title": "Questions et réponses d’entretien pour analyste de données",
-      "description": "Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...",
-      "url": "https://www.youtube.com/watch?v=Z5LsWFrltHU",
-      "source": "Damal Consult Carrière TV- Français",
-      "publishedAt": "2026-04-11T07:15:03Z",
+      "title": "Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise",
+      "description": "00:00 - Introduction & présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...",
+      "url": "https://www.youtube.com/watch?v=ltlf84WBXeY",
+      "source": "Laurent MAGANTO",
+      "publishedAt": "2026-04-03T16:30:00Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Z5LsWFrltHU",
-      "thumbnail": "https://i.ytimg.com/vi/Z5LsWFrltHU/hqdefault.jpg"
+      "videoId": "ltlf84WBXeY",
+      "thumbnail": "https://i.ytimg.com/vi/ltlf84WBXeY/hqdefault.jpg"
     },
     {
       "title": "SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025",
@@ -158,6 +158,18 @@
       "thumbnail": "https://i.ytimg.com/vi/10SDW2LoxX4/hqdefault.jpg"
     },
     {
+      "title": "This is how you&#39;ll become a REMOTE Data Analyst in 2026 (FULL Guide)",
+      "description": "Try DataCamp Free: SQL Track: https://datacamp.pxf.io/E0KXDW Power BI Track: https://datacamp.pxf.io/7Xa2nr Remote data ...",
+      "url": "https://www.youtube.com/watch?v=q5MOKiZzSFA",
+      "source": "Matt Mike",
+      "publishedAt": "2026-03-23T14:05:49Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "q5MOKiZzSFA",
+      "thumbnail": "https://i.ytimg.com/vi/q5MOKiZzSFA/hqdefault.jpg"
+    },
+    {
       "title": "Dashboard Power BI Impressionnant | Tutoriel Débutant",
       "description": "Dans cette vidéo, je vous montre comment créer un dashboard professionnel dans Power BI en partant de zéro. Pas besoin de ...",
       "url": "https://www.youtube.com/watch?v=86cmlVHp4cs",
@@ -168,30 +180,6 @@
       "isYouTube": true,
       "videoId": "86cmlVHp4cs",
       "thumbnail": "https://i.ytimg.com/vi/86cmlVHp4cs/hqdefault.jpg"
-    },
-    {
-      "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
-      "description": "Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...",
-      "url": "https://www.youtube.com/watch?v=FL9r4dDKiIU",
-      "source": "Houssem Lahiani",
-      "publishedAt": "2026-04-19T20:17:51Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "FL9r4dDKiIU",
-      "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
-    },
-    {
-      "title": "Rancho BioSciences lance OmicsHQ™ : une plateforme de données multi-omiques complète, organisée et validée, conçue pour accélérer la découverte de médicaments",
-      "description": "OmicsHQ regroupe des ensembles de données multi-omiques complets, organisés par des experts et normalisés provenant de l'ensemble de l'écosystème scientifique, ainsi que des ensembles de données prétr...",
-      "url": "https://www.prnewswire.com/news-releases/rancho-biosciences-lance-omicshq--une-plateforme-de-donnees-multi-omiques-complete-organisee-et-validee-concue-pour-accelerer-la-decouverte-de-medicaments-302776709.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-05-19T19:06:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Comment installer Power BI en 3 minutes ! ⏱️🤩",
@@ -218,18 +206,6 @@
       "thumbnail": "https://i.ytimg.com/vi/SqzUaKJb384/hqdefault.jpg"
     },
     {
-      "title": "Firefox mobile récupère les fonctions IA… mais surtout la possibilité de les désactiver",
-      "description": "Mozilla a intégré de plus en plus de fonctions liées à l'IA au fil du temps dans Firefox, son navigateur open source. Avec la version 148 pour les systèmes d'exploitation de bureau, une fonction de co...",
-      "url": "https://www.igen.fr/app-store/2026/05/firefox-mobile-recupere-les-fonctions-ia-mais-surtout-la-possibilite-de-les-desactiver-156135",
-      "source": "iGeneration",
-      "publishedAt": "2026-05-20T10:55:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
       "description": "Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...",
       "url": "https://www.youtube.com/watch?v=9t1mXWkqj0g",
@@ -242,64 +218,28 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "WWDC 2026 : Demandez le programme complet",
-      "description": "Le 8 juin prochain, Apple ouvre sa semaine la plus attendue pour la partie logicielle, avec au menu iOS 27, un Siri entièrement repensé et de nouvelles fonctions d'intelligence artificielle. Voici le ...",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/apple-intelligence/3102963_wwdc-2026-demandez-le-programme-complet",
-      "source": "Frandroid",
-      "publishedAt": "2026-05-19T06:20:14Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "title": "[SQL #10] LAG() et LEAD() expliqués simplement | Window Functions",
+      "description": "Dans cette vidéo, je t'explique comment utiliser les fonctions LAG() et LEAD() en SQL, deux window functions essentielles pour ...",
+      "url": "https://www.youtube.com/watch?v=flJ6m-ili4U",
+      "source": "Donnée du Sens",
+      "publishedAt": "2026-03-24T16:15:04Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "flJ6m-ili4U",
+      "thumbnail": "https://i.ytimg.com/vi/flJ6m-ili4U/hqdefault.jpg"
     },
     {
-      "title": "Banquiers, chercheurs, développeurs : Gemini lance sa nouvelle IA gratuite pour vous faire gagner du temps (ou vous remplacer)",
-      "description": "Google vient de lancer Gemini 3.5 Flash, la nouvelle IA par défaut de l’application Gemini. Tout en restant rapide et moins coûteux, ce nouveau modèle se rapproche des performances des modèles d’IA pl...",
-      "url": "https://www.presse-citron.net/gemini-lance-sa-nouvelle-ia-gratuite-pour-vous-faire-gagner-du-temps/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-05-19T19:20:53Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Quand votre agent IA travaille pour vous, l'AI Act travaille aussi",
-      "description": "L'agent IA ne dort pas, c'est vrai. Le législateur européen non plus.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1550451-quand-votre-agent-ia-travaille-pour-vous-l-ai-act-travaille-aussi/",
-      "source": "JDN",
-      "publishedAt": "2026-05-20T09:14:12Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Réserver son accès à l’IA avant d’en manquer : OpenAI propose de sécuriser sa puissance de calcul à long terme",
-      "description": "OpenAI propose désormais aux entreprises de réserver sa puissance de calcul sur plusieurs années, une offre qui répond à une pénurie de GPU que la société reconnaît elle-même. « Les clients nous deman...",
-      "url": "https://www.numerama.com/tech/2256837-reserver-son-acces-a-lia-avant-den-manquer-openai-propose-de-securiser-sa-puissance-de-calcul-a-long-terme.html",
-      "source": "Numerama",
-      "publishedAt": "2026-05-20T11:25:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "WWDC26 : Apple dévoile le programme, avec de l’IA en veux-tu en voilà",
-      "description": "Apple vient de dévoiler le programme complet de la WWDC26, qui se tiendra du 8 au 12 juin. Keynote, sessions, Apple Design Awards... et de l'IA partout, comme on pouvait l'imaginer. Voilà tout ce qu'i...",
-      "url": "https://www.iphon.fr/post/apple-wwdc26-dates-programme-ia",
-      "source": "Iphon.fr",
-      "publishedAt": "2026-05-19T06:01:01Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "title": "Cours d&#39;introduction : Introduction au langage Python",
+      "description": "INTRODUCTION AU LANGAGE PYTHON Bienvenue dans ce tout premier cours sur le langage Python Dans cette vidéo, ...",
+      "url": "https://www.youtube.com/watch?v=4VcWMP06kxw",
+      "source": "Coder : Python , C++ , html , css , java , PHP....",
+      "publishedAt": "2026-05-16T20:23:44Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "4VcWMP06kxw",
+      "thumbnail": "https://i.ytimg.com/vi/4VcWMP06kxw/hqdefault.jpg"
     }
   ]
 }

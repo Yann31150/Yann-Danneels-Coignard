@@ -5,13 +5,21 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 21 May 2026 11:30:06 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 10:54:33 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>Gemma 4 : L&amp;#39;IA gratuite de Google qui va remplacer ChatGPT</title>
+            <link>https://www.youtube.com/watch?v=s2vervy8thc</link>
+            <description><![CDATA[Je t'accompagne à lancer un business IA Rentable https://bit.ly/3PIHsae Gemma 4 est la nouvelle génération de modèles d'IA ...]]></description>
+            <pubDate>Sun, 05 Apr 2026 13:50:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=s2vervy8thc</guid>
+            <source>Julien Massey</source>
+        </item>
         <item>
             <title>Comment l&amp;#39;IA apprend-elle ? (Le Machine Learning expliqué simplement)</title>
             <link>https://www.youtube.com/watch?v=W41BgkNkQ0g</link>
@@ -37,12 +45,12 @@
             <source>Quant Insights FR</source>
         </item>
         <item>
-            <title>OpenAI lance un outil pour identifier les images créées par ChatGPT</title>
-            <link>https://www.blogdumoderateur.com/openai-outil-identifier-images-chatgpt/</link>
-            <description><![CDATA[OpenAI met en ligne un outil pour détecter si une image provient de ses modèles, en croisant les métadonnées C2PA et le filigrane invisible SynthID de Google. Voici comment y accéder, et l'utiliser.]]></description>
-            <pubDate>Wed, 20 May 2026 09:48:32 -0000</pubDate>
-            <guid isPermaLink="true">https://www.blogdumoderateur.com/openai-outil-identifier-images-chatgpt/</guid>
-            <source>Blogdumoderateur.com</source>
+            <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
+            <link>https://www.youtube.com/watch?v=77IMWD4TWtg</link>
+            <description><![CDATA[Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...]]></description>
+            <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
+            <source>Comprendre l'informatique</source>
         </item>
         <item>
             <title>⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)</title>
@@ -69,14 +77,6 @@
             <source>Kelenix</source>
         </item>
         <item>
-            <title>Actualité : De l'iPhone au Vision Pro : Apple mise sur l'intelligence artificielle pour réinventer l'accessibilité avec iOS 27</title>
-            <link>https://www.lesnumeriques.com/telephone-portable/de-l-iphone-au-vision-pro-apple-mise-sur-l-intelligence-artificielle-pour-reinventer-l-accessibilite-avec-ios-27-n256176.html</link>
-            <description><![CDATA[Apple a officialisé 5 nouveautés axées sur l’accessibilité à venir sur iPhone avec iOS 27, et elles tirent toutes parti d’Apple Intelligence.]]></description>
-            <pubDate>Wed, 20 May 2026 09:08:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/telephone-portable/de-l-iphone-au-vision-pro-apple-mise-sur-l-intelligence-artificielle-pour-reinventer-l-accessibilite-avec-ios-27-n256176.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
             <title>SQL - Question bac NSI</title>
             <link>https://www.youtube.com/watch?v=VLzCWa3nXrw</link>
             <description><![CDATA[SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...]]></description>
@@ -85,12 +85,12 @@
             <source>Célian</source>
         </item>
         <item>
-            <title>Amii alimente la dynamique de l’IA au Canada alors que Upper Bound ouvre ses portes avec une croissance de 53 % et 11 000 participants internationaux</title>
-            <link>https://www.globenewswire.com/news-release/2026/05/19/3297242/0/fr/Amii-alimente-la-dynamique-de-l-IA-au-Canada-alors-que-Upper-Bound-ouvre-ses-portes-avec-une-croissance-de-53-et-11-000-participants-internationaux.html</link>
-            <description><![CDATA[L’événement canadien sur l’IA qui connaît la croissance la plus rapide affiche complet un mois à l’avance, confirmant ainsi la position d’Edmonton comme pôle mondial d’innovation et de sensibilisation...]]></description>
-            <pubDate>Tue, 19 May 2026 10:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/05/19/3297242/0/fr/Amii-alimente-la-dynamique-de-l-IA-au-Canada-alors-que-Upper-Bound-ouvre-ses-portes-avec-une-croissance-de-53-et-11-000-participants-internationaux.html</guid>
-            <source>GlobeNewswire</source>
+            <title>emlyon business school x Centrale Lyon - BSc in Data Science for Responsible Business</title>
+            <link>https://www.youtube.com/watch?v=5WwBqJAMlGo</link>
+            <description><![CDATA[00:00 Introduction 1:48 LE PITCH 3:04 LES ADMISSIONS 3:07 Comment postuler? 4:22 Quel type d'étudiant étais-tu?]]></description>
+            <pubDate>Mon, 30 Mar 2026 09:00:04 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=5WwBqJAMlGo</guid>
+            <source>Campus Channel</source>
         </item>
         <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
@@ -101,12 +101,12 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Questions et réponses d’entretien pour analyste de données</title>
-            <link>https://www.youtube.com/watch?v=Z5LsWFrltHU</link>
-            <description><![CDATA[Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...]]></description>
-            <pubDate>Sat, 11 Apr 2026 07:15:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z5LsWFrltHU</guid>
-            <source>Damal Consult Carrière TV- Français</source>
+            <title>Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise</title>
+            <link>https://www.youtube.com/watch?v=ltlf84WBXeY</link>
+            <description><![CDATA[00:00 - Introduction &amp; présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...]]></description>
+            <pubDate>Fri, 03 Apr 2026 16:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ltlf84WBXeY</guid>
+            <source>Laurent MAGANTO</source>
         </item>
         <item>
             <title>SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025</title>
@@ -117,28 +117,20 @@
             <source>Tchaps Tech</source>
         </item>
         <item>
+            <title>This is how you&amp;#39;ll become a REMOTE Data Analyst in 2026 (FULL Guide)</title>
+            <link>https://www.youtube.com/watch?v=q5MOKiZzSFA</link>
+            <description><![CDATA[Try DataCamp Free: SQL Track: https://datacamp.pxf.io/E0KXDW Power BI Track: https://datacamp.pxf.io/7Xa2nr Remote data ...]]></description>
+            <pubDate>Mon, 23 Mar 2026 14:05:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=q5MOKiZzSFA</guid>
+            <source>Matt Mike</source>
+        </item>
+        <item>
             <title>Dashboard Power BI Impressionnant | Tutoriel Débutant</title>
             <link>https://www.youtube.com/watch?v=86cmlVHp4cs</link>
             <description><![CDATA[Dans cette vidéo, je vous montre comment créer un dashboard professionnel dans Power BI en partant de zéro. Pas besoin de ...]]></description>
             <pubDate>Wed, 08 Apr 2026 14:17:40 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=86cmlVHp4cs</guid>
             <source>Benjamin Ejzenberg (votre coach Power BI)</source>
-        </item>
-        <item>
-            <title>Big Data Décortiqué : Apache Spark Pour Débuter</title>
-            <link>https://www.youtube.com/watch?v=FL9r4dDKiIU</link>
-            <description><![CDATA[Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...]]></description>
-            <pubDate>Sun, 19 Apr 2026 20:17:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=FL9r4dDKiIU</guid>
-            <source>Houssem Lahiani</source>
-        </item>
-        <item>
-            <title>Rancho BioSciences lance OmicsHQ™ : une plateforme de données multi-omiques complète, organisée et validée, conçue pour accélérer la découverte de médicaments</title>
-            <link>https://www.prnewswire.com/news-releases/rancho-biosciences-lance-omicshq--une-plateforme-de-donnees-multi-omiques-complete-organisee-et-validee-concue-pour-accelerer-la-decouverte-de-medicaments-302776709.html</link>
-            <description><![CDATA[OmicsHQ regroupe des ensembles de données multi-omiques complets, organisés par des experts et normalisés provenant de l'ensemble de l'écosystème scientifique, ainsi que des ensembles de données prétr...]]></description>
-            <pubDate>Tue, 19 May 2026 19:06:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/rancho-biosciences-lance-omicshq--une-plateforme-de-donnees-multi-omiques-complete-organisee-et-validee-concue-pour-accelerer-la-decouverte-de-medicaments-302776709.html</guid>
-            <source>PRNewswire</source>
         </item>
         <item>
             <title>Comment installer Power BI en 3 minutes ! ⏱️🤩</title>
@@ -157,20 +149,28 @@
             <source>Morpheus Formation | Excel, Power BI, Sheets</source>
         </item>
         <item>
-            <title>Firefox mobile récupère les fonctions IA… mais surtout la possibilité de les désactiver</title>
-            <link>https://www.igen.fr/app-store/2026/05/firefox-mobile-recupere-les-fonctions-ia-mais-surtout-la-possibilite-de-les-desactiver-156135</link>
-            <description><![CDATA[Mozilla a intégré de plus en plus de fonctions liées à l'IA au fil du temps dans Firefox, son navigateur open source. Avec la version 148 pour les systèmes d'exploitation de bureau, une fonction de co...]]></description>
-            <pubDate>Wed, 20 May 2026 10:55:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.igen.fr/app-store/2026/05/firefox-mobile-recupere-les-fonctions-ia-mais-surtout-la-possibilite-de-les-desactiver-156135</guid>
-            <source>iGeneration</source>
-        </item>
-        <item>
             <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>
             <link>https://www.youtube.com/watch?v=9t1mXWkqj0g</link>
             <description><![CDATA[Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...]]></description>
             <pubDate>Sun, 10 May 2026 18:00:17 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=9t1mXWkqj0g</guid>
             <source>DataSet By d@ne</source>
+        </item>
+        <item>
+            <title>[SQL #10] LAG() et LEAD() expliqués simplement | Window Functions</title>
+            <link>https://www.youtube.com/watch?v=flJ6m-ili4U</link>
+            <description><![CDATA[Dans cette vidéo, je t'explique comment utiliser les fonctions LAG() et LEAD() en SQL, deux window functions essentielles pour ...]]></description>
+            <pubDate>Tue, 24 Mar 2026 16:15:04 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=flJ6m-ili4U</guid>
+            <source>Donnée du Sens</source>
+        </item>
+        <item>
+            <title>Cours d&amp;#39;introduction : Introduction au langage Python</title>
+            <link>https://www.youtube.com/watch?v=4VcWMP06kxw</link>
+            <description><![CDATA[INTRODUCTION AU LANGAGE PYTHON Bienvenue dans ce tout premier cours sur le langage Python Dans cette vidéo, ...]]></description>
+            <pubDate>Sat, 16 May 2026 20:23:44 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=4VcWMP06kxw</guid>
+            <source>Coder : Python , C++ , html , css , java , PHP....</source>
         </item>
     </channel>
 </rss>
