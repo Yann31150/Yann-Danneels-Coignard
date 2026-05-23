@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 22 May 2026 10:54:33 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 09:57:47 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Gemma 4 : L&amp;#39;IA gratuite de Google qui va remplacer ChatGPT</title>
-            <link>https://www.youtube.com/watch?v=s2vervy8thc</link>
-            <description><![CDATA[Je t'accompagne à lancer un business IA Rentable https://bit.ly/3PIHsae Gemma 4 est la nouvelle génération de modèles d'IA ...]]></description>
-            <pubDate>Sun, 05 Apr 2026 13:50:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=s2vervy8thc</guid>
-            <source>Julien Massey</source>
-        </item>
         <item>
             <title>Comment l&amp;#39;IA apprend-elle ? (Le Machine Learning expliqué simplement)</title>
             <link>https://www.youtube.com/watch?v=W41BgkNkQ0g</link>
@@ -43,14 +35,6 @@
             <pubDate>Thu, 09 Apr 2026 14:50:55 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=cv3KzQShV_o</guid>
             <source>Quant Insights FR</source>
-        </item>
-        <item>
-            <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
-            <link>https://www.youtube.com/watch?v=77IMWD4TWtg</link>
-            <description><![CDATA[Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...]]></description>
-            <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
-            <source>Comprendre l'informatique</source>
         </item>
         <item>
             <title>⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)</title>
@@ -93,6 +77,22 @@
             <source>Campus Channel</source>
         </item>
         <item>
+            <title>5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population</title>
+            <link>https://www.youtube.com/watch?v=w2JE7HUNJFU</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...]]></description>
+            <pubDate>Sun, 10 May 2026 15:00:38 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=w2JE7HUNJFU</guid>
+            <source>Yassine Sdiri</source>
+        </item>
+        <item>
+            <title>La Descente de Gradient EXPLIQUÉE SIMPLEMENT  | Machine Learning Facile</title>
+            <link>https://www.youtube.com/watch?v=oOYE4K1eqyc</link>
+            <description><![CDATA[Tu veux comprendre la descente de gradient simplement ? Dans cette vidéo, je vous explique l'un des concepts les plus ...]]></description>
+            <pubDate>Sun, 29 Mar 2026 13:12:10 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=oOYE4K1eqyc</guid>
+            <source>Comprendre l'informatique</source>
+        </item>
+        <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
             <link>https://www.youtube.com/watch?v=rhE7Ab_sBTo</link>
             <description><![CDATA[Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...]]></description>
@@ -115,14 +115,6 @@
             <pubDate>Sat, 04 Apr 2026 10:00:02 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=10SDW2LoxX4</guid>
             <source>Tchaps Tech</source>
-        </item>
-        <item>
-            <title>This is how you&amp;#39;ll become a REMOTE Data Analyst in 2026 (FULL Guide)</title>
-            <link>https://www.youtube.com/watch?v=q5MOKiZzSFA</link>
-            <description><![CDATA[Try DataCamp Free: SQL Track: https://datacamp.pxf.io/E0KXDW Power BI Track: https://datacamp.pxf.io/7Xa2nr Remote data ...]]></description>
-            <pubDate>Mon, 23 Mar 2026 14:05:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=q5MOKiZzSFA</guid>
-            <source>Matt Mike</source>
         </item>
         <item>
             <title>Dashboard Power BI Impressionnant | Tutoriel Débutant</title>
@@ -163,6 +155,14 @@
             <pubDate>Tue, 24 Mar 2026 16:15:04 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=flJ6m-ili4U</guid>
             <source>Donnée du Sens</source>
+        </item>
+        <item>
+            <title>Excel vs SQL vs Power Query vs Python | Who Cracks the NYC Property Data Fastest?</title>
+            <link>https://www.youtube.com/watch?v=gwrKQ3UjAvc</link>
+            <description><![CDATA[Save up to 50% off Maven Pro Plans! ➡️ https://bit.ly/4twfaxS Try the Data Drill yourself and let us know how you do!]]></description>
+            <pubDate>Wed, 13 May 2026 14:01:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=gwrKQ3UjAvc</guid>
+            <source>Maven Analytics</source>
         </item>
         <item>
             <title>Cours d&amp;#39;introduction : Introduction au langage Python</title>

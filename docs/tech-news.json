@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-05-22T10:54:33.272858",
+  "lastUpdate": "2026-05-23T09:57:47.406003",
   "articles": [
-    {
-      "title": "Gemma 4 : L&#39;IA gratuite de Google qui va remplacer ChatGPT",
-      "description": "Je t'accompagne à lancer un business IA Rentable https://bit.ly/3PIHsae Gemma 4 est la nouvelle génération de modèles d'IA ...",
-      "url": "https://www.youtube.com/watch?v=s2vervy8thc",
-      "source": "Julien Massey",
-      "publishedAt": "2026-04-05T13:50:54Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "s2vervy8thc",
-      "thumbnail": "https://i.ytimg.com/vi/s2vervy8thc/hqdefault.jpg"
-    },
     {
       "title": "Comment l&#39;IA apprend-elle ? (Le Machine Learning expliqué simplement)",
       "description": "Bonjour à tous et bienvenue dans cette nouvelle aventure au cœur de l'intelligence artificielle ! Dans cette vidéo, on brise les ...",
@@ -48,18 +36,6 @@
       "isYouTube": true,
       "videoId": "cv3KzQShV_o",
       "thumbnail": "https://i.ytimg.com/vi/cv3KzQShV_o/hqdefault.jpg"
-    },
-    {
-      "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
-      "description": "Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...",
-      "url": "https://www.youtube.com/watch?v=77IMWD4TWtg",
-      "source": "Comprendre l'informatique",
-      "publishedAt": "2026-04-02T23:58:08Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "77IMWD4TWtg",
-      "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
     },
     {
       "title": "⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)",
@@ -122,6 +98,30 @@
       "thumbnail": "https://i.ytimg.com/vi/5WwBqJAMlGo/hqdefault.jpg"
     },
     {
+      "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-05-10T15:00:38Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "w2JE7HUNJFU",
+      "thumbnail": "https://i.ytimg.com/vi/w2JE7HUNJFU/hqdefault.jpg"
+    },
+    {
+      "title": "La Descente de Gradient EXPLIQUÉE SIMPLEMENT  | Machine Learning Facile",
+      "description": "Tu veux comprendre la descente de gradient simplement ? Dans cette vidéo, je vous explique l'un des concepts les plus ...",
+      "url": "https://www.youtube.com/watch?v=oOYE4K1eqyc",
+      "source": "Comprendre l'informatique",
+      "publishedAt": "2026-03-29T13:12:10Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "oOYE4K1eqyc",
+      "thumbnail": "https://i.ytimg.com/vi/oOYE4K1eqyc/hqdefault.jpg"
+    },
+    {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
       "description": "Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...",
       "url": "https://www.youtube.com/watch?v=rhE7Ab_sBTo",
@@ -156,18 +156,6 @@
       "isYouTube": true,
       "videoId": "10SDW2LoxX4",
       "thumbnail": "https://i.ytimg.com/vi/10SDW2LoxX4/hqdefault.jpg"
-    },
-    {
-      "title": "This is how you&#39;ll become a REMOTE Data Analyst in 2026 (FULL Guide)",
-      "description": "Try DataCamp Free: SQL Track: https://datacamp.pxf.io/E0KXDW Power BI Track: https://datacamp.pxf.io/7Xa2nr Remote data ...",
-      "url": "https://www.youtube.com/watch?v=q5MOKiZzSFA",
-      "source": "Matt Mike",
-      "publishedAt": "2026-03-23T14:05:49Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "q5MOKiZzSFA",
-      "thumbnail": "https://i.ytimg.com/vi/q5MOKiZzSFA/hqdefault.jpg"
     },
     {
       "title": "Dashboard Power BI Impressionnant | Tutoriel Débutant",
@@ -228,6 +216,18 @@
       "isYouTube": true,
       "videoId": "flJ6m-ili4U",
       "thumbnail": "https://i.ytimg.com/vi/flJ6m-ili4U/hqdefault.jpg"
+    },
+    {
+      "title": "Excel vs SQL vs Power Query vs Python | Who Cracks the NYC Property Data Fastest?",
+      "description": "Save up to 50% off Maven Pro Plans! ➡️ https://bit.ly/4twfaxS Try the Data Drill yourself and let us know how you do!",
+      "url": "https://www.youtube.com/watch?v=gwrKQ3UjAvc",
+      "source": "Maven Analytics",
+      "publishedAt": "2026-05-13T14:01:08Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "gwrKQ3UjAvc",
+      "thumbnail": "https://i.ytimg.com/vi/gwrKQ3UjAvc/hqdefault.jpg"
     },
     {
       "title": "Cours d&#39;introduction : Introduction au langage Python",
