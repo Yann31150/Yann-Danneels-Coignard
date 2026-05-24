@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 23 May 2026 09:57:47 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 09:59:16 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -37,12 +37,28 @@
             <source>Quant Insights FR</source>
         </item>
         <item>
+            <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
+            <link>https://www.youtube.com/watch?v=77IMWD4TWtg</link>
+            <description><![CDATA[Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...]]></description>
+            <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
+            <source>Comprendre l'informatique</source>
+        </item>
+        <item>
             <title>⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)</title>
             <link>https://www.youtube.com/watch?v=EI_SnEnGfX0</link>
             <description><![CDATA[Dans cette vidéo, je réalise un projet complet de Machine Learning avec Dataiku DSS. L'objectif : construire un modèle prédictif ...]]></description>
             <pubDate>Fri, 27 Mar 2026 12:03:55 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=EI_SnEnGfX0</guid>
             <source>Mastering AI</source>
+        </item>
+        <item>
+            <title>ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&amp;#39;IA</title>
+            <link>https://www.youtube.com/watch?v=bvm-n-HN8ws</link>
+            <description><![CDATA[Tu veux apprendre le SQL pour travailler dans la data ? ModAi Lab est la plateforme d'apprentissage SQL gamifiée et assistée ...]]></description>
+            <pubDate>Thu, 14 May 2026 11:01:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=bvm-n-HN8ws</guid>
+            <source>ModAi Lab | SQL & Data par l'IA</source>
         </item>
         <item>
             <title>Maîtriser SQL en 1 heure sans prise de tête</title>
@@ -77,22 +93,6 @@
             <source>Campus Channel</source>
         </item>
         <item>
-            <title>5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population</title>
-            <link>https://www.youtube.com/watch?v=w2JE7HUNJFU</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...]]></description>
-            <pubDate>Sun, 10 May 2026 15:00:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=w2JE7HUNJFU</guid>
-            <source>Yassine Sdiri</source>
-        </item>
-        <item>
-            <title>La Descente de Gradient EXPLIQUÉE SIMPLEMENT  | Machine Learning Facile</title>
-            <link>https://www.youtube.com/watch?v=oOYE4K1eqyc</link>
-            <description><![CDATA[Tu veux comprendre la descente de gradient simplement ? Dans cette vidéo, je vous explique l'un des concepts les plus ...]]></description>
-            <pubDate>Sun, 29 Mar 2026 13:12:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=oOYE4K1eqyc</guid>
-            <source>Comprendre l'informatique</source>
-        </item>
-        <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
             <link>https://www.youtube.com/watch?v=rhE7Ab_sBTo</link>
             <description><![CDATA[Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...]]></description>
@@ -125,6 +125,22 @@
             <source>Benjamin Ejzenberg (votre coach Power BI)</source>
         </item>
         <item>
+            <title>Big Data Décortiqué : Apache Spark Pour Débuter</title>
+            <link>https://www.youtube.com/watch?v=FL9r4dDKiIU</link>
+            <description><![CDATA[Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...]]></description>
+            <pubDate>Sun, 19 Apr 2026 20:17:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=FL9r4dDKiIU</guid>
+            <source>Houssem Lahiani</source>
+        </item>
+        <item>
+            <title>2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS</title>
+            <link>https://www.youtube.com/watch?v=cnjhHZNJEDk</link>
+            <description><![CDATA[Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...]]></description>
+            <pubDate>Tue, 19 May 2026 12:30:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=cnjhHZNJEDk</guid>
+            <source>Alex The Analyst</source>
+        </item>
+        <item>
             <title>Comment installer Power BI en 3 minutes ! ⏱️🤩</title>
             <link>https://www.youtube.com/watch?v=1uaJPZMHNho</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
@@ -149,28 +165,12 @@
             <source>DataSet By d@ne</source>
         </item>
         <item>
-            <title>[SQL #10] LAG() et LEAD() expliqués simplement | Window Functions</title>
-            <link>https://www.youtube.com/watch?v=flJ6m-ili4U</link>
-            <description><![CDATA[Dans cette vidéo, je t'explique comment utiliser les fonctions LAG() et LEAD() en SQL, deux window functions essentielles pour ...]]></description>
-            <pubDate>Tue, 24 Mar 2026 16:15:04 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=flJ6m-ili4U</guid>
-            <source>Donnée du Sens</source>
-        </item>
-        <item>
             <title>Excel vs SQL vs Power Query vs Python | Who Cracks the NYC Property Data Fastest?</title>
             <link>https://www.youtube.com/watch?v=gwrKQ3UjAvc</link>
             <description><![CDATA[Save up to 50% off Maven Pro Plans! ➡️ https://bit.ly/4twfaxS Try the Data Drill yourself and let us know how you do!]]></description>
             <pubDate>Wed, 13 May 2026 14:01:08 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=gwrKQ3UjAvc</guid>
             <source>Maven Analytics</source>
-        </item>
-        <item>
-            <title>Cours d&amp;#39;introduction : Introduction au langage Python</title>
-            <link>https://www.youtube.com/watch?v=4VcWMP06kxw</link>
-            <description><![CDATA[INTRODUCTION AU LANGAGE PYTHON Bienvenue dans ce tout premier cours sur le langage Python Dans cette vidéo, ...]]></description>
-            <pubDate>Sat, 16 May 2026 20:23:44 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=4VcWMP06kxw</guid>
-            <source>Coder : Python , C++ , html , css , java , PHP....</source>
         </item>
     </channel>
 </rss>

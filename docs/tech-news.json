@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-23T09:57:47.406003",
+  "lastUpdate": "2026-05-24T09:59:16.305405",
   "articles": [
     {
       "title": "Comment l&#39;IA apprend-elle ? (Le Machine Learning expliqué simplement)",
@@ -38,6 +38,18 @@
       "thumbnail": "https://i.ytimg.com/vi/cv3KzQShV_o/hqdefault.jpg"
     },
     {
+      "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
+      "description": "Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...",
+      "url": "https://www.youtube.com/watch?v=77IMWD4TWtg",
+      "source": "Comprendre l'informatique",
+      "publishedAt": "2026-04-02T23:58:08Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "77IMWD4TWtg",
+      "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
+    },
+    {
       "title": "⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)",
       "description": "Dans cette vidéo, je réalise un projet complet de Machine Learning avec Dataiku DSS. L'objectif : construire un modèle prédictif ...",
       "url": "https://www.youtube.com/watch?v=EI_SnEnGfX0",
@@ -48,6 +60,18 @@
       "isYouTube": true,
       "videoId": "EI_SnEnGfX0",
       "thumbnail": "https://i.ytimg.com/vi/EI_SnEnGfX0/hqdefault.jpg"
+    },
+    {
+      "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
+      "description": "Tu veux apprendre le SQL pour travailler dans la data ? ModAi Lab est la plateforme d'apprentissage SQL gamifiée et assistée ...",
+      "url": "https://www.youtube.com/watch?v=bvm-n-HN8ws",
+      "source": "ModAi Lab | SQL & Data par l'IA",
+      "publishedAt": "2026-05-14T11:01:01Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "bvm-n-HN8ws",
+      "thumbnail": "https://i.ytimg.com/vi/bvm-n-HN8ws/hqdefault.jpg"
     },
     {
       "title": "Maîtriser SQL en 1 heure sans prise de tête",
@@ -98,30 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/5WwBqJAMlGo/hqdefault.jpg"
     },
     {
-      "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2026-05-10T15:00:38Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "w2JE7HUNJFU",
-      "thumbnail": "https://i.ytimg.com/vi/w2JE7HUNJFU/hqdefault.jpg"
-    },
-    {
-      "title": "La Descente de Gradient EXPLIQUÉE SIMPLEMENT  | Machine Learning Facile",
-      "description": "Tu veux comprendre la descente de gradient simplement ? Dans cette vidéo, je vous explique l'un des concepts les plus ...",
-      "url": "https://www.youtube.com/watch?v=oOYE4K1eqyc",
-      "source": "Comprendre l'informatique",
-      "publishedAt": "2026-03-29T13:12:10Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "oOYE4K1eqyc",
-      "thumbnail": "https://i.ytimg.com/vi/oOYE4K1eqyc/hqdefault.jpg"
-    },
-    {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
       "description": "Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...",
       "url": "https://www.youtube.com/watch?v=rhE7Ab_sBTo",
@@ -170,6 +170,30 @@
       "thumbnail": "https://i.ytimg.com/vi/86cmlVHp4cs/hqdefault.jpg"
     },
     {
+      "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
+      "description": "Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...",
+      "url": "https://www.youtube.com/watch?v=FL9r4dDKiIU",
+      "source": "Houssem Lahiani",
+      "publishedAt": "2026-04-19T20:17:51Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "FL9r4dDKiIU",
+      "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
+    },
+    {
+      "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
+      "description": "Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...",
+      "url": "https://www.youtube.com/watch?v=cnjhHZNJEDk",
+      "source": "Alex The Analyst",
+      "publishedAt": "2026-05-19T12:30:29Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "cnjhHZNJEDk",
+      "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
+    },
+    {
       "title": "Comment installer Power BI en 3 minutes ! ⏱️🤩",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=1uaJPZMHNho",
@@ -206,18 +230,6 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "[SQL #10] LAG() et LEAD() expliqués simplement | Window Functions",
-      "description": "Dans cette vidéo, je t'explique comment utiliser les fonctions LAG() et LEAD() en SQL, deux window functions essentielles pour ...",
-      "url": "https://www.youtube.com/watch?v=flJ6m-ili4U",
-      "source": "Donnée du Sens",
-      "publishedAt": "2026-03-24T16:15:04Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "flJ6m-ili4U",
-      "thumbnail": "https://i.ytimg.com/vi/flJ6m-ili4U/hqdefault.jpg"
-    },
-    {
       "title": "Excel vs SQL vs Power Query vs Python | Who Cracks the NYC Property Data Fastest?",
       "description": "Save up to 50% off Maven Pro Plans! ➡️ https://bit.ly/4twfaxS Try the Data Drill yourself and let us know how you do!",
       "url": "https://www.youtube.com/watch?v=gwrKQ3UjAvc",
@@ -228,18 +240,6 @@
       "isYouTube": true,
       "videoId": "gwrKQ3UjAvc",
       "thumbnail": "https://i.ytimg.com/vi/gwrKQ3UjAvc/hqdefault.jpg"
-    },
-    {
-      "title": "Cours d&#39;introduction : Introduction au langage Python",
-      "description": "INTRODUCTION AU LANGAGE PYTHON Bienvenue dans ce tout premier cours sur le langage Python Dans cette vidéo, ...",
-      "url": "https://www.youtube.com/watch?v=4VcWMP06kxw",
-      "source": "Coder : Python , C++ , html , css , java , PHP....",
-      "publishedAt": "2026-05-16T20:23:44Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "4VcWMP06kxw",
-      "thumbnail": "https://i.ytimg.com/vi/4VcWMP06kxw/hqdefault.jpg"
     }
   ]
 }
