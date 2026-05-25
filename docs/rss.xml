@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 24 May 2026 09:59:16 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 11:55:45 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Comment l&amp;#39;IA apprend-elle ? (Le Machine Learning expliqué simplement)</title>
-            <link>https://www.youtube.com/watch?v=W41BgkNkQ0g</link>
-            <description><![CDATA[Bonjour à tous et bienvenue dans cette nouvelle aventure au cœur de l'intelligence artificielle ! Dans cette vidéo, on brise les ...]]></description>
-            <pubDate>Wed, 06 May 2026 21:38:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=W41BgkNkQ0g</guid>
-            <source>Vitamine IA</source>
-        </item>
         <item>
             <title>Les 3 types d&amp;#39;apprentissage IA qui changent tout</title>
             <link>https://www.youtube.com/watch?v=vS8H8somgEs</link>
@@ -37,12 +29,12 @@
             <source>Quant Insights FR</source>
         </item>
         <item>
-            <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
-            <link>https://www.youtube.com/watch?v=77IMWD4TWtg</link>
-            <description><![CDATA[Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...]]></description>
-            <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
-            <source>Comprendre l'informatique</source>
+            <title>Le secret pour de meilleurs rendus IA avec SketchUp  #renduIA #IA #sketchup</title>
+            <link>https://www.youtube.com/watch?v=pWa16XWRS6I</link>
+            <description><![CDATA[Avant de lancer un rendu IA avec ChatGPT, prenez 5 minutes pour optimiser votre modèle SketchUp… et le résultat change tout ...]]></description>
+            <pubDate>Tue, 19 May 2026 15:00:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=pWa16XWRS6I</guid>
+            <source>Adebeo Formation SketchUp</source>
         </item>
         <item>
             <title>⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)</title>
@@ -77,6 +69,14 @@
             <source>Kelenix</source>
         </item>
         <item>
+            <title>Comment supprimer la pop-up &amp;quot;Entrez votre adresse e-mail&amp;quot; dans Power BI Desktop (Solution 2026)</title>
+            <link>https://www.youtube.com/watch?v=W9Ca51mHhDk</link>
+            <description><![CDATA[Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.]]></description>
+            <pubDate>Sat, 09 May 2026 13:23:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=W9Ca51mHhDk</guid>
+            <source>TechVantage FR</source>
+        </item>
+        <item>
             <title>SQL - Question bac NSI</title>
             <link>https://www.youtube.com/watch?v=VLzCWa3nXrw</link>
             <description><![CDATA[SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...]]></description>
@@ -101,14 +101,6 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise</title>
-            <link>https://www.youtube.com/watch?v=ltlf84WBXeY</link>
-            <description><![CDATA[00:00 - Introduction &amp; présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...]]></description>
-            <pubDate>Fri, 03 Apr 2026 16:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ltlf84WBXeY</guid>
-            <source>Laurent MAGANTO</source>
-        </item>
-        <item>
             <title>SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025</title>
             <link>https://www.youtube.com/watch?v=10SDW2LoxX4</link>
             <description><![CDATA[Maîtrisez SQL Server Management Studio 22 (SSMS 22) dès aujourd'hui ! Dans ce tutoriel complet SQL Server, vous découvrirez ...]]></description>
@@ -123,14 +115,6 @@
             <pubDate>Wed, 08 Apr 2026 14:17:40 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=86cmlVHp4cs</guid>
             <source>Benjamin Ejzenberg (votre coach Power BI)</source>
-        </item>
-        <item>
-            <title>Big Data Décortiqué : Apache Spark Pour Débuter</title>
-            <link>https://www.youtube.com/watch?v=FL9r4dDKiIU</link>
-            <description><![CDATA[Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...]]></description>
-            <pubDate>Sun, 19 Apr 2026 20:17:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=FL9r4dDKiIU</guid>
-            <source>Houssem Lahiani</source>
         </item>
         <item>
             <title>2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS</title>
@@ -171,6 +155,14 @@
             <pubDate>Wed, 13 May 2026 14:01:08 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=gwrKQ3UjAvc</guid>
             <source>Maven Analytics</source>
+        </item>
+        <item>
+            <title>Why the Future of Banking Is 100% Data – with Hannie Kashani</title>
+            <link>https://www.youtube.com/watch?v=ZPAjO77hpHg</link>
+            <description><![CDATA[Why the Future of Banking Is 100% Data – with Hannie Kashani Hannie LinkedIn profile ...]]></description>
+            <pubDate>Fri, 03 Apr 2026 21:00:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ZPAjO77hpHg</guid>
+            <source>Enogne School</source>
         </item>
     </channel>
 </rss>
