@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-25T11:55:45.020098",
+  "lastUpdate": "2026-05-27T11:42:13.544453",
   "articles": [
     {
       "title": "Les 3 types d&#39;apprentissage IA qui changent tout",
@@ -26,28 +26,16 @@
       "thumbnail": "https://i.ytimg.com/vi/cv3KzQShV_o/hqdefault.jpg"
     },
     {
-      "title": "Le secret pour de meilleurs rendus IA avec SketchUp  #renduIA #IA #sketchup",
-      "description": "Avant de lancer un rendu IA avec ChatGPT, prenez 5 minutes pour optimiser votre modèle SketchUp… et le résultat change tout ...",
-      "url": "https://www.youtube.com/watch?v=pWa16XWRS6I",
-      "source": "Adebeo Formation SketchUp",
-      "publishedAt": "2026-05-19T15:00:39Z",
+      "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
+      "description": "Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...",
+      "url": "https://www.youtube.com/watch?v=77IMWD4TWtg",
+      "source": "Comprendre l'informatique",
+      "publishedAt": "2026-04-02T23:58:08Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "pWa16XWRS6I",
-      "thumbnail": "https://i.ytimg.com/vi/pWa16XWRS6I/hqdefault.jpg"
-    },
-    {
-      "title": "⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)",
-      "description": "Dans cette vidéo, je réalise un projet complet de Machine Learning avec Dataiku DSS. L'objectif : construire un modèle prédictif ...",
-      "url": "https://www.youtube.com/watch?v=EI_SnEnGfX0",
-      "source": "Mastering AI",
-      "publishedAt": "2026-03-27T12:03:55Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "EI_SnEnGfX0",
-      "thumbnail": "https://i.ytimg.com/vi/EI_SnEnGfX0/hqdefault.jpg"
+      "videoId": "77IMWD4TWtg",
+      "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
     },
     {
       "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
@@ -86,18 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
     },
     {
-      "title": "Comment supprimer la pop-up &quot;Entrez votre adresse e-mail&quot; dans Power BI Desktop (Solution 2026)",
-      "description": "Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.",
-      "url": "https://www.youtube.com/watch?v=W9Ca51mHhDk",
-      "source": "TechVantage FR",
-      "publishedAt": "2026-05-09T13:23:36Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "W9Ca51mHhDk",
-      "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
-    },
-    {
       "title": "SQL - Question bac NSI",
       "description": "SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...",
       "url": "https://www.youtube.com/watch?v=VLzCWa3nXrw",
@@ -122,6 +98,30 @@
       "thumbnail": "https://i.ytimg.com/vi/5WwBqJAMlGo/hqdefault.jpg"
     },
     {
+      "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-05-10T15:00:38Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "w2JE7HUNJFU",
+      "thumbnail": "https://i.ytimg.com/vi/w2JE7HUNJFU/hqdefault.jpg"
+    },
+    {
+      "title": "La Descente de Gradient EXPLIQUÉE SIMPLEMENT  | Machine Learning Facile",
+      "description": "Tu veux comprendre la descente de gradient simplement ? Dans cette vidéo, je vous explique l'un des concepts les plus ...",
+      "url": "https://www.youtube.com/watch?v=oOYE4K1eqyc",
+      "source": "Comprendre l'informatique",
+      "publishedAt": "2026-03-29T13:12:10Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "oOYE4K1eqyc",
+      "thumbnail": "https://i.ytimg.com/vi/oOYE4K1eqyc/hqdefault.jpg"
+    },
+    {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
       "description": "Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...",
       "url": "https://www.youtube.com/watch?v=rhE7Ab_sBTo",
@@ -132,6 +132,18 @@
       "isYouTube": true,
       "videoId": "rhE7Ab_sBTo",
       "thumbnail": "https://i.ytimg.com/vi/rhE7Ab_sBTo/hqdefault.jpg"
+    },
+    {
+      "title": "Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise",
+      "description": "00:00 - Introduction & présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...",
+      "url": "https://www.youtube.com/watch?v=ltlf84WBXeY",
+      "source": "Laurent MAGANTO",
+      "publishedAt": "2026-04-03T16:30:00Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "ltlf84WBXeY",
+      "thumbnail": "https://i.ytimg.com/vi/ltlf84WBXeY/hqdefault.jpg"
     },
     {
       "title": "SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025",
@@ -158,6 +170,18 @@
       "thumbnail": "https://i.ytimg.com/vi/86cmlVHp4cs/hqdefault.jpg"
     },
     {
+      "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
+      "description": "Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...",
+      "url": "https://www.youtube.com/watch?v=FL9r4dDKiIU",
+      "source": "Houssem Lahiani",
+      "publishedAt": "2026-04-19T20:17:51Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "FL9r4dDKiIU",
+      "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
+    },
+    {
       "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
       "description": "Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...",
       "url": "https://www.youtube.com/watch?v=cnjhHZNJEDk",
@@ -168,18 +192,6 @@
       "isYouTube": true,
       "videoId": "cnjhHZNJEDk",
       "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
-    },
-    {
-      "title": "Comment installer Power BI en 3 minutes ! ⏱️🤩",
-      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
-      "url": "https://www.youtube.com/watch?v=1uaJPZMHNho",
-      "source": "Morpheus Formation | Excel, Power BI, Sheets",
-      "publishedAt": "2026-03-27T17:15:00Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1uaJPZMHNho",
-      "thumbnail": "https://i.ytimg.com/vi/1uaJPZMHNho/hqdefault.jpg"
     },
     {
       "title": "Tutoriel Power BI 2026 : le guide complet pour les débutants  🚀",
@@ -216,18 +228,6 @@
       "isYouTube": true,
       "videoId": "gwrKQ3UjAvc",
       "thumbnail": "https://i.ytimg.com/vi/gwrKQ3UjAvc/hqdefault.jpg"
-    },
-    {
-      "title": "Why the Future of Banking Is 100% Data – with Hannie Kashani",
-      "description": "Why the Future of Banking Is 100% Data – with Hannie Kashani Hannie LinkedIn profile ...",
-      "url": "https://www.youtube.com/watch?v=ZPAjO77hpHg",
-      "source": "Enogne School",
-      "publishedAt": "2026-04-03T21:00:36Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ZPAjO77hpHg",
-      "thumbnail": "https://i.ytimg.com/vi/ZPAjO77hpHg/hqdefault.jpg"
     }
   ]
 }

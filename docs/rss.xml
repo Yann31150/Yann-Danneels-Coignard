@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 25 May 2026 11:55:45 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 11:42:13 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -29,20 +29,12 @@
             <source>Quant Insights FR</source>
         </item>
         <item>
-            <title>Le secret pour de meilleurs rendus IA avec SketchUp  #renduIA #IA #sketchup</title>
-            <link>https://www.youtube.com/watch?v=pWa16XWRS6I</link>
-            <description><![CDATA[Avant de lancer un rendu IA avec ChatGPT, prenez 5 minutes pour optimiser votre modèle SketchUp… et le résultat change tout ...]]></description>
-            <pubDate>Tue, 19 May 2026 15:00:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=pWa16XWRS6I</guid>
-            <source>Adebeo Formation SketchUp</source>
-        </item>
-        <item>
-            <title>⭐40 min de Machine Learning avec Dataiku : projet complet de A à Z (prédiction du départ client)</title>
-            <link>https://www.youtube.com/watch?v=EI_SnEnGfX0</link>
-            <description><![CDATA[Dans cette vidéo, je réalise un projet complet de Machine Learning avec Dataiku DSS. L'objectif : construire un modèle prédictif ...]]></description>
-            <pubDate>Fri, 27 Mar 2026 12:03:55 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=EI_SnEnGfX0</guid>
-            <source>Mastering AI</source>
+            <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
+            <link>https://www.youtube.com/watch?v=77IMWD4TWtg</link>
+            <description><![CDATA[Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...]]></description>
+            <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
+            <source>Comprendre l'informatique</source>
         </item>
         <item>
             <title>ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&amp;#39;IA</title>
@@ -69,14 +61,6 @@
             <source>Kelenix</source>
         </item>
         <item>
-            <title>Comment supprimer la pop-up &amp;quot;Entrez votre adresse e-mail&amp;quot; dans Power BI Desktop (Solution 2026)</title>
-            <link>https://www.youtube.com/watch?v=W9Ca51mHhDk</link>
-            <description><![CDATA[Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.]]></description>
-            <pubDate>Sat, 09 May 2026 13:23:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=W9Ca51mHhDk</guid>
-            <source>TechVantage FR</source>
-        </item>
-        <item>
             <title>SQL - Question bac NSI</title>
             <link>https://www.youtube.com/watch?v=VLzCWa3nXrw</link>
             <description><![CDATA[SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...]]></description>
@@ -93,12 +77,36 @@
             <source>Campus Channel</source>
         </item>
         <item>
+            <title>5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population</title>
+            <link>https://www.youtube.com/watch?v=w2JE7HUNJFU</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...]]></description>
+            <pubDate>Sun, 10 May 2026 15:00:38 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=w2JE7HUNJFU</guid>
+            <source>Yassine Sdiri</source>
+        </item>
+        <item>
+            <title>La Descente de Gradient EXPLIQUÉE SIMPLEMENT  | Machine Learning Facile</title>
+            <link>https://www.youtube.com/watch?v=oOYE4K1eqyc</link>
+            <description><![CDATA[Tu veux comprendre la descente de gradient simplement ? Dans cette vidéo, je vous explique l'un des concepts les plus ...]]></description>
+            <pubDate>Sun, 29 Mar 2026 13:12:10 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=oOYE4K1eqyc</guid>
+            <source>Comprendre l'informatique</source>
+        </item>
+        <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
             <link>https://www.youtube.com/watch?v=rhE7Ab_sBTo</link>
             <description><![CDATA[Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...]]></description>
             <pubDate>Wed, 06 May 2026 02:55:02 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=rhE7Ab_sBTo</guid>
             <source>Oscar Aksanti</source>
+        </item>
+        <item>
+            <title>Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise</title>
+            <link>https://www.youtube.com/watch?v=ltlf84WBXeY</link>
+            <description><![CDATA[00:00 - Introduction &amp; présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...]]></description>
+            <pubDate>Fri, 03 Apr 2026 16:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ltlf84WBXeY</guid>
+            <source>Laurent MAGANTO</source>
         </item>
         <item>
             <title>SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025</title>
@@ -117,20 +125,20 @@
             <source>Benjamin Ejzenberg (votre coach Power BI)</source>
         </item>
         <item>
+            <title>Big Data Décortiqué : Apache Spark Pour Débuter</title>
+            <link>https://www.youtube.com/watch?v=FL9r4dDKiIU</link>
+            <description><![CDATA[Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...]]></description>
+            <pubDate>Sun, 19 Apr 2026 20:17:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=FL9r4dDKiIU</guid>
+            <source>Houssem Lahiani</source>
+        </item>
+        <item>
             <title>2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS</title>
             <link>https://www.youtube.com/watch?v=cnjhHZNJEDk</link>
             <description><![CDATA[Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...]]></description>
             <pubDate>Tue, 19 May 2026 12:30:29 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=cnjhHZNJEDk</guid>
             <source>Alex The Analyst</source>
-        </item>
-        <item>
-            <title>Comment installer Power BI en 3 minutes ! ⏱️🤩</title>
-            <link>https://www.youtube.com/watch?v=1uaJPZMHNho</link>
-            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
-            <pubDate>Fri, 27 Mar 2026 17:15:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1uaJPZMHNho</guid>
-            <source>Morpheus Formation | Excel, Power BI, Sheets</source>
         </item>
         <item>
             <title>Tutoriel Power BI 2026 : le guide complet pour les débutants  🚀</title>
@@ -155,14 +163,6 @@
             <pubDate>Wed, 13 May 2026 14:01:08 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=gwrKQ3UjAvc</guid>
             <source>Maven Analytics</source>
-        </item>
-        <item>
-            <title>Why the Future of Banking Is 100% Data – with Hannie Kashani</title>
-            <link>https://www.youtube.com/watch?v=ZPAjO77hpHg</link>
-            <description><![CDATA[Why the Future of Banking Is 100% Data – with Hannie Kashani Hannie LinkedIn profile ...]]></description>
-            <pubDate>Fri, 03 Apr 2026 21:00:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ZPAjO77hpHg</guid>
-            <source>Enogne School</source>
         </item>
     </channel>
 </rss>
