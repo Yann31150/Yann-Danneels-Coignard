@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-05-27T11:42:13.544453",
+  "lastUpdate": "2026-05-28T11:41:25.243547",
   "articles": [
+    {
+      "title": "Gemma 4 : L&#39;IA gratuite de Google qui va remplacer ChatGPT",
+      "description": "Je t'accompagne à lancer un business IA Rentable https://bit.ly/3PIHsae Gemma 4 est la nouvelle génération de modèles d'IA ...",
+      "url": "https://www.youtube.com/watch?v=s2vervy8thc",
+      "source": "Julien Massey",
+      "publishedAt": "2026-04-05T13:50:54Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "s2vervy8thc",
+      "thumbnail": "https://i.ytimg.com/vi/s2vervy8thc/hqdefault.jpg"
+    },
     {
       "title": "Les 3 types d&#39;apprentissage IA qui changent tout",
       "description": "Comment une intelligence artificielle apprend-elle vraiment ? Dans ce deuxième épisode de notre série sur le Machine Learning, ...",
@@ -74,6 +86,18 @@
       "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
     },
     {
+      "title": "Optimisation des hyperparamètres en ML avec « optuna » (Scikit-learn / Python)",
+      "description": "Machine learning. Data science. Le package « optuna » est une librairie Python dédiée à l'optimisation des hyperparamètres des ...",
+      "url": "https://www.youtube.com/watch?v=oOFMcUZDz0o",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-04-04T10:05:05Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "oOFMcUZDz0o",
+      "thumbnail": "https://i.ytimg.com/vi/oOFMcUZDz0o/hqdefault.jpg"
+    },
+    {
       "title": "SQL - Question bac NSI",
       "description": "SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...",
       "url": "https://www.youtube.com/watch?v=VLzCWa3nXrw",
@@ -96,30 +120,6 @@
       "isYouTube": true,
       "videoId": "5WwBqJAMlGo",
       "thumbnail": "https://i.ytimg.com/vi/5WwBqJAMlGo/hqdefault.jpg"
-    },
-    {
-      "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2026-05-10T15:00:38Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "w2JE7HUNJFU",
-      "thumbnail": "https://i.ytimg.com/vi/w2JE7HUNJFU/hqdefault.jpg"
-    },
-    {
-      "title": "La Descente de Gradient EXPLIQUÉE SIMPLEMENT  | Machine Learning Facile",
-      "description": "Tu veux comprendre la descente de gradient simplement ? Dans cette vidéo, je vous explique l'un des concepts les plus ...",
-      "url": "https://www.youtube.com/watch?v=oOYE4K1eqyc",
-      "source": "Comprendre l'informatique",
-      "publishedAt": "2026-03-29T13:12:10Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "oOYE4K1eqyc",
-      "thumbnail": "https://i.ytimg.com/vi/oOYE4K1eqyc/hqdefault.jpg"
     },
     {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
@@ -170,18 +170,6 @@
       "thumbnail": "https://i.ytimg.com/vi/86cmlVHp4cs/hqdefault.jpg"
     },
     {
-      "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
-      "description": "Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...",
-      "url": "https://www.youtube.com/watch?v=FL9r4dDKiIU",
-      "source": "Houssem Lahiani",
-      "publishedAt": "2026-04-19T20:17:51Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "FL9r4dDKiIU",
-      "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
-    },
-    {
       "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
       "description": "Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...",
       "url": "https://www.youtube.com/watch?v=cnjhHZNJEDk",
@@ -218,7 +206,19 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "Excel vs SQL vs Power Query vs Python | Who Cracks the NYC Property Data Fastest?",
+      "title": "Applied Data Science With Python Full Course 2026 [Free] | Python For Data Science | Simplilearn",
+      "description": "Data Scientist Masters Program (Discount Code - YTBE15) ...",
+      "url": "https://www.youtube.com/watch?v=vMlnM-UnnmU",
+      "source": "Simplilearn",
+      "publishedAt": "2026-04-15T16:30:33Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "vMlnM-UnnmU",
+      "thumbnail": "https://i.ytimg.com/vi/vMlnM-UnnmU/hqdefault.jpg"
+    },
+    {
+      "title": "Excel vs SQL vs Power Query vs Python: Who Wins the NYC Data Cleaning Race?",
       "description": "Save up to 50% off Maven Pro Plans! ➡️ https://bit.ly/4twfaxS Try the Data Drill yourself and let us know how you do!",
       "url": "https://www.youtube.com/watch?v=gwrKQ3UjAvc",
       "source": "Maven Analytics",

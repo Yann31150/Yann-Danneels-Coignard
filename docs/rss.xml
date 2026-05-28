@@ -5,13 +5,21 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 27 May 2026 11:42:13 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 11:41:25 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>Gemma 4 : L&amp;#39;IA gratuite de Google qui va remplacer ChatGPT</title>
+            <link>https://www.youtube.com/watch?v=s2vervy8thc</link>
+            <description><![CDATA[Je t'accompagne à lancer un business IA Rentable https://bit.ly/3PIHsae Gemma 4 est la nouvelle génération de modèles d'IA ...]]></description>
+            <pubDate>Sun, 05 Apr 2026 13:50:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=s2vervy8thc</guid>
+            <source>Julien Massey</source>
+        </item>
         <item>
             <title>Les 3 types d&amp;#39;apprentissage IA qui changent tout</title>
             <link>https://www.youtube.com/watch?v=vS8H8somgEs</link>
@@ -61,6 +69,14 @@
             <source>Kelenix</source>
         </item>
         <item>
+            <title>Optimisation des hyperparamètres en ML avec « optuna » (Scikit-learn / Python)</title>
+            <link>https://www.youtube.com/watch?v=oOFMcUZDz0o</link>
+            <description><![CDATA[Machine learning. Data science. Le package « optuna » est une librairie Python dédiée à l'optimisation des hyperparamètres des ...]]></description>
+            <pubDate>Sat, 04 Apr 2026 10:05:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=oOFMcUZDz0o</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
             <title>SQL - Question bac NSI</title>
             <link>https://www.youtube.com/watch?v=VLzCWa3nXrw</link>
             <description><![CDATA[SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...]]></description>
@@ -75,22 +91,6 @@
             <pubDate>Mon, 30 Mar 2026 09:00:04 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=5WwBqJAMlGo</guid>
             <source>Campus Channel</source>
-        </item>
-        <item>
-            <title>5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population</title>
-            <link>https://www.youtube.com/watch?v=w2JE7HUNJFU</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...]]></description>
-            <pubDate>Sun, 10 May 2026 15:00:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=w2JE7HUNJFU</guid>
-            <source>Yassine Sdiri</source>
-        </item>
-        <item>
-            <title>La Descente de Gradient EXPLIQUÉE SIMPLEMENT  | Machine Learning Facile</title>
-            <link>https://www.youtube.com/watch?v=oOYE4K1eqyc</link>
-            <description><![CDATA[Tu veux comprendre la descente de gradient simplement ? Dans cette vidéo, je vous explique l'un des concepts les plus ...]]></description>
-            <pubDate>Sun, 29 Mar 2026 13:12:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=oOYE4K1eqyc</guid>
-            <source>Comprendre l'informatique</source>
         </item>
         <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
@@ -125,14 +125,6 @@
             <source>Benjamin Ejzenberg (votre coach Power BI)</source>
         </item>
         <item>
-            <title>Big Data Décortiqué : Apache Spark Pour Débuter</title>
-            <link>https://www.youtube.com/watch?v=FL9r4dDKiIU</link>
-            <description><![CDATA[Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...]]></description>
-            <pubDate>Sun, 19 Apr 2026 20:17:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=FL9r4dDKiIU</guid>
-            <source>Houssem Lahiani</source>
-        </item>
-        <item>
             <title>2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS</title>
             <link>https://www.youtube.com/watch?v=cnjhHZNJEDk</link>
             <description><![CDATA[Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...]]></description>
@@ -157,7 +149,15 @@
             <source>DataSet By d@ne</source>
         </item>
         <item>
-            <title>Excel vs SQL vs Power Query vs Python | Who Cracks the NYC Property Data Fastest?</title>
+            <title>Applied Data Science With Python Full Course 2026 [Free] | Python For Data Science | Simplilearn</title>
+            <link>https://www.youtube.com/watch?v=vMlnM-UnnmU</link>
+            <description><![CDATA[Data Scientist Masters Program (Discount Code - YTBE15) ...]]></description>
+            <pubDate>Wed, 15 Apr 2026 16:30:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=vMlnM-UnnmU</guid>
+            <source>Simplilearn</source>
+        </item>
+        <item>
+            <title>Excel vs SQL vs Power Query vs Python: Who Wins the NYC Data Cleaning Race?</title>
             <link>https://www.youtube.com/watch?v=gwrKQ3UjAvc</link>
             <description><![CDATA[Save up to 50% off Maven Pro Plans! ➡️ https://bit.ly/4twfaxS Try the Data Drill yourself and let us know how you do!]]></description>
             <pubDate>Wed, 13 May 2026 14:01:08 -0000</pubDate>
