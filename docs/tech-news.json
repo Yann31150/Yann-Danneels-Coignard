@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-05-28T11:41:25.243547",
+  "lastUpdate": "2026-05-29T11:33:17.123009",
   "articles": [
-    {
-      "title": "Gemma 4 : L&#39;IA gratuite de Google qui va remplacer ChatGPT",
-      "description": "Je t'accompagne à lancer un business IA Rentable https://bit.ly/3PIHsae Gemma 4 est la nouvelle génération de modèles d'IA ...",
-      "url": "https://www.youtube.com/watch?v=s2vervy8thc",
-      "source": "Julien Massey",
-      "publishedAt": "2026-04-05T13:50:54Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "s2vervy8thc",
-      "thumbnail": "https://i.ytimg.com/vi/s2vervy8thc/hqdefault.jpg"
-    },
     {
       "title": "Les 3 types d&#39;apprentissage IA qui changent tout",
       "description": "Comment une intelligence artificielle apprend-elle vraiment ? Dans ce deuxième épisode de notre série sur le Machine Learning, ...",
@@ -86,6 +74,18 @@
       "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
     },
     {
+      "title": "Comment supprimer la pop-up &quot;Entrez votre adresse e-mail&quot; dans Power BI Desktop (Solution 2026)",
+      "description": "Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.",
+      "url": "https://www.youtube.com/watch?v=W9Ca51mHhDk",
+      "source": "TechVantage FR",
+      "publishedAt": "2026-05-09T13:23:36Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "W9Ca51mHhDk",
+      "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
+    },
+    {
       "title": "Optimisation des hyperparamètres en ML avec « optuna » (Scikit-learn / Python)",
       "description": "Machine learning. Data science. Le package « optuna » est une librairie Python dédiée à l'optimisation des hyperparamètres des ...",
       "url": "https://www.youtube.com/watch?v=oOFMcUZDz0o",
@@ -98,28 +98,28 @@
       "thumbnail": "https://i.ytimg.com/vi/oOFMcUZDz0o/hqdefault.jpg"
     },
     {
-      "title": "SQL - Question bac NSI",
-      "description": "SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...",
-      "url": "https://www.youtube.com/watch?v=VLzCWa3nXrw",
-      "source": "Célian",
-      "publishedAt": "2026-04-06T08:26:26Z",
+      "title": "# 14 - Synchroniser votre base de données avec les migrations",
+      "description": "Dans cette leçon, nous allons apprendre à faire le pont entre votre code PHP et votre base de données. Vous avez créé vos ...",
+      "url": "https://www.youtube.com/watch?v=IXFP0bdMO3Y",
+      "source": "Nicely Dev - Apprendre à coder",
+      "publishedAt": "2026-04-20T10:49:56Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "VLzCWa3nXrw",
-      "thumbnail": "https://i.ytimg.com/vi/VLzCWa3nXrw/hqdefault.jpg"
+      "videoId": "IXFP0bdMO3Y",
+      "thumbnail": "https://i.ytimg.com/vi/IXFP0bdMO3Y/hqdefault.jpg"
     },
     {
-      "title": "emlyon business school x Centrale Lyon - BSc in Data Science for Responsible Business",
-      "description": "00:00 Introduction 1:48 LE PITCH 3:04 LES ADMISSIONS 3:07 Comment postuler? 4:22 Quel type d'étudiant étais-tu?",
-      "url": "https://www.youtube.com/watch?v=5WwBqJAMlGo",
-      "source": "Campus Channel",
-      "publishedAt": "2026-03-30T09:00:04Z",
+      "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-05-10T15:00:38Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "5WwBqJAMlGo",
-      "thumbnail": "https://i.ytimg.com/vi/5WwBqJAMlGo/hqdefault.jpg"
+      "videoId": "w2JE7HUNJFU",
+      "thumbnail": "https://i.ytimg.com/vi/w2JE7HUNJFU/hqdefault.jpg"
     },
     {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
@@ -216,18 +216,6 @@
       "isYouTube": true,
       "videoId": "vMlnM-UnnmU",
       "thumbnail": "https://i.ytimg.com/vi/vMlnM-UnnmU/hqdefault.jpg"
-    },
-    {
-      "title": "Excel vs SQL vs Power Query vs Python: Who Wins the NYC Data Cleaning Race?",
-      "description": "Save up to 50% off Maven Pro Plans! ➡️ https://bit.ly/4twfaxS Try the Data Drill yourself and let us know how you do!",
-      "url": "https://www.youtube.com/watch?v=gwrKQ3UjAvc",
-      "source": "Maven Analytics",
-      "publishedAt": "2026-05-13T14:01:08Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "gwrKQ3UjAvc",
-      "thumbnail": "https://i.ytimg.com/vi/gwrKQ3UjAvc/hqdefault.jpg"
     }
   ]
 }
