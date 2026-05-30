@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-05-29T11:33:17.123009",
+  "lastUpdate": "2026-05-30T10:04:02.584251",
   "articles": [
+    {
+      "title": "IA - réseau de neurones / Machine learning",
+      "description": "ia #ai #machinelearning #réseaudeneurones #informatique #chatgpt #gemini #copilot Lien utilisé dans la vidéo ...",
+      "url": "https://www.youtube.com/watch?v=k2rifQzyqtA",
+      "source": "Nicolasit",
+      "publishedAt": "2026-04-25T19:16:18Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "k2rifQzyqtA",
+      "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
+    },
     {
       "title": "Les 3 types d&#39;apprentissage IA qui changent tout",
       "description": "Comment une intelligence artificielle apprend-elle vraiment ? Dans ce deuxième épisode de notre série sur le Machine Learning, ...",
@@ -36,6 +48,18 @@
       "isYouTube": true,
       "videoId": "77IMWD4TWtg",
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
+    },
+    {
+      "title": "Utiliser Claude avec Power BI : le hack ultime",
+      "description": "https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...",
+      "url": "https://www.youtube.com/watch?v=NFpt6GfkTg8",
+      "source": "Clément LVL",
+      "publishedAt": "2026-04-11T16:34:52Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "NFpt6GfkTg8",
+      "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
     },
     {
       "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
@@ -74,18 +98,6 @@
       "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
     },
     {
-      "title": "Comment supprimer la pop-up &quot;Entrez votre adresse e-mail&quot; dans Power BI Desktop (Solution 2026)",
-      "description": "Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.",
-      "url": "https://www.youtube.com/watch?v=W9Ca51mHhDk",
-      "source": "TechVantage FR",
-      "publishedAt": "2026-05-09T13:23:36Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "W9Ca51mHhDk",
-      "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
-    },
-    {
       "title": "Optimisation des hyperparamètres en ML avec « optuna » (Scikit-learn / Python)",
       "description": "Machine learning. Data science. Le package « optuna » est une librairie Python dédiée à l'optimisation des hyperparamètres des ...",
       "url": "https://www.youtube.com/watch?v=oOFMcUZDz0o",
@@ -98,28 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/oOFMcUZDz0o/hqdefault.jpg"
     },
     {
-      "title": "# 14 - Synchroniser votre base de données avec les migrations",
-      "description": "Dans cette leçon, nous allons apprendre à faire le pont entre votre code PHP et votre base de données. Vous avez créé vos ...",
-      "url": "https://www.youtube.com/watch?v=IXFP0bdMO3Y",
-      "source": "Nicely Dev - Apprendre à coder",
-      "publishedAt": "2026-04-20T10:49:56Z",
+      "title": "SQL - Question bac NSI",
+      "description": "SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...",
+      "url": "https://www.youtube.com/watch?v=VLzCWa3nXrw",
+      "source": "Célian",
+      "publishedAt": "2026-04-06T08:26:26Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "IXFP0bdMO3Y",
-      "thumbnail": "https://i.ytimg.com/vi/IXFP0bdMO3Y/hqdefault.jpg"
-    },
-    {
-      "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2026-05-10T15:00:38Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "w2JE7HUNJFU",
-      "thumbnail": "https://i.ytimg.com/vi/w2JE7HUNJFU/hqdefault.jpg"
+      "videoId": "VLzCWa3nXrw",
+      "thumbnail": "https://i.ytimg.com/vi/VLzCWa3nXrw/hqdefault.jpg"
     },
     {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",

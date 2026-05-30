@@ -5,13 +5,21 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 29 May 2026 11:33:17 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 10:04:02 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>IA - réseau de neurones / Machine learning</title>
+            <link>https://www.youtube.com/watch?v=k2rifQzyqtA</link>
+            <description><![CDATA[ia #ai #machinelearning #réseaudeneurones #informatique #chatgpt #gemini #copilot Lien utilisé dans la vidéo ...]]></description>
+            <pubDate>Sat, 25 Apr 2026 19:16:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=k2rifQzyqtA</guid>
+            <source>Nicolasit</source>
+        </item>
         <item>
             <title>Les 3 types d&amp;#39;apprentissage IA qui changent tout</title>
             <link>https://www.youtube.com/watch?v=vS8H8somgEs</link>
@@ -35,6 +43,14 @@
             <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
             <source>Comprendre l'informatique</source>
+        </item>
+        <item>
+            <title>Utiliser Claude avec Power BI : le hack ultime</title>
+            <link>https://www.youtube.com/watch?v=NFpt6GfkTg8</link>
+            <description><![CDATA[https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...]]></description>
+            <pubDate>Sat, 11 Apr 2026 16:34:52 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=NFpt6GfkTg8</guid>
+            <source>Clément LVL</source>
         </item>
         <item>
             <title>ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&amp;#39;IA</title>
@@ -61,14 +77,6 @@
             <source>Kelenix</source>
         </item>
         <item>
-            <title>Comment supprimer la pop-up &amp;quot;Entrez votre adresse e-mail&amp;quot; dans Power BI Desktop (Solution 2026)</title>
-            <link>https://www.youtube.com/watch?v=W9Ca51mHhDk</link>
-            <description><![CDATA[Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.]]></description>
-            <pubDate>Sat, 09 May 2026 13:23:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=W9Ca51mHhDk</guid>
-            <source>TechVantage FR</source>
-        </item>
-        <item>
             <title>Optimisation des hyperparamètres en ML avec « optuna » (Scikit-learn / Python)</title>
             <link>https://www.youtube.com/watch?v=oOFMcUZDz0o</link>
             <description><![CDATA[Machine learning. Data science. Le package « optuna » est une librairie Python dédiée à l'optimisation des hyperparamètres des ...]]></description>
@@ -77,20 +85,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title># 14 - Synchroniser votre base de données avec les migrations</title>
-            <link>https://www.youtube.com/watch?v=IXFP0bdMO3Y</link>
-            <description><![CDATA[Dans cette leçon, nous allons apprendre à faire le pont entre votre code PHP et votre base de données. Vous avez créé vos ...]]></description>
-            <pubDate>Mon, 20 Apr 2026 10:49:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=IXFP0bdMO3Y</guid>
-            <source>Nicely Dev - Apprendre à coder</source>
-        </item>
-        <item>
-            <title>5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population</title>
-            <link>https://www.youtube.com/watch?v=w2JE7HUNJFU</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...]]></description>
-            <pubDate>Sun, 10 May 2026 15:00:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=w2JE7HUNJFU</guid>
-            <source>Yassine Sdiri</source>
+            <title>SQL - Question bac NSI</title>
+            <link>https://www.youtube.com/watch?v=VLzCWa3nXrw</link>
+            <description><![CDATA[SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...]]></description>
+            <pubDate>Mon, 06 Apr 2026 08:26:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=VLzCWa3nXrw</guid>
+            <source>Célian</source>
         </item>
         <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
