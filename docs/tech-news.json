@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "2026-05-30T10:04:02.584251",
+  "lastUpdate": "2026-05-31T10:19:16.421461",
   "articles": [
     {
-      "title": "IA - réseau de neurones / Machine learning",
-      "description": "ia #ai #machinelearning #réseaudeneurones #informatique #chatgpt #gemini #copilot Lien utilisé dans la vidéo ...",
-      "url": "https://www.youtube.com/watch?v=k2rifQzyqtA",
-      "source": "Nicolasit",
-      "publishedAt": "2026-04-25T19:16:18Z",
+      "title": "Comment l&#39;IA apprend-elle ? (Le Machine Learning expliqué simplement)",
+      "description": "Bonjour à tous et bienvenue dans cette nouvelle aventure au cœur de l'intelligence artificielle ! Dans cette vidéo, on brise les ...",
+      "url": "https://www.youtube.com/watch?v=W41BgkNkQ0g",
+      "source": "Vitamine IA",
+      "publishedAt": "2026-05-06T21:38:41Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "k2rifQzyqtA",
-      "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
+      "videoId": "W41BgkNkQ0g",
+      "thumbnail": "https://i.ytimg.com/vi/W41BgkNkQ0g/hqdefault.jpg"
     },
     {
       "title": "Les 3 types d&#39;apprentissage IA qui changent tout",
@@ -50,18 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
     },
     {
-      "title": "Utiliser Claude avec Power BI : le hack ultime",
-      "description": "https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...",
-      "url": "https://www.youtube.com/watch?v=NFpt6GfkTg8",
-      "source": "Clément LVL",
-      "publishedAt": "2026-04-11T16:34:52Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "NFpt6GfkTg8",
-      "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
-    },
-    {
       "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
       "description": "Tu veux apprendre le SQL pour travailler dans la data ? ModAi Lab est la plateforme d'apprentissage SQL gamifiée et assistée ...",
       "url": "https://www.youtube.com/watch?v=bvm-n-HN8ws",
@@ -96,6 +84,18 @@
       "isYouTube": true,
       "videoId": "DngKcAFU3Kc",
       "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
+    },
+    {
+      "title": "Comment supprimer la pop-up &quot;Entrez votre adresse e-mail&quot; dans Power BI Desktop (Solution 2026)",
+      "description": "Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.",
+      "url": "https://www.youtube.com/watch?v=W9Ca51mHhDk",
+      "source": "TechVantage FR",
+      "publishedAt": "2026-05-09T13:23:36Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "W9Ca51mHhDk",
+      "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
     },
     {
       "title": "Optimisation des hyperparamètres en ML avec « optuna » (Scikit-learn / Python)",
