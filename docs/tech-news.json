@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-05-31T10:19:16.421461",
+  "lastUpdate": "2026-06-01T13:41:29.154300",
   "articles": [
-    {
-      "title": "Comment l&#39;IA apprend-elle ? (Le Machine Learning expliqué simplement)",
-      "description": "Bonjour à tous et bienvenue dans cette nouvelle aventure au cœur de l'intelligence artificielle ! Dans cette vidéo, on brise les ...",
-      "url": "https://www.youtube.com/watch?v=W41BgkNkQ0g",
-      "source": "Vitamine IA",
-      "publishedAt": "2026-05-06T21:38:41Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "W41BgkNkQ0g",
-      "thumbnail": "https://i.ytimg.com/vi/W41BgkNkQ0g/hqdefault.jpg"
-    },
     {
       "title": "Les 3 types d&#39;apprentissage IA qui changent tout",
       "description": "Comment une intelligence artificielle apprend-elle vraiment ? Dans ce deuxième épisode de notre série sur le Machine Learning, ...",
@@ -38,6 +26,18 @@
       "thumbnail": "https://i.ytimg.com/vi/cv3KzQShV_o/hqdefault.jpg"
     },
     {
+      "title": "Gemma 4 : L&#39;IA de Google Gratuite, Illimitée, Locale &amp; SANS Internet !",
+      "description": "Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...",
+      "url": "https://www.youtube.com/watch?v=9onqtz5EwHE",
+      "source": "Alpa14",
+      "publishedAt": "2026-04-21T14:02:45Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "9onqtz5EwHE",
+      "thumbnail": "https://i.ytimg.com/vi/9onqtz5EwHE/hqdefault.jpg"
+    },
+    {
       "title": "Comment fonctionne ChatGPT ?  Explication simple et claire.",
       "description": "Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...",
       "url": "https://www.youtube.com/watch?v=77IMWD4TWtg",
@@ -48,6 +48,18 @@
       "isYouTube": true,
       "videoId": "77IMWD4TWtg",
       "thumbnail": "https://i.ytimg.com/vi/77IMWD4TWtg/hqdefault.jpg"
+    },
+    {
+      "title": "Utiliser Claude avec Power BI : le hack ultime",
+      "description": "https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...",
+      "url": "https://www.youtube.com/watch?v=NFpt6GfkTg8",
+      "source": "Clément LVL",
+      "publishedAt": "2026-04-11T16:34:52Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "NFpt6GfkTg8",
+      "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
     },
     {
       "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
@@ -84,18 +96,6 @@
       "isYouTube": true,
       "videoId": "DngKcAFU3Kc",
       "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
-    },
-    {
-      "title": "Comment supprimer la pop-up &quot;Entrez votre adresse e-mail&quot; dans Power BI Desktop (Solution 2026)",
-      "description": "Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.",
-      "url": "https://www.youtube.com/watch?v=W9Ca51mHhDk",
-      "source": "TechVantage FR",
-      "publishedAt": "2026-05-09T13:23:36Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "W9Ca51mHhDk",
-      "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
     },
     {
       "title": "Optimisation des hyperparamètres en ML avec « optuna » (Scikit-learn / Python)",
@@ -216,6 +216,90 @@
       "isYouTube": true,
       "videoId": "vMlnM-UnnmU",
       "thumbnail": "https://i.ytimg.com/vi/vMlnM-UnnmU/hqdefault.jpg"
+    },
+    {
+      "title": "Comment protéger ses données et son compte bancaire sur les réseaux Wi-Fi publics ?",
+      "description": "Se connecter à un réseau Wi-Fi public met en danger vos données personnelles ainsi que vos informations bancaires. Il existe pourtant des moyens de les utiliser tout en restant protégé....",
+      "url": "https://www.phonandroid.com/comment-proteger-ses-donnees-et-son-compte-bancaire-sur-les-reseaux-wi-fi-publics.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-05-31T12:18:15Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "mindlab 4.0.0",
+      "description": "Data science toolbox",
+      "url": "https://pypi.org/project/mindlab/4.0.0/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-05-30T08:42:34Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "IA, data centers : l’investissement vertigineux de 75 milliards du japonais SoftBank à l’occasion de Choose France",
+      "description": "Le géant japonais SoftBank va investir une somme record de 75 milliards d’euros en France dans les infrastructures liées à l’intelligence artificielle, notamment les data centers. L’annonce, parue ce ...",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/ia-data-centers-linvestissement-vertigineux-de-75-milliards-du-japonais-softbank-a-loccasion-de-choose-france_643765",
+      "source": "Challenges",
+      "publishedAt": "2026-05-31T08:03:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "128 Go de mémoire unifiée, modèles à 200 milliards de paramètres : Acer dégaine un mini-PC IA pour défier le DGX Spark de Nvidia",
+      "description": "Acer dégaine un mini-PC IA qui vise frontalement le Nvidia DGX Spark, en misant sur le Ryzen AI Max+ 395 et 128 Go de mémoire unifiée. Annoncé hier, le Veriton RA110 promet de faire tourner des modèle...",
+      "url": "https://www.frandroid.com/marques/acer/3119853_128-go-de-memoire-unifiee-modeles-a-200-milliards-de-parametres-acer-degaine-un-mini-pc-ia-pour-defier-le-dgx-spark-de-nvidia",
+      "source": "Frandroid",
+      "publishedAt": "2026-05-31T10:10:25Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "La Silicon Valley fait de l’IA sa religion et se soucie peu de l’avertissement du pape",
+      "description": "Dans sa première encyclique, Léon XIV a appelé à ériger des garde-fous au développement de l’intelligence artificielle et rappelé tout ce qui la séparait de l’humain. Ses mises en garde ont cependant ...",
+      "url": "https://www.courrierinternational.com/article/tech-la-silicon-valley-fait-de-l-ia-sa-religion-et-se-soucie-peu-de-l-avertissement-du-pape_244455",
+      "source": "Courrier International",
+      "publishedAt": "2026-05-31T09:58:49Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Et si la science-fiction avait depuis longtemps anticipé l’IA… et ses problématiques ?",
+      "description": "Longtemps cantonnée à l’imaginaire, l’intelligence artificielle est désormais une réalité. À mesure qu’elle s’impose dans de nombreux domaines, les interrogations qu’elle suscite rappellent celles for...",
+      "url": "https://www.futura-sciences.com/sciences/actualites/science-fiction-si-science-fiction-avait-depuis-longtemps-anticipe-ia-problematiques-134309/",
+      "source": "Futura",
+      "publishedAt": "2026-05-30T14:01:27Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "CATL lance le plus grand banc d'essai de stockage d'énergie au monde et fait entrer l'industrie dans l'ère de la validation en conditions réelles",
+      "description": "XIAMEN, Chine, 31 mai 2026 /PRNewswire/ -- L'Institut de recherche sur la validation du stockage de l'énergie (ESVL) de CATL à Xiamen, la plateforme unique d'essai et de validation la plus importante ...",
+      "url": "https://www.prnewswire.com/news-releases/catl-lance-le-plus-grand-banc-dessai-de-stockage-denergie-au-monde-et-fait-entrer-lindustrie-dans-lere-de-la-validation-en-conditions-reelles-302786377.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-05-31T05:03:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }

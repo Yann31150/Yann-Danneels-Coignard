@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 31 May 2026 10:19:16 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 13:41:29 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Comment l&amp;#39;IA apprend-elle ? (Le Machine Learning expliqué simplement)</title>
-            <link>https://www.youtube.com/watch?v=W41BgkNkQ0g</link>
-            <description><![CDATA[Bonjour à tous et bienvenue dans cette nouvelle aventure au cœur de l'intelligence artificielle ! Dans cette vidéo, on brise les ...]]></description>
-            <pubDate>Wed, 06 May 2026 21:38:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=W41BgkNkQ0g</guid>
-            <source>Vitamine IA</source>
-        </item>
         <item>
             <title>Les 3 types d&amp;#39;apprentissage IA qui changent tout</title>
             <link>https://www.youtube.com/watch?v=vS8H8somgEs</link>
@@ -37,12 +29,28 @@
             <source>Quant Insights FR</source>
         </item>
         <item>
+            <title>Gemma 4 : L&amp;#39;IA de Google Gratuite, Illimitée, Locale &amp;amp; SANS Internet !</title>
+            <link>https://www.youtube.com/watch?v=9onqtz5EwHE</link>
+            <description><![CDATA[Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...]]></description>
+            <pubDate>Tue, 21 Apr 2026 14:02:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=9onqtz5EwHE</guid>
+            <source>Alpa14</source>
+        </item>
+        <item>
             <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
             <link>https://www.youtube.com/watch?v=77IMWD4TWtg</link>
             <description><![CDATA[Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...]]></description>
             <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
             <source>Comprendre l'informatique</source>
+        </item>
+        <item>
+            <title>Utiliser Claude avec Power BI : le hack ultime</title>
+            <link>https://www.youtube.com/watch?v=NFpt6GfkTg8</link>
+            <description><![CDATA[https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...]]></description>
+            <pubDate>Sat, 11 Apr 2026 16:34:52 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=NFpt6GfkTg8</guid>
+            <source>Clément LVL</source>
         </item>
         <item>
             <title>ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&amp;#39;IA</title>
@@ -67,14 +75,6 @@
             <pubDate>Wed, 08 Apr 2026 07:53:49 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=DngKcAFU3Kc</guid>
             <source>Kelenix</source>
-        </item>
-        <item>
-            <title>Comment supprimer la pop-up &amp;quot;Entrez votre adresse e-mail&amp;quot; dans Power BI Desktop (Solution 2026)</title>
-            <link>https://www.youtube.com/watch?v=W9Ca51mHhDk</link>
-            <description><![CDATA[Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.]]></description>
-            <pubDate>Sat, 09 May 2026 13:23:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=W9Ca51mHhDk</guid>
-            <source>TechVantage FR</source>
         </item>
         <item>
             <title>Optimisation des hyperparamètres en ML avec « optuna » (Scikit-learn / Python)</title>
@@ -155,6 +155,22 @@
             <pubDate>Wed, 15 Apr 2026 16:30:33 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=vMlnM-UnnmU</guid>
             <source>Simplilearn</source>
+        </item>
+        <item>
+            <title>Comment protéger ses données et son compte bancaire sur les réseaux Wi-Fi publics ?</title>
+            <link>https://www.phonandroid.com/comment-proteger-ses-donnees-et-son-compte-bancaire-sur-les-reseaux-wi-fi-publics.html</link>
+            <description><![CDATA[Se connecter à un réseau Wi-Fi public met en danger vos données personnelles ainsi que vos informations bancaires. Il existe pourtant des moyens de les utiliser tout en restant protégé....]]></description>
+            <pubDate>Sun, 31 May 2026 12:18:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.phonandroid.com/comment-proteger-ses-donnees-et-son-compte-bancaire-sur-les-reseaux-wi-fi-publics.html</guid>
+            <source>Phonandroid</source>
+        </item>
+        <item>
+            <title>mindlab 4.0.0</title>
+            <link>https://pypi.org/project/mindlab/4.0.0/</link>
+            <description><![CDATA[Data science toolbox]]></description>
+            <pubDate>Sat, 30 May 2026 08:42:34 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/mindlab/4.0.0/</guid>
+            <source>Pypi.org</source>
         </item>
     </channel>
 </rss>
