@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 01 Jun 2026 13:41:29 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 12:08:37 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Les 3 types d&amp;#39;apprentissage IA qui changent tout</title>
-            <link>https://www.youtube.com/watch?v=vS8H8somgEs</link>
-            <description><![CDATA[Comment une intelligence artificielle apprend-elle vraiment ? Dans ce deuxième épisode de notre série sur le Machine Learning, ...]]></description>
-            <pubDate>Thu, 07 May 2026 10:47:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=vS8H8somgEs</guid>
-            <source>Vitamine IA</source>
+            <title>IA - réseau de neurones / Machine learning</title>
+            <link>https://www.youtube.com/watch?v=k2rifQzyqtA</link>
+            <description><![CDATA[ia #ai #machinelearning #réseaudeneurones #informatique #chatgpt #gemini #copilot Lien utilisé dans la vidéo ...]]></description>
+            <pubDate>Sat, 25 Apr 2026 19:16:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=k2rifQzyqtA</guid>
+            <source>Nicolasit</source>
         </item>
         <item>
             <title>Le Machine Learning en Finance : Mythes vs Réalité</title>
@@ -29,6 +29,14 @@
             <source>Quant Insights FR</source>
         </item>
         <item>
+            <title>Prompt Engineering expliqué simplement</title>
+            <link>https://www.youtube.com/watch?v=WaCHRGjjSxQ</link>
+            <description><![CDATA[Le Prompt Engineering est aujourd'hui la compétence essentielle pour exploiter pleinement l'intelligence artificielle (ChatGPT, ...]]></description>
+            <pubDate>Sun, 12 Apr 2026 20:52:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=WaCHRGjjSxQ</guid>
+            <source>Comprendre l'informatique</source>
+        </item>
+        <item>
             <title>Gemma 4 : L&amp;#39;IA de Google Gratuite, Illimitée, Locale &amp;amp; SANS Internet !</title>
             <link>https://www.youtube.com/watch?v=9onqtz5EwHE</link>
             <description><![CDATA[Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...]]></description>
@@ -37,20 +45,28 @@
             <source>Alpa14</source>
         </item>
         <item>
-            <title>Comment fonctionne ChatGPT ?  Explication simple et claire.</title>
-            <link>https://www.youtube.com/watch?v=77IMWD4TWtg</link>
-            <description><![CDATA[Découvrez comment fonctionne ChatGPT de manière simple et accessible ! Dans cette vidéo, je vous explique le fonctionnement ...]]></description>
-            <pubDate>Thu, 02 Apr 2026 23:58:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=77IMWD4TWtg</guid>
-            <source>Comprendre l'informatique</source>
-        </item>
-        <item>
             <title>Utiliser Claude avec Power BI : le hack ultime</title>
             <link>https://www.youtube.com/watch?v=NFpt6GfkTg8</link>
             <description><![CDATA[https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...]]></description>
             <pubDate>Sat, 11 Apr 2026 16:34:52 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=NFpt6GfkTg8</guid>
             <source>Clément LVL</source>
+        </item>
+        <item>
+            <title>Data Science Full Course For Free | Learn Data Science From Basics | Intellipaat</title>
+            <link>https://www.youtube.com/watch?v=bukx4juQP4o</link>
+            <description><![CDATA[Enroll for Data Science Course: https://intellipaat.com/data-scientist-course-training/ Learn Data Science from scratch with this ...]]></description>
+            <pubDate>Mon, 13 Apr 2026 14:30:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=bukx4juQP4o</guid>
+            <source>Intellipaat</source>
+        </item>
+        <item>
+            <title>Data Science Full Course 2026 | Data Science Tutorial | Data Science In 50 Hours | Simplilearn</title>
+            <link>https://www.youtube.com/watch?v=oopNG3ll8MQ</link>
+            <description><![CDATA[Applied Data Science with Python ...]]></description>
+            <pubDate>Wed, 20 May 2026 14:30:28 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=oopNG3ll8MQ</guid>
+            <source>Simplilearn</source>
         </item>
         <item>
             <title>ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&amp;#39;IA</title>
@@ -75,22 +91,6 @@
             <pubDate>Wed, 08 Apr 2026 07:53:49 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=DngKcAFU3Kc</guid>
             <source>Kelenix</source>
-        </item>
-        <item>
-            <title>Optimisation des hyperparamètres en ML avec « optuna » (Scikit-learn / Python)</title>
-            <link>https://www.youtube.com/watch?v=oOFMcUZDz0o</link>
-            <description><![CDATA[Machine learning. Data science. Le package « optuna » est une librairie Python dédiée à l'optimisation des hyperparamètres des ...]]></description>
-            <pubDate>Sat, 04 Apr 2026 10:05:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=oOFMcUZDz0o</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>SQL - Question bac NSI</title>
-            <link>https://www.youtube.com/watch?v=VLzCWa3nXrw</link>
-            <description><![CDATA[SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...]]></description>
-            <pubDate>Mon, 06 Apr 2026 08:26:26 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VLzCWa3nXrw</guid>
-            <source>Célian</source>
         </item>
         <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
@@ -133,14 +133,6 @@
             <source>Alex The Analyst</source>
         </item>
         <item>
-            <title>Tutoriel Power BI 2026 : le guide complet pour les débutants  🚀</title>
-            <link>https://www.youtube.com/watch?v=SqzUaKJb384</link>
-            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
-            <pubDate>Thu, 02 Apr 2026 16:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=SqzUaKJb384</guid>
-            <source>Morpheus Formation | Excel, Power BI, Sheets</source>
-        </item>
-        <item>
             <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>
             <link>https://www.youtube.com/watch?v=9t1mXWkqj0g</link>
             <description><![CDATA[Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...]]></description>
@@ -150,27 +142,11 @@
         </item>
         <item>
             <title>Applied Data Science With Python Full Course 2026 [Free] | Python For Data Science | Simplilearn</title>
-            <link>https://www.youtube.com/watch?v=vMlnM-UnnmU</link>
-            <description><![CDATA[Data Scientist Masters Program (Discount Code - YTBE15) ...]]></description>
-            <pubDate>Wed, 15 Apr 2026 16:30:33 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=vMlnM-UnnmU</guid>
+            <link>https://www.youtube.com/watch?v=T9ricGdHz1k</link>
+            <description><![CDATA[Data Scientist Masters Program (Discount - YTBE15) ...]]></description>
+            <pubDate>Tue, 19 May 2026 23:10:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=T9ricGdHz1k</guid>
             <source>Simplilearn</source>
-        </item>
-        <item>
-            <title>Comment protéger ses données et son compte bancaire sur les réseaux Wi-Fi publics ?</title>
-            <link>https://www.phonandroid.com/comment-proteger-ses-donnees-et-son-compte-bancaire-sur-les-reseaux-wi-fi-publics.html</link>
-            <description><![CDATA[Se connecter à un réseau Wi-Fi public met en danger vos données personnelles ainsi que vos informations bancaires. Il existe pourtant des moyens de les utiliser tout en restant protégé....]]></description>
-            <pubDate>Sun, 31 May 2026 12:18:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.phonandroid.com/comment-proteger-ses-donnees-et-son-compte-bancaire-sur-les-reseaux-wi-fi-publics.html</guid>
-            <source>Phonandroid</source>
-        </item>
-        <item>
-            <title>mindlab 4.0.0</title>
-            <link>https://pypi.org/project/mindlab/4.0.0/</link>
-            <description><![CDATA[Data science toolbox]]></description>
-            <pubDate>Sat, 30 May 2026 08:42:34 -0000</pubDate>
-            <guid isPermaLink="true">https://pypi.org/project/mindlab/4.0.0/</guid>
-            <source>Pypi.org</source>
         </item>
     </channel>
 </rss>
