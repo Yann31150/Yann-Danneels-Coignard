@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 02 Jun 2026 12:08:37 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 12:44:41 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -61,12 +61,12 @@
             <source>Intellipaat</source>
         </item>
         <item>
-            <title>Data Science Full Course 2026 | Data Science Tutorial | Data Science In 50 Hours | Simplilearn</title>
-            <link>https://www.youtube.com/watch?v=oopNG3ll8MQ</link>
-            <description><![CDATA[Applied Data Science with Python ...]]></description>
-            <pubDate>Wed, 20 May 2026 14:30:28 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=oopNG3ll8MQ</guid>
-            <source>Simplilearn</source>
+            <title>Claude rend Power BI 10x plus rapide</title>
+            <link>https://www.youtube.com/watch?v=SvIZcjQgFiQ</link>
+            <description><![CDATA[Dans cette vidéo, je vous montre comment utiliser Claude comme assistant IA pour accélérer vos projets Power BI, générer du ...]]></description>
+            <pubDate>Sun, 03 May 2026 12:46:10 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=SvIZcjQgFiQ</guid>
+            <source>Benjamin Ejzenberg (votre coach Power BI)</source>
         </item>
         <item>
             <title>ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&amp;#39;IA</title>
@@ -101,22 +101,6 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Formation Power BI — Créer un Dashboard interactif | Flotte Aérienne Luxembourgeoise</title>
-            <link>https://www.youtube.com/watch?v=ltlf84WBXeY</link>
-            <description><![CDATA[00:00 - Introduction &amp; présentation de Power BI 04:40 - Étape 1 — Import des données (fichiers CSV) 12:27 - Étape 2 — Modèle ...]]></description>
-            <pubDate>Fri, 03 Apr 2026 16:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ltlf84WBXeY</guid>
-            <source>Laurent MAGANTO</source>
-        </item>
-        <item>
-            <title>SQL Server Management Studio 22 – Tutoriel SQL Complet pour Débutants (SSMS 22) - SQL server 2025</title>
-            <link>https://www.youtube.com/watch?v=10SDW2LoxX4</link>
-            <description><![CDATA[Maîtrisez SQL Server Management Studio 22 (SSMS 22) dès aujourd'hui ! Dans ce tutoriel complet SQL Server, vous découvrirez ...]]></description>
-            <pubDate>Sat, 04 Apr 2026 10:00:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=10SDW2LoxX4</guid>
-            <source>Tchaps Tech</source>
-        </item>
-        <item>
             <title>Dashboard Power BI Impressionnant | Tutoriel Débutant</title>
             <link>https://www.youtube.com/watch?v=86cmlVHp4cs</link>
             <description><![CDATA[Dans cette vidéo, je vous montre comment créer un dashboard professionnel dans Power BI en partant de zéro. Pas besoin de ...]]></description>
@@ -133,20 +117,20 @@
             <source>Alex The Analyst</source>
         </item>
         <item>
+            <title>Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas</title>
+            <link>https://www.youtube.com/watch?v=OKS6wtA2lAA</link>
+            <description><![CDATA[Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...]]></description>
+            <pubDate>Wed, 03 Jun 2026 12:13:50 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=OKS6wtA2lAA</guid>
+            <source>OUJOOD</source>
+        </item>
+        <item>
             <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>
             <link>https://www.youtube.com/watch?v=9t1mXWkqj0g</link>
             <description><![CDATA[Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...]]></description>
             <pubDate>Sun, 10 May 2026 18:00:17 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=9t1mXWkqj0g</guid>
             <source>DataSet By d@ne</source>
-        </item>
-        <item>
-            <title>Applied Data Science With Python Full Course 2026 [Free] | Python For Data Science | Simplilearn</title>
-            <link>https://www.youtube.com/watch?v=T9ricGdHz1k</link>
-            <description><![CDATA[Data Scientist Masters Program (Discount - YTBE15) ...]]></description>
-            <pubDate>Tue, 19 May 2026 23:10:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=T9ricGdHz1k</guid>
-            <source>Simplilearn</source>
         </item>
     </channel>
 </rss>
