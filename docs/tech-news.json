@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-03T12:44:41.360550",
+  "lastUpdate": "2026-06-04T11:18:26.000809",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -38,18 +38,6 @@
       "thumbnail": "https://i.ytimg.com/vi/WaCHRGjjSxQ/hqdefault.jpg"
     },
     {
-      "title": "Gemma 4 : L&#39;IA de Google Gratuite, Illimitée, Locale &amp; SANS Internet !",
-      "description": "Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...",
-      "url": "https://www.youtube.com/watch?v=9onqtz5EwHE",
-      "source": "Alpa14",
-      "publishedAt": "2026-04-21T14:02:45Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "9onqtz5EwHE",
-      "thumbnail": "https://i.ytimg.com/vi/9onqtz5EwHE/hqdefault.jpg"
-    },
-    {
       "title": "Utiliser Claude avec Power BI : le hack ultime",
       "description": "https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...",
       "url": "https://www.youtube.com/watch?v=NFpt6GfkTg8",
@@ -60,18 +48,6 @@
       "isYouTube": true,
       "videoId": "NFpt6GfkTg8",
       "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
-    },
-    {
-      "title": "Data Science Full Course For Free | Learn Data Science From Basics | Intellipaat",
-      "description": "Enroll for Data Science Course: https://intellipaat.com/data-scientist-course-training/ Learn Data Science from scratch with this ...",
-      "url": "https://www.youtube.com/watch?v=bukx4juQP4o",
-      "source": "Intellipaat",
-      "publishedAt": "2026-04-13T14:30:26Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "bukx4juQP4o",
-      "thumbnail": "https://i.ytimg.com/vi/bukx4juQP4o/hqdefault.jpg"
     },
     {
       "title": "Claude rend Power BI 10x plus rapide",
@@ -122,6 +98,30 @@
       "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
     },
     {
+      "title": "Comment supprimer la pop-up &quot;Entrez votre adresse e-mail&quot; dans Power BI Desktop (Solution 2026)",
+      "description": "Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.",
+      "url": "https://www.youtube.com/watch?v=W9Ca51mHhDk",
+      "source": "TechVantage FR",
+      "publishedAt": "2026-05-09T13:23:36Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "W9Ca51mHhDk",
+      "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
+    },
+    {
+      "title": "SQL - Question bac NSI",
+      "description": "SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...",
+      "url": "https://www.youtube.com/watch?v=VLzCWa3nXrw",
+      "source": "Célian",
+      "publishedAt": "2026-04-06T08:26:26Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "VLzCWa3nXrw",
+      "thumbnail": "https://i.ytimg.com/vi/VLzCWa3nXrw/hqdefault.jpg"
+    },
+    {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
       "description": "Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...",
       "url": "https://www.youtube.com/watch?v=rhE7Ab_sBTo",
@@ -144,6 +144,18 @@
       "isYouTube": true,
       "videoId": "86cmlVHp4cs",
       "thumbnail": "https://i.ytimg.com/vi/86cmlVHp4cs/hqdefault.jpg"
+    },
+    {
+      "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
+      "description": "Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...",
+      "url": "https://www.youtube.com/watch?v=FL9r4dDKiIU",
+      "source": "Houssem Lahiani",
+      "publishedAt": "2026-04-19T20:17:51Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "FL9r4dDKiIU",
+      "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
     },
     {
       "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
@@ -180,6 +192,18 @@
       "isYouTube": true,
       "videoId": "9t1mXWkqj0g",
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
+    },
+    {
+      "title": "De Zéro à Hermes Agent en 10 Minutes Seulement ⏱️",
+      "description": "Serveur HERMES (coupon : GOHERMES) : https://www.hostinger.fr/gohermes Dans cette vidéo, je vous montre comment installer ...",
+      "url": "https://www.youtube.com/watch?v=wojqM-B7y2g",
+      "source": "Dr. Firas",
+      "publishedAt": "2026-05-12T11:01:34Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "wojqM-B7y2g",
+      "thumbnail": "https://i.ytimg.com/vi/wojqM-B7y2g/hqdefault.jpg"
     }
   ]
 }

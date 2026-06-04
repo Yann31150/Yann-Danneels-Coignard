@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 03 Jun 2026 12:44:41 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 11:18:26 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -37,28 +37,12 @@
             <source>Comprendre l'informatique</source>
         </item>
         <item>
-            <title>Gemma 4 : L&amp;#39;IA de Google Gratuite, Illimitée, Locale &amp;amp; SANS Internet !</title>
-            <link>https://www.youtube.com/watch?v=9onqtz5EwHE</link>
-            <description><![CDATA[Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...]]></description>
-            <pubDate>Tue, 21 Apr 2026 14:02:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=9onqtz5EwHE</guid>
-            <source>Alpa14</source>
-        </item>
-        <item>
             <title>Utiliser Claude avec Power BI : le hack ultime</title>
             <link>https://www.youtube.com/watch?v=NFpt6GfkTg8</link>
             <description><![CDATA[https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...]]></description>
             <pubDate>Sat, 11 Apr 2026 16:34:52 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=NFpt6GfkTg8</guid>
             <source>Clément LVL</source>
-        </item>
-        <item>
-            <title>Data Science Full Course For Free | Learn Data Science From Basics | Intellipaat</title>
-            <link>https://www.youtube.com/watch?v=bukx4juQP4o</link>
-            <description><![CDATA[Enroll for Data Science Course: https://intellipaat.com/data-scientist-course-training/ Learn Data Science from scratch with this ...]]></description>
-            <pubDate>Mon, 13 Apr 2026 14:30:26 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=bukx4juQP4o</guid>
-            <source>Intellipaat</source>
         </item>
         <item>
             <title>Claude rend Power BI 10x plus rapide</title>
@@ -93,6 +77,22 @@
             <source>Kelenix</source>
         </item>
         <item>
+            <title>Comment supprimer la pop-up &amp;quot;Entrez votre adresse e-mail&amp;quot; dans Power BI Desktop (Solution 2026)</title>
+            <link>https://www.youtube.com/watch?v=W9Ca51mHhDk</link>
+            <description><![CDATA[Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.]]></description>
+            <pubDate>Sat, 09 May 2026 13:23:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=W9Ca51mHhDk</guid>
+            <source>TechVantage FR</source>
+        </item>
+        <item>
+            <title>SQL - Question bac NSI</title>
+            <link>https://www.youtube.com/watch?v=VLzCWa3nXrw</link>
+            <description><![CDATA[SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...]]></description>
+            <pubDate>Mon, 06 Apr 2026 08:26:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=VLzCWa3nXrw</guid>
+            <source>Célian</source>
+        </item>
+        <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
             <link>https://www.youtube.com/watch?v=rhE7Ab_sBTo</link>
             <description><![CDATA[Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...]]></description>
@@ -107,6 +107,14 @@
             <pubDate>Wed, 08 Apr 2026 14:17:40 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=86cmlVHp4cs</guid>
             <source>Benjamin Ejzenberg (votre coach Power BI)</source>
+        </item>
+        <item>
+            <title>Big Data Décortiqué : Apache Spark Pour Débuter</title>
+            <link>https://www.youtube.com/watch?v=FL9r4dDKiIU</link>
+            <description><![CDATA[Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...]]></description>
+            <pubDate>Sun, 19 Apr 2026 20:17:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=FL9r4dDKiIU</guid>
+            <source>Houssem Lahiani</source>
         </item>
         <item>
             <title>2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS</title>
@@ -131,6 +139,14 @@
             <pubDate>Sun, 10 May 2026 18:00:17 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=9t1mXWkqj0g</guid>
             <source>DataSet By d@ne</source>
+        </item>
+        <item>
+            <title>De Zéro à Hermes Agent en 10 Minutes Seulement ⏱️</title>
+            <link>https://www.youtube.com/watch?v=wojqM-B7y2g</link>
+            <description><![CDATA[Serveur HERMES (coupon : GOHERMES) : https://www.hostinger.fr/gohermes Dans cette vidéo, je vous montre comment installer ...]]></description>
+            <pubDate>Tue, 12 May 2026 11:01:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=wojqM-B7y2g</guid>
+            <source>Dr. Firas</source>
         </item>
     </channel>
 </rss>
