@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-04T11:18:26.000809",
+  "lastUpdate": "2026-06-05T11:31:44.193898",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -26,16 +26,16 @@
       "thumbnail": "https://i.ytimg.com/vi/cv3KzQShV_o/hqdefault.jpg"
     },
     {
-      "title": "Prompt Engineering expliqué simplement",
-      "description": "Le Prompt Engineering est aujourd'hui la compétence essentielle pour exploiter pleinement l'intelligence artificielle (ChatGPT, ...",
-      "url": "https://www.youtube.com/watch?v=WaCHRGjjSxQ",
-      "source": "Comprendre l'informatique",
-      "publishedAt": "2026-04-12T20:52:03Z",
+      "title": "Gemma 4 : L&#39;IA de Google Gratuite, Illimitée, Locale &amp; SANS Internet !",
+      "description": "Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...",
+      "url": "https://www.youtube.com/watch?v=9onqtz5EwHE",
+      "source": "Alpa14",
+      "publishedAt": "2026-04-21T14:02:45Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "WaCHRGjjSxQ",
-      "thumbnail": "https://i.ytimg.com/vi/WaCHRGjjSxQ/hqdefault.jpg"
+      "videoId": "9onqtz5EwHE",
+      "thumbnail": "https://i.ytimg.com/vi/9onqtz5EwHE/hqdefault.jpg"
     },
     {
       "title": "Utiliser Claude avec Power BI : le hack ultime",
@@ -48,18 +48,6 @@
       "isYouTube": true,
       "videoId": "NFpt6GfkTg8",
       "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
-    },
-    {
-      "title": "Claude rend Power BI 10x plus rapide",
-      "description": "Dans cette vidéo, je vous montre comment utiliser Claude comme assistant IA pour accélérer vos projets Power BI, générer du ...",
-      "url": "https://www.youtube.com/watch?v=SvIZcjQgFiQ",
-      "source": "Benjamin Ejzenberg (votre coach Power BI)",
-      "publishedAt": "2026-05-03T12:46:10Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "SvIZcjQgFiQ",
-      "thumbnail": "https://i.ytimg.com/vi/SvIZcjQgFiQ/hqdefault.jpg"
     },
     {
       "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
@@ -110,16 +98,28 @@
       "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
     },
     {
-      "title": "SQL - Question bac NSI",
-      "description": "SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...",
-      "url": "https://www.youtube.com/watch?v=VLzCWa3nXrw",
-      "source": "Célian",
-      "publishedAt": "2026-04-06T08:26:26Z",
+      "title": "Data Science Full Course 2026 [FREE] | Complete Data Science Tutorial For Beginners | Simplilearn",
+      "description": "Data Science Course ...",
+      "url": "https://www.youtube.com/watch?v=2WN-u-H3wFY",
+      "source": "Simplilearn",
+      "publishedAt": "2026-05-09T14:30:04Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "VLzCWa3nXrw",
-      "thumbnail": "https://i.ytimg.com/vi/VLzCWa3nXrw/hqdefault.jpg"
+      "videoId": "2WN-u-H3wFY",
+      "thumbnail": "https://i.ytimg.com/vi/2WN-u-H3wFY/hqdefault.jpg"
+    },
+    {
+      "title": "Mis 25 años de experiencia en Data Science en 10 consejos",
+      "description": "Comprueba GRATIS si Data Science es para ti: https://www.tuprimerasemana.com Descarga el notebook: ...",
+      "url": "https://www.youtube.com/watch?v=UUAywFt-loc",
+      "source": "DataScience ForBusiness",
+      "publishedAt": "2026-04-08T17:15:05Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "UUAywFt-loc",
+      "thumbnail": "https://i.ytimg.com/vi/UUAywFt-loc/hqdefault.jpg"
     },
     {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
@@ -134,6 +134,18 @@
       "thumbnail": "https://i.ytimg.com/vi/rhE7Ab_sBTo/hqdefault.jpg"
     },
     {
+      "title": "Questions et réponses d’entretien pour analyste de données",
+      "description": "Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...",
+      "url": "https://www.youtube.com/watch?v=Z5LsWFrltHU",
+      "source": "Damal Consult Carrière TV- Français",
+      "publishedAt": "2026-04-11T07:15:03Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Z5LsWFrltHU",
+      "thumbnail": "https://i.ytimg.com/vi/Z5LsWFrltHU/hqdefault.jpg"
+    },
+    {
       "title": "Dashboard Power BI Impressionnant | Tutoriel Débutant",
       "description": "Dans cette vidéo, je vous montre comment créer un dashboard professionnel dans Power BI en partant de zéro. Pas besoin de ...",
       "url": "https://www.youtube.com/watch?v=86cmlVHp4cs",
@@ -144,18 +156,6 @@
       "isYouTube": true,
       "videoId": "86cmlVHp4cs",
       "thumbnail": "https://i.ytimg.com/vi/86cmlVHp4cs/hqdefault.jpg"
-    },
-    {
-      "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
-      "description": "Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...",
-      "url": "https://www.youtube.com/watch?v=FL9r4dDKiIU",
-      "source": "Houssem Lahiani",
-      "publishedAt": "2026-04-19T20:17:51Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "FL9r4dDKiIU",
-      "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
     },
     {
       "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
@@ -170,16 +170,16 @@
       "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
     },
     {
-      "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
-      "description": "Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...",
-      "url": "https://www.youtube.com/watch?v=OKS6wtA2lAA",
-      "source": "OUJOOD",
-      "publishedAt": "2026-06-03T12:13:50Z",
+      "title": "Formation Power Query 2026 : Nettoyage des Données sur Excel | Guide Complet Débutant à Avancé",
+      "description": "Dans cette vidéo, découvrez comment utiliser Power Query sur Excel pour nettoyer, transformer et préparer vos données comme ...",
+      "url": "https://www.youtube.com/watch?v=k8kH6K6B3C4",
+      "source": "Entrepreneur 3.0",
+      "publishedAt": "2026-04-12T13:22:34Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "OKS6wtA2lAA",
-      "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
+      "videoId": "k8kH6K6B3C4",
+      "thumbnail": "https://i.ytimg.com/vi/k8kH6K6B3C4/hqdefault.jpg"
     },
     {
       "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
@@ -194,16 +194,28 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "De Zéro à Hermes Agent en 10 Minutes Seulement ⏱️",
-      "description": "Serveur HERMES (coupon : GOHERMES) : https://www.hostinger.fr/gohermes Dans cette vidéo, je vous montre comment installer ...",
-      "url": "https://www.youtube.com/watch?v=wojqM-B7y2g",
-      "source": "Dr. Firas",
-      "publishedAt": "2026-05-12T11:01:34Z",
+      "title": "Types et choix des Tests Statistiques",
+      "description": "Comment choisir le bon test statistique pour vos analyses de données ? Dans cette troisième leçon indispensable, apprenez à ...",
+      "url": "https://www.youtube.com/watch?v=koqqRs6I3B0",
+      "source": "Fotsing Kuetche in ICT",
+      "publishedAt": "2026-05-27T14:00:57Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "koqqRs6I3B0",
+      "thumbnail": "https://i.ytimg.com/vi/koqqRs6I3B0/hqdefault.jpg"
+    },
+    {
+      "title": "NotebookLM pour les Nuls — Le Tutoriel COMPLET 2026 (De Zéro à Expert en) 🤯",
+      "description": "Tu passes des heures à lire des documents sans avancer ? Cette vidéo va tout changer. Dans ce tutoriel complet, je te montre ...",
+      "url": "https://www.youtube.com/watch?v=fVjtB0iRrdw",
+      "source": "DaTaQueen Technologies",
+      "publishedAt": "2026-04-13T04:12:01Z",
       "category": "tech",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "wojqM-B7y2g",
-      "thumbnail": "https://i.ytimg.com/vi/wojqM-B7y2g/hqdefault.jpg"
+      "videoId": "fVjtB0iRrdw",
+      "thumbnail": "https://i.ytimg.com/vi/fVjtB0iRrdw/hqdefault.jpg"
     }
   ]
 }

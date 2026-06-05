@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 04 Jun 2026 11:18:26 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 11:31:44 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -29,12 +29,12 @@
             <source>Quant Insights FR</source>
         </item>
         <item>
-            <title>Prompt Engineering expliqué simplement</title>
-            <link>https://www.youtube.com/watch?v=WaCHRGjjSxQ</link>
-            <description><![CDATA[Le Prompt Engineering est aujourd'hui la compétence essentielle pour exploiter pleinement l'intelligence artificielle (ChatGPT, ...]]></description>
-            <pubDate>Sun, 12 Apr 2026 20:52:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=WaCHRGjjSxQ</guid>
-            <source>Comprendre l'informatique</source>
+            <title>Gemma 4 : L&amp;#39;IA de Google Gratuite, Illimitée, Locale &amp;amp; SANS Internet !</title>
+            <link>https://www.youtube.com/watch?v=9onqtz5EwHE</link>
+            <description><![CDATA[Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...]]></description>
+            <pubDate>Tue, 21 Apr 2026 14:02:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=9onqtz5EwHE</guid>
+            <source>Alpa14</source>
         </item>
         <item>
             <title>Utiliser Claude avec Power BI : le hack ultime</title>
@@ -43,14 +43,6 @@
             <pubDate>Sat, 11 Apr 2026 16:34:52 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=NFpt6GfkTg8</guid>
             <source>Clément LVL</source>
-        </item>
-        <item>
-            <title>Claude rend Power BI 10x plus rapide</title>
-            <link>https://www.youtube.com/watch?v=SvIZcjQgFiQ</link>
-            <description><![CDATA[Dans cette vidéo, je vous montre comment utiliser Claude comme assistant IA pour accélérer vos projets Power BI, générer du ...]]></description>
-            <pubDate>Sun, 03 May 2026 12:46:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=SvIZcjQgFiQ</guid>
-            <source>Benjamin Ejzenberg (votre coach Power BI)</source>
         </item>
         <item>
             <title>ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&amp;#39;IA</title>
@@ -85,12 +77,20 @@
             <source>TechVantage FR</source>
         </item>
         <item>
-            <title>SQL - Question bac NSI</title>
-            <link>https://www.youtube.com/watch?v=VLzCWa3nXrw</link>
-            <description><![CDATA[SQL - Question bac NSI Tu bloques en licence informatique ou en NSI ? Première séance offerte : linktr.ee/Celian_Chapuis ...]]></description>
-            <pubDate>Mon, 06 Apr 2026 08:26:26 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VLzCWa3nXrw</guid>
-            <source>Célian</source>
+            <title>Data Science Full Course 2026 [FREE] | Complete Data Science Tutorial For Beginners | Simplilearn</title>
+            <link>https://www.youtube.com/watch?v=2WN-u-H3wFY</link>
+            <description><![CDATA[Data Science Course ...]]></description>
+            <pubDate>Sat, 09 May 2026 14:30:04 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=2WN-u-H3wFY</guid>
+            <source>Simplilearn</source>
+        </item>
+        <item>
+            <title>Mis 25 años de experiencia en Data Science en 10 consejos</title>
+            <link>https://www.youtube.com/watch?v=UUAywFt-loc</link>
+            <description><![CDATA[Comprueba GRATIS si Data Science es para ti: https://www.tuprimerasemana.com Descarga el notebook: ...]]></description>
+            <pubDate>Wed, 08 Apr 2026 17:15:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=UUAywFt-loc</guid>
+            <source>DataScience ForBusiness</source>
         </item>
         <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
@@ -101,20 +101,20 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
+            <title>Questions et réponses d’entretien pour analyste de données</title>
+            <link>https://www.youtube.com/watch?v=Z5LsWFrltHU</link>
+            <description><![CDATA[Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...]]></description>
+            <pubDate>Sat, 11 Apr 2026 07:15:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z5LsWFrltHU</guid>
+            <source>Damal Consult Carrière TV- Français</source>
+        </item>
+        <item>
             <title>Dashboard Power BI Impressionnant | Tutoriel Débutant</title>
             <link>https://www.youtube.com/watch?v=86cmlVHp4cs</link>
             <description><![CDATA[Dans cette vidéo, je vous montre comment créer un dashboard professionnel dans Power BI en partant de zéro. Pas besoin de ...]]></description>
             <pubDate>Wed, 08 Apr 2026 14:17:40 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=86cmlVHp4cs</guid>
             <source>Benjamin Ejzenberg (votre coach Power BI)</source>
-        </item>
-        <item>
-            <title>Big Data Décortiqué : Apache Spark Pour Débuter</title>
-            <link>https://www.youtube.com/watch?v=FL9r4dDKiIU</link>
-            <description><![CDATA[Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...]]></description>
-            <pubDate>Sun, 19 Apr 2026 20:17:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=FL9r4dDKiIU</guid>
-            <source>Houssem Lahiani</source>
         </item>
         <item>
             <title>2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS</title>
@@ -125,12 +125,12 @@
             <source>Alex The Analyst</source>
         </item>
         <item>
-            <title>Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas</title>
-            <link>https://www.youtube.com/watch?v=OKS6wtA2lAA</link>
-            <description><![CDATA[Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...]]></description>
-            <pubDate>Wed, 03 Jun 2026 12:13:50 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=OKS6wtA2lAA</guid>
-            <source>OUJOOD</source>
+            <title>Formation Power Query 2026 : Nettoyage des Données sur Excel | Guide Complet Débutant à Avancé</title>
+            <link>https://www.youtube.com/watch?v=k8kH6K6B3C4</link>
+            <description><![CDATA[Dans cette vidéo, découvrez comment utiliser Power Query sur Excel pour nettoyer, transformer et préparer vos données comme ...]]></description>
+            <pubDate>Sun, 12 Apr 2026 13:22:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=k8kH6K6B3C4</guid>
+            <source>Entrepreneur 3.0</source>
         </item>
         <item>
             <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>
@@ -141,12 +141,20 @@
             <source>DataSet By d@ne</source>
         </item>
         <item>
-            <title>De Zéro à Hermes Agent en 10 Minutes Seulement ⏱️</title>
-            <link>https://www.youtube.com/watch?v=wojqM-B7y2g</link>
-            <description><![CDATA[Serveur HERMES (coupon : GOHERMES) : https://www.hostinger.fr/gohermes Dans cette vidéo, je vous montre comment installer ...]]></description>
-            <pubDate>Tue, 12 May 2026 11:01:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=wojqM-B7y2g</guid>
-            <source>Dr. Firas</source>
+            <title>Types et choix des Tests Statistiques</title>
+            <link>https://www.youtube.com/watch?v=koqqRs6I3B0</link>
+            <description><![CDATA[Comment choisir le bon test statistique pour vos analyses de données ? Dans cette troisième leçon indispensable, apprenez à ...]]></description>
+            <pubDate>Wed, 27 May 2026 14:00:57 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=koqqRs6I3B0</guid>
+            <source>Fotsing Kuetche in ICT</source>
+        </item>
+        <item>
+            <title>NotebookLM pour les Nuls — Le Tutoriel COMPLET 2026 (De Zéro à Expert en) 🤯</title>
+            <link>https://www.youtube.com/watch?v=fVjtB0iRrdw</link>
+            <description><![CDATA[Tu passes des heures à lire des documents sans avancer ? Cette vidéo va tout changer. Dans ce tutoriel complet, je te montre ...]]></description>
+            <pubDate>Mon, 13 Apr 2026 04:12:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=fVjtB0iRrdw</guid>
+            <source>DaTaQueen Technologies</source>
         </item>
     </channel>
 </rss>
