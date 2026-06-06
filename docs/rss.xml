@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 05 Jun 2026 11:31:44 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jun 2026 10:09:07 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,20 +21,20 @@
             <source>Nicolasit</source>
         </item>
         <item>
+            <title>L’IA commence à construire notre jumeau numérique</title>
+            <link>https://www.frenchweb.fr/lia-commence-a-construire-notre-jumeau-numerique/462210</link>
+            <description><![CDATA[Un utilisateur demande à ChatGPT de préparer un déplacement à Londres. L’assistant connaît déjà ses habitudes de voyage, les projets sur lesquels il travaille, le format de documents qu’il préfère rec...]]></description>
+            <pubDate>Fri, 05 Jun 2026 05:04:44 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frenchweb.fr/lia-commence-a-construire-notre-jumeau-numerique/462210</guid>
+            <source>Frenchweb.fr</source>
+        </item>
+        <item>
             <title>Le Machine Learning en Finance : Mythes vs Réalité</title>
             <link>https://www.youtube.com/watch?v=cv3KzQShV_o</link>
             <description><![CDATA[L'Intelligence Artificielle est-elle une boule de cristal magique capable de prédire les marchés financiers ? Dans cette première ...]]></description>
             <pubDate>Thu, 09 Apr 2026 14:50:55 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=cv3KzQShV_o</guid>
             <source>Quant Insights FR</source>
-        </item>
-        <item>
-            <title>Gemma 4 : L&amp;#39;IA de Google Gratuite, Illimitée, Locale &amp;amp; SANS Internet !</title>
-            <link>https://www.youtube.com/watch?v=9onqtz5EwHE</link>
-            <description><![CDATA[Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...]]></description>
-            <pubDate>Tue, 21 Apr 2026 14:02:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=9onqtz5EwHE</guid>
-            <source>Alpa14</source>
         </item>
         <item>
             <title>Utiliser Claude avec Power BI : le hack ultime</title>
@@ -45,20 +45,20 @@
             <source>Clément LVL</source>
         </item>
         <item>
+            <title>Les emplois les plus qualifiés sont les plus menacés par l’intelligence artificielle: "On ne peut exclure un scénario du pire"</title>
+            <link>https://www.lalibre.be/economie/conjoncture/2026/06/05/les-emplois-les-plus-qualifies-sont-les-plus-menaces-par-lintelligence-artificielle-on-ne-peut-exclure-un-scenario-du-pire-QDQFUZT3LBBFHN5AM6VSSFMACE/</link>
+            <description><![CDATA[Une nouvelle étude a mesuré le potentiel d’automatisation des tâches et des métiers par l’intelligence artificielle. L’un de ses auteurs, l’économiste Aurélien Duthoit (Coface), nous en dévoile les pr...]]></description>
+            <pubDate>Fri, 05 Jun 2026 06:08:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lalibre.be/economie/conjoncture/2026/06/05/les-emplois-les-plus-qualifies-sont-les-plus-menaces-par-lintelligence-artificielle-on-ne-peut-exclure-un-scenario-du-pire-QDQFUZT3LBBFHN5AM6VSSFMACE/</guid>
+            <source>Lalibre.be</source>
+        </item>
+        <item>
             <title>ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&amp;#39;IA</title>
             <link>https://www.youtube.com/watch?v=bvm-n-HN8ws</link>
             <description><![CDATA[Tu veux apprendre le SQL pour travailler dans la data ? ModAi Lab est la plateforme d'apprentissage SQL gamifiée et assistée ...]]></description>
             <pubDate>Thu, 14 May 2026 11:01:01 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=bvm-n-HN8ws</guid>
             <source>ModAi Lab | SQL & Data par l'IA</source>
-        </item>
-        <item>
-            <title>Maîtriser SQL en 1 heure sans prise de tête</title>
-            <link>https://www.youtube.com/watch?v=GVNc1ZrOoAs</link>
-            <description><![CDATA[Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...]]></description>
-            <pubDate>Mon, 06 Apr 2026 13:00:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=GVNc1ZrOoAs</guid>
-            <source>Kelenix</source>
         </item>
         <item>
             <title>SQL pour débutants : Maitrisez les base en moins d&amp;#39;un mois (LIVE)</title>
@@ -77,20 +77,20 @@
             <source>TechVantage FR</source>
         </item>
         <item>
-            <title>Data Science Full Course 2026 [FREE] | Complete Data Science Tutorial For Beginners | Simplilearn</title>
-            <link>https://www.youtube.com/watch?v=2WN-u-H3wFY</link>
-            <description><![CDATA[Data Science Course ...]]></description>
-            <pubDate>Sat, 09 May 2026 14:30:04 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2WN-u-H3wFY</guid>
-            <source>Simplilearn</source>
+            <title>L’IA va-t-elle évoluer seule ? Anthropic réclame un coup de frein mondial</title>
+            <link>https://www.zdnet.fr/actualites/lia-va-t-elle-evoluer-seule-anthropic-reclame-un-coup-de-frein-mondial-496212.htm</link>
+            <description><![CDATA[Le firme américaine Anthropic estime que l’intelligence artificielle pourrait bientôt franchir une étape décisive : celle de l’auto-amélioration sans intervention humaine. Face à ce risque jugé potent...]]></description>
+            <pubDate>Fri, 05 Jun 2026 06:35:10 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/lia-va-t-elle-evoluer-seule-anthropic-reclame-un-coup-de-frein-mondial-496212.htm</guid>
+            <source>ZDNet France</source>
         </item>
         <item>
-            <title>Mis 25 años de experiencia en Data Science en 10 consejos</title>
-            <link>https://www.youtube.com/watch?v=UUAywFt-loc</link>
-            <description><![CDATA[Comprueba GRATIS si Data Science es para ti: https://www.tuprimerasemana.com Descarga el notebook: ...]]></description>
-            <pubDate>Wed, 08 Apr 2026 17:15:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=UUAywFt-loc</guid>
-            <source>DataScience ForBusiness</source>
+            <title>IA : l’Allemagne a déjà perdu la bataille des ChatBots. Mais elle est bien partie pour en gagner une autre</title>
+            <link>https://atlantico.fr/article/decryptage/ia-lallemagne-a-deja-perdu-la-bataille-des-chatbots-mais-elle-est-bien-partie-pour-en-gagner-une-autre-jean-pierre-corniou-julien-pillot</link>
+            <description><![CDATA[Battue sur les grands modèles de langage par les États-Unis et la Chine, l’Europe n’a peut-être pas perdu la guerre de l’intelligence artificielle. Car la prochaine révolution pourrait se jouer dans l...]]></description>
+            <pubDate>Fri, 05 Jun 2026 08:42:00 -0000</pubDate>
+            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/ia-lallemagne-a-deja-perdu-la-bataille-des-chatbots-mais-elle-est-bien-partie-pour-en-gagner-une-autre-jean-pierre-corniou-julien-pillot</guid>
+            <source>Atlantico.fr</source>
         </item>
         <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
@@ -117,6 +117,14 @@
             <source>Benjamin Ejzenberg (votre coach Power BI)</source>
         </item>
         <item>
+            <title>Big Data Décortiqué : Apache Spark Pour Débuter</title>
+            <link>https://www.youtube.com/watch?v=FL9r4dDKiIU</link>
+            <description><![CDATA[Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...]]></description>
+            <pubDate>Sun, 19 Apr 2026 20:17:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=FL9r4dDKiIU</guid>
+            <source>Houssem Lahiani</source>
+        </item>
+        <item>
             <title>2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS</title>
             <link>https://www.youtube.com/watch?v=cnjhHZNJEDk</link>
             <description><![CDATA[Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...]]></description>
@@ -133,6 +141,22 @@
             <source>Entrepreneur 3.0</source>
         </item>
         <item>
+            <title>Projet Data Analytics de bout en bout (Python + PostgreSQL + dbt + Streamlit)</title>
+            <link>https://www.youtube.com/watch?v=nSkztfCSZxs</link>
+            <description><![CDATA[Dans cette vidéo, je vous propose un projet complet d'Analytics Engineering basé sur un cas réel d'entreprise : Stroopwafelshop ...]]></description>
+            <pubDate>Sun, 12 Apr 2026 21:25:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=nSkztfCSZxs</guid>
+            <source>J.A DATATECH CONSULTING</source>
+        </item>
+        <item>
+            <title>Bitget lance le Mois de la lutte contre la fraude alors que les pertes associées atteignent 442 milliards de dollars</title>
+            <link>https://www.globenewswire.com/news-release/2026/06/05/3307261/0/fr/Bitget-lance-le-Mois-de-la-lutte-contre-la-fraude-alors-que-les-pertes-associ%C3%A9es-atteignent-442-milliards-de-dollars.html</link>
+            <description><![CDATA[VICTORIA, Seychelles, 05 juin 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (UEX) au monde, a lancé le Mois de la lutte contre la fraude 2026, sa campagne mondiale annuelle de séc...]]></description>
+            <pubDate>Fri, 05 Jun 2026 10:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/06/05/3307261/0/fr/Bitget-lance-le-Mois-de-la-lutte-contre-la-fraude-alors-que-les-pertes-associ%C3%A9es-atteignent-442-milliards-de-dollars.html</guid>
+            <source>GlobeNewswire</source>
+        </item>
+        <item>
             <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>
             <link>https://www.youtube.com/watch?v=9t1mXWkqj0g</link>
             <description><![CDATA[Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...]]></description>
@@ -141,20 +165,14 @@
             <source>DataSet By d@ne</source>
         </item>
         <item>
-            <title>Types et choix des Tests Statistiques</title>
-            <link>https://www.youtube.com/watch?v=koqqRs6I3B0</link>
-            <description><![CDATA[Comment choisir le bon test statistique pour vos analyses de données ? Dans cette troisième leçon indispensable, apprenez à ...]]></description>
-            <pubDate>Wed, 27 May 2026 14:00:57 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=koqqRs6I3B0</guid>
-            <source>Fotsing Kuetche in ICT</source>
-        </item>
-        <item>
-            <title>NotebookLM pour les Nuls — Le Tutoriel COMPLET 2026 (De Zéro à Expert en) 🤯</title>
-            <link>https://www.youtube.com/watch?v=fVjtB0iRrdw</link>
-            <description><![CDATA[Tu passes des heures à lire des documents sans avancer ? Cette vidéo va tout changer. Dans ce tutoriel complet, je te montre ...]]></description>
-            <pubDate>Mon, 13 Apr 2026 04:12:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=fVjtB0iRrdw</guid>
-            <source>DaTaQueen Technologies</source>
+            <title>DVF-2019-Region-Sud</title>
+            <link>https://www.data.gouv.fr/datasets/dvf-2019-region-sud</link>
+            <description><![CDATA[Ce jeu de données contient les Demandes de Valeurs Foncières géolocalisées pour l’année 2019 en Région Sud / Provence-Alpes-Côte d’Azur.
+
+Les données proviennent du jeu officiel DVF géolocalisé publié...]]></description>
+            <pubDate>Thu, 04 Jun 2026 13:55:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/dvf-2019-region-sud</guid>
+            <source>Gouv.fr</source>
         </item>
     </channel>
 </rss>

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-05T11:31:44.193898",
+  "lastUpdate": "2026-06-06T10:09:07.411556",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -14,6 +14,18 @@
       "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
     },
     {
+      "title": "L’IA commence à construire notre jumeau numérique",
+      "description": "Un utilisateur demande à ChatGPT de préparer un déplacement à Londres. L’assistant connaît déjà ses habitudes de voyage, les projets sur lesquels il travaille, le format de documents qu’il préfère rec...",
+      "url": "https://www.frenchweb.fr/lia-commence-a-construire-notre-jumeau-numerique/462210",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-06-05T05:04:44Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Le Machine Learning en Finance : Mythes vs Réalité",
       "description": "L'Intelligence Artificielle est-elle une boule de cristal magique capable de prédire les marchés financiers ? Dans cette première ...",
       "url": "https://www.youtube.com/watch?v=cv3KzQShV_o",
@@ -24,18 +36,6 @@
       "isYouTube": true,
       "videoId": "cv3KzQShV_o",
       "thumbnail": "https://i.ytimg.com/vi/cv3KzQShV_o/hqdefault.jpg"
-    },
-    {
-      "title": "Gemma 4 : L&#39;IA de Google Gratuite, Illimitée, Locale &amp; SANS Internet !",
-      "description": "Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...",
-      "url": "https://www.youtube.com/watch?v=9onqtz5EwHE",
-      "source": "Alpa14",
-      "publishedAt": "2026-04-21T14:02:45Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "9onqtz5EwHE",
-      "thumbnail": "https://i.ytimg.com/vi/9onqtz5EwHE/hqdefault.jpg"
     },
     {
       "title": "Utiliser Claude avec Power BI : le hack ultime",
@@ -50,6 +50,18 @@
       "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
     },
     {
+      "title": "Les emplois les plus qualifiés sont les plus menacés par l’intelligence artificielle: \"On ne peut exclure un scénario du pire\"",
+      "description": "Une nouvelle étude a mesuré le potentiel d’automatisation des tâches et des métiers par l’intelligence artificielle. L’un de ses auteurs, l’économiste Aurélien Duthoit (Coface), nous en dévoile les pr...",
+      "url": "https://www.lalibre.be/economie/conjoncture/2026/06/05/les-emplois-les-plus-qualifies-sont-les-plus-menaces-par-lintelligence-artificielle-on-ne-peut-exclure-un-scenario-du-pire-QDQFUZT3LBBFHN5AM6VSSFMACE/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-06-05T06:08:05Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
       "description": "Tu veux apprendre le SQL pour travailler dans la data ? ModAi Lab est la plateforme d'apprentissage SQL gamifiée et assistée ...",
       "url": "https://www.youtube.com/watch?v=bvm-n-HN8ws",
@@ -60,18 +72,6 @@
       "isYouTube": true,
       "videoId": "bvm-n-HN8ws",
       "thumbnail": "https://i.ytimg.com/vi/bvm-n-HN8ws/hqdefault.jpg"
-    },
-    {
-      "title": "Maîtriser SQL en 1 heure sans prise de tête",
-      "description": "Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...",
-      "url": "https://www.youtube.com/watch?v=GVNc1ZrOoAs",
-      "source": "Kelenix",
-      "publishedAt": "2026-04-06T13:00:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "GVNc1ZrOoAs",
-      "thumbnail": "https://i.ytimg.com/vi/GVNc1ZrOoAs/hqdefault.jpg"
     },
     {
       "title": "SQL pour débutants : Maitrisez les base en moins d&#39;un mois (LIVE)",
@@ -98,28 +98,28 @@
       "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
     },
     {
-      "title": "Data Science Full Course 2026 [FREE] | Complete Data Science Tutorial For Beginners | Simplilearn",
-      "description": "Data Science Course ...",
-      "url": "https://www.youtube.com/watch?v=2WN-u-H3wFY",
-      "source": "Simplilearn",
-      "publishedAt": "2026-05-09T14:30:04Z",
+      "title": "L’IA va-t-elle évoluer seule ? Anthropic réclame un coup de frein mondial",
+      "description": "Le firme américaine Anthropic estime que l’intelligence artificielle pourrait bientôt franchir une étape décisive : celle de l’auto-amélioration sans intervention humaine. Face à ce risque jugé potent...",
+      "url": "https://www.zdnet.fr/actualites/lia-va-t-elle-evoluer-seule-anthropic-reclame-un-coup-de-frein-mondial-496212.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-06-05T06:35:10Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "2WN-u-H3wFY",
-      "thumbnail": "https://i.ytimg.com/vi/2WN-u-H3wFY/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "Mis 25 años de experiencia en Data Science en 10 consejos",
-      "description": "Comprueba GRATIS si Data Science es para ti: https://www.tuprimerasemana.com Descarga el notebook: ...",
-      "url": "https://www.youtube.com/watch?v=UUAywFt-loc",
-      "source": "DataScience ForBusiness",
-      "publishedAt": "2026-04-08T17:15:05Z",
+      "title": "IA : l’Allemagne a déjà perdu la bataille des ChatBots. Mais elle est bien partie pour en gagner une autre",
+      "description": "Battue sur les grands modèles de langage par les États-Unis et la Chine, l’Europe n’a peut-être pas perdu la guerre de l’intelligence artificielle. Car la prochaine révolution pourrait se jouer dans l...",
+      "url": "https://atlantico.fr/article/decryptage/ia-lallemagne-a-deja-perdu-la-bataille-des-chatbots-mais-elle-est-bien-partie-pour-en-gagner-une-autre-jean-pierre-corniou-julien-pillot",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-06-05T08:42:00Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "UUAywFt-loc",
-      "thumbnail": "https://i.ytimg.com/vi/UUAywFt-loc/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
@@ -158,6 +158,18 @@
       "thumbnail": "https://i.ytimg.com/vi/86cmlVHp4cs/hqdefault.jpg"
     },
     {
+      "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
+      "description": "Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...",
+      "url": "https://www.youtube.com/watch?v=FL9r4dDKiIU",
+      "source": "Houssem Lahiani",
+      "publishedAt": "2026-04-19T20:17:51Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "FL9r4dDKiIU",
+      "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
+    },
+    {
       "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
       "description": "Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...",
       "url": "https://www.youtube.com/watch?v=cnjhHZNJEDk",
@@ -182,6 +194,30 @@
       "thumbnail": "https://i.ytimg.com/vi/k8kH6K6B3C4/hqdefault.jpg"
     },
     {
+      "title": "Projet Data Analytics de bout en bout (Python + PostgreSQL + dbt + Streamlit)",
+      "description": "Dans cette vidéo, je vous propose un projet complet d'Analytics Engineering basé sur un cas réel d'entreprise : Stroopwafelshop ...",
+      "url": "https://www.youtube.com/watch?v=nSkztfCSZxs",
+      "source": "J.A DATATECH CONSULTING",
+      "publishedAt": "2026-04-12T21:25:06Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "nSkztfCSZxs",
+      "thumbnail": "https://i.ytimg.com/vi/nSkztfCSZxs/hqdefault.jpg"
+    },
+    {
+      "title": "Bitget lance le Mois de la lutte contre la fraude alors que les pertes associées atteignent 442 milliards de dollars",
+      "description": "VICTORIA, Seychelles, 05 juin 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (UEX) au monde, a lancé le Mois de la lutte contre la fraude 2026, sa campagne mondiale annuelle de séc...",
+      "url": "https://www.globenewswire.com/news-release/2026/06/05/3307261/0/fr/Bitget-lance-le-Mois-de-la-lutte-contre-la-fraude-alors-que-les-pertes-associ%C3%A9es-atteignent-442-milliards-de-dollars.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-05T10:00:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
       "description": "Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...",
       "url": "https://www.youtube.com/watch?v=9t1mXWkqj0g",
@@ -194,28 +230,76 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "Types et choix des Tests Statistiques",
-      "description": "Comment choisir le bon test statistique pour vos analyses de données ? Dans cette troisième leçon indispensable, apprenez à ...",
-      "url": "https://www.youtube.com/watch?v=koqqRs6I3B0",
-      "source": "Fotsing Kuetche in ICT",
-      "publishedAt": "2026-05-27T14:00:57Z",
+      "title": "DVF-2019-Region-Sud",
+      "description": "Ce jeu de données contient les Demandes de Valeurs Foncières géolocalisées pour l’année 2019 en Région Sud / Provence-Alpes-Côte d’Azur.\n\nLes données proviennent du jeu officiel DVF géolocalisé publié...",
+      "url": "https://www.data.gouv.fr/datasets/dvf-2019-region-sud",
+      "source": "Gouv.fr",
+      "publishedAt": "2026-06-04T13:55:13Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "koqqRs6I3B0",
-      "thumbnail": "https://i.ytimg.com/vi/koqqRs6I3B0/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "NotebookLM pour les Nuls — Le Tutoriel COMPLET 2026 (De Zéro à Expert en) 🤯",
-      "description": "Tu passes des heures à lire des documents sans avancer ? Cette vidéo va tout changer. Dans ce tutoriel complet, je te montre ...",
-      "url": "https://www.youtube.com/watch?v=fVjtB0iRrdw",
-      "source": "DaTaQueen Technologies",
-      "publishedAt": "2026-04-13T04:12:01Z",
+      "title": "Intelligence artificielle dans le cinéma : le débat est relancé avec Martin Scorsese qui veut utiliser l'IA pour ses storyboards",
+      "description": "L'annonce de Scorsese a déjà suscité une levée de boucliers. Franceinfo Culture a demandé son avis au cinéaste suisse Lionel Baier alors qu’à Hollywood plusieurs cinéastes, de Guillaume Del Toro à Ste...",
+      "url": "https://www.franceinfo.fr/culture/cinema/intelligence-artificielle-dans-le-cinema-le-debat-est-relance-avec-martin-scorsese-qui-veut-utiliser-l-ia-pour-ses-storyboards_8044445.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-06-05T07:30:37Z",
       "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "fVjtB0iRrdw",
-      "thumbnail": "https://i.ytimg.com/vi/fVjtB0iRrdw/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L’IA inquiète de plus en plus, y compris ses propres créateurs",
+      "description": "Face aux risques potentiels liés à l’intelligence artificielle, le PDG d’Anthropic et d’autres figures du secteur plaident pour la mise en place de mesures de sécurité strictes, exprimant leur inquiét...",
+      "url": "https://www.begeek.fr/lia-inquiete-de-plus-en-plus-y-compris-ses-propres-createurs-433174",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-06-05T10:00:34Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Computex 2026 : MiTAC fait progresser une infrastructure d'IA diversifiée grâce à des partenariats stratégiques avec les écosystèmes",
+      "description": "Racks et solutions clés en main Flagship 52U pour l'IA agentique TAIPEI, 5 juin 2026 /PRNewswire/ -- MiTAC Computing Technology Corp., chef de file mondial en solutions de serveurs haute performance e...",
+      "url": "https://www.prnewswire.com/news-releases/computex-2026--mitac-fait-progresser-une-infrastructure-dia-diversifiee-grace-a-des-partenariats-strategiques-avec-les-ecosystemes-302792398.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-05T05:55:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "IA, relations presse, réseaux sociaux : les tendances médias à connaître en 2026",
+      "description": "Près de 1 800 journalistes ont répondu à l’enquête annuelle de Cision. Voici les tendances médias, IA et RP à retenir pour 2026.",
+      "url": "https://www.blogdumoderateur.com/ia-relations-presse-reseaux-sociaux-tendances-medias-connaitre-2025/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-06-05T06:00:05Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Le Marocain Taher Alami automatise le marketing client sur WhatsApp",
+      "description": "Face aux nouveaux usages numériques, il choisit de mettre l’automatisation au cœur de la stratégie des entreprises. Sa nouvelle solution promet de transformer les canaux de messagerie populaires en le...",
+      "url": "https://www.wearetech.africa/fr/fils/tech-stars/le-marocain-taher-alami-automatise-le-marketing-client-sur-whatsapp",
+      "source": "Wearetech.africa",
+      "publishedAt": "2026-06-05T09:58:39Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }
