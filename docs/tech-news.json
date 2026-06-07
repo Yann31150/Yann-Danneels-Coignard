@@ -1,30 +1,6 @@
 {
-  "lastUpdate": "2026-06-06T10:09:07.411556",
+  "lastUpdate": "2026-06-07T10:31:50.637398",
   "articles": [
-    {
-      "title": "IA - réseau de neurones / Machine learning",
-      "description": "ia #ai #machinelearning #réseaudeneurones #informatique #chatgpt #gemini #copilot Lien utilisé dans la vidéo ...",
-      "url": "https://www.youtube.com/watch?v=k2rifQzyqtA",
-      "source": "Nicolasit",
-      "publishedAt": "2026-04-25T19:16:18Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "k2rifQzyqtA",
-      "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
-    },
-    {
-      "title": "L’IA commence à construire notre jumeau numérique",
-      "description": "Un utilisateur demande à ChatGPT de préparer un déplacement à Londres. L’assistant connaît déjà ses habitudes de voyage, les projets sur lesquels il travaille, le format de documents qu’il préfère rec...",
-      "url": "https://www.frenchweb.fr/lia-commence-a-construire-notre-jumeau-numerique/462210",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-06-05T05:04:44Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "Le Machine Learning en Finance : Mythes vs Réalité",
       "description": "L'Intelligence Artificielle est-elle une boule de cristal magique capable de prédire les marchés financiers ? Dans cette première ...",
@@ -36,6 +12,30 @@
       "isYouTube": true,
       "videoId": "cv3KzQShV_o",
       "thumbnail": "https://i.ytimg.com/vi/cv3KzQShV_o/hqdefault.jpg"
+    },
+    {
+      "title": "Gemma 4 : L&#39;IA de Google Gratuite, Illimitée, Locale &amp; SANS Internet !",
+      "description": "Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...",
+      "url": "https://www.youtube.com/watch?v=9onqtz5EwHE",
+      "source": "Alpa14",
+      "publishedAt": "2026-04-21T14:02:45Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "9onqtz5EwHE",
+      "thumbnail": "https://i.ytimg.com/vi/9onqtz5EwHE/hqdefault.jpg"
+    },
+    {
+      "title": "Requêtes SQL sur DataFrame Julia (DuckDB)",
+      "description": "Machine learning. Data Science. Julia. Utilisation de requêtes SQL pour accéder aux informations de tables sous la forme de ...",
+      "url": "https://www.youtube.com/watch?v=wtAFyxyGmAo",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-04-15T09:57:41Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "wtAFyxyGmAo",
+      "thumbnail": "https://i.ytimg.com/vi/wtAFyxyGmAo/hqdefault.jpg"
     },
     {
       "title": "Utiliser Claude avec Power BI : le hack ultime",
@@ -50,16 +50,28 @@
       "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
     },
     {
-      "title": "Les emplois les plus qualifiés sont les plus menacés par l’intelligence artificielle: \"On ne peut exclure un scénario du pire\"",
-      "description": "Une nouvelle étude a mesuré le potentiel d’automatisation des tâches et des métiers par l’intelligence artificielle. L’un de ses auteurs, l’économiste Aurélien Duthoit (Coface), nous en dévoile les pr...",
-      "url": "https://www.lalibre.be/economie/conjoncture/2026/06/05/les-emplois-les-plus-qualifies-sont-les-plus-menaces-par-lintelligence-artificielle-on-ne-peut-exclure-un-scenario-du-pire-QDQFUZT3LBBFHN5AM6VSSFMACE/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-06-05T06:08:05Z",
+      "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
+      "description": "La formation COMPLÈTE Data & Machine Learning — plus de 9 heures de cours, 111 sessions + 15 quiz, 100% GRATUITE.",
+      "url": "https://www.youtube.com/watch?v=mdsnXx_tBEs",
+      "source": "IA Futura",
+      "publishedAt": "2026-05-25T13:45:06Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "mdsnXx_tBEs",
+      "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
+    },
+    {
+      "title": "Claude rend Power BI 10x plus rapide",
+      "description": "Dans cette vidéo, je vous montre comment utiliser Claude comme assistant IA pour accélérer vos projets Power BI, générer du ...",
+      "url": "https://www.youtube.com/watch?v=SvIZcjQgFiQ",
+      "source": "Benjamin Ejzenberg (votre coach Power BI)",
+      "publishedAt": "2026-05-03T12:46:10Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "SvIZcjQgFiQ",
+      "thumbnail": "https://i.ytimg.com/vi/SvIZcjQgFiQ/hqdefault.jpg"
     },
     {
       "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
@@ -74,18 +86,6 @@
       "thumbnail": "https://i.ytimg.com/vi/bvm-n-HN8ws/hqdefault.jpg"
     },
     {
-      "title": "SQL pour débutants : Maitrisez les base en moins d&#39;un mois (LIVE)",
-      "description": "Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...",
-      "url": "https://www.youtube.com/watch?v=DngKcAFU3Kc",
-      "source": "Kelenix",
-      "publishedAt": "2026-04-08T07:53:49Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "DngKcAFU3Kc",
-      "thumbnail": "https://i.ytimg.com/vi/DngKcAFU3Kc/hqdefault.jpg"
-    },
-    {
       "title": "Comment supprimer la pop-up &quot;Entrez votre adresse e-mail&quot; dans Power BI Desktop (Solution 2026)",
       "description": "Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.",
       "url": "https://www.youtube.com/watch?v=W9Ca51mHhDk",
@@ -98,11 +98,11 @@
       "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
     },
     {
-      "title": "L’IA va-t-elle évoluer seule ? Anthropic réclame un coup de frein mondial",
-      "description": "Le firme américaine Anthropic estime que l’intelligence artificielle pourrait bientôt franchir une étape décisive : celle de l’auto-amélioration sans intervention humaine. Face à ce risque jugé potent...",
-      "url": "https://www.zdnet.fr/actualites/lia-va-t-elle-evoluer-seule-anthropic-reclame-un-coup-de-frein-mondial-496212.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-06-05T06:35:10Z",
+      "title": "Vidéo. $content.TitleNoTags",
+      "description": "Des fruits stars de la télé-réalité, des chats musiciens ou encore les célèbres \"Italian Brainrot\" : nos feeds sur les réseaux sociaux sont inondés par des vidéos plus absurdes les unes que les autres...",
+      "url": "https://www.estrepublicain.fr/videos/c-est-quoi-la-ai-slop-cette-bouillie-d-intelligence-artificielle-qui-inonde-internet-3vlupx3",
+      "source": "Est Républicain",
+      "publishedAt": "2026-06-05T19:42:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -110,11 +110,11 @@
       "thumbnail": ""
     },
     {
-      "title": "IA : l’Allemagne a déjà perdu la bataille des ChatBots. Mais elle est bien partie pour en gagner une autre",
-      "description": "Battue sur les grands modèles de langage par les États-Unis et la Chine, l’Europe n’a peut-être pas perdu la guerre de l’intelligence artificielle. Car la prochaine révolution pourrait se jouer dans l...",
-      "url": "https://atlantico.fr/article/decryptage/ia-lallemagne-a-deja-perdu-la-bataille-des-chatbots-mais-elle-est-bien-partie-pour-en-gagner-une-autre-jean-pierre-corniou-julien-pillot",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-06-05T08:42:00Z",
+      "title": "Apprentissage continu des IA: vers une approche inspirée des synapses biologiques",
+      "description": "L'assimilation de connaissances en continu par les systèmes d'intelligence artificielle repose sur un compromis délicat entre leur tendance à l'oubli des connaissances anciennes et leur rigidité...",
+      "url": "https://www.techno-science.net/actualite/apprentissage-continu-ia-vers-approche-inspiree-synapses-biologiques-N28846.html",
+      "source": "Techno-science.net",
+      "publishedAt": "2026-06-06T06:00:04Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -144,6 +144,18 @@
       "isYouTube": true,
       "videoId": "Z5LsWFrltHU",
       "thumbnail": "https://i.ytimg.com/vi/Z5LsWFrltHU/hqdefault.jpg"
+    },
+    {
+      "title": "Pour Demis Hassabis, patron de Google DeepMind, les LLM ne sont qu’une partie du chemin vers l’AGI",
+      "description": "Et si la course actuelle à l’IA se trompait de cible ? Dans un entretien accordé à Y Combinator fin avril 2026, Demis Hassabis a défendu une idée aussi simple qu’inconfortable : les grands modèles de ...",
+      "url": "https://dailygeekshow.com/?p=1010330",
+      "source": "Daily Geek Show",
+      "publishedAt": "2026-06-05T17:31:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Dashboard Power BI Impressionnant | Tutoriel Débutant",
@@ -182,18 +194,6 @@
       "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
     },
     {
-      "title": "Formation Power Query 2026 : Nettoyage des Données sur Excel | Guide Complet Débutant à Avancé",
-      "description": "Dans cette vidéo, découvrez comment utiliser Power Query sur Excel pour nettoyer, transformer et préparer vos données comme ...",
-      "url": "https://www.youtube.com/watch?v=k8kH6K6B3C4",
-      "source": "Entrepreneur 3.0",
-      "publishedAt": "2026-04-12T13:22:34Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "k8kH6K6B3C4",
-      "thumbnail": "https://i.ytimg.com/vi/k8kH6K6B3C4/hqdefault.jpg"
-    },
-    {
       "title": "Projet Data Analytics de bout en bout (Python + PostgreSQL + dbt + Streamlit)",
       "description": "Dans cette vidéo, je vous propose un projet complet d'Analytics Engineering basé sur un cas réel d'entreprise : Stroopwafelshop ...",
       "url": "https://www.youtube.com/watch?v=nSkztfCSZxs",
@@ -206,11 +206,11 @@
       "thumbnail": "https://i.ytimg.com/vi/nSkztfCSZxs/hqdefault.jpg"
     },
     {
-      "title": "Bitget lance le Mois de la lutte contre la fraude alors que les pertes associées atteignent 442 milliards de dollars",
-      "description": "VICTORIA, Seychelles, 05 juin 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (UEX) au monde, a lancé le Mois de la lutte contre la fraude 2026, sa campagne mondiale annuelle de séc...",
-      "url": "https://www.globenewswire.com/news-release/2026/06/05/3307261/0/fr/Bitget-lance-le-Mois-de-la-lutte-contre-la-fraude-alors-que-les-pertes-associ%C3%A9es-atteignent-442-milliards-de-dollars.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-06-05T10:00:00Z",
+      "title": "Bien avant les hologrammes, Benjamin Franklin avait déjà inventé des moyens de protéger les billets",
+      "description": "En examinant près de 600 billets coloniaux à l’aide de techniques d’imagerie avancées, des chercheurs ont découvert que Benjamin Franklin expérimentait déjà des solutions de lutte contre la contrefaço...",
+      "url": "https://theconversation.com/bien-avant-les-hologrammes-benjamin-franklin-avait-deja-invente-des-moyens-de-proteger-les-billets-284718",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-06-06T08:18:58Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +230,11 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "DVF-2019-Region-Sud",
-      "description": "Ce jeu de données contient les Demandes de Valeurs Foncières géolocalisées pour l’année 2019 en Région Sud / Provence-Alpes-Côte d’Azur.\n\nLes données proviennent du jeu officiel DVF géolocalisé publié...",
-      "url": "https://www.data.gouv.fr/datasets/dvf-2019-region-sud",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-06-04T13:55:13Z",
+      "title": "Pourquoi votre chien n’aime pas certaines personnes ? La science révèle ce qu’il perçoit vraiment",
+      "description": "Votre chien grogne subitement face à un inconnu souriant ? Ce comportement apparemment irrationnel cache en réalité des mécanismes biologiques fascinants. Les capacités sensorielles exceptionnelles de...",
+      "url": "https://www.futura-sciences.com/planete/actualites/chien-votre-chien-naime-pas-certaines-personnes-science-revele-ce-quil-percoit-vraiment-w2t8-135057/",
+      "source": "Futura",
+      "publishedAt": "2026-06-06T06:00:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +242,35 @@
       "thumbnail": ""
     },
     {
-      "title": "Intelligence artificielle dans le cinéma : le débat est relancé avec Martin Scorsese qui veut utiliser l'IA pour ses storyboards",
-      "description": "L'annonce de Scorsese a déjà suscité une levée de boucliers. Franceinfo Culture a demandé son avis au cinéaste suisse Lionel Baier alors qu’à Hollywood plusieurs cinéastes, de Guillaume Del Toro à Ste...",
-      "url": "https://www.franceinfo.fr/culture/cinema/intelligence-artificielle-dans-le-cinema-le-debat-est-relance-avec-martin-scorsese-qui-veut-utiliser-l-ia-pour-ses-storyboards_8044445.html",
+      "title": "L’un des plus grands dangers de l’IA est passé sous silence, cette jeune pousse française le combat",
+      "description": "Pour sécuriser l’intelligence artificielle (IA), la Silicon Valley mise sur des filtres de modération en temps réel. La deeptech française Skyld vient de prouver que ces remparts s'effondrent avec une...",
+      "url": "https://www.presse-citron.net/lun-des-plus-grands-dangers-de-lia-est-passe-sous-silence-cette-jeune-pousse-francaise-le-combat/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-06-06T08:00:36Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Covid-19 : ce vaccin révolutionnaire boosté à l’IA pourrait changer la donne",
+      "description": "L’intelligence artificielle s’immisce toujours plus loin dans le domaine de la santé. Grâce à l’IA, des chercheurs affirment avoir réussi à mettre au point un vaccin expérimental capable de lutter...",
+      "url": "https://www.phonandroid.com/covid-19-ce-vaccin-revolutionnaire-booste-a-lia-pourrait-changer-la-donne.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-06-06T10:00:46Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "\"Un tiers des utilisateurs a changé d'avis après avoir échangé avec un agent conversationnel\" : comment l'IA pourrait influencer la présidentielle",
+      "description": "À quel point l'intelligence artificielle va-t-elle jouer un rôle lors de la prochaine campagne présidentielle ? Elle pourrait alimenter les fake news, mais elle est aussi un outil pour accompagner l...",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/un-tiers-des-utilisateurs-a-change-d-avis-apres-avoir-echange-avec-un-agent-conversationnel-comment-l-ia-pourrait-influencer-la-presidentielle_8047217.html",
       "source": "Franceinfo.fr",
-      "publishedAt": "2026-06-05T07:30:37Z",
+      "publishedAt": "2026-06-05T20:21:49Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "L’IA inquiète de plus en plus, y compris ses propres créateurs",
-      "description": "Face aux risques potentiels liés à l’intelligence artificielle, le PDG d’Anthropic et d’autres figures du secteur plaident pour la mise en place de mesures de sécurité strictes, exprimant leur inquiét...",
-      "url": "https://www.begeek.fr/lia-inquiete-de-plus-en-plus-y-compris-ses-propres-createurs-433174",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-06-05T10:00:34Z",
+      "title": "L'article L122-5 : la faille légale qui bloque toutes les IA génératives",
+      "description": "\" Les machines n'ont aucun droit, elles n'ont que des devoirs \".\r\nLes emprunts, copies, voire pires, réalisés par des IA de type LLM se basent totalement sur une interprétation illégale du L122-5.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1550977-l-article-l122-5-la-faille-legale-qui-bloque-toutes-les-ia-generatives-llm/",
+      "source": "JDN",
+      "publishedAt": "2026-06-05T14:31:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,35 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Computex 2026 : MiTAC fait progresser une infrastructure d'IA diversifiée grâce à des partenariats stratégiques avec les écosystèmes",
-      "description": "Racks et solutions clés en main Flagship 52U pour l'IA agentique TAIPEI, 5 juin 2026 /PRNewswire/ -- MiTAC Computing Technology Corp., chef de file mondial en solutions de serveurs haute performance e...",
-      "url": "https://www.prnewswire.com/news-releases/computex-2026--mitac-fait-progresser-une-infrastructure-dia-diversifiee-grace-a-des-partenariats-strategiques-avec-les-ecosystemes-302792398.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-06-05T05:55:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "IA, relations presse, réseaux sociaux : les tendances médias à connaître en 2026",
-      "description": "Près de 1 800 journalistes ont répondu à l’enquête annuelle de Cision. Voici les tendances médias, IA et RP à retenir pour 2026.",
-      "url": "https://www.blogdumoderateur.com/ia-relations-presse-reseaux-sociaux-tendances-medias-connaitre-2025/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-06-05T06:00:05Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le Marocain Taher Alami automatise le marketing client sur WhatsApp",
-      "description": "Face aux nouveaux usages numériques, il choisit de mettre l’automatisation au cœur de la stratégie des entreprises. Sa nouvelle solution promet de transformer les canaux de messagerie populaires en le...",
-      "url": "https://www.wearetech.africa/fr/fils/tech-stars/le-marocain-taher-alami-automatise-le-marketing-client-sur-whatsapp",
-      "source": "Wearetech.africa",
-      "publishedAt": "2026-06-05T09:58:39Z",
+      "title": "Ces tueurs de moustiques high-tech sont les futures stars de l’été",
+      "description": "Marre de vous faire dévorer sur la terrasse ? Une startup promet une solution radicale : un système équipé de capteurs, d’intelligence artificielle et d’un laser capable de traquer les moustiques en p...",
+      "url": "https://www.journaldugeek.com/2026/06/06/ces-tueurs-de-moustiques-high-tech-sont-les-futures-stars-de-lete/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-06-06T09:00:33Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

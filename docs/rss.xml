@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 06 Jun 2026 10:09:07 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2026 10:31:50 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,28 +13,28 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>IA - réseau de neurones / Machine learning</title>
-            <link>https://www.youtube.com/watch?v=k2rifQzyqtA</link>
-            <description><![CDATA[ia #ai #machinelearning #réseaudeneurones #informatique #chatgpt #gemini #copilot Lien utilisé dans la vidéo ...]]></description>
-            <pubDate>Sat, 25 Apr 2026 19:16:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=k2rifQzyqtA</guid>
-            <source>Nicolasit</source>
-        </item>
-        <item>
-            <title>L’IA commence à construire notre jumeau numérique</title>
-            <link>https://www.frenchweb.fr/lia-commence-a-construire-notre-jumeau-numerique/462210</link>
-            <description><![CDATA[Un utilisateur demande à ChatGPT de préparer un déplacement à Londres. L’assistant connaît déjà ses habitudes de voyage, les projets sur lesquels il travaille, le format de documents qu’il préfère rec...]]></description>
-            <pubDate>Fri, 05 Jun 2026 05:04:44 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frenchweb.fr/lia-commence-a-construire-notre-jumeau-numerique/462210</guid>
-            <source>Frenchweb.fr</source>
-        </item>
-        <item>
             <title>Le Machine Learning en Finance : Mythes vs Réalité</title>
             <link>https://www.youtube.com/watch?v=cv3KzQShV_o</link>
             <description><![CDATA[L'Intelligence Artificielle est-elle une boule de cristal magique capable de prédire les marchés financiers ? Dans cette première ...]]></description>
             <pubDate>Thu, 09 Apr 2026 14:50:55 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=cv3KzQShV_o</guid>
             <source>Quant Insights FR</source>
+        </item>
+        <item>
+            <title>Gemma 4 : L&amp;#39;IA de Google Gratuite, Illimitée, Locale &amp;amp; SANS Internet !</title>
+            <link>https://www.youtube.com/watch?v=9onqtz5EwHE</link>
+            <description><![CDATA[Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...]]></description>
+            <pubDate>Tue, 21 Apr 2026 14:02:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=9onqtz5EwHE</guid>
+            <source>Alpa14</source>
+        </item>
+        <item>
+            <title>Requêtes SQL sur DataFrame Julia (DuckDB)</title>
+            <link>https://www.youtube.com/watch?v=wtAFyxyGmAo</link>
+            <description><![CDATA[Machine learning. Data Science. Julia. Utilisation de requêtes SQL pour accéder aux informations de tables sous la forme de ...]]></description>
+            <pubDate>Wed, 15 Apr 2026 09:57:41 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=wtAFyxyGmAo</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
             <title>Utiliser Claude avec Power BI : le hack ultime</title>
@@ -45,12 +45,20 @@
             <source>Clément LVL</source>
         </item>
         <item>
-            <title>Les emplois les plus qualifiés sont les plus menacés par l’intelligence artificielle: "On ne peut exclure un scénario du pire"</title>
-            <link>https://www.lalibre.be/economie/conjoncture/2026/06/05/les-emplois-les-plus-qualifies-sont-les-plus-menaces-par-lintelligence-artificielle-on-ne-peut-exclure-un-scenario-du-pire-QDQFUZT3LBBFHN5AM6VSSFMACE/</link>
-            <description><![CDATA[Une nouvelle étude a mesuré le potentiel d’automatisation des tâches et des métiers par l’intelligence artificielle. L’un de ses auteurs, l’économiste Aurélien Duthoit (Coface), nous en dévoile les pr...]]></description>
-            <pubDate>Fri, 05 Jun 2026 06:08:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lalibre.be/economie/conjoncture/2026/06/05/les-emplois-les-plus-qualifies-sont-les-plus-menaces-par-lintelligence-artificielle-on-ne-peut-exclure-un-scenario-du-pire-QDQFUZT3LBBFHN5AM6VSSFMACE/</guid>
-            <source>Lalibre.be</source>
+            <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
+            <link>https://www.youtube.com/watch?v=mdsnXx_tBEs</link>
+            <description><![CDATA[La formation COMPLÈTE Data &amp; Machine Learning — plus de 9 heures de cours, 111 sessions + 15 quiz, 100% GRATUITE.]]></description>
+            <pubDate>Mon, 25 May 2026 13:45:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=mdsnXx_tBEs</guid>
+            <source>IA Futura</source>
+        </item>
+        <item>
+            <title>Claude rend Power BI 10x plus rapide</title>
+            <link>https://www.youtube.com/watch?v=SvIZcjQgFiQ</link>
+            <description><![CDATA[Dans cette vidéo, je vous montre comment utiliser Claude comme assistant IA pour accélérer vos projets Power BI, générer du ...]]></description>
+            <pubDate>Sun, 03 May 2026 12:46:10 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=SvIZcjQgFiQ</guid>
+            <source>Benjamin Ejzenberg (votre coach Power BI)</source>
         </item>
         <item>
             <title>ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&amp;#39;IA</title>
@@ -61,14 +69,6 @@
             <source>ModAi Lab | SQL & Data par l'IA</source>
         </item>
         <item>
-            <title>SQL pour débutants : Maitrisez les base en moins d&amp;#39;un mois (LIVE)</title>
-            <link>https://www.youtube.com/watch?v=DngKcAFU3Kc</link>
-            <description><![CDATA[Vous voulez extraire des données comme un pro ou booster votre carrière dans la tech ? Bienvenue dans cette formation SQL ...]]></description>
-            <pubDate>Wed, 08 Apr 2026 07:53:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=DngKcAFU3Kc</guid>
-            <source>Kelenix</source>
-        </item>
-        <item>
             <title>Comment supprimer la pop-up &amp;quot;Entrez votre adresse e-mail&amp;quot; dans Power BI Desktop (Solution 2026)</title>
             <link>https://www.youtube.com/watch?v=W9Ca51mHhDk</link>
             <description><![CDATA[Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.]]></description>
@@ -77,20 +77,20 @@
             <source>TechVantage FR</source>
         </item>
         <item>
-            <title>L’IA va-t-elle évoluer seule ? Anthropic réclame un coup de frein mondial</title>
-            <link>https://www.zdnet.fr/actualites/lia-va-t-elle-evoluer-seule-anthropic-reclame-un-coup-de-frein-mondial-496212.htm</link>
-            <description><![CDATA[Le firme américaine Anthropic estime que l’intelligence artificielle pourrait bientôt franchir une étape décisive : celle de l’auto-amélioration sans intervention humaine. Face à ce risque jugé potent...]]></description>
-            <pubDate>Fri, 05 Jun 2026 06:35:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/lia-va-t-elle-evoluer-seule-anthropic-reclame-un-coup-de-frein-mondial-496212.htm</guid>
-            <source>ZDNet France</source>
+            <title>Vidéo. $content.TitleNoTags</title>
+            <link>https://www.estrepublicain.fr/videos/c-est-quoi-la-ai-slop-cette-bouillie-d-intelligence-artificielle-qui-inonde-internet-3vlupx3</link>
+            <description><![CDATA[Des fruits stars de la télé-réalité, des chats musiciens ou encore les célèbres "Italian Brainrot" : nos feeds sur les réseaux sociaux sont inondés par des vidéos plus absurdes les unes que les autres...]]></description>
+            <pubDate>Fri, 05 Jun 2026 19:42:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.estrepublicain.fr/videos/c-est-quoi-la-ai-slop-cette-bouillie-d-intelligence-artificielle-qui-inonde-internet-3vlupx3</guid>
+            <source>Est Républicain</source>
         </item>
         <item>
-            <title>IA : l’Allemagne a déjà perdu la bataille des ChatBots. Mais elle est bien partie pour en gagner une autre</title>
-            <link>https://atlantico.fr/article/decryptage/ia-lallemagne-a-deja-perdu-la-bataille-des-chatbots-mais-elle-est-bien-partie-pour-en-gagner-une-autre-jean-pierre-corniou-julien-pillot</link>
-            <description><![CDATA[Battue sur les grands modèles de langage par les États-Unis et la Chine, l’Europe n’a peut-être pas perdu la guerre de l’intelligence artificielle. Car la prochaine révolution pourrait se jouer dans l...]]></description>
-            <pubDate>Fri, 05 Jun 2026 08:42:00 -0000</pubDate>
-            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/ia-lallemagne-a-deja-perdu-la-bataille-des-chatbots-mais-elle-est-bien-partie-pour-en-gagner-une-autre-jean-pierre-corniou-julien-pillot</guid>
-            <source>Atlantico.fr</source>
+            <title>Apprentissage continu des IA: vers une approche inspirée des synapses biologiques</title>
+            <link>https://www.techno-science.net/actualite/apprentissage-continu-ia-vers-approche-inspiree-synapses-biologiques-N28846.html</link>
+            <description><![CDATA[L'assimilation de connaissances en continu par les systèmes d'intelligence artificielle repose sur un compromis délicat entre leur tendance à l'oubli des connaissances anciennes et leur rigidité...]]></description>
+            <pubDate>Sat, 06 Jun 2026 06:00:04 -0000</pubDate>
+            <guid isPermaLink="true">https://www.techno-science.net/actualite/apprentissage-continu-ia-vers-approche-inspiree-synapses-biologiques-N28846.html</guid>
+            <source>Techno-science.net</source>
         </item>
         <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
@@ -107,6 +107,14 @@
             <pubDate>Sat, 11 Apr 2026 07:15:03 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Z5LsWFrltHU</guid>
             <source>Damal Consult Carrière TV- Français</source>
+        </item>
+        <item>
+            <title>Pour Demis Hassabis, patron de Google DeepMind, les LLM ne sont qu’une partie du chemin vers l’AGI</title>
+            <link>https://dailygeekshow.com/?p=1010330</link>
+            <description><![CDATA[Et si la course actuelle à l’IA se trompait de cible ? Dans un entretien accordé à Y Combinator fin avril 2026, Demis Hassabis a défendu une idée aussi simple qu’inconfortable : les grands modèles de ...]]></description>
+            <pubDate>Fri, 05 Jun 2026 17:31:00 -0000</pubDate>
+            <guid isPermaLink="true">https://dailygeekshow.com/?p=1010330</guid>
+            <source>Daily Geek Show</source>
         </item>
         <item>
             <title>Dashboard Power BI Impressionnant | Tutoriel Débutant</title>
@@ -133,14 +141,6 @@
             <source>Alex The Analyst</source>
         </item>
         <item>
-            <title>Formation Power Query 2026 : Nettoyage des Données sur Excel | Guide Complet Débutant à Avancé</title>
-            <link>https://www.youtube.com/watch?v=k8kH6K6B3C4</link>
-            <description><![CDATA[Dans cette vidéo, découvrez comment utiliser Power Query sur Excel pour nettoyer, transformer et préparer vos données comme ...]]></description>
-            <pubDate>Sun, 12 Apr 2026 13:22:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=k8kH6K6B3C4</guid>
-            <source>Entrepreneur 3.0</source>
-        </item>
-        <item>
             <title>Projet Data Analytics de bout en bout (Python + PostgreSQL + dbt + Streamlit)</title>
             <link>https://www.youtube.com/watch?v=nSkztfCSZxs</link>
             <description><![CDATA[Dans cette vidéo, je vous propose un projet complet d'Analytics Engineering basé sur un cas réel d'entreprise : Stroopwafelshop ...]]></description>
@@ -149,12 +149,12 @@
             <source>J.A DATATECH CONSULTING</source>
         </item>
         <item>
-            <title>Bitget lance le Mois de la lutte contre la fraude alors que les pertes associées atteignent 442 milliards de dollars</title>
-            <link>https://www.globenewswire.com/news-release/2026/06/05/3307261/0/fr/Bitget-lance-le-Mois-de-la-lutte-contre-la-fraude-alors-que-les-pertes-associ%C3%A9es-atteignent-442-milliards-de-dollars.html</link>
-            <description><![CDATA[VICTORIA, Seychelles, 05 juin 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (UEX) au monde, a lancé le Mois de la lutte contre la fraude 2026, sa campagne mondiale annuelle de séc...]]></description>
-            <pubDate>Fri, 05 Jun 2026 10:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/06/05/3307261/0/fr/Bitget-lance-le-Mois-de-la-lutte-contre-la-fraude-alors-que-les-pertes-associ%C3%A9es-atteignent-442-milliards-de-dollars.html</guid>
-            <source>GlobeNewswire</source>
+            <title>Bien avant les hologrammes, Benjamin Franklin avait déjà inventé des moyens de protéger les billets</title>
+            <link>https://theconversation.com/bien-avant-les-hologrammes-benjamin-franklin-avait-deja-invente-des-moyens-de-proteger-les-billets-284718</link>
+            <description><![CDATA[En examinant près de 600 billets coloniaux à l’aide de techniques d’imagerie avancées, des chercheurs ont découvert que Benjamin Franklin expérimentait déjà des solutions de lutte contre la contrefaço...]]></description>
+            <pubDate>Sat, 06 Jun 2026 08:18:58 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/bien-avant-les-hologrammes-benjamin-franklin-avait-deja-invente-des-moyens-de-proteger-les-billets-284718</guid>
+            <source>The Conversation Africa</source>
         </item>
         <item>
             <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>
@@ -165,14 +165,12 @@
             <source>DataSet By d@ne</source>
         </item>
         <item>
-            <title>DVF-2019-Region-Sud</title>
-            <link>https://www.data.gouv.fr/datasets/dvf-2019-region-sud</link>
-            <description><![CDATA[Ce jeu de données contient les Demandes de Valeurs Foncières géolocalisées pour l’année 2019 en Région Sud / Provence-Alpes-Côte d’Azur.
-
-Les données proviennent du jeu officiel DVF géolocalisé publié...]]></description>
-            <pubDate>Thu, 04 Jun 2026 13:55:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/dvf-2019-region-sud</guid>
-            <source>Gouv.fr</source>
+            <title>Pourquoi votre chien n’aime pas certaines personnes ? La science révèle ce qu’il perçoit vraiment</title>
+            <link>https://www.futura-sciences.com/planete/actualites/chien-votre-chien-naime-pas-certaines-personnes-science-revele-ce-quil-percoit-vraiment-w2t8-135057/</link>
+            <description><![CDATA[Votre chien grogne subitement face à un inconnu souriant ? Ce comportement apparemment irrationnel cache en réalité des mécanismes biologiques fascinants. Les capacités sensorielles exceptionnelles de...]]></description>
+            <pubDate>Sat, 06 Jun 2026 06:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/planete/actualites/chien-votre-chien-naime-pas-certaines-personnes-science-revele-ce-quil-percoit-vraiment-w2t8-135057/</guid>
+            <source>Futura</source>
         </item>
     </channel>
 </rss>
