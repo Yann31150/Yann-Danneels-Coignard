@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-06-07T10:31:50.637398",
+  "lastUpdate": "2026-06-08T12:37:18.578872",
   "articles": [
+    {
+      "title": "ChatGPT devient plus sûr : OpenAI déploie une fonction de sécurité indispensable",
+      "description": "OpenAI renforce toujours plus la sécurité de son chatbot. L’entreprise d’IA est en train de déployer le Lockdown Mode de ChatGPT pour l’ensemble des utilisateurs, allant des abonnés gratuits aux...",
+      "url": "https://www.phonandroid.com/chatgpt-devient-plus-sur-openai-deploie-une-fonction-de-securite-indispensable.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-06-07T11:10:10Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
     {
       "title": "Le Machine Learning en Finance : Mythes vs Réalité",
       "description": "L'Intelligence Artificielle est-elle une boule de cristal magique capable de prédire les marchés financiers ? Dans cette première ...",
@@ -14,16 +26,16 @@
       "thumbnail": "https://i.ytimg.com/vi/cv3KzQShV_o/hqdefault.jpg"
     },
     {
-      "title": "Gemma 4 : L&#39;IA de Google Gratuite, Illimitée, Locale &amp; SANS Internet !",
-      "description": "Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...",
-      "url": "https://www.youtube.com/watch?v=9onqtz5EwHE",
-      "source": "Alpa14",
-      "publishedAt": "2026-04-21T14:02:45Z",
+      "title": "Penser l’intelligence artificielle autrement, par Jean-Claude Heudin",
+      "description": "Régulièrement, je vais publier ici, sur Futura, un court article sur l'intelligence artificielle ou sur un sujet scientifique qui me tient à cœur. Aujourd'hui : la voie empruntée pour l’intelligence a...",
+      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-penser-intelligence-artificielle-autrement-jean-claude-heudin-134878/",
+      "source": "Futura",
+      "publishedAt": "2026-06-07T10:03:40Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "9onqtz5EwHE",
-      "thumbnail": "https://i.ytimg.com/vi/9onqtz5EwHE/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Requêtes SQL sur DataFrame Julia (DuckDB)",
@@ -36,6 +48,18 @@
       "isYouTube": true,
       "videoId": "wtAFyxyGmAo",
       "thumbnail": "https://i.ytimg.com/vi/wtAFyxyGmAo/hqdefault.jpg"
+    },
+    {
+      "title": "L'intelligence artificielle va-t-elle mettre au chômage les médecins ?",
+      "description": "Avec les progrès de l'intelligence artificielle, son utilisation se multiplie, notamment dans la médecine. Notre prochain médecin sera-t-il un humain ou un algorithme ?",
+      "url": "https://www.franceinfo.fr/vrai-ou-fake/l-intelligence-artificielle-va-t-elle-mettre-au-chomage-les-medecins_8048315.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-06-06T16:26:29Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Utiliser Claude avec Power BI : le hack ultime",
@@ -62,6 +86,18 @@
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
     },
     {
+      "title": "L’intelligence artificielle : une machine à désinformer",
+      "description": "En quelques années, l’intelligence artificielle a fait d’énormes progrès. Une immense machine parfois utilisée pour désinformer le grand public.",
+      "url": "https://www.franceinfo.fr/vrai-ou-fake/l-intelligence-artificielle-une-machine-a-desinformer_8048246.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-06-06T15:41:56Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Claude rend Power BI 10x plus rapide",
       "description": "Dans cette vidéo, je vous montre comment utiliser Claude comme assistant IA pour accélérer vos projets Power BI, générer du ...",
       "url": "https://www.youtube.com/watch?v=SvIZcjQgFiQ",
@@ -84,42 +120,6 @@
       "isYouTube": true,
       "videoId": "bvm-n-HN8ws",
       "thumbnail": "https://i.ytimg.com/vi/bvm-n-HN8ws/hqdefault.jpg"
-    },
-    {
-      "title": "Comment supprimer la pop-up &quot;Entrez votre adresse e-mail&quot; dans Power BI Desktop (Solution 2026)",
-      "description": "Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.",
-      "url": "https://www.youtube.com/watch?v=W9Ca51mHhDk",
-      "source": "TechVantage FR",
-      "publishedAt": "2026-05-09T13:23:36Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "W9Ca51mHhDk",
-      "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
-    },
-    {
-      "title": "Vidéo. $content.TitleNoTags",
-      "description": "Des fruits stars de la télé-réalité, des chats musiciens ou encore les célèbres \"Italian Brainrot\" : nos feeds sur les réseaux sociaux sont inondés par des vidéos plus absurdes les unes que les autres...",
-      "url": "https://www.estrepublicain.fr/videos/c-est-quoi-la-ai-slop-cette-bouillie-d-intelligence-artificielle-qui-inonde-internet-3vlupx3",
-      "source": "Est Républicain",
-      "publishedAt": "2026-06-05T19:42:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Apprentissage continu des IA: vers une approche inspirée des synapses biologiques",
-      "description": "L'assimilation de connaissances en continu par les systèmes d'intelligence artificielle repose sur un compromis délicat entre leur tendance à l'oubli des connaissances anciennes et leur rigidité...",
-      "url": "https://www.techno-science.net/actualite/apprentissage-continu-ia-vers-approche-inspiree-synapses-biologiques-N28846.html",
-      "source": "Techno-science.net",
-      "publishedAt": "2026-06-06T06:00:04Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
@@ -146,30 +146,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Z5LsWFrltHU/hqdefault.jpg"
     },
     {
-      "title": "Pour Demis Hassabis, patron de Google DeepMind, les LLM ne sont qu’une partie du chemin vers l’AGI",
-      "description": "Et si la course actuelle à l’IA se trompait de cible ? Dans un entretien accordé à Y Combinator fin avril 2026, Demis Hassabis a défendu une idée aussi simple qu’inconfortable : les grands modèles de ...",
-      "url": "https://dailygeekshow.com/?p=1010330",
-      "source": "Daily Geek Show",
-      "publishedAt": "2026-06-05T17:31:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dashboard Power BI Impressionnant | Tutoriel Débutant",
-      "description": "Dans cette vidéo, je vous montre comment créer un dashboard professionnel dans Power BI en partant de zéro. Pas besoin de ...",
-      "url": "https://www.youtube.com/watch?v=86cmlVHp4cs",
-      "source": "Benjamin Ejzenberg (votre coach Power BI)",
-      "publishedAt": "2026-04-08T14:17:40Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "86cmlVHp4cs",
-      "thumbnail": "https://i.ytimg.com/vi/86cmlVHp4cs/hqdefault.jpg"
-    },
-    {
       "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
       "description": "Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...",
       "url": "https://www.youtube.com/watch?v=FL9r4dDKiIU",
@@ -194,6 +170,18 @@
       "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
     },
     {
+      "title": "Formation Power Query 2026 : Nettoyage des Données sur Excel | Guide Complet Débutant à Avancé",
+      "description": "Dans cette vidéo, découvrez comment utiliser Power Query sur Excel pour nettoyer, transformer et préparer vos données comme ...",
+      "url": "https://www.youtube.com/watch?v=k8kH6K6B3C4",
+      "source": "Entrepreneur 3.0",
+      "publishedAt": "2026-04-12T13:22:34Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "k8kH6K6B3C4",
+      "thumbnail": "https://i.ytimg.com/vi/k8kH6K6B3C4/hqdefault.jpg"
+    },
+    {
       "title": "Projet Data Analytics de bout en bout (Python + PostgreSQL + dbt + Streamlit)",
       "description": "Dans cette vidéo, je vous propose un projet complet d'Analytics Engineering basé sur un cas réel d'entreprise : Stroopwafelshop ...",
       "url": "https://www.youtube.com/watch?v=nSkztfCSZxs",
@@ -204,18 +192,6 @@
       "isYouTube": true,
       "videoId": "nSkztfCSZxs",
       "thumbnail": "https://i.ytimg.com/vi/nSkztfCSZxs/hqdefault.jpg"
-    },
-    {
-      "title": "Bien avant les hologrammes, Benjamin Franklin avait déjà inventé des moyens de protéger les billets",
-      "description": "En examinant près de 600 billets coloniaux à l’aide de techniques d’imagerie avancées, des chercheurs ont découvert que Benjamin Franklin expérimentait déjà des solutions de lutte contre la contrefaço...",
-      "url": "https://theconversation.com/bien-avant-les-hologrammes-benjamin-franklin-avait-deja-invente-des-moyens-de-proteger-les-billets-284718",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-06-06T08:18:58Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
@@ -230,11 +206,11 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "Pourquoi votre chien n’aime pas certaines personnes ? La science révèle ce qu’il perçoit vraiment",
-      "description": "Votre chien grogne subitement face à un inconnu souriant ? Ce comportement apparemment irrationnel cache en réalité des mécanismes biologiques fascinants. Les capacités sensorielles exceptionnelles de...",
-      "url": "https://www.futura-sciences.com/planete/actualites/chien-votre-chien-naime-pas-certaines-personnes-science-revele-ce-quil-percoit-vraiment-w2t8-135057/",
-      "source": "Futura",
-      "publishedAt": "2026-06-06T06:00:00Z",
+      "title": "Meurthe-et-Moselle. Convaincue par un faux Emmanuel Macron, elle perd 10 000€ dans des placements frauduleux",
+      "description": "Selon L'Est Républicain, une habitante de Pont-à-Mousson, près de Nancy, s’est fait escroquer 10 000€ après des placements frauduleux, initiés à partir de publications sur les réseaux sociaux utilisan...",
+      "url": "https://www.ledauphine.com/faits-divers-justice/2026/06/07/convaincue-par-un-faux-emmanuel-macron-elle-perd-10-000-dans-des-placements-frauduleux",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-06-07T09:00:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,35 +218,35 @@
       "thumbnail": ""
     },
     {
-      "title": "L’un des plus grands dangers de l’IA est passé sous silence, cette jeune pousse française le combat",
-      "description": "Pour sécuriser l’intelligence artificielle (IA), la Silicon Valley mise sur des filtres de modération en temps réel. La deeptech française Skyld vient de prouver que ces remparts s'effondrent avec une...",
-      "url": "https://www.presse-citron.net/lun-des-plus-grands-dangers-de-lia-est-passe-sous-silence-cette-jeune-pousse-francaise-le-combat/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-06-06T08:00:36Z",
-      "category": "tech",
+      "title": "Actualité : Ce navigateur open source ferme ses contributions, le code généré par IA sème trop le chaos",
+      "description": "Le code généré par IA sème le chaos chez Ladybird, navigateur open source. Résultat, c'est la fin des contributions extérieures. Il n'y aura que les responsables du projet qui pourront toucher au code...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/ce-navigateur-open-source-ferme-ses-contributions-le-code-genere-par-ia-seme-trop-le-chaos-n257158.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-06-07T09:15:00Z",
+      "category": "data",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Covid-19 : ce vaccin révolutionnaire boosté à l’IA pourrait changer la donne",
-      "description": "L’intelligence artificielle s’immisce toujours plus loin dans le domaine de la santé. Grâce à l’IA, des chercheurs affirment avoir réussi à mettre au point un vaccin expérimental capable de lutter...",
-      "url": "https://www.phonandroid.com/covid-19-ce-vaccin-revolutionnaire-booste-a-lia-pourrait-changer-la-donne.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-06-06T10:00:46Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "\"Un tiers des utilisateurs a changé d'avis après avoir échangé avec un agent conversationnel\" : comment l'IA pourrait influencer la présidentielle",
-      "description": "À quel point l'intelligence artificielle va-t-elle jouer un rôle lors de la prochaine campagne présidentielle ? Elle pourrait alimenter les fake news, mais elle est aussi un outil pour accompagner l...",
-      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/un-tiers-des-utilisateurs-a-change-d-avis-apres-avoir-echange-avec-un-agent-conversationnel-comment-l-ia-pourrait-influencer-la-presidentielle_8047217.html",
+      "title": "\"Un matin, plus rien !\" : pourquoi 400 000 stations météo se sont-elles arrêtées subitement ?",
+      "description": "Le signal a été coupé à la mi-mai pour ces stations météo, à cause d'une mésentente commerciale entre La Crosse Technology et eMessage, chargé de la diffusion des informations météo.",
+      "url": "https://www.franceinfo.fr/environnement/meteo/reportage-un-matin-plus-rien-pourquoi-400-000-stations-meteo-se-sont-elles-arretees-subitement_8045150.html",
       "source": "Franceinfo.fr",
-      "publishedAt": "2026-06-05T20:21:49Z",
+      "publishedAt": "2026-06-07T11:29:57Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comment Mistral AI se met au service des armées : \"Toutes les portes leur sont ouvertes\"",
+      "description": "La licorne de l’intelligence artificielle dirigée par Arthur Mensch, qui bénéficie de l’appui inconditionnel de l’Elysée, met ses modèles au service des militaires et accélère son développement dans l...",
+      "url": "https://www.lexpress.fr/secret-defense/comment-mistral-ai-se-met-au-service-des-armees-toutes-les-portes-leur-sont-ouvertes-APYBQPLQVFCZFJWNXJJKQNE5ZM/",
+      "source": "L'Express",
+      "publishedAt": "2026-06-07T05:45:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "L'article L122-5 : la faille légale qui bloque toutes les IA génératives",
-      "description": "\" Les machines n'ont aucun droit, elles n'ont que des devoirs \".\r\nLes emprunts, copies, voire pires, réalisés par des IA de type LLM se basent totalement sur une interprétation illégale du L122-5.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1550977-l-article-l122-5-la-faille-legale-qui-bloque-toutes-les-ia-generatives-llm/",
-      "source": "JDN",
-      "publishedAt": "2026-06-05T14:31:00Z",
+      "title": "Votre Smart TV pourrait entraîner une IA à votre insu, des millions d’utilisateurs concernés",
+      "description": "Le simple fait de regarder votre TV connectée est susceptible de participer à l’entraînement de l’intelligence artificielle. Un nouveau rapport de sécurité indique en effet que des applications de str...",
+      "url": "https://www.phonandroid.com/votre-smart-tv-pourrait-entrainer-une-ia-a-votre-insu-des-millions-dutilisateurs-concernes.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-06-07T12:15:37Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,16 +266,40 @@
       "thumbnail": ""
     },
     {
-      "title": "Ces tueurs de moustiques high-tech sont les futures stars de l’été",
-      "description": "Marre de vous faire dévorer sur la terrasse ? Une startup promet une solution radicale : un système équipé de capteurs, d’intelligence artificielle et d’un laser capable de traquer les moustiques en p...",
-      "url": "https://www.journaldugeek.com/2026/06/06/ces-tueurs-de-moustiques-high-tech-sont-les-futures-stars-de-lete/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-06-06T09:00:33Z",
+      "title": "Manuscrit secret décodé par IA, nouvelle Nintendo Switch 2 en Europe et évolutions de Gemini : les infos à ne pas manquer – L’actu tech de la semaine",
+      "description": "Un exploit de l'IA, une Nintendo Switch 2 spéciale pour l'Europe, des MacBook Neo Killer et des évolutions Gemini. Tout ça sans oublier la Microsoft Build ni les annonces Nvidia. Voici un gros récap d...",
+      "url": "https://www.frandroid.com/actualites-generales/3128585_recap-tech-semaine-202623",
+      "source": "Frandroid",
+      "publishedAt": "2026-06-07T10:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "NotebookLM pour les Nuls — Le Tutoriel COMPLET 2026 (De Zéro à Expert en) 🤯",
+      "description": "Tu passes des heures à lire des documents sans avancer ? Cette vidéo va tout changer. Dans ce tutoriel complet, je te montre ...",
+      "url": "https://www.youtube.com/watch?v=fVjtB0iRrdw",
+      "source": "DaTaQueen Technologies",
+      "publishedAt": "2026-04-13T04:12:01Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "fVjtB0iRrdw",
+      "thumbnail": "https://i.ytimg.com/vi/fVjtB0iRrdw/hqdefault.jpg"
+    },
+    {
+      "title": "De Zéro à Hermes Agent en 10 Minutes Seulement ⏱️",
+      "description": "Serveur HERMES (coupon : GOHERMES) : https://www.hostinger.fr/gohermes Dans cette vidéo, je vous montre comment installer ...",
+      "url": "https://www.youtube.com/watch?v=wojqM-B7y2g",
+      "source": "Dr. Firas",
+      "publishedAt": "2026-05-12T11:01:34Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "wojqM-B7y2g",
+      "thumbnail": "https://i.ytimg.com/vi/wojqM-B7y2g/hqdefault.jpg"
     }
   ]
 }
