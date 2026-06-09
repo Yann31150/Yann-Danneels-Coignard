@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-06-08T12:37:18.578872",
+  "lastUpdate": "2026-06-09T11:21:13.217864",
   "articles": [
     {
-      "title": "ChatGPT devient plus sûr : OpenAI déploie une fonction de sécurité indispensable",
-      "description": "OpenAI renforce toujours plus la sécurité de son chatbot. L’entreprise d’IA est en train de déployer le Lockdown Mode de ChatGPT pour l’ensemble des utilisateurs, allant des abonnés gratuits aux...",
-      "url": "https://www.phonandroid.com/chatgpt-devient-plus-sur-openai-deploie-une-fonction-de-securite-indispensable.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-06-07T11:10:10Z",
+      "title": "OpenAI ajoute un \"mode confinement\" à ChatGPT pour bloquer les injections de prompt",
+      "description": "ChatGPT a gagné un réglage qui ne plaira pas à tout le monde. Un \"mode confinement\", Lockdown Mode dans le texte, qui débranche volontairement une partie des fonctions de l'assistant pour réduire le r...",
+      "url": "https://korben.info/openai-ajoute-un-mode-confinement-a-chatgpt-pour-bloquer-les-injections-de-prompt.html",
+      "source": "Korben.info",
+      "publishedAt": "2026-06-08T09:45:29Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -14,16 +14,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Le Machine Learning en Finance : Mythes vs Réalité",
-      "description": "L'Intelligence Artificielle est-elle une boule de cristal magique capable de prédire les marchés financiers ? Dans cette première ...",
-      "url": "https://www.youtube.com/watch?v=cv3KzQShV_o",
-      "source": "Quant Insights FR",
-      "publishedAt": "2026-04-09T14:50:55Z",
+      "title": "Prompt Engineering expliqué simplement",
+      "description": "Le Prompt Engineering est aujourd'hui la compétence essentielle pour exploiter pleinement l'intelligence artificielle (ChatGPT, ...",
+      "url": "https://www.youtube.com/watch?v=WaCHRGjjSxQ",
+      "source": "Comprendre l'informatique",
+      "publishedAt": "2026-04-12T20:52:03Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "cv3KzQShV_o",
-      "thumbnail": "https://i.ytimg.com/vi/cv3KzQShV_o/hqdefault.jpg"
+      "videoId": "WaCHRGjjSxQ",
+      "thumbnail": "https://i.ytimg.com/vi/WaCHRGjjSxQ/hqdefault.jpg"
     },
     {
       "title": "Penser l’intelligence artificielle autrement, par Jean-Claude Heudin",
@@ -50,18 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/wtAFyxyGmAo/hqdefault.jpg"
     },
     {
-      "title": "L'intelligence artificielle va-t-elle mettre au chômage les médecins ?",
-      "description": "Avec les progrès de l'intelligence artificielle, son utilisation se multiplie, notamment dans la médecine. Notre prochain médecin sera-t-il un humain ou un algorithme ?",
-      "url": "https://www.franceinfo.fr/vrai-ou-fake/l-intelligence-artificielle-va-t-elle-mettre-au-chomage-les-medecins_8048315.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-06-06T16:26:29Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Utiliser Claude avec Power BI : le hack ultime",
       "description": "https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...",
       "url": "https://www.youtube.com/watch?v=NFpt6GfkTg8",
@@ -86,18 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
     },
     {
-      "title": "L’intelligence artificielle : une machine à désinformer",
-      "description": "En quelques années, l’intelligence artificielle a fait d’énormes progrès. Une immense machine parfois utilisée pour désinformer le grand public.",
-      "url": "https://www.franceinfo.fr/vrai-ou-fake/l-intelligence-artificielle-une-machine-a-desinformer_8048246.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-06-06T15:41:56Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Claude rend Power BI 10x plus rapide",
       "description": "Dans cette vidéo, je vous montre comment utiliser Claude comme assistant IA pour accélérer vos projets Power BI, générer du ...",
       "url": "https://www.youtube.com/watch?v=SvIZcjQgFiQ",
@@ -120,6 +96,30 @@
       "isYouTube": true,
       "videoId": "bvm-n-HN8ws",
       "thumbnail": "https://i.ytimg.com/vi/bvm-n-HN8ws/hqdefault.jpg"
+    },
+    {
+      "title": "Comment supprimer la pop-up &quot;Entrez votre adresse e-mail&quot; dans Power BI Desktop (Solution 2026)",
+      "description": "Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.",
+      "url": "https://www.youtube.com/watch?v=W9Ca51mHhDk",
+      "source": "TechVantage FR",
+      "publishedAt": "2026-05-09T13:23:36Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "W9Ca51mHhDk",
+      "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
+    },
+    {
+      "title": "Mais pourquoi Google Chrome installe 4 Go de fichiers impossible à supprimer ?",
+      "description": "Depuis fin Avril, le navigateur web Google Chrome installe un modèle d'intelligence artificielle de 4 Go directement sur les disques durs de ses utilisateurs. Pas de notification, ni de petite case à ...",
+      "url": "https://www.journaldugeek.com/2026/06/08/mais-pourquoi-google-chrome-installe-4-go-de-fichiers-impossible-a-supprimer/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-06-08T09:19:26Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
@@ -194,6 +194,18 @@
       "thumbnail": "https://i.ytimg.com/vi/nSkztfCSZxs/hqdefault.jpg"
     },
     {
+      "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
+      "description": "Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...",
+      "url": "https://www.youtube.com/watch?v=OKS6wtA2lAA",
+      "source": "OUJOOD",
+      "publishedAt": "2026-06-03T12:13:50Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "OKS6wtA2lAA",
+      "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
+    },
+    {
       "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
       "description": "Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...",
       "url": "https://www.youtube.com/watch?v=9t1mXWkqj0g",
@@ -206,11 +218,11 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "Meurthe-et-Moselle. Convaincue par un faux Emmanuel Macron, elle perd 10 000€ dans des placements frauduleux",
-      "description": "Selon L'Est Républicain, une habitante de Pont-à-Mousson, près de Nancy, s’est fait escroquer 10 000€ après des placements frauduleux, initiés à partir de publications sur les réseaux sociaux utilisan...",
-      "url": "https://www.ledauphine.com/faits-divers-justice/2026/06/07/convaincue-par-un-faux-emmanuel-macron-elle-perd-10-000-dans-des-placements-frauduleux",
-      "source": "Le Dauphiné Libéré",
-      "publishedAt": "2026-06-07T09:00:00Z",
+      "title": "Modéliser les territoires pour mieux décider ? Les promesses et les limites des jumeaux numériques pour l’environnement",
+      "description": "Données fragmentaires, arbitrages complexes, conflits d’usage : si les jumeaux numériques ne peuvent pas tout résoudre, ils offrent au moins une centralisation de l’information pour mieux gérer en tem...",
+      "url": "https://theconversation.com/modeliser-les-territoires-pour-mieux-decider-les-promesses-et-les-limites-des-jumeaux-numeriques-pour-lenvironnement-283732",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-06-07T16:32:17Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,11 +230,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Actualité : Ce navigateur open source ferme ses contributions, le code généré par IA sème trop le chaos",
-      "description": "Le code généré par IA sème le chaos chez Ladybird, navigateur open source. Résultat, c'est la fin des contributions extérieures. Il n'y aura que les responsables du projet qui pourront toucher au code...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/ce-navigateur-open-source-ferme-ses-contributions-le-code-genere-par-ia-seme-trop-le-chaos-n257158.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-06-07T09:15:00Z",
+      "title": "Dreambeans : la fausse bonne idée de Google qui veut devenir votre coach matinal grâce à vos données privées",
+      "description": "Google lance Dreambeans, une application expérimentale qui génère chaque matin des stories personnalisées à partir de vos données Gmail, Google Agenda, Photos et historiques de recherche, sans attendr...",
+      "url": "https://www.journaldugeek.com/2026/06/08/dreambeans-la-fausse-bonne-idee-de-google-qui-veut-devenir-votre-coach-matinal-grace-a-vos-donnees-privees/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-06-08T10:33:56Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,23 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "\"Un matin, plus rien !\" : pourquoi 400 000 stations météo se sont-elles arrêtées subitement ?",
-      "description": "Le signal a été coupé à la mi-mai pour ces stations météo, à cause d'une mésentente commerciale entre La Crosse Technology et eMessage, chargé de la diffusion des informations météo.",
-      "url": "https://www.franceinfo.fr/environnement/meteo/reportage-un-matin-plus-rien-pourquoi-400-000-stations-meteo-se-sont-elles-arretees-subitement_8045150.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-06-07T11:29:57Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comment Mistral AI se met au service des armées : \"Toutes les portes leur sont ouvertes\"",
-      "description": "La licorne de l’intelligence artificielle dirigée par Arthur Mensch, qui bénéficie de l’appui inconditionnel de l’Elysée, met ses modèles au service des militaires et accélère son développement dans l...",
-      "url": "https://www.lexpress.fr/secret-defense/comment-mistral-ai-se-met-au-service-des-armees-toutes-les-portes-leur-sont-ouvertes-APYBQPLQVFCZFJWNXJJKQNE5ZM/",
-      "source": "L'Express",
-      "publishedAt": "2026-06-07T05:45:00Z",
+      "title": "IA chez Apple : les secrets de la réunion de crise qui a tout changé",
+      "description": "Apple aborde la WWDC 2026 avec une pression rare sur ses annonces d’intelligence artificielle. La keynote d’aujourd’hui qui débutera à 19 heures doit montrer le nouveau Siri et les efforts IA au nivea...",
+      "url": "https://iphoneaddict.fr/post/news-429822-ia-chez-apple-secrets-reunion-crise-change",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-06-08T08:22:52Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Votre Smart TV pourrait entraîner une IA à votre insu, des millions d’utilisateurs concernés",
-      "description": "Le simple fait de regarder votre TV connectée est susceptible de participer à l’entraînement de l’intelligence artificielle. Un nouveau rapport de sécurité indique en effet que des applications de str...",
-      "url": "https://www.phonandroid.com/votre-smart-tv-pourrait-entrainer-une-ia-a-votre-insu-des-millions-dutilisateurs-concernes.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-06-07T12:15:37Z",
+      "title": "J'ai acheté des agents Copilot haut de gamme de Microsoft pour qu'ils fassent mon travail – ils se sont montrés, sans aucun doute, incompétents",
+      "description": "Est-ce qu'on peut demander à un agent Copilot de faire le travail à notre place ? J'ai essayé. Mais l'IA n'est pas prête à jouer le jeu.",
+      "url": "https://www.zdnet.fr/actualites/jai-achete-des-agents-copilot-haut-de-gamme-de-microsoft-pour-quils-fassent-mon-travail-ils-se-sont-montres-sans-aucun-doute-incompetents-496358.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-06-08T04:06:38Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Manuscrit secret décodé par IA, nouvelle Nintendo Switch 2 en Europe et évolutions de Gemini : les infos à ne pas manquer – L’actu tech de la semaine",
-      "description": "Un exploit de l'IA, une Nintendo Switch 2 spéciale pour l'Europe, des MacBook Neo Killer et des évolutions Gemini. Tout ça sans oublier la Microsoft Build ni les annonces Nvidia. Voici un gros récap d...",
-      "url": "https://www.frandroid.com/actualites-generales/3128585_recap-tech-semaine-202623",
-      "source": "Frandroid",
-      "publishedAt": "2026-06-07T10:00:00Z",
+      "title": "Afrique centrale : pourquoi les interdictions totales de viande de brousse menacent la sécurité alimentaire",
+      "description": "La viande d'animaux sauvages, ou viande de brousse, occupe une place importante dans l'alimentation de millions de personnes en Afrique centrale.",
+      "url": "https://theconversation.com/afrique-centrale-pourquoi-les-interdictions-totales-de-viande-de-brousse-menacent-la-securite-alimentaire-284378",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-06-08T09:54:07Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,16 +290,16 @@
       "thumbnail": "https://i.ytimg.com/vi/fVjtB0iRrdw/hqdefault.jpg"
     },
     {
-      "title": "De Zéro à Hermes Agent en 10 Minutes Seulement ⏱️",
-      "description": "Serveur HERMES (coupon : GOHERMES) : https://www.hostinger.fr/gohermes Dans cette vidéo, je vous montre comment installer ...",
-      "url": "https://www.youtube.com/watch?v=wojqM-B7y2g",
-      "source": "Dr. Firas",
-      "publishedAt": "2026-05-12T11:01:34Z",
+      "title": "Communiqué de presse : Sarclisa en formulation sous-cutanée de Sanofi approuvé dans l’UE comme premier traitement anticancéreux administré via un injecteur portable",
+      "description": "Sarclisa SC approuvé en UE : 1er anticancéreux via injecteur corporel CirCLIQ®. Administration flexible domicile/clinique pour myélome multiple....",
+      "url": "https://www.globenewswire.com/news-release/2026/06/08/3307781/0/fr/Communiqu%C3%A9-de-presse-Sarclisa-en-formulation-sous-cutan%C3%A9e-de-Sanofi-approuv%C3%A9-dans-l-UE-comme-premier-traitement-anticanc%C3%A9reux-administr%C3%A9-via-un-injecteur-portable.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-08T05:00:00Z",
       "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "wojqM-B7y2g",
-      "thumbnail": "https://i.ytimg.com/vi/wojqM-B7y2g/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }

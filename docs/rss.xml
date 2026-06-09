@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 08 Jun 2026 12:37:18 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 11:21:13 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,20 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>ChatGPT devient plus sûr : OpenAI déploie une fonction de sécurité indispensable</title>
-            <link>https://www.phonandroid.com/chatgpt-devient-plus-sur-openai-deploie-une-fonction-de-securite-indispensable.html</link>
-            <description><![CDATA[OpenAI renforce toujours plus la sécurité de son chatbot. L’entreprise d’IA est en train de déployer le Lockdown Mode de ChatGPT pour l’ensemble des utilisateurs, allant des abonnés gratuits aux...]]></description>
-            <pubDate>Sun, 07 Jun 2026 11:10:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.phonandroid.com/chatgpt-devient-plus-sur-openai-deploie-une-fonction-de-securite-indispensable.html</guid>
-            <source>Phonandroid</source>
+            <title>OpenAI ajoute un "mode confinement" à ChatGPT pour bloquer les injections de prompt</title>
+            <link>https://korben.info/openai-ajoute-un-mode-confinement-a-chatgpt-pour-bloquer-les-injections-de-prompt.html</link>
+            <description><![CDATA[ChatGPT a gagné un réglage qui ne plaira pas à tout le monde. Un "mode confinement", Lockdown Mode dans le texte, qui débranche volontairement une partie des fonctions de l'assistant pour réduire le r...]]></description>
+            <pubDate>Mon, 08 Jun 2026 09:45:29 -0000</pubDate>
+            <guid isPermaLink="true">https://korben.info/openai-ajoute-un-mode-confinement-a-chatgpt-pour-bloquer-les-injections-de-prompt.html</guid>
+            <source>Korben.info</source>
         </item>
         <item>
-            <title>Le Machine Learning en Finance : Mythes vs Réalité</title>
-            <link>https://www.youtube.com/watch?v=cv3KzQShV_o</link>
-            <description><![CDATA[L'Intelligence Artificielle est-elle une boule de cristal magique capable de prédire les marchés financiers ? Dans cette première ...]]></description>
-            <pubDate>Thu, 09 Apr 2026 14:50:55 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=cv3KzQShV_o</guid>
-            <source>Quant Insights FR</source>
+            <title>Prompt Engineering expliqué simplement</title>
+            <link>https://www.youtube.com/watch?v=WaCHRGjjSxQ</link>
+            <description><![CDATA[Le Prompt Engineering est aujourd'hui la compétence essentielle pour exploiter pleinement l'intelligence artificielle (ChatGPT, ...]]></description>
+            <pubDate>Sun, 12 Apr 2026 20:52:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=WaCHRGjjSxQ</guid>
+            <source>Comprendre l'informatique</source>
         </item>
         <item>
             <title>Penser l’intelligence artificielle autrement, par Jean-Claude Heudin</title>
@@ -45,14 +45,6 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>L'intelligence artificielle va-t-elle mettre au chômage les médecins ?</title>
-            <link>https://www.franceinfo.fr/vrai-ou-fake/l-intelligence-artificielle-va-t-elle-mettre-au-chomage-les-medecins_8048315.html</link>
-            <description><![CDATA[Avec les progrès de l'intelligence artificielle, son utilisation se multiplie, notamment dans la médecine. Notre prochain médecin sera-t-il un humain ou un algorithme ?]]></description>
-            <pubDate>Sat, 06 Jun 2026 16:26:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/vrai-ou-fake/l-intelligence-artificielle-va-t-elle-mettre-au-chomage-les-medecins_8048315.html</guid>
-            <source>Franceinfo.fr</source>
-        </item>
-        <item>
             <title>Utiliser Claude avec Power BI : le hack ultime</title>
             <link>https://www.youtube.com/watch?v=NFpt6GfkTg8</link>
             <description><![CDATA[https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...]]></description>
@@ -69,14 +61,6 @@
             <source>IA Futura</source>
         </item>
         <item>
-            <title>L’intelligence artificielle : une machine à désinformer</title>
-            <link>https://www.franceinfo.fr/vrai-ou-fake/l-intelligence-artificielle-une-machine-a-desinformer_8048246.html</link>
-            <description><![CDATA[En quelques années, l’intelligence artificielle a fait d’énormes progrès. Une immense machine parfois utilisée pour désinformer le grand public.]]></description>
-            <pubDate>Sat, 06 Jun 2026 15:41:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/vrai-ou-fake/l-intelligence-artificielle-une-machine-a-desinformer_8048246.html</guid>
-            <source>Franceinfo.fr</source>
-        </item>
-        <item>
             <title>Claude rend Power BI 10x plus rapide</title>
             <link>https://www.youtube.com/watch?v=SvIZcjQgFiQ</link>
             <description><![CDATA[Dans cette vidéo, je vous montre comment utiliser Claude comme assistant IA pour accélérer vos projets Power BI, générer du ...]]></description>
@@ -91,6 +75,22 @@
             <pubDate>Thu, 14 May 2026 11:01:01 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=bvm-n-HN8ws</guid>
             <source>ModAi Lab | SQL & Data par l'IA</source>
+        </item>
+        <item>
+            <title>Comment supprimer la pop-up &amp;quot;Entrez votre adresse e-mail&amp;quot; dans Power BI Desktop (Solution 2026)</title>
+            <link>https://www.youtube.com/watch?v=W9Ca51mHhDk</link>
+            <description><![CDATA[Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.]]></description>
+            <pubDate>Sat, 09 May 2026 13:23:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=W9Ca51mHhDk</guid>
+            <source>TechVantage FR</source>
+        </item>
+        <item>
+            <title>Mais pourquoi Google Chrome installe 4 Go de fichiers impossible à supprimer ?</title>
+            <link>https://www.journaldugeek.com/2026/06/08/mais-pourquoi-google-chrome-installe-4-go-de-fichiers-impossible-a-supprimer/</link>
+            <description><![CDATA[Depuis fin Avril, le navigateur web Google Chrome installe un modèle d'intelligence artificielle de 4 Go directement sur les disques durs de ses utilisateurs. Pas de notification, ni de petite case à ...]]></description>
+            <pubDate>Mon, 08 Jun 2026 09:19:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/06/08/mais-pourquoi-google-chrome-installe-4-go-de-fichiers-impossible-a-supprimer/</guid>
+            <source>Journal du geek</source>
         </item>
         <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
@@ -141,6 +141,14 @@
             <source>J.A DATATECH CONSULTING</source>
         </item>
         <item>
+            <title>Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas</title>
+            <link>https://www.youtube.com/watch?v=OKS6wtA2lAA</link>
+            <description><![CDATA[Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...]]></description>
+            <pubDate>Wed, 03 Jun 2026 12:13:50 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=OKS6wtA2lAA</guid>
+            <source>OUJOOD</source>
+        </item>
+        <item>
             <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>
             <link>https://www.youtube.com/watch?v=9t1mXWkqj0g</link>
             <description><![CDATA[Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...]]></description>
@@ -149,28 +157,20 @@
             <source>DataSet By d@ne</source>
         </item>
         <item>
-            <title>Meurthe-et-Moselle. Convaincue par un faux Emmanuel Macron, elle perd 10 000€ dans des placements frauduleux</title>
-            <link>https://www.ledauphine.com/faits-divers-justice/2026/06/07/convaincue-par-un-faux-emmanuel-macron-elle-perd-10-000-dans-des-placements-frauduleux</link>
-            <description><![CDATA[Selon L'Est Républicain, une habitante de Pont-à-Mousson, près de Nancy, s’est fait escroquer 10 000€ après des placements frauduleux, initiés à partir de publications sur les réseaux sociaux utilisan...]]></description>
-            <pubDate>Sun, 07 Jun 2026 09:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.ledauphine.com/faits-divers-justice/2026/06/07/convaincue-par-un-faux-emmanuel-macron-elle-perd-10-000-dans-des-placements-frauduleux</guid>
-            <source>Le Dauphiné Libéré</source>
+            <title>Modéliser les territoires pour mieux décider ? Les promesses et les limites des jumeaux numériques pour l’environnement</title>
+            <link>https://theconversation.com/modeliser-les-territoires-pour-mieux-decider-les-promesses-et-les-limites-des-jumeaux-numeriques-pour-lenvironnement-283732</link>
+            <description><![CDATA[Données fragmentaires, arbitrages complexes, conflits d’usage : si les jumeaux numériques ne peuvent pas tout résoudre, ils offrent au moins une centralisation de l’information pour mieux gérer en tem...]]></description>
+            <pubDate>Sun, 07 Jun 2026 16:32:17 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/modeliser-les-territoires-pour-mieux-decider-les-promesses-et-les-limites-des-jumeaux-numeriques-pour-lenvironnement-283732</guid>
+            <source>The Conversation Africa</source>
         </item>
         <item>
-            <title>Actualité : Ce navigateur open source ferme ses contributions, le code généré par IA sème trop le chaos</title>
-            <link>https://www.lesnumeriques.com/intelligence-artificielle/ce-navigateur-open-source-ferme-ses-contributions-le-code-genere-par-ia-seme-trop-le-chaos-n257158.html</link>
-            <description><![CDATA[Le code généré par IA sème le chaos chez Ladybird, navigateur open source. Résultat, c'est la fin des contributions extérieures. Il n'y aura que les responsables du projet qui pourront toucher au code...]]></description>
-            <pubDate>Sun, 07 Jun 2026 09:15:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/ce-navigateur-open-source-ferme-ses-contributions-le-code-genere-par-ia-seme-trop-le-chaos-n257158.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
-            <title>"Un matin, plus rien !" : pourquoi 400 000 stations météo se sont-elles arrêtées subitement ?</title>
-            <link>https://www.franceinfo.fr/environnement/meteo/reportage-un-matin-plus-rien-pourquoi-400-000-stations-meteo-se-sont-elles-arretees-subitement_8045150.html</link>
-            <description><![CDATA[Le signal a été coupé à la mi-mai pour ces stations météo, à cause d'une mésentente commerciale entre La Crosse Technology et eMessage, chargé de la diffusion des informations météo.]]></description>
-            <pubDate>Sun, 07 Jun 2026 11:29:57 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/environnement/meteo/reportage-un-matin-plus-rien-pourquoi-400-000-stations-meteo-se-sont-elles-arretees-subitement_8045150.html</guid>
-            <source>Franceinfo.fr</source>
+            <title>Dreambeans : la fausse bonne idée de Google qui veut devenir votre coach matinal grâce à vos données privées</title>
+            <link>https://www.journaldugeek.com/2026/06/08/dreambeans-la-fausse-bonne-idee-de-google-qui-veut-devenir-votre-coach-matinal-grace-a-vos-donnees-privees/</link>
+            <description><![CDATA[Google lance Dreambeans, une application expérimentale qui génère chaque matin des stories personnalisées à partir de vos données Gmail, Google Agenda, Photos et historiques de recherche, sans attendr...]]></description>
+            <pubDate>Mon, 08 Jun 2026 10:33:56 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/06/08/dreambeans-la-fausse-bonne-idee-de-google-qui-veut-devenir-votre-coach-matinal-grace-a-vos-donnees-privees/</guid>
+            <source>Journal du geek</source>
         </item>
     </channel>
 </rss>
