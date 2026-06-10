@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 09 Jun 2026 11:21:13 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 11:41:28 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,36 +13,20 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>OpenAI ajoute un "mode confinement" à ChatGPT pour bloquer les injections de prompt</title>
-            <link>https://korben.info/openai-ajoute-un-mode-confinement-a-chatgpt-pour-bloquer-les-injections-de-prompt.html</link>
-            <description><![CDATA[ChatGPT a gagné un réglage qui ne plaira pas à tout le monde. Un "mode confinement", Lockdown Mode dans le texte, qui débranche volontairement une partie des fonctions de l'assistant pour réduire le r...]]></description>
-            <pubDate>Mon, 08 Jun 2026 09:45:29 -0000</pubDate>
-            <guid isPermaLink="true">https://korben.info/openai-ajoute-un-mode-confinement-a-chatgpt-pour-bloquer-les-injections-de-prompt.html</guid>
-            <source>Korben.info</source>
+            <title>IA - réseau de neurones / Machine learning</title>
+            <link>https://www.youtube.com/watch?v=k2rifQzyqtA</link>
+            <description><![CDATA[ia #ai #machinelearning #réseaudeneurones #informatique #chatgpt #gemini #copilot Lien utilisé dans la vidéo ...]]></description>
+            <pubDate>Sat, 25 Apr 2026 19:16:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=k2rifQzyqtA</guid>
+            <source>Nicolasit</source>
         </item>
         <item>
-            <title>Prompt Engineering expliqué simplement</title>
-            <link>https://www.youtube.com/watch?v=WaCHRGjjSxQ</link>
-            <description><![CDATA[Le Prompt Engineering est aujourd'hui la compétence essentielle pour exploiter pleinement l'intelligence artificielle (ChatGPT, ...]]></description>
-            <pubDate>Sun, 12 Apr 2026 20:52:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=WaCHRGjjSxQ</guid>
-            <source>Comprendre l'informatique</source>
-        </item>
-        <item>
-            <title>Penser l’intelligence artificielle autrement, par Jean-Claude Heudin</title>
-            <link>https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-penser-intelligence-artificielle-autrement-jean-claude-heudin-134878/</link>
-            <description><![CDATA[Régulièrement, je vais publier ici, sur Futura, un court article sur l'intelligence artificielle ou sur un sujet scientifique qui me tient à cœur. Aujourd'hui : la voie empruntée pour l’intelligence a...]]></description>
-            <pubDate>Sun, 07 Jun 2026 10:03:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-penser-intelligence-artificielle-autrement-jean-claude-heudin-134878/</guid>
-            <source>Futura</source>
-        </item>
-        <item>
-            <title>Requêtes SQL sur DataFrame Julia (DuckDB)</title>
-            <link>https://www.youtube.com/watch?v=wtAFyxyGmAo</link>
-            <description><![CDATA[Machine learning. Data Science. Julia. Utilisation de requêtes SQL pour accéder aux informations de tables sous la forme de ...]]></description>
-            <pubDate>Wed, 15 Apr 2026 09:57:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=wtAFyxyGmAo</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>Pourquoi les IA génératives hallucinent-elles ?</title>
+            <link>https://theconversation.com/pourquoi-les-ia-generatives-hallucinent-elles-270493</link>
+            <description><![CDATA[Peut-être l’avez-vous remarqué en utilisant Claude ou ChatGPT, mais savez-vous pourquoi les IA génératives produisent des « hallucinations » ?]]></description>
+            <pubDate>Mon, 08 Jun 2026 15:21:20 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/pourquoi-les-ia-generatives-hallucinent-elles-270493</guid>
+            <source>The Conversation Africa</source>
         </item>
         <item>
             <title>Utiliser Claude avec Power BI : le hack ultime</title>
@@ -59,6 +43,14 @@
             <pubDate>Mon, 25 May 2026 13:45:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=mdsnXx_tBEs</guid>
             <source>IA Futura</source>
+        </item>
+        <item>
+            <title>Banque et assurance : comment l’intelligence artificielle est en train de rebattre les cartes.</title>
+            <link>https://www.challenges.fr/entreprise/banque-et-assurance/banque-et-assurance-comment-lintelligence-artificielle-est-en-train-de-rebattre-les-cartes_644010</link>
+            <description><![CDATA[C’est un fait l’intelligence artificielle s’est progressivement d’abord dans l’utilisation quotidienne des individus et maintenant comme un levier majeur de transformation dans les grandes organisatio...]]></description>
+            <pubDate>Tue, 09 Jun 2026 10:32:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.challenges.fr/entreprise/banque-et-assurance/banque-et-assurance-comment-lintelligence-artificielle-est-en-train-de-rebattre-les-cartes_644010</guid>
+            <source>Challenges</source>
         </item>
         <item>
             <title>Claude rend Power BI 10x plus rapide</title>
@@ -85,12 +77,20 @@
             <source>TechVantage FR</source>
         </item>
         <item>
-            <title>Mais pourquoi Google Chrome installe 4 Go de fichiers impossible à supprimer ?</title>
-            <link>https://www.journaldugeek.com/2026/06/08/mais-pourquoi-google-chrome-installe-4-go-de-fichiers-impossible-a-supprimer/</link>
-            <description><![CDATA[Depuis fin Avril, le navigateur web Google Chrome installe un modèle d'intelligence artificielle de 4 Go directement sur les disques durs de ses utilisateurs. Pas de notification, ni de petite case à ...]]></description>
-            <pubDate>Mon, 08 Jun 2026 09:19:26 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/06/08/mais-pourquoi-google-chrome-installe-4-go-de-fichiers-impossible-a-supprimer/</guid>
-            <source>Journal du geek</source>
+            <title>La Chine met en service son datacenter immergé pour alimenter son IA</title>
+            <link>https://www.generation-nt.com/actualites/chine-datacenter-sous-marin-mise-service-shanghai-2076778</link>
+            <description><![CDATA[Face à l'appétit énergétique gargantuesque de l'intelligence artificielle, la Chine déploie une solution digne d'un roman de Jules Verne : un centre de données immergé, directement alimenté par des éo...]]></description>
+            <pubDate>Tue, 09 Jun 2026 11:20:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/chine-datacenter-sous-marin-mise-service-shanghai-2076778</guid>
+            <source>Génération NT</source>
+        </item>
+        <item>
+            <title># 14 - Synchroniser votre base de données avec les migrations</title>
+            <link>https://www.youtube.com/watch?v=IXFP0bdMO3Y</link>
+            <description><![CDATA[Dans cette leçon, nous allons apprendre à faire le pont entre votre code PHP et votre base de données. Vous avez créé vos ...]]></description>
+            <pubDate>Mon, 20 Apr 2026 10:49:56 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=IXFP0bdMO3Y</guid>
+            <source>Nicely Dev - Apprendre à coder</source>
         </item>
         <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
@@ -99,14 +99,6 @@
             <pubDate>Wed, 06 May 2026 02:55:02 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=rhE7Ab_sBTo</guid>
             <source>Oscar Aksanti</source>
-        </item>
-        <item>
-            <title>Questions et réponses d’entretien pour analyste de données</title>
-            <link>https://www.youtube.com/watch?v=Z5LsWFrltHU</link>
-            <description><![CDATA[Questions et réponses d'entretien pour analyste de données. Questions et réponses d'entretien pour analyste de données ...]]></description>
-            <pubDate>Sat, 11 Apr 2026 07:15:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z5LsWFrltHU</guid>
-            <source>Damal Consult Carrière TV- Français</source>
         </item>
         <item>
             <title>Big Data Décortiqué : Apache Spark Pour Débuter</title>
@@ -157,20 +149,28 @@
             <source>DataSet By d@ne</source>
         </item>
         <item>
-            <title>Modéliser les territoires pour mieux décider ? Les promesses et les limites des jumeaux numériques pour l’environnement</title>
-            <link>https://theconversation.com/modeliser-les-territoires-pour-mieux-decider-les-promesses-et-les-limites-des-jumeaux-numeriques-pour-lenvironnement-283732</link>
-            <description><![CDATA[Données fragmentaires, arbitrages complexes, conflits d’usage : si les jumeaux numériques ne peuvent pas tout résoudre, ils offrent au moins une centralisation de l’information pour mieux gérer en tem...]]></description>
-            <pubDate>Sun, 07 Jun 2026 16:32:17 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/modeliser-les-territoires-pour-mieux-decider-les-promesses-et-les-limites-des-jumeaux-numeriques-pour-lenvironnement-283732</guid>
-            <source>The Conversation Africa</source>
+            <title>L’entrepreneuriat canadien est en déclin et les défis s’accumulent alors que les entreprises prennent du retard auprès des prêteurs</title>
+            <link>https://www.globenewswire.com/news-release/2026/06/09/3308641/0/fr/L-entrepreneuriat-canadien-est-en-d%C3%A9clin-et-les-d%C3%A9fis-s-accumulent-alors-que-les-entreprises-prennent-du-retard-aupr%C3%A8s-des-pr%C3%AAteurs.html</link>
+            <description><![CDATA[Les données d’Equifax Canada révèlent une forte baisse de l’entrepreneuriat canadien ainsi qu’une diminution du crédit demandé par les entreprises     ...]]></description>
+            <pubDate>Tue, 09 Jun 2026 10:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/06/09/3308641/0/fr/L-entrepreneuriat-canadien-est-en-d%C3%A9clin-et-les-d%C3%A9fis-s-accumulent-alors-que-les-entreprises-prennent-du-retard-aupr%C3%A8s-des-pr%C3%AAteurs.html</guid>
+            <source>GlobeNewswire</source>
         </item>
         <item>
-            <title>Dreambeans : la fausse bonne idée de Google qui veut devenir votre coach matinal grâce à vos données privées</title>
-            <link>https://www.journaldugeek.com/2026/06/08/dreambeans-la-fausse-bonne-idee-de-google-qui-veut-devenir-votre-coach-matinal-grace-a-vos-donnees-privees/</link>
-            <description><![CDATA[Google lance Dreambeans, une application expérimentale qui génère chaque matin des stories personnalisées à partir de vos données Gmail, Google Agenda, Photos et historiques de recherche, sans attendr...]]></description>
-            <pubDate>Mon, 08 Jun 2026 10:33:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/06/08/dreambeans-la-fausse-bonne-idee-de-google-qui-veut-devenir-votre-coach-matinal-grace-a-vos-donnees-privees/</guid>
-            <source>Journal du geek</source>
+            <title>LE STENT VEINEUX GORE® VIABAHN® FORTEGRA REÇOIT L'APPROBATION DU MDR</title>
+            <link>https://www.prnewswire.com/news-releases/le-stent-veineux-gore-viabahn-fortegra-recoit-lapprobation-du-mdr-302783930.html</link>
+            <description><![CDATA[L'endoprothèse veineuse FORTEGRA est conçue pour offrir un équilibre optimal de conformabilité et de résistance à la compression pour le traitement d'un large éventail de patients. PUTZBRUNN, Allemagn...]]></description>
+            <pubDate>Tue, 09 Jun 2026 05:07:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/le-stent-veineux-gore-viabahn-fortegra-recoit-lapprobation-du-mdr-302783930.html</guid>
+            <source>PRNewswire</source>
+        </item>
+        <item>
+            <title>Votre site e-commerce est-il prêt pour les agents IA acheteurs ?</title>
+            <link>https://www.journaldunet.com/retail/1550915-votre-site-e-commerce-est-il-pret-pour-les-agents-ia-acheteurs/</link>
+            <description><![CDATA[Bientôt, ce ne sera plus votre client qui remplira son panier, mais son agent IA. Et cet agent ne pardonne rien à un site pensé pour l'œil humain.]]></description>
+            <pubDate>Tue, 09 Jun 2026 10:08:23 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/retail/1550915-votre-site-e-commerce-est-il-pret-pour-les-agents-ia-acheteurs/</guid>
+            <source>JDN</source>
         </item>
     </channel>
 </rss>
