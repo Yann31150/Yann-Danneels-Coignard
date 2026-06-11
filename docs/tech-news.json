@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-10T11:41:28.670849",
+  "lastUpdate": "2026-06-11T12:12:42.975420",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -14,28 +14,16 @@
       "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
     },
     {
-      "title": "Pourquoi les IA génératives hallucinent-elles ?",
-      "description": "Peut-être l’avez-vous remarqué en utilisant Claude ou ChatGPT, mais savez-vous pourquoi les IA génératives produisent des « hallucinations » ?",
-      "url": "https://theconversation.com/pourquoi-les-ia-generatives-hallucinent-elles-270493",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-06-08T15:21:20Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Utiliser Claude avec Power BI : le hack ultime",
-      "description": "https://espritacademique.com/ Découvre comment intégrer Claude (IA) dans Power BI pour analyser tes données, générer des ...",
-      "url": "https://www.youtube.com/watch?v=NFpt6GfkTg8",
-      "source": "Clément LVL",
-      "publishedAt": "2026-04-11T16:34:52Z",
+      "title": "Requêtes SQL sur DataFrame Julia (DuckDB)",
+      "description": "Machine learning. Data Science. Julia. Utilisation de requêtes SQL pour accéder aux informations de tables sous la forme de ...",
+      "url": "https://www.youtube.com/watch?v=wtAFyxyGmAo",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-04-15T09:57:41Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "NFpt6GfkTg8",
-      "thumbnail": "https://i.ytimg.com/vi/NFpt6GfkTg8/hqdefault.jpg"
+      "videoId": "wtAFyxyGmAo",
+      "thumbnail": "https://i.ytimg.com/vi/wtAFyxyGmAo/hqdefault.jpg"
     },
     {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
@@ -55,6 +43,18 @@
       "url": "https://www.challenges.fr/entreprise/banque-et-assurance/banque-et-assurance-comment-lintelligence-artificielle-est-en-train-de-rebattre-les-cartes_644010",
       "source": "Challenges",
       "publishedAt": "2026-06-09T10:32:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Planisware dévoile ses dernières innovations en matière d’intelligence artificielle lors de sa conférence annuelle Exchange26 EMEA",
+      "description": "Planisware dévoile ses dernières innovations en matière d’intelligence artificielle lors de sa conférence annuelle Exchange26 EMEA  Paris, France, 10...",
+      "url": "https://www.globenewswire.com/news-release/2026/06/10/3309522/0/fr/Planisware-d%C3%A9voile-ses-derni%C3%A8res-innovations-en-mati%C3%A8re-d-intelligence-artificielle-lors-de-sa-conf%C3%A9rence-annuelle-Exchange26-EMEA.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-10T10:00:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -98,11 +98,11 @@
       "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
     },
     {
-      "title": "La Chine met en service son datacenter immergé pour alimenter son IA",
-      "description": "Face à l'appétit énergétique gargantuesque de l'intelligence artificielle, la Chine déploie une solution digne d'un roman de Jules Verne : un centre de données immergé, directement alimenté par des éo...",
-      "url": "https://www.generation-nt.com/actualites/chine-datacenter-sous-marin-mise-service-shanghai-2076778",
-      "source": "Génération NT",
-      "publishedAt": "2026-06-09T11:20:01Z",
+      "title": "Aignostics s'associe au Pancreatic Cancer Action Network pour faire avancer la recherche sur le cancer du pancréas",
+      "description": "Cette collaboration permettra d'appliquer l'intelligence artificielle d'Aignostics à l'ensemble de données multimodales du PanCAN sur le cancer du pancréas, et de rendre les résultats largement access...",
+      "url": "https://www.prnewswire.com/news-releases/aignostics-sassocie-au-pancreatic-cancer-action-network-pour-faire-avancer-la-recherche-sur-le-cancer-du-pancreas-302795875.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-09T22:17:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -132,6 +132,18 @@
       "isYouTube": true,
       "videoId": "rhE7Ab_sBTo",
       "thumbnail": "https://i.ytimg.com/vi/rhE7Ab_sBTo/hqdefault.jpg"
+    },
+    {
+      "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
+      "description": "NumPy et Pandas sont les deux bibliothèques qui font de Python le roi de la data science. Ce cours complet te donne tout le ...",
+      "url": "https://www.youtube.com/watch?v=-kGlpSTHPf4",
+      "source": "lioncode",
+      "publishedAt": "2026-06-11T09:31:32Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "-kGlpSTHPf4",
+      "thumbnail": "https://i.ytimg.com/vi/-kGlpSTHPf4/hqdefault.jpg"
     },
     {
       "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
@@ -194,6 +206,18 @@
       "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
     },
     {
+      "title": "Montée des eaux, météo extrèmes : comment de nouveaux systèmes d’IA peuvent aider les villes à mieux se préparer",
+      "description": "Plus de 10 % de la population mondiale habite sur des côtes et est exposée à la montée des eaux et aux tempêtes extrêmes. Des systèmes d’IA, combinés à des modèles physiques, pourraient permettre de m...",
+      "url": "https://theconversation.com/montee-des-eaux-meteo-extremes-comment-de-nouveaux-systemes-dia-peuvent-aider-les-villes-a-mieux-se-preparer-284465",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-06-10T07:49:25Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
       "description": "Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...",
       "url": "https://www.youtube.com/watch?v=9t1mXWkqj0g",
@@ -206,11 +230,11 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "L’entrepreneuriat canadien est en déclin et les défis s’accumulent alors que les entreprises prennent du retard auprès des prêteurs",
-      "description": "Les données d’Equifax Canada révèlent une forte baisse de l’entrepreneuriat canadien ainsi qu’une diminution du crédit demandé par les entreprises     ...",
-      "url": "https://www.globenewswire.com/news-release/2026/06/09/3308641/0/fr/L-entrepreneuriat-canadien-est-en-d%C3%A9clin-et-les-d%C3%A9fis-s-accumulent-alors-que-les-entreprises-prennent-du-retard-aupr%C3%A8s-des-pr%C3%AAteurs.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-06-09T10:00:00Z",
+      "title": "SpaceX dévoile AI1, son premier datacenter conçu pour flotter en orbite",
+      "description": "Trois jours avant son entrée en Bourse, SpaceX a dévoilé AI1, son premier satellite pensé comme un datacenter en orbite. L'idée : faire tourner l'IA dans l'espace pour contourner les limites des résea...",
+      "url": "https://www.frandroid.com/marques/spacex/3133737_spacex-devoile-ai1-son-premier-datacenter-concu-pour-flotter-en-orbite",
+      "source": "Frandroid",
+      "publishedAt": "2026-06-10T08:01:35Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,83 +242,59 @@
       "thumbnail": ""
     },
     {
-      "title": "LE STENT VEINEUX GORE® VIABAHN® FORTEGRA REÇOIT L'APPROBATION DU MDR",
-      "description": "L'endoprothèse veineuse FORTEGRA est conçue pour offrir un équilibre optimal de conformabilité et de résistance à la compression pour le traitement d'un large éventail de patients. PUTZBRUNN, Allemagn...",
-      "url": "https://www.prnewswire.com/news-releases/le-stent-veineux-gore-viabahn-fortegra-recoit-lapprobation-du-mdr-302783930.html",
+      "title": "Voici à quoi les étudiants utilisent vraiment l’IA, et ce n’est pas pour tricher",
+      "description": "On accuse souvent les étudiants de se servir de l'intelligence artificielle pour tricher ou se faciliter la vie. Une vaste enquête vient pourtant nuancer ce procès. Leurs usages réels n'ont...",
+      "url": "https://www.phonandroid.com/voici-a-quoi-les-etudiants-utilisent-vraiment-lia-et-ce-nest-pas-pour-tricher.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-06-10T11:50:27Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mon cadeau d’anniversaire sera choisi avec l’IA : 58 % des Français pensent que c’est normal",
+      "description": "L’IA est en train de transformer la façon dont les Français font leurs achats. D’après une étude, 58 % des consommateurs font plus confiance à l’IA qu’à leur meilleur ami pour faire un achat.",
+      "url": "https://www.presse-citron.net/mon-cadeau-danniversaire-sera-choisi-avec-lia-58-des-francais-pensent-que-cest-normal/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-06-10T10:31:44Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Santé. Pour la première fois, un vaccin créé par l'IA a été testé chez l'humain",
+      "description": "L'intelligence artificielle pourrait-elle accélérer la création de nouveaux vaccins ? Au Royaume-Uni, des chercheurs ont testé pour la première fois chez l'humain un vaccin conçu à l’aide de l’IA. Obj...",
+      "url": "https://www.leprogres.fr/magazine-sante/2026/06/10/pour-la-premiere-fois-un-vaccin-cree-par-l-ia-a-ete-teste-chez-l-humain",
+      "source": "Le Progrès",
+      "publishedAt": "2026-06-10T10:00:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bulle IA ou Révolution industrielle",
+      "description": "L'année 2026 s'impose déjà comme un jalon historique. Elle marque le moment où l'intelligence artificielle a définitivement quitté le statut de simple innovation technologique pour devenir l'un des pr...",
+      "url": "https://blog.octo.com/octo-article-de-blog-24",
+      "source": "Octo.com",
+      "publishedAt": "2026-06-10T11:43:10Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Antaisolar présente sa nouvelle solution de tracker 2P optimisée au salon SNEC 2026 et conclut de nombreux partenariats mondiaux",
+      "description": "XIAMEN, Chine, 10 juin 2026 /PRNewswire/ -- Récemment classé n°7 dans le top 10 mondial des trackers photovoltaïques de Wood Mackenzie pour 2026 et nommée fabricant mondial de trackers de classe A, An...",
+      "url": "https://www.prnewswire.com/news-releases/antaisolar-presente-sa-nouvelle-solution-de-tracker-2p-optimisee-au-salon-snec-2026-et-conclut-de-nombreux-partenariats-mondiaux-302796670.html",
       "source": "PRNewswire",
-      "publishedAt": "2026-06-09T05:07:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Votre site e-commerce est-il prêt pour les agents IA acheteurs ?",
-      "description": "Bientôt, ce ne sera plus votre client qui remplira son panier, mais son agent IA. Et cet agent ne pardonne rien à un site pensé pour l'œil humain.",
-      "url": "https://www.journaldunet.com/retail/1550915-votre-site-e-commerce-est-il-pret-pour-les-agents-ia-acheteurs/",
-      "source": "JDN",
-      "publishedAt": "2026-06-09T10:08:23Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Crazy Taxi World Tour utilise l'IA, Sega s'explique",
-      "description": "Le retour de la mythique licence Crazy Taxi, officialisé avec un nouvel opus nommé \"World Tour\" prévu pour 2027, est déjà marqué par une controverse. Sega a en effet confirmé l'utilisation d'intellige...",
-      "url": "https://www.generation-nt.com/actualites/crazy-taxi-world-tour-ia-2076737",
-      "source": "Génération NT",
-      "publishedAt": "2026-06-09T08:10:01Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "nanuq 0.2.0",
-      "description": "Boîte à outils Machine Learning réutilisable (chargement, EDA, preprocessing, modélisation, interprétation, persistence).",
-      "url": "https://pypi.org/project/nanuq/0.2.0/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-06-08T12:29:02Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "nanuq added to PyPI",
-      "description": "Boîte à outils Machine Learning réutilisable (chargement, EDA, preprocessing, modélisation, interprétation, persistence).",
-      "url": "https://pypi.org/project/nanuq/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-06-08T12:29:02Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "nanuq 0.2.1",
-      "description": "Boîte à outils Machine Learning réutilisable (chargement, EDA, preprocessing, modélisation, interprétation, persistence).",
-      "url": "https://pypi.org/project/nanuq/0.2.1/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-06-08T15:11:01Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Une fake news vise Jamie Cudmore : l’ancien joueur de l’ASM Clermont Auvergne dépose plainte",
-      "description": "Depuis plusieurs semaines, une vague de désinformation générée par Intelligence artificielle cible l’ASM Clermont Auvergne. La dernière en date vise Jamie Cudmore, ancien joueur du club. Il a décidé d...",
-      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/une-fake-news-vise-jamie-cudmore-l-ancien-joueur-de-l-asm-clermont-auvergne-depose-plainte-3365140.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-06-09T09:30:04Z",
+      "publishedAt": "2026-06-10T11:34:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
