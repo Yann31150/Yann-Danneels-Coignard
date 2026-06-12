@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 11 Jun 2026 12:12:42 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 11:46:45 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,28 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>IA - réseau de neurones / Machine learning</title>
-            <link>https://www.youtube.com/watch?v=k2rifQzyqtA</link>
-            <description><![CDATA[ia #ai #machinelearning #réseaudeneurones #informatique #chatgpt #gemini #copilot Lien utilisé dans la vidéo ...]]></description>
-            <pubDate>Sat, 25 Apr 2026 19:16:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=k2rifQzyqtA</guid>
-            <source>Nicolasit</source>
+            <title>Ce que ChatGPT a résolu en quelques minutes terrifie les astrophysiciens du monde entier</title>
+            <link>https://www.phonandroid.com/ce-que-chatgpt-a-resolu-en-quelques-minutes-terrifie-les-astrophysiciens-du-monde-entier.html</link>
+            <description><![CDATA[L'intelligence artificielle remplace déjà des pans entiers du travail humain. Cette fois, c'est au tour de l'astrophysique d'être bousculée en profondeur. Les chercheurs redoutent de voir leur métier ...]]></description>
+            <pubDate>Thu, 11 Jun 2026 07:12:32 -0000</pubDate>
+            <guid isPermaLink="true">https://www.phonandroid.com/ce-que-chatgpt-a-resolu-en-quelques-minutes-terrifie-les-astrophysiciens-du-monde-entier.html</guid>
+            <source>Phonandroid</source>
+        </item>
+        <item>
+            <title>Avec l’IA, la triche au bac est plus tentante mais sera encore plus durement sanctionnée</title>
+            <link>https://www.huffingtonpost.fr/life/article/avec-l-ia-la-triche-au-bac-est-plus-tentante-mais-sera-encore-plus-durement-sanctionnee_265092.html</link>
+            <description><![CDATA[Les futurs bacheliers pris en flagrant délit de fraude avec ChatGPT pendant l’examen risquent bien plus que leur diplôme.]]></description>
+            <pubDate>Thu, 11 Jun 2026 11:29:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.huffingtonpost.fr/life/article/avec-l-ia-la-triche-au-bac-est-plus-tentante-mais-sera-encore-plus-durement-sanctionnee_265092.html</guid>
+            <source>Le HuffPost</source>
+        </item>
+        <item>
+            <title>Gemma 4 : L&amp;#39;IA de Google Gratuite, Illimitée, Locale &amp;amp; SANS Internet !</title>
+            <link>https://www.youtube.com/watch?v=9onqtz5EwHE</link>
+            <description><![CDATA[Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...]]></description>
+            <pubDate>Tue, 21 Apr 2026 14:02:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=9onqtz5EwHE</guid>
+            <source>Alpa14</source>
         </item>
         <item>
             <title>Requêtes SQL sur DataFrame Julia (DuckDB)</title>
@@ -29,6 +45,14 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
+            <title>Avec “Skibidi Exfruit”, TF1 se met aux vidéos générées par IA : une “prise de risque d’image” très opportuniste</title>
+            <link>https://www.telerama.fr/television/avec-skibidi-exfruit-tf1-se-met-aux-videos-generees-par-ia-une-prise-de-risque-d-image-tres-opportuniste-7031566.php</link>
+            <description><![CDATA[En parodiant leur nouvelle émission de télé-réalité “Excape Island” sur le modèle de “Skibidi Tentafruit”, TF1 est le premier groupe français de médias à proposer du contenu entièrement généré par int...]]></description>
+            <pubDate>Thu, 11 Jun 2026 10:21:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.telerama.fr/television/avec-skibidi-exfruit-tf1-se-met-aux-videos-generees-par-ia-une-prise-de-risque-d-image-tres-opportuniste-7031566.php</guid>
+            <source>Telerama.fr</source>
+        </item>
+        <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
             <link>https://www.youtube.com/watch?v=mdsnXx_tBEs</link>
             <description><![CDATA[La formation COMPLÈTE Data &amp; Machine Learning — plus de 9 heures de cours, 111 sessions + 15 quiz, 100% GRATUITE.]]></description>
@@ -37,20 +61,12 @@
             <source>IA Futura</source>
         </item>
         <item>
-            <title>Banque et assurance : comment l’intelligence artificielle est en train de rebattre les cartes.</title>
-            <link>https://www.challenges.fr/entreprise/banque-et-assurance/banque-et-assurance-comment-lintelligence-artificielle-est-en-train-de-rebattre-les-cartes_644010</link>
-            <description><![CDATA[C’est un fait l’intelligence artificielle s’est progressivement d’abord dans l’utilisation quotidienne des individus et maintenant comme un levier majeur de transformation dans les grandes organisatio...]]></description>
-            <pubDate>Tue, 09 Jun 2026 10:32:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.challenges.fr/entreprise/banque-et-assurance/banque-et-assurance-comment-lintelligence-artificielle-est-en-train-de-rebattre-les-cartes_644010</guid>
-            <source>Challenges</source>
-        </item>
-        <item>
-            <title>Planisware dévoile ses dernières innovations en matière d’intelligence artificielle lors de sa conférence annuelle Exchange26 EMEA</title>
-            <link>https://www.globenewswire.com/news-release/2026/06/10/3309522/0/fr/Planisware-d%C3%A9voile-ses-derni%C3%A8res-innovations-en-mati%C3%A8re-d-intelligence-artificielle-lors-de-sa-conf%C3%A9rence-annuelle-Exchange26-EMEA.html</link>
-            <description><![CDATA[Planisware dévoile ses dernières innovations en matière d’intelligence artificielle lors de sa conférence annuelle Exchange26 EMEA  Paris, France, 10...]]></description>
-            <pubDate>Wed, 10 Jun 2026 10:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/06/10/3309522/0/fr/Planisware-d%C3%A9voile-ses-derni%C3%A8res-innovations-en-mati%C3%A8re-d-intelligence-artificielle-lors-de-sa-conf%C3%A9rence-annuelle-Exchange26-EMEA.html</guid>
-            <source>GlobeNewswire</source>
+            <title>Data Science Full Course For Free | Learn Data Science From Basics | Intellipaat</title>
+            <link>https://www.youtube.com/watch?v=bukx4juQP4o</link>
+            <description><![CDATA[Enroll for Data Science Course: https://intellipaat.com/data-scientist-course-training/ Learn Data Science from scratch with this ...]]></description>
+            <pubDate>Mon, 13 Apr 2026 14:30:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=bukx4juQP4o</guid>
+            <source>Intellipaat</source>
         </item>
         <item>
             <title>Claude rend Power BI 10x plus rapide</title>
@@ -61,36 +77,20 @@
             <source>Benjamin Ejzenberg (votre coach Power BI)</source>
         </item>
         <item>
+            <title>Flexibilité et intelligence artificielle : les deux nouvelles frontières du modèle économique du voyage</title>
+            <link>https://www.journaldunet.com/retail/1551263-flexibilite-et-intelligence-artificielle-les-deux-nouvelles-frontieres-du-modele-economique-du-voyage/</link>
+            <description><![CDATA[Grâce à l'IA, le secteur du voyage entre dans une nouvelle ère : personnalisation, automatisation et flexibilité deviennent des leviers clés de fidélisation et de croissance durable.]]></description>
+            <pubDate>Thu, 11 Jun 2026 09:08:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/retail/1551263-flexibilite-et-intelligence-artificielle-les-deux-nouvelles-frontieres-du-modele-economique-du-voyage/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
             <title>ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&amp;#39;IA</title>
             <link>https://www.youtube.com/watch?v=bvm-n-HN8ws</link>
             <description><![CDATA[Tu veux apprendre le SQL pour travailler dans la data ? ModAi Lab est la plateforme d'apprentissage SQL gamifiée et assistée ...]]></description>
             <pubDate>Thu, 14 May 2026 11:01:01 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=bvm-n-HN8ws</guid>
             <source>ModAi Lab | SQL & Data par l'IA</source>
-        </item>
-        <item>
-            <title>Comment supprimer la pop-up &amp;quot;Entrez votre adresse e-mail&amp;quot; dans Power BI Desktop (Solution 2026)</title>
-            <link>https://www.youtube.com/watch?v=W9Ca51mHhDk</link>
-            <description><![CDATA[Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.]]></description>
-            <pubDate>Sat, 09 May 2026 13:23:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=W9Ca51mHhDk</guid>
-            <source>TechVantage FR</source>
-        </item>
-        <item>
-            <title>Aignostics s'associe au Pancreatic Cancer Action Network pour faire avancer la recherche sur le cancer du pancréas</title>
-            <link>https://www.prnewswire.com/news-releases/aignostics-sassocie-au-pancreatic-cancer-action-network-pour-faire-avancer-la-recherche-sur-le-cancer-du-pancreas-302795875.html</link>
-            <description><![CDATA[Cette collaboration permettra d'appliquer l'intelligence artificielle d'Aignostics à l'ensemble de données multimodales du PanCAN sur le cancer du pancréas, et de rendre les résultats largement access...]]></description>
-            <pubDate>Tue, 09 Jun 2026 22:17:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/aignostics-sassocie-au-pancreatic-cancer-action-network-pour-faire-avancer-la-recherche-sur-le-cancer-du-pancreas-302795875.html</guid>
-            <source>PRNewswire</source>
-        </item>
-        <item>
-            <title># 14 - Synchroniser votre base de données avec les migrations</title>
-            <link>https://www.youtube.com/watch?v=IXFP0bdMO3Y</link>
-            <description><![CDATA[Dans cette leçon, nous allons apprendre à faire le pont entre votre code PHP et votre base de données. Vous avez créé vos ...]]></description>
-            <pubDate>Mon, 20 Apr 2026 10:49:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=IXFP0bdMO3Y</guid>
-            <source>Nicely Dev - Apprendre à coder</source>
         </item>
         <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
@@ -109,14 +109,6 @@
             <source>lioncode</source>
         </item>
         <item>
-            <title>Big Data Décortiqué : Apache Spark Pour Débuter</title>
-            <link>https://www.youtube.com/watch?v=FL9r4dDKiIU</link>
-            <description><![CDATA[Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...]]></description>
-            <pubDate>Sun, 19 Apr 2026 20:17:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=FL9r4dDKiIU</guid>
-            <source>Houssem Lahiani</source>
-        </item>
-        <item>
             <title>2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS</title>
             <link>https://www.youtube.com/watch?v=cnjhHZNJEDk</link>
             <description><![CDATA[Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...]]></description>
@@ -125,20 +117,12 @@
             <source>Alex The Analyst</source>
         </item>
         <item>
-            <title>Formation Power Query 2026 : Nettoyage des Données sur Excel | Guide Complet Débutant à Avancé</title>
-            <link>https://www.youtube.com/watch?v=k8kH6K6B3C4</link>
-            <description><![CDATA[Dans cette vidéo, découvrez comment utiliser Power Query sur Excel pour nettoyer, transformer et préparer vos données comme ...]]></description>
-            <pubDate>Sun, 12 Apr 2026 13:22:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=k8kH6K6B3C4</guid>
-            <source>Entrepreneur 3.0</source>
-        </item>
-        <item>
-            <title>Projet Data Analytics de bout en bout (Python + PostgreSQL + dbt + Streamlit)</title>
-            <link>https://www.youtube.com/watch?v=nSkztfCSZxs</link>
-            <description><![CDATA[Dans cette vidéo, je vous propose un projet complet d'Analytics Engineering basé sur un cas réel d'entreprise : Stroopwafelshop ...]]></description>
-            <pubDate>Sun, 12 Apr 2026 21:25:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=nSkztfCSZxs</guid>
-            <source>J.A DATATECH CONSULTING</source>
+            <title>Bitget CFD lance le mode sans frais (Zero-Fee Mode) alors que son volume quotidien se rapproche des 10 milliards de dollars</title>
+            <link>https://www.globenewswire.com/news-release/2026/06/11/3310362/0/fr/Bitget-CFD-lance-le-mode-sans-frais-Zero-Fee-Mode-alors-que-son-volume-quotidien-se-rapproche-des-10-milliards-de-dollars.html</link>
+            <description><![CDATA[VICTORIA, Seychelles, 11 juin 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (ou UEX, de l’anglais Universal Exchange) du monde, a annoncé aujourd’hui le lancement du Zero-Fee Mode...]]></description>
+            <pubDate>Thu, 11 Jun 2026 11:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/06/11/3310362/0/fr/Bitget-CFD-lance-le-mode-sans-frais-Zero-Fee-Mode-alors-que-son-volume-quotidien-se-rapproche-des-10-milliards-de-dollars.html</guid>
+            <source>GlobeNewswire</source>
         </item>
         <item>
             <title>Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas</title>
@@ -165,12 +149,28 @@
             <source>DataSet By d@ne</source>
         </item>
         <item>
+            <title>Applied Data Science With Python Full Course 2026 [Free] | Python For Data Science | Simplilearn</title>
+            <link>https://www.youtube.com/watch?v=T9ricGdHz1k</link>
+            <description><![CDATA[Data Scientist Masters Program (Discount - YTBE15) ...]]></description>
+            <pubDate>Tue, 19 May 2026 23:10:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=T9ricGdHz1k</guid>
+            <source>Simplilearn</source>
+        </item>
+        <item>
             <title>SpaceX dévoile AI1, son premier datacenter conçu pour flotter en orbite</title>
             <link>https://www.frandroid.com/marques/spacex/3133737_spacex-devoile-ai1-son-premier-datacenter-concu-pour-flotter-en-orbite</link>
             <description><![CDATA[Trois jours avant son entrée en Bourse, SpaceX a dévoilé AI1, son premier satellite pensé comme un datacenter en orbite. L'idée : faire tourner l'IA dans l'espace pour contourner les limites des résea...]]></description>
             <pubDate>Wed, 10 Jun 2026 08:01:35 -0000</pubDate>
             <guid isPermaLink="true">https://www.frandroid.com/marques/spacex/3133737_spacex-devoile-ai1-son-premier-datacenter-concu-pour-flotter-en-orbite</guid>
             <source>Frandroid</source>
+        </item>
+        <item>
+            <title>Bitget poursuit l’expansion de son offre au comptant grâce à 30 nouvelles cotations issues des principaux secteurs du marché</title>
+            <link>https://www.globenewswire.com/news-release/2026/06/11/3310365/0/fr/Bitget-poursuit-l-expansion-de-son-offre-au-comptant-gr%C3%A2ce-%C3%A0-30-nouvelles-cotations-issues-des-principaux-secteurs-du-march%C3%A9.html</link>
+            <description><![CDATA[VICTORIA, Seychelles, 11 juin 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (UEX) au monde, a élargi son offre de titres au comptant avec l’introduction de 30 nouveaux actifs, éla...]]></description>
+            <pubDate>Thu, 11 Jun 2026 11:39:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/06/11/3310365/0/fr/Bitget-poursuit-l-expansion-de-son-offre-au-comptant-gr%C3%A2ce-%C3%A0-30-nouvelles-cotations-issues-des-principaux-secteurs-du-march%C3%A9.html</guid>
+            <source>GlobeNewswire</source>
         </item>
     </channel>
 </rss>

@@ -1,17 +1,41 @@
 {
-  "lastUpdate": "2026-06-11T12:12:42.975420",
+  "lastUpdate": "2026-06-12T11:46:45.879154",
   "articles": [
     {
-      "title": "IA - réseau de neurones / Machine learning",
-      "description": "ia #ai #machinelearning #réseaudeneurones #informatique #chatgpt #gemini #copilot Lien utilisé dans la vidéo ...",
-      "url": "https://www.youtube.com/watch?v=k2rifQzyqtA",
-      "source": "Nicolasit",
-      "publishedAt": "2026-04-25T19:16:18Z",
+      "title": "Ce que ChatGPT a résolu en quelques minutes terrifie les astrophysiciens du monde entier",
+      "description": "L'intelligence artificielle remplace déjà des pans entiers du travail humain. Cette fois, c'est au tour de l'astrophysique d'être bousculée en profondeur. Les chercheurs redoutent de voir leur métier ...",
+      "url": "https://www.phonandroid.com/ce-que-chatgpt-a-resolu-en-quelques-minutes-terrifie-les-astrophysiciens-du-monde-entier.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-06-11T07:12:32Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Avec l’IA, la triche au bac est plus tentante mais sera encore plus durement sanctionnée",
+      "description": "Les futurs bacheliers pris en flagrant délit de fraude avec ChatGPT pendant l’examen risquent bien plus que leur diplôme.",
+      "url": "https://www.huffingtonpost.fr/life/article/avec-l-ia-la-triche-au-bac-est-plus-tentante-mais-sera-encore-plus-durement-sanctionnee_265092.html",
+      "source": "Le HuffPost",
+      "publishedAt": "2026-06-11T11:29:08Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Gemma 4 : L&#39;IA de Google Gratuite, Illimitée, Locale &amp; SANS Internet !",
+      "description": "Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...",
+      "url": "https://www.youtube.com/watch?v=9onqtz5EwHE",
+      "source": "Alpa14",
+      "publishedAt": "2026-04-21T14:02:45Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "k2rifQzyqtA",
-      "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
+      "videoId": "9onqtz5EwHE",
+      "thumbnail": "https://i.ytimg.com/vi/9onqtz5EwHE/hqdefault.jpg"
     },
     {
       "title": "Requêtes SQL sur DataFrame Julia (DuckDB)",
@@ -26,6 +50,18 @@
       "thumbnail": "https://i.ytimg.com/vi/wtAFyxyGmAo/hqdefault.jpg"
     },
     {
+      "title": "Avec “Skibidi Exfruit”, TF1 se met aux vidéos générées par IA : une “prise de risque d’image” très opportuniste",
+      "description": "En parodiant leur nouvelle émission de télé-réalité “Excape Island” sur le modèle de “Skibidi Tentafruit”, TF1 est le premier groupe français de médias à proposer du contenu entièrement généré par int...",
+      "url": "https://www.telerama.fr/television/avec-skibidi-exfruit-tf1-se-met-aux-videos-generees-par-ia-une-prise-de-risque-d-image-tres-opportuniste-7031566.php",
+      "source": "Telerama.fr",
+      "publishedAt": "2026-06-11T10:21:08Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
       "description": "La formation COMPLÈTE Data & Machine Learning — plus de 9 heures de cours, 111 sessions + 15 quiz, 100% GRATUITE.",
       "url": "https://www.youtube.com/watch?v=mdsnXx_tBEs",
@@ -38,28 +74,16 @@
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
     },
     {
-      "title": "Banque et assurance : comment l’intelligence artificielle est en train de rebattre les cartes.",
-      "description": "C’est un fait l’intelligence artificielle s’est progressivement d’abord dans l’utilisation quotidienne des individus et maintenant comme un levier majeur de transformation dans les grandes organisatio...",
-      "url": "https://www.challenges.fr/entreprise/banque-et-assurance/banque-et-assurance-comment-lintelligence-artificielle-est-en-train-de-rebattre-les-cartes_644010",
-      "source": "Challenges",
-      "publishedAt": "2026-06-09T10:32:00Z",
+      "title": "Data Science Full Course For Free | Learn Data Science From Basics | Intellipaat",
+      "description": "Enroll for Data Science Course: https://intellipaat.com/data-scientist-course-training/ Learn Data Science from scratch with this ...",
+      "url": "https://www.youtube.com/watch?v=bukx4juQP4o",
+      "source": "Intellipaat",
+      "publishedAt": "2026-04-13T14:30:26Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Planisware dévoile ses dernières innovations en matière d’intelligence artificielle lors de sa conférence annuelle Exchange26 EMEA",
-      "description": "Planisware dévoile ses dernières innovations en matière d’intelligence artificielle lors de sa conférence annuelle Exchange26 EMEA  Paris, France, 10...",
-      "url": "https://www.globenewswire.com/news-release/2026/06/10/3309522/0/fr/Planisware-d%C3%A9voile-ses-derni%C3%A8res-innovations-en-mati%C3%A8re-d-intelligence-artificielle-lors-de-sa-conf%C3%A9rence-annuelle-Exchange26-EMEA.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-06-10T10:00:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "bukx4juQP4o",
+      "thumbnail": "https://i.ytimg.com/vi/bukx4juQP4o/hqdefault.jpg"
     },
     {
       "title": "Claude rend Power BI 10x plus rapide",
@@ -74,6 +98,18 @@
       "thumbnail": "https://i.ytimg.com/vi/SvIZcjQgFiQ/hqdefault.jpg"
     },
     {
+      "title": "Flexibilité et intelligence artificielle : les deux nouvelles frontières du modèle économique du voyage",
+      "description": "Grâce à l'IA, le secteur du voyage entre dans une nouvelle ère : personnalisation, automatisation et flexibilité deviennent des leviers clés de fidélisation et de croissance durable.",
+      "url": "https://www.journaldunet.com/retail/1551263-flexibilite-et-intelligence-artificielle-les-deux-nouvelles-frontieres-du-modele-economique-du-voyage/",
+      "source": "JDN",
+      "publishedAt": "2026-06-11T09:08:15Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
       "description": "Tu veux apprendre le SQL pour travailler dans la data ? ModAi Lab est la plateforme d'apprentissage SQL gamifiée et assistée ...",
       "url": "https://www.youtube.com/watch?v=bvm-n-HN8ws",
@@ -84,42 +120,6 @@
       "isYouTube": true,
       "videoId": "bvm-n-HN8ws",
       "thumbnail": "https://i.ytimg.com/vi/bvm-n-HN8ws/hqdefault.jpg"
-    },
-    {
-      "title": "Comment supprimer la pop-up &quot;Entrez votre adresse e-mail&quot; dans Power BI Desktop (Solution 2026)",
-      "description": "Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.",
-      "url": "https://www.youtube.com/watch?v=W9Ca51mHhDk",
-      "source": "TechVantage FR",
-      "publishedAt": "2026-05-09T13:23:36Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "W9Ca51mHhDk",
-      "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
-    },
-    {
-      "title": "Aignostics s'associe au Pancreatic Cancer Action Network pour faire avancer la recherche sur le cancer du pancréas",
-      "description": "Cette collaboration permettra d'appliquer l'intelligence artificielle d'Aignostics à l'ensemble de données multimodales du PanCAN sur le cancer du pancréas, et de rendre les résultats largement access...",
-      "url": "https://www.prnewswire.com/news-releases/aignostics-sassocie-au-pancreatic-cancer-action-network-pour-faire-avancer-la-recherche-sur-le-cancer-du-pancreas-302795875.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-06-09T22:17:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "# 14 - Synchroniser votre base de données avec les migrations",
-      "description": "Dans cette leçon, nous allons apprendre à faire le pont entre votre code PHP et votre base de données. Vous avez créé vos ...",
-      "url": "https://www.youtube.com/watch?v=IXFP0bdMO3Y",
-      "source": "Nicely Dev - Apprendre à coder",
-      "publishedAt": "2026-04-20T10:49:56Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "IXFP0bdMO3Y",
-      "thumbnail": "https://i.ytimg.com/vi/IXFP0bdMO3Y/hqdefault.jpg"
     },
     {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
@@ -146,18 +146,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-kGlpSTHPf4/hqdefault.jpg"
     },
     {
-      "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
-      "description": "Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...",
-      "url": "https://www.youtube.com/watch?v=FL9r4dDKiIU",
-      "source": "Houssem Lahiani",
-      "publishedAt": "2026-04-19T20:17:51Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "FL9r4dDKiIU",
-      "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
-    },
-    {
       "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
       "description": "Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...",
       "url": "https://www.youtube.com/watch?v=cnjhHZNJEDk",
@@ -170,28 +158,16 @@
       "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
     },
     {
-      "title": "Formation Power Query 2026 : Nettoyage des Données sur Excel | Guide Complet Débutant à Avancé",
-      "description": "Dans cette vidéo, découvrez comment utiliser Power Query sur Excel pour nettoyer, transformer et préparer vos données comme ...",
-      "url": "https://www.youtube.com/watch?v=k8kH6K6B3C4",
-      "source": "Entrepreneur 3.0",
-      "publishedAt": "2026-04-12T13:22:34Z",
+      "title": "Bitget CFD lance le mode sans frais (Zero-Fee Mode) alors que son volume quotidien se rapproche des 10 milliards de dollars",
+      "description": "VICTORIA, Seychelles, 11 juin 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (ou UEX, de l’anglais Universal Exchange) du monde, a annoncé aujourd’hui le lancement du Zero-Fee Mode...",
+      "url": "https://www.globenewswire.com/news-release/2026/06/11/3310362/0/fr/Bitget-CFD-lance-le-mode-sans-frais-Zero-Fee-Mode-alors-que-son-volume-quotidien-se-rapproche-des-10-milliards-de-dollars.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-11T11:30:00Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "k8kH6K6B3C4",
-      "thumbnail": "https://i.ytimg.com/vi/k8kH6K6B3C4/hqdefault.jpg"
-    },
-    {
-      "title": "Projet Data Analytics de bout en bout (Python + PostgreSQL + dbt + Streamlit)",
-      "description": "Dans cette vidéo, je vous propose un projet complet d'Analytics Engineering basé sur un cas réel d'entreprise : Stroopwafelshop ...",
-      "url": "https://www.youtube.com/watch?v=nSkztfCSZxs",
-      "source": "J.A DATATECH CONSULTING",
-      "publishedAt": "2026-04-12T21:25:06Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "nSkztfCSZxs",
-      "thumbnail": "https://i.ytimg.com/vi/nSkztfCSZxs/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
@@ -230,6 +206,18 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
+      "title": "Applied Data Science With Python Full Course 2026 [Free] | Python For Data Science | Simplilearn",
+      "description": "Data Scientist Masters Program (Discount - YTBE15) ...",
+      "url": "https://www.youtube.com/watch?v=T9ricGdHz1k",
+      "source": "Simplilearn",
+      "publishedAt": "2026-05-19T23:10:51Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "T9ricGdHz1k",
+      "thumbnail": "https://i.ytimg.com/vi/T9ricGdHz1k/hqdefault.jpg"
+    },
+    {
       "title": "SpaceX dévoile AI1, son premier datacenter conçu pour flotter en orbite",
       "description": "Trois jours avant son entrée en Bourse, SpaceX a dévoilé AI1, son premier satellite pensé comme un datacenter en orbite. L'idée : faire tourner l'IA dans l'espace pour contourner les limites des résea...",
       "url": "https://www.frandroid.com/marques/spacex/3133737_spacex-devoile-ai1-son-premier-datacenter-concu-pour-flotter-en-orbite",
@@ -242,35 +230,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Voici à quoi les étudiants utilisent vraiment l’IA, et ce n’est pas pour tricher",
-      "description": "On accuse souvent les étudiants de se servir de l'intelligence artificielle pour tricher ou se faciliter la vie. Une vaste enquête vient pourtant nuancer ce procès. Leurs usages réels n'ont...",
-      "url": "https://www.phonandroid.com/voici-a-quoi-les-etudiants-utilisent-vraiment-lia-et-ce-nest-pas-pour-tricher.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-06-10T11:50:27Z",
-      "category": "tech",
+      "title": "Bitget poursuit l’expansion de son offre au comptant grâce à 30 nouvelles cotations issues des principaux secteurs du marché",
+      "description": "VICTORIA, Seychelles, 11 juin 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (UEX) au monde, a élargi son offre de titres au comptant avec l’introduction de 30 nouveaux actifs, éla...",
+      "url": "https://www.globenewswire.com/news-release/2026/06/11/3310365/0/fr/Bitget-poursuit-l-expansion-de-son-offre-au-comptant-gr%C3%A2ce-%C3%A0-30-nouvelles-cotations-issues-des-principaux-secteurs-du-march%C3%A9.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-11T11:39:00Z",
+      "category": "data",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Mon cadeau d’anniversaire sera choisi avec l’IA : 58 % des Français pensent que c’est normal",
-      "description": "L’IA est en train de transformer la façon dont les Français font leurs achats. D’après une étude, 58 % des consommateurs font plus confiance à l’IA qu’à leur meilleur ami pour faire un achat.",
-      "url": "https://www.presse-citron.net/mon-cadeau-danniversaire-sera-choisi-avec-lia-58-des-francais-pensent-que-cest-normal/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-06-10T10:31:44Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Santé. Pour la première fois, un vaccin créé par l'IA a été testé chez l'humain",
-      "description": "L'intelligence artificielle pourrait-elle accélérer la création de nouveaux vaccins ? Au Royaume-Uni, des chercheurs ont testé pour la première fois chez l'humain un vaccin conçu à l’aide de l’IA. Obj...",
-      "url": "https://www.leprogres.fr/magazine-sante/2026/06/10/pour-la-premiere-fois-un-vaccin-cree-par-l-ia-a-ete-teste-chez-l-humain",
-      "source": "Le Progrès",
-      "publishedAt": "2026-06-10T10:00:00Z",
+      "title": "CAMERAMATICS lève 49 millions d’euros : l’IA s’invite derrière le volant des flottes professionnelles",
+      "description": "Si l’intelligence artificielle a d’abord transformé les métiers du savoir, service client, développement logiciel, marketing, finance ou analyse documentaire figurent parmi les premiers domaines à avo...",
+      "url": "https://www.frenchweb.fr/cameramatics-leve-49-millions-deuros-lia-sinvite-derriere-le-volant-des-flottes-professionnelles/462297",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-06-11T08:13:43Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +266,35 @@
       "thumbnail": ""
     },
     {
-      "title": "Antaisolar présente sa nouvelle solution de tracker 2P optimisée au salon SNEC 2026 et conclut de nombreux partenariats mondiaux",
-      "description": "XIAMEN, Chine, 10 juin 2026 /PRNewswire/ -- Récemment classé n°7 dans le top 10 mondial des trackers photovoltaïques de Wood Mackenzie pour 2026 et nommée fabricant mondial de trackers de classe A, An...",
-      "url": "https://www.prnewswire.com/news-releases/antaisolar-presente-sa-nouvelle-solution-de-tracker-2p-optimisee-au-salon-snec-2026-et-conclut-de-nombreux-partenariats-mondiaux-302796670.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-06-10T11:34:00Z",
+      "title": "NEURA ROBOTICS lève 1,2 milliard d’euros : la robotique devient le nouveau pari stratégique de l’Europe",
+      "description": "La robotique humanoïde franchit un nouveau seuil de financement en Europe. L’allemand Neura Robotics annonce une levée de 1,4 milliard de dollars, soit environ 1,2 milliard d’euros, portant sa valoris...",
+      "url": "https://www.frenchweb.fr/neura-robotics-leve-12-milliard-deuros-la-robotique-devient-le-nouveau-pari-strategique-de-leurope/462288",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-06-10T16:34:54Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "IA générative et métiers du web : quelles compétences pour les nouveaux entrants ?",
+      "description": "Article sponsorisé L'IA générative rebat les cartes des métiers du web Pendant longtemps, le SEO technique rimait avec audits de crawl, optimisation de balises et production de contenus en volume. La ...",
+      "url": "https://www.abondance.com/20260611-2419590-ia-generative-metiers-web-competences-nouveaux-entrants.html",
+      "source": "Abondance.com",
+      "publishedAt": "2026-06-11T08:06:07Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Donnez à vos « agents IA de niveau humain » une longueur d'avance grâce à ces 3 bonnes pratiques",
+      "description": "En mettant l'accent sur la gouvernance, l'évaluation et le fait de commencer modestement, vous pouvez améliorer les chances de vos agents IA d'être mis en production",
+      "url": "https://www.zdnet.fr/pratique/donnez-a-vos-agents-ia-de-niveau-humain-une-longueur-davance-grace-a-ces-3-bonnes-pratiques-496590.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-06-10T05:06:57Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
