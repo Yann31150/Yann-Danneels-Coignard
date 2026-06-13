@@ -1,29 +1,17 @@
 {
-  "lastUpdate": "2026-06-12T11:46:45.879154",
+  "lastUpdate": "2026-06-13T10:32:47.310165",
   "articles": [
     {
-      "title": "Ce que ChatGPT a résolu en quelques minutes terrifie les astrophysiciens du monde entier",
-      "description": "L'intelligence artificielle remplace déjà des pans entiers du travail humain. Cette fois, c'est au tour de l'astrophysique d'être bousculée en profondeur. Les chercheurs redoutent de voir leur métier ...",
-      "url": "https://www.phonandroid.com/ce-que-chatgpt-a-resolu-en-quelques-minutes-terrifie-les-astrophysiciens-du-monde-entier.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-06-11T07:12:32Z",
+      "title": "IA - réseau de neurones / Machine learning",
+      "description": "ia #ai #machinelearning #réseaudeneurones #informatique #chatgpt #gemini #copilot Lien utilisé dans la vidéo ...",
+      "url": "https://www.youtube.com/watch?v=k2rifQzyqtA",
+      "source": "Nicolasit",
+      "publishedAt": "2026-04-25T19:16:18Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Avec l’IA, la triche au bac est plus tentante mais sera encore plus durement sanctionnée",
-      "description": "Les futurs bacheliers pris en flagrant délit de fraude avec ChatGPT pendant l’examen risquent bien plus que leur diplôme.",
-      "url": "https://www.huffingtonpost.fr/life/article/avec-l-ia-la-triche-au-bac-est-plus-tentante-mais-sera-encore-plus-durement-sanctionnee_265092.html",
-      "source": "Le HuffPost",
-      "publishedAt": "2026-06-11T11:29:08Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "k2rifQzyqtA",
+      "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
     },
     {
       "title": "Gemma 4 : L&#39;IA de Google Gratuite, Illimitée, Locale &amp; SANS Internet !",
@@ -38,6 +26,18 @@
       "thumbnail": "https://i.ytimg.com/vi/9onqtz5EwHE/hqdefault.jpg"
     },
     {
+      "title": "Le KFSH fait progresser les applications pratiques de l’IA pour transformer les soins de santé spécialisés",
+      "description": "RIYAD, Arabie saoudite, 12 juin 2026 (GLOBE NEWSWIRE) -- Le King Faisal Specialist Hospital & Research Centre (KFSH) mettra en avant ses applications pratiques de l’intelligence artificielle lors de s...",
+      "url": "https://www.globenewswire.com/news-release/2026/06/12/3310922/0/fr/Le-KFSH-fait-progresser-les-applications-pratiques-de-l-IA-pour-transformer-les-soins-de-sant%C3%A9-sp%C3%A9cialis%C3%A9s.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-12T08:34:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Requêtes SQL sur DataFrame Julia (DuckDB)",
       "description": "Machine learning. Data Science. Julia. Utilisation de requêtes SQL pour accéder aux informations de tables sous la forme de ...",
       "url": "https://www.youtube.com/watch?v=wtAFyxyGmAo",
@@ -48,18 +48,6 @@
       "isYouTube": true,
       "videoId": "wtAFyxyGmAo",
       "thumbnail": "https://i.ytimg.com/vi/wtAFyxyGmAo/hqdefault.jpg"
-    },
-    {
-      "title": "Avec “Skibidi Exfruit”, TF1 se met aux vidéos générées par IA : une “prise de risque d’image” très opportuniste",
-      "description": "En parodiant leur nouvelle émission de télé-réalité “Excape Island” sur le modèle de “Skibidi Tentafruit”, TF1 est le premier groupe français de médias à proposer du contenu entièrement généré par int...",
-      "url": "https://www.telerama.fr/television/avec-skibidi-exfruit-tf1-se-met-aux-videos-generees-par-ia-une-prise-de-risque-d-image-tres-opportuniste-7031566.php",
-      "source": "Telerama.fr",
-      "publishedAt": "2026-06-11T10:21:08Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
@@ -74,18 +62,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
     },
     {
-      "title": "Data Science Full Course For Free | Learn Data Science From Basics | Intellipaat",
-      "description": "Enroll for Data Science Course: https://intellipaat.com/data-scientist-course-training/ Learn Data Science from scratch with this ...",
-      "url": "https://www.youtube.com/watch?v=bukx4juQP4o",
-      "source": "Intellipaat",
-      "publishedAt": "2026-04-13T14:30:26Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "bukx4juQP4o",
-      "thumbnail": "https://i.ytimg.com/vi/bukx4juQP4o/hqdefault.jpg"
-    },
-    {
       "title": "Claude rend Power BI 10x plus rapide",
       "description": "Dans cette vidéo, je vous montre comment utiliser Claude comme assistant IA pour accélérer vos projets Power BI, générer du ...",
       "url": "https://www.youtube.com/watch?v=SvIZcjQgFiQ",
@@ -98,18 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/SvIZcjQgFiQ/hqdefault.jpg"
     },
     {
-      "title": "Flexibilité et intelligence artificielle : les deux nouvelles frontières du modèle économique du voyage",
-      "description": "Grâce à l'IA, le secteur du voyage entre dans une nouvelle ère : personnalisation, automatisation et flexibilité deviennent des leviers clés de fidélisation et de croissance durable.",
-      "url": "https://www.journaldunet.com/retail/1551263-flexibilite-et-intelligence-artificielle-les-deux-nouvelles-frontieres-du-modele-economique-du-voyage/",
-      "source": "JDN",
-      "publishedAt": "2026-06-11T09:08:15Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
       "description": "Tu veux apprendre le SQL pour travailler dans la data ? ModAi Lab est la plateforme d'apprentissage SQL gamifiée et assistée ...",
       "url": "https://www.youtube.com/watch?v=bvm-n-HN8ws",
@@ -120,6 +84,42 @@
       "isYouTube": true,
       "videoId": "bvm-n-HN8ws",
       "thumbnail": "https://i.ytimg.com/vi/bvm-n-HN8ws/hqdefault.jpg"
+    },
+    {
+      "title": "Comment supprimer la pop-up &quot;Entrez votre adresse e-mail&quot; dans Power BI Desktop (Solution 2026)",
+      "description": "Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.",
+      "url": "https://www.youtube.com/watch?v=W9Ca51mHhDk",
+      "source": "TechVantage FR",
+      "publishedAt": "2026-05-09T13:23:36Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "W9Ca51mHhDk",
+      "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
+    },
+    {
+      "title": "Régression linéaire multiple sous Julia avec « GLM.jl »",
+      "description": "Machine learning. Data science. Econométrie. Mise en œuvre de la régression multiple sous Julia via le package « GLM », dans ...",
+      "url": "https://www.youtube.com/watch?v=1XlhlPCsT98",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-06-10T17:00:13Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1XlhlPCsT98",
+      "thumbnail": "https://i.ytimg.com/vi/1XlhlPCsT98/hqdefault.jpg"
+    },
+    {
+      "title": "Qui va gagner la Coupe du monde ? Nous avons effectué 100 000 simulations informatiques, et le vainqueur sera…",
+      "description": "Pendant longtemps, prédire le vainqueur d’une Coupe du monde relevait presque de la divination. Aujourd’hui, les algorithmes sont à l’œuvre. En combinant statistiques, expertise sportive et apprentiss...",
+      "url": "https://www.futura-sciences.com/sante/actualites/mathematiques-va-gagner-coupe-monde-nous-avons-effectue-100-000-simulations-informatiques-vainqueur-sera-135222/",
+      "source": "Futura",
+      "publishedAt": "2026-06-11T11:05:45Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
@@ -146,6 +146,18 @@
       "thumbnail": "https://i.ytimg.com/vi/-kGlpSTHPf4/hqdefault.jpg"
     },
     {
+      "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
+      "description": "Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...",
+      "url": "https://www.youtube.com/watch?v=FL9r4dDKiIU",
+      "source": "Houssem Lahiani",
+      "publishedAt": "2026-04-19T20:17:51Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "FL9r4dDKiIU",
+      "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
+    },
+    {
       "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
       "description": "Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...",
       "url": "https://www.youtube.com/watch?v=cnjhHZNJEDk",
@@ -156,18 +168,6 @@
       "isYouTube": true,
       "videoId": "cnjhHZNJEDk",
       "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
-    },
-    {
-      "title": "Bitget CFD lance le mode sans frais (Zero-Fee Mode) alors que son volume quotidien se rapproche des 10 milliards de dollars",
-      "description": "VICTORIA, Seychelles, 11 juin 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (ou UEX, de l’anglais Universal Exchange) du monde, a annoncé aujourd’hui le lancement du Zero-Fee Mode...",
-      "url": "https://www.globenewswire.com/news-release/2026/06/11/3310362/0/fr/Bitget-CFD-lance-le-mode-sans-frais-Zero-Fee-Mode-alors-que-son-volume-quotidien-se-rapproche-des-10-milliards-de-dollars.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-06-11T11:30:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
@@ -182,11 +182,11 @@
       "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
     },
     {
-      "title": "Montée des eaux, météo extrèmes : comment de nouveaux systèmes d’IA peuvent aider les villes à mieux se préparer",
-      "description": "Plus de 10 % de la population mondiale habite sur des côtes et est exposée à la montée des eaux et aux tempêtes extrêmes. Des systèmes d’IA, combinés à des modèles physiques, pourraient permettre de m...",
-      "url": "https://theconversation.com/montee-des-eaux-meteo-extremes-comment-de-nouveaux-systemes-dia-peuvent-aider-les-villes-a-mieux-se-preparer-284465",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-06-10T07:49:25Z",
+      "title": "Faille critique Oracle PeopleSoft : ShinyHunters exploite une 0-day pour exfiltrer les données d'entreprise",
+      "description": "Une faille critique frappe actuellement les environnements Oracle PeopleSoft à travers le monde. Massivement exploitée en « zero-day » par le groupe de cybercriminels ShinyHunters, cette vulnérabilité...",
+      "url": "https://www.zdnet.fr/actualites/faille-critique-oracle-peoplesoft-shinyhunters-exploite-une-0-day-pour-exfiltrer-les-donnees-dentreprise-496771.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-06-12T06:06:39Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,23 +206,11 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "Applied Data Science With Python Full Course 2026 [Free] | Python For Data Science | Simplilearn",
-      "description": "Data Scientist Masters Program (Discount - YTBE15) ...",
-      "url": "https://www.youtube.com/watch?v=T9ricGdHz1k",
-      "source": "Simplilearn",
-      "publishedAt": "2026-05-19T23:10:51Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "T9ricGdHz1k",
-      "thumbnail": "https://i.ytimg.com/vi/T9ricGdHz1k/hqdefault.jpg"
-    },
-    {
-      "title": "SpaceX dévoile AI1, son premier datacenter conçu pour flotter en orbite",
-      "description": "Trois jours avant son entrée en Bourse, SpaceX a dévoilé AI1, son premier satellite pensé comme un datacenter en orbite. L'idée : faire tourner l'IA dans l'espace pour contourner les limites des résea...",
-      "url": "https://www.frandroid.com/marques/spacex/3133737_spacex-devoile-ai1-son-premier-datacenter-concu-pour-flotter-en-orbite",
-      "source": "Frandroid",
-      "publishedAt": "2026-06-10T08:01:35Z",
+      "title": "La rédaction déchiffre. Les pièces automobiles sont-elles vraiment de plus en plus volées ?",
+      "description": "L'information avait fait le tour des médias il y a quelques mois : les vols de pièces automobiles auraient explosé en 2025. Mais en observant de plus près les chiffres officiels, la tendance n'est pas...",
+      "url": "https://www.ledauphine.com/faits-divers-justice/2026/06/12/les-pieces-automobiles-sont-elles-vraiment-de-plus-en-plus-volees",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-06-12T04:01:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +218,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Bitget poursuit l’expansion de son offre au comptant grâce à 30 nouvelles cotations issues des principaux secteurs du marché",
-      "description": "VICTORIA, Seychelles, 11 juin 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (UEX) au monde, a élargi son offre de titres au comptant avec l’introduction de 30 nouveaux actifs, éla...",
-      "url": "https://www.globenewswire.com/news-release/2026/06/11/3310365/0/fr/Bitget-poursuit-l-expansion-de-son-offre-au-comptant-gr%C3%A2ce-%C3%A0-30-nouvelles-cotations-issues-des-principaux-secteurs-du-march%C3%A9.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-06-11T11:39:00Z",
+      "title": "Usines intelligentes et production optimisée : la stratégie IA de VinFast pour l’Europe",
+      "description": "En intégrant l’IA au cœur de ses usines, le constructeur automobile VinFast entend renforcer sa compétitivité ainsi que la qualité de ses produits afin de sa positionner durablement sur le marché euro...",
+      "url": "https://www.lesnumeriques.com/tech-durable/usines-intelligentes-et-production-optimisee-la-strategie-ia-de-vinfast-pour-l-europe-na257048.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-06-12T08:00:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +230,23 @@
       "thumbnail": ""
     },
     {
-      "title": "CAMERAMATICS lève 49 millions d’euros : l’IA s’invite derrière le volant des flottes professionnelles",
-      "description": "Si l’intelligence artificielle a d’abord transformé les métiers du savoir, service client, développement logiciel, marketing, finance ou analyse documentaire figurent parmi les premiers domaines à avo...",
-      "url": "https://www.frenchweb.fr/cameramatics-leve-49-millions-deuros-lia-sinvite-derriere-le-volant-des-flottes-professionnelles/462297",
+      "title": "Biométrie électorale à Madagascar: pourquoi la technologie ne suffit pas à produire la confiance",
+      "description": "Une technologie électorale ne s’impose pas uniquement parce qu’elle fonctionne. Son acceptation dépend de la confiance accordée aux institutions qui la déploient.",
+      "url": "https://theconversation.com/biometrie-electorale-a-madagascar-pourquoi-la-technologie-ne-suffit-pas-a-produire-la-confiance-284587",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-06-12T09:13:24Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Le rachat de GLADIA par OVHcloud marquerait une nouvelle étape de l’IA européenne",
+      "description": "Contre toute attente, l’une des opérations les plus intéressantes de l’année dans l’intelligence artificielle française n’est ni une levée de fonds ni le lancement d’un nouveau modèle. En entrant en n...",
+      "url": "https://www.frenchweb.fr/le-rachat-de-gladia-par-ovhcloud-marquerait-une-nouvelle-etape-de-lia-europeenne/462315",
       "source": "Frenchweb.fr",
-      "publishedAt": "2026-06-11T08:13:43Z",
+      "publishedAt": "2026-06-12T09:54:50Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,23 +254,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Bulle IA ou Révolution industrielle",
-      "description": "L'année 2026 s'impose déjà comme un jalon historique. Elle marque le moment où l'intelligence artificielle a définitivement quitté le statut de simple innovation technologique pour devenir l'un des pr...",
-      "url": "https://blog.octo.com/octo-article-de-blog-24",
-      "source": "Octo.com",
-      "publishedAt": "2026-06-10T11:43:10Z",
-      "category": "innovation",
+      "title": "iOS 27 : les petits nouveautés de Santé",
+      "description": "Apple avait indirectement prévenu par ses canaux non officieux : avec ses crus 27, il ne fallait pas s’attendre à des nouveautés fracassantes, l’essentiel des efforts étant porté sur l’intelligence ar...",
+      "url": "https://www.watchgeneration.fr/sante/2026/06/ios-27-les-petits-nouveautes-de-sante-19795",
+      "source": "Watchgeneration.fr",
+      "publishedAt": "2026-06-12T05:08:14Z",
+      "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "NEURA ROBOTICS lève 1,2 milliard d’euros : la robotique devient le nouveau pari stratégique de l’Europe",
-      "description": "La robotique humanoïde franchit un nouveau seuil de financement en Europe. L’allemand Neura Robotics annonce une levée de 1,4 milliard de dollars, soit environ 1,2 milliard d’euros, portant sa valoris...",
-      "url": "https://www.frenchweb.fr/neura-robotics-leve-12-milliard-deuros-la-robotique-devient-le-nouveau-pari-strategique-de-leurope/462288",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-06-10T16:34:54Z",
+      "title": "Sapient a créé un modèle fondation d'IA pour 1500 dollars...qui surpasse ses concurrents",
+      "description": "Et si entraîner un modèle d'IA ne coûtait plus des millions, mais le prix d'un ordinateur portable ? C'est le pari fou, et réussi, d'une startup qui vient de secouer l'écosystème avec une approche rad...",
+      "url": "https://www.generation-nt.com/actualites/sapient-technologies-modele-ia-fondation-cout-2076971",
+      "source": "Génération NT",
+      "publishedAt": "2026-06-12T05:30:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,12 +290,12 @@
       "thumbnail": ""
     },
     {
-      "title": "Donnez à vos « agents IA de niveau humain » une longueur d'avance grâce à ces 3 bonnes pratiques",
-      "description": "En mettant l'accent sur la gouvernance, l'évaluation et le fait de commencer modestement, vous pouvez améliorer les chances de vos agents IA d'être mis en production",
-      "url": "https://www.zdnet.fr/pratique/donnez-a-vos-agents-ia-de-niveau-humain-une-longueur-davance-grace-a-ces-3-bonnes-pratiques-496590.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-06-10T05:06:57Z",
-      "category": "tech",
+      "title": "« Avec l’IA, on veut atteindre 80 % de taux d’emploi » : le pari du patron de France Travail pour répondre aux contraintes budgétaires",
+      "description": "Face aux contraintes budgétaires et à la vague IA, France Travail fait le pari d’investir massivement cette technologie pour « faire mieux avec moins ». Alliance avec la pépite Mistral, déploiement au...",
+      "url": "https://www.challenges.fr/economie/avec-lia-on-veut-atteindre-80-de-taux-demploi-le-pari-du-patron-de-france-travail-pour-repondre-aux-contraintes-budgetaires_644123",
+      "source": "Challenges",
+      "publishedAt": "2026-06-12T10:00:00Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
