@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-13T10:32:47.310165",
+  "lastUpdate": "2026-06-14T10:50:55.403963",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -14,6 +14,30 @@
       "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
     },
     {
+      "title": "C’est historique : ChatGPT dépasse le milliard d’utilisateurs et écrase la concurrence",
+      "description": "ChatGPT est incontestablement le chatbot le plus populaire au monde, c’est un fait. Mais OpenAI va encore plus loin en passant la barre du milliard d’utilisateurs pour son IA. C’est...",
+      "url": "https://www.phonandroid.com/cest-historique-chatgpt-depasse-le-milliard-dutilisateurs-et-ecrase-la-concurrence.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-06-13T10:44:48Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "J&#39;ai étudié les LLM pendant 6 mois (et j&#39;ai enfin compris comment ChatGPT fonctionne)",
+      "description": "Vous avez essayé de comprendre comment fonctionnent les LLM. Soit on vous dit \"ça prédit le mot suivant, comme le clavier de ...",
+      "url": "https://www.youtube.com/watch?v=MjCJIJ4PuSw",
+      "source": "Eliott Meunier",
+      "publishedAt": "2026-05-27T09:30:28Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "MjCJIJ4PuSw",
+      "thumbnail": "https://i.ytimg.com/vi/MjCJIJ4PuSw/hqdefault.jpg"
+    },
+    {
       "title": "Gemma 4 : L&#39;IA de Google Gratuite, Illimitée, Locale &amp; SANS Internet !",
       "description": "Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...",
       "url": "https://www.youtube.com/watch?v=9onqtz5EwHE",
@@ -24,30 +48,6 @@
       "isYouTube": true,
       "videoId": "9onqtz5EwHE",
       "thumbnail": "https://i.ytimg.com/vi/9onqtz5EwHE/hqdefault.jpg"
-    },
-    {
-      "title": "Le KFSH fait progresser les applications pratiques de l’IA pour transformer les soins de santé spécialisés",
-      "description": "RIYAD, Arabie saoudite, 12 juin 2026 (GLOBE NEWSWIRE) -- Le King Faisal Specialist Hospital & Research Centre (KFSH) mettra en avant ses applications pratiques de l’intelligence artificielle lors de s...",
-      "url": "https://www.globenewswire.com/news-release/2026/06/12/3310922/0/fr/Le-KFSH-fait-progresser-les-applications-pratiques-de-l-IA-pour-transformer-les-soins-de-sant%C3%A9-sp%C3%A9cialis%C3%A9s.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-06-12T08:34:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Requêtes SQL sur DataFrame Julia (DuckDB)",
-      "description": "Machine learning. Data Science. Julia. Utilisation de requêtes SQL pour accéder aux informations de tables sous la forme de ...",
-      "url": "https://www.youtube.com/watch?v=wtAFyxyGmAo",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-04-15T09:57:41Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "wtAFyxyGmAo",
-      "thumbnail": "https://i.ytimg.com/vi/wtAFyxyGmAo/hqdefault.jpg"
     },
     {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
@@ -98,23 +98,23 @@
       "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
     },
     {
-      "title": "Régression linéaire multiple sous Julia avec « GLM.jl »",
-      "description": "Machine learning. Data science. Econométrie. Mise en œuvre de la régression multiple sous Julia via le package « GLM », dans ...",
-      "url": "https://www.youtube.com/watch?v=1XlhlPCsT98",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-06-10T17:00:13Z",
+      "title": "Data Science Full Course Free | Complete Data Science Course 2026 | Intellipaat",
+      "description": "Enroll for Data Science Course: https://intellipaat.com/data-scientist-course-training/ Book your Free ...",
+      "url": "https://www.youtube.com/watch?v=0YBGSWNF95w",
+      "source": "Intellipaat",
+      "publishedAt": "2026-05-19T18:31:31Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "1XlhlPCsT98",
-      "thumbnail": "https://i.ytimg.com/vi/1XlhlPCsT98/hqdefault.jpg"
+      "videoId": "0YBGSWNF95w",
+      "thumbnail": "https://i.ytimg.com/vi/0YBGSWNF95w/hqdefault.jpg"
     },
     {
-      "title": "Qui va gagner la Coupe du monde ? Nous avons effectué 100 000 simulations informatiques, et le vainqueur sera…",
-      "description": "Pendant longtemps, prédire le vainqueur d’une Coupe du monde relevait presque de la divination. Aujourd’hui, les algorithmes sont à l’œuvre. En combinant statistiques, expertise sportive et apprentiss...",
-      "url": "https://www.futura-sciences.com/sante/actualites/mathematiques-va-gagner-coupe-monde-nous-avons-effectue-100-000-simulations-informatiques-vainqueur-sera-135222/",
-      "source": "Futura",
-      "publishedAt": "2026-06-11T11:05:45Z",
+      "title": "Gabe Newell a écrit à Elon Musk pour organiser une visite privée de SpaceX et OpenAI pour Hideo Kojima : l'e-mail vient de fuiter grâce au procès contre Altman",
+      "description": "Découvrez les échanges fascinants entre Kojima, Newell et Musk : des ambitions spatiales aux avancées en intelligence artificielle, ces révélations pourraient redéfinir l'avenir de la technologie.",
+      "url": "https://www.gameblog.fr/trends/gabe-newell-a-ecrit-a-elon-musk-pour-organiser-une-visite-privee-de-spacex-et-openai-pour-hideo-kojima-le-mail-vient-de-fuiter-grace-au-proces-contre-altman-717739",
+      "source": "Gameblog",
+      "publishedAt": "2026-06-13T05:30:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -146,16 +146,28 @@
       "thumbnail": "https://i.ytimg.com/vi/-kGlpSTHPf4/hqdefault.jpg"
     },
     {
-      "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
-      "description": "Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...",
-      "url": "https://www.youtube.com/watch?v=FL9r4dDKiIU",
-      "source": "Houssem Lahiani",
-      "publishedAt": "2026-04-19T20:17:51Z",
+      "title": "Power BI Creer un tableau de bord de A à Z",
+      "description": "FORMATION POWER BI GRATUITE – VIDÉO 3 : CRÉATION D'UN TABLEAU DE BORD INTERACTIF DE A À Z Bienvenue dans ...",
+      "url": "https://www.youtube.com/watch?v=5zWEMjvm86o",
+      "source": "Ceemtic Analytics",
+      "publishedAt": "2026-06-13T21:22:56Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "FL9r4dDKiIU",
-      "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
+      "videoId": "5zWEMjvm86o",
+      "thumbnail": "https://i.ytimg.com/vi/5zWEMjvm86o/hqdefault.jpg"
+    },
+    {
+      "title": "SQL pour Data Analyst - Formation Complète",
+      "description": "Rejoins le programme pour maîtriser SQL : https://store.ledecodeur.fr/programme-sql ​ Les données utilisées lors du projet ...",
+      "url": "https://www.youtube.com/watch?v=-9NppUySsk0",
+      "source": "Le Decodeur",
+      "publishedAt": "2026-05-17T16:00:30Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "-9NppUySsk0",
+      "thumbnail": "https://i.ytimg.com/vi/-9NppUySsk0/hqdefault.jpg"
     },
     {
       "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
@@ -170,6 +182,18 @@
       "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
     },
     {
+      "title": "Plan d'action données algorithmes et codes sources - les projets",
+      "description": "Cet actif a été lié à l'actif suivant : [Formulaire plan d'action - création suivi de projet - Visualization](/explore/assets/visualisation-formulaire-plan-d-action-creation-suivi-de-projet/)\n\n* * *\n\n...",
+      "url": "https://www.data.gouv.fr/datasets/plan-daction-donnees-algorithmes-et-codes-sources-les-projets",
+      "source": "Gouv.fr",
+      "publishedAt": "2026-06-13T04:00:01Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
       "description": "Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...",
       "url": "https://www.youtube.com/watch?v=OKS6wtA2lAA",
@@ -180,18 +204,6 @@
       "isYouTube": true,
       "videoId": "OKS6wtA2lAA",
       "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
-    },
-    {
-      "title": "Faille critique Oracle PeopleSoft : ShinyHunters exploite une 0-day pour exfiltrer les données d'entreprise",
-      "description": "Une faille critique frappe actuellement les environnements Oracle PeopleSoft à travers le monde. Massivement exploitée en « zero-day » par le groupe de cybercriminels ShinyHunters, cette vulnérabilité...",
-      "url": "https://www.zdnet.fr/actualites/faille-critique-oracle-peoplesoft-shinyhunters-exploite-une-0-day-pour-exfiltrer-les-donnees-dentreprise-496771.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-06-12T06:06:39Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
@@ -206,11 +218,23 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "La rédaction déchiffre. Les pièces automobiles sont-elles vraiment de plus en plus volées ?",
-      "description": "L'information avait fait le tour des médias il y a quelques mois : les vols de pièces automobiles auraient explosé en 2025. Mais en observant de plus près les chiffres officiels, la tendance n'est pas...",
-      "url": "https://www.ledauphine.com/faits-divers-justice/2026/06/12/les-pieces-automobiles-sont-elles-vraiment-de-plus-en-plus-volees",
-      "source": "Le Dauphiné Libéré",
-      "publishedAt": "2026-06-12T04:01:00Z",
+      "title": "Applied Data Science With Python Full Course 2026 [Free] | Python For Data Science | Simplilearn",
+      "description": "Data Scientist Masters Program (Discount - YTBE15) ...",
+      "url": "https://www.youtube.com/watch?v=T9ricGdHz1k",
+      "source": "Simplilearn",
+      "publishedAt": "2026-05-19T23:10:51Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "T9ricGdHz1k",
+      "thumbnail": "https://i.ytimg.com/vi/T9ricGdHz1k/hqdefault.jpg"
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra testé : ce filtre caché dans l’écran protège vos données dans le métro",
+      "description": "En 2026, les équipes terrain et les DSI cherchent un smartphone capable de tenir une journée entière sans faillir, tout...\nL’article Samsung Galaxy S26 Ultra testé : ce filtre caché dans l’écran protè...",
+      "url": "https://www.tuxboard.com/samsung-galaxy-s26-ultra-teste-ce-filtre-cache-dans-lecran-protege-vos-donnees-dans-le-metro/",
+      "source": "Tuxboard.com",
+      "publishedAt": "2026-06-12T18:50:28Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,47 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Usines intelligentes et production optimisée : la stratégie IA de VinFast pour l’Europe",
-      "description": "En intégrant l’IA au cœur de ses usines, le constructeur automobile VinFast entend renforcer sa compétitivité ainsi que la qualité de ses produits afin de sa positionner durablement sur le marché euro...",
-      "url": "https://www.lesnumeriques.com/tech-durable/usines-intelligentes-et-production-optimisee-la-strategie-ia-de-vinfast-pour-l-europe-na257048.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-06-12T08:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Biométrie électorale à Madagascar: pourquoi la technologie ne suffit pas à produire la confiance",
-      "description": "Une technologie électorale ne s’impose pas uniquement parce qu’elle fonctionne. Son acceptation dépend de la confiance accordée aux institutions qui la déploient.",
-      "url": "https://theconversation.com/biometrie-electorale-a-madagascar-pourquoi-la-technologie-ne-suffit-pas-a-produire-la-confiance-284587",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-06-12T09:13:24Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le rachat de GLADIA par OVHcloud marquerait une nouvelle étape de l’IA européenne",
-      "description": "Contre toute attente, l’une des opérations les plus intéressantes de l’année dans l’intelligence artificielle française n’est ni une levée de fonds ni le lancement d’un nouveau modèle. En entrant en n...",
-      "url": "https://www.frenchweb.fr/le-rachat-de-gladia-par-ovhcloud-marquerait-une-nouvelle-etape-de-lia-europeenne/462315",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-06-12T09:54:50Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "iOS 27 : les petits nouveautés de Santé",
-      "description": "Apple avait indirectement prévenu par ses canaux non officieux : avec ses crus 27, il ne fallait pas s’attendre à des nouveautés fracassantes, l’essentiel des efforts étant porté sur l’intelligence ar...",
-      "url": "https://www.watchgeneration.fr/sante/2026/06/ios-27-les-petits-nouveautes-de-sante-19795",
-      "source": "Watchgeneration.fr",
-      "publishedAt": "2026-06-12T05:08:14Z",
+      "title": "IA : dans quels pays la défiance est-elle la plus forte ?",
+      "description": "Aux Etats-Unis, la jeunesse s'insurge contre l'intelligence artificielle qu'elle perçoit de plus en plus comme une menace. Un phénomène qui essaime dans tous les pays anglo-saxons, mais qui semble épa...",
+      "url": "https://www.lexpress.fr/economie/high-tech/ia-dans-quels-pays-la-defiance-est-elle-la-plus-forte-5KAECBVBKJFNJIUHIRA5V42TGM/",
+      "source": "L'Express",
+      "publishedAt": "2026-06-13T10:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "IA générative et métiers du web : quelles compétences pour les nouveaux entrants ?",
-      "description": "Article sponsorisé L'IA générative rebat les cartes des métiers du web Pendant longtemps, le SEO technique rimait avec audits de crawl, optimisation de balises et production de contenus en volume. La ...",
-      "url": "https://www.abondance.com/20260611-2419590-ia-generative-metiers-web-competences-nouveaux-entrants.html",
-      "source": "Abondance.com",
-      "publishedAt": "2026-06-11T08:06:07Z",
+      "title": "Communiqué de presse : Le Tzield de Sanofi approuvé aux États-Unis comme première thérapie modificatrice de la maladie pour les patients récemment diagnostiqués avec un diabète de type 1 au stade 3",
+      "description": "La FDA approuve le Tzield de Sanofi comme première thérapie modificatrice pour enfants 8-17 ans atteints de diabète type 1 stade 3, retardant le déclin ins",
+      "url": "https://www.globenewswire.com/news-release/2026/06/12/3311349/0/fr/Communiqu%C3%A9-de-presse-Le-Tzield-de-Sanofi-approuv%C3%A9-aux-%C3%89tats-Unis-comme-premi%C3%A8re-th%C3%A9rapie-modificatrice-de-la-maladie-pour-les-patients-r%C3%A9cemment-diagnostiqu%C3%A9s-avec-un-diab%C3%A8te-de-ty.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-12T22:09:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,12 +278,24 @@
       "thumbnail": ""
     },
     {
-      "title": "« Avec l’IA, on veut atteindre 80 % de taux d’emploi » : le pari du patron de France Travail pour répondre aux contraintes budgétaires",
-      "description": "Face aux contraintes budgétaires et à la vague IA, France Travail fait le pari d’investir massivement cette technologie pour « faire mieux avec moins ». Alliance avec la pépite Mistral, déploiement au...",
-      "url": "https://www.challenges.fr/economie/avec-lia-on-veut-atteindre-80-de-taux-demploi-le-pari-du-patron-de-france-travail-pour-repondre-aux-contraintes-budgetaires_644123",
-      "source": "Challenges",
-      "publishedAt": "2026-06-12T10:00:00Z",
-      "category": "innovation",
+      "title": "J'ai testé une tonne d'outils d'IA locale pour mon ordinateur, mais Hermes + Ollama est désormais mon préféré – voici pourquoi",
+      "description": "L'IA locale est la solution idéale pour moi, et Hermes associé à Ollama, un logiciel libre, est ma configuration préférée pour le moment.",
+      "url": "https://www.zdnet.fr/pratique/jai-teste-une-tonne-doutils-dia-locale-pour-mon-ordinateur-mais-hermes-ollama-est-desormais-mon-prefere-voici-pourquoi-496755.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-06-13T08:11:03Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "« Nous avons fait le mauvais choix » : Anthropic avoue avoir secrètement bridé les capacités de Fable 5",
+      "description": "Anthropic a discrètement bridé les capacités de son nouveau modèle Fable 5 lorsqu’il était sollicité pour le développement d’IA de pointe. Cette restriction, totalement invisible pour les utilisateurs...",
+      "url": "https://www.numerama.com/tech/2273861-nous-avons-fait-le-mauvais-choix-anthropic-avoue-avoir-secretement-bride-les-capacites-de-fable-5.html",
+      "source": "Numerama",
+      "publishedAt": "2026-06-12T10:15:00Z",
+      "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
