@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-14T10:50:55.403963",
+  "lastUpdate": "2026-06-15T14:27:24.923266",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -14,11 +14,23 @@
       "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
     },
     {
-      "title": "C’est historique : ChatGPT dépasse le milliard d’utilisateurs et écrase la concurrence",
-      "description": "ChatGPT est incontestablement le chatbot le plus populaire au monde, c’est un fait. Mais OpenAI va encore plus loin en passant la barre du milliard d’utilisateurs pour son IA. C’est...",
-      "url": "https://www.phonandroid.com/cest-historique-chatgpt-depasse-le-milliard-dutilisateurs-et-ecrase-la-concurrence.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-06-13T10:44:48Z",
+      "title": "ChatGPT, Claude, Gemini : Top 10 des meilleures applis d&#39;IA gratuites en 2026",
+      "description": "ChatGPT, Claude, Gemini : laquelle est vraiment la meilleure IA sur iPhone et Android ? Chaque modèle a sa spécialité et dans ...",
+      "url": "https://www.youtube.com/watch?v=2C1rvFFditA",
+      "source": "Jeanviet",
+      "publishedAt": "2026-05-18T16:00:02Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "2C1rvFFditA",
+      "thumbnail": "https://i.ytimg.com/vi/2C1rvFFditA/hqdefault.jpg"
+    },
+    {
+      "title": "Character.AI : le guide complet pour créer et parler à des personnages IA en 2026",
+      "description": "Pendant que ChatGPT ou Claude se concentrent sur la génération de texte, l’aide au travail et à la productivité, Character.AI suit une autre voie : celle de la conversation fictionnelle. La plateforme...",
+      "url": "https://www.aruco.com/intelligence-artificielle/character-ai-guide-complet-personnages-ia/",
+      "source": "Aruco.com",
+      "publishedAt": "2026-06-14T14:23:05Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -26,28 +38,40 @@
       "thumbnail": ""
     },
     {
-      "title": "J&#39;ai étudié les LLM pendant 6 mois (et j&#39;ai enfin compris comment ChatGPT fonctionne)",
-      "description": "Vous avez essayé de comprendre comment fonctionnent les LLM. Soit on vous dit \"ça prédit le mot suivant, comme le clavier de ...",
-      "url": "https://www.youtube.com/watch?v=MjCJIJ4PuSw",
-      "source": "Eliott Meunier",
-      "publishedAt": "2026-05-27T09:30:28Z",
+      "title": "D'où viennent les «hallucinations» des chatbots d'IA générative?",
+      "description": "Peut-être l'avez-vous remarqué en utilisant ChatGPT ou Claude: les intelligences artificielles génératives de texte inventent régulièrement des éléments de réponse. C'est en se penchant sur la manière...",
+      "url": "https://www.slate.fr/tech-internet/explication-hallucinations-chatbots-ia-generatives-intelligence-artificielle-fonctionnement-langage-ecriture-images-textes-mots-donnees-valeur-chatgpt",
+      "source": "Slate.fr",
+      "publishedAt": "2026-06-13T15:00:01Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "MjCJIJ4PuSw",
-      "thumbnail": "https://i.ytimg.com/vi/MjCJIJ4PuSw/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "Gemma 4 : L&#39;IA de Google Gratuite, Illimitée, Locale &amp; SANS Internet !",
-      "description": "Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...",
-      "url": "https://www.youtube.com/watch?v=9onqtz5EwHE",
-      "source": "Alpa14",
-      "publishedAt": "2026-04-21T14:02:45Z",
+      "title": "Elon Musk, SpaceX et la monarchie technologique de l’espace",
+      "description": "Illustration par ChatGPT.\r\n\nLe 12 juin 2026, SpaceX est entrée en Bourse. Mais ce n’est pas seulement une introduction boursière. C’est un changement de régime.\r\n\nOn dira bien sûr : 135 dollars l’acti...",
+      "url": "https://www.pauljorion.com/blog/2026/06/14/elon-musk-spacex-et-la-monarchie-technologique-de-lespace/",
+      "source": "Pauljorion.com",
+      "publishedAt": "2026-06-14T12:38:13Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Data Analyst Bootcamp (FREE 35+ Hour Full Course) - SQL, Excel, Power BI, Python, AI &amp; GitHub",
+      "description": "Free 5-Day Data Analyst Crash Course https://lukeb.co/da-crash-course Data Analyst Course Bundle (400+ interview problems ...",
+      "url": "https://www.youtube.com/watch?v=MOzEvNYvbik",
+      "source": "Luke Barousse",
+      "publishedAt": "2026-06-02T12:00:29Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "9onqtz5EwHE",
-      "thumbnail": "https://i.ytimg.com/vi/9onqtz5EwHE/hqdefault.jpg"
+      "videoId": "MOzEvNYvbik",
+      "thumbnail": "https://i.ytimg.com/vi/MOzEvNYvbik/hqdefault.jpg"
     },
     {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
@@ -98,30 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
     },
     {
-      "title": "Data Science Full Course Free | Complete Data Science Course 2026 | Intellipaat",
-      "description": "Enroll for Data Science Course: https://intellipaat.com/data-scientist-course-training/ Book your Free ...",
-      "url": "https://www.youtube.com/watch?v=0YBGSWNF95w",
-      "source": "Intellipaat",
-      "publishedAt": "2026-05-19T18:31:31Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "0YBGSWNF95w",
-      "thumbnail": "https://i.ytimg.com/vi/0YBGSWNF95w/hqdefault.jpg"
-    },
-    {
-      "title": "Gabe Newell a écrit à Elon Musk pour organiser une visite privée de SpaceX et OpenAI pour Hideo Kojima : l'e-mail vient de fuiter grâce au procès contre Altman",
-      "description": "Découvrez les échanges fascinants entre Kojima, Newell et Musk : des ambitions spatiales aux avancées en intelligence artificielle, ces révélations pourraient redéfinir l'avenir de la technologie.",
-      "url": "https://www.gameblog.fr/trends/gabe-newell-a-ecrit-a-elon-musk-pour-organiser-une-visite-privee-de-spacex-et-openai-pour-hideo-kojima-le-mail-vient-de-fuiter-grace-au-proces-contre-altman-717739",
-      "source": "Gameblog",
-      "publishedAt": "2026-06-13T05:30:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
       "description": "Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...",
       "url": "https://www.youtube.com/watch?v=rhE7Ab_sBTo",
@@ -170,6 +170,18 @@
       "thumbnail": "https://i.ytimg.com/vi/-9NppUySsk0/hqdefault.jpg"
     },
     {
+      "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
+      "description": "Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...",
+      "url": "https://www.youtube.com/watch?v=FL9r4dDKiIU",
+      "source": "Houssem Lahiani",
+      "publishedAt": "2026-04-19T20:17:51Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "FL9r4dDKiIU",
+      "thumbnail": "https://i.ytimg.com/vi/FL9r4dDKiIU/hqdefault.jpg"
+    },
+    {
       "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
       "description": "Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...",
       "url": "https://www.youtube.com/watch?v=cnjhHZNJEDk",
@@ -180,30 +192,6 @@
       "isYouTube": true,
       "videoId": "cnjhHZNJEDk",
       "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
-    },
-    {
-      "title": "Plan d'action données algorithmes et codes sources - les projets",
-      "description": "Cet actif a été lié à l'actif suivant : [Formulaire plan d'action - création suivi de projet - Visualization](/explore/assets/visualisation-formulaire-plan-d-action-creation-suivi-de-projet/)\n\n* * *\n\n...",
-      "url": "https://www.data.gouv.fr/datasets/plan-daction-donnees-algorithmes-et-codes-sources-les-projets",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-06-13T04:00:01Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
-      "description": "Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...",
-      "url": "https://www.youtube.com/watch?v=OKS6wtA2lAA",
-      "source": "OUJOOD",
-      "publishedAt": "2026-06-03T12:13:50Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "OKS6wtA2lAA",
-      "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
     },
     {
       "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
@@ -218,23 +206,11 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "Applied Data Science With Python Full Course 2026 [Free] | Python For Data Science | Simplilearn",
-      "description": "Data Scientist Masters Program (Discount - YTBE15) ...",
-      "url": "https://www.youtube.com/watch?v=T9ricGdHz1k",
-      "source": "Simplilearn",
-      "publishedAt": "2026-05-19T23:10:51Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "T9ricGdHz1k",
-      "thumbnail": "https://i.ytimg.com/vi/T9ricGdHz1k/hqdefault.jpg"
-    },
-    {
-      "title": "Samsung Galaxy S26 Ultra testé : ce filtre caché dans l’écran protège vos données dans le métro",
-      "description": "En 2026, les équipes terrain et les DSI cherchent un smartphone capable de tenir une journée entière sans faillir, tout...\nL’article Samsung Galaxy S26 Ultra testé : ce filtre caché dans l’écran protè...",
-      "url": "https://www.tuxboard.com/samsung-galaxy-s26-ultra-teste-ce-filtre-cache-dans-lecran-protege-vos-donnees-dans-le-metro/",
-      "source": "Tuxboard.com",
-      "publishedAt": "2026-06-12T18:50:28Z",
+      "title": "«Les personnes qui subissent le racisme et les discriminations continuent à aimer, à lutter, à vivre»",
+      "description": "Le Palais de la Porte-Dorée, à Paris, accueille « Aux origines », un parcours qui interroge le racisme structurel à travers l’art contemporain et l’éclairage de données scientifiques. Entretien avec F...",
+      "url": "https://www.mediapart.fr/journal/culture-et-idees/140626/les-personnes-qui-subissent-le-racisme-et-les-discriminations-continuent-aimer-lutter-vivre",
+      "source": "Mediapart",
+      "publishedAt": "2026-06-14T09:07:45Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,23 +218,35 @@
       "thumbnail": ""
     },
     {
-      "title": "IA : dans quels pays la défiance est-elle la plus forte ?",
-      "description": "Aux Etats-Unis, la jeunesse s'insurge contre l'intelligence artificielle qu'elle perçoit de plus en plus comme une menace. Un phénomène qui essaime dans tous les pays anglo-saxons, mais qui semble épa...",
-      "url": "https://www.lexpress.fr/economie/high-tech/ia-dans-quels-pays-la-defiance-est-elle-la-plus-forte-5KAECBVBKJFNJIUHIRA5V42TGM/",
-      "source": "L'Express",
-      "publishedAt": "2026-06-13T10:00:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sapient a créé un modèle fondation d'IA pour 1500 dollars...qui surpasse ses concurrents",
-      "description": "Et si entraîner un modèle d'IA ne coûtait plus des millions, mais le prix d'un ordinateur portable ? C'est le pari fou, et réussi, d'une startup qui vient de secouer l'écosystème avec une approche rad...",
-      "url": "https://www.generation-nt.com/actualites/sapient-technologies-modele-ia-fondation-cout-2076971",
+      "title": "Le Webb a trouvé la preuve la plus solide d'une étoile trou noir",
+      "description": "Le télescope spatial James Webb a fourni l'analyse la plus détaillée à ce jour d'un petit point rouge. Les données spectrales soutiennent fortement le modèle de l'étoile trou noir.",
+      "url": "https://www.generation-nt.com/actualites/telescope-webb-etoile-trou-noir-glimpse-17775-2076913",
       "source": "Génération NT",
-      "publishedAt": "2026-06-12T05:30:01Z",
+      "publishedAt": "2026-06-14T08:10:01Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Les États-Unis scrutent de près les pratiques d’OpenAI",
+      "description": "OpenAI fait face à une enquête menée par plusieurs procureurs généraux d’États américains. Données, mineurs, santé, pub, tout est sur la table.",
+      "url": "https://www.begeek.fr/les-etats-unis-scrutent-de-pres-les-pratiques-dopenai-433683",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-06-14T14:00:40Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Coup de théâtre dans l’IA : les Etats-Unis restreignent Anthropic et ouvrent une nouvelle ère",
+      "description": "La suspension mondiale de certains modèles avancés d'Anthropic par les États-Unis marque peut-être un tournant dans la course mondiale à l'intelligence artificielle. Derrière l'argument de la sécurité...",
+      "url": "https://atlantico.fr/article/decryptage/coup-de-theatre-dans-lia-les-etats-unis-restreignent-anthropic-et-ouvrent-une-nouvelle-ere",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-06-14T08:31:11Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Communiqué de presse : Le Tzield de Sanofi approuvé aux États-Unis comme première thérapie modificatrice de la maladie pour les patients récemment diagnostiqués avec un diabète de type 1 au stade 3",
-      "description": "La FDA approuve le Tzield de Sanofi comme première thérapie modificatrice pour enfants 8-17 ans atteints de diabète type 1 stade 3, retardant le déclin ins",
-      "url": "https://www.globenewswire.com/news-release/2026/06/12/3311349/0/fr/Communiqu%C3%A9-de-presse-Le-Tzield-de-Sanofi-approuv%C3%A9-aux-%C3%89tats-Unis-comme-premi%C3%A8re-th%C3%A9rapie-modificatrice-de-la-maladie-pour-les-patients-r%C3%A9cemment-diagnostiqu%C3%A9s-avec-un-diab%C3%A8te-de-ty.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-06-12T22:09:00Z",
+      "title": "Actualité : Je déteste l'IA ! : ma méthode pour désactiver Copilot, Gemini et Apple Intelligence de vos applications",
+      "description": "Copilot, Apple Intelligence, Gemini… Les outils dopés à l'intelligence artificielle se sont incrustés dans nos applications du quotidien, souvent pour le pire. Voici notre guide pratique pour faire ma...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/je-deteste-l-ia-ma-methode-pour-desactiver-copilot-gemini-et-apple-intelligence-de-vos-applications-n237007.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-06-13T12:05:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "J'ai testé une tonne d'outils d'IA locale pour mon ordinateur, mais Hermes + Ollama est désormais mon préféré – voici pourquoi",
-      "description": "L'IA locale est la solution idéale pour moi, et Hermes associé à Ollama, un logiciel libre, est ma configuration préférée pour le moment.",
-      "url": "https://www.zdnet.fr/pratique/jai-teste-une-tonne-doutils-dia-locale-pour-mon-ordinateur-mais-hermes-ollama-est-desormais-mon-prefere-voici-pourquoi-496755.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-06-13T08:11:03Z",
+      "title": "Restriction de l'IA : un problème de souveraineté",
+      "description": "Faut-il une souveraineté autour de l'Intelligence artificielle dans l'Hexagone ? Le débat est lancé alors qu'Anthropic, l'entreprise à l'origine de la plateforme Claude, a suspendu le 12 juin 2026 deu...",
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/restriction-de-l-ia-un-probleme-de-souverainete_8059808.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-06-14T06:38:20Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "« Nous avons fait le mauvais choix » : Anthropic avoue avoir secrètement bridé les capacités de Fable 5",
-      "description": "Anthropic a discrètement bridé les capacités de son nouveau modèle Fable 5 lorsqu’il était sollicité pour le développement d’IA de pointe. Cette restriction, totalement invisible pour les utilisateurs...",
-      "url": "https://www.numerama.com/tech/2273861-nous-avons-fait-le-mauvais-choix-anthropic-avoue-avoir-secretement-bride-les-capacites-de-fable-5.html",
-      "source": "Numerama",
-      "publishedAt": "2026-06-12T10:15:00Z",
+      "title": "Vol d’électricité, fraudes, dégradations : une IA veut protéger les bornes de recharge électriques",
+      "description": "Les bornes de recharge électriques se dotent d’un véritable agent de sécurité numérique. Des chercheurs ont en effet mis au point un agent d’intelligence artificielle chargé de détecter les fraudes...",
+      "url": "https://www.phonandroid.com/vol-delectricite-fraudes-degradations-une-ia-veut-proteger-les-bornes-de-recharge-electriques.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-06-14T13:50:03Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Exploit sur la Lune : l’analyse du petit robot sphérique japonais va transformer les futures missions spatiales",
+      "description": "En janvier 2024, la sonde japonaise SLIM réussissait un alunissage complexe, mais se retrouvait à l'envers. Heureusement, un minuscule engin sphérique autonome a surmonté cet incident. Une étude récen...",
+      "url": "https://dailygeekshow.com/?p=1010797",
+      "source": "Daily Geek Show",
+      "publishedAt": "2026-06-13T19:01:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 14 Jun 2026 10:50:55 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 14:27:24 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,28 +21,48 @@
             <source>Nicolasit</source>
         </item>
         <item>
-            <title>C’est historique : ChatGPT dépasse le milliard d’utilisateurs et écrase la concurrence</title>
-            <link>https://www.phonandroid.com/cest-historique-chatgpt-depasse-le-milliard-dutilisateurs-et-ecrase-la-concurrence.html</link>
-            <description><![CDATA[ChatGPT est incontestablement le chatbot le plus populaire au monde, c’est un fait. Mais OpenAI va encore plus loin en passant la barre du milliard d’utilisateurs pour son IA. C’est...]]></description>
-            <pubDate>Sat, 13 Jun 2026 10:44:48 -0000</pubDate>
-            <guid isPermaLink="true">https://www.phonandroid.com/cest-historique-chatgpt-depasse-le-milliard-dutilisateurs-et-ecrase-la-concurrence.html</guid>
-            <source>Phonandroid</source>
+            <title>ChatGPT, Claude, Gemini : Top 10 des meilleures applis d&amp;#39;IA gratuites en 2026</title>
+            <link>https://www.youtube.com/watch?v=2C1rvFFditA</link>
+            <description><![CDATA[ChatGPT, Claude, Gemini : laquelle est vraiment la meilleure IA sur iPhone et Android ? Chaque modèle a sa spécialité et dans ...]]></description>
+            <pubDate>Mon, 18 May 2026 16:00:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=2C1rvFFditA</guid>
+            <source>Jeanviet</source>
         </item>
         <item>
-            <title>J&amp;#39;ai étudié les LLM pendant 6 mois (et j&amp;#39;ai enfin compris comment ChatGPT fonctionne)</title>
-            <link>https://www.youtube.com/watch?v=MjCJIJ4PuSw</link>
-            <description><![CDATA[Vous avez essayé de comprendre comment fonctionnent les LLM. Soit on vous dit "ça prédit le mot suivant, comme le clavier de ...]]></description>
-            <pubDate>Wed, 27 May 2026 09:30:28 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=MjCJIJ4PuSw</guid>
-            <source>Eliott Meunier</source>
+            <title>Character.AI : le guide complet pour créer et parler à des personnages IA en 2026</title>
+            <link>https://www.aruco.com/intelligence-artificielle/character-ai-guide-complet-personnages-ia/</link>
+            <description><![CDATA[Pendant que ChatGPT ou Claude se concentrent sur la génération de texte, l’aide au travail et à la productivité, Character.AI suit une autre voie : celle de la conversation fictionnelle. La plateforme...]]></description>
+            <pubDate>Sun, 14 Jun 2026 14:23:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.aruco.com/intelligence-artificielle/character-ai-guide-complet-personnages-ia/</guid>
+            <source>Aruco.com</source>
         </item>
         <item>
-            <title>Gemma 4 : L&amp;#39;IA de Google Gratuite, Illimitée, Locale &amp;amp; SANS Internet !</title>
-            <link>https://www.youtube.com/watch?v=9onqtz5EwHE</link>
-            <description><![CDATA[Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...]]></description>
-            <pubDate>Tue, 21 Apr 2026 14:02:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=9onqtz5EwHE</guid>
-            <source>Alpa14</source>
+            <title>D'où viennent les «hallucinations» des chatbots d'IA générative?</title>
+            <link>https://www.slate.fr/tech-internet/explication-hallucinations-chatbots-ia-generatives-intelligence-artificielle-fonctionnement-langage-ecriture-images-textes-mots-donnees-valeur-chatgpt</link>
+            <description><![CDATA[Peut-être l'avez-vous remarqué en utilisant ChatGPT ou Claude: les intelligences artificielles génératives de texte inventent régulièrement des éléments de réponse. C'est en se penchant sur la manière...]]></description>
+            <pubDate>Sat, 13 Jun 2026 15:00:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.slate.fr/tech-internet/explication-hallucinations-chatbots-ia-generatives-intelligence-artificielle-fonctionnement-langage-ecriture-images-textes-mots-donnees-valeur-chatgpt</guid>
+            <source>Slate.fr</source>
+        </item>
+        <item>
+            <title>Elon Musk, SpaceX et la monarchie technologique de l’espace</title>
+            <link>https://www.pauljorion.com/blog/2026/06/14/elon-musk-spacex-et-la-monarchie-technologique-de-lespace/</link>
+            <description><![CDATA[Illustration par ChatGPT.
+
+Le 12 juin 2026, SpaceX est entrée en Bourse. Mais ce n’est pas seulement une introduction boursière. C’est un changement de régime.
+
+On dira bien sûr : 135 dollars l’acti...]]></description>
+            <pubDate>Sun, 14 Jun 2026 12:38:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.pauljorion.com/blog/2026/06/14/elon-musk-spacex-et-la-monarchie-technologique-de-lespace/</guid>
+            <source>Pauljorion.com</source>
+        </item>
+        <item>
+            <title>Data Analyst Bootcamp (FREE 35+ Hour Full Course) - SQL, Excel, Power BI, Python, AI &amp;amp; GitHub</title>
+            <link>https://www.youtube.com/watch?v=MOzEvNYvbik</link>
+            <description><![CDATA[Free 5-Day Data Analyst Crash Course https://lukeb.co/da-crash-course Data Analyst Course Bundle (400+ interview problems ...]]></description>
+            <pubDate>Tue, 02 Jun 2026 12:00:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=MOzEvNYvbik</guid>
+            <source>Luke Barousse</source>
         </item>
         <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
@@ -77,22 +97,6 @@
             <source>TechVantage FR</source>
         </item>
         <item>
-            <title>Data Science Full Course Free | Complete Data Science Course 2026 | Intellipaat</title>
-            <link>https://www.youtube.com/watch?v=0YBGSWNF95w</link>
-            <description><![CDATA[Enroll for Data Science Course: https://intellipaat.com/data-scientist-course-training/ Book your Free ...]]></description>
-            <pubDate>Tue, 19 May 2026 18:31:31 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=0YBGSWNF95w</guid>
-            <source>Intellipaat</source>
-        </item>
-        <item>
-            <title>Gabe Newell a écrit à Elon Musk pour organiser une visite privée de SpaceX et OpenAI pour Hideo Kojima : l'e-mail vient de fuiter grâce au procès contre Altman</title>
-            <link>https://www.gameblog.fr/trends/gabe-newell-a-ecrit-a-elon-musk-pour-organiser-une-visite-privee-de-spacex-et-openai-pour-hideo-kojima-le-mail-vient-de-fuiter-grace-au-proces-contre-altman-717739</link>
-            <description><![CDATA[Découvrez les échanges fascinants entre Kojima, Newell et Musk : des ambitions spatiales aux avancées en intelligence artificielle, ces révélations pourraient redéfinir l'avenir de la technologie.]]></description>
-            <pubDate>Sat, 13 Jun 2026 05:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.gameblog.fr/trends/gabe-newell-a-ecrit-a-elon-musk-pour-organiser-une-visite-privee-de-spacex-et-openai-pour-hideo-kojima-le-mail-vient-de-fuiter-grace-au-proces-contre-altman-717739</guid>
-            <source>Gameblog</source>
-        </item>
-        <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
             <link>https://www.youtube.com/watch?v=rhE7Ab_sBTo</link>
             <description><![CDATA[Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...]]></description>
@@ -125,32 +129,20 @@
             <source>Le Decodeur</source>
         </item>
         <item>
+            <title>Big Data Décortiqué : Apache Spark Pour Débuter</title>
+            <link>https://www.youtube.com/watch?v=FL9r4dDKiIU</link>
+            <description><![CDATA[Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...]]></description>
+            <pubDate>Sun, 19 Apr 2026 20:17:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=FL9r4dDKiIU</guid>
+            <source>Houssem Lahiani</source>
+        </item>
+        <item>
             <title>2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS</title>
             <link>https://www.youtube.com/watch?v=cnjhHZNJEDk</link>
             <description><![CDATA[Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...]]></description>
             <pubDate>Tue, 19 May 2026 12:30:29 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=cnjhHZNJEDk</guid>
             <source>Alex The Analyst</source>
-        </item>
-        <item>
-            <title>Plan d'action données algorithmes et codes sources - les projets</title>
-            <link>https://www.data.gouv.fr/datasets/plan-daction-donnees-algorithmes-et-codes-sources-les-projets</link>
-            <description><![CDATA[Cet actif a été lié à l'actif suivant : [Formulaire plan d'action - création suivi de projet - Visualization](/explore/assets/visualisation-formulaire-plan-d-action-creation-suivi-de-projet/)
-
-* * *
-
-...]]></description>
-            <pubDate>Sat, 13 Jun 2026 04:00:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/plan-daction-donnees-algorithmes-et-codes-sources-les-projets</guid>
-            <source>Gouv.fr</source>
-        </item>
-        <item>
-            <title>Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas</title>
-            <link>https://www.youtube.com/watch?v=OKS6wtA2lAA</link>
-            <description><![CDATA[Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...]]></description>
-            <pubDate>Wed, 03 Jun 2026 12:13:50 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=OKS6wtA2lAA</guid>
-            <source>OUJOOD</source>
         </item>
         <item>
             <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>
@@ -161,21 +153,28 @@
             <source>DataSet By d@ne</source>
         </item>
         <item>
-            <title>Applied Data Science With Python Full Course 2026 [Free] | Python For Data Science | Simplilearn</title>
-            <link>https://www.youtube.com/watch?v=T9ricGdHz1k</link>
-            <description><![CDATA[Data Scientist Masters Program (Discount - YTBE15) ...]]></description>
-            <pubDate>Tue, 19 May 2026 23:10:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=T9ricGdHz1k</guid>
-            <source>Simplilearn</source>
+            <title>«Les personnes qui subissent le racisme et les discriminations continuent à aimer, à lutter, à vivre»</title>
+            <link>https://www.mediapart.fr/journal/culture-et-idees/140626/les-personnes-qui-subissent-le-racisme-et-les-discriminations-continuent-aimer-lutter-vivre</link>
+            <description><![CDATA[Le Palais de la Porte-Dorée, à Paris, accueille « Aux origines », un parcours qui interroge le racisme structurel à travers l’art contemporain et l’éclairage de données scientifiques. Entretien avec F...]]></description>
+            <pubDate>Sun, 14 Jun 2026 09:07:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.mediapart.fr/journal/culture-et-idees/140626/les-personnes-qui-subissent-le-racisme-et-les-discriminations-continuent-aimer-lutter-vivre</guid>
+            <source>Mediapart</source>
         </item>
         <item>
-            <title>Samsung Galaxy S26 Ultra testé : ce filtre caché dans l’écran protège vos données dans le métro</title>
-            <link>https://www.tuxboard.com/samsung-galaxy-s26-ultra-teste-ce-filtre-cache-dans-lecran-protege-vos-donnees-dans-le-metro/</link>
-            <description><![CDATA[En 2026, les équipes terrain et les DSI cherchent un smartphone capable de tenir une journée entière sans faillir, tout...
-L’article Samsung Galaxy S26 Ultra testé : ce filtre caché dans l’écran protè...]]></description>
-            <pubDate>Fri, 12 Jun 2026 18:50:28 -0000</pubDate>
-            <guid isPermaLink="true">https://www.tuxboard.com/samsung-galaxy-s26-ultra-teste-ce-filtre-cache-dans-lecran-protege-vos-donnees-dans-le-metro/</guid>
-            <source>Tuxboard.com</source>
+            <title>Le Webb a trouvé la preuve la plus solide d'une étoile trou noir</title>
+            <link>https://www.generation-nt.com/actualites/telescope-webb-etoile-trou-noir-glimpse-17775-2076913</link>
+            <description><![CDATA[Le télescope spatial James Webb a fourni l'analyse la plus détaillée à ce jour d'un petit point rouge. Les données spectrales soutiennent fortement le modèle de l'étoile trou noir.]]></description>
+            <pubDate>Sun, 14 Jun 2026 08:10:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/telescope-webb-etoile-trou-noir-glimpse-17775-2076913</guid>
+            <source>Génération NT</source>
+        </item>
+        <item>
+            <title>Les États-Unis scrutent de près les pratiques d’OpenAI</title>
+            <link>https://www.begeek.fr/les-etats-unis-scrutent-de-pres-les-pratiques-dopenai-433683</link>
+            <description><![CDATA[OpenAI fait face à une enquête menée par plusieurs procureurs généraux d’États américains. Données, mineurs, santé, pub, tout est sur la table.]]></description>
+            <pubDate>Sun, 14 Jun 2026 14:00:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.begeek.fr/les-etats-unis-scrutent-de-pres-les-pratiques-dopenai-433683</guid>
+            <source>Begeek.fr</source>
         </item>
     </channel>
 </rss>
