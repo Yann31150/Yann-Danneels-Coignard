@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-15T14:27:24.923266",
+  "lastUpdate": "2026-06-16T12:57:26.321385",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -14,40 +14,40 @@
       "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
     },
     {
-      "title": "ChatGPT, Claude, Gemini : Top 10 des meilleures applis d&#39;IA gratuites en 2026",
-      "description": "ChatGPT, Claude, Gemini : laquelle est vraiment la meilleure IA sur iPhone et Android ? Chaque modèle a sa spécialité et dans ...",
-      "url": "https://www.youtube.com/watch?v=2C1rvFFditA",
-      "source": "Jeanviet",
-      "publishedAt": "2026-05-18T16:00:02Z",
+      "title": "SpaceX vend l’avenir au marché pour le faire advenir, la Chine assigne l’avenir au plan pour le rendre inévitable",
+      "description": "Illustration par chatGPT \r\n\nSpaceX vient de démontrer quelque chose que la Chine ne peut pas reproduire sous la même forme : la capacité des marchés de capitaux américains à transformer une croyance c...",
+      "url": "https://www.pauljorion.com/blog/2026/06/15/spacex-vend-lavenir-au-marche-pour-le-faire-advenir-la-chine-assigne-lavenir-au-plan-pour-le-rendre-inevitable/",
+      "source": "Pauljorion.com",
+      "publishedAt": "2026-06-15T11:36:31Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "J&#39;ai étudié les LLM pendant 6 mois (et j&#39;ai enfin compris comment ChatGPT fonctionne)",
+      "description": "Vous avez essayé de comprendre comment fonctionnent les LLM. Soit on vous dit \"ça prédit le mot suivant, comme le clavier de ...",
+      "url": "https://www.youtube.com/watch?v=MjCJIJ4PuSw",
+      "source": "Eliott Meunier",
+      "publishedAt": "2026-05-27T09:30:28Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "2C1rvFFditA",
-      "thumbnail": "https://i.ytimg.com/vi/2C1rvFFditA/hqdefault.jpg"
+      "videoId": "MjCJIJ4PuSw",
+      "thumbnail": "https://i.ytimg.com/vi/MjCJIJ4PuSw/hqdefault.jpg"
     },
     {
-      "title": "Character.AI : le guide complet pour créer et parler à des personnages IA en 2026",
-      "description": "Pendant que ChatGPT ou Claude se concentrent sur la génération de texte, l’aide au travail et à la productivité, Character.AI suit une autre voie : celle de la conversation fictionnelle. La plateforme...",
-      "url": "https://www.aruco.com/intelligence-artificielle/character-ai-guide-complet-personnages-ia/",
-      "source": "Aruco.com",
-      "publishedAt": "2026-06-14T14:23:05Z",
+      "title": "Gemma 4 : L&#39;IA de Google Gratuite, Illimitée, Locale &amp; SANS Internet !",
+      "description": "Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...",
+      "url": "https://www.youtube.com/watch?v=9onqtz5EwHE",
+      "source": "Alpa14",
+      "publishedAt": "2026-04-21T14:02:45Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "D'où viennent les «hallucinations» des chatbots d'IA générative?",
-      "description": "Peut-être l'avez-vous remarqué en utilisant ChatGPT ou Claude: les intelligences artificielles génératives de texte inventent régulièrement des éléments de réponse. C'est en se penchant sur la manière...",
-      "url": "https://www.slate.fr/tech-internet/explication-hallucinations-chatbots-ia-generatives-intelligence-artificielle-fonctionnement-langage-ecriture-images-textes-mots-donnees-valeur-chatgpt",
-      "source": "Slate.fr",
-      "publishedAt": "2026-06-13T15:00:01Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "9onqtz5EwHE",
+      "thumbnail": "https://i.ytimg.com/vi/9onqtz5EwHE/hqdefault.jpg"
     },
     {
       "title": "Elon Musk, SpaceX et la monarchie technologique de l’espace",
@@ -60,18 +60,6 @@
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
-    },
-    {
-      "title": "Data Analyst Bootcamp (FREE 35+ Hour Full Course) - SQL, Excel, Power BI, Python, AI &amp; GitHub",
-      "description": "Free 5-Day Data Analyst Crash Course https://lukeb.co/da-crash-course Data Analyst Course Bundle (400+ interview problems ...",
-      "url": "https://www.youtube.com/watch?v=MOzEvNYvbik",
-      "source": "Luke Barousse",
-      "publishedAt": "2026-06-02T12:00:29Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "MOzEvNYvbik",
-      "thumbnail": "https://i.ytimg.com/vi/MOzEvNYvbik/hqdefault.jpg"
     },
     {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
@@ -122,6 +110,18 @@
       "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
     },
     {
+      "title": "Faites-vous confiance à l'IA pour faire vos achats ?",
+      "description": "L'intelligence artificielle transforme progressivement notre manière de rechercher, comparer et choisir des produits en ligne. Après avoir conseillé, elle pourrait bientôt agir à notre place.",
+      "url": "https://www.journaldunet.com/retail/1551379-faites-vous-confiance-a-l-ia-pour-faire-vos-achats/",
+      "source": "JDN",
+      "publishedAt": "2026-06-15T12:34:38Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
       "description": "Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...",
       "url": "https://www.youtube.com/watch?v=rhE7Ab_sBTo",
@@ -170,6 +170,18 @@
       "thumbnail": "https://i.ytimg.com/vi/-9NppUySsk0/hqdefault.jpg"
     },
     {
+      "title": "Power BI : Les bases en 60 min [édition 2026]",
+      "description": "Apprends les bases indispensables de Power BI et réalise ton premier tableau de bord en moins d'une heure ! Au travers d'un ...",
+      "url": "https://www.youtube.com/watch?v=OhT0MEFKylY",
+      "source": "Alexandre STEVENS",
+      "publishedAt": "2026-05-26T15:00:25Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "OhT0MEFKylY",
+      "thumbnail": "https://i.ytimg.com/vi/OhT0MEFKylY/hqdefault.jpg"
+    },
+    {
       "title": "Big Data Décortiqué : Apache Spark Pour Débuter",
       "description": "Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...",
       "url": "https://www.youtube.com/watch?v=FL9r4dDKiIU",
@@ -194,6 +206,18 @@
       "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
     },
     {
+      "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
+      "description": "Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...",
+      "url": "https://www.youtube.com/watch?v=OKS6wtA2lAA",
+      "source": "OUJOOD",
+      "publishedAt": "2026-06-03T12:13:50Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "OKS6wtA2lAA",
+      "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
+    },
+    {
       "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
       "description": "Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...",
       "url": "https://www.youtube.com/watch?v=9t1mXWkqj0g",
@@ -206,11 +230,11 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "«Les personnes qui subissent le racisme et les discriminations continuent à aimer, à lutter, à vivre»",
-      "description": "Le Palais de la Porte-Dorée, à Paris, accueille « Aux origines », un parcours qui interroge le racisme structurel à travers l’art contemporain et l’éclairage de données scientifiques. Entretien avec F...",
-      "url": "https://www.mediapart.fr/journal/culture-et-idees/140626/les-personnes-qui-subissent-le-racisme-et-les-discriminations-continuent-aimer-lutter-vivre",
-      "source": "Mediapart",
-      "publishedAt": "2026-06-14T09:07:45Z",
+      "title": "PROPHESEE lève 20 millions d’euros : derrière Mantara, l’émergence d’un marché européen de plusieurs milliards",
+      "description": "Lorsque Prophesee a été créée en 2014, l’ambition était de faire émerger une nouvelle génération de capteurs inspirés du fonctionnement de l’œil humain. Les débouchés visés se trouvaient alors dans l’...",
+      "url": "https://www.frenchweb.fr/prophesee-leve-20-millions-deuros-derriere-mantara-lemergence-dun-marche-europeen-de-plusieurs-milliards/462342",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-06-15T11:41:22Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,83 +242,59 @@
       "thumbnail": ""
     },
     {
-      "title": "Le Webb a trouvé la preuve la plus solide d'une étoile trou noir",
-      "description": "Le télescope spatial James Webb a fourni l'analyse la plus détaillée à ce jour d'un petit point rouge. Les données spectrales soutiennent fortement le modèle de l'étoile trou noir.",
-      "url": "https://www.generation-nt.com/actualites/telescope-webb-etoile-trou-noir-glimpse-17775-2076913",
+      "title": "Pourquoi l'IA ne passe pas à l'échelle dans l'assurance et pourquoi le problème n'est pas technologique",
+      "description": "L'intelligence artificielle n'échoue pas à passer à l'échelle pour des raisons technologiques. Elle échoue parce que les organisations ne changent pas assez vite.",
+      "url": "https://www.journaldunet.com/retail/1551305-pourquoi-l-ia-ne-passe-pas-a-l-echelle-dans-l-assurance-et-pourquoi-le-probleme-n-est-pas-technologique/",
+      "source": "JDN",
+      "publishedAt": "2026-06-15T12:36:20Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "C’est quoi Le Chaton Fat, le « modèle » de Mistral AI qui affole les réseaux sociaux ?",
+      "description": "Sur X (anciennement Twitter), « Le Chaton Fat » est un des sujets les plus discutés du week-end, en France et à l'international. Ce prétendu nouveau modèle surpuissant de Mistral AI, meilleur que Clau...",
+      "url": "https://www.numerama.com/tech/2276253-cest-quoi-le-chaton-fat-le-modele-de-mistral-ai-qui-affole-les-reseaux-sociaux.html",
+      "source": "Numerama",
+      "publishedAt": "2026-06-15T12:48:10Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Salaires 2026 : ce que gagnent les professionnels de l’informatique et du marketing",
+      "description": "LHH publie la 2e édition de son guide salarial. Profils hybrides, maîtrise de l'IA générative, postes en tension... Les hausses salariales 2026 ne seront pas uniformes. On fait le point !",
+      "url": "https://www.blogdumoderateur.com/salaires-2026-informatique-marketing/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-06-15T06:00:37Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "ZDNET Morning 15/06/2026 : Le blocage d'Anthropic, iOS 27 et les innovations secrètes, Graviton5 arrive pour l'IA agentique,...",
+      "description": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
+      "url": "https://www.zdnet.fr/actualites/zdnet-morning-15-06-2026-le-blocage-danthropic-ios-27-et-les-innovations-secretes-graviton5-arrive-pour-lia-agentique-496900.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-06-15T09:22:53Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "HarmonyOS 7 de Huawei : le clone d'iOS 27 sous stéroïdes IA",
+      "description": "Face à un Apple qui infuse son écosystème d'IA, la firme chinoise Huawei riposte avec HarmonyOS 7, une mise à jour de son système d'exploitation qui mise tout sur une intelligence logicielle profonde ...",
+      "url": "https://www.generation-nt.com/actualites/huawei-harmonyos-7-systeme-exploitation-glass-design-intelligence-artificielle-2077095",
       "source": "Génération NT",
-      "publishedAt": "2026-06-14T08:10:01Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Les États-Unis scrutent de près les pratiques d’OpenAI",
-      "description": "OpenAI fait face à une enquête menée par plusieurs procureurs généraux d’États américains. Données, mineurs, santé, pub, tout est sur la table.",
-      "url": "https://www.begeek.fr/les-etats-unis-scrutent-de-pres-les-pratiques-dopenai-433683",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-06-14T14:00:40Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Coup de théâtre dans l’IA : les Etats-Unis restreignent Anthropic et ouvrent une nouvelle ère",
-      "description": "La suspension mondiale de certains modèles avancés d'Anthropic par les États-Unis marque peut-être un tournant dans la course mondiale à l'intelligence artificielle. Derrière l'argument de la sécurité...",
-      "url": "https://atlantico.fr/article/decryptage/coup-de-theatre-dans-lia-les-etats-unis-restreignent-anthropic-et-ouvrent-une-nouvelle-ere",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-06-14T08:31:11Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Actualité : Je déteste l'IA ! : ma méthode pour désactiver Copilot, Gemini et Apple Intelligence de vos applications",
-      "description": "Copilot, Apple Intelligence, Gemini… Les outils dopés à l'intelligence artificielle se sont incrustés dans nos applications du quotidien, souvent pour le pire. Voici notre guide pratique pour faire ma...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/je-deteste-l-ia-ma-methode-pour-desactiver-copilot-gemini-et-apple-intelligence-de-vos-applications-n237007.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-06-13T12:05:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Restriction de l'IA : un problème de souveraineté",
-      "description": "Faut-il une souveraineté autour de l'Intelligence artificielle dans l'Hexagone ? Le débat est lancé alors qu'Anthropic, l'entreprise à l'origine de la plateforme Claude, a suspendu le 12 juin 2026 deu...",
-      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/restriction-de-l-ia-un-probleme-de-souverainete_8059808.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-06-14T06:38:20Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Vol d’électricité, fraudes, dégradations : une IA veut protéger les bornes de recharge électriques",
-      "description": "Les bornes de recharge électriques se dotent d’un véritable agent de sécurité numérique. Des chercheurs ont en effet mis au point un agent d’intelligence artificielle chargé de détecter les fraudes...",
-      "url": "https://www.phonandroid.com/vol-delectricite-fraudes-degradations-une-ia-veut-proteger-les-bornes-de-recharge-electriques.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-06-14T13:50:03Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Exploit sur la Lune : l’analyse du petit robot sphérique japonais va transformer les futures missions spatiales",
-      "description": "En janvier 2024, la sonde japonaise SLIM réussissait un alunissage complexe, mais se retrouvait à l'envers. Heureusement, un minuscule engin sphérique autonome a surmonté cet incident. Une étude récen...",
-      "url": "https://dailygeekshow.com/?p=1010797",
-      "source": "Daily Geek Show",
-      "publishedAt": "2026-06-13T19:01:00Z",
+      "publishedAt": "2026-06-15T12:20:02Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

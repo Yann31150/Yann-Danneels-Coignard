@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 15 Jun 2026 14:27:24 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 12:57:26 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,28 +21,30 @@
             <source>Nicolasit</source>
         </item>
         <item>
-            <title>ChatGPT, Claude, Gemini : Top 10 des meilleures applis d&amp;#39;IA gratuites en 2026</title>
-            <link>https://www.youtube.com/watch?v=2C1rvFFditA</link>
-            <description><![CDATA[ChatGPT, Claude, Gemini : laquelle est vraiment la meilleure IA sur iPhone et Android ? Chaque modèle a sa spécialité et dans ...]]></description>
-            <pubDate>Mon, 18 May 2026 16:00:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2C1rvFFditA</guid>
-            <source>Jeanviet</source>
+            <title>SpaceX vend l’avenir au marché pour le faire advenir, la Chine assigne l’avenir au plan pour le rendre inévitable</title>
+            <link>https://www.pauljorion.com/blog/2026/06/15/spacex-vend-lavenir-au-marche-pour-le-faire-advenir-la-chine-assigne-lavenir-au-plan-pour-le-rendre-inevitable/</link>
+            <description><![CDATA[Illustration par chatGPT 
+
+SpaceX vient de démontrer quelque chose que la Chine ne peut pas reproduire sous la même forme : la capacité des marchés de capitaux américains à transformer une croyance c...]]></description>
+            <pubDate>Mon, 15 Jun 2026 11:36:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.pauljorion.com/blog/2026/06/15/spacex-vend-lavenir-au-marche-pour-le-faire-advenir-la-chine-assigne-lavenir-au-plan-pour-le-rendre-inevitable/</guid>
+            <source>Pauljorion.com</source>
         </item>
         <item>
-            <title>Character.AI : le guide complet pour créer et parler à des personnages IA en 2026</title>
-            <link>https://www.aruco.com/intelligence-artificielle/character-ai-guide-complet-personnages-ia/</link>
-            <description><![CDATA[Pendant que ChatGPT ou Claude se concentrent sur la génération de texte, l’aide au travail et à la productivité, Character.AI suit une autre voie : celle de la conversation fictionnelle. La plateforme...]]></description>
-            <pubDate>Sun, 14 Jun 2026 14:23:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.aruco.com/intelligence-artificielle/character-ai-guide-complet-personnages-ia/</guid>
-            <source>Aruco.com</source>
+            <title>J&amp;#39;ai étudié les LLM pendant 6 mois (et j&amp;#39;ai enfin compris comment ChatGPT fonctionne)</title>
+            <link>https://www.youtube.com/watch?v=MjCJIJ4PuSw</link>
+            <description><![CDATA[Vous avez essayé de comprendre comment fonctionnent les LLM. Soit on vous dit "ça prédit le mot suivant, comme le clavier de ...]]></description>
+            <pubDate>Wed, 27 May 2026 09:30:28 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=MjCJIJ4PuSw</guid>
+            <source>Eliott Meunier</source>
         </item>
         <item>
-            <title>D'où viennent les «hallucinations» des chatbots d'IA générative?</title>
-            <link>https://www.slate.fr/tech-internet/explication-hallucinations-chatbots-ia-generatives-intelligence-artificielle-fonctionnement-langage-ecriture-images-textes-mots-donnees-valeur-chatgpt</link>
-            <description><![CDATA[Peut-être l'avez-vous remarqué en utilisant ChatGPT ou Claude: les intelligences artificielles génératives de texte inventent régulièrement des éléments de réponse. C'est en se penchant sur la manière...]]></description>
-            <pubDate>Sat, 13 Jun 2026 15:00:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.slate.fr/tech-internet/explication-hallucinations-chatbots-ia-generatives-intelligence-artificielle-fonctionnement-langage-ecriture-images-textes-mots-donnees-valeur-chatgpt</guid>
-            <source>Slate.fr</source>
+            <title>Gemma 4 : L&amp;#39;IA de Google Gratuite, Illimitée, Locale &amp;amp; SANS Internet !</title>
+            <link>https://www.youtube.com/watch?v=9onqtz5EwHE</link>
+            <description><![CDATA[Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...]]></description>
+            <pubDate>Tue, 21 Apr 2026 14:02:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=9onqtz5EwHE</guid>
+            <source>Alpa14</source>
         </item>
         <item>
             <title>Elon Musk, SpaceX et la monarchie technologique de l’espace</title>
@@ -55,14 +57,6 @@ On dira bien sûr : 135 dollars l’acti...]]></description>
             <pubDate>Sun, 14 Jun 2026 12:38:13 -0000</pubDate>
             <guid isPermaLink="true">https://www.pauljorion.com/blog/2026/06/14/elon-musk-spacex-et-la-monarchie-technologique-de-lespace/</guid>
             <source>Pauljorion.com</source>
-        </item>
-        <item>
-            <title>Data Analyst Bootcamp (FREE 35+ Hour Full Course) - SQL, Excel, Power BI, Python, AI &amp;amp; GitHub</title>
-            <link>https://www.youtube.com/watch?v=MOzEvNYvbik</link>
-            <description><![CDATA[Free 5-Day Data Analyst Crash Course https://lukeb.co/da-crash-course Data Analyst Course Bundle (400+ interview problems ...]]></description>
-            <pubDate>Tue, 02 Jun 2026 12:00:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=MOzEvNYvbik</guid>
-            <source>Luke Barousse</source>
         </item>
         <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
@@ -97,6 +91,14 @@ On dira bien sûr : 135 dollars l’acti...]]></description>
             <source>TechVantage FR</source>
         </item>
         <item>
+            <title>Faites-vous confiance à l'IA pour faire vos achats ?</title>
+            <link>https://www.journaldunet.com/retail/1551379-faites-vous-confiance-a-l-ia-pour-faire-vos-achats/</link>
+            <description><![CDATA[L'intelligence artificielle transforme progressivement notre manière de rechercher, comparer et choisir des produits en ligne. Après avoir conseillé, elle pourrait bientôt agir à notre place.]]></description>
+            <pubDate>Mon, 15 Jun 2026 12:34:38 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/retail/1551379-faites-vous-confiance-a-l-ia-pour-faire-vos-achats/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
             <link>https://www.youtube.com/watch?v=rhE7Ab_sBTo</link>
             <description><![CDATA[Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...]]></description>
@@ -129,6 +131,14 @@ On dira bien sûr : 135 dollars l’acti...]]></description>
             <source>Le Decodeur</source>
         </item>
         <item>
+            <title>Power BI : Les bases en 60 min [édition 2026]</title>
+            <link>https://www.youtube.com/watch?v=OhT0MEFKylY</link>
+            <description><![CDATA[Apprends les bases indispensables de Power BI et réalise ton premier tableau de bord en moins d'une heure ! Au travers d'un ...]]></description>
+            <pubDate>Tue, 26 May 2026 15:00:25 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=OhT0MEFKylY</guid>
+            <source>Alexandre STEVENS</source>
+        </item>
+        <item>
             <title>Big Data Décortiqué : Apache Spark Pour Débuter</title>
             <link>https://www.youtube.com/watch?v=FL9r4dDKiIU</link>
             <description><![CDATA[Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...]]></description>
@@ -145,6 +155,14 @@ On dira bien sûr : 135 dollars l’acti...]]></description>
             <source>Alex The Analyst</source>
         </item>
         <item>
+            <title>Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas</title>
+            <link>https://www.youtube.com/watch?v=OKS6wtA2lAA</link>
+            <description><![CDATA[Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...]]></description>
+            <pubDate>Wed, 03 Jun 2026 12:13:50 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=OKS6wtA2lAA</guid>
+            <source>OUJOOD</source>
+        </item>
+        <item>
             <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>
             <link>https://www.youtube.com/watch?v=9t1mXWkqj0g</link>
             <description><![CDATA[Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...]]></description>
@@ -153,28 +171,12 @@ On dira bien sûr : 135 dollars l’acti...]]></description>
             <source>DataSet By d@ne</source>
         </item>
         <item>
-            <title>«Les personnes qui subissent le racisme et les discriminations continuent à aimer, à lutter, à vivre»</title>
-            <link>https://www.mediapart.fr/journal/culture-et-idees/140626/les-personnes-qui-subissent-le-racisme-et-les-discriminations-continuent-aimer-lutter-vivre</link>
-            <description><![CDATA[Le Palais de la Porte-Dorée, à Paris, accueille « Aux origines », un parcours qui interroge le racisme structurel à travers l’art contemporain et l’éclairage de données scientifiques. Entretien avec F...]]></description>
-            <pubDate>Sun, 14 Jun 2026 09:07:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.mediapart.fr/journal/culture-et-idees/140626/les-personnes-qui-subissent-le-racisme-et-les-discriminations-continuent-aimer-lutter-vivre</guid>
-            <source>Mediapart</source>
-        </item>
-        <item>
-            <title>Le Webb a trouvé la preuve la plus solide d'une étoile trou noir</title>
-            <link>https://www.generation-nt.com/actualites/telescope-webb-etoile-trou-noir-glimpse-17775-2076913</link>
-            <description><![CDATA[Le télescope spatial James Webb a fourni l'analyse la plus détaillée à ce jour d'un petit point rouge. Les données spectrales soutiennent fortement le modèle de l'étoile trou noir.]]></description>
-            <pubDate>Sun, 14 Jun 2026 08:10:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/telescope-webb-etoile-trou-noir-glimpse-17775-2076913</guid>
-            <source>Génération NT</source>
-        </item>
-        <item>
-            <title>Les États-Unis scrutent de près les pratiques d’OpenAI</title>
-            <link>https://www.begeek.fr/les-etats-unis-scrutent-de-pres-les-pratiques-dopenai-433683</link>
-            <description><![CDATA[OpenAI fait face à une enquête menée par plusieurs procureurs généraux d’États américains. Données, mineurs, santé, pub, tout est sur la table.]]></description>
-            <pubDate>Sun, 14 Jun 2026 14:00:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.begeek.fr/les-etats-unis-scrutent-de-pres-les-pratiques-dopenai-433683</guid>
-            <source>Begeek.fr</source>
+            <title>PROPHESEE lève 20 millions d’euros : derrière Mantara, l’émergence d’un marché européen de plusieurs milliards</title>
+            <link>https://www.frenchweb.fr/prophesee-leve-20-millions-deuros-derriere-mantara-lemergence-dun-marche-europeen-de-plusieurs-milliards/462342</link>
+            <description><![CDATA[Lorsque Prophesee a été créée en 2014, l’ambition était de faire émerger une nouvelle génération de capteurs inspirés du fonctionnement de l’œil humain. Les débouchés visés se trouvaient alors dans l’...]]></description>
+            <pubDate>Mon, 15 Jun 2026 11:41:22 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frenchweb.fr/prophesee-leve-20-millions-deuros-derriere-mantara-lemergence-dun-marche-europeen-de-plusieurs-milliards/462342</guid>
+            <source>Frenchweb.fr</source>
         </item>
     </channel>
 </rss>
