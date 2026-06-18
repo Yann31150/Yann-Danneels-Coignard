@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-17T12:20:00.114168",
+  "lastUpdate": "2026-06-18T11:53:07.910492",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -14,11 +14,23 @@
       "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
     },
     {
-      "title": "SEO et GEO : comment l’IA redéfinit les règles de l’acquisition en 2026",
-      "description": "Aujourd’hui, 37% des consommateurs commencent désormais leurs recherches via un LLM plutôt que Google. Chez la Gen Z, le basculement est encore plus marqué puisque 28% démarrent leurs recherches direc...",
-      "url": "https://www.frenchweb.fr/seo-et-geo-comment-lia-redefinit-les-regles-de-lacquisition-en-2026/462388",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-06-16T11:21:47Z",
+      "title": "Gemma 4 : L&#39;IA de Google Gratuite, Illimitée, Locale &amp; SANS Internet !",
+      "description": "Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...",
+      "url": "https://www.youtube.com/watch?v=9onqtz5EwHE",
+      "source": "Alpa14",
+      "publishedAt": "2026-04-21T14:02:45Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "9onqtz5EwHE",
+      "thumbnail": "https://i.ytimg.com/vi/9onqtz5EwHE/hqdefault.jpg"
+    },
+    {
+      "title": "Choose Vendôme : l’IA au service de la Justice",
+      "description": "Renforcer l’usage de l’intelligence artificielle dans la Justice en travaillant avec les entreprises de l’intelligence artificielle françaises : c’était l’ambition de l’événement « Choose Vendôme », o...",
+      "url": "https://www.justice.gouv.fr/actualites/actualite/choose-vendome-lia-au-service-justice",
+      "source": "Gouv.fr",
+      "publishedAt": "2026-06-17T08:59:39Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -26,16 +38,16 @@
       "thumbnail": ""
     },
     {
-      "title": "ChatGPT, Claude, Gemini : Top 10 des meilleures applis d&#39;IA gratuites en 2026",
-      "description": "ChatGPT, Claude, Gemini : laquelle est vraiment la meilleure IA sur iPhone et Android ? Chaque modèle a sa spécialité et dans ...",
-      "url": "https://www.youtube.com/watch?v=2C1rvFFditA",
-      "source": "Jeanviet",
-      "publishedAt": "2026-05-18T16:00:02Z",
+      "title": "Intelligence artificielle : \"Les IA génératives sont limitées finalement à vivre dans nos écrans\", pointe Laurence Devillers, professeure en IA à Sorbonne Université",
+      "description": "L'intelligence artificielle devrait être au cœur des discussions d'une réunion au G7 ce mercredi 17 juin, avec une session de travail consacrée à la sécurisation de l'IA, en présence notamment des pat...",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/intelligence-artificielle-les-ia-generatives-sont-limitees-finalement-a-vivre-dans-nos-ecrans-pointe-laurence-devillers-professeure-en-ia-a-sorbonne-universite_8065529.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-06-17T08:38:11Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "2C1rvFFditA",
-      "thumbnail": "https://i.ytimg.com/vi/2C1rvFFditA/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
@@ -62,18 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/SvIZcjQgFiQ/hqdefault.jpg"
     },
     {
-      "title": "Quel pays a le plus de chances de gagner la Coupe du monde 2026? Des statisticiens ont la réponse",
-      "description": "Grâce à un algorithme d'apprentissage automatique combinant les cotes des bookmakers, les performances des joueurs et les données de milliers de matchs, des chercheurs ont simulé 100.000 fois la compé...",
-      "url": "https://www.slate.fr/sports/pays-vainqueur-chances-gagner-coupe-du-monde-2026-football-reponse-statistiques-predictions-probabilites-previsions-algorithme",
-      "source": "Slate.fr",
-      "publishedAt": "2026-06-15T17:55:03Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
       "description": "Tu veux apprendre le SQL pour travailler dans la data ? ModAi Lab est la plateforme d'apprentissage SQL gamifiée et assistée ...",
       "url": "https://www.youtube.com/watch?v=bvm-n-HN8ws",
@@ -84,6 +84,18 @@
       "isYouTube": true,
       "videoId": "bvm-n-HN8ws",
       "thumbnail": "https://i.ytimg.com/vi/bvm-n-HN8ws/hqdefault.jpg"
+    },
+    {
+      "title": "Bull et Foxconn renforcent l’infrastructure européenne d’IA en fabriquant en Europe la plateforme NVIDIA Vera Rubin NVL72",
+      "description": "Paris, France – 17 juin 2026 – Dans le cadre de leur collaboration, Bull, leader du calcul avancé et de l’intelligence artificielle, et Hon Hai Technology Group (Foxconn), leader mondial de la fabrica...",
+      "url": "https://www.globenewswire.com/news-release/2026/06/17/3313162/0/fr/Bull-et-Foxconn-renforcent-l-infrastructure-europ%C3%A9enne-d-IA-en-fabriquant-en-Europe-la-plateforme-NVIDIA-Vera-Rubin-NVL72.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-17T04:00:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Comment supprimer la pop-up &quot;Entrez votre adresse e-mail&quot; dans Power BI Desktop (Solution 2026)",
@@ -98,28 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
     },
     {
-      "title": "L’IA consommera bientôt autant d’eau que 1,3 milliard de personnes",
-      "description": "Un rapport de l'ONU publié début juin chiffre pour la première fois l'empreinte hydrique de l'intelligence artificielle.",
-      "url": "https://www.journaldugeek.com/2026/06/16/lia-consommera-bientot-autant-deau-que-13-milliard-de-personnes/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-06-16T11:39:05Z",
+      "title": "# 14 - Synchroniser votre base de données avec les migrations",
+      "description": "Dans cette leçon, nous allons apprendre à faire le pont entre votre code PHP et votre base de données. Vous avez créé vos ...",
+      "url": "https://www.youtube.com/watch?v=IXFP0bdMO3Y",
+      "source": "Nicely Dev - Apprendre à coder",
+      "publishedAt": "2026-04-20T10:49:56Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sam Altman en 2015 : « L’IA mènera probablement à la fin du monde, mais il y aura de belles entreprises entre-temps »",
-      "description": "Une citation ressurgit régulièrement dans les débats sur l’intelligence artificielle et la responsabilité de ses architectes. Elle est signée Sam Altman, et date de juin 2015 — soit quelques mois avan...",
-      "url": "https://www.fredzone.org/sam-altman-en-2015-lia-menera-probablement-a-la-fin-du-monde-mais-il-y-aura-de-belles-entreprises-entre-temps/",
-      "source": "FREDZONE",
-      "publishedAt": "2026-06-16T11:41:13Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "IXFP0bdMO3Y",
+      "thumbnail": "https://i.ytimg.com/vi/IXFP0bdMO3Y/hqdefault.jpg"
     },
     {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
@@ -206,11 +206,23 @@
       "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
     },
     {
-      "title": "Rockwell Automation et le Center for Automotive Research publient un nouveau Livre Blanc sur la prochaine étape de la fabrication intelligente dans l'industrie automobile",
-      "description": "Le Livre Blanc met en évidence les domaines où l'IA et l'automatisation apportent des gains mesurables en termes de disponibilité, de qualité et de performance de la production dans l'ensemble de l'in...",
-      "url": "https://www.prnewswire.com/news-releases/rockwell-automation-et-le-center-for-automotive-research-publient-un-nouveau-livre-blanc-sur-la-prochaine-etape-de-la-fabrication-intelligente-dans-lindustrie-automobile-302801096.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-06-16T11:00:00Z",
+      "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
+      "description": "Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...",
+      "url": "https://www.youtube.com/watch?v=OKS6wtA2lAA",
+      "source": "OUJOOD",
+      "publishedAt": "2026-06-03T12:13:50Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "OKS6wtA2lAA",
+      "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
+    },
+    {
+      "title": "Bitget lance son programme Community Product Officer offrant jusqu’à plus de 3 000 USDT de récompenses",
+      "description": "VICTORIA, Seychelles, 17 juin 2026 (GLOBE NEWSWIRE) -- Bitget\r\n, la plus grande bourse universelle (UEX) au monde, a lancé le programme Bitget Community Product Officer\r\n, un nouveau projet visant à f...",
+      "url": "https://www.globenewswire.com/news-release/2026/06/17/3313259/0/fr/Bitget-lance-son-programme-Community-Product-Officer-offrant-jusqu-%C3%A0-plus-de-3-000-USDT-de-r%C3%A9compenses.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-17T10:21:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,16 +242,16 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "Allora Labs et Pairpoint by Vodafone développeront une couche d'intelligence prédictive dédiée à l'économie des objets",
-      "description": "NEW YORK, 15 juin 2026 /PRNewswire/ -- À l'heure où l'IA passe rapidement des tableaux de bord aux systèmes décisionnels, un nouveau partenariat entre Allora Network et Pairpoint by Vodafone donne un ...",
-      "url": "https://www.prnewswire.com/news-releases/allora-labs-et-pairpoint-by-vodafone-developperont-une-couche-dintelligence-predictive-dediee-a-leconomie-des-objets-302799715.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-06-15T15:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "title": "Computer Vision — De la Théorie au Code en 1H",
+      "description": "Dans cette vidéo, on vulgarise la computer vision en deux temps : d'abord un état de l'art des tâches principales et des grandes ...",
+      "url": "https://www.youtube.com/watch?v=MYhsbnBdUEQ",
+      "source": "obarrene",
+      "publishedAt": "2026-06-05T14:32:05Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "MYhsbnBdUEQ",
+      "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
       "title": "Intelligence artificielle : cinq questions sur le blocage des dernières IA d'Anthropic par le gouvernement de Donald Trump",
@@ -254,47 +266,35 @@
       "thumbnail": ""
     },
     {
-      "title": "L'État déploie son IA souveraine L'Assistant à un million d'agents de la fonction publique",
-      "description": "L'administration française passe à la vitesse supérieure en armant ses fonctionnaires d'une intelligence artificielle maison, L'Assistant, qui s'appuie sur le savoir-faire de Mistral AI.",
-      "url": "https://www.generation-nt.com/actualites/assistant-intelligence-artificielle-souveraine-mistral-agent-fonction-publique-2077156",
+      "title": "VivaTech 2026 : Bezos, Arnault et l'IA en vedettes",
+      "description": "Le plus grand salon européen consacré aux start-up a ouvert ses portes à Paris mercredi 17 juin. Souveraineté numérique, luxe et conquête spatiale structurent une édition dominée par l'intelligence ar...",
+      "url": "https://www.journaldunet.com/business/1551563-vivatech-2026-bezos-arnault-et-l-ia-en-vedettes-d-une-edition-anniversaire/",
+      "source": "JDN",
+      "publishedAt": "2026-06-17T11:25:24Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "ISC High Performance 2026 : ExpressVPN protège les accès distants quand calcul, IA et recherche passent par le cloud",
+      "description": "L’intelligence artificielle, le calcul haute performance et la recherche scientifique reposent de plus en plus sur des infrastructures cloud accessibles à distance. Cette évolution facilite le travail...",
+      "url": "https://www.futura-sciences.com/conso/bons-plans/guides-vpn-isc-high-performance-2026-expressvpn-protege-acces-distants-calcul-ia-recherche-passent-cloud-10311/",
+      "source": "Futura",
+      "publishedAt": "2026-06-17T11:01:56Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Les AirPods d'Apple avec caméras seraient pour 2027",
+      "description": "Pour transformer ses écouteurs en capteurs IA et donner à Siri un contexte visuel, Apple travaille sur des AirPods avec caméras. Ils seraient désormais prévus pour fin 2027.",
+      "url": "https://www.generation-nt.com/actualites/apple-airpods-camera-2027-ia-2077237",
       "source": "Génération NT",
-      "publishedAt": "2026-06-16T09:10:01Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Google Messages détectera les images IA dans vos conversations",
-      "description": "Google Messages travaille sur une fonctionnalité permettant de détecter si une image présente dans une conversation a été générée ou modifiée par intelligence artificielle.",
-      "url": "https://www.frandroid.com/marques/google/3142651_google-messages-detectera-les-images-ia-dans-vos-conversations",
-      "source": "Frandroid",
-      "publishedAt": "2026-06-16T11:24:07Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "La recherche sur Facebook a aussi droit à son AI Mode",
-      "description": "Meta annonce le déploiement d'un AI Mode sur Facebook. Une nouvelle fonctionnalité de recherche s'appuyant sur le modèle Muse Spark. Elle s'accompagne d'outils IA pour la retouche photo et vidéo.",
-      "url": "https://www.generation-nt.com/actualites/meta-facebook-ai-mode-recherche-muse-spark-2077142",
-      "source": "Génération NT",
-      "publishedAt": "2026-06-16T11:40:01Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Salaires 2026 : ce que gagnent les professionnels de l’informatique et du marketing",
-      "description": "LHH publie la 2e édition de son guide salarial. Profils hybrides, maîtrise de l'IA générative, postes en tension... Les hausses salariales 2026 ne seront pas uniformes. On fait le point !",
-      "url": "https://www.blogdumoderateur.com/salaires-2026-informatique-marketing/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-06-15T06:00:37Z",
+      "publishedAt": "2026-06-17T10:50:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
