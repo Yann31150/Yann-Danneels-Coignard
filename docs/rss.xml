@@ -5,13 +5,21 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 18 Jun 2026 11:53:07 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 12:11:24 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>Voici les 2 IA qui mettent fin à la domination de ChatGPT sur le marché de l’intelligence artificielle</title>
+            <link>https://www.journaldugeek.com/2026/06/18/voici-les-2-ia-qui-mettent-fin-a-la-domination-de-chatgpt-sur-le-marche-de-lintelligence-artificielle/</link>
+            <description><![CDATA[Sensor Tower publie une analyse sur le marché de l’IA et indique que si ChatGPT est toujours le chatbot le plus populaire dans le monde, sa part de marché est désormais sous la barre des 50 %.]]></description>
+            <pubDate>Thu, 18 Jun 2026 10:01:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/06/18/voici-les-2-ia-qui-mettent-fin-a-la-domination-de-chatgpt-sur-le-marche-de-lintelligence-artificielle/</guid>
+            <source>Journal du geek</source>
+        </item>
         <item>
             <title>IA - réseau de neurones / Machine learning</title>
             <link>https://www.youtube.com/watch?v=k2rifQzyqtA</link>
@@ -21,28 +29,36 @@
             <source>Nicolasit</source>
         </item>
         <item>
+            <title>ChatGPT, Claude, Gemini : Top 10 des meilleures applis d&amp;#39;IA gratuites en 2026</title>
+            <link>https://www.youtube.com/watch?v=2C1rvFFditA</link>
+            <description><![CDATA[ChatGPT, Claude, Gemini : laquelle est vraiment la meilleure IA sur iPhone et Android ? Chaque modèle a sa spécialité et dans ...]]></description>
+            <pubDate>Mon, 18 May 2026 16:00:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=2C1rvFFditA</guid>
+            <source>Jeanviet</source>
+        </item>
+        <item>
+            <title>Intelligence artificielle : "On a la capacité en Europe d'avoir notre propre filière IA", assure la ministre chargée l'Intelligence artificielle et du Numérique</title>
+            <link>https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-jeudi-18-juin-2026_8034863.html</link>
+            <description><![CDATA[Voir ou revoir l'émission Intelligence artificielle : "On a la capacité en Europe d'avoir notre propre filière IA", assure la ministre chargée l'Intelligence artificielle et du Numérique. En plein lan...]]></description>
+            <pubDate>Thu, 18 Jun 2026 09:53:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-jeudi-18-juin-2026_8034863.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
+            <title>J&amp;#39;ai étudié les LLM pendant 6 mois (et j&amp;#39;ai enfin compris comment ChatGPT fonctionne)</title>
+            <link>https://www.youtube.com/watch?v=MjCJIJ4PuSw</link>
+            <description><![CDATA[Vous avez essayé de comprendre comment fonctionnent les LLM. Soit on vous dit "ça prédit le mot suivant, comme le clavier de ...]]></description>
+            <pubDate>Wed, 27 May 2026 09:30:28 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=MjCJIJ4PuSw</guid>
+            <source>Eliott Meunier</source>
+        </item>
+        <item>
             <title>Gemma 4 : L&amp;#39;IA de Google Gratuite, Illimitée, Locale &amp;amp; SANS Internet !</title>
             <link>https://www.youtube.com/watch?v=9onqtz5EwHE</link>
             <description><![CDATA[Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...]]></description>
             <pubDate>Tue, 21 Apr 2026 14:02:45 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=9onqtz5EwHE</guid>
             <source>Alpa14</source>
-        </item>
-        <item>
-            <title>Choose Vendôme : l’IA au service de la Justice</title>
-            <link>https://www.justice.gouv.fr/actualites/actualite/choose-vendome-lia-au-service-justice</link>
-            <description><![CDATA[Renforcer l’usage de l’intelligence artificielle dans la Justice en travaillant avec les entreprises de l’intelligence artificielle françaises : c’était l’ambition de l’événement « Choose Vendôme », o...]]></description>
-            <pubDate>Wed, 17 Jun 2026 08:59:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.justice.gouv.fr/actualites/actualite/choose-vendome-lia-au-service-justice</guid>
-            <source>Gouv.fr</source>
-        </item>
-        <item>
-            <title>Intelligence artificielle : "Les IA génératives sont limitées finalement à vivre dans nos écrans", pointe Laurence Devillers, professeure en IA à Sorbonne Université</title>
-            <link>https://www.franceinfo.fr/internet/intelligence-artificielle/intelligence-artificielle-les-ia-generatives-sont-limitees-finalement-a-vivre-dans-nos-ecrans-pointe-laurence-devillers-professeure-en-ia-a-sorbonne-universite_8065529.html</link>
-            <description><![CDATA[L'intelligence artificielle devrait être au cœur des discussions d'une réunion au G7 ce mercredi 17 juin, avec une session de travail consacrée à la sécurisation de l'IA, en présence notamment des pat...]]></description>
-            <pubDate>Wed, 17 Jun 2026 08:38:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/internet/intelligence-artificielle/intelligence-artificielle-les-ia-generatives-sont-limitees-finalement-a-vivre-dans-nos-ecrans-pointe-laurence-devillers-professeure-en-ia-a-sorbonne-universite_8065529.html</guid>
-            <source>Franceinfo.fr</source>
         </item>
         <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
@@ -77,22 +93,6 @@
             <source>GlobeNewswire</source>
         </item>
         <item>
-            <title>Comment supprimer la pop-up &amp;quot;Entrez votre adresse e-mail&amp;quot; dans Power BI Desktop (Solution 2026)</title>
-            <link>https://www.youtube.com/watch?v=W9Ca51mHhDk</link>
-            <description><![CDATA[Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.]]></description>
-            <pubDate>Sat, 09 May 2026 13:23:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=W9Ca51mHhDk</guid>
-            <source>TechVantage FR</source>
-        </item>
-        <item>
-            <title># 14 - Synchroniser votre base de données avec les migrations</title>
-            <link>https://www.youtube.com/watch?v=IXFP0bdMO3Y</link>
-            <description><![CDATA[Dans cette leçon, nous allons apprendre à faire le pont entre votre code PHP et votre base de données. Vous avez créé vos ...]]></description>
-            <pubDate>Mon, 20 Apr 2026 10:49:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=IXFP0bdMO3Y</guid>
-            <source>Nicely Dev - Apprendre à coder</source>
-        </item>
-        <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
             <link>https://www.youtube.com/watch?v=rhE7Ab_sBTo</link>
             <description><![CDATA[Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...]]></description>
@@ -125,20 +125,20 @@
             <source>Alexandre STEVENS</source>
         </item>
         <item>
+            <title>Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)</title>
+            <link>https://www.youtube.com/watch?v=2A5rNESVS9w</link>
+            <description><![CDATA[Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...]]></description>
+            <pubDate>Sun, 14 Jun 2026 14:37:38 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=2A5rNESVS9w</guid>
+            <source>AMVOULA Naïsia </source>
+        </item>
+        <item>
             <title>SQL pour Data Analyst - Formation Complète</title>
             <link>https://www.youtube.com/watch?v=-9NppUySsk0</link>
             <description><![CDATA[Rejoins le programme pour maîtriser SQL : https://store.ledecodeur.fr/programme-sql ​ Les données utilisées lors du projet ...]]></description>
             <pubDate>Sun, 17 May 2026 16:00:30 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=-9NppUySsk0</guid>
             <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>Big Data Décortiqué : Apache Spark Pour Débuter</title>
-            <link>https://www.youtube.com/watch?v=FL9r4dDKiIU</link>
-            <description><![CDATA[Plongez dans le monde du Big Data et découvrez Apache Spark de manière simple et accessible ! Dans ce tutoriel, nous ...]]></description>
-            <pubDate>Sun, 19 Apr 2026 20:17:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=FL9r4dDKiIU</guid>
-            <source>Houssem Lahiani</source>
         </item>
         <item>
             <title>2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS</title>
@@ -149,30 +149,28 @@
             <source>Alex The Analyst</source>
         </item>
         <item>
-            <title>Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas</title>
-            <link>https://www.youtube.com/watch?v=OKS6wtA2lAA</link>
-            <description><![CDATA[Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...]]></description>
-            <pubDate>Wed, 03 Jun 2026 12:13:50 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=OKS6wtA2lAA</guid>
-            <source>OUJOOD</source>
-        </item>
-        <item>
-            <title>Bitget lance son programme Community Product Officer offrant jusqu’à plus de 3 000 USDT de récompenses</title>
-            <link>https://www.globenewswire.com/news-release/2026/06/17/3313259/0/fr/Bitget-lance-son-programme-Community-Product-Officer-offrant-jusqu-%C3%A0-plus-de-3-000-USDT-de-r%C3%A9compenses.html</link>
-            <description><![CDATA[VICTORIA, Seychelles, 17 juin 2026 (GLOBE NEWSWIRE) -- Bitget
-, la plus grande bourse universelle (UEX) au monde, a lancé le programme Bitget Community Product Officer
-, un nouveau projet visant à f...]]></description>
-            <pubDate>Wed, 17 Jun 2026 10:21:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/06/17/3313259/0/fr/Bitget-lance-son-programme-Community-Product-Officer-offrant-jusqu-%C3%A0-plus-de-3-000-USDT-de-r%C3%A9compenses.html</guid>
-            <source>GlobeNewswire</source>
-        </item>
-        <item>
             <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>
             <link>https://www.youtube.com/watch?v=9t1mXWkqj0g</link>
             <description><![CDATA[Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...]]></description>
             <pubDate>Sun, 10 May 2026 18:00:17 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=9t1mXWkqj0g</guid>
             <source>DataSet By d@ne</source>
+        </item>
+        <item>
+            <title>Ce smartphone Xiaomi avec capteur photo 200 MP voit son prix fondre avant les soldes</title>
+            <link>https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-ce-smartphone-xiaomi-capteur-photo-200-mp-voit-son-prix-fondre-avant-soldes-10377/</link>
+            <description><![CDATA[Pour moins de 230 euros, Rakuten propose le Xiaomi Redmi Note 15 Pro dans une version particulièrement bien équipée. Avec ses 256 Go de stockage, ses 8 Go de RAM et sa compatibilité 5G, il offre une e...]]></description>
+            <pubDate>Thu, 18 Jun 2026 12:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-ce-smartphone-xiaomi-capteur-photo-200-mp-voit-son-prix-fondre-avant-soldes-10377/</guid>
+            <source>Futura</source>
+        </item>
+        <item>
+            <title>Midjourney crée le premier nouveau système d’imagerie médicale en plus de 50 ans : une écographie complète du corps qui va dans le moindre détail</title>
+            <link>https://www.presse-citron.net/midjourney-premier-nouveau-systeme-dimagerie-medicale-50-ans-ecographie-complete-corps-dans-moindre-detail/</link>
+            <description><![CDATA[S'il y avait bien une entreprise dont on n'attendait pas qu'elle mette ses pieds dans le secteur de la médecine, c'est bien Midjourney. Pourtant, elle vient tout juste d'annoncer un nouveau procédé de...]]></description>
+            <pubDate>Thu, 18 Jun 2026 09:32:21 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/midjourney-premier-nouveau-systeme-dimagerie-medicale-50-ans-ecographie-complete-corps-dans-moindre-detail/</guid>
+            <source>Presse-citron</source>
         </item>
     </channel>
 </rss>
