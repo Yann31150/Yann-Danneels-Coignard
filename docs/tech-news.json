@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-06-19T12:11:24.638774",
+  "lastUpdate": "2026-06-20T10:35:24.597920",
   "articles": [
-    {
-      "title": "Voici les 2 IA qui mettent fin à la domination de ChatGPT sur le marché de l’intelligence artificielle",
-      "description": "Sensor Tower publie une analyse sur le marché de l’IA et indique que si ChatGPT est toujours le chatbot le plus populaire dans le monde, sa part de marché est désormais sous la barre des 50 %.",
-      "url": "https://www.journaldugeek.com/2026/06/18/voici-les-2-ia-qui-mettent-fin-a-la-domination-de-chatgpt-sur-le-marche-de-lintelligence-artificielle/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-06-18T10:01:17Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "IA - réseau de neurones / Machine learning",
       "description": "ia #ai #machinelearning #réseaudeneurones #informatique #chatgpt #gemini #copilot Lien utilisé dans la vidéo ...",
@@ -24,42 +12,6 @@
       "isYouTube": true,
       "videoId": "k2rifQzyqtA",
       "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
-    },
-    {
-      "title": "ChatGPT, Claude, Gemini : Top 10 des meilleures applis d&#39;IA gratuites en 2026",
-      "description": "ChatGPT, Claude, Gemini : laquelle est vraiment la meilleure IA sur iPhone et Android ? Chaque modèle a sa spécialité et dans ...",
-      "url": "https://www.youtube.com/watch?v=2C1rvFFditA",
-      "source": "Jeanviet",
-      "publishedAt": "2026-05-18T16:00:02Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "2C1rvFFditA",
-      "thumbnail": "https://i.ytimg.com/vi/2C1rvFFditA/hqdefault.jpg"
-    },
-    {
-      "title": "Intelligence artificielle : \"On a la capacité en Europe d'avoir notre propre filière IA\", assure la ministre chargée l'Intelligence artificielle et du Numérique",
-      "description": "Voir ou revoir l'émission Intelligence artificielle : \"On a la capacité en Europe d'avoir notre propre filière IA\", assure la ministre chargée l'Intelligence artificielle et du Numérique. En plein lan...",
-      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-jeudi-18-juin-2026_8034863.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-06-18T09:53:34Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "J&#39;ai étudié les LLM pendant 6 mois (et j&#39;ai enfin compris comment ChatGPT fonctionne)",
-      "description": "Vous avez essayé de comprendre comment fonctionnent les LLM. Soit on vous dit \"ça prédit le mot suivant, comme le clavier de ...",
-      "url": "https://www.youtube.com/watch?v=MjCJIJ4PuSw",
-      "source": "Eliott Meunier",
-      "publishedAt": "2026-05-27T09:30:28Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "MjCJIJ4PuSw",
-      "thumbnail": "https://i.ytimg.com/vi/MjCJIJ4PuSw/hqdefault.jpg"
     },
     {
       "title": "Gemma 4 : L&#39;IA de Google Gratuite, Illimitée, Locale &amp; SANS Internet !",
@@ -74,6 +26,18 @@
       "thumbnail": "https://i.ytimg.com/vi/9onqtz5EwHE/hqdefault.jpg"
     },
     {
+      "title": "La Chine place l'intelligence artificielle au cœur des formations dans les universités",
+      "description": "Face à la révolution de l'intelligence artificielle, la Chine réforme massivement ses cursus universitaires, avec 12 000 formations supprimées et 10 000 nouvelles axées sur l'IA. Cette stratégie s'ins...",
+      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/la-chine-place-l-intelligence-artificielle-au-c-ur-des-formations-dans-les-universites_8045588.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-06-19T08:42:20Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
       "description": "La formation COMPLÈTE Data & Machine Learning — plus de 9 heures de cours, 111 sessions + 15 quiz, 100% GRATUITE.",
       "url": "https://www.youtube.com/watch?v=mdsnXx_tBEs",
@@ -84,6 +48,18 @@
       "isYouTube": true,
       "videoId": "mdsnXx_tBEs",
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
+    },
+    {
+      "title": "Jeff Bezos est formel : l'IA va créer une pénurie de main-d'œuvre",
+      "description": "À contre-courant de la panique ambiante, Jeff Bezos a profité de son passage à VivaTech 2026 pour affirmer que l'intelligence artificielle ne détruira pas d'emplois. Bien au contraire, le fondateur d'...",
+      "url": "https://www.generation-nt.com/actualites/bezos-ia-penurie-main-oeuvre-2077363",
+      "source": "Génération NT",
+      "publishedAt": "2026-06-19T09:10:01Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Claude rend Power BI 10x plus rapide",
@@ -110,16 +86,40 @@
       "thumbnail": "https://i.ytimg.com/vi/bvm-n-HN8ws/hqdefault.jpg"
     },
     {
-      "title": "Bull et Foxconn renforcent l’infrastructure européenne d’IA en fabriquant en Europe la plateforme NVIDIA Vera Rubin NVL72",
-      "description": "Paris, France – 17 juin 2026 – Dans le cadre de leur collaboration, Bull, leader du calcul avancé et de l’intelligence artificielle, et Hon Hai Technology Group (Foxconn), leader mondial de la fabrica...",
-      "url": "https://www.globenewswire.com/news-release/2026/06/17/3313162/0/fr/Bull-et-Foxconn-renforcent-l-infrastructure-europ%C3%A9enne-d-IA-en-fabriquant-en-Europe-la-plateforme-NVIDIA-Vera-Rubin-NVL72.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-06-17T04:00:00Z",
+      "title": "Comment supprimer la pop-up &quot;Entrez votre adresse e-mail&quot; dans Power BI Desktop (Solution 2026)",
+      "description": "Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.",
+      "url": "https://www.youtube.com/watch?v=W9Ca51mHhDk",
+      "source": "TechVantage FR",
+      "publishedAt": "2026-05-09T13:23:36Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "W9Ca51mHhDk",
+      "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
+    },
+    {
+      "title": "Le secret des pros : 2 étapes pour préparer vos données pour le Machine Learning",
+      "description": "Votre IA est incapable de lire du texte ou de comprendre des différences d'échelles extrêmes. Si vous lui donnez des données ...",
+      "url": "https://www.youtube.com/watch?v=07uxKHaudm0",
+      "source": "OUJOOD",
+      "publishedAt": "2026-06-04T16:30:26Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "07uxKHaudm0",
+      "thumbnail": "https://i.ytimg.com/vi/07uxKHaudm0/hqdefault.jpg"
+    },
+    {
+      "title": "Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)",
+      "description": "Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...",
+      "url": "https://www.youtube.com/watch?v=1tlM9a4eEII",
+      "source": "lioncode",
+      "publishedAt": "2026-06-11T10:53:29Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1tlM9a4eEII",
+      "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
     },
     {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
@@ -194,16 +194,16 @@
       "thumbnail": "https://i.ytimg.com/vi/-9NppUySsk0/hqdefault.jpg"
     },
     {
-      "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
-      "description": "Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...",
-      "url": "https://www.youtube.com/watch?v=cnjhHZNJEDk",
-      "source": "Alex The Analyst",
-      "publishedAt": "2026-05-19T12:30:29Z",
+      "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
+      "description": "Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...",
+      "url": "https://www.youtube.com/watch?v=OKS6wtA2lAA",
+      "source": "OUJOOD",
+      "publishedAt": "2026-06-03T12:13:50Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "cnjhHZNJEDk",
-      "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
+      "videoId": "OKS6wtA2lAA",
+      "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
     },
     {
       "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
@@ -218,11 +218,11 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "Ce smartphone Xiaomi avec capteur photo 200 MP voit son prix fondre avant les soldes",
-      "description": "Pour moins de 230 euros, Rakuten propose le Xiaomi Redmi Note 15 Pro dans une version particulièrement bien équipée. Avec ses 256 Go de stockage, ses 8 Go de RAM et sa compatibilité 5G, il offre une e...",
-      "url": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-ce-smartphone-xiaomi-capteur-photo-200-mp-voit-son-prix-fondre-avant-soldes-10377/",
-      "source": "Futura",
-      "publishedAt": "2026-06-18T12:00:00Z",
+      "title": "Selon un rapport de Bitget, 54 % des candidats aux métiers du Web3 peinent à décrocher leur premier emploi.",
+      "description": "VICTORIA, Seychelles, 19 juin 2026 (GLOBE NEWSWIRE) -- Bitget\r\n, première bourse universelle au monde (ou UEX, de l’anglais Universal Exchange pour plateforme d’échange universelle), publie son rappor...",
+      "url": "https://www.globenewswire.com/news-release/2026/06/19/3314673/0/fr/Selon-un-rapport-de-Bitget-54-des-candidats-aux-m%C3%A9tiers-du-Web3-peinent-%C3%A0-d%C3%A9crocher-leur-premier-emploi.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-06-19T10:00:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,23 +230,35 @@
       "thumbnail": ""
     },
     {
-      "title": "Midjourney crée le premier nouveau système d’imagerie médicale en plus de 50 ans : une écographie complète du corps qui va dans le moindre détail",
-      "description": "S'il y avait bien une entreprise dont on n'attendait pas qu'elle mette ses pieds dans le secteur de la médecine, c'est bien Midjourney. Pourtant, elle vient tout juste d'annoncer un nouveau procédé de...",
-      "url": "https://www.presse-citron.net/midjourney-premier-nouveau-systeme-dimagerie-medicale-50-ans-ecographie-complete-corps-dans-moindre-detail/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-06-18T09:32:21Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Unreal Engine 6 : la révolution de l'IA va-t-elle diviser les développeurs ?",
-      "description": "Epic Games redéfinit l'avenir du développement de jeux vidéo avec l'Unreal Engine 6. Une mise à jour majeure du moteur de jeu qui s'accompagne d'un pari audacieux sur l'intelligence artificielle génér...",
-      "url": "https://www.generation-nt.com/actualites/ureal-engine-6-ia-generative-epic-games-2077324",
+      "title": "Le nouveau laser de l'US Navy sait aussi bien alimenter en énergie que détruire un drone",
+      "description": "Imaginez un cordon ombilical invisible, un faisceau de lumière capable de recharger des équipements à distance puis, l'instant d'après, de pulvériser un drone hostile. Ce n'est plus de la science-fict...",
+      "url": "https://www.generation-nt.com/actualites/laser-nrl-energie-dirigee-alimentation-defense-drone-2077412",
       "source": "Génération NT",
-      "publishedAt": "2026-06-18T10:40:01Z",
+      "publishedAt": "2026-06-19T10:20:01Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Computer Vision - De la Théorie au Code en 1H",
+      "description": "Dans cette vidéo, on vulgarise la computer vision en deux temps : d'abord un état de l'art des tâches principales et des grandes ...",
+      "url": "https://www.youtube.com/watch?v=MYhsbnBdUEQ",
+      "source": "obarrene",
+      "publishedAt": "2026-06-05T14:32:05Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "MYhsbnBdUEQ",
+      "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
+    },
+    {
+      "title": "Derrière OpenAI, la montée silencieuse des modèles chinois",
+      "description": "Pendant que l’attention médiatique se concentre sur OpenAI, Anthropic ou Google DeepMind, une autre bataille se joue dans l’industrie de l’intelligence artificielle. Elle ne concerne ni les plus gross...",
+      "url": "https://www.frenchweb.fr/derriere-openai-la-montee-silencieuse-des-modeles-chinois/462448",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-06-19T04:43:59Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,23 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "L’IA conçoit des puces que personne ne comprend, mais qui surpassent tout",
-      "description": "Ces travaux fascinants dessinent les contours d'un futur où les humains pourront s'appuyer sur des modèles IA pour découvrir de nouvelles approches de design révolutionnaires, avec tout ce que cela im...",
-      "url": "https://www.journaldugeek.com/2026/06/17/lia-concoit-des-puces-que-personne-ne-comprend-mais-qui-surpassent-tout/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-06-17T08:37:38Z",
-      "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Actualité : Moins de 60 €, ANC et 72h d’autonomie : Xiaomi frappe très fort avec son nouveau casque Redmi Headphones Neo",
-      "description": "Déjà aperçu chez plusieurs revendeurs au printemps, le premier casque sans fil de Xiaomi, sous sa marque Redmi, est désormais officialisé en France. Le Redmi Headphones Neo mise sur sa très grosse aut...",
-      "url": "https://www.lesnumeriques.com/casque-bluetooth/moins-de-60-anc-et-72h-d-autonomie-xiaomi-frappe-tres-fort-avec-son-nouveau-casque-redmi-headphones-neo-n257735.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-06-18T10:00:00Z",
+      "title": "Alysophil prépare son passage à l’échelle industrielle avec sa micro-usine pilotée par IA",
+      "description": "La deeptech strasbourgeoise Alysophil, spécialisée dans la chimie en flux continu assistée par intelligence artificielle, finalise sa première micro-usine",
+      "url": "https://www.lejournaldesentreprises.com/article/alysophil-prepare-son-passage-lechelle-industrielle-avec-sa-micro-usine-pilotee-par-ia-2145155",
+      "source": "Le Journal des Entreprises",
+      "publishedAt": "2026-06-19T08:18:39Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Nvidia a confié son labo de robots à des IA, elles ont fait mieux que ses ingénieurs",
-      "description": "Dresser un robot demandait jusqu'ici des semaines de travail humain minutieux. Nvidia vient de confier cette tâche ingrate à des intelligences artificielles laissées seules. Les machines apprennent dé...",
-      "url": "https://www.phonandroid.com/nvidia-a-confie-son-labo-de-robots-a-des-ia-elles-ont-fait-mieux-que-ses-ingenieurs.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-06-18T12:00:33Z",
+      "title": "Jeff Bezos veut transformer la Terre en planète-jardin en déplaçant l'industrie dans l'espace : est-il devenu fou ?",
+      "description": "Nombreux sont ceux qui pensent qu'Elon Musk et Peter Thiel sont devenus complètement hors sol et dangereux, malgré des succès entrepreneuriaux incontestables. Faut-il aussi s'inquiéter de la déclarati...",
+      "url": "https://www.futura-sciences.com/sciences/actualites/astronautique-jeff-bezos-veut-transformer-terre-planete-jardin-deplacant-industrie-espace-il-devenu-fou-135451/",
+      "source": "Futura",
+      "publishedAt": "2026-06-19T09:47:30Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Comment la beauty tech réinvente les métiers du marketing digital à l’ère de l’IA",
-      "description": "L'IA redessine en profondeur les métiers dans la beauté et les cosmétiques. Fondatrice de l'IBCBS, partenaire de la majeure du MBADMB de l'EFAP dans ce domaine, Régine Ferrère analyse ce que cette tra...",
-      "url": "https://www.blogdumoderateur.com/comment-beauty-tech-reinvente-metiers-marketing-digital-ia/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-06-18T07:10:48Z",
+      "title": "Eno : les Français Genesis AI dévoilent un robot polyvalent, à contre-pied des humanoïdes",
+      "description": "Quelques semaines après avoir présenté son modèle d’IA GENE-26.5, la start-up française Genesis AI a dévoilé Eno, son premier robot généraliste. Soutenue notamment par Eric Schmidt (Google) et Xavier ...",
+      "url": "https://www.aruco.com/robotique/eno-genesis-ai-robot/",
+      "source": "Aruco.com",
+      "publishedAt": "2026-06-18T13:07:02Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
