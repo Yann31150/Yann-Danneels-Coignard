@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 20 Jun 2026 10:35:24 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 11:19:30 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,20 +21,12 @@
             <source>Nicolasit</source>
         </item>
         <item>
-            <title>Gemma 4 : L&amp;#39;IA de Google Gratuite, Illimitée, Locale &amp;amp; SANS Internet !</title>
-            <link>https://www.youtube.com/watch?v=9onqtz5EwHE</link>
-            <description><![CDATA[Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...]]></description>
-            <pubDate>Tue, 21 Apr 2026 14:02:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=9onqtz5EwHE</guid>
-            <source>Alpa14</source>
-        </item>
-        <item>
-            <title>La Chine place l'intelligence artificielle au cœur des formations dans les universités</title>
-            <link>https://www.franceinfo.fr/replay-radio/bientot-chez-vous/la-chine-place-l-intelligence-artificielle-au-c-ur-des-formations-dans-les-universites_8045588.html</link>
-            <description><![CDATA[Face à la révolution de l'intelligence artificielle, la Chine réforme massivement ses cursus universitaires, avec 12 000 formations supprimées et 10 000 nouvelles axées sur l'IA. Cette stratégie s'ins...]]></description>
-            <pubDate>Fri, 19 Jun 2026 08:42:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/bientot-chez-vous/la-chine-place-l-intelligence-artificielle-au-c-ur-des-formations-dans-les-universites_8045588.html</guid>
-            <source>Franceinfo.fr</source>
+            <title>NordVPN - ICML 2026 : sécuriser les accès GitHub, notebooks et services cloud des chercheurs en IA</title>
+            <link>https://www.futura-sciences.com/conso/bons-plans/guides-vpn-nordvpn-icml-2026-securiser-acces-github-notebooks-services-cloud-chercheurs-ia-10354/</link>
+            <description><![CDATA[L’ICML 2026 réunit la communauté internationale de l’intelligence artificielle autour des avancées en machine learning, avec un travail de recherche qui repose de plus en plus sur des environnements d...]]></description>
+            <pubDate>Sat, 20 Jun 2026 06:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/conso/bons-plans/guides-vpn-nordvpn-icml-2026-securiser-acces-github-notebooks-services-cloud-chercheurs-ia-10354/</guid>
+            <source>Futura</source>
         </item>
         <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
@@ -43,14 +35,6 @@
             <pubDate>Mon, 25 May 2026 13:45:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=mdsnXx_tBEs</guid>
             <source>IA Futura</source>
-        </item>
-        <item>
-            <title>Jeff Bezos est formel : l'IA va créer une pénurie de main-d'œuvre</title>
-            <link>https://www.generation-nt.com/actualites/bezos-ia-penurie-main-oeuvre-2077363</link>
-            <description><![CDATA[À contre-courant de la panique ambiante, Jeff Bezos a profité de son passage à VivaTech 2026 pour affirmer que l'intelligence artificielle ne détruira pas d'emplois. Bien au contraire, le fondateur d'...]]></description>
-            <pubDate>Fri, 19 Jun 2026 09:10:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/bezos-ia-penurie-main-oeuvre-2077363</guid>
-            <source>Génération NT</source>
         </item>
         <item>
             <title>Claude rend Power BI 10x plus rapide</title>
@@ -93,6 +77,22 @@
             <source>lioncode</source>
         </item>
         <item>
+            <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
+            <link>https://www.youtube.com/watch?v=IanWrDWQy0s</link>
+            <description><![CDATA[Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...]]></description>
+            <pubDate>Sat, 20 Jun 2026 17:56:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=IanWrDWQy0s</guid>
+            <source>Seif BOUGUERRA</source>
+        </item>
+        <item>
+            <title>Liens vagabonds : le public n’a plus confiance dans les médias, vraiment ?</title>
+            <link>https://www.meta-media.fr/2026/06/20/liens-vagabonds-le-public-na-plus-confiance-dans-les-medias-vraiment.html</link>
+            <description><![CDATA[La bible annuelle du Reuters Institute témoigne d’une méfiance quasi mondiale envers l’information. Pourtant, même les créateurs de contenus ne galvanisent pas non plus la confiance du public en 2026....]]></description>
+            <pubDate>Sat, 20 Jun 2026 04:10:53 -0000</pubDate>
+            <guid isPermaLink="true">https://www.meta-media.fr/2026/06/20/liens-vagabonds-le-public-na-plus-confiance-dans-les-medias-vraiment.html</guid>
+            <source>Meta-media.fr</source>
+        </item>
+        <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
             <link>https://www.youtube.com/watch?v=rhE7Ab_sBTo</link>
             <description><![CDATA[Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...]]></description>
@@ -109,20 +109,20 @@
             <source>lioncode</source>
         </item>
         <item>
-            <title>Power BI Creer un tableau de bord de A à Z</title>
-            <link>https://www.youtube.com/watch?v=5zWEMjvm86o</link>
-            <description><![CDATA[FORMATION POWER BI GRATUITE – VIDÉO 3 : CRÉATION D'UN TABLEAU DE BORD INTERACTIF DE A À Z Bienvenue dans ...]]></description>
-            <pubDate>Sat, 13 Jun 2026 21:22:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=5zWEMjvm86o</guid>
-            <source>Ceemtic Analytics</source>
-        </item>
-        <item>
             <title>Power BI : je construis un tableau de bord pour mon client (de A à Z)</title>
             <link>https://www.youtube.com/watch?v=OhT0MEFKylY</link>
             <description><![CDATA[Apprends les bases indispensables de Power BI et réalise ton premier tableau de bord en moins d'une heure ! Au travers d'un ...]]></description>
             <pubDate>Tue, 26 May 2026 15:00:25 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=OhT0MEFKylY</guid>
             <source>Alexandre STEVENS</source>
+        </item>
+        <item>
+            <title>Actualité : On a rencontré le Coach de Google Health, cet ami qui vous veut du bien</title>
+            <link>https://www.lesnumeriques.com/montre-connectee/on-a-rencontre-le-coach-de-google-health-cet-ami-qui-vous-veut-du-bien-n257541.html</link>
+            <description><![CDATA[L’application Fitbit s’efface au profit de Google Health, une nouvelle interface unifiée et enrichie par l’intelligence artificielle qui accompagne la sortie du Fitbit Air et bouscule les habitudes de...]]></description>
+            <pubDate>Sat, 20 Jun 2026 10:37:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/montre-connectee/on-a-rencontre-le-coach-de-google-health-cet-ami-qui-vous-veut-du-bien-n257541.html</guid>
+            <source>Les Numériques</source>
         </item>
         <item>
             <title>Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)</title>
@@ -141,12 +141,20 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas</title>
-            <link>https://www.youtube.com/watch?v=OKS6wtA2lAA</link>
-            <description><![CDATA[Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...]]></description>
-            <pubDate>Wed, 03 Jun 2026 12:13:50 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=OKS6wtA2lAA</guid>
-            <source>OUJOOD</source>
+            <title>2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS</title>
+            <link>https://www.youtube.com/watch?v=cnjhHZNJEDk</link>
+            <description><![CDATA[Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...]]></description>
+            <pubDate>Tue, 19 May 2026 12:30:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=cnjhHZNJEDk</guid>
+            <source>Alex The Analyst</source>
+        </item>
+        <item>
+            <title>Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀</title>
+            <link>https://www.youtube.com/watch?v=1Kokkl5PybM</link>
+            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
+            <pubDate>Thu, 04 Jun 2026 09:00:14 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1Kokkl5PybM</guid>
+            <source>Morpheus Formation | Excel, Power BI, Sheets</source>
         </item>
         <item>
             <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>
@@ -157,21 +165,12 @@
             <source>DataSet By d@ne</source>
         </item>
         <item>
-            <title>Selon un rapport de Bitget, 54 % des candidats aux métiers du Web3 peinent à décrocher leur premier emploi.</title>
-            <link>https://www.globenewswire.com/news-release/2026/06/19/3314673/0/fr/Selon-un-rapport-de-Bitget-54-des-candidats-aux-m%C3%A9tiers-du-Web3-peinent-%C3%A0-d%C3%A9crocher-leur-premier-emploi.html</link>
-            <description><![CDATA[VICTORIA, Seychelles, 19 juin 2026 (GLOBE NEWSWIRE) -- Bitget
-, première bourse universelle au monde (ou UEX, de l’anglais Universal Exchange pour plateforme d’échange universelle), publie son rappor...]]></description>
-            <pubDate>Fri, 19 Jun 2026 10:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/06/19/3314673/0/fr/Selon-un-rapport-de-Bitget-54-des-candidats-aux-m%C3%A9tiers-du-Web3-peinent-%C3%A0-d%C3%A9crocher-leur-premier-emploi.html</guid>
-            <source>GlobeNewswire</source>
-        </item>
-        <item>
-            <title>Le nouveau laser de l'US Navy sait aussi bien alimenter en énergie que détruire un drone</title>
-            <link>https://www.generation-nt.com/actualites/laser-nrl-energie-dirigee-alimentation-defense-drone-2077412</link>
-            <description><![CDATA[Imaginez un cordon ombilical invisible, un faisceau de lumière capable de recharger des équipements à distance puis, l'instant d'après, de pulvériser un drone hostile. Ce n'est plus de la science-fict...]]></description>
-            <pubDate>Fri, 19 Jun 2026 10:20:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/laser-nrl-energie-dirigee-alimentation-defense-drone-2077412</guid>
-            <source>Génération NT</source>
+            <title>L’Europe veut libérer le potentiel des données de santé</title>
+            <link>https://theconversation.com/leurope-veut-liberer-le-potentiel-des-donnees-de-sante-284212</link>
+            <description><![CDATA[La souveraineté numérique est devenue un objectif central de la politique européenne. Zoom sur un objet de convoitise en raison de son potentiel méconnu : les données de santé des Européens.]]></description>
+            <pubDate>Sat, 20 Jun 2026 10:49:45 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/leurope-veut-liberer-le-potentiel-des-donnees-de-sante-284212</guid>
+            <source>The Conversation Africa</source>
         </item>
     </channel>
 </rss>

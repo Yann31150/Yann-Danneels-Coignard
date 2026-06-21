@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-20T10:35:24.597920",
+  "lastUpdate": "2026-06-21T11:19:30.018753",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -14,23 +14,11 @@
       "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
     },
     {
-      "title": "Gemma 4 : L&#39;IA de Google Gratuite, Illimitée, Locale &amp; SANS Internet !",
-      "description": "Google lance Gemma 4, des intelligences artificielles Gratuites, Locales et SANS WIFI (Alternative ChatGPT en Local) Et si ...",
-      "url": "https://www.youtube.com/watch?v=9onqtz5EwHE",
-      "source": "Alpa14",
-      "publishedAt": "2026-04-21T14:02:45Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "9onqtz5EwHE",
-      "thumbnail": "https://i.ytimg.com/vi/9onqtz5EwHE/hqdefault.jpg"
-    },
-    {
-      "title": "La Chine place l'intelligence artificielle au cœur des formations dans les universités",
-      "description": "Face à la révolution de l'intelligence artificielle, la Chine réforme massivement ses cursus universitaires, avec 12 000 formations supprimées et 10 000 nouvelles axées sur l'IA. Cette stratégie s'ins...",
-      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/la-chine-place-l-intelligence-artificielle-au-c-ur-des-formations-dans-les-universites_8045588.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-06-19T08:42:20Z",
+      "title": "NordVPN - ICML 2026 : sécuriser les accès GitHub, notebooks et services cloud des chercheurs en IA",
+      "description": "L’ICML 2026 réunit la communauté internationale de l’intelligence artificielle autour des avancées en machine learning, avec un travail de recherche qui repose de plus en plus sur des environnements d...",
+      "url": "https://www.futura-sciences.com/conso/bons-plans/guides-vpn-nordvpn-icml-2026-securiser-acces-github-notebooks-services-cloud-chercheurs-ia-10354/",
+      "source": "Futura",
+      "publishedAt": "2026-06-20T06:30:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -48,18 +36,6 @@
       "isYouTube": true,
       "videoId": "mdsnXx_tBEs",
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
-    },
-    {
-      "title": "Jeff Bezos est formel : l'IA va créer une pénurie de main-d'œuvre",
-      "description": "À contre-courant de la panique ambiante, Jeff Bezos a profité de son passage à VivaTech 2026 pour affirmer que l'intelligence artificielle ne détruira pas d'emplois. Bien au contraire, le fondateur d'...",
-      "url": "https://www.generation-nt.com/actualites/bezos-ia-penurie-main-oeuvre-2077363",
-      "source": "Génération NT",
-      "publishedAt": "2026-06-19T09:10:01Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Claude rend Power BI 10x plus rapide",
@@ -122,6 +98,30 @@
       "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
     },
     {
+      "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
+      "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
+      "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
+      "source": "Seif BOUGUERRA",
+      "publishedAt": "2026-06-20T17:56:01Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "IanWrDWQy0s",
+      "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
+    },
+    {
+      "title": "Liens vagabonds : le public n’a plus confiance dans les médias, vraiment ?",
+      "description": "La bible annuelle du Reuters Institute témoigne d’une méfiance quasi mondiale envers l’information. Pourtant, même les créateurs de contenus ne galvanisent pas non plus la confiance du public en 2026....",
+      "url": "https://www.meta-media.fr/2026/06/20/liens-vagabonds-le-public-na-plus-confiance-dans-les-medias-vraiment.html",
+      "source": "Meta-media.fr",
+      "publishedAt": "2026-06-20T04:10:53Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
       "description": "Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...",
       "url": "https://www.youtube.com/watch?v=rhE7Ab_sBTo",
@@ -146,18 +146,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-kGlpSTHPf4/hqdefault.jpg"
     },
     {
-      "title": "Power BI Creer un tableau de bord de A à Z",
-      "description": "FORMATION POWER BI GRATUITE – VIDÉO 3 : CRÉATION D'UN TABLEAU DE BORD INTERACTIF DE A À Z Bienvenue dans ...",
-      "url": "https://www.youtube.com/watch?v=5zWEMjvm86o",
-      "source": "Ceemtic Analytics",
-      "publishedAt": "2026-06-13T21:22:56Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "5zWEMjvm86o",
-      "thumbnail": "https://i.ytimg.com/vi/5zWEMjvm86o/hqdefault.jpg"
-    },
-    {
       "title": "Power BI : je construis un tableau de bord pour mon client (de A à Z)",
       "description": "Apprends les bases indispensables de Power BI et réalise ton premier tableau de bord en moins d'une heure ! Au travers d'un ...",
       "url": "https://www.youtube.com/watch?v=OhT0MEFKylY",
@@ -168,6 +156,18 @@
       "isYouTube": true,
       "videoId": "OhT0MEFKylY",
       "thumbnail": "https://i.ytimg.com/vi/OhT0MEFKylY/hqdefault.jpg"
+    },
+    {
+      "title": "Actualité : On a rencontré le Coach de Google Health, cet ami qui vous veut du bien",
+      "description": "L’application Fitbit s’efface au profit de Google Health, une nouvelle interface unifiée et enrichie par l’intelligence artificielle qui accompagne la sortie du Fitbit Air et bouscule les habitudes de...",
+      "url": "https://www.lesnumeriques.com/montre-connectee/on-a-rencontre-le-coach-de-google-health-cet-ami-qui-vous-veut-du-bien-n257541.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-06-20T10:37:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)",
@@ -194,16 +194,28 @@
       "thumbnail": "https://i.ytimg.com/vi/-9NppUySsk0/hqdefault.jpg"
     },
     {
-      "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
-      "description": "Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...",
-      "url": "https://www.youtube.com/watch?v=OKS6wtA2lAA",
-      "source": "OUJOOD",
-      "publishedAt": "2026-06-03T12:13:50Z",
+      "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
+      "description": "Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...",
+      "url": "https://www.youtube.com/watch?v=cnjhHZNJEDk",
+      "source": "Alex The Analyst",
+      "publishedAt": "2026-05-19T12:30:29Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "OKS6wtA2lAA",
-      "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
+      "videoId": "cnjhHZNJEDk",
+      "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
+    },
+    {
+      "title": "Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀",
+      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
+      "url": "https://www.youtube.com/watch?v=1Kokkl5PybM",
+      "source": "Morpheus Formation | Excel, Power BI, Sheets",
+      "publishedAt": "2026-06-04T09:00:14Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1Kokkl5PybM",
+      "thumbnail": "https://i.ytimg.com/vi/1Kokkl5PybM/hqdefault.jpg"
     },
     {
       "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
@@ -218,23 +230,11 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "Selon un rapport de Bitget, 54 % des candidats aux métiers du Web3 peinent à décrocher leur premier emploi.",
-      "description": "VICTORIA, Seychelles, 19 juin 2026 (GLOBE NEWSWIRE) -- Bitget\r\n, première bourse universelle au monde (ou UEX, de l’anglais Universal Exchange pour plateforme d’échange universelle), publie son rappor...",
-      "url": "https://www.globenewswire.com/news-release/2026/06/19/3314673/0/fr/Selon-un-rapport-de-Bitget-54-des-candidats-aux-m%C3%A9tiers-du-Web3-peinent-%C3%A0-d%C3%A9crocher-leur-premier-emploi.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-06-19T10:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le nouveau laser de l'US Navy sait aussi bien alimenter en énergie que détruire un drone",
-      "description": "Imaginez un cordon ombilical invisible, un faisceau de lumière capable de recharger des équipements à distance puis, l'instant d'après, de pulvériser un drone hostile. Ce n'est plus de la science-fict...",
-      "url": "https://www.generation-nt.com/actualites/laser-nrl-energie-dirigee-alimentation-defense-drone-2077412",
-      "source": "Génération NT",
-      "publishedAt": "2026-06-19T10:20:01Z",
+      "title": "L’Europe veut libérer le potentiel des données de santé",
+      "description": "La souveraineté numérique est devenue un objectif central de la politique européenne. Zoom sur un objet de convoitise en raison de son potentiel méconnu : les données de santé des Européens.",
+      "url": "https://theconversation.com/leurope-veut-liberer-le-potentiel-des-donnees-de-sante-284212",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-06-20T10:49:45Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "Derrière OpenAI, la montée silencieuse des modèles chinois",
-      "description": "Pendant que l’attention médiatique se concentre sur OpenAI, Anthropic ou Google DeepMind, une autre bataille se joue dans l’industrie de l’intelligence artificielle. Elle ne concerne ni les plus gross...",
-      "url": "https://www.frenchweb.fr/derriere-openai-la-montee-silencieuse-des-modeles-chinois/462448",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-06-19T04:43:59Z",
+      "title": "Ce robot-tondeuse boosté par IA pour une tonte précise perd 300 € sur Amazon",
+      "description": "Avec son système de caméras boosté à l'intelligence artificielle, l'Anker eufy E15 offre une tonte précise et efficace. Chez Amazon, elle est actuellement proposée au prix de 899 euros.",
+      "url": "https://www.frandroid.com/bons-plans/3144581_ce-robot-tondeuse-booste-par-ia-pour-une-tonte-precise-perd-300-e-sur-amazon",
+      "source": "Frandroid",
+      "publishedAt": "2026-06-20T09:24:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Alysophil prépare son passage à l’échelle industrielle avec sa micro-usine pilotée par IA",
-      "description": "La deeptech strasbourgeoise Alysophil, spécialisée dans la chimie en flux continu assistée par intelligence artificielle, finalise sa première micro-usine",
-      "url": "https://www.lejournaldesentreprises.com/article/alysophil-prepare-son-passage-lechelle-industrielle-avec-sa-micro-usine-pilotee-par-ia-2145155",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-06-19T08:18:39Z",
+      "title": "« C'est le goulag » : la stratégie IA de Meta vire au cauchemar pour ses ingénieurs",
+      "description": "Plongée dans la crise interne qui secoue Meta. La réorganisation forcée des ingénieurs vers une nouvelle unité IA, baptisée « Applied AI », provoque une vague de mécontentement. Tâches ingrates, surve...",
+      "url": "https://www.generation-nt.com/actualites/meta-ia-crise-interne-goulag-zuckerberg-applied-ai-2077432",
+      "source": "Génération NT",
+      "publishedAt": "2026-06-19T18:30:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Jeff Bezos veut transformer la Terre en planète-jardin en déplaçant l'industrie dans l'espace : est-il devenu fou ?",
-      "description": "Nombreux sont ceux qui pensent qu'Elon Musk et Peter Thiel sont devenus complètement hors sol et dangereux, malgré des succès entrepreneuriaux incontestables. Faut-il aussi s'inquiéter de la déclarati...",
-      "url": "https://www.futura-sciences.com/sciences/actualites/astronautique-jeff-bezos-veut-transformer-terre-planete-jardin-deplacant-industrie-espace-il-devenu-fou-135451/",
-      "source": "Futura",
-      "publishedAt": "2026-06-19T09:47:30Z",
+      "title": "Le DLSS de Nvidia fonctionne désormais sous Linux avec le pilote open source NVK",
+      "description": "Le pilote graphique open source Nvidia sait désormais faire tourner le DLSS de Nvidia sous Linux avec l'API Vulkan. Une avancée attendue par les joueurs sur Steam, mais encore limitée.",
+      "url": "https://www.frandroid.com/marques/nvidia/3148959_le-dlss-de-nvidia-fonctionne-desormais-sous-linux-avec-le-pilote-open-source-nvk",
+      "source": "Frandroid",
+      "publishedAt": "2026-06-20T09:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,16 +290,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Eno : les Français Genesis AI dévoilent un robot polyvalent, à contre-pied des humanoïdes",
-      "description": "Quelques semaines après avoir présenté son modèle d’IA GENE-26.5, la start-up française Genesis AI a dévoilé Eno, son premier robot généraliste. Soutenue notamment par Eric Schmidt (Google) et Xavier ...",
-      "url": "https://www.aruco.com/robotique/eno-genesis-ai-robot/",
-      "source": "Aruco.com",
-      "publishedAt": "2026-06-18T13:07:02Z",
+      "title": "De Zéro à Hermes Agent en 10 Minutes Seulement ⏱️",
+      "description": "Serveur HERMES (coupon : GOHERMES) : https://www.hostinger.fr/gohermes Dans cette vidéo, je vous montre comment installer ...",
+      "url": "https://www.youtube.com/watch?v=wojqM-B7y2g",
+      "source": "Dr. Firas",
+      "publishedAt": "2026-05-12T11:01:34Z",
       "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "wojqM-B7y2g",
+      "thumbnail": "https://i.ytimg.com/vi/wojqM-B7y2g/hqdefault.jpg"
     }
   ]
 }
