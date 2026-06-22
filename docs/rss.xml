@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 21 Jun 2026 11:19:30 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 13:38:04 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -43,6 +43,14 @@
             <pubDate>Sun, 03 May 2026 12:46:10 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=SvIZcjQgFiQ</guid>
             <source>Benjamin Ejzenberg (votre coach Power BI)</source>
+        </item>
+        <item>
+            <title>Votre chien va-t-il bien ? Samsung pense pouvoir répondre avec l’IA</title>
+            <link>https://www.phonandroid.com/votre-chien-va-t-il-bien-samsung-pense-pouvoir-repondre-avec-lia.html</link>
+            <description><![CDATA[Et si vous utilisiez l’intelligence artificielle pour vérifier si votre chien va bien ? C’est en tout cas ce que propose Samsung pour ses smartphones Galaxy, via une nouvelle fonctionnalité...]]></description>
+            <pubDate>Sun, 21 Jun 2026 10:42:43 -0000</pubDate>
+            <guid isPermaLink="true">https://www.phonandroid.com/votre-chien-va-t-il-bien-samsung-pense-pouvoir-repondre-avec-lia.html</guid>
+            <source>Phonandroid</source>
         </item>
         <item>
             <title>ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&amp;#39;IA</title>
@@ -85,14 +93,6 @@
             <source>Seif BOUGUERRA</source>
         </item>
         <item>
-            <title>Liens vagabonds : le public n’a plus confiance dans les médias, vraiment ?</title>
-            <link>https://www.meta-media.fr/2026/06/20/liens-vagabonds-le-public-na-plus-confiance-dans-les-medias-vraiment.html</link>
-            <description><![CDATA[La bible annuelle du Reuters Institute témoigne d’une méfiance quasi mondiale envers l’information. Pourtant, même les créateurs de contenus ne galvanisent pas non plus la confiance du public en 2026....]]></description>
-            <pubDate>Sat, 20 Jun 2026 04:10:53 -0000</pubDate>
-            <guid isPermaLink="true">https://www.meta-media.fr/2026/06/20/liens-vagabonds-le-public-na-plus-confiance-dans-les-medias-vraiment.html</guid>
-            <source>Meta-media.fr</source>
-        </item>
-        <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
             <link>https://www.youtube.com/watch?v=rhE7Ab_sBTo</link>
             <description><![CDATA[Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...]]></description>
@@ -117,22 +117,6 @@
             <source>Alexandre STEVENS</source>
         </item>
         <item>
-            <title>Actualité : On a rencontré le Coach de Google Health, cet ami qui vous veut du bien</title>
-            <link>https://www.lesnumeriques.com/montre-connectee/on-a-rencontre-le-coach-de-google-health-cet-ami-qui-vous-veut-du-bien-n257541.html</link>
-            <description><![CDATA[L’application Fitbit s’efface au profit de Google Health, une nouvelle interface unifiée et enrichie par l’intelligence artificielle qui accompagne la sortie du Fitbit Air et bouscule les habitudes de...]]></description>
-            <pubDate>Sat, 20 Jun 2026 10:37:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/montre-connectee/on-a-rencontre-le-coach-de-google-health-cet-ami-qui-vous-veut-du-bien-n257541.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
-            <title>Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)</title>
-            <link>https://www.youtube.com/watch?v=2A5rNESVS9w</link>
-            <description><![CDATA[Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...]]></description>
-            <pubDate>Sun, 14 Jun 2026 14:37:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2A5rNESVS9w</guid>
-            <source>AMVOULA Naïsia </source>
-        </item>
-        <item>
             <title>SQL pour Data Analyst - Formation Complète</title>
             <link>https://www.youtube.com/watch?v=-9NppUySsk0</link>
             <description><![CDATA[Rejoins le programme pour maîtriser SQL : https://store.ledecodeur.fr/programme-sql ​ Les données utilisées lors du projet ...]]></description>
@@ -147,6 +131,14 @@
             <pubDate>Tue, 19 May 2026 12:30:29 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=cnjhHZNJEDk</guid>
             <source>Alex The Analyst</source>
+        </item>
+        <item>
+            <title>T’as essayé d’apprendre le SQL #code #developpeur #informatique #sql</title>
+            <link>https://www.youtube.com/watch?v=SlsgyTh-fcs</link>
+            <description><![CDATA[T'as essayé d'apprendre le SQL et t'as abandonné au bout de 10 minutes ? SQL Squid Game c'est ce qui va tout changer.]]></description>
+            <pubDate>Sat, 13 Jun 2026 10:00:07 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=SlsgyTh-fcs</guid>
+            <source>Wooden Koder</source>
         </item>
         <item>
             <title>Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀</title>
@@ -165,12 +157,20 @@
             <source>DataSet By d@ne</source>
         </item>
         <item>
-            <title>L’Europe veut libérer le potentiel des données de santé</title>
-            <link>https://theconversation.com/leurope-veut-liberer-le-potentiel-des-donnees-de-sante-284212</link>
-            <description><![CDATA[La souveraineté numérique est devenue un objectif central de la politique européenne. Zoom sur un objet de convoitise en raison de son potentiel méconnu : les données de santé des Européens.]]></description>
-            <pubDate>Sat, 20 Jun 2026 10:49:45 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/leurope-veut-liberer-le-potentiel-des-donnees-de-sante-284212</guid>
-            <source>The Conversation Africa</source>
+            <title>Des data centers envoyés dans l’espace ? “C’est inévitable car il y a deux grandes contraintes sur Terre”</title>
+            <link>https://www.lalibre.be/planete/sciences-espace/2026/06/21/des-data-centers-envoyes-dans-lespace-cest-inevitable-car-il-y-a-deux-grandes-contraintes-sur-terre-ZUWPODHKGVGVLHBCMISBUB5KEE/</link>
+            <description><![CDATA[Space X, Google, Blue Origin… De nombreuses entreprises américaines de la Silicon Valley se lancent dans des projets de centres de données en orbite terrestre. Mais est-ce vraiment réaliste ? ...]]></description>
+            <pubDate>Sun, 21 Jun 2026 13:13:41 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lalibre.be/planete/sciences-espace/2026/06/21/des-data-centers-envoyes-dans-lespace-cest-inevitable-car-il-y-a-deux-grandes-contraintes-sur-terre-ZUWPODHKGVGVLHBCMISBUB5KEE/</guid>
+            <source>Lalibre.be</source>
+        </item>
+        <item>
+            <title>FAQ : Antivirus, VPN, pare-feu... que faut-il vraiment installer aujourd'hui ?</title>
+            <link>https://www.generation-nt.com/actualites/faq-antivirus-vpn-parefeu-protection-2077420</link>
+            <description><![CDATA[Un antivirus protège votre appareil contre les logiciels malveillants (virus, ransomwares) déjà présents ou téléchargés. Un VPN sécurise votre connexion Internet en chiffrant vos données et en masquan...]]></description>
+            <pubDate>Sun, 21 Jun 2026 09:10:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/faq-antivirus-vpn-parefeu-protection-2077420</guid>
+            <source>Génération NT</source>
         </item>
     </channel>
 </rss>

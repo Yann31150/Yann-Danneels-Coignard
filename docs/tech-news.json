@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-21T11:19:30.018753",
+  "lastUpdate": "2026-06-22T13:38:04.844770",
   "articles": [
     {
       "title": "IA - réseau de neurones / Machine learning",
@@ -48,6 +48,18 @@
       "isYouTube": true,
       "videoId": "SvIZcjQgFiQ",
       "thumbnail": "https://i.ytimg.com/vi/SvIZcjQgFiQ/hqdefault.jpg"
+    },
+    {
+      "title": "Votre chien va-t-il bien ? Samsung pense pouvoir répondre avec l’IA",
+      "description": "Et si vous utilisiez l’intelligence artificielle pour vérifier si votre chien va bien ? C’est en tout cas ce que propose Samsung pour ses smartphones Galaxy, via une nouvelle fonctionnalité...",
+      "url": "https://www.phonandroid.com/votre-chien-va-t-il-bien-samsung-pense-pouvoir-repondre-avec-lia.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-06-21T10:42:43Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
@@ -110,18 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
     },
     {
-      "title": "Liens vagabonds : le public n’a plus confiance dans les médias, vraiment ?",
-      "description": "La bible annuelle du Reuters Institute témoigne d’une méfiance quasi mondiale envers l’information. Pourtant, même les créateurs de contenus ne galvanisent pas non plus la confiance du public en 2026....",
-      "url": "https://www.meta-media.fr/2026/06/20/liens-vagabonds-le-public-na-plus-confiance-dans-les-medias-vraiment.html",
-      "source": "Meta-media.fr",
-      "publishedAt": "2026-06-20T04:10:53Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
       "description": "Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...",
       "url": "https://www.youtube.com/watch?v=rhE7Ab_sBTo",
@@ -158,30 +158,6 @@
       "thumbnail": "https://i.ytimg.com/vi/OhT0MEFKylY/hqdefault.jpg"
     },
     {
-      "title": "Actualité : On a rencontré le Coach de Google Health, cet ami qui vous veut du bien",
-      "description": "L’application Fitbit s’efface au profit de Google Health, une nouvelle interface unifiée et enrichie par l’intelligence artificielle qui accompagne la sortie du Fitbit Air et bouscule les habitudes de...",
-      "url": "https://www.lesnumeriques.com/montre-connectee/on-a-rencontre-le-coach-de-google-health-cet-ami-qui-vous-veut-du-bien-n257541.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-06-20T10:37:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)",
-      "description": "Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...",
-      "url": "https://www.youtube.com/watch?v=2A5rNESVS9w",
-      "source": "AMVOULA Naïsia ",
-      "publishedAt": "2026-06-14T14:37:38Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "2A5rNESVS9w",
-      "thumbnail": "https://i.ytimg.com/vi/2A5rNESVS9w/hqdefault.jpg"
-    },
-    {
       "title": "SQL pour Data Analyst - Formation Complète",
       "description": "Rejoins le programme pour maîtriser SQL : https://store.ledecodeur.fr/programme-sql ​ Les données utilisées lors du projet ...",
       "url": "https://www.youtube.com/watch?v=-9NppUySsk0",
@@ -204,6 +180,18 @@
       "isYouTube": true,
       "videoId": "cnjhHZNJEDk",
       "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
+    },
+    {
+      "title": "T’as essayé d’apprendre le SQL #code #developpeur #informatique #sql",
+      "description": "T'as essayé d'apprendre le SQL et t'as abandonné au bout de 10 minutes ? SQL Squid Game c'est ce qui va tout changer.",
+      "url": "https://www.youtube.com/watch?v=SlsgyTh-fcs",
+      "source": "Wooden Koder",
+      "publishedAt": "2026-06-13T10:00:07Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "SlsgyTh-fcs",
+      "thumbnail": "https://i.ytimg.com/vi/SlsgyTh-fcs/hqdefault.jpg"
     },
     {
       "title": "Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀",
@@ -230,11 +218,23 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "L’Europe veut libérer le potentiel des données de santé",
-      "description": "La souveraineté numérique est devenue un objectif central de la politique européenne. Zoom sur un objet de convoitise en raison de son potentiel méconnu : les données de santé des Européens.",
-      "url": "https://theconversation.com/leurope-veut-liberer-le-potentiel-des-donnees-de-sante-284212",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-06-20T10:49:45Z",
+      "title": "Des data centers envoyés dans l’espace ? “C’est inévitable car il y a deux grandes contraintes sur Terre”",
+      "description": "Space X, Google, Blue Origin… De nombreuses entreprises américaines de la Silicon Valley se lancent dans des projets de centres de données en orbite terrestre. Mais est-ce vraiment réaliste ? ...",
+      "url": "https://www.lalibre.be/planete/sciences-espace/2026/06/21/des-data-centers-envoyes-dans-lespace-cest-inevitable-car-il-y-a-deux-grandes-contraintes-sur-terre-ZUWPODHKGVGVLHBCMISBUB5KEE/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-06-21T13:13:41Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "FAQ : Antivirus, VPN, pare-feu... que faut-il vraiment installer aujourd'hui ?",
+      "description": "Un antivirus protège votre appareil contre les logiciels malveillants (virus, ransomwares) déjà présents ou téléchargés. Un VPN sécurise votre connexion Internet en chiffrant vos données et en masquan...",
+      "url": "https://www.generation-nt.com/actualites/faq-antivirus-vpn-parefeu-protection-2077420",
+      "source": "Génération NT",
+      "publishedAt": "2026-06-21T09:10:01Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,23 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "Ce robot-tondeuse boosté par IA pour une tonte précise perd 300 € sur Amazon",
-      "description": "Avec son système de caméras boosté à l'intelligence artificielle, l'Anker eufy E15 offre une tonte précise et efficace. Chez Amazon, elle est actuellement proposée au prix de 899 euros.",
-      "url": "https://www.frandroid.com/bons-plans/3144581_ce-robot-tondeuse-booste-par-ia-pour-une-tonte-precise-perd-300-e-sur-amazon",
+      "title": "Pourquoi les appels à la régulation de l’IA sont une illusion dangereuse",
+      "description": "Les appels et les textes se multiplient pour réclamer une « bonne » intelligence artificielle. Mais le problème est plus profond : c’est dans son principe même, dans sa fonction sociale, que cette tec...",
+      "url": "https://www.mediapart.fr/journal/economie-et-social/200626/pourquoi-les-appels-la-regulation-de-l-ia-sont-une-illusion-dangereuse",
+      "source": "Mediapart",
+      "publishedAt": "2026-06-20T15:23:06Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Adieu le PC, bonjour l’IA : comment Sony veut transformer la création de ses jeux",
+      "description": "Dans son rapport annuel 2026, Sony a effacé toute mention du PC pour sa stratégie PlayStation et l’a remplacée par un long passage sur l’IA. Un changement",
+      "url": "https://www.frandroid.com/marques/sony/3148995_adieu-le-pc-bonjour-lia-comment-sony-veut-transformer-la-creation-de-ses-jeux",
       "source": "Frandroid",
-      "publishedAt": "2026-06-20T09:24:00Z",
+      "publishedAt": "2026-06-21T08:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,23 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "« C'est le goulag » : la stratégie IA de Meta vire au cauchemar pour ses ingénieurs",
-      "description": "Plongée dans la crise interne qui secoue Meta. La réorganisation forcée des ingénieurs vers une nouvelle unité IA, baptisée « Applied AI », provoque une vague de mécontentement. Tâches ingrates, surve...",
-      "url": "https://www.generation-nt.com/actualites/meta-ia-crise-interne-goulag-zuckerberg-applied-ai-2077432",
-      "source": "Génération NT",
-      "publishedAt": "2026-06-19T18:30:01Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le DLSS de Nvidia fonctionne désormais sous Linux avec le pilote open source NVK",
-      "description": "Le pilote graphique open source Nvidia sait désormais faire tourner le DLSS de Nvidia sous Linux avec l'API Vulkan. Une avancée attendue par les joueurs sur Steam, mais encore limitée.",
-      "url": "https://www.frandroid.com/marques/nvidia/3148959_le-dlss-de-nvidia-fonctionne-desormais-sous-linux-avec-le-pilote-open-source-nvk",
+      "title": "Android 17, IA GLM-5.2, Google Earth, Nothing – L’actu tech de la semaine",
+      "description": "Android 17 qui débarque, un simulateur de vol sur Google Earth, le LLM chinois GLM-5.2 et la déclaration surprenante du patron de Nothing. Petit récap de l'actualité tech de la semaine.",
+      "url": "https://www.frandroid.com/actualites-generales/3148313_recap-tech-semaine-202625",
       "source": "Frandroid",
-      "publishedAt": "2026-06-20T09:00:00Z",
+      "publishedAt": "2026-06-21T10:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,16 +290,16 @@
       "thumbnail": ""
     },
     {
-      "title": "De Zéro à Hermes Agent en 10 Minutes Seulement ⏱️",
-      "description": "Serveur HERMES (coupon : GOHERMES) : https://www.hostinger.fr/gohermes Dans cette vidéo, je vous montre comment installer ...",
-      "url": "https://www.youtube.com/watch?v=wojqM-B7y2g",
-      "source": "Dr. Firas",
-      "publishedAt": "2026-05-12T11:01:34Z",
+      "title": "Votre Apple Watch pourrait ne jamais avoir Siri AI, Apple fait un choix radical",
+      "description": "Votre Apple Watch pourrait ne pas être compatible avec Siri AI. L’assistant vocal dopé à l’IA d’Apple exclut en effet bon nombre de montres connectées trop anciennes, sans que l’on...",
+      "url": "https://www.phonandroid.com/votre-apple-watch-pourrait-ne-jamais-avoir-siri-ai-apple-fait-un-choix-radical.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-06-21T09:42:40Z",
       "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "wojqM-B7y2g",
-      "thumbnail": "https://i.ytimg.com/vi/wojqM-B7y2g/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }
