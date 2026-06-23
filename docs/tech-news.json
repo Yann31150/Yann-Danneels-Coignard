@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-06-22T13:38:04.844770",
+  "lastUpdate": "2026-06-23T11:21:53.905429",
   "articles": [
+    {
+      "title": "Samsung adopte ChatGPT Enterprise et Codex à grande échelle pour transformer son organisation",
+      "description": "Dans ce qui constitue l'un des plus grands déploiements d'IA générative en entreprise jamais conclus dans le monde, Samsung Electronics intègre ChatGPT Enterprise et Codex d'OpenAI à l'ensemble de ses...",
+      "url": "https://www.zdnet.fr/actualites/samsung-adopte-chatgpt-enterprise-et-codex-a-grande-echelle-pour-transformer-son-organisation-497384.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-06-22T07:08:25Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
     {
       "title": "IA - réseau de neurones / Machine learning",
       "description": "ia #ai #machinelearning #réseaudeneurones #informatique #chatgpt #gemini #copilot Lien utilisé dans la vidéo ...",
@@ -14,11 +26,23 @@
       "thumbnail": "https://i.ytimg.com/vi/k2rifQzyqtA/hqdefault.jpg"
     },
     {
-      "title": "NordVPN - ICML 2026 : sécuriser les accès GitHub, notebooks et services cloud des chercheurs en IA",
-      "description": "L’ICML 2026 réunit la communauté internationale de l’intelligence artificielle autour des avancées en machine learning, avec un travail de recherche qui repose de plus en plus sur des environnements d...",
-      "url": "https://www.futura-sciences.com/conso/bons-plans/guides-vpn-nordvpn-icml-2026-securiser-acces-github-notebooks-services-cloud-chercheurs-ia-10354/",
-      "source": "Futura",
-      "publishedAt": "2026-06-20T06:30:00Z",
+      "title": "J&#39;ai étudié les LLM pendant 6 mois (et j&#39;ai enfin compris comment ChatGPT fonctionne)",
+      "description": "Vous avez essayé de comprendre comment fonctionnent les LLM. Soit on vous dit \"ça prédit le mot suivant, comme le clavier de ...",
+      "url": "https://www.youtube.com/watch?v=MjCJIJ4PuSw",
+      "source": "Eliott Meunier",
+      "publishedAt": "2026-05-27T09:30:28Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "MjCJIJ4PuSw",
+      "thumbnail": "https://i.ytimg.com/vi/MjCJIJ4PuSw/hqdefault.jpg"
+    },
+    {
+      "title": "ZDNET Morning 22/06/2026 : Samsung déploie ChatGPT en interne, Feuille de route Apple, Le « libre par défaut » recule à Bruxelles",
+      "description": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
+      "url": "https://www.zdnet.fr/actualites/zdnet-morning-22-06-2026-samsung-deploie-chatgpt-en-interne-feuille-de-route-apple-le-libre-par-defaut-recule-a-bruxelles-497399.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-06-22T09:06:39Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -50,18 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/SvIZcjQgFiQ/hqdefault.jpg"
     },
     {
-      "title": "Votre chien va-t-il bien ? Samsung pense pouvoir répondre avec l’IA",
-      "description": "Et si vous utilisiez l’intelligence artificielle pour vérifier si votre chien va bien ? C’est en tout cas ce que propose Samsung pour ses smartphones Galaxy, via une nouvelle fonctionnalité...",
-      "url": "https://www.phonandroid.com/votre-chien-va-t-il-bien-samsung-pense-pouvoir-repondre-avec-lia.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-06-21T10:42:43Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
       "description": "Tu veux apprendre le SQL pour travailler dans la data ? ModAi Lab est la plateforme d'apprentissage SQL gamifiée et assistée ...",
       "url": "https://www.youtube.com/watch?v=bvm-n-HN8ws",
@@ -86,18 +98,6 @@
       "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
     },
     {
-      "title": "Le secret des pros : 2 étapes pour préparer vos données pour le Machine Learning",
-      "description": "Votre IA est incapable de lire du texte ou de comprendre des différences d'échelles extrêmes. Si vous lui donnez des données ...",
-      "url": "https://www.youtube.com/watch?v=07uxKHaudm0",
-      "source": "OUJOOD",
-      "publishedAt": "2026-06-04T16:30:26Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "07uxKHaudm0",
-      "thumbnail": "https://i.ytimg.com/vi/07uxKHaudm0/hqdefault.jpg"
-    },
-    {
       "title": "Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)",
       "description": "Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...",
       "url": "https://www.youtube.com/watch?v=1tlM9a4eEII",
@@ -110,16 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
     },
     {
-      "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
-      "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
-      "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
-      "source": "Seif BOUGUERRA",
-      "publishedAt": "2026-06-20T17:56:01Z",
+      "title": "\"Des utilisateurs sans compétences en programmation peuvent créer des scénarios d'interaction avec les robots Nuwa Robotics\"",
+      "description": "Fondée en 2016 à Taïwan, Nuwa Robotics est un acteur majeur de la robotique sociale et de l'intelligence artificielle en Asie. L'entreprise a déjà déployé plus de 100 000 robots, dont son modèle Kebbi...",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1551735-taiwan-dispose-d-atouts-rares-pour-developper-des-robots-humanoides/",
+      "source": "JDN",
+      "publishedAt": "2026-06-22T10:14:11Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "IanWrDWQy0s",
-      "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
@@ -158,6 +158,18 @@
       "thumbnail": "https://i.ytimg.com/vi/OhT0MEFKylY/hqdefault.jpg"
     },
     {
+      "title": "Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)",
+      "description": "Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...",
+      "url": "https://www.youtube.com/watch?v=2A5rNESVS9w",
+      "source": "AMVOULA Naïsia ",
+      "publishedAt": "2026-06-14T14:37:38Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "2A5rNESVS9w",
+      "thumbnail": "https://i.ytimg.com/vi/2A5rNESVS9w/hqdefault.jpg"
+    },
+    {
       "title": "SQL pour Data Analyst - Formation Complète",
       "description": "Rejoins le programme pour maîtriser SQL : https://store.ledecodeur.fr/programme-sql ​ Les données utilisées lors du projet ...",
       "url": "https://www.youtube.com/watch?v=-9NppUySsk0",
@@ -180,18 +192,6 @@
       "isYouTube": true,
       "videoId": "cnjhHZNJEDk",
       "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
-    },
-    {
-      "title": "T’as essayé d’apprendre le SQL #code #developpeur #informatique #sql",
-      "description": "T'as essayé d'apprendre le SQL et t'as abandonné au bout de 10 minutes ? SQL Squid Game c'est ce qui va tout changer.",
-      "url": "https://www.youtube.com/watch?v=SlsgyTh-fcs",
-      "source": "Wooden Koder",
-      "publishedAt": "2026-06-13T10:00:07Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "SlsgyTh-fcs",
-      "thumbnail": "https://i.ytimg.com/vi/SlsgyTh-fcs/hqdefault.jpg"
     },
     {
       "title": "Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀",
@@ -230,11 +230,11 @@
       "thumbnail": ""
     },
     {
-      "title": "FAQ : Antivirus, VPN, pare-feu... que faut-il vraiment installer aujourd'hui ?",
-      "description": "Un antivirus protège votre appareil contre les logiciels malveillants (virus, ransomwares) déjà présents ou téléchargés. Un VPN sécurise votre connexion Internet en chiffrant vos données et en masquan...",
-      "url": "https://www.generation-nt.com/actualites/faq-antivirus-vpn-parefeu-protection-2077420",
-      "source": "Génération NT",
-      "publishedAt": "2026-06-21T09:10:01Z",
+      "title": "“Le premier vélo électrique IA solaire au monde” : le Phosgo Go Ultra 5 a de l’ambition",
+      "description": "Doté de fonctionnalités IA et capable de rouler presque 200 km sur une seule charge, le vélo électrique solaire Phosgo Go Ultra 5 promet beaucoup. Comment compte-t-il y parvenir ?...",
+      "url": "https://www.phonandroid.com/le-premier-velo-electrique-ia-solaire-au-monde-le-phosgo-go-ultra-5-a-de-lambition.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-06-22T10:49:40Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,24 +242,12 @@
       "thumbnail": ""
     },
     {
-      "title": "Computer Vision - De la Théorie au Code en 1H",
-      "description": "Dans cette vidéo, on vulgarise la computer vision en deux temps : d'abord un état de l'art des tâches principales et des grandes ...",
-      "url": "https://www.youtube.com/watch?v=MYhsbnBdUEQ",
-      "source": "obarrene",
-      "publishedAt": "2026-06-05T14:32:05Z",
+      "title": "Apple prépare 4 produits fous pour 2027, dont le fameux iPhone pliable et des AirPods avec caméra !",
+      "description": "Après plusieurs années à courir derrière ses concurrents sur l'intelligence artificielle, Apple semble décidé à frapper fort en 2027. Au programme : des AirPods capables de « voir » ce qui entoure leu...",
+      "url": "https://www.journaldugeek.com/2026/06/22/airpods-a-camera-iphone-des-20-ans-et-modele-pliable-apple-prepare-une-annee-2027-bien-chargee/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-06-22T10:23:25Z",
       "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "MYhsbnBdUEQ",
-      "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
-    },
-    {
-      "title": "Pourquoi les appels à la régulation de l’IA sont une illusion dangereuse",
-      "description": "Les appels et les textes se multiplient pour réclamer une « bonne » intelligence artificielle. Mais le problème est plus profond : c’est dans son principe même, dans sa fonction sociale, que cette tec...",
-      "url": "https://www.mediapart.fr/journal/economie-et-social/200626/pourquoi-les-appels-la-regulation-de-l-ia-sont-une-illusion-dangereuse",
-      "source": "Mediapart",
-      "publishedAt": "2026-06-20T15:23:06Z",
-      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
@@ -278,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Android 17, IA GLM-5.2, Google Earth, Nothing – L’actu tech de la semaine",
-      "description": "Android 17 qui débarque, un simulateur de vol sur Google Earth, le LLM chinois GLM-5.2 et la déclaration surprenante du patron de Nothing. Petit récap de l'actualité tech de la semaine.",
-      "url": "https://www.frandroid.com/actualites-generales/3148313_recap-tech-semaine-202625",
-      "source": "Frandroid",
-      "publishedAt": "2026-06-21T10:00:00Z",
+      "title": "Une intelligence artificielle vient de raviver l’une des plus vieilles énigmes de l’astrophysique",
+      "description": "Au centre de notre galaxie brille une lueur que personne ne parvient à expliquer. Les astrophysiciens hésitent entre deux grandes hypothèses depuis une décennie. De nouveaux calculs menés par une...",
+      "url": "https://www.phonandroid.com/une-intelligence-artificielle-vient-de-raviver-lune-des-plus-vieilles-enigmes-de-lastrophysique.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-06-22T09:25:12Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,16 +278,28 @@
       "thumbnail": ""
     },
     {
-      "title": "Votre Apple Watch pourrait ne jamais avoir Siri AI, Apple fait un choix radical",
-      "description": "Votre Apple Watch pourrait ne pas être compatible avec Siri AI. L’assistant vocal dopé à l’IA d’Apple exclut en effet bon nombre de montres connectées trop anciennes, sans que l’on...",
-      "url": "https://www.phonandroid.com/votre-apple-watch-pourrait-ne-jamais-avoir-siri-ai-apple-fait-un-choix-radical.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-06-21T09:42:40Z",
-      "category": "tech",
+      "title": "Électricité : comment transformer un simple équipement de camping en source d’économies",
+      "description": "Face à la hausse des prix de l’énergie, de nouvelles solutions émergent pour réduire sa facture. BLUETTI propose une innovation qui permet d’exploiter une station électrique portable comme source d’én...",
+      "url": "https://www.challenges.fr/partenaires/electricite-comment-transformer-un-simple-equipement-de-camping-en-source-deconomies_644396",
+      "source": "Challenges",
+      "publishedAt": "2026-06-22T08:00:00Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "De Zéro à Hermes Agent en 10 Minutes Seulement ⏱️",
+      "description": "Serveur HERMES (coupon : GOHERMES) : https://www.hostinger.fr/gohermes Dans cette vidéo, je vous montre comment installer ...",
+      "url": "https://www.youtube.com/watch?v=wojqM-B7y2g",
+      "source": "Dr. Firas",
+      "publishedAt": "2026-05-12T11:01:34Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "wojqM-B7y2g",
+      "thumbnail": "https://i.ytimg.com/vi/wojqM-B7y2g/hqdefault.jpg"
     }
   ]
 }
