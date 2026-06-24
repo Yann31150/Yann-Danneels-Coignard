@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-06-23T11:21:53.905429",
+  "lastUpdate": "2026-06-24T10:55:08.618491",
   "articles": [
-    {
-      "title": "Samsung adopte ChatGPT Enterprise et Codex à grande échelle pour transformer son organisation",
-      "description": "Dans ce qui constitue l'un des plus grands déploiements d'IA générative en entreprise jamais conclus dans le monde, Samsung Electronics intègre ChatGPT Enterprise et Codex d'OpenAI à l'ensemble de ses...",
-      "url": "https://www.zdnet.fr/actualites/samsung-adopte-chatgpt-enterprise-et-codex-a-grande-echelle-pour-transformer-son-organisation-497384.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-06-22T07:08:25Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "IA - réseau de neurones / Machine learning",
       "description": "ia #ai #machinelearning #réseaudeneurones #informatique #chatgpt #gemini #copilot Lien utilisé dans la vidéo ...",
@@ -38,11 +26,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MjCJIJ4PuSw/hqdefault.jpg"
     },
     {
-      "title": "ZDNET Morning 22/06/2026 : Samsung déploie ChatGPT en interne, Feuille de route Apple, Le « libre par défaut » recule à Bruxelles",
-      "description": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
-      "url": "https://www.zdnet.fr/actualites/zdnet-morning-22-06-2026-samsung-deploie-chatgpt-en-interne-feuille-de-route-apple-le-libre-par-defaut-recule-a-bruxelles-497399.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-06-22T09:06:39Z",
+      "title": "Avec l'IA, le faux avis redevient une arme. Et c'est un piège pour les marques",
+      "description": "On vend aux e-commerçants des hacks pour apparaître dans Google et dans les réponses de ChatGPT. Derrière le vocabulaire technique se cache une vieille pratique qui revient en force.",
+      "url": "https://www.journaldunet.com/seo/1551721-avec-l-ia-le-faux-avis-redevient-une-arme-et-c-est-un-piege-pour-les-marques/",
+      "source": "JDN",
+      "publishedAt": "2026-06-23T08:54:55Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -98,23 +86,35 @@
       "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
     },
     {
-      "title": "Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)",
-      "description": "Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...",
-      "url": "https://www.youtube.com/watch?v=1tlM9a4eEII",
-      "source": "lioncode",
-      "publishedAt": "2026-06-11T10:53:29Z",
+      "title": "Patch the Planet d'OpenAI veut sécuriser l'open source face aux menaces IA",
+      "description": "OpenAI introduit l'initiative Patch the Planet pour aider les projets open source à corriger leurs vulnérabilités, et déploie une version améliorée de son modèle GPT-5.5-Cyber. Il n'est pas mis entre ...",
+      "url": "https://www.generation-nt.com/actualites/openai-cybersecurite-patch-the-planet-gpt-5-5-cyber-daybreak-2077515",
+      "source": "Génération NT",
+      "publishedAt": "2026-06-23T10:30:01Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
+      "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
+      "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
+      "source": "Seif BOUGUERRA",
+      "publishedAt": "2026-06-20T17:56:01Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "1tlM9a4eEII",
-      "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
+      "videoId": "IanWrDWQy0s",
+      "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
     },
     {
-      "title": "\"Des utilisateurs sans compétences en programmation peuvent créer des scénarios d'interaction avec les robots Nuwa Robotics\"",
-      "description": "Fondée en 2016 à Taïwan, Nuwa Robotics est un acteur majeur de la robotique sociale et de l'intelligence artificielle en Asie. L'entreprise a déjà déployé plus de 100 000 robots, dont son modèle Kebbi...",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1551735-taiwan-dispose-d-atouts-rares-pour-developper-des-robots-humanoides/",
-      "source": "JDN",
-      "publishedAt": "2026-06-22T10:14:11Z",
+      "title": "IA en entreprise : 5 conseils pour automatiser les processus et mettre fin aux tracas liés à l'intégration des données",
+      "description": "Plusieurs cadres du secteur tech expliquent comment ils vont au-delà des méthodes traditionnelles de mappage dans Excel afin d’installer des pipelines de data basés sur l'intelligence artificielle qui...",
+      "url": "https://www.zdnet.fr/pratique/ia-en-entreprise-cinq-conseils-pour-automatiser-les-processus-et-mettre-fin-aux-tracas-lies-a-lintegration-des-donnees-497414.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-06-23T06:06:47Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,11 +218,11 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "Des data centers envoyés dans l’espace ? “C’est inévitable car il y a deux grandes contraintes sur Terre”",
-      "description": "Space X, Google, Blue Origin… De nombreuses entreprises américaines de la Silicon Valley se lancent dans des projets de centres de données en orbite terrestre. Mais est-ce vraiment réaliste ? ...",
-      "url": "https://www.lalibre.be/planete/sciences-espace/2026/06/21/des-data-centers-envoyes-dans-lespace-cest-inevitable-car-il-y-a-deux-grandes-contraintes-sur-terre-ZUWPODHKGVGVLHBCMISBUB5KEE/",
+      "title": "Budget bruxellois : un dérapage annoncé de 300 millions d’euros hypothèque l’ambition d’un retour à l’équilibre",
+      "description": "Selon des données confidentielles du comité de monitoring que La Libre s’est procuré, le déficit de la Région bruxelloise replongerait vers la barre d’1,25 milliards d’euros, d’ici à la fin 2026. ...",
+      "url": "https://www.lalibre.be/belgique/societe/2026/06/23/budget-bruxellois-un-derapage-annonce-de-300-millions-deuros-hypotheque-lambition-dun-retour-a-lequilibre-UL25QO4RRBDKTFX5POH7GBL7VE/",
       "source": "Lalibre.be",
-      "publishedAt": "2026-06-21T13:13:41Z",
+      "publishedAt": "2026-06-23T04:27:21Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +230,11 @@
       "thumbnail": ""
     },
     {
-      "title": "“Le premier vélo électrique IA solaire au monde” : le Phosgo Go Ultra 5 a de l’ambition",
-      "description": "Doté de fonctionnalités IA et capable de rouler presque 200 km sur une seule charge, le vélo électrique solaire Phosgo Go Ultra 5 promet beaucoup. Comment compte-t-il y parvenir ?...",
-      "url": "https://www.phonandroid.com/le-premier-velo-electrique-ia-solaire-au-monde-le-phosgo-go-ultra-5-a-de-lambition.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-06-22T10:49:40Z",
+      "title": "Le premier câble de fibre optique transatlantique a été arraché de l’océan : zoom sur une opération stupéfiante",
+      "description": "Installé à la fin des années 1980, le câble transatlantique TAT-8 a marqué un tournant dans l’histoire des télécommunications. Plus de trente ans après avoir transporté les premières données en fibre ...",
+      "url": "https://www.presse-citron.net/le-premier-cable-de-fibre-optique-transatlantique-a-ete-arrache-de-locean-zoom-sur-une-operation-stupefiante/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-06-23T06:02:33Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Apple prépare 4 produits fous pour 2027, dont le fameux iPhone pliable et des AirPods avec caméra !",
-      "description": "Après plusieurs années à courir derrière ses concurrents sur l'intelligence artificielle, Apple semble décidé à frapper fort en 2027. Au programme : des AirPods capables de « voir » ce qui entoure leu...",
-      "url": "https://www.journaldugeek.com/2026/06/22/airpods-a-camera-iphone-des-20-ans-et-modele-pliable-apple-prepare-une-annee-2027-bien-chargee/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-06-22T10:23:25Z",
+      "title": "Pourquoi Wikipédia refuse d'utiliser l'IA pour éditer ses articles",
+      "description": "Wikipédia s'opposera à l'utilisation de l'intelligence artificielle dans le processus d'édition de ses articles, a expliqué lundi l'un de ses deux fondateurs. L'encyclopédie en ligne est elle-même con...",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/pourquoi-wikipedia-refuse-d-utiliser-l-ia-pour-editer-ses-articles_8075327.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-06-23T10:16:16Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Adieu le PC, bonjour l’IA : comment Sony veut transformer la création de ses jeux",
-      "description": "Dans son rapport annuel 2026, Sony a effacé toute mention du PC pour sa stratégie PlayStation et l’a remplacée par un long passage sur l’IA. Un changement",
-      "url": "https://www.frandroid.com/marques/sony/3148995_adieu-le-pc-bonjour-lia-comment-sony-veut-transformer-la-creation-de-ses-jeux",
-      "source": "Frandroid",
-      "publishedAt": "2026-06-21T08:00:00Z",
+      "title": "Avec Dataland, l’art généré par IA dispose de son musée à Los Angeles",
+      "description": "À Los Angeles, un musée basé sur l'intelligence artificielle propose une plongée sensorielle dans la forêt amazonienne. Il a ouvert ses portes en juin dans le centre-ville.",
+      "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/avec-dataland-l-art-genere-par-ia-dispose-de-son-musee-a-los-angeles_8051330.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-06-23T07:54:55Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,23 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Une intelligence artificielle vient de raviver l’une des plus vieilles énigmes de l’astrophysique",
-      "description": "Au centre de notre galaxie brille une lueur que personne ne parvient à expliquer. Les astrophysiciens hésitent entre deux grandes hypothèses depuis une décennie. De nouveaux calculs menés par une...",
-      "url": "https://www.phonandroid.com/une-intelligence-artificielle-vient-de-raviver-lune-des-plus-vieilles-enigmes-de-lastrophysique.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-06-22T09:25:12Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Électricité : comment transformer un simple équipement de camping en source d’économies",
-      "description": "Face à la hausse des prix de l’énergie, de nouvelles solutions émergent pour réduire sa facture. BLUETTI propose une innovation qui permet d’exploiter une station électrique portable comme source d’én...",
-      "url": "https://www.challenges.fr/partenaires/electricite-comment-transformer-un-simple-equipement-de-camping-en-source-deconomies_644396",
-      "source": "Challenges",
-      "publishedAt": "2026-06-22T08:00:00Z",
+      "title": "Les agents IA font exploser les coûts de monitoring : TSUGA lève 30 millions d’euros pour changer les règles du jeu",
+      "description": "L’intelligence artificielle est souvent présentée comme une technologie de réduction des coûts. Automatisation des tâches, rationalisation des opérations, gains de productivité, avec pour récit domina...",
+      "url": "https://www.frenchweb.fr/les-agents-ia-font-exploser-les-couts-de-monitoring-tsuga-leve-30-millions-deuros-pour-changer-les-regles-du-jeu/462531",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-06-23T08:01:11Z",
       "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,16 +278,28 @@
       "thumbnail": ""
     },
     {
-      "title": "De Zéro à Hermes Agent en 10 Minutes Seulement ⏱️",
-      "description": "Serveur HERMES (coupon : GOHERMES) : https://www.hostinger.fr/gohermes Dans cette vidéo, je vous montre comment installer ...",
-      "url": "https://www.youtube.com/watch?v=wojqM-B7y2g",
-      "source": "Dr. Firas",
-      "publishedAt": "2026-05-12T11:01:34Z",
+      "title": "L’Union européenne va imposer des « étiquettes » sur les contenus générés par IA",
+      "description": "La Commission européenne veut que tout deepfake et tout texte produit par l’IA soient clairement signalés par un label « AI », « AI Generated » ou « AI Modified ». La présence de l'étiquette sera obli...",
+      "url": "https://www.numerama.com/politique/2282367-lunion-europeenne-va-imposer-des-etiquettes-sur-les-contenus-generes-par-ia.html",
+      "source": "Numerama",
+      "publishedAt": "2026-06-23T09:02:00Z",
       "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "wojqM-B7y2g",
-      "thumbnail": "https://i.ytimg.com/vi/wojqM-B7y2g/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "La jaquette de Kingdom Hearts a discrètement été modifiée après la polémique sur l’IA",
+      "description": "À la suite des accusations selon lesquelles Square Enix aurait utilisé des visuels générés par IA pour la jaquette de la compilation Kingdom Hearts Collection, une version différente est apparue chez ...",
+      "url": "https://www.numerama.com/pop-culture/2282355-la-jaquette-de-kingdom-hearts-a-discretement-ete-modifiee-apres-la-polemique-sur-lia.html",
+      "source": "Numerama",
+      "publishedAt": "2026-06-23T10:00:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }

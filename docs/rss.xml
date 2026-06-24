@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 23 Jun 2026 11:21:53 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 10:55:08 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Samsung adopte ChatGPT Enterprise et Codex à grande échelle pour transformer son organisation</title>
-            <link>https://www.zdnet.fr/actualites/samsung-adopte-chatgpt-enterprise-et-codex-a-grande-echelle-pour-transformer-son-organisation-497384.htm</link>
-            <description><![CDATA[Dans ce qui constitue l'un des plus grands déploiements d'IA générative en entreprise jamais conclus dans le monde, Samsung Electronics intègre ChatGPT Enterprise et Codex d'OpenAI à l'ensemble de ses...]]></description>
-            <pubDate>Mon, 22 Jun 2026 07:08:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/samsung-adopte-chatgpt-enterprise-et-codex-a-grande-echelle-pour-transformer-son-organisation-497384.htm</guid>
-            <source>ZDNet France</source>
-        </item>
         <item>
             <title>IA - réseau de neurones / Machine learning</title>
             <link>https://www.youtube.com/watch?v=k2rifQzyqtA</link>
@@ -37,12 +29,12 @@
             <source>Eliott Meunier</source>
         </item>
         <item>
-            <title>ZDNET Morning 22/06/2026 : Samsung déploie ChatGPT en interne, Feuille de route Apple, Le « libre par défaut » recule à Bruxelles</title>
-            <link>https://www.zdnet.fr/actualites/zdnet-morning-22-06-2026-samsung-deploie-chatgpt-en-interne-feuille-de-route-apple-le-libre-par-defaut-recule-a-bruxelles-497399.htm</link>
-            <description><![CDATA[Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.]]></description>
-            <pubDate>Mon, 22 Jun 2026 09:06:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/zdnet-morning-22-06-2026-samsung-deploie-chatgpt-en-interne-feuille-de-route-apple-le-libre-par-defaut-recule-a-bruxelles-497399.htm</guid>
-            <source>ZDNet France</source>
+            <title>Avec l'IA, le faux avis redevient une arme. Et c'est un piège pour les marques</title>
+            <link>https://www.journaldunet.com/seo/1551721-avec-l-ia-le-faux-avis-redevient-une-arme-et-c-est-un-piege-pour-les-marques/</link>
+            <description><![CDATA[On vend aux e-commerçants des hacks pour apparaître dans Google et dans les réponses de ChatGPT. Derrière le vocabulaire technique se cache une vieille pratique qui revient en force.]]></description>
+            <pubDate>Tue, 23 Jun 2026 08:54:55 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/seo/1551721-avec-l-ia-le-faux-avis-redevient-une-arme-et-c-est-un-piege-pour-les-marques/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
@@ -77,20 +69,28 @@
             <source>TechVantage FR</source>
         </item>
         <item>
-            <title>Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)</title>
-            <link>https://www.youtube.com/watch?v=1tlM9a4eEII</link>
-            <description><![CDATA[Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...]]></description>
-            <pubDate>Thu, 11 Jun 2026 10:53:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1tlM9a4eEII</guid>
-            <source>lioncode</source>
+            <title>Patch the Planet d'OpenAI veut sécuriser l'open source face aux menaces IA</title>
+            <link>https://www.generation-nt.com/actualites/openai-cybersecurite-patch-the-planet-gpt-5-5-cyber-daybreak-2077515</link>
+            <description><![CDATA[OpenAI introduit l'initiative Patch the Planet pour aider les projets open source à corriger leurs vulnérabilités, et déploie une version améliorée de son modèle GPT-5.5-Cyber. Il n'est pas mis entre ...]]></description>
+            <pubDate>Tue, 23 Jun 2026 10:30:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/openai-cybersecurite-patch-the-planet-gpt-5-5-cyber-daybreak-2077515</guid>
+            <source>Génération NT</source>
         </item>
         <item>
-            <title>"Des utilisateurs sans compétences en programmation peuvent créer des scénarios d'interaction avec les robots Nuwa Robotics"</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1551735-taiwan-dispose-d-atouts-rares-pour-developper-des-robots-humanoides/</link>
-            <description><![CDATA[Fondée en 2016 à Taïwan, Nuwa Robotics est un acteur majeur de la robotique sociale et de l'intelligence artificielle en Asie. L'entreprise a déjà déployé plus de 100 000 robots, dont son modèle Kebbi...]]></description>
-            <pubDate>Mon, 22 Jun 2026 10:14:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1551735-taiwan-dispose-d-atouts-rares-pour-developper-des-robots-humanoides/</guid>
-            <source>JDN</source>
+            <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
+            <link>https://www.youtube.com/watch?v=IanWrDWQy0s</link>
+            <description><![CDATA[Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...]]></description>
+            <pubDate>Sat, 20 Jun 2026 17:56:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=IanWrDWQy0s</guid>
+            <source>Seif BOUGUERRA</source>
+        </item>
+        <item>
+            <title>IA en entreprise : 5 conseils pour automatiser les processus et mettre fin aux tracas liés à l'intégration des données</title>
+            <link>https://www.zdnet.fr/pratique/ia-en-entreprise-cinq-conseils-pour-automatiser-les-processus-et-mettre-fin-aux-tracas-lies-a-lintegration-des-donnees-497414.htm</link>
+            <description><![CDATA[Plusieurs cadres du secteur tech expliquent comment ils vont au-delà des méthodes traditionnelles de mappage dans Excel afin d’installer des pipelines de data basés sur l'intelligence artificielle qui...]]></description>
+            <pubDate>Tue, 23 Jun 2026 06:06:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/pratique/ia-en-entreprise-cinq-conseils-pour-automatiser-les-processus-et-mettre-fin-aux-tracas-lies-a-lintegration-des-donnees-497414.htm</guid>
+            <source>ZDNet France</source>
         </item>
         <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
@@ -157,20 +157,20 @@
             <source>DataSet By d@ne</source>
         </item>
         <item>
-            <title>Des data centers envoyés dans l’espace ? “C’est inévitable car il y a deux grandes contraintes sur Terre”</title>
-            <link>https://www.lalibre.be/planete/sciences-espace/2026/06/21/des-data-centers-envoyes-dans-lespace-cest-inevitable-car-il-y-a-deux-grandes-contraintes-sur-terre-ZUWPODHKGVGVLHBCMISBUB5KEE/</link>
-            <description><![CDATA[Space X, Google, Blue Origin… De nombreuses entreprises américaines de la Silicon Valley se lancent dans des projets de centres de données en orbite terrestre. Mais est-ce vraiment réaliste ? ...]]></description>
-            <pubDate>Sun, 21 Jun 2026 13:13:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lalibre.be/planete/sciences-espace/2026/06/21/des-data-centers-envoyes-dans-lespace-cest-inevitable-car-il-y-a-deux-grandes-contraintes-sur-terre-ZUWPODHKGVGVLHBCMISBUB5KEE/</guid>
+            <title>Budget bruxellois : un dérapage annoncé de 300 millions d’euros hypothèque l’ambition d’un retour à l’équilibre</title>
+            <link>https://www.lalibre.be/belgique/societe/2026/06/23/budget-bruxellois-un-derapage-annonce-de-300-millions-deuros-hypotheque-lambition-dun-retour-a-lequilibre-UL25QO4RRBDKTFX5POH7GBL7VE/</link>
+            <description><![CDATA[Selon des données confidentielles du comité de monitoring que La Libre s’est procuré, le déficit de la Région bruxelloise replongerait vers la barre d’1,25 milliards d’euros, d’ici à la fin 2026. ...]]></description>
+            <pubDate>Tue, 23 Jun 2026 04:27:21 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lalibre.be/belgique/societe/2026/06/23/budget-bruxellois-un-derapage-annonce-de-300-millions-deuros-hypotheque-lambition-dun-retour-a-lequilibre-UL25QO4RRBDKTFX5POH7GBL7VE/</guid>
             <source>Lalibre.be</source>
         </item>
         <item>
-            <title>“Le premier vélo électrique IA solaire au monde” : le Phosgo Go Ultra 5 a de l’ambition</title>
-            <link>https://www.phonandroid.com/le-premier-velo-electrique-ia-solaire-au-monde-le-phosgo-go-ultra-5-a-de-lambition.html</link>
-            <description><![CDATA[Doté de fonctionnalités IA et capable de rouler presque 200 km sur une seule charge, le vélo électrique solaire Phosgo Go Ultra 5 promet beaucoup. Comment compte-t-il y parvenir ?...]]></description>
-            <pubDate>Mon, 22 Jun 2026 10:49:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.phonandroid.com/le-premier-velo-electrique-ia-solaire-au-monde-le-phosgo-go-ultra-5-a-de-lambition.html</guid>
-            <source>Phonandroid</source>
+            <title>Le premier câble de fibre optique transatlantique a été arraché de l’océan : zoom sur une opération stupéfiante</title>
+            <link>https://www.presse-citron.net/le-premier-cable-de-fibre-optique-transatlantique-a-ete-arrache-de-locean-zoom-sur-une-operation-stupefiante/</link>
+            <description><![CDATA[Installé à la fin des années 1980, le câble transatlantique TAT-8 a marqué un tournant dans l’histoire des télécommunications. Plus de trente ans après avoir transporté les premières données en fibre ...]]></description>
+            <pubDate>Tue, 23 Jun 2026 06:02:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/le-premier-cable-de-fibre-optique-transatlantique-a-ete-arrache-de-locean-zoom-sur-une-operation-stupefiante/</guid>
+            <source>Presse-citron</source>
         </item>
     </channel>
 </rss>
