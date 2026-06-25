@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 24 Jun 2026 10:55:08 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 10:46:35 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,28 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>IA - réseau de neurones / Machine learning</title>
-            <link>https://www.youtube.com/watch?v=k2rifQzyqtA</link>
-            <description><![CDATA[ia #ai #machinelearning #réseaudeneurones #informatique #chatgpt #gemini #copilot Lien utilisé dans la vidéo ...]]></description>
-            <pubDate>Sat, 25 Apr 2026 19:16:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=k2rifQzyqtA</guid>
-            <source>Nicolasit</source>
-        </item>
-        <item>
             <title>J&amp;#39;ai étudié les LLM pendant 6 mois (et j&amp;#39;ai enfin compris comment ChatGPT fonctionne)</title>
             <link>https://www.youtube.com/watch?v=MjCJIJ4PuSw</link>
             <description><![CDATA[Vous avez essayé de comprendre comment fonctionnent les LLM. Soit on vous dit "ça prédit le mot suivant, comme le clavier de ...]]></description>
             <pubDate>Wed, 27 May 2026 09:30:28 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=MjCJIJ4PuSw</guid>
             <source>Eliott Meunier</source>
-        </item>
-        <item>
-            <title>Avec l'IA, le faux avis redevient une arme. Et c'est un piège pour les marques</title>
-            <link>https://www.journaldunet.com/seo/1551721-avec-l-ia-le-faux-avis-redevient-une-arme-et-c-est-un-piege-pour-les-marques/</link>
-            <description><![CDATA[On vend aux e-commerçants des hacks pour apparaître dans Google et dans les réponses de ChatGPT. Derrière le vocabulaire technique se cache une vieille pratique qui revient en force.]]></description>
-            <pubDate>Tue, 23 Jun 2026 08:54:55 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/seo/1551721-avec-l-ia-le-faux-avis-redevient-une-arme-et-c-est-un-piege-pour-les-marques/</guid>
-            <source>JDN</source>
         </item>
         <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
@@ -69,12 +53,12 @@
             <source>TechVantage FR</source>
         </item>
         <item>
-            <title>Patch the Planet d'OpenAI veut sécuriser l'open source face aux menaces IA</title>
-            <link>https://www.generation-nt.com/actualites/openai-cybersecurite-patch-the-planet-gpt-5-5-cyber-daybreak-2077515</link>
-            <description><![CDATA[OpenAI introduit l'initiative Patch the Planet pour aider les projets open source à corriger leurs vulnérabilités, et déploie une version améliorée de son modèle GPT-5.5-Cyber. Il n'est pas mis entre ...]]></description>
-            <pubDate>Tue, 23 Jun 2026 10:30:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/openai-cybersecurite-patch-the-planet-gpt-5-5-cyber-daybreak-2077515</guid>
-            <source>Génération NT</source>
+            <title>Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)</title>
+            <link>https://www.youtube.com/watch?v=1tlM9a4eEII</link>
+            <description><![CDATA[Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...]]></description>
+            <pubDate>Thu, 11 Jun 2026 10:53:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1tlM9a4eEII</guid>
+            <source>lioncode</source>
         </item>
         <item>
             <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
@@ -91,6 +75,23 @@
             <pubDate>Tue, 23 Jun 2026 06:06:47 -0000</pubDate>
             <guid isPermaLink="true">https://www.zdnet.fr/pratique/ia-en-entreprise-cinq-conseils-pour-automatiser-les-processus-et-mettre-fin-aux-tracas-lies-a-lintegration-des-donnees-497414.htm</guid>
             <source>ZDNet France</source>
+        </item>
+        <item>
+            <title>IA souveraine en Europe : reprendre la main sans renoncer à la performance</title>
+            <link>https://www.lexpress.fr/partenaires/ia-souveraine-en-europe-reprendre-la-main-sans-renoncer-a-la-performance-VY4ZE2FFLNEQTAPGJAHR4TIOFA/</link>
+            <description><![CDATA[L'IA s'est imposée comme un moteur de compétitivité. 
+Reste une question simple, mais décisive : comment en tirer parti sans céder le contrôle de ses données, de ses modèles et de ses infrastructures ...]]></description>
+            <pubDate>Tue, 23 Jun 2026 09:45:59 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lexpress.fr/partenaires/ia-souveraine-en-europe-reprendre-la-main-sans-renoncer-a-la-performance-VY4ZE2FFLNEQTAPGJAHR4TIOFA/</guid>
+            <source>L'Express</source>
+        </item>
+        <item>
+            <title>Surprise : intégrer l'IA dans le développement d'un jeu aurait des conséquences négatives sur sa réception via Steam</title>
+            <link>https://www.gamekult.com/actualite/surprise-integrer-l-ia-dans-le-developpement-d-un-jeu-aurait-des-consequences-negatives-sur-sa-reception-via-steam-3050870897.html</link>
+            <description><![CDATA[Une étude relayée par PCGamer et publiée par Ross Burton, docteur en données et responsable produit chez Game Oracle, apporte un éclairage quantitatif sur un phénomène jusqu'ici difficile à mesurer : ...]]></description>
+            <pubDate>Wed, 24 Jun 2026 05:34:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.gamekult.com/actualite/surprise-integrer-l-ia-dans-le-developpement-d-un-jeu-aurait-des-consequences-negatives-sur-sa-reception-via-steam-3050870897.html</guid>
+            <source>Gamekult</source>
         </item>
         <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
@@ -157,20 +158,20 @@
             <source>DataSet By d@ne</source>
         </item>
         <item>
-            <title>Budget bruxellois : un dérapage annoncé de 300 millions d’euros hypothèque l’ambition d’un retour à l’équilibre</title>
-            <link>https://www.lalibre.be/belgique/societe/2026/06/23/budget-bruxellois-un-derapage-annonce-de-300-millions-deuros-hypotheque-lambition-dun-retour-a-lequilibre-UL25QO4RRBDKTFX5POH7GBL7VE/</link>
-            <description><![CDATA[Selon des données confidentielles du comité de monitoring que La Libre s’est procuré, le déficit de la Région bruxelloise replongerait vers la barre d’1,25 milliards d’euros, d’ici à la fin 2026. ...]]></description>
-            <pubDate>Tue, 23 Jun 2026 04:27:21 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lalibre.be/belgique/societe/2026/06/23/budget-bruxellois-un-derapage-annonce-de-300-millions-deuros-hypotheque-lambition-dun-retour-a-lequilibre-UL25QO4RRBDKTFX5POH7GBL7VE/</guid>
-            <source>Lalibre.be</source>
+            <title>📊The HARSH Truth About Data Analytics, Prepare for 2026-2030</title>
+            <link>https://www.youtube.com/watch?v=MfFFp6EvUhE</link>
+            <description><![CDATA[Try Miro: https://miro.pxf.io/rEDdMv @MiroHQ I spent most of the last three years writing SQL queries from scratch every single ...]]></description>
+            <pubDate>Sat, 30 May 2026 13:34:44 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=MfFFp6EvUhE</guid>
+            <source>Matt Mike</source>
         </item>
         <item>
-            <title>Le premier câble de fibre optique transatlantique a été arraché de l’océan : zoom sur une opération stupéfiante</title>
-            <link>https://www.presse-citron.net/le-premier-cable-de-fibre-optique-transatlantique-a-ete-arrache-de-locean-zoom-sur-une-operation-stupefiante/</link>
-            <description><![CDATA[Installé à la fin des années 1980, le câble transatlantique TAT-8 a marqué un tournant dans l’histoire des télécommunications. Plus de trente ans après avoir transporté les premières données en fibre ...]]></description>
-            <pubDate>Tue, 23 Jun 2026 06:02:33 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/le-premier-cable-de-fibre-optique-transatlantique-a-ete-arrache-de-locean-zoom-sur-une-operation-stupefiante/</guid>
-            <source>Presse-citron</source>
+            <title>Fuite présumée chez bet365 : l’ombre d’un fichier trés sensible ?</title>
+            <link>https://www.zataz.com/fuite-presumee-chez-bet365-lombre-dun-fichier-tres-sensible/</link>
+            <description><![CDATA[Un pirate affirme vendre 120 millions de profils attribués à bet365. La nature des données évoquée par le hacker pourrait sembler bien plus grave qu’une "simple" liste d’adresses électroniques.]]></description>
+            <pubDate>Wed, 24 Jun 2026 10:23:30 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zataz.com/fuite-presumee-chez-bet365-lombre-dun-fichier-tres-sensible/</guid>
+            <source>Zataz.com</source>
         </item>
     </channel>
 </rss>
