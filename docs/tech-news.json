@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-26T10:54:47.037270",
+  "lastUpdate": "2026-06-27T10:13:09.517939",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -14,40 +14,28 @@
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
     },
     {
-      "title": "Une IA moins chère pour tout le monde : OpenAI présente sa propre puce pour l’intelligence artificielle et réduit sa dépendance à Nvidia",
-      "description": "OpenAI vient de présenter son propre accélérateur d’IA, dédié à l’inférence. Développé avec Broadcom et Celestica, ce composant devrait permettre au créateur de ChatGPT de faire baisser le coût de l’I...",
-      "url": "https://www.journaldugeek.com/2026/06/25/une-ia-moins-chere-pour-tout-le-monde-openai-presente-sa-propre-puce-pour-lintelligence-artificielle-et-reduit-sa-dependance-a-nvidia/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-06-25T09:31:03Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "J&#39;ai étudié les LLM pendant 6 mois (et j&#39;ai enfin compris comment ChatGPT fonctionne)",
-      "description": "Vous avez essayé de comprendre comment fonctionnent les LLM. Soit on vous dit \"ça prédit le mot suivant, comme le clavier de ...",
-      "url": "https://www.youtube.com/watch?v=MjCJIJ4PuSw",
-      "source": "Eliott Meunier",
-      "publishedAt": "2026-05-27T09:30:28Z",
+      "title": "NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)",
+      "description": "Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...",
+      "url": "https://www.youtube.com/watch?v=3J5VPpX2Jww",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-06-24T14:33:27Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "MjCJIJ4PuSw",
-      "thumbnail": "https://i.ytimg.com/vi/MjCJIJ4PuSw/hqdefault.jpg"
+      "videoId": "3J5VPpX2Jww",
+      "thumbnail": "https://i.ytimg.com/vi/3J5VPpX2Jww/hqdefault.jpg"
     },
     {
-      "title": "La détection des textes générés par l’IA, une bataille perdue d’avance ?",
-      "description": "Plus de trois ans après l'émergence de ChatGPT, il n'est toujours pas possible de déterminer avec certitude si un contenu a été généré par une IA. Entre attentisme des acteurs et limites techniques, l...",
-      "url": "https://www.blogdumoderateur.com/detection-textes-generes-ia-bataille-perdue/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-06-25T06:00:23Z",
+      "title": "Auto-encodeur sous Julia avec le package « Flux »",
+      "description": "Deep learning - Machine learning - Data science. Définition, paramétrage, instanciation et entraînement des autoencodeurs ...",
+      "url": "https://www.youtube.com/watch?v=zthiSmU0Pp4",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-06-17T15:39:13Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "zthiSmU0Pp4",
+      "thumbnail": "https://i.ytimg.com/vi/zthiSmU0Pp4/hqdefault.jpg"
     },
     {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
@@ -110,16 +98,28 @@
       "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
     },
     {
-      "title": "Tom Hanks remplacé par une IA ? Le futur de Toy Story est déjà terrifiant",
-      "description": "Alors que Toy Story 5 cartonne au box-office, l'acteur Tom Hanks jette un froid en révélant ses craintes : Disney posséderait assez de données vocales pour le remplacer par une intelligence artificiel...",
-      "url": "https://www.generation-nt.com/actualites/tom-hanks-ia-toy-story-2077641",
-      "source": "Génération NT",
-      "publishedAt": "2026-06-25T08:05:01Z",
+      "title": "ANTHROPIC recrute le patron IA d’ORANGE pour accélérer son développement en Europe",
+      "description": "La guerre de l’intelligence artificielle ne se joue plus uniquement dans les laboratoires de recherche ni dans les centres de données, mais désormais au sein des directions informatiques des grands gr...",
+      "url": "https://www.frenchweb.fr/anthropic-recrute-le-patron-ia-dorange-pour-accelerer-son-developpement-en-europe/462600",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-06-26T06:43:32Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
+      "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
+      "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
+      "source": "Seif BOUGUERRA",
+      "publishedAt": "2026-06-20T17:56:01Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "IanWrDWQy0s",
+      "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
     },
     {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
@@ -182,18 +182,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-9NppUySsk0/hqdefault.jpg"
     },
     {
-      "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
-      "description": "Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...",
-      "url": "https://www.youtube.com/watch?v=cnjhHZNJEDk",
-      "source": "Alex The Analyst",
-      "publishedAt": "2026-05-19T12:30:29Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "cnjhHZNJEDk",
-      "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
-    },
-    {
       "title": "Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=1Kokkl5PybM",
@@ -218,11 +206,11 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "Norton 360 Advanced : antivirus, VPN et surveillance du dark web pour sécuriser vos données",
-      "description": "Pendant que vous lisez ces lignes, des milliers d'identifiants français s'échangent sur des\nforums du dark web. Emails, mots de passe, numéros de carte bancaire, comptes d'assurance,\ntout y passe. Le ...",
-      "url": "https://www.zdnet.fr/publicite/norton-360-advanced-antivirus-vpn-et-surveillance-du-dark-web-pour-securiser-vos-donnees-496099.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-06-25T08:25:32Z",
+      "title": "Vie extraterrestre : un rover de la Nasa révèle sur Mars une brique essentielle de la vie",
+      "description": "Il y a quelques milliards d’années, on trouvait, dans cette région de la planète Mars, une rivière qui charriait de l’eau à profusion. Et aujourd’hui, des chercheurs confirment y avoir détecté des mol...",
+      "url": "https://www.futura-sciences.com/sciences/actualites/vie-mars-vie-extraterrestre-rover-nasa-revele-mars-brique-essentielle-vie-135646/",
+      "source": "Futura",
+      "publishedAt": "2026-06-25T14:35:33Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,16 +218,28 @@
       "thumbnail": ""
     },
     {
-      "title": "Moteurs F1 : le thermique reprend l’ascendant dès 2027",
-      "description": "Le Conseil mondial du sport automobile a ratifié d’importantes modifications des groupes motopropulseurs pour les saisons 2027 et 2028 de Formule 1.  Une règlementation 2026 largement critiquée La nou...",
-      "url": "https://www.leblogauto.com/actualites/moteurs-f1-le-thermique-reprend-lascendant-des-2027/",
-      "source": "Leblogauto.com",
-      "publishedAt": "2026-06-25T08:06:04Z",
+      "title": "Grâce à une vidéo YouTube très vieille, un chat des sables a été repéré là où il n’était pas censé vivre",
+      "description": "Une simple vidéo YouTube de 19 secondes combinée à une une collaboration à distance ont permis de prouver que le discret chat des sables se trouvait bien en Libye, contrairement à ce que les spécialis...",
+      "url": "https://www.numerama.com/sciences/2285261-grace-a-une-video-youtube-tres-vieille-un-chat-des-sables-a-ete-repere-la-ou-il-netait-pas-cense-vivre.html",
+      "source": "Numerama",
+      "publishedAt": "2026-06-26T05:04:45Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "Cours d&#39;introduction : Introduction au langage Python",
+      "description": "INTRODUCTION AU LANGAGE PYTHON Bienvenue dans ce tout premier cours sur le langage Python Dans cette vidéo, ...",
+      "url": "https://www.youtube.com/watch?v=4VcWMP06kxw",
+      "source": "Coder : Python , C++ , html , css , java , PHP....",
+      "publishedAt": "2026-05-16T20:23:44Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "4VcWMP06kxw",
+      "thumbnail": "https://i.ytimg.com/vi/4VcWMP06kxw/hqdefault.jpg"
     },
     {
       "title": "Computer Vision - De la Théorie au Code en 1H",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "Anthropic accuse Alibaba du pillage massif de son IA Claude",
-      "description": "La guerre de l'intelligence artificielle entre les États-Unis et la Chine se poursuit sur tous les fronts. Anthropic pointe du doigt Alibaba pour une vaste opération de pillage technologique avec des ...",
-      "url": "https://www.generation-nt.com/actualites/anthropic-alibaba-claude-ia-distillation-accusation-acces-illegal-2077672",
-      "source": "Génération NT",
-      "publishedAt": "2026-06-25T09:30:01Z",
+      "title": "ZD Tech : Une IA valide par erreur une offre de rachat à 16 000 euros chez BMW",
+      "description": "Quand l'intelligence artificielle dérape, c'est l'entreprise qui paie la facture. Voici les 3 leçons indispensables à retenir pour protéger votre business et éviter le mirage du tout-automatisation.",
+      "url": "https://www.zdnet.fr/actualites/zd-tech-une-ia-valide-par-erreur-une-offre-de-rachat-a-16-000-euros-chez-bmw-497584.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-06-26T06:21:17Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,23 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "De Zéro à Hermes Agent en 10 Minutes Seulement ⏱️",
-      "description": "Serveur HERMES (coupon : GOHERMES) : https://www.hostinger.fr/gohermes Dans cette vidéo, je vous montre comment installer ...",
-      "url": "https://www.youtube.com/watch?v=wojqM-B7y2g",
-      "source": "Dr. Firas",
-      "publishedAt": "2026-05-12T11:01:34Z",
-      "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "wojqM-B7y2g",
-      "thumbnail": "https://i.ytimg.com/vi/wojqM-B7y2g/hqdefault.jpg"
-    },
-    {
-      "title": "\"La majorité des employeurs et des candidats utilisent aujourd’hui l’IA dans le processus de recrutement\"",
-      "description": "Connu pour sa plateforme de recrutement, le rennais Hellowork (600 salariés, 135 M€ de CA), analyse l’évolution des pratiques RH. Loïc Le Terrien, directeur exécutif emploi au sein de la filiale du gr...",
-      "url": "https://www.lejournaldesentreprises.com/article/la-majorite-des-employeurs-et-des-candidats-utilisent-aujourdhui-lia-dans-le-processus-de-2145517",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-06-24T16:07:00Z",
+      "title": "Marketing digital : révolution de l’IA et du Web3",
+      "description": "Comment l’intelligence artificielle et le Web3 transforment le marketing digital et les enjeux pour les entreprises. Livre de Stefan Lendi.",
+      "url": "https://blog.mbadmb.com/marketing-digital-ia-web3-stefan-lendi-2/",
+      "source": "Mbadmb.com",
+      "publishedAt": "2026-06-26T10:00:29Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "IA : les investisseurs parient sur les idées contre-intuitives",
-      "description": "Deux investisseurs IA ont détaillé leur méthode dans un marché qui file trop vite. Entre bulle, vrais moat et effet SpaceX, les signaux bougent déjà.",
-      "url": "https://www.begeek.fr/ia-les-investisseurs-parient-sur-les-idees-contre-intuitives-434661",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-06-25T08:00:06Z",
+      "title": "Plus que quelques heures : le prix du Google Pixel 10 Pro chute avant la fin du Prime Day",
+      "description": "Les amateurs de nouvelles technologies ont une belle carte à jouer pendant les dernières heures du Prime Day. Le Google Pixel 10 Pro bénéficie d'une remise intéressante sur Amazon. Équipé de Gemini, i...",
+      "url": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-plus-quelques-heures-prix-google-pixel-10-pro-chute-avant-fin-prime-day-10519/",
+      "source": "Futura",
+      "publishedAt": "2026-06-26T08:00:00Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cannes Lions : les agents IA dans l'achat média deviennent une réalité",
+      "description": "Les tests d'agents IA se généralisent, mais les questions sur la différenciation et le modèle économique nourrissent les réflexions dans les coulisses du Cannes Lions.",
+      "url": "https://www.journaldunet.com/adtech/1551905-cannes-2026-les-agents-dans-l-achat-media-c-est-du-concret/",
+      "source": "JDN",
+      "publishedAt": "2026-06-25T15:02:46Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

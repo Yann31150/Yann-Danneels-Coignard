@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 26 Jun 2026 10:54:47 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 10:13:09 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,28 +21,20 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Une IA moins chère pour tout le monde : OpenAI présente sa propre puce pour l’intelligence artificielle et réduit sa dépendance à Nvidia</title>
-            <link>https://www.journaldugeek.com/2026/06/25/une-ia-moins-chere-pour-tout-le-monde-openai-presente-sa-propre-puce-pour-lintelligence-artificielle-et-reduit-sa-dependance-a-nvidia/</link>
-            <description><![CDATA[OpenAI vient de présenter son propre accélérateur d’IA, dédié à l’inférence. Développé avec Broadcom et Celestica, ce composant devrait permettre au créateur de ChatGPT de faire baisser le coût de l’I...]]></description>
-            <pubDate>Thu, 25 Jun 2026 09:31:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/06/25/une-ia-moins-chere-pour-tout-le-monde-openai-presente-sa-propre-puce-pour-lintelligence-artificielle-et-reduit-sa-dependance-a-nvidia/</guid>
-            <source>Journal du geek</source>
+            <title>NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)</title>
+            <link>https://www.youtube.com/watch?v=3J5VPpX2Jww</link>
+            <description><![CDATA[Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...]]></description>
+            <pubDate>Wed, 24 Jun 2026 14:33:27 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=3J5VPpX2Jww</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>J&amp;#39;ai étudié les LLM pendant 6 mois (et j&amp;#39;ai enfin compris comment ChatGPT fonctionne)</title>
-            <link>https://www.youtube.com/watch?v=MjCJIJ4PuSw</link>
-            <description><![CDATA[Vous avez essayé de comprendre comment fonctionnent les LLM. Soit on vous dit "ça prédit le mot suivant, comme le clavier de ...]]></description>
-            <pubDate>Wed, 27 May 2026 09:30:28 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=MjCJIJ4PuSw</guid>
-            <source>Eliott Meunier</source>
-        </item>
-        <item>
-            <title>La détection des textes générés par l’IA, une bataille perdue d’avance ?</title>
-            <link>https://www.blogdumoderateur.com/detection-textes-generes-ia-bataille-perdue/</link>
-            <description><![CDATA[Plus de trois ans après l'émergence de ChatGPT, il n'est toujours pas possible de déterminer avec certitude si un contenu a été généré par une IA. Entre attentisme des acteurs et limites techniques, l...]]></description>
-            <pubDate>Thu, 25 Jun 2026 06:00:23 -0000</pubDate>
-            <guid isPermaLink="true">https://www.blogdumoderateur.com/detection-textes-generes-ia-bataille-perdue/</guid>
-            <source>Blogdumoderateur.com</source>
+            <title>Auto-encodeur sous Julia avec le package « Flux »</title>
+            <link>https://www.youtube.com/watch?v=zthiSmU0Pp4</link>
+            <description><![CDATA[Deep learning - Machine learning - Data science. Définition, paramétrage, instanciation et entraînement des autoencodeurs ...]]></description>
+            <pubDate>Wed, 17 Jun 2026 15:39:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=zthiSmU0Pp4</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
@@ -85,12 +77,20 @@
             <source>lioncode</source>
         </item>
         <item>
-            <title>Tom Hanks remplacé par une IA ? Le futur de Toy Story est déjà terrifiant</title>
-            <link>https://www.generation-nt.com/actualites/tom-hanks-ia-toy-story-2077641</link>
-            <description><![CDATA[Alors que Toy Story 5 cartonne au box-office, l'acteur Tom Hanks jette un froid en révélant ses craintes : Disney posséderait assez de données vocales pour le remplacer par une intelligence artificiel...]]></description>
-            <pubDate>Thu, 25 Jun 2026 08:05:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/tom-hanks-ia-toy-story-2077641</guid>
-            <source>Génération NT</source>
+            <title>ANTHROPIC recrute le patron IA d’ORANGE pour accélérer son développement en Europe</title>
+            <link>https://www.frenchweb.fr/anthropic-recrute-le-patron-ia-dorange-pour-accelerer-son-developpement-en-europe/462600</link>
+            <description><![CDATA[La guerre de l’intelligence artificielle ne se joue plus uniquement dans les laboratoires de recherche ni dans les centres de données, mais désormais au sein des directions informatiques des grands gr...]]></description>
+            <pubDate>Fri, 26 Jun 2026 06:43:32 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frenchweb.fr/anthropic-recrute-le-patron-ia-dorange-pour-accelerer-son-developpement-en-europe/462600</guid>
+            <source>Frenchweb.fr</source>
+        </item>
+        <item>
+            <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
+            <link>https://www.youtube.com/watch?v=IanWrDWQy0s</link>
+            <description><![CDATA[Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...]]></description>
+            <pubDate>Sat, 20 Jun 2026 17:56:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=IanWrDWQy0s</guid>
+            <source>Seif BOUGUERRA</source>
         </item>
         <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
@@ -133,14 +133,6 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS</title>
-            <link>https://www.youtube.com/watch?v=cnjhHZNJEDk</link>
-            <description><![CDATA[Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...]]></description>
-            <pubDate>Tue, 19 May 2026 12:30:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=cnjhHZNJEDk</guid>
-            <source>Alex The Analyst</source>
-        </item>
-        <item>
             <title>Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀</title>
             <link>https://www.youtube.com/watch?v=1Kokkl5PybM</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
@@ -157,22 +149,28 @@
             <source>DataSet By d@ne</source>
         </item>
         <item>
-            <title>Norton 360 Advanced : antivirus, VPN et surveillance du dark web pour sécuriser vos données</title>
-            <link>https://www.zdnet.fr/publicite/norton-360-advanced-antivirus-vpn-et-surveillance-du-dark-web-pour-securiser-vos-donnees-496099.htm</link>
-            <description><![CDATA[Pendant que vous lisez ces lignes, des milliers d'identifiants français s'échangent sur des
-forums du dark web. Emails, mots de passe, numéros de carte bancaire, comptes d'assurance,
-tout y passe. Le ...]]></description>
-            <pubDate>Thu, 25 Jun 2026 08:25:32 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/publicite/norton-360-advanced-antivirus-vpn-et-surveillance-du-dark-web-pour-securiser-vos-donnees-496099.htm</guid>
-            <source>ZDNet France</source>
+            <title>Vie extraterrestre : un rover de la Nasa révèle sur Mars une brique essentielle de la vie</title>
+            <link>https://www.futura-sciences.com/sciences/actualites/vie-mars-vie-extraterrestre-rover-nasa-revele-mars-brique-essentielle-vie-135646/</link>
+            <description><![CDATA[Il y a quelques milliards d’années, on trouvait, dans cette région de la planète Mars, une rivière qui charriait de l’eau à profusion. Et aujourd’hui, des chercheurs confirment y avoir détecté des mol...]]></description>
+            <pubDate>Thu, 25 Jun 2026 14:35:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/vie-mars-vie-extraterrestre-rover-nasa-revele-mars-brique-essentielle-vie-135646/</guid>
+            <source>Futura</source>
         </item>
         <item>
-            <title>Moteurs F1 : le thermique reprend l’ascendant dès 2027</title>
-            <link>https://www.leblogauto.com/actualites/moteurs-f1-le-thermique-reprend-lascendant-des-2027/</link>
-            <description><![CDATA[Le Conseil mondial du sport automobile a ratifié d’importantes modifications des groupes motopropulseurs pour les saisons 2027 et 2028 de Formule 1.  Une règlementation 2026 largement critiquée La nou...]]></description>
-            <pubDate>Thu, 25 Jun 2026 08:06:04 -0000</pubDate>
-            <guid isPermaLink="true">https://www.leblogauto.com/actualites/moteurs-f1-le-thermique-reprend-lascendant-des-2027/</guid>
-            <source>Leblogauto.com</source>
+            <title>Grâce à une vidéo YouTube très vieille, un chat des sables a été repéré là où il n’était pas censé vivre</title>
+            <link>https://www.numerama.com/sciences/2285261-grace-a-une-video-youtube-tres-vieille-un-chat-des-sables-a-ete-repere-la-ou-il-netait-pas-cense-vivre.html</link>
+            <description><![CDATA[Une simple vidéo YouTube de 19 secondes combinée à une une collaboration à distance ont permis de prouver que le discret chat des sables se trouvait bien en Libye, contrairement à ce que les spécialis...]]></description>
+            <pubDate>Fri, 26 Jun 2026 05:04:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/sciences/2285261-grace-a-une-video-youtube-tres-vieille-un-chat-des-sables-a-ete-repere-la-ou-il-netait-pas-cense-vivre.html</guid>
+            <source>Numerama</source>
+        </item>
+        <item>
+            <title>Cours d&amp;#39;introduction : Introduction au langage Python</title>
+            <link>https://www.youtube.com/watch?v=4VcWMP06kxw</link>
+            <description><![CDATA[INTRODUCTION AU LANGAGE PYTHON Bienvenue dans ce tout premier cours sur le langage Python Dans cette vidéo, ...]]></description>
+            <pubDate>Sat, 16 May 2026 20:23:44 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=4VcWMP06kxw</guid>
+            <source>Coder : Python , C++ , html , css , java , PHP....</source>
         </item>
     </channel>
 </rss>
