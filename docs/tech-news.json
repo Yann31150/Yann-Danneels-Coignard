@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-27T10:13:09.517939",
+  "lastUpdate": "2026-06-28T10:30:09.944845",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -14,28 +14,16 @@
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
     },
     {
-      "title": "NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)",
-      "description": "Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...",
-      "url": "https://www.youtube.com/watch?v=3J5VPpX2Jww",
+      "title": "NLP - Topic Modeling sous Python avec « BERTopic »",
+      "description": "Machine learning. Data science. NLP (natural language processing). Text mining. Le « topic modeling » (modélisation de sujets) ...",
+      "url": "https://www.youtube.com/watch?v=PAUvOSpyp-0",
       "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-06-24T14:33:27Z",
+      "publishedAt": "2026-06-26T09:51:10Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "3J5VPpX2Jww",
-      "thumbnail": "https://i.ytimg.com/vi/3J5VPpX2Jww/hqdefault.jpg"
-    },
-    {
-      "title": "Auto-encodeur sous Julia avec le package « Flux »",
-      "description": "Deep learning - Machine learning - Data science. Définition, paramétrage, instanciation et entraînement des autoencodeurs ...",
-      "url": "https://www.youtube.com/watch?v=zthiSmU0Pp4",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-06-17T15:39:13Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "zthiSmU0Pp4",
-      "thumbnail": "https://i.ytimg.com/vi/zthiSmU0Pp4/hqdefault.jpg"
+      "videoId": "PAUvOSpyp-0",
+      "thumbnail": "https://i.ytimg.com/vi/PAUvOSpyp-0/hqdefault.jpg"
     },
     {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
@@ -98,18 +86,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
     },
     {
-      "title": "ANTHROPIC recrute le patron IA d’ORANGE pour accélérer son développement en Europe",
-      "description": "La guerre de l’intelligence artificielle ne se joue plus uniquement dans les laboratoires de recherche ni dans les centres de données, mais désormais au sein des directions informatiques des grands gr...",
-      "url": "https://www.frenchweb.fr/anthropic-recrute-le-patron-ia-dorange-pour-accelerer-son-developpement-en-europe/462600",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-06-26T06:43:32Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
       "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
       "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
@@ -120,6 +96,30 @@
       "isYouTube": true,
       "videoId": "IanWrDWQy0s",
       "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
+    },
+    {
+      "title": "Python for Data Analytics (2026) |Complete Guide with FREE Resources|How to Learn Python|Intellipaat",
+      "description": "Enroll for Intellipaat's Python Course: https://intellipaat.com/python-certification-training-online/ Book your Free ...",
+      "url": "https://www.youtube.com/watch?v=nI9lVOH0htY",
+      "source": "Intellipaat",
+      "publishedAt": "2026-06-08T17:30:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "nI9lVOH0htY",
+      "thumbnail": "https://i.ytimg.com/vi/nI9lVOH0htY/hqdefault.jpg"
+    },
+    {
+      "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-05-10T15:00:38Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "w2JE7HUNJFU",
+      "thumbnail": "https://i.ytimg.com/vi/w2JE7HUNJFU/hqdefault.jpg"
     },
     {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
@@ -158,18 +158,6 @@
       "thumbnail": "https://i.ytimg.com/vi/OhT0MEFKylY/hqdefault.jpg"
     },
     {
-      "title": "Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)",
-      "description": "Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...",
-      "url": "https://www.youtube.com/watch?v=2A5rNESVS9w",
-      "source": "AMVOULA Naïsia ",
-      "publishedAt": "2026-06-14T14:37:38Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "2A5rNESVS9w",
-      "thumbnail": "https://i.ytimg.com/vi/2A5rNESVS9w/hqdefault.jpg"
-    },
-    {
       "title": "SQL pour Data Analyst - Formation Complète",
       "description": "Rejoins le programme pour maîtriser SQL : https://store.ledecodeur.fr/programme-sql ​ Les données utilisées lors du projet ...",
       "url": "https://www.youtube.com/watch?v=-9NppUySsk0",
@@ -180,6 +168,18 @@
       "isYouTube": true,
       "videoId": "-9NppUySsk0",
       "thumbnail": "https://i.ytimg.com/vi/-9NppUySsk0/hqdefault.jpg"
+    },
+    {
+      "title": "Actualité : Fitbit Air : quand Google fait le pari de la discrétion à tout prix",
+      "description": "Propriétaire de Fitbit, Google bouscule le marché des wearables avec le Fitbit Air. Vendu 99 €, ce tracker d’activité se passe d’écran et de notifications pour miser sur la discrétion et un suivi d'ac...",
+      "url": "https://www.lesnumeriques.com/capteur-activite/fitbit-air-quand-google-fait-le-pari-de-la-discretion-a-tout-prix-n258089.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-06-27T08:20:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀",
@@ -206,11 +206,11 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "Vie extraterrestre : un rover de la Nasa révèle sur Mars une brique essentielle de la vie",
-      "description": "Il y a quelques milliards d’années, on trouvait, dans cette région de la planète Mars, une rivière qui charriait de l’eau à profusion. Et aujourd’hui, des chercheurs confirment y avoir détecté des mol...",
-      "url": "https://www.futura-sciences.com/sciences/actualites/vie-mars-vie-extraterrestre-rover-nasa-revele-mars-brique-essentielle-vie-135646/",
-      "source": "Futura",
-      "publishedAt": "2026-06-25T14:35:33Z",
+      "title": "AMD propose son SDK FSR 2.3.0",
+      "description": "AMD par le biais de Github vient de mettre en ligne son SDK FSR 2.3.0 et ce dernier apporte quelques nouveautés !AMD FSR Upscaling 4.1.1\n- Added support for AMD FSR Upscaling 4.1 on AMD Radeon RX 70...",
+      "url": "https://www.cowcotland.com/news/101452/amd-propose-son-sdk-fsr-2-3-0.html",
+      "source": "Cowcotland.com",
+      "publishedAt": "2026-06-26T10:57:11Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,11 +218,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Grâce à une vidéo YouTube très vieille, un chat des sables a été repéré là où il n’était pas censé vivre",
-      "description": "Une simple vidéo YouTube de 19 secondes combinée à une une collaboration à distance ont permis de prouver que le discret chat des sables se trouvait bien en Libye, contrairement à ce que les spécialis...",
-      "url": "https://www.numerama.com/sciences/2285261-grace-a-une-video-youtube-tres-vieille-un-chat-des-sables-a-ete-repere-la-ou-il-netait-pas-cense-vivre.html",
-      "source": "Numerama",
-      "publishedAt": "2026-06-26T05:04:45Z",
+      "title": "La Porsche 911 serait la voiture la moins décevante du marché (en tout cas au début)",
+      "description": "Selon l’organisme JD Power qui analyse régulièrement les problèmes rencontrés par les possesseurs des voitures récentes sur le marché américain, la sportive allemande s’impose comme la meilleure voitu...",
+      "url": "https://www.caradisiac.com/la-porsche-911-serait-la-voiture-la-moins-decevante-du-marche-en-tout-cas-au-debut-222790.htm",
+      "source": "Caradisiac.com",
+      "publishedAt": "2026-06-26T18:23:04Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,16 +230,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Cours d&#39;introduction : Introduction au langage Python",
-      "description": "INTRODUCTION AU LANGAGE PYTHON Bienvenue dans ce tout premier cours sur le langage Python Dans cette vidéo, ...",
-      "url": "https://www.youtube.com/watch?v=4VcWMP06kxw",
-      "source": "Coder : Python , C++ , html , css , java , PHP....",
-      "publishedAt": "2026-05-16T20:23:44Z",
+      "title": "06. Les fonctions en python",
+      "description": "Les Fonctions en Python : Guide Complet pour Débutants Dans cette vidéo, nous découvrons les fonctions en Python, un concept ...",
+      "url": "https://www.youtube.com/watch?v=6uJ-BBRexD4",
+      "source": "TKJ Informatique",
+      "publishedAt": "2026-06-22T18:45:01Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "4VcWMP06kxw",
-      "thumbnail": "https://i.ytimg.com/vi/4VcWMP06kxw/hqdefault.jpg"
+      "videoId": "6uJ-BBRexD4",
+      "thumbnail": "https://i.ytimg.com/vi/6uJ-BBRexD4/hqdefault.jpg"
     },
     {
       "title": "Computer Vision - De la Théorie au Code en 1H",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "ZD Tech : Une IA valide par erreur une offre de rachat à 16 000 euros chez BMW",
-      "description": "Quand l'intelligence artificielle dérape, c'est l'entreprise qui paie la facture. Voici les 3 leçons indispensables à retenir pour protéger votre business et éviter le mirage du tout-automatisation.",
-      "url": "https://www.zdnet.fr/actualites/zd-tech-une-ia-valide-par-erreur-une-offre-de-rachat-a-16-000-euros-chez-bmw-497584.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-06-26T06:21:17Z",
+      "title": "AlphaEdge monte en puissance dans l’IA frugale et souveraine et prépare une levée de fonds",
+      "description": "Créée sur les bases d’AlphaPen, lancée fin 2023 pour développer un stylo intelligent qui numérise les écrits et les restitue en un format numérique éditable, la start-up angevine AlphaEdge a développé...",
+      "url": "https://www.lejournaldesentreprises.com/article/alphaedge-monte-en-puissance-dans-lia-frugale-et-souveraine-et-prepare-une-levee-de-fonds-2145667",
+      "source": "Le Journal des Entreprises",
+      "publishedAt": "2026-06-26T14:14:56Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Marketing digital : révolution de l’IA et du Web3",
-      "description": "Comment l’intelligence artificielle et le Web3 transforment le marketing digital et les enjeux pour les entreprises. Livre de Stefan Lendi.",
-      "url": "https://blog.mbadmb.com/marketing-digital-ia-web3-stefan-lendi-2/",
-      "source": "Mbadmb.com",
-      "publishedAt": "2026-06-26T10:00:29Z",
+      "title": "L’Inde peut-elle inspirer la révolution numérique européenne ?",
+      "description": "Alors que l’Europe débat sans fin de régulation, d’intelligence artificielle et de souveraineté numérique, l’Inde a choisi une autre voie : faire du numérique non pas seulement un marché, mais une inf...",
+      "url": "https://www.opinion-internationale.com/2026/06/27/linde-peut-elle-inspirer-la-revolution-numerique-europeenne_143049.html",
+      "source": "Opinion-internationale.com",
+      "publishedAt": "2026-06-27T09:35:29Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,23 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Plus que quelques heures : le prix du Google Pixel 10 Pro chute avant la fin du Prime Day",
-      "description": "Les amateurs de nouvelles technologies ont une belle carte à jouer pendant les dernières heures du Prime Day. Le Google Pixel 10 Pro bénéficie d'une remise intéressante sur Amazon. Équipé de Gemini, i...",
-      "url": "https://www.futura-sciences.com/conso/bons-plans/guides-smartphones-plus-quelques-heures-prix-google-pixel-10-pro-chute-avant-fin-prime-day-10519/",
-      "source": "Futura",
-      "publishedAt": "2026-06-26T08:00:00Z",
-      "category": "innovation",
+      "title": "SchoolFan est la première initiative européenne de lutte contre la désinformation climatique",
+      "description": "Grâce à un modèle éducatif innovant, les adolescents peuvent identifier jusqu'à 90 % des fausses informations climatiques sur les réseaux sociaux Après deux années de coopération entre l'Espagne, le P...",
+      "url": "https://www.prnewswire.com/news-releases/schoolfan-est-la-premiere-initiative-europeenne-de-lutte-contre-la-desinformation-climatique-302811974.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-26T14:32:00Z",
+      "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Cannes Lions : les agents IA dans l'achat média deviennent une réalité",
-      "description": "Les tests d'agents IA se généralisent, mais les questions sur la différenciation et le modèle économique nourrissent les réflexions dans les coulisses du Cannes Lions.",
-      "url": "https://www.journaldunet.com/adtech/1551905-cannes-2026-les-agents-dans-l-achat-media-c-est-du-concret/",
-      "source": "JDN",
-      "publishedAt": "2026-06-25T15:02:46Z",
+      "title": "De Nice à Évian et Paris, la diplomatie selon Narendra Modi et Emmanuel Macron. L’édito de Michel Taube",
+      "description": "Narendra Modi s’est rendu en France du 14 au 17 juin 2026 et il a traversé trois France : Nice, Evian, Paris. À Nice, où il a été reçu par le nouveau maire…\nL’article De Nice à Évian et Paris, la dipl...",
+      "url": "https://www.opinion-internationale.com/2026/06/27/de-nice-a-evian-et-paris-la-diplomatie-selon-narendra-modi-et-emmanuel-macron-ledito-de-michel-taube_143044.html",
+      "source": "Opinion-internationale.com",
+      "publishedAt": "2026-06-27T09:29:58Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
