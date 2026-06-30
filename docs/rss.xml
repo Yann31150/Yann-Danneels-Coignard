@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 29 Jun 2026 12:37:58 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 11:13:18 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,6 +21,31 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
+            <title>Fini les échanges hachés avec ChatGPT : Bidi 1 écoute et parle en même temps dès cette semaine</title>
+            <link>https://www.tuxboard.com/fini-les-echanges-haches-avec-chatgpt-bidi-1-ecoute-et-parle-en-meme-temps-des-cette-semaine/</link>
+            <description><![CDATA[Vous avez sûrement déjà vécu ce moment frustrant : vous parlez à voix haute à votre assistant IA, et il...
+L’article Fini les échanges hachés avec ChatGPT : Bidi 1 écoute et parle en même temps dès ce...]]></description>
+            <pubDate>Mon, 29 Jun 2026 09:30:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.tuxboard.com/fini-les-echanges-haches-avec-chatgpt-bidi-1-ecoute-et-parle-en-meme-temps-des-cette-semaine/</guid>
+            <source>Tuxboard.com</source>
+        </item>
+        <item>
+            <title>GPT-5.6 débarque, mais pas chez vous : l’administration Trump renforce sa surveillance des nouveaux modèles d’IA, et ChatGPT est le prochain concerné</title>
+            <link>https://www.presse-citron.net/gpt-5-6-administration-trump-surveillance-ia-chatgpt/</link>
+            <description><![CDATA[OpenAI vient de présenter de nouveaux modèles d’IA. Mais ceux-ci ne sont pas encore disponibles sur ChatGPT, à la demande de l’administration Trump.]]></description>
+            <pubDate>Mon, 29 Jun 2026 10:31:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/gpt-5-6-administration-trump-surveillance-ia-chatgpt/</guid>
+            <source>Presse-citron</source>
+        </item>
+        <item>
+            <title>Actualité : ChatGPT : GPT-5.6 montre enfin ce que la prochaine génération d’IA sait faire, mais l’accès reste sous contrôle américain</title>
+            <link>https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-gpt-5-6-montre-enfin-ce-que-la-prochaine-generation-d-ia-sait-faire-mais-l-acces-reste-sous-controle-americain-n258582.html</link>
+            <description><![CDATA[Plus performant en programmation, en cybersécurité et dans certains travaux scientifiques, GPT-5.6 marque une nouvelle étape pour OpenAI. L'entreprise promet également un raisonnement plus approfondi ...]]></description>
+            <pubDate>Mon, 29 Jun 2026 09:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-gpt-5-6-montre-enfin-ce-que-la-prochaine-generation-d-ia-sait-faire-mais-l-acces-reste-sous-controle-americain-n258582.html</guid>
+            <source>Les Numériques</source>
+        </item>
+        <item>
             <title>NLP - Topic Modeling sous Python avec « BERTopic »</title>
             <link>https://www.youtube.com/watch?v=PAUvOSpyp-0</link>
             <description><![CDATA[Machine learning. Data science. NLP (natural language processing). Text mining. Le « topic modeling » (modélisation de sujets) ...]]></description>
@@ -29,12 +54,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Les carnets de Jean-Claude Heudin : les grands modèles de langage sont-ils conscients ? Le prix Nobel Goeffrey Hinton pense que oui. Je pense qu’il a tort.</title>
-            <link>https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-carnets-jean-claude-heudin-grands-modeles-langage-sont-ils-conscients-prix-nobel-goeffrey-hinton-pense-oui-je-pense-quil-tort-135616/</link>
-            <description><![CDATA[Le prix Nobel Geoffrey Hinton affirme que les IA comme ChatGPT seraient déjà conscientes : et si cette idée, aussi fascinante qu’inquiétante, reposait sur une illusion très convaincante ? Dans cette c...]]></description>
-            <pubDate>Sun, 28 Jun 2026 10:07:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-carnets-jean-claude-heudin-grands-modeles-langage-sont-ils-conscients-prix-nobel-goeffrey-hinton-pense-oui-je-pense-quil-tort-135616/</guid>
-            <source>Futura</source>
+            <title>Nous pensions inventer nos mots en toute liberté, mais une intelligence artificielle prouve le contraire</title>
+            <link>https://dailygeekshow.com/?p=1011748</link>
+            <description><![CDATA[L’apparition de nouveaux termes dans notre vocabulaire semble relever de la pure créativité. Pourtant, une modélisation par intelligence artificielle montre que les langues se développent selon des rè...]]></description>
+            <pubDate>Sun, 28 Jun 2026 16:01:00 -0000</pubDate>
+            <guid isPermaLink="true">https://dailygeekshow.com/?p=1011748</guid>
+            <source>Daily Geek Show</source>
         </item>
         <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
@@ -43,6 +68,14 @@
             <pubDate>Mon, 25 May 2026 13:45:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=mdsnXx_tBEs</guid>
             <source>IA Futura</source>
+        </item>
+        <item>
+            <title>Comment ChatGPT sait ce que les mots veulent dire (Embeddings)</title>
+            <link>https://www.youtube.com/watch?v=ktL8oV26XYg</link>
+            <description><![CDATA[Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...]]></description>
+            <pubDate>Thu, 18 Jun 2026 08:01:19 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ktL8oV26XYg</guid>
+            <source>How AI Works?</source>
         </item>
         <item>
             <title>Claude rend Power BI 10x plus rapide</title>
@@ -61,38 +94,6 @@
             <source>ModAi Lab | SQL & Data par l'IA</source>
         </item>
         <item>
-            <title>Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)</title>
-            <link>https://www.youtube.com/watch?v=1tlM9a4eEII</link>
-            <description><![CDATA[Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...]]></description>
-            <pubDate>Thu, 11 Jun 2026 10:53:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1tlM9a4eEII</guid>
-            <source>lioncode</source>
-        </item>
-        <item>
-            <title>Comment Elon Musk imagine un futur où l’argent compte moins avec une idée loin de convaincre tout le monde ?</title>
-            <link>https://dailygeekshow.com/?p=1011654</link>
-            <description><![CDATA[Et si préparer sa retraite devenait absurde avant même la fin de la décennie ? En affirmant que l’intelligence artificielle et les robots rendront bientôt l’argent presque secondaire, Elon Musk a lanc...]]></description>
-            <pubDate>Sat, 27 Jun 2026 17:36:00 -0000</pubDate>
-            <guid isPermaLink="true">https://dailygeekshow.com/?p=1011654</guid>
-            <source>Daily Geek Show</source>
-        </item>
-        <item>
-            <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
-            <link>https://www.youtube.com/watch?v=IanWrDWQy0s</link>
-            <description><![CDATA[Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...]]></description>
-            <pubDate>Sat, 20 Jun 2026 17:56:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=IanWrDWQy0s</guid>
-            <source>Seif BOUGUERRA</source>
-        </item>
-        <item>
-            <title>5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population</title>
-            <link>https://www.youtube.com/watch?v=w2JE7HUNJFU</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...]]></description>
-            <pubDate>Sun, 10 May 2026 15:00:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=w2JE7HUNJFU</guid>
-            <source>Yassine Sdiri</source>
-        </item>
-        <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
             <link>https://www.youtube.com/watch?v=rhE7Ab_sBTo</link>
             <description><![CDATA[Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...]]></description>
@@ -107,14 +108,6 @@
             <pubDate>Thu, 11 Jun 2026 09:31:32 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=-kGlpSTHPf4</guid>
             <source>lioncode</source>
-        </item>
-        <item>
-            <title>Power BI Creer un tableau de bord de A à Z</title>
-            <link>https://www.youtube.com/watch?v=5zWEMjvm86o</link>
-            <description><![CDATA[FORMATION POWER BI GRATUITE – VIDÉO 3 : CRÉATION D'UN TABLEAU DE BORD INTERACTIF DE A À Z Bienvenue dans ...]]></description>
-            <pubDate>Sat, 13 Jun 2026 21:22:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=5zWEMjvm86o</guid>
-            <source>Ceemtic Analytics</source>
         </item>
         <item>
             <title>Power BI : je construis un tableau de bord pour mon client (de A à Z)</title>
@@ -149,20 +142,12 @@
             <source>Alex The Analyst</source>
         </item>
         <item>
-            <title>Actualité : Fitbit Air : quand Google fait le pari de la discrétion à tout prix</title>
-            <link>https://www.lesnumeriques.com/capteur-activite/fitbit-air-quand-google-fait-le-pari-de-la-discretion-a-tout-prix-n258089.html</link>
-            <description><![CDATA[Propriétaire de Fitbit, Google bouscule le marché des wearables avec le Fitbit Air. Vendu 99 €, ce tracker d’activité se passe d’écran et de notifications pour miser sur la discrétion et un suivi d'ac...]]></description>
-            <pubDate>Sat, 27 Jun 2026 08:20:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/capteur-activite/fitbit-air-quand-google-fait-le-pari-de-la-discretion-a-tout-prix-n258089.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
-            <title>Google jugé coupable pour la qualité de ses réponses résumées par l’IA</title>
-            <link>https://www.franceinfo.fr/replay-radio/nouveau-monde/google-juge-coupable-pour-la-qualite-de-ses-reponses-resumees-par-l-ia_8058449.html</link>
-            <description><![CDATA[La mise à disposition par Google de réponses rédigées par ses algorithmes à partir de données collectées en ligne peut conduire à la diffusion d'informations erronées. Un tribunal allemand a établi la...]]></description>
-            <pubDate>Sat, 27 Jun 2026 16:05:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/nouveau-monde/google-juge-coupable-pour-la-qualite-de-ses-reponses-resumees-par-l-ia_8058449.html</guid>
-            <source>Franceinfo.fr</source>
+            <title>Kehua, ESN et TÜV Rheinland publient conjointement un livre blanc sur le stockage énergétique grid-forming lors de l'Intersolar Europe 2026</title>
+            <link>https://www.prnewswire.com/news-releases/kehua-esn-et-tuv-rheinland-publient-conjointement-un-livre-blanc-sur-le-stockage-energetique-grid-forming-lors-de-lintersolar-europe-2026-302812826.html</link>
+            <description><![CDATA[MUNICH, 29 juin 2026 /PRNewswire/ -- L'expansion rapide des infrastructures de centres de données basées sur l'IA est en train de remodeler la demande mondiale en électricité, ce qui alourdit les défi...]]></description>
+            <pubDate>Mon, 29 Jun 2026 06:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/kehua-esn-et-tuv-rheinland-publient-conjointement-un-livre-blanc-sur-le-stockage-energetique-grid-forming-lors-de-lintersolar-europe-2026-302812826.html</guid>
+            <source>PRNewswire</source>
         </item>
         <item>
             <title>Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀</title>
@@ -171,6 +156,22 @@
             <pubDate>Thu, 04 Jun 2026 09:00:14 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=1Kokkl5PybM</guid>
             <source>Morpheus Formation | Excel, Power BI, Sheets</source>
+        </item>
+        <item>
+            <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>
+            <link>https://www.youtube.com/watch?v=9t1mXWkqj0g</link>
+            <description><![CDATA[Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...]]></description>
+            <pubDate>Sun, 10 May 2026 18:00:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=9t1mXWkqj0g</guid>
+            <source>DataSet By d@ne</source>
+        </item>
+        <item>
+            <title>L’Unesco lance une plateforme pour la science ouverte</title>
+            <link>https://www.zdnet.fr/blogs/l-esprit-libre/lunesco-lance-une-plateforme-pour-la-science-ouverte-497917.htm</link>
+            <description><![CDATA[En combinant "les publications scientifiques liées à l'Unesco avec des données sur les progrès mondiaux de la science ouverte", sa plateforme veut contribuer à rendre les connaissances plus accessible...]]></description>
+            <pubDate>Mon, 29 Jun 2026 10:06:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/blogs/l-esprit-libre/lunesco-lance-une-plateforme-pour-la-science-ouverte-497917.htm</guid>
+            <source>ZDNet France</source>
         </item>
     </channel>
 </rss>
