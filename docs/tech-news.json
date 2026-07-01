@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-30T11:13:18.645040",
+  "lastUpdate": "2026-07-01T11:27:46.763576",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -14,42 +14,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
     },
     {
-      "title": "Fini les échanges hachés avec ChatGPT : Bidi 1 écoute et parle en même temps dès cette semaine",
-      "description": "Vous avez sûrement déjà vécu ce moment frustrant : vous parlez à voix haute à votre assistant IA, et il...\nL’article Fini les échanges hachés avec ChatGPT : Bidi 1 écoute et parle en même temps dès ce...",
-      "url": "https://www.tuxboard.com/fini-les-echanges-haches-avec-chatgpt-bidi-1-ecoute-et-parle-en-meme-temps-des-cette-semaine/",
-      "source": "Tuxboard.com",
-      "publishedAt": "2026-06-29T09:30:29Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "GPT-5.6 débarque, mais pas chez vous : l’administration Trump renforce sa surveillance des nouveaux modèles d’IA, et ChatGPT est le prochain concerné",
-      "description": "OpenAI vient de présenter de nouveaux modèles d’IA. Mais ceux-ci ne sont pas encore disponibles sur ChatGPT, à la demande de l’administration Trump.",
-      "url": "https://www.presse-citron.net/gpt-5-6-administration-trump-surveillance-ia-chatgpt/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-06-29T10:31:05Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Actualité : ChatGPT : GPT-5.6 montre enfin ce que la prochaine génération d’IA sait faire, mais l’accès reste sous contrôle américain",
-      "description": "Plus performant en programmation, en cybersécurité et dans certains travaux scientifiques, GPT-5.6 marque une nouvelle étape pour OpenAI. L'entreprise promet également un raisonnement plus approfondi ...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-gpt-5-6-montre-enfin-ce-que-la-prochaine-generation-d-ia-sait-faire-mais-l-acces-reste-sous-controle-americain-n258582.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-06-29T09:30:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "NLP - Topic Modeling sous Python avec « BERTopic »",
       "description": "Machine learning. Data science. NLP (natural language processing). Text mining. Le « topic modeling » (modélisation de sujets) ...",
       "url": "https://www.youtube.com/watch?v=PAUvOSpyp-0",
@@ -62,11 +26,11 @@
       "thumbnail": "https://i.ytimg.com/vi/PAUvOSpyp-0/hqdefault.jpg"
     },
     {
-      "title": "Nous pensions inventer nos mots en toute liberté, mais une intelligence artificielle prouve le contraire",
-      "description": "L’apparition de nouveaux termes dans notre vocabulaire semble relever de la pure créativité. Pourtant, une modélisation par intelligence artificielle montre que les langues se développent selon des rè...",
-      "url": "https://dailygeekshow.com/?p=1011748",
-      "source": "Daily Geek Show",
-      "publishedAt": "2026-06-28T16:01:00Z",
+      "title": "IA : les alternatives aux LLM pour la performance des processus",
+      "description": "Les LLM excellent pour générer du texte, mais peinent en milieu industriel. Voici quelques alternatives utilisées par les entreprises pour optimiser, contrôler et automatiser avec stabilité.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1552001-ia-les-alternatives-aux-llm-pour-la-performance-des-processus/",
+      "source": "JDN",
+      "publishedAt": "2026-06-30T09:07:21Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -122,6 +86,42 @@
       "thumbnail": "https://i.ytimg.com/vi/bvm-n-HN8ws/hqdefault.jpg"
     },
     {
+      "title": "Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)",
+      "description": "Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...",
+      "url": "https://www.youtube.com/watch?v=1tlM9a4eEII",
+      "source": "lioncode",
+      "publishedAt": "2026-06-11T10:53:29Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1tlM9a4eEII",
+      "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
+    },
+    {
+      "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
+      "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
+      "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
+      "source": "Seif BOUGUERRA",
+      "publishedAt": "2026-06-20T17:56:01Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "IanWrDWQy0s",
+      "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
+    },
+    {
+      "title": "Apple accélère ses mises à jour de sécurité : ce changement en dit long sur la menace IA",
+      "description": "L’intelligence artificielle permet aux hackers d’accélérer le développement d’outils pour exploiter les failles des systèmes. Pour réduire cette fenêtre d'exposition, Apple diffuse désormais ses corre...",
+      "url": "https://www.futura-sciences.com/tech/actualites/apple-apple-accelere-mises-jour-securite-ce-changement-dit-long-menace-ia-135769/",
+      "source": "Futura",
+      "publishedAt": "2026-06-30T11:03:37Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
       "description": "Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...",
       "url": "https://www.youtube.com/watch?v=rhE7Ab_sBTo",
@@ -146,6 +146,18 @@
       "thumbnail": "https://i.ytimg.com/vi/-kGlpSTHPf4/hqdefault.jpg"
     },
     {
+      "title": "Power BI Creer un tableau de bord de A à Z",
+      "description": "FORMATION POWER BI GRATUITE – VIDÉO 3 : CRÉATION D'UN TABLEAU DE BORD INTERACTIF DE A À Z Bienvenue dans ...",
+      "url": "https://www.youtube.com/watch?v=5zWEMjvm86o",
+      "source": "Ceemtic Analytics",
+      "publishedAt": "2026-06-13T21:22:56Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "5zWEMjvm86o",
+      "thumbnail": "https://i.ytimg.com/vi/5zWEMjvm86o/hqdefault.jpg"
+    },
+    {
       "title": "Power BI : je construis un tableau de bord pour mon client (de A à Z)",
       "description": "Apprends les bases indispensables de Power BI et réalise ton premier tableau de bord en moins d'une heure ! Au travers d'un ...",
       "url": "https://www.youtube.com/watch?v=OhT0MEFKylY",
@@ -156,18 +168,6 @@
       "isYouTube": true,
       "videoId": "OhT0MEFKylY",
       "thumbnail": "https://i.ytimg.com/vi/OhT0MEFKylY/hqdefault.jpg"
-    },
-    {
-      "title": "Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)",
-      "description": "Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...",
-      "url": "https://www.youtube.com/watch?v=2A5rNESVS9w",
-      "source": "AMVOULA Naïsia ",
-      "publishedAt": "2026-06-14T14:37:38Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "2A5rNESVS9w",
-      "thumbnail": "https://i.ytimg.com/vi/2A5rNESVS9w/hqdefault.jpg"
     },
     {
       "title": "SQL pour Data Analyst - Formation Complète",
@@ -182,6 +182,18 @@
       "thumbnail": "https://i.ytimg.com/vi/-9NppUySsk0/hqdefault.jpg"
     },
     {
+      "title": "L'IA transforme l'IoT en intelligence ambiante",
+      "description": "Longtemps centré sur la collecte de données, l'IoT évolue sous l'impulsion de l'IA vers une intelligence ambiante capable de comprendre, anticiper et optimiser les opérations en temps réel.",
+      "url": "https://www.journaldunet.com/iot/1551941-l-ia-transforme-l-iot-en-intelligence-ambiante/",
+      "source": "JDN",
+      "publishedAt": "2026-06-30T09:37:38Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
       "description": "Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...",
       "url": "https://www.youtube.com/watch?v=cnjhHZNJEDk",
@@ -192,18 +204,6 @@
       "isYouTube": true,
       "videoId": "cnjhHZNJEDk",
       "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
-    },
-    {
-      "title": "Kehua, ESN et TÜV Rheinland publient conjointement un livre blanc sur le stockage énergétique grid-forming lors de l'Intersolar Europe 2026",
-      "description": "MUNICH, 29 juin 2026 /PRNewswire/ -- L'expansion rapide des infrastructures de centres de données basées sur l'IA est en train de remodeler la demande mondiale en électricité, ce qui alourdit les défi...",
-      "url": "https://www.prnewswire.com/news-releases/kehua-esn-et-tuv-rheinland-publient-conjointement-un-livre-blanc-sur-le-stockage-energetique-grid-forming-lors-de-lintersolar-europe-2026-302812826.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-06-29T06:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "Norton – AI for Good : protéger les fichiers sensibles quand les usages IA passent par le cloud",
-      "description": "L’essor des outils d’intelligence artificielle et des services cloud a profondément modifié la manière dont les fichiers sont créés, partagés et stockés. CV, documents de formation, identifiants ou en...",
-      "url": "https://www.zdnet.fr/publicite/norton-ai-for-good-proteger-les-fichiers-sensibles-quand-les-usages-ia-passent-par-le-cloud-497311.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-06-29T07:39:38Z",
+      "title": "Google va lancer cet été deux nouvelles fonctionnalités IA dans son moteur de recherche et tente de rassurer les éditeurs de presse",
+      "description": "Le géant de la tech se prépare notamment à lancer Aperçus IA (AI Overviews), qui proposera des résumés de contenus générés par intelligence artificielle lors de recherches Google.",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/google-va-lancer-cet-ete-deux-nouvelles-fonctionnalites-ia-dans-son-moteur-de-recherche-et-tente-de-rassurer-les-editeurs-de-presse_8086262.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-06-30T06:49:04Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,36 +266,36 @@
       "thumbnail": ""
     },
     {
-      "title": "IA, communication et leadership : les dirigeants se trompent de bataille",
-      "description": "L'IA est en train de banaliser la technologie. Le véritable avantage ne sera plus l'intelligence artificielle, mais la capacité des dirigeants à donner une vision, à décider et à inspirer la confiance",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1551949-ia-communication-et-leadership-les-dirigeants-se-trompent-de-bataille/",
-      "source": "JDN",
-      "publishedAt": "2026-06-29T09:02:38Z",
+      "title": "L’IA peut-elle remplacer le patron ? Cette étude répond non",
+      "description": "Des chercheurs de Princeton ont confié les commandes d'une entreprise simulée à des IA pendant 500 jours. La plupart ont mis la société en faillite, et un simple script sans intelligence artificielle ...",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3162355_lia-peut-elle-remplacer-le-patron-cette-etude-repond-non",
+      "source": "Frandroid",
+      "publishedAt": "2026-06-30T09:03:23Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Face aux géants américains, l’Europe doit mettre en œuvre sa propre politique industrielle de l’IA",
+      "description": "Dans le domaine de l’intelligence artificielle, les Etats-Unis de Trump sont tout-puissants. Pour organiser sa souveraineté numérique, l’Europe a tout intérêt à faire émerger un champion à l’intérieur...",
+      "url": "https://www.nouvelobs.com/economie/20260630.OBS116270/face-aux-geants-americains-l-europe-doit-mettre-en-uvre-sa-propre-politique-industrielle-de-l-ia.html",
+      "source": "L'Obs",
+      "publishedAt": "2026-06-30T10:30:12Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "MoEngage et Boldest annoncent un partenariat stratégique visant à favoriser l'engagement client basé sur les technologies cognitives pour les opérateurs de télécommunications",
+      "description": "DALLAS et CHENNAI, Inde, 30 juin 2026 /PRNewswire/ -- MoEngage, plateforme agentique d'engagement client, a annoncé un partenariat stratégique avec Boldest (filiale de Prodapt) afin de proposer une so...",
+      "url": "https://www.prnewswire.com/news-releases/moengage-et-boldest-annoncent-un-partenariat-strategique-visant-a-favoriser-lengagement-client-base-sur-les-technologies-cognitives-pour-les-operateurs-de-telecommunications-302814297.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-30T08:44:00Z",
       "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ce rouleau de papyrus carbonisé par le Vésuve il y a 2000 ans vient d'être déchiffré grâce à l'IA : les archéologues n'en reviennent pas",
-      "description": "Des chercheurs ont réussi à lire un rouleau antique carbonisé vieux de près de 2 000 ans grâce à l'intelligence artificielle.",
-      "url": "https://www.gameblog.fr/trends/ce-rouleau-de-papyrus-carbonise-par-le-vesuve-il-y-a-2000-ans-vient-detre-dechiffre-grace-a-lia-les-archeologues-nen-reviennent-pas-718476",
-      "source": "Gameblog",
-      "publishedAt": "2026-06-29T05:30:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "ZD Tech : Une Twingo électrique pour analyser l'état des routes et la qualité de l'air en temps réel",
-      "description": "Et si une simple Twingo devenait les yeux et les oreilles de votre municipalité ? Le consortium Software République vient de dévoiler cleveR insights, un véhicule laboratoire truffé de capteurs et d’i...",
-      "url": "https://www.zdnet.fr/actualites/zd-tech-une-twingo-electrique-pour-analyser-letat-des-routes-et-la-qualite-de-lair-en-temps-reel-497585.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-06-29T05:53:39Z",
-      "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
