@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 02 Jul 2026 10:45:01 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 10:41:12 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,14 +21,6 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Intelligence artificielle : le pourcentage d’emplois à risque en France vient d’être révélé par OpenAI, le créateur de ChatGPT</title>
-            <link>https://www.presse-citron.net/intelligence-artificielle-emplois-risque-france-openai-chatgpt/</link>
-            <description><![CDATA[OpenAI publie une étude européenne sur l’impact de l’IA sur l’emploi, et partage les données sur la France. D’après les résultats, 13 % des emplois de l’Hexagone sont dans des professions à haut risqu...]]></description>
-            <pubDate>Wed, 01 Jul 2026 07:01:50 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/intelligence-artificielle-emplois-risque-france-openai-chatgpt/</guid>
-            <source>Presse-citron</source>
-        </item>
-        <item>
             <title>NLP - Topic Modeling sous Python avec « BERTopic »</title>
             <link>https://www.youtube.com/watch?v=PAUvOSpyp-0</link>
             <description><![CDATA[Machine learning. Data science. NLP (natural language processing). Text mining. Le « topic modeling » (modélisation de sujets) ...]]></description>
@@ -37,12 +29,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>IA : les alternatives aux LLM pour la performance des processus</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1552001-ia-les-alternatives-aux-llm-pour-la-performance-des-processus/</link>
-            <description><![CDATA[Les LLM excellent pour générer du texte, mais peinent en milieu industriel. Voici quelques alternatives utilisées par les entreprises pour optimiser, contrôler et automatiser avec stabilité.]]></description>
-            <pubDate>Tue, 30 Jun 2026 09:07:21 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1552001-ia-les-alternatives-aux-llm-pour-la-performance-des-processus/</guid>
-            <source>JDN</source>
+            <title>Learning centre, big data, machine learning... l'Université Clermont Auvergne attaquée en justice pour avoir employé "trop de mots anglais"</title>
+            <link>https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/learning-centre-big-data-machine-learning-l-universite-clermont-auvergne-attaquee-en-justice-pour-avoir-employe-trop-de-mots-anglais-3379747.html</link>
+            <description><![CDATA[Big data, learning centre, deep learning... il y a trop de mots anglais dans le vocabulaire universitaire selon l'association Avenir de la langue française. C'est pourquoi elle traîne l'Université Cle...]]></description>
+            <pubDate>Thu, 02 Jul 2026 09:24:00 -0000</pubDate>
+            <guid isPermaLink="true">https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/learning-centre-big-data-machine-learning-l-universite-clermont-auvergne-attaquee-en-justice-pour-avoir-employe-trop-de-mots-anglais-3379747.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
         <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
@@ -59,14 +51,6 @@
             <pubDate>Thu, 18 Jun 2026 08:01:19 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=ktL8oV26XYg</guid>
             <source>How AI Works?</source>
-        </item>
-        <item>
-            <title>Claude rend Power BI 10x plus rapide</title>
-            <link>https://www.youtube.com/watch?v=SvIZcjQgFiQ</link>
-            <description><![CDATA[Dans cette vidéo, je vous montre comment utiliser Claude comme assistant IA pour accélérer vos projets Power BI, générer du ...]]></description>
-            <pubDate>Sun, 03 May 2026 12:46:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=SvIZcjQgFiQ</guid>
-            <source>Benjamin Ejzenberg (votre coach Power BI)</source>
         </item>
         <item>
             <title>ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&amp;#39;IA</title>
@@ -93,6 +77,22 @@
             <source>lioncode</source>
         </item>
         <item>
+            <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
+            <link>https://www.youtube.com/watch?v=IanWrDWQy0s</link>
+            <description><![CDATA[Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...]]></description>
+            <pubDate>Sat, 20 Jun 2026 17:56:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=IanWrDWQy0s</guid>
+            <source>Seif BOUGUERRA</source>
+        </item>
+        <item>
+            <title>Orbital Computing veut lancer 100 000 satellites pour un datacenter dans l'espace</title>
+            <link>https://www.generation-nt.com/actualites/orbital-computing-datacenter-spatial-satellite-constellation-2078020</link>
+            <description><![CDATA[La prochaine grande bataille pour la survie de l'intelligence artificielle ne se déroulera pas dans une salle de serveurs, mais à plus de 500 kilomètres au-dessus de nos têtes. Une jeune startup vient...]]></description>
+            <pubDate>Thu, 02 Jul 2026 09:20:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/orbital-computing-datacenter-spatial-satellite-constellation-2078020</guid>
+            <source>Génération NT</source>
+        </item>
+        <item>
             <title>POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)</title>
             <link>https://www.youtube.com/watch?v=rhE7Ab_sBTo</link>
             <description><![CDATA[Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...]]></description>
@@ -109,20 +109,20 @@
             <source>lioncode</source>
         </item>
         <item>
+            <title>Power BI Creer un tableau de bord de A à Z</title>
+            <link>https://www.youtube.com/watch?v=5zWEMjvm86o</link>
+            <description><![CDATA[FORMATION POWER BI GRATUITE – VIDÉO 3 : CRÉATION D'UN TABLEAU DE BORD INTERACTIF DE A À Z Bienvenue dans ...]]></description>
+            <pubDate>Sat, 13 Jun 2026 21:22:56 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=5zWEMjvm86o</guid>
+            <source>Ceemtic Analytics</source>
+        </item>
+        <item>
             <title>Power BI : je construis un tableau de bord pour mon client (de A à Z)</title>
             <link>https://www.youtube.com/watch?v=OhT0MEFKylY</link>
             <description><![CDATA[Apprends les bases indispensables de Power BI et réalise ton premier tableau de bord en moins d'une heure ! Au travers d'un ...]]></description>
             <pubDate>Tue, 26 May 2026 15:00:25 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=OhT0MEFKylY</guid>
             <source>Alexandre STEVENS</source>
-        </item>
-        <item>
-            <title>Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)</title>
-            <link>https://www.youtube.com/watch?v=2A5rNESVS9w</link>
-            <description><![CDATA[Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...]]></description>
-            <pubDate>Sun, 14 Jun 2026 14:37:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2A5rNESVS9w</guid>
-            <source>AMVOULA Naïsia </source>
         </item>
         <item>
             <title>SQL pour Data Analyst - Formation Complète</title>
@@ -141,12 +141,12 @@
             <source>Alex The Analyst</source>
         </item>
         <item>
-            <title>Cette découverte cachée sous la surface de Mars pourrait expliquer pourquoi la planète a été habitable</title>
-            <link>https://www.phonandroid.com/cette-decouverte-cachee-sous-la-surface-de-mars-pourrait-expliquer-pourquoi-la-planete-a-ete-habitable.html</link>
-            <description><![CDATA[La planète rouge cachait un secret dans ses profondeurs. Des données de la sonde InSight révèlent un phénomène jusqu'ici observé uniquement sur Terre. Mars aurait pu rester habitable bien plus...]]></description>
-            <pubDate>Wed, 01 Jul 2026 10:43:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.phonandroid.com/cette-decouverte-cachee-sous-la-surface-de-mars-pourrait-expliquer-pourquoi-la-planete-a-ete-habitable.html</guid>
-            <source>Phonandroid</source>
+            <title>Emergent : que vaut le rival de Lovable pour créer une app mobile IA ? Notre test</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1550823-tuto-creer-et-deployer-une-application-mobile-ios-android-avec-emergent/</link>
+            <description><![CDATA[Soutenue par Y Combinator, Emergent promet de générer des projets web et mobiles natifs à partir d'un simple prompt. Notre essai montre un outil efficace, mais coûteux dès que les itérations se multip...]]></description>
+            <pubDate>Thu, 02 Jul 2026 09:28:44 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1550823-tuto-creer-et-deployer-une-application-mobile-ios-android-avec-emergent/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀</title>
@@ -157,20 +157,20 @@
             <source>Morpheus Formation | Excel, Power BI, Sheets</source>
         </item>
         <item>
-            <title>Basecamp Research intègre les modèles de conception d'antibiotiques et de vaccins d'EDEN à Claude Science</title>
-            <link>https://www.prnewswire.com/news-releases/basecamp-research-integre-les-modeles-de-conception-dantibiotiques-et-de-vaccins-deden-a-claude-science-302814937.html</link>
-            <description><![CDATA[Grâce à l'intégration des modèles EDEN de Basecamp Research, les scientifiques peuvent désormais concevoir des antibiotiques puissants et hiérarchiser rapidement les cibles de vaccins via Claude Scien...]]></description>
-            <pubDate>Tue, 30 Jun 2026 18:16:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/basecamp-research-integre-les-modeles-de-conception-dantibiotiques-et-de-vaccins-deden-a-claude-science-302814937.html</guid>
-            <source>PRNewswire</source>
+            <title>Comment j'ai stoppé une attaque de spam sur WordPress avec 4 700 lignes de code en deux jours – grâce au Codex et à Claude</title>
+            <link>https://www.zdnet.fr/pratique/comment-jai-stoppe-une-attaque-de-spam-sur-wordpress-avec-4-700-lignes-de-code-en-deux-jours-grace-au-codex-et-a-claude-498169.htm</link>
+            <description><![CDATA[Les comptes de spam ont submergé ma base de données. Claude a identifié les failles, Codex a rédigé les correctifs et j'ai mis en place un nouveau système de défense. Bien sur je vous raconte.]]></description>
+            <pubDate>Thu, 02 Jul 2026 05:07:41 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/pratique/comment-jai-stoppe-une-attaque-de-spam-sur-wordpress-avec-4-700-lignes-de-code-en-deux-jours-grace-au-codex-et-a-claude-498169.htm</guid>
+            <source>ZDNet France</source>
         </item>
         <item>
-            <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>
-            <link>https://www.youtube.com/watch?v=9t1mXWkqj0g</link>
-            <description><![CDATA[Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...]]></description>
-            <pubDate>Sun, 10 May 2026 18:00:17 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=9t1mXWkqj0g</guid>
-            <source>DataSet By d@ne</source>
+            <title>Meta se rêve en acteur du cloud pour rentabiliser ses data centers IA</title>
+            <link>https://www.macg.co/intelligence-artificielle/2026/07/meta-se-reve-en-acteur-du-cloud-pour-rentabiliser-ses-data-centers-ia-309545</link>
+            <description><![CDATA[Meta envisagerait de devenir un acteur du cloud. Selon Bloomberg, l'entreprise de Mark Zuckerberg planche sur une infrastructure de cloud lui permettant de vendre l'accès à sa puissance de calcul et a...]]></description>
+            <pubDate>Thu, 02 Jul 2026 10:16:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.macg.co/intelligence-artificielle/2026/07/meta-se-reve-en-acteur-du-cloud-pour-rentabiliser-ses-data-centers-ia-309545</guid>
+            <source>MacGeneration</source>
         </item>
     </channel>
 </rss>
