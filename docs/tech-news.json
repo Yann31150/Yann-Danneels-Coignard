@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-04T10:14:53.425858",
+  "lastUpdate": "2026-07-05T10:20:12.298282",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -14,18 +14,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
     },
     {
-      "title": "REPORTAGE. \"Toutes les IA sont biaisées\" : pourquoi l'intelligence artificielle risque-t-elle d'influencer l'élection présidentielle française ?",
-      "description": "De plus en plus présents dans nos vies, notamment chez les plus jeunes, ChatGPT, Open IA ou Gork joueront pour la première fois un rôle au cours du prochain scrutin présidentiel, jusqu'à soulever des ...",
-      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/reportage-toutes-les-ia-sont-biaisees-pourquoi-l-intelligence-artificielle-risque-t-elle-d-influencer-l-election-presidentielle-francaise_8089574.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-07-03T04:37:50Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "NLP - Topic Modeling sous Python avec « BERTopic »",
       "description": "Machine learning. Data science. NLP (natural language processing). Text mining. Le « topic modeling » (modélisation de sujets) ...",
       "url": "https://www.youtube.com/watch?v=PAUvOSpyp-0",
@@ -38,11 +26,11 @@
       "thumbnail": "https://i.ytimg.com/vi/PAUvOSpyp-0/hqdefault.jpg"
     },
     {
-      "title": "Learning centre, big data, machine learning... l'Université Clermont Auvergne attaquée en justice pour avoir employé \"trop de mots anglais\"",
-      "description": "Big data, learning centre, deep learning... il y a trop de mots anglais dans le vocabulaire universitaire selon l'association Avenir de la langue française. C'est pourquoi elle traîne l'Université Cle...",
-      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/learning-centre-big-data-machine-learning-l-universite-clermont-auvergne-attaquee-en-justice-pour-avoir-employe-trop-de-mots-anglais-3379747.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-07-02T09:24:00Z",
+      "title": "Les data centers sont devenus la nouvelle mine d'or des cambrioleurs",
+      "description": "La ruée vers l'intelligence artificielle fait exploser la valeur des composants informatiques, au point de transformer les livraisons destinées aux centres de données en cibles privilégiées du crime o...",
+      "url": "https://www.slate.fr/tech-internet/course-aux-data-centers-fait-bonheur-cambrioleurs-vols-fret-intelligence-artificielle-crime-organise",
+      "source": "Slate.fr",
+      "publishedAt": "2026-07-04T09:55:02Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -122,16 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
     },
     {
-      "title": "POWER BI Masterclass 2026 | Formation Complète en 19 Heures (Débutant à Expert)",
-      "description": "Bienvenue dans cette formation complète Power BI 2026 Dans ce cours intensif de 19 heures, vous apprendrez Power BI de A ...",
-      "url": "https://www.youtube.com/watch?v=rhE7Ab_sBTo",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-05-06T02:55:02Z",
-      "category": "data",
+      "title": "Apprendre SQL avec un VRAI projet (pas des exercices inutiles)",
+      "description": "Présentation du projet Catalogue VOD On arrête les exercices abstraits. On construit un vrai système. Dans ce Short, je vous ...",
+      "url": "https://www.youtube.com/watch?v=s0uwb3ZVA-c",
+      "source": "Madi CONDÉ ",
+      "publishedAt": "2026-05-29T23:15:48Z",
+      "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "rhE7Ab_sBTo",
-      "thumbnail": "https://i.ytimg.com/vi/rhE7Ab_sBTo/hqdefault.jpg"
+      "videoId": "s0uwb3ZVA-c",
+      "thumbnail": "https://i.ytimg.com/vi/s0uwb3ZVA-c/hqdefault.jpg"
     },
     {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
@@ -146,6 +134,18 @@
       "thumbnail": "https://i.ytimg.com/vi/-kGlpSTHPf4/hqdefault.jpg"
     },
     {
+      "title": "Power BI Creer un tableau de bord de A à Z",
+      "description": "FORMATION POWER BI GRATUITE – VIDÉO 3 : CRÉATION D'UN TABLEAU DE BORD INTERACTIF DE A À Z Bienvenue dans ...",
+      "url": "https://www.youtube.com/watch?v=5zWEMjvm86o",
+      "source": "Ceemtic Analytics",
+      "publishedAt": "2026-06-13T21:22:56Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "5zWEMjvm86o",
+      "thumbnail": "https://i.ytimg.com/vi/5zWEMjvm86o/hqdefault.jpg"
+    },
+    {
       "title": "Power BI : je construis un tableau de bord pour mon client (de A à Z)",
       "description": "Apprends les bases indispensables de Power BI et réalise ton premier tableau de bord en moins d'une heure ! Au travers d'un ...",
       "url": "https://www.youtube.com/watch?v=OhT0MEFKylY",
@@ -156,6 +156,18 @@
       "isYouTube": true,
       "videoId": "OhT0MEFKylY",
       "thumbnail": "https://i.ytimg.com/vi/OhT0MEFKylY/hqdefault.jpg"
+    },
+    {
+      "title": "Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)",
+      "description": "Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...",
+      "url": "https://www.youtube.com/watch?v=2A5rNESVS9w",
+      "source": "AMVOULA Naïsia ",
+      "publishedAt": "2026-06-14T14:37:38Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "2A5rNESVS9w",
+      "thumbnail": "https://i.ytimg.com/vi/2A5rNESVS9w/hqdefault.jpg"
     },
     {
       "title": "SQL pour Data Analyst - Formation Complète",
@@ -194,6 +206,18 @@
       "thumbnail": "https://i.ytimg.com/vi/1Kokkl5PybM/hqdefault.jpg"
     },
     {
+      "title": "Je n’attends qu’une chose de Nvidia : une nouvelle Shield TV et voici ce qu’elle pourrait avoir dans le ventre",
+      "description": "Nvidia a bien des projets dans ses cartons pour les deux prochaines années : une puce pour PC portables conçue avec MediaTek, une autre avec Intel et une nouvelle architecture graphique basée sur Vera...",
+      "url": "https://www.frandroid.com/marques/nvidia/3168343_je-nattends-quune-chose-de-nvidia-une-nouvelle-shield-tv-et-voici-ce-quelle-pourrait-avoir-dans-le-ventre",
+      "source": "Frandroid",
+      "publishedAt": "2026-07-04T10:01:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
       "description": "Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...",
       "url": "https://www.youtube.com/watch?v=9t1mXWkqj0g",
@@ -206,35 +230,11 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "Près de 250.000 Belges peinent à rembourser un crédit à la consommation",
-      "description": "Fin 2025, près de 250.000 Belges étaient en retard sur le remboursement d'au moins un prêt ou un crédit lié à des dépenses privées, écrivent vendredi L'Echo et De Tijd, après une analyse de données de...",
-      "url": "https://www.lalibre.be/economie/mes-finances/2026/07/03/pres-de-250000-belges-peinent-a-rembourser-un-credit-a-la-consommation-RO3JAKUMSBFIPNGISJXXF43Z2U/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-07-03T05:37:08Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "data-science-document-ai 2.4.0",
-      "description": "\"Document AI repo for data science\"",
-      "url": "https://pypi.org/project/data-science-document-ai/2.4.0/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-07-02T11:38:52Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Programme de la fête de la Science 2026",
-      "description": "Ce jeu de données présente l'ensemble des événements organisés partout en France pour la Fête de la science 2026 qui aura lieu du **2 au 12 octobre** : animations, expositions, débats et d'initiatives...",
-      "url": "https://www.data.gouv.fr/datasets/programme-de-la-fete-de-la-science-2026",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-07-03T00:00:00Z",
+      "title": "Le DoH et le MIT - Koch Institute entrent en partenariat pour faire progresser la recherche sur le cancer assistée par l'IA",
+      "description": "ABOU DABI, Émirats arabes unis, 3 juillet 2026 /PRNewswire/ -- Le Department of Health – Abu Dhabi (DoH), l'autorité de régulation du secteur de la santé dans l'émirat, et le MIT – Koch Institute for ...",
+      "url": "https://www.prnewswire.com/news-releases/le-doh-et-le-mit--koch-institute-entrent-en-partenariat-pour-faire-progresser-la-recherche-sur-le-cancer-assistee-par-lia-302817786.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-07-03T18:42:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "Des manuscrits ensevelis il y a 2.000 ans par le Vésuve enfin déchiffrés par l'intelligence artificielle",
-      "description": "Grâce aux rayons X et à l'IA, une équipe internationale est parvenue à révéler le contenu de longs rouleaux de texte grec resté inaccessible depuis l'éruption qui détruisit Pompéi.",
-      "url": "https://www.slate.fr/sciences/manuscrits-ensevelis-2000-ans-vesuve-dechiffres-intelligence-artificielle-pompei-grec-romain-italie-volcan-herculanum-papyrus-philosophie-stoicisme",
-      "source": "Slate.fr",
-      "publishedAt": "2026-07-03T06:25:02Z",
+      "title": "Économie. « Un dragon qu’il faut avoir le courage d’enfourcher » : l'IA s'invite au Rencontres économiques d'Aix",
+      "description": "L’intelligence artificielle et ses dizaines de milliards d’investissements se sont invités ce vendredi aux Rencontres économiques d’Aix (Bouches-du-Rhône). Pour Alexandre Bompard, patron de Carrefour,...",
+      "url": "https://www.ledauphine.com/economie/2026/07/03/un-dragon-qu-il-faut-avoir-le-courage-d-enfourcher-l-ia-s-invite-au-rencontres-economiques-d-aix",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-07-03T18:05:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Murakami affirme s'écarter de l'intelligence artificielle générative pour écrire ses romans",
-      "description": "Le nouvel ouvrage de l'auteur japonais \"The Tale of Kaho\" est sorti dans la nuit du 2 au 3 juillet.",
-      "url": "https://www.franceinfo.fr/culture/livres/murakami-affirme-s-ecarter-de-l-intelligence-artificielle-generative-pour-ecrire-ses-romans_8091941.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-07-03T09:02:59Z",
+      "title": "Robots de piscine Beatbot : jusqu’à 1 150 € de remise sur les modèles IA jusqu’au 20 juillet !",
+      "description": "Beatbot lance sa campagne estivale avec des remises allant jusqu'à 42 % sur ses robots de piscine ! L'occasion de confier l'entretien du bassin à une machine autonome dotée d'intelligence artificielle...",
+      "url": "https://www.tomsguide.fr/robots-de-piscine-beatbot-jusqua-1-150-e-de-remise-sur-les-modeles-ia-jusquau-20-juillet/",
+      "source": "Tom's Guide",
+      "publishedAt": "2026-07-04T07:12:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,23 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "IA au forceps : ce nouvel ordre mondial que l'administration Trump fait émerger",
-      "description": "Privée des technologies de pointe par Washington et talonnée par l'autonomie chinoise, l'Europe fait face à une fragmentation du numérique mondial. Pour ne pas devenir un simple marché captif, le cont...",
-      "url": "https://atlantico.fr/article/decryptage/ia-forceps-nouvel-ordre-mondial-administration-trump-fait-emerger-julien-pillot-vincent-susplugas",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-07-03T07:25:00Z",
-      "category": "innovation",
+      "title": "Accusé d’avoir écrit sa nouvelle avec l’IA, Jamir Nazir remporte malgré tout le prix littéraire Commonwealth",
+      "description": "Soupçonné d’avoir utilisé l’intelligence artificielle, cet auteur s’est retrouvé au cœur d’une vive polémique mais conserve son prix.",
+      "url": "https://www.huffingtonpost.fr/culture/article/accuse-d-avoir-ecrit-son-roman-avec-l-ia-jamir-nazir-remporte-malgre-tout-le-prix-litteraire-commonwealth_282592.html",
+      "source": "Le HuffPost",
+      "publishedAt": "2026-07-03T15:53:18Z",
+      "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "HONOR Magic V6 : ce smartphone pliable va faire craquer les pros",
-      "description": "Les smartphones pliables sont séduisants… mais jusqu’ici, les professionnels les regardaient avec une certaine distance. Trop fragiles, trop encombrants, encore trop limités en autonomie. Bref, des ma...",
-      "url": "https://www.zdnet.fr/smartphone/honor-magic-v6-ce-smartphone-pliable-va-faire-craquer-les-pros-497986.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-07-03T08:06:45Z",
+      "title": "Pudu Robotics intègre l'IA physique au quotidien dans le cadre de l'initiative Robot City du Davos Tech Summit",
+      "description": "Déployé dans les secteurs du détail, de l'hôtellerie et des espaces publics, Pudu Robotics montre comment les robots de service commerciaux créent déjà de la valeur dans des environnements réels. DAVO...",
+      "url": "https://www.prnewswire.com/news-releases/pudu-robotics-integre-lia-physique-au-quotidien-dans-le-cadre-de-linitiative-robot-city-du-davos-tech-summit-302817841.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-07-04T00:27:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
