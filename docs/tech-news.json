@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-05T10:20:12.298282",
+  "lastUpdate": "2026-07-06T12:07:43.668320",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -26,18 +26,6 @@
       "thumbnail": "https://i.ytimg.com/vi/PAUvOSpyp-0/hqdefault.jpg"
     },
     {
-      "title": "Les data centers sont devenus la nouvelle mine d'or des cambrioleurs",
-      "description": "La ruée vers l'intelligence artificielle fait exploser la valeur des composants informatiques, au point de transformer les livraisons destinées aux centres de données en cibles privilégiées du crime o...",
-      "url": "https://www.slate.fr/tech-internet/course-aux-data-centers-fait-bonheur-cambrioleurs-vols-fret-intelligence-artificielle-crime-organise",
-      "source": "Slate.fr",
-      "publishedAt": "2026-07-04T09:55:02Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
       "description": "La formation COMPLÈTE Data & Machine Learning — plus de 9 heures de cours, 111 sessions + 15 quiz, 100% GRATUITE.",
       "url": "https://www.youtube.com/watch?v=mdsnXx_tBEs",
@@ -48,18 +36,6 @@
       "isYouTube": true,
       "videoId": "mdsnXx_tBEs",
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
-    },
-    {
-      "title": "Comment ChatGPT sait ce que les mots veulent dire (Embeddings)",
-      "description": "Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...",
-      "url": "https://www.youtube.com/watch?v=ktL8oV26XYg",
-      "source": "How AI Works?",
-      "publishedAt": "2026-06-18T08:01:19Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ktL8oV26XYg",
-      "thumbnail": "https://i.ytimg.com/vi/ktL8oV26XYg/hqdefault.jpg"
     },
     {
       "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
@@ -122,6 +98,30 @@
       "thumbnail": "https://i.ytimg.com/vi/s0uwb3ZVA-c/hqdefault.jpg"
     },
     {
+      "title": "Python for Data Analytics (2026) |Complete Guide with FREE Resources|How to Learn Python|Intellipaat",
+      "description": "Enroll for Intellipaat's Python Course: https://intellipaat.com/python-certification-training-online/ Book your Free ...",
+      "url": "https://www.youtube.com/watch?v=nI9lVOH0htY",
+      "source": "Intellipaat",
+      "publishedAt": "2026-06-08T17:30:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "nI9lVOH0htY",
+      "thumbnail": "https://i.ytimg.com/vi/nI9lVOH0htY/hqdefault.jpg"
+    },
+    {
+      "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-05-10T15:00:38Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "w2JE7HUNJFU",
+      "thumbnail": "https://i.ytimg.com/vi/w2JE7HUNJFU/hqdefault.jpg"
+    },
+    {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
       "description": "NumPy et Pandas sont les deux bibliothèques qui font de Python le roi de la data science. Ce cours complet te donne tout le ...",
       "url": "https://www.youtube.com/watch?v=-kGlpSTHPf4",
@@ -182,18 +182,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-9NppUySsk0/hqdefault.jpg"
     },
     {
-      "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
-      "description": "Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...",
-      "url": "https://www.youtube.com/watch?v=cnjhHZNJEDk",
-      "source": "Alex The Analyst",
-      "publishedAt": "2026-05-19T12:30:29Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "cnjhHZNJEDk",
-      "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
-    },
-    {
       "title": "Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=1Kokkl5PybM",
@@ -204,18 +192,6 @@
       "isYouTube": true,
       "videoId": "1Kokkl5PybM",
       "thumbnail": "https://i.ytimg.com/vi/1Kokkl5PybM/hqdefault.jpg"
-    },
-    {
-      "title": "Je n’attends qu’une chose de Nvidia : une nouvelle Shield TV et voici ce qu’elle pourrait avoir dans le ventre",
-      "description": "Nvidia a bien des projets dans ses cartons pour les deux prochaines années : une puce pour PC portables conçue avec MediaTek, une autre avec Intel et une nouvelle architecture graphique basée sur Vera...",
-      "url": "https://www.frandroid.com/marques/nvidia/3168343_je-nattends-quune-chose-de-nvidia-une-nouvelle-shield-tv-et-voici-ce-quelle-pourrait-avoir-dans-le-ventre",
-      "source": "Frandroid",
-      "publishedAt": "2026-07-04T10:01:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
@@ -230,11 +206,35 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "Le DoH et le MIT - Koch Institute entrent en partenariat pour faire progresser la recherche sur le cancer assistée par l'IA",
-      "description": "ABOU DABI, Émirats arabes unis, 3 juillet 2026 /PRNewswire/ -- Le Department of Health – Abu Dhabi (DoH), l'autorité de régulation du secteur de la santé dans l'émirat, et le MIT – Koch Institute for ...",
-      "url": "https://www.prnewswire.com/news-releases/le-doh-et-le-mit--koch-institute-entrent-en-partenariat-pour-faire-progresser-la-recherche-sur-le-cancer-assistee-par-lia-302817786.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-07-03T18:42:00Z",
+      "title": "data-science-document-ai 2.6.0",
+      "description": "\"Document AI repo for data science\"",
+      "url": "https://pypi.org/project/data-science-document-ai/2.6.0/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-07-04T19:12:25Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Voici l'habitude toute simple à changer pour stimuler votre cerveau selon des spécialistes",
+      "description": "Votre cerveau s'ennuie. Pas métaphoriquement : littéralement. Quand chaque journée ressemble à la précédente, vos neurones fonctionnent en pilote automatique. Résultat ? La mémoire stagne, voire régre...",
+      "url": "https://www.futura-sciences.com/sante/actualites/memoire-voici-habitude-toute-simple-changer-stimuler-votre-cerveau-selon-specialistes-k2m6-135875/",
+      "source": "Futura",
+      "publishedAt": "2026-07-05T08:00:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Les data centers posent des problèmes, ETAP peut les résoudre en utilisant IA et jumeaux numériques !",
+      "description": "Les data centers et les AI factories sont en plein développement, mais comme pour bien des systèmes de production et d'utilisation d'énergie ou de matière, il faut gérer un réseau électrique associé p...",
+      "url": "https://www.futura-sciences.com/tech/actualites/data-centers-data-centers-posent-problemes-etap-peut-resoudre-utilisant-ia-jumeaux-numeriques-135233/",
+      "source": "Futura",
+      "publishedAt": "2026-07-05T11:31:11Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "Économie. « Un dragon qu’il faut avoir le courage d’enfourcher » : l'IA s'invite au Rencontres économiques d'Aix",
-      "description": "L’intelligence artificielle et ses dizaines de milliards d’investissements se sont invités ce vendredi aux Rencontres économiques d’Aix (Bouches-du-Rhône). Pour Alexandre Bompard, patron de Carrefour,...",
-      "url": "https://www.ledauphine.com/economie/2026/07/03/un-dragon-qu-il-faut-avoir-le-courage-d-enfourcher-l-ia-s-invite-au-rencontres-economiques-d-aix",
-      "source": "Le Dauphiné Libéré",
-      "publishedAt": "2026-07-03T18:05:00Z",
+      "title": "+37 % en 1 an : l’IA fait disjoncter les objectifs climatiques de Google, l’entreprise ne pourra pas tenir sa promesse",
+      "description": "Google vient de publier son rapport environnemental 2026, un document annuel qui examine à la loupe l'impact écologique de ses activités durant l'année écoulée. Et le constat est sans appel : la cours...",
+      "url": "https://www.presse-citron.net/ia-fait-disjoncter-objectifs-climatiques-google-entreprise-pourra-pas-tenir-promesse/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-07-04T16:00:42Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Robots de piscine Beatbot : jusqu’à 1 150 € de remise sur les modèles IA jusqu’au 20 juillet !",
-      "description": "Beatbot lance sa campagne estivale avec des remises allant jusqu'à 42 % sur ses robots de piscine ! L'occasion de confier l'entretien du bassin à une machine autonome dotée d'intelligence artificielle...",
-      "url": "https://www.tomsguide.fr/robots-de-piscine-beatbot-jusqua-1-150-e-de-remise-sur-les-modeles-ia-jusquau-20-juillet/",
-      "source": "Tom's Guide",
-      "publishedAt": "2026-07-04T07:12:00Z",
+      "title": "IA et éducation (1/2) : plongée dans l’IApocalypse éducative",
+      "description": "L’IA générative est en train de transformer en profondeur le monde de l’éducation, où les élèves l’utilisent massivement pour faire leurs devoirs. Entre dénis et illusions, comment s’adapter ? Faut-il...",
+      "url": "https://framablog.org/2026/07/05/ia-et-education-1-2-plongee-dans-liapocalypse-educative/",
+      "source": "Framablog.org",
+      "publishedAt": "2026-07-05T08:00:45Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Accusé d’avoir écrit sa nouvelle avec l’IA, Jamir Nazir remporte malgré tout le prix littéraire Commonwealth",
-      "description": "Soupçonné d’avoir utilisé l’intelligence artificielle, cet auteur s’est retrouvé au cœur d’une vive polémique mais conserve son prix.",
-      "url": "https://www.huffingtonpost.fr/culture/article/accuse-d-avoir-ecrit-son-roman-avec-l-ia-jamir-nazir-remporte-malgre-tout-le-prix-litteraire-commonwealth_282592.html",
-      "source": "Le HuffPost",
-      "publishedAt": "2026-07-03T15:53:18Z",
+      "title": "Les carnets de Jean-Claude Heudin : la prolifération des data centers est-elle inéluctable ?",
+      "description": "En ces temps de canicules, je reviens ici sur l’absurdité, pas assez contestée, de la voie actuelle du développement de l’intelligence artificielle basée sur une prolifération des data centers.",
+      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-carnets-jean-claude-heudin-proliferation-data-centers-elle-ineluctable-135926/",
+      "source": "Futura",
+      "publishedAt": "2026-07-05T10:25:54Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,12 +290,12 @@
       "thumbnail": ""
     },
     {
-      "title": "Pudu Robotics intègre l'IA physique au quotidien dans le cadre de l'initiative Robot City du Davos Tech Summit",
-      "description": "Déployé dans les secteurs du détail, de l'hôtellerie et des espaces publics, Pudu Robotics montre comment les robots de service commerciaux créent déjà de la valeur dans des environnements réels. DAVO...",
-      "url": "https://www.prnewswire.com/news-releases/pudu-robotics-integre-lia-physique-au-quotidien-dans-le-cadre-de-linitiative-robot-city-du-davos-tech-summit-302817841.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-07-04T00:27:00Z",
-      "category": "tech",
+      "title": "Sommes-nous prêts à faire confiance à l’IA pour organiser nos vacances ?",
+      "description": "Faites-vous confiance aux IA Génératives pour vous aider à organiser vos vacances ? Une nouvelle étude montre les points de résistance à l’utilisation de ces nouvelles technologies.",
+      "url": "https://theconversation.com/sommes-nous-prets-a-faire-confiance-a-lia-pour-organiser-nos-vacances-285415",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-07-05T09:35:03Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",

@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 05 Jul 2026 10:20:12 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 12:07:43 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -29,28 +29,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Les data centers sont devenus la nouvelle mine d'or des cambrioleurs</title>
-            <link>https://www.slate.fr/tech-internet/course-aux-data-centers-fait-bonheur-cambrioleurs-vols-fret-intelligence-artificielle-crime-organise</link>
-            <description><![CDATA[La ruée vers l'intelligence artificielle fait exploser la valeur des composants informatiques, au point de transformer les livraisons destinées aux centres de données en cibles privilégiées du crime o...]]></description>
-            <pubDate>Sat, 04 Jul 2026 09:55:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.slate.fr/tech-internet/course-aux-data-centers-fait-bonheur-cambrioleurs-vols-fret-intelligence-artificielle-crime-organise</guid>
-            <source>Slate.fr</source>
-        </item>
-        <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
             <link>https://www.youtube.com/watch?v=mdsnXx_tBEs</link>
             <description><![CDATA[La formation COMPLÈTE Data &amp; Machine Learning — plus de 9 heures de cours, 111 sessions + 15 quiz, 100% GRATUITE.]]></description>
             <pubDate>Mon, 25 May 2026 13:45:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=mdsnXx_tBEs</guid>
             <source>IA Futura</source>
-        </item>
-        <item>
-            <title>Comment ChatGPT sait ce que les mots veulent dire (Embeddings)</title>
-            <link>https://www.youtube.com/watch?v=ktL8oV26XYg</link>
-            <description><![CDATA[Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...]]></description>
-            <pubDate>Thu, 18 Jun 2026 08:01:19 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ktL8oV26XYg</guid>
-            <source>How AI Works?</source>
         </item>
         <item>
             <title>ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&amp;#39;IA</title>
@@ -93,6 +77,22 @@
             <source>Madi CONDÉ </source>
         </item>
         <item>
+            <title>Python for Data Analytics (2026) |Complete Guide with FREE Resources|How to Learn Python|Intellipaat</title>
+            <link>https://www.youtube.com/watch?v=nI9lVOH0htY</link>
+            <description><![CDATA[Enroll for Intellipaat's Python Course: https://intellipaat.com/python-certification-training-online/ Book your Free ...]]></description>
+            <pubDate>Mon, 08 Jun 2026 17:30:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=nI9lVOH0htY</guid>
+            <source>Intellipaat</source>
+        </item>
+        <item>
+            <title>5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population</title>
+            <link>https://www.youtube.com/watch?v=w2JE7HUNJFU</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...]]></description>
+            <pubDate>Sun, 10 May 2026 15:00:38 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=w2JE7HUNJFU</guid>
+            <source>Yassine Sdiri</source>
+        </item>
+        <item>
             <title>NumPy &amp;amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes</title>
             <link>https://www.youtube.com/watch?v=-kGlpSTHPf4</link>
             <description><![CDATA[NumPy et Pandas sont les deux bibliothèques qui font de Python le roi de la data science. Ce cours complet te donne tout le ...]]></description>
@@ -133,28 +133,12 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS</title>
-            <link>https://www.youtube.com/watch?v=cnjhHZNJEDk</link>
-            <description><![CDATA[Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...]]></description>
-            <pubDate>Tue, 19 May 2026 12:30:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=cnjhHZNJEDk</guid>
-            <source>Alex The Analyst</source>
-        </item>
-        <item>
             <title>Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀</title>
             <link>https://www.youtube.com/watch?v=1Kokkl5PybM</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
             <pubDate>Thu, 04 Jun 2026 09:00:14 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=1Kokkl5PybM</guid>
             <source>Morpheus Formation | Excel, Power BI, Sheets</source>
-        </item>
-        <item>
-            <title>Je n’attends qu’une chose de Nvidia : une nouvelle Shield TV et voici ce qu’elle pourrait avoir dans le ventre</title>
-            <link>https://www.frandroid.com/marques/nvidia/3168343_je-nattends-quune-chose-de-nvidia-une-nouvelle-shield-tv-et-voici-ce-quelle-pourrait-avoir-dans-le-ventre</link>
-            <description><![CDATA[Nvidia a bien des projets dans ses cartons pour les deux prochaines années : une puce pour PC portables conçue avec MediaTek, une autre avec Intel et une nouvelle architecture graphique basée sur Vera...]]></description>
-            <pubDate>Sat, 04 Jul 2026 10:01:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/marques/nvidia/3168343_je-nattends-quune-chose-de-nvidia-une-nouvelle-shield-tv-et-voici-ce-quelle-pourrait-avoir-dans-le-ventre</guid>
-            <source>Frandroid</source>
         </item>
         <item>
             <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>
@@ -165,12 +149,28 @@
             <source>DataSet By d@ne</source>
         </item>
         <item>
-            <title>Le DoH et le MIT - Koch Institute entrent en partenariat pour faire progresser la recherche sur le cancer assistée par l'IA</title>
-            <link>https://www.prnewswire.com/news-releases/le-doh-et-le-mit--koch-institute-entrent-en-partenariat-pour-faire-progresser-la-recherche-sur-le-cancer-assistee-par-lia-302817786.html</link>
-            <description><![CDATA[ABOU DABI, Émirats arabes unis, 3 juillet 2026 /PRNewswire/ -- Le Department of Health – Abu Dhabi (DoH), l'autorité de régulation du secteur de la santé dans l'émirat, et le MIT – Koch Institute for ...]]></description>
-            <pubDate>Fri, 03 Jul 2026 18:42:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/le-doh-et-le-mit--koch-institute-entrent-en-partenariat-pour-faire-progresser-la-recherche-sur-le-cancer-assistee-par-lia-302817786.html</guid>
-            <source>PRNewswire</source>
+            <title>data-science-document-ai 2.6.0</title>
+            <link>https://pypi.org/project/data-science-document-ai/2.6.0/</link>
+            <description><![CDATA["Document AI repo for data science"]]></description>
+            <pubDate>Sat, 04 Jul 2026 19:12:25 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/2.6.0/</guid>
+            <source>Pypi.org</source>
+        </item>
+        <item>
+            <title>Voici l'habitude toute simple à changer pour stimuler votre cerveau selon des spécialistes</title>
+            <link>https://www.futura-sciences.com/sante/actualites/memoire-voici-habitude-toute-simple-changer-stimuler-votre-cerveau-selon-specialistes-k2m6-135875/</link>
+            <description><![CDATA[Votre cerveau s'ennuie. Pas métaphoriquement : littéralement. Quand chaque journée ressemble à la précédente, vos neurones fonctionnent en pilote automatique. Résultat ? La mémoire stagne, voire régre...]]></description>
+            <pubDate>Sun, 05 Jul 2026 08:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/sante/actualites/memoire-voici-habitude-toute-simple-changer-stimuler-votre-cerveau-selon-specialistes-k2m6-135875/</guid>
+            <source>Futura</source>
+        </item>
+        <item>
+            <title>Les data centers posent des problèmes, ETAP peut les résoudre en utilisant IA et jumeaux numériques !</title>
+            <link>https://www.futura-sciences.com/tech/actualites/data-centers-data-centers-posent-problemes-etap-peut-resoudre-utilisant-ia-jumeaux-numeriques-135233/</link>
+            <description><![CDATA[Les data centers et les AI factories sont en plein développement, mais comme pour bien des systèmes de production et d'utilisation d'énergie ou de matière, il faut gérer un réseau électrique associé p...]]></description>
+            <pubDate>Sun, 05 Jul 2026 11:31:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/data-centers-data-centers-posent-problemes-etap-peut-resoudre-utilisant-ia-jumeaux-numeriques-135233/</guid>
+            <source>Futura</source>
         </item>
     </channel>
 </rss>
