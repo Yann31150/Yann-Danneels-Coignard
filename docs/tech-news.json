@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-06T12:07:43.668320",
+  "lastUpdate": "2026-07-07T11:12:07.589144",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -12,18 +12,6 @@
       "isYouTube": true,
       "videoId": "0EsKXRhOYxM",
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
-    },
-    {
-      "title": "NLP - Topic Modeling sous Python avec « BERTopic »",
-      "description": "Machine learning. Data science. NLP (natural language processing). Text mining. Le « topic modeling » (modélisation de sujets) ...",
-      "url": "https://www.youtube.com/watch?v=PAUvOSpyp-0",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-06-26T09:51:10Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "PAUvOSpyp-0",
-      "thumbnail": "https://i.ytimg.com/vi/PAUvOSpyp-0/hqdefault.jpg"
     },
     {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
@@ -96,6 +84,18 @@
       "isYouTube": true,
       "videoId": "s0uwb3ZVA-c",
       "thumbnail": "https://i.ytimg.com/vi/s0uwb3ZVA-c/hqdefault.jpg"
+    },
+    {
+      "title": "L'Europe ne gagnera pas la guerre de l'IA en jouant selon les règles des autres",
+      "description": "L'IA est devenue un instrument de puissance. L'Europe ne gagnera pas en imitant les autres, mais en capitalisant sur ses atouts : énergie, données de confiance et quantique.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1552325-l-europe-ne-gagnera-pas-la-guerre-de-l-ia-en-jouant-selon-les-regles-des-autres/",
+      "source": "JDN",
+      "publishedAt": "2026-07-06T09:31:57Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Python for Data Analytics (2026) |Complete Guide with FREE Resources|How to Learn Python|Intellipaat",
@@ -182,6 +182,30 @@
       "thumbnail": "https://i.ytimg.com/vi/-9NppUySsk0/hqdefault.jpg"
     },
     {
+      "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
+      "description": "Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...",
+      "url": "https://www.youtube.com/watch?v=cnjhHZNJEDk",
+      "source": "Alex The Analyst",
+      "publishedAt": "2026-05-19T12:30:29Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "cnjhHZNJEDk",
+      "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
+    },
+    {
+      "title": "La deeptech Coppery déploie sa matière antimicrobienne et écoresponsable",
+      "description": "La start-up Coppery a créé une matière antimicrobienne à partir de matériaux biosourcés et recyclés, fruit de 4 ans de recherche dans un garage-labo. La jeune deeptech cherche à faire connaître son ma...",
+      "url": "https://www.lejournaldesentreprises.com/article/la-deeptech-coppery-deploie-sa-matiere-antimicrobienne-et-ecoresponsable-2146184",
+      "source": "Le Journal des Entreprises",
+      "publishedAt": "2026-07-06T10:30:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=1Kokkl5PybM",
@@ -192,6 +216,18 @@
       "isYouTube": true,
       "videoId": "1Kokkl5PybM",
       "thumbnail": "https://i.ytimg.com/vi/1Kokkl5PybM/hqdefault.jpg"
+    },
+    {
+      "title": "Test Sony Xperia 1 VIII : un design rafraîchi pour un smartphone toujours conservateur",
+      "description": "Très peu présent sur le marché de la téléphonie mobile, Sony condense son savoir-faire dans un unique smartphone en 2026 : le Xperia 1 VIII. Cette huitième itération de son terminal premium ambitionne...",
+      "url": "https://www.lesnumeriques.com/telephone-portable/sony-xperia-1-viii-p78262/test.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-07-06T10:00:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
@@ -206,42 +242,6 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "data-science-document-ai 2.6.0",
-      "description": "\"Document AI repo for data science\"",
-      "url": "https://pypi.org/project/data-science-document-ai/2.6.0/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-07-04T19:12:25Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Voici l'habitude toute simple à changer pour stimuler votre cerveau selon des spécialistes",
-      "description": "Votre cerveau s'ennuie. Pas métaphoriquement : littéralement. Quand chaque journée ressemble à la précédente, vos neurones fonctionnent en pilote automatique. Résultat ? La mémoire stagne, voire régre...",
-      "url": "https://www.futura-sciences.com/sante/actualites/memoire-voici-habitude-toute-simple-changer-stimuler-votre-cerveau-selon-specialistes-k2m6-135875/",
-      "source": "Futura",
-      "publishedAt": "2026-07-05T08:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Les data centers posent des problèmes, ETAP peut les résoudre en utilisant IA et jumeaux numériques !",
-      "description": "Les data centers et les AI factories sont en plein développement, mais comme pour bien des systèmes de production et d'utilisation d'énergie ou de matière, il faut gérer un réseau électrique associé p...",
-      "url": "https://www.futura-sciences.com/tech/actualites/data-centers-data-centers-posent-problemes-etap-peut-resoudre-utilisant-ia-jumeaux-numeriques-135233/",
-      "source": "Futura",
-      "publishedAt": "2026-07-05T11:31:11Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Computer Vision - De la Théorie au Code en 1H",
       "description": "Dans cette vidéo, on vulgarise la computer vision en deux temps : d'abord un état de l'art des tâches principales et des grandes ...",
       "url": "https://www.youtube.com/watch?v=MYhsbnBdUEQ",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "+37 % en 1 an : l’IA fait disjoncter les objectifs climatiques de Google, l’entreprise ne pourra pas tenir sa promesse",
-      "description": "Google vient de publier son rapport environnemental 2026, un document annuel qui examine à la loupe l'impact écologique de ses activités durant l'année écoulée. Et le constat est sans appel : la cours...",
-      "url": "https://www.presse-citron.net/ia-fait-disjoncter-objectifs-climatiques-google-entreprise-pourra-pas-tenir-promesse/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-07-04T16:00:42Z",
+      "title": "« Le filet de sécurité social devra être renforcé pour absorber ce choc qu’est l’IA »",
+      "description": "L’économiste de Harvard Stefanie Stantcheva revient pour « le Nouvel Obs » aux Rencontres économiques d’Aix-en-Provence sur la grande crainte que suscite l’intelligence artificielle en matière d’emplo...",
+      "url": "https://www.nouvelobs.com/economie/20260706.OBS116444/le-filet-de-securite-social-devra-etre-renforce-pour-absorber-ce-choc-qu-est-l-ia.html",
+      "source": "L'Obs",
+      "publishedAt": "2026-07-06T10:43:10Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Les carnets de Jean-Claude Heudin : la prolifération des data centers est-elle inéluctable ?",
-      "description": "En ces temps de canicules, je reviens ici sur l’absurdité, pas assez contestée, de la voie actuelle du développement de l’intelligence artificielle basée sur une prolifération des data centers.",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-carnets-jean-claude-heudin-proliferation-data-centers-elle-ineluctable-135926/",
-      "source": "Futura",
-      "publishedAt": "2026-07-05T10:25:54Z",
+      "title": "À l'ère de l'IA, la vérification des faits devient le véritable avantage compétitif des entreprises",
+      "description": "L'intelligence artificielle accélère les décisions des entreprises. Plus elle progresse, plus la vérification des faits devient un avantage concurrentiel.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1552241-a-l-ere-de-l-ia-la-verification-des-faits-devient-le-veritable-avantage-competitif-des-entreprises/",
+      "source": "JDN",
+      "publishedAt": "2026-07-06T09:33:46Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,12 +290,12 @@
       "thumbnail": ""
     },
     {
-      "title": "Sommes-nous prêts à faire confiance à l’IA pour organiser nos vacances ?",
-      "description": "Faites-vous confiance aux IA Génératives pour vous aider à organiser vos vacances ? Une nouvelle étude montre les points de résistance à l’utilisation de ces nouvelles technologies.",
-      "url": "https://theconversation.com/sommes-nous-prets-a-faire-confiance-a-lia-pour-organiser-nos-vacances-285415",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-07-05T09:35:03Z",
-      "category": "innovation",
+      "title": "L'IA expose les entreprises qui ne la maîtrisent pas",
+      "description": "Les LLM cloud, outil le plus puissant jamais créé… et cheval de Troie qui expose les entreprises qui ne comprennent pas ses mécanismes.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1552239-l-ia-expose-les-entreprises-qui-ne-la-maitrisent-pas/",
+      "source": "JDN",
+      "publishedAt": "2026-07-06T09:34:24Z",
+      "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",

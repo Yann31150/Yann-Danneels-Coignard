@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 06 Jul 2026 12:07:43 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 11:12:07 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -18,14 +18,6 @@
             <description><![CDATA[Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...]]></description>
             <pubDate>Mon, 22 Jun 2026 15:04:54 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=0EsKXRhOYxM</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>NLP - Topic Modeling sous Python avec « BERTopic »</title>
-            <link>https://www.youtube.com/watch?v=PAUvOSpyp-0</link>
-            <description><![CDATA[Machine learning. Data science. NLP (natural language processing). Text mining. Le « topic modeling » (modélisation de sujets) ...]]></description>
-            <pubDate>Fri, 26 Jun 2026 09:51:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=PAUvOSpyp-0</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
@@ -75,6 +67,14 @@
             <pubDate>Fri, 29 May 2026 23:15:48 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=s0uwb3ZVA-c</guid>
             <source>Madi CONDÉ </source>
+        </item>
+        <item>
+            <title>L'Europe ne gagnera pas la guerre de l'IA en jouant selon les règles des autres</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1552325-l-europe-ne-gagnera-pas-la-guerre-de-l-ia-en-jouant-selon-les-regles-des-autres/</link>
+            <description><![CDATA[L'IA est devenue un instrument de puissance. L'Europe ne gagnera pas en imitant les autres, mais en capitalisant sur ses atouts : énergie, données de confiance et quantique.]]></description>
+            <pubDate>Mon, 06 Jul 2026 09:31:57 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1552325-l-europe-ne-gagnera-pas-la-guerre-de-l-ia-en-jouant-selon-les-regles-des-autres/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Python for Data Analytics (2026) |Complete Guide with FREE Resources|How to Learn Python|Intellipaat</title>
@@ -133,6 +133,22 @@
             <source>Le Decodeur</source>
         </item>
         <item>
+            <title>2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS</title>
+            <link>https://www.youtube.com/watch?v=cnjhHZNJEDk</link>
+            <description><![CDATA[Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...]]></description>
+            <pubDate>Tue, 19 May 2026 12:30:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=cnjhHZNJEDk</guid>
+            <source>Alex The Analyst</source>
+        </item>
+        <item>
+            <title>La deeptech Coppery déploie sa matière antimicrobienne et écoresponsable</title>
+            <link>https://www.lejournaldesentreprises.com/article/la-deeptech-coppery-deploie-sa-matiere-antimicrobienne-et-ecoresponsable-2146184</link>
+            <description><![CDATA[La start-up Coppery a créé une matière antimicrobienne à partir de matériaux biosourcés et recyclés, fruit de 4 ans de recherche dans un garage-labo. La jeune deeptech cherche à faire connaître son ma...]]></description>
+            <pubDate>Mon, 06 Jul 2026 10:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/article/la-deeptech-coppery-deploie-sa-matiere-antimicrobienne-et-ecoresponsable-2146184</guid>
+            <source>Le Journal des Entreprises</source>
+        </item>
+        <item>
             <title>Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀</title>
             <link>https://www.youtube.com/watch?v=1Kokkl5PybM</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
@@ -141,36 +157,20 @@
             <source>Morpheus Formation | Excel, Power BI, Sheets</source>
         </item>
         <item>
+            <title>Test Sony Xperia 1 VIII : un design rafraîchi pour un smartphone toujours conservateur</title>
+            <link>https://www.lesnumeriques.com/telephone-portable/sony-xperia-1-viii-p78262/test.html</link>
+            <description><![CDATA[Très peu présent sur le marché de la téléphonie mobile, Sony condense son savoir-faire dans un unique smartphone en 2026 : le Xperia 1 VIII. Cette huitième itération de son terminal premium ambitionne...]]></description>
+            <pubDate>Mon, 06 Jul 2026 10:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/telephone-portable/sony-xperia-1-viii-p78262/test.html</guid>
+            <source>Les Numériques</source>
+        </item>
+        <item>
             <title>Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)</title>
             <link>https://www.youtube.com/watch?v=9t1mXWkqj0g</link>
             <description><![CDATA[Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...]]></description>
             <pubDate>Sun, 10 May 2026 18:00:17 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=9t1mXWkqj0g</guid>
             <source>DataSet By d@ne</source>
-        </item>
-        <item>
-            <title>data-science-document-ai 2.6.0</title>
-            <link>https://pypi.org/project/data-science-document-ai/2.6.0/</link>
-            <description><![CDATA["Document AI repo for data science"]]></description>
-            <pubDate>Sat, 04 Jul 2026 19:12:25 -0000</pubDate>
-            <guid isPermaLink="true">https://pypi.org/project/data-science-document-ai/2.6.0/</guid>
-            <source>Pypi.org</source>
-        </item>
-        <item>
-            <title>Voici l'habitude toute simple à changer pour stimuler votre cerveau selon des spécialistes</title>
-            <link>https://www.futura-sciences.com/sante/actualites/memoire-voici-habitude-toute-simple-changer-stimuler-votre-cerveau-selon-specialistes-k2m6-135875/</link>
-            <description><![CDATA[Votre cerveau s'ennuie. Pas métaphoriquement : littéralement. Quand chaque journée ressemble à la précédente, vos neurones fonctionnent en pilote automatique. Résultat ? La mémoire stagne, voire régre...]]></description>
-            <pubDate>Sun, 05 Jul 2026 08:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/sante/actualites/memoire-voici-habitude-toute-simple-changer-stimuler-votre-cerveau-selon-specialistes-k2m6-135875/</guid>
-            <source>Futura</source>
-        </item>
-        <item>
-            <title>Les data centers posent des problèmes, ETAP peut les résoudre en utilisant IA et jumeaux numériques !</title>
-            <link>https://www.futura-sciences.com/tech/actualites/data-centers-data-centers-posent-problemes-etap-peut-resoudre-utilisant-ia-jumeaux-numeriques-135233/</link>
-            <description><![CDATA[Les data centers et les AI factories sont en plein développement, mais comme pour bien des systèmes de production et d'utilisation d'énergie ou de matière, il faut gérer un réseau électrique associé p...]]></description>
-            <pubDate>Sun, 05 Jul 2026 11:31:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/data-centers-data-centers-posent-problemes-etap-peut-resoudre-utilisant-ia-jumeaux-numeriques-135233/</guid>
-            <source>Futura</source>
         </item>
     </channel>
 </rss>
