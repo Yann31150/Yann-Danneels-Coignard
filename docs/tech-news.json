@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-08T10:22:40.379616",
+  "lastUpdate": "2026-07-09T11:07:51.300724",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -14,66 +14,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
     },
     {
-      "title": "NLP – Catégorisation multiclasse avec TabICL (TabICLv2 / Python)",
-      "description": "Machine learning. Data science. NLP (natural language processing). TabICL (tabular in-context learning) est une technologie de ...",
-      "url": "https://www.youtube.com/watch?v=pWDFTIJiYMU",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-07-07T08:57:32Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "pWDFTIJiYMU",
-      "thumbnail": "https://i.ytimg.com/vi/pWDFTIJiYMU/hqdefault.jpg"
-    },
-    {
-      "title": "NLP - Topic Modeling sous Python avec « BERTopic »",
-      "description": "Machine learning. Data science. NLP (natural language processing). Text mining. Le « topic modeling » (modélisation de sujets) ...",
-      "url": "https://www.youtube.com/watch?v=PAUvOSpyp-0",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-06-26T09:51:10Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "PAUvOSpyp-0",
-      "thumbnail": "https://i.ytimg.com/vi/PAUvOSpyp-0/hqdefault.jpg"
-    },
-    {
-      "title": "L'astuce simple pour bloquer les robots de Google et d'OpenAI qui pillent le contenu de votre site web",
-      "description": "Jadis, les propriétaires de sites Web se préoccupaient surtout des robots de Google ou Bing. Désormais, un nouveau type de robot parcourt quotidiennement Internet : les crawlers IA comme ceux de ChatG...",
-      "url": "https://www.futura-sciences.com/tech/questions-reponses/intelligence-artificielle-astuce-simple-bloquer-robots-google-openai-pillent-contenu-votre-site-web-25579/",
-      "source": "Futura",
-      "publishedAt": "2026-07-07T10:00:05Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "IA dans la fonction publique : les données stratégiques des entreprises françaises exposées aux LLM cloud ?",
-      "description": "Les données stratégiques des entreprises françaises, confiées à l'État, risquent de transiter par des LLM cloud étrangers. Un danger de fuite peu documenté.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1552367-ia-dans-la-fonction-publique-les-donnees-strategiques-des-entreprises-francaises-exposees-aux-llm-cloud/",
-      "source": "JDN",
-      "publishedAt": "2026-07-07T09:04:59Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fable, Mythos, GPT-5.6 : l’Europe à la merci d’un kill switch américain ?",
-      "description": "Fable coupée aux Européens, GPT-5.6 réservé à des partenaires validés par Washington : les États-Unis entendent bien démontrer leur emprise sur l'IA mondiale. Analyse avec Bernard Benhamou, expert de ...",
-      "url": "https://www.blogdumoderateur.com/fable-mythos-gpt-5-6-europe-kill-switch-americain/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-07-07T07:58:31Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
       "description": "La formation COMPLÈTE Data & Machine Learning — plus de 9 heures de cours, 111 sessions + 15 quiz, 100% GRATUITE.",
       "url": "https://www.youtube.com/watch?v=mdsnXx_tBEs",
@@ -84,18 +24,6 @@
       "isYouTube": true,
       "videoId": "mdsnXx_tBEs",
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
-    },
-    {
-      "title": "L’apprentissage de la langue par l’oralité et l’intelligence artificielle",
-      "description": "Si les Français sont en retard sur la plupart de leurs voisins européens dans la pratique d’au moins une langue étrangère, c’est en partie à cause de la peur de l’oralité, ce que propose de corriger l...",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-apprentissage-langue-oralite-intelligence-artificielle-135732/",
-      "source": "Futura",
-      "publishedAt": "2026-07-07T09:53:44Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
@@ -110,16 +38,100 @@
       "thumbnail": "https://i.ytimg.com/vi/bvm-n-HN8ws/hqdefault.jpg"
     },
     {
-      "title": "Comment supprimer la pop-up &quot;Entrez votre adresse e-mail&quot; dans Power BI Desktop (Solution 2026)",
-      "description": "Ce document technique explique la méthode précise pour désactiver la fenêtre de connexion e-mail sur Power BI Desktop.",
-      "url": "https://www.youtube.com/watch?v=W9Ca51mHhDk",
-      "source": "TechVantage FR",
-      "publishedAt": "2026-05-09T13:23:36Z",
+      "title": "Salaires : combien gagnent les professionnels de l’IA en 2026 ?",
+      "description": "Le cabinet Silkhom a dévoilé la première édition de son baromètre des salaires exclusivement consacré aux métiers de l'intelligence artificielle. Voici les tendances de rémunération observées dans ce ...",
+      "url": "https://www.blogdumoderateur.com/salaires-combien-gagnent-professionnels-ia-2026/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-07-08T08:25:47Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)",
+      "description": "Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...",
+      "url": "https://www.youtube.com/watch?v=1tlM9a4eEII",
+      "source": "lioncode",
+      "publishedAt": "2026-06-11T10:53:29Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "W9Ca51mHhDk",
-      "thumbnail": "https://i.ytimg.com/vi/W9Ca51mHhDk/hqdefault.jpg"
+      "videoId": "1tlM9a4eEII",
+      "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
+    },
+    {
+      "title": "Muse Image : Meta lance son générateur d’images IA intégré à Instagram et WhatsApp",
+      "description": "Meta possède désormais son propre générateur d'images via intelligence artificielle. Il est disponible dans quelques applications de la firme, à savoir WhatsApp, Instagram et bien sûr Meta AI. Presque...",
+      "url": "https://www.phonandroid.com/muse-image-meta-lance-son-generateur-dimages-ia-integre-a-instagram-et-whatsapp.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-07-08T08:49:11Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
+      "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
+      "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
+      "source": "Seif BOUGUERRA",
+      "publishedAt": "2026-06-20T17:56:01Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "IanWrDWQy0s",
+      "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
+    },
+    {
+      "title": "Apprendre SQL avec un VRAI projet (pas des exercices inutiles)",
+      "description": "Présentation du projet Catalogue VOD On arrête les exercices abstraits. On construit un vrai système. Dans ce Short, je vous ...",
+      "url": "https://www.youtube.com/watch?v=s0uwb3ZVA-c",
+      "source": "Madi CONDÉ ",
+      "publishedAt": "2026-05-29T23:15:48Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "s0uwb3ZVA-c",
+      "thumbnail": "https://i.ytimg.com/vi/s0uwb3ZVA-c/hqdefault.jpg"
+    },
+    {
+      "title": "Python for Data Analytics (2026) |Complete Guide with FREE Resources|How to Learn Python|Intellipaat",
+      "description": "Enroll for Intellipaat's Python Course: https://intellipaat.com/python-certification-training-online/ Book your Free ...",
+      "url": "https://www.youtube.com/watch?v=nI9lVOH0htY",
+      "source": "Intellipaat",
+      "publishedAt": "2026-06-08T17:30:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "nI9lVOH0htY",
+      "thumbnail": "https://i.ytimg.com/vi/nI9lVOH0htY/hqdefault.jpg"
+    },
+    {
+      "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-05-10T15:00:38Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "w2JE7HUNJFU",
+      "thumbnail": "https://i.ytimg.com/vi/w2JE7HUNJFU/hqdefault.jpg"
+    },
+    {
+      "title": "Formation Power BI Desktop Complète | Dashboard Professionnel en 1H30 – Power BI #12",
+      "description": "Bonjour à toutes et à tous, J'espère que vous allez très bien. Dans cette formation complète Power BI Desktop, vous allez ...",
+      "url": "https://www.youtube.com/watch?v=-sqQb0OViwg",
+      "source": "Martinien Adda",
+      "publishedAt": "2026-05-26T16:00:11Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "-sqQb0OViwg",
+      "thumbnail": "https://i.ytimg.com/vi/-sqQb0OViwg/hqdefault.jpg"
     },
     {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
@@ -158,16 +170,16 @@
       "thumbnail": "https://i.ytimg.com/vi/OhT0MEFKylY/hqdefault.jpg"
     },
     {
-      "title": "Notre dossier. IA : pourquoi la nouvelle révolution pourrait venir de la lumière",
-      "description": "Dans les centres de données, des milliers de connexions cuivre ne supportent plus le débit de l’intelligence artificielle. Il faut passer plus de données, plus vite. La solution : le photon. Les conne...",
-      "url": "https://www.ledauphine.com/economie/2026/07/06/comment-le-photon-accelere-le-debit-des-centres-de-donnees",
-      "source": "Le Dauphiné Libéré",
-      "publishedAt": "2026-07-06T15:45:00Z",
+      "title": "Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)",
+      "description": "Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...",
+      "url": "https://www.youtube.com/watch?v=2A5rNESVS9w",
+      "source": "AMVOULA Naïsia ",
+      "publishedAt": "2026-06-14T14:37:38Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "2A5rNESVS9w",
+      "thumbnail": "https://i.ytimg.com/vi/2A5rNESVS9w/hqdefault.jpg"
     },
     {
       "title": "SQL pour Data Analyst - Formation Complète",
@@ -180,6 +192,18 @@
       "isYouTube": true,
       "videoId": "-9NppUySsk0",
       "thumbnail": "https://i.ytimg.com/vi/-9NppUySsk0/hqdefault.jpg"
+    },
+    {
+      "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
+      "description": "Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...",
+      "url": "https://www.youtube.com/watch?v=cnjhHZNJEDk",
+      "source": "Alex The Analyst",
+      "publishedAt": "2026-05-19T12:30:29Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "cnjhHZNJEDk",
+      "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
     },
     {
       "title": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data",
@@ -218,30 +242,6 @@
       "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
     },
     {
-      "title": "Bornes de recharge : sans connectivité sécurisée, pas de service fiable",
-      "description": "En France, l'électromobilité a franchi un cap industriel et sociétal majeur. Cette expansion rapide engendre toutefois une vulnérabilité critique souvent sous-estimée.",
-      "url": "https://www.journaldunet.com/iot/1552279-bornes-de-recharge-sans-connectivite-securisee-pas-de-service-fiable/",
-      "source": "JDN",
-      "publishedAt": "2026-07-07T08:33:04Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Shadow AI : le risque invisible qui guette les PME françaises",
-      "description": "L'explosion du shadow IA expose les PME à des fuites de données. Les MSP ont un rôle à jouer auprès de leurs clients dans la mise en oeuvre d'une gouvernance efficace et des contrôles adaptés.",
-      "url": "https://www.journaldunet.com/cybersecurite/1552259-shadow-ai-le-risque-invisible-qui-guette-les-pme-francaises/",
-      "source": "JDN",
-      "publishedAt": "2026-07-07T10:03:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Computer Vision - De la Théorie au Code en 1H",
       "description": "Dans cette vidéo, on vulgarise la computer vision en deux temps : d'abord un état de l'art des tâches principales et des grandes ...",
       "url": "https://www.youtube.com/watch?v=MYhsbnBdUEQ",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "Atos annonce Atos MogwAI, sa plateforme d’IA souveraine",
-      "description": "Atos MogwAI permet d’industrialiser l’IA générative et agentique dans un cadre sécurisé, maîtrisé et souverain...",
-      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322952/0/fr/Atos-annonce-Atos-MogwAI-sa-plateforme-d-IA-souveraine.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-07-07T08:57:00Z",
+      "title": "L’IA s’invite dans la salle de bains : Philips veut réinventer le brossage des dents",
+      "description": "L’intelligence artificielle ne se limite plus aux smartphones ou aux ordinateurs. Après les aspirateurs, les montres connectées et les écouteurs, elle fait désormais son apparition… dans une brosse à ...",
+      "url": "https://w3sh.com/2026/07/lia-sinvite-dans-la-salle-de-bains-philips-veut-reinventer-le-brossage-des-dents/",
+      "source": "W3sh.com",
+      "publishedAt": "2026-07-08T08:00:51Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "L&#8217;actrice IA la plus controversée d&#8217;Hollywood décroche son premier rôle principal&#8230; dans un film sur l&#8217;IA",
-      "description": "Une IA qui va jouer une IA dans un film sur l'IA. Une mise en abîme qui n'a même pas eu le temps de germer dans l'esprit des scénaristes de Black Mirror tellement l'idée est...",
-      "url": "https://www.konbini.com/popculture/lactrice-ia-la-plus-controversee-dhollywood-decroche-son-premier-role-principal-dans-un-film-sur-lia/",
-      "source": "Konbini France",
-      "publishedAt": "2026-07-07T10:09:44Z",
+      "title": "L’IA est prête à accompagner les Français dans leurs achats mais bute encore sur leur confiance",
+      "description": "Si le commerce agentique est promis à un avenir radieux, il faudra qu’il gagne les faveurs de consommateurs encore sur la défensive quand il s’agit de laisser le panier et le portefeuille à une intell...",
+      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-ia-prete-accompagner-francais-leurs-achats-mais-bute-encore-leur-confiance-135963/",
+      "source": "Futura",
+      "publishedAt": "2026-07-08T08:30:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Comment le Mac s’est imposé dans l’IA",
-      "description": "À défaut d’avoir les meilleurs modèles d’IA, Apple a les meilleures machines pour les faire tourner. Les Mac se sont en effet imposés comme les ordinateurs grand public les plus adaptés pour exécuter ...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/07/comment-le-mac-sest-impose-dans-lia-309605",
-      "source": "MacGeneration",
-      "publishedAt": "2026-07-06T16:13:00Z",
+      "title": "Genève. À AI for good, les drôles de robots humanoïdes des Genevois de RB Labs",
+      "description": "Le sommet AI for good organisé par l’Union internationale des Télécommunications rassemble des milliers de visiteurs autour d’une intelligence artificielle au service de l’humanité. Dans ses allées, q...",
+      "url": "https://www.ledauphine.com/science-et-technologie/2026/07/07/a-ai-for-good-les-droles-de-robots-humanoides-des-genevois-de-rb-labs",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-07-08T09:41:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Anthropic découvre la pensée cachée de l'IA Claude",
-      "description": "Un espace de conscience qui a émergé naturellement durant l'entraînement. Anthropic a identifié une zone de traitement interne dans son IA Claude. Un J-space qui fonctionne comme un espace de travail ...",
-      "url": "https://www.generation-nt.com/actualites/anthropic-claude-ia-conscience-acces-j-space-2078228",
-      "source": "Génération NT",
-      "publishedAt": "2026-07-07T10:05:01Z",
+      "title": "Comment « dé-IA-iser » nos écrits pour éviter la disparition des particularités des langues ?",
+      "description": "Les tics de langage de l'intelligence artificielle colonisent nos écrits. Derrière ces formules creuses se cache l'appauvrissement systématique de la langue.",
+      "url": "https://theconversation.com/comment-de-ia-iser-nos-ecrits-pour-eviter-la-disparition-des-particularites-des-langues-281811",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-07-07T13:50:39Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
