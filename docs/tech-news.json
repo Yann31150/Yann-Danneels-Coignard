@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-09T11:07:51.300724",
+  "lastUpdate": "2026-07-10T11:08:27.859149",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -14,6 +14,42 @@
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
     },
     {
+      "title": "NLP – Catégorisation multiclasse avec TabICL (TabICLv2 / Python)",
+      "description": "Machine learning. Data science. NLP (natural language processing). TabICL (tabular in-context learning) est une technologie de ...",
+      "url": "https://www.youtube.com/watch?v=pWDFTIJiYMU",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-07-07T08:57:32Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "pWDFTIJiYMU",
+      "thumbnail": "https://i.ytimg.com/vi/pWDFTIJiYMU/hqdefault.jpg"
+    },
+    {
+      "title": "NLP - Topic Modeling sous Python avec « BERTopic »",
+      "description": "Machine learning. Data science. NLP (natural language processing). Text mining. Le « topic modeling » (modélisation de sujets) ...",
+      "url": "https://www.youtube.com/watch?v=PAUvOSpyp-0",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-06-26T09:51:10Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "PAUvOSpyp-0",
+      "thumbnail": "https://i.ytimg.com/vi/PAUvOSpyp-0/hqdefault.jpg"
+    },
+    {
+      "title": "Voici ce que l'intelligence artificielle a découvert dans les modèles climatiques et ce n'est pas rassurant",
+      "description": "Pour mettre toutes les chances de son côté de vaincre un ennemi, il faut le connaître au mieux. C’est ce que les scientifiques cherchent à faire avec leurs modèles climatiques. Et désormais aussi, ave...",
+      "url": "https://www.futura-sciences.com/planete/actualites/rechauffement-climatique-voici-ce-intelligence-artificielle-decouvert-modeles-climatiques-ce-nest-pas-rassurant-w2t8-136000/",
+      "source": "Futura",
+      "publishedAt": "2026-07-09T06:00:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
       "description": "La formation COMPLÈTE Data & Machine Learning — plus de 9 heures de cours, 111 sessions + 15 quiz, 100% GRATUITE.",
       "url": "https://www.youtube.com/watch?v=mdsnXx_tBEs",
@@ -24,6 +60,18 @@
       "isYouTube": true,
       "videoId": "mdsnXx_tBEs",
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
+    },
+    {
+      "title": "Comment ChatGPT sait ce que les mots veulent dire (Embeddings)",
+      "description": "Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...",
+      "url": "https://www.youtube.com/watch?v=ktL8oV26XYg",
+      "source": "How AI Works?",
+      "publishedAt": "2026-06-18T08:01:19Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "ktL8oV26XYg",
+      "thumbnail": "https://i.ytimg.com/vi/ktL8oV26XYg/hqdefault.jpg"
     },
     {
       "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
@@ -62,18 +110,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
     },
     {
-      "title": "Muse Image : Meta lance son générateur d’images IA intégré à Instagram et WhatsApp",
-      "description": "Meta possède désormais son propre générateur d'images via intelligence artificielle. Il est disponible dans quelques applications de la firme, à savoir WhatsApp, Instagram et bien sûr Meta AI. Presque...",
-      "url": "https://www.phonandroid.com/muse-image-meta-lance-son-generateur-dimages-ia-integre-a-instagram-et-whatsapp.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-07-08T08:49:11Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
       "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
       "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
@@ -84,54 +120,6 @@
       "isYouTube": true,
       "videoId": "IanWrDWQy0s",
       "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
-    },
-    {
-      "title": "Apprendre SQL avec un VRAI projet (pas des exercices inutiles)",
-      "description": "Présentation du projet Catalogue VOD On arrête les exercices abstraits. On construit un vrai système. Dans ce Short, je vous ...",
-      "url": "https://www.youtube.com/watch?v=s0uwb3ZVA-c",
-      "source": "Madi CONDÉ ",
-      "publishedAt": "2026-05-29T23:15:48Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "s0uwb3ZVA-c",
-      "thumbnail": "https://i.ytimg.com/vi/s0uwb3ZVA-c/hqdefault.jpg"
-    },
-    {
-      "title": "Python for Data Analytics (2026) |Complete Guide with FREE Resources|How to Learn Python|Intellipaat",
-      "description": "Enroll for Intellipaat's Python Course: https://intellipaat.com/python-certification-training-online/ Book your Free ...",
-      "url": "https://www.youtube.com/watch?v=nI9lVOH0htY",
-      "source": "Intellipaat",
-      "publishedAt": "2026-06-08T17:30:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "nI9lVOH0htY",
-      "thumbnail": "https://i.ytimg.com/vi/nI9lVOH0htY/hqdefault.jpg"
-    },
-    {
-      "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4nj4LE6 Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2026-05-10T15:00:38Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "w2JE7HUNJFU",
-      "thumbnail": "https://i.ytimg.com/vi/w2JE7HUNJFU/hqdefault.jpg"
-    },
-    {
-      "title": "Formation Power BI Desktop Complète | Dashboard Professionnel en 1H30 – Power BI #12",
-      "description": "Bonjour à toutes et à tous, J'espère que vous allez très bien. Dans cette formation complète Power BI Desktop, vous allez ...",
-      "url": "https://www.youtube.com/watch?v=-sqQb0OViwg",
-      "source": "Martinien Adda",
-      "publishedAt": "2026-05-26T16:00:11Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "-sqQb0OViwg",
-      "thumbnail": "https://i.ytimg.com/vi/-sqQb0OViwg/hqdefault.jpg"
     },
     {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
@@ -230,16 +218,28 @@
       "thumbnail": "https://i.ytimg.com/vi/1Kokkl5PybM/hqdefault.jpg"
     },
     {
-      "title": "Réaliser une analyse exploratoire des données EDA avec Python (Guide de débutants)",
-      "description": "Dans cette vidéo, nous allons réaliser une Analyse Exploratoire des Données (AED / EDA) avec Python sur un dataset ...",
-      "url": "https://www.youtube.com/watch?v=9t1mXWkqj0g",
-      "source": "DataSet By d@ne",
-      "publishedAt": "2026-05-10T18:00:17Z",
+      "title": "Données de santé Doctolib - Comment vous opposer à leur usage IA ?",
+      "description": "Cet aprem, je bossais tranquillou quand j'ai reçu un mail de DoctoLib qui m'a bien énervé avec pour titre : \"Doctolib s'engage dans la recherche pour améliorer la santé\". Bon, si on s'arrête au titre,...",
+      "url": "https://korben.info/doctolib-recherche-ia-opposition-donnees-sante.html",
+      "source": "Korben.info",
+      "publishedAt": "2026-07-08T15:23:01Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comment créer une base de données avec le langage SQL ?",
+      "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
+      "url": "https://www.youtube.com/watch?v=19JD2vconJ0",
+      "source": "OpenClassrooms en Français",
+      "publishedAt": "2026-07-01T04:00:13Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "9t1mXWkqj0g",
-      "thumbnail": "https://i.ytimg.com/vi/9t1mXWkqj0g/hqdefault.jpg"
+      "videoId": "19JD2vconJ0",
+      "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
       "title": "Computer Vision - De la Théorie au Code en 1H",
@@ -254,35 +254,23 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "L’IA s’invite dans la salle de bains : Philips veut réinventer le brossage des dents",
-      "description": "L’intelligence artificielle ne se limite plus aux smartphones ou aux ordinateurs. Après les aspirateurs, les montres connectées et les écouteurs, elle fait désormais son apparition… dans une brosse à ...",
-      "url": "https://w3sh.com/2026/07/lia-sinvite-dans-la-salle-de-bains-philips-veut-reinventer-le-brossage-des-dents/",
-      "source": "W3sh.com",
-      "publishedAt": "2026-07-08T08:00:51Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L’IA est prête à accompagner les Français dans leurs achats mais bute encore sur leur confiance",
-      "description": "Si le commerce agentique est promis à un avenir radieux, il faudra qu’il gagne les faveurs de consommateurs encore sur la défensive quand il s’agit de laisser le panier et le portefeuille à une intell...",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-ia-prete-accompagner-francais-leurs-achats-mais-bute-encore-leur-confiance-135963/",
-      "source": "Futura",
-      "publishedAt": "2026-07-08T08:30:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Genève. À AI for good, les drôles de robots humanoïdes des Genevois de RB Labs",
-      "description": "Le sommet AI for good organisé par l’Union internationale des Télécommunications rassemble des milliers de visiteurs autour d’une intelligence artificielle au service de l’humanité. Dans ses allées, q...",
-      "url": "https://www.ledauphine.com/science-et-technologie/2026/07/07/a-ai-for-good-les-droles-de-robots-humanoides-des-genevois-de-rb-labs",
+      "title": "Savoie. Une IA contrôlée depuis sa souris : quelle est cette innovation annoncée par l’entreprise Lexip ?",
+      "description": "Une innovation en intelligence artificielle a été présentée par l’entreprise savoyarde Lexip, ce mardi 7 juillet à Windalps. Intégrée directement sur la souris d’ordinateur au moyen d’une molette, cet...",
+      "url": "https://www.ledauphine.com/economie/2026/07/09/une-ia-controlee-depuis-sa-souris-quelle-est-cette-innovation-annoncee-par-l-entreprise-lexip",
       "source": "Le Dauphiné Libéré",
-      "publishedAt": "2026-07-08T09:41:00Z",
+      "publishedAt": "2026-07-09T04:05:00Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "La Chine accélère contre le cancer : ce vaccin conçu avec l’IA veut s’adapter à chaque tumeur",
+      "description": "À Pékin, la première ligne chinoise de production de vaccins anticancer personnalisés assistée par l'intelligence artificielle est actuellement en cours de construction. Ce projet marque une nouvelle ...",
+      "url": "https://www.futura-sciences.com/sante/actualites/vaccin-chine-accelere-cancer-ce-vaccin-concu-ia-veut-adapter-chaque-tumeur-135932/",
+      "source": "Futura",
+      "publishedAt": "2026-07-09T09:03:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,12 +278,24 @@
       "thumbnail": ""
     },
     {
-      "title": "Comment « dé-IA-iser » nos écrits pour éviter la disparition des particularités des langues ?",
-      "description": "Les tics de langage de l'intelligence artificielle colonisent nos écrits. Derrière ces formules creuses se cache l'appauvrissement systématique de la langue.",
-      "url": "https://theconversation.com/comment-de-ia-iser-nos-ecrits-pour-eviter-la-disparition-des-particularites-des-langues-281811",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-07-07T13:50:39Z",
+      "title": "Discord : la modération par IA a pété un câble",
+      "description": "Discord admet que son intelligence artificielle a banni des milliers d'utilisateurs à cause d'échiquiers.",
+      "url": "https://www.journaldugeek.com/2026/07/08/discord-la-moderation-par-ia-a-pete-un-cable/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-07-08T10:32:19Z",
       "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cognizant prévoit d'atteindre un effectif de 5 000 ingénieurs certifiés Frontier et de 10 000 responsables opérationnels Frontier",
+      "description": "Le modèle de main-d'œuvre Frontier de Cognizant crée l'infrastructure humaine permettant de transformer les investissements dans l'IA en résultats concrets pour l'entreprise Sur la base de plusieurs d...",
+      "url": "https://www.prnewswire.com/news-releases/cognizant-prevoit-datteindre-un-effectif-de-5-000-ingenieurs-certifies-frontier-et-de-10-000-responsables-operationnels-frontier-302821710.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-07-09T10:30:00Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
