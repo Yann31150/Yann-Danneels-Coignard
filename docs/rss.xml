@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 10 Jul 2026 11:08:27 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jul 2026 09:41:33 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -37,20 +37,20 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Voici ce que l'intelligence artificielle a découvert dans les modèles climatiques et ce n'est pas rassurant</title>
-            <link>https://www.futura-sciences.com/planete/actualites/rechauffement-climatique-voici-ce-intelligence-artificielle-decouvert-modeles-climatiques-ce-nest-pas-rassurant-w2t8-136000/</link>
-            <description><![CDATA[Pour mettre toutes les chances de son côté de vaincre un ennemi, il faut le connaître au mieux. C’est ce que les scientifiques cherchent à faire avec leurs modèles climatiques. Et désormais aussi, ave...]]></description>
-            <pubDate>Thu, 09 Jul 2026 06:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/planete/actualites/rechauffement-climatique-voici-ce-intelligence-artificielle-decouvert-modeles-climatiques-ce-nest-pas-rassurant-w2t8-136000/</guid>
-            <source>Futura</source>
-        </item>
-        <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
             <link>https://www.youtube.com/watch?v=mdsnXx_tBEs</link>
             <description><![CDATA[La formation COMPLÈTE Data &amp; Machine Learning — plus de 9 heures de cours, 111 sessions + 15 quiz, 100% GRATUITE.]]></description>
             <pubDate>Mon, 25 May 2026 13:45:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=mdsnXx_tBEs</guid>
             <source>IA Futura</source>
+        </item>
+        <item>
+            <title>Whirlpool réinvente le froid : design et intelligence artificielle… au service de l’efficacité</title>
+            <link>https://www.lesnumeriques.com/electromenager/whirlpool-reinvente-le-froid-design-et-intelligence-artificielle-au-service-de-l-efficacite-na258255.html</link>
+            <description><![CDATA[Avec sa nouvelle gamme de réfrigérateurs et congélateurs, Whirlpool dépoussière l’univers du froid avec la volonté d’apporter une véritable valeur ajoutée technologique, notamment grâce à un usage per...]]></description>
+            <pubDate>Fri, 10 Jul 2026 09:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/electromenager/whirlpool-reinvente-le-froid-design-et-intelligence-artificielle-au-service-de-l-efficacite-na258255.html</guid>
+            <source>Les Numériques</source>
         </item>
         <item>
             <title>Comment ChatGPT sait ce que les mots veulent dire (Embeddings)</title>
@@ -69,20 +69,20 @@
             <source>ModAi Lab | SQL & Data par l'IA</source>
         </item>
         <item>
-            <title>Salaires : combien gagnent les professionnels de l’IA en 2026 ?</title>
-            <link>https://www.blogdumoderateur.com/salaires-combien-gagnent-professionnels-ia-2026/</link>
-            <description><![CDATA[Le cabinet Silkhom a dévoilé la première édition de son baromètre des salaires exclusivement consacré aux métiers de l'intelligence artificielle. Voici les tendances de rémunération observées dans ce ...]]></description>
-            <pubDate>Wed, 08 Jul 2026 08:25:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.blogdumoderateur.com/salaires-combien-gagnent-professionnels-ia-2026/</guid>
-            <source>Blogdumoderateur.com</source>
-        </item>
-        <item>
             <title>Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)</title>
             <link>https://www.youtube.com/watch?v=1tlM9a4eEII</link>
             <description><![CDATA[Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...]]></description>
             <pubDate>Thu, 11 Jun 2026 10:53:29 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=1tlM9a4eEII</guid>
             <source>lioncode</source>
+        </item>
+        <item>
+            <title>Windows 11 : Microsoft va utiliser l'IA pour corriger plus rapidement les failles de sécurité</title>
+            <link>https://www.01net.com/actualites/windows-11-microsoft-va-utiliser-lia-pour-corriger-plus-rapidement-les-failles-de-securite.html</link>
+            <description><![CDATA[Microsoft va moderniser sa stratégie de gestion des vulnérabilités de Windows grâce à l’intelligence artificielle. La firme de Redmond va s’appuyer sur un agent IA pour identifier et corriger les fail...]]></description>
+            <pubDate>Fri, 10 Jul 2026 09:02:24 -0000</pubDate>
+            <guid isPermaLink="true">https://www.01net.com/actualites/windows-11-microsoft-va-utiliser-lia-pour-corriger-plus-rapidement-les-failles-de-securite.html</guid>
+            <source>01net.com</source>
         </item>
         <item>
             <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
@@ -141,6 +141,14 @@
             <source>Alex The Analyst</source>
         </item>
         <item>
+            <title>Créer un Dashboard Power BI | Tuto complet de A à Z</title>
+            <link>https://www.youtube.com/watch?v=PoJBFjMf88g</link>
+            <description><![CDATA[Dans cette vidéo, tu vas apprendre toutes les étapes de conception d'un dashboard de A à Z sur l'outil Power BI. ​ Rejoins le ...]]></description>
+            <pubDate>Sun, 31 May 2026 15:30:48 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=PoJBFjMf88g</guid>
+            <source>Le Decodeur</source>
+        </item>
+        <item>
             <title>Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data</title>
             <link>https://www.youtube.com/watch?v=IwQvKri768w</link>
             <description><![CDATA[Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data Timeline 00:00 Introduction ...]]></description>
@@ -149,28 +157,20 @@
             <source>Mikail Altundas</source>
         </item>
         <item>
+            <title>Doctolib : comment refuser l’utilisation de vos données pour l’entraînement de l’IA</title>
+            <link>https://www.phonandroid.com/doctolib-comment-refuser-lutilisation-de-vos-donnees-pour-lentrainement-de-lia.html</link>
+            <description><![CDATA[Le site de prise de rendez-vous médicaux Doctolib va se servir de vos données pour entraîner son IA. Vous avez le droit de vous y opposer. Voici la méthode la...]]></description>
+            <pubDate>Fri, 10 Jul 2026 09:01:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.phonandroid.com/doctolib-comment-refuser-lutilisation-de-vos-donnees-pour-lentrainement-de-lia.html</guid>
+            <source>Phonandroid</source>
+        </item>
+        <item>
             <title>Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀</title>
             <link>https://www.youtube.com/watch?v=1Kokkl5PybM</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
             <pubDate>Thu, 04 Jun 2026 09:00:14 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=1Kokkl5PybM</guid>
             <source>Morpheus Formation | Excel, Power BI, Sheets</source>
-        </item>
-        <item>
-            <title>Données de santé Doctolib - Comment vous opposer à leur usage IA ?</title>
-            <link>https://korben.info/doctolib-recherche-ia-opposition-donnees-sante.html</link>
-            <description><![CDATA[Cet aprem, je bossais tranquillou quand j'ai reçu un mail de DoctoLib qui m'a bien énervé avec pour titre : "Doctolib s'engage dans la recherche pour améliorer la santé". Bon, si on s'arrête au titre,...]]></description>
-            <pubDate>Wed, 08 Jul 2026 15:23:01 -0000</pubDate>
-            <guid isPermaLink="true">https://korben.info/doctolib-recherche-ia-opposition-donnees-sante.html</guid>
-            <source>Korben.info</source>
-        </item>
-        <item>
-            <title>Comment créer une base de données avec le langage SQL ?</title>
-            <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
-            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
-            <pubDate>Wed, 01 Jul 2026 04:00:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=19JD2vconJ0</guid>
-            <source>OpenClassrooms en Français</source>
         </item>
     </channel>
 </rss>
