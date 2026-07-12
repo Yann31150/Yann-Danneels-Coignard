@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-11T09:41:33.231168",
+  "lastUpdate": "2026-07-12T09:53:52.287601",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -14,28 +14,52 @@
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
     },
     {
-      "title": "NLP – Catégorisation multiclasse avec TabICL (TabICLv2 / Python)",
-      "description": "Machine learning. Data science. NLP (natural language processing). TabICL (tabular in-context learning) est une technologie de ...",
-      "url": "https://www.youtube.com/watch?v=pWDFTIJiYMU",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-07-07T08:57:32Z",
+      "title": "ChatGPT Work ou Claude Cowork : lequel choisir pour automatiser son travail en 2026 ? — Frandroid",
+      "description": "OpenAI a lancé ChatGPT Work le 9 juillet 2026, sa réponse frontale à Claude Cowork d'Anthropic, disponible depuis janvier. Deux agents IA qui promettent",
+      "url": "https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-intelligence-artificielle-ia/3177573_chatgpt-work-ou-claude-cowork-lequel-choisir-pour-automatiser-son-travail-en-2026",
+      "source": "Frandroid",
+      "publishedAt": "2026-07-11T06:53:28Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "pWDFTIJiYMU",
-      "thumbnail": "https://i.ytimg.com/vi/pWDFTIJiYMU/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "NLP - Topic Modeling sous Python avec « BERTopic »",
-      "description": "Machine learning. Data science. NLP (natural language processing). Text mining. Le « topic modeling » (modélisation de sujets) ...",
-      "url": "https://www.youtube.com/watch?v=PAUvOSpyp-0",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-06-26T09:51:10Z",
+      "title": "Apple attaque OpenAI en justice pour vol de secrets industriels",
+      "description": "OpenAI est dans le viseur d'Apple, qui accuse le créateur de ChatGPT de lui avoir volé des informations confidentielles, via d'anciens employés. OpenAI s'en est bien évidemment défendu. Va-t-on bientô...",
+      "url": "https://www.numerama.com/tech/2294553-apple-attaque-openai-en-justice-pour-vol-de-secrets-industriels.html",
+      "source": "Numerama",
+      "publishedAt": "2026-07-11T07:23:47Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "PAUvOSpyp-0",
-      "thumbnail": "https://i.ytimg.com/vi/PAUvOSpyp-0/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Atlas : le navigateur IA d’OpenAI disparaît déjà",
+      "description": "OpenAI abandonne Atlas, son navigateur IA, mais récupère ses meilleures idées pour ChatGPT sur ordinateur et dans Chrome.",
+      "url": "https://www.begeek.fr/atlas-le-navigateur-ia-dopenai-disparait-deja-437013",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-07-11T08:00:29Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple attaque OpenAI : la guerre des secrets industriels commence",
+      "description": "Apple attaque OpenAI en justice alors que les deux entreprises travaillent encore ensemble pour intégrer ChatGPT aux appareils de la marque. La plainte ne concerne pas Siri ni les modèles d'IA : Apple...",
+      "url": "https://lokan.fr/2026/07/11/apple-attaque-openai-secrets-industriels/",
+      "source": "Lokan.fr",
+      "publishedAt": "2026-07-11T09:12:28Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
@@ -50,18 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
     },
     {
-      "title": "Whirlpool réinvente le froid : design et intelligence artificielle… au service de l’efficacité",
-      "description": "Avec sa nouvelle gamme de réfrigérateurs et congélateurs, Whirlpool dépoussière l’univers du froid avec la volonté d’apporter une véritable valeur ajoutée technologique, notamment grâce à un usage per...",
-      "url": "https://www.lesnumeriques.com/electromenager/whirlpool-reinvente-le-froid-design-et-intelligence-artificielle-au-service-de-l-efficacite-na258255.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-07-10T09:00:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Comment ChatGPT sait ce que les mots veulent dire (Embeddings)",
       "description": "Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...",
       "url": "https://www.youtube.com/watch?v=ktL8oV26XYg",
@@ -72,6 +84,18 @@
       "isYouTube": true,
       "videoId": "ktL8oV26XYg",
       "thumbnail": "https://i.ytimg.com/vi/ktL8oV26XYg/hqdefault.jpg"
+    },
+    {
+      "title": "L’IA affine les prévisions climatiques et annonce un dépassement plus rapide des seuils régionaux",
+      "description": "Et si les moyennes mondiales masquaient une urgence bien plus proche de chez nous ? En analysant dix modèles climatiques, une intelligence artificielle révèle que plusieurs régions pourraient franchir...",
+      "url": "https://dailygeekshow.com/?p=1012569",
+      "source": "Daily Geek Show",
+      "publishedAt": "2026-07-10T17:31:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&#39;IA",
@@ -96,30 +120,6 @@
       "isYouTube": true,
       "videoId": "1tlM9a4eEII",
       "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
-    },
-    {
-      "title": "Windows 11 : Microsoft va utiliser l'IA pour corriger plus rapidement les failles de sécurité",
-      "description": "Microsoft va moderniser sa stratégie de gestion des vulnérabilités de Windows grâce à l’intelligence artificielle. La firme de Redmond va s’appuyer sur un agent IA pour identifier et corriger les fail...",
-      "url": "https://www.01net.com/actualites/windows-11-microsoft-va-utiliser-lia-pour-corriger-plus-rapidement-les-failles-de-securite.html",
-      "source": "01net.com",
-      "publishedAt": "2026-07-10T09:02:24Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
-      "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
-      "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
-      "source": "Seif BOUGUERRA",
-      "publishedAt": "2026-06-20T17:56:01Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "IanWrDWQy0s",
-      "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
     },
     {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
@@ -218,18 +218,6 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
-      "title": "Doctolib : comment refuser l’utilisation de vos données pour l’entraînement de l’IA",
-      "description": "Le site de prise de rendez-vous médicaux Doctolib va se servir de vos données pour entraîner son IA. Vous avez le droit de vous y opposer. Voici la méthode la...",
-      "url": "https://www.phonandroid.com/doctolib-comment-refuser-lutilisation-de-vos-donnees-pour-lentrainement-de-lia.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-07-10T09:01:40Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=1Kokkl5PybM",
@@ -240,6 +228,18 @@
       "isYouTube": true,
       "videoId": "1Kokkl5PybM",
       "thumbnail": "https://i.ytimg.com/vi/1Kokkl5PybM/hqdefault.jpg"
+    },
+    {
+      "title": "Comment créer une base de données avec le langage SQL ?",
+      "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
+      "url": "https://www.youtube.com/watch?v=19JD2vconJ0",
+      "source": "OpenClassrooms en Français",
+      "publishedAt": "2026-07-01T04:00:13Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "19JD2vconJ0",
+      "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
       "title": "Computer Vision - De la Théorie au Code en 1H",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "DeepSeek, l'IA qui a accidentellement créé un ransomware fonctionnel",
-      "description": "L'IA chinoise DeepSeek a généré un rançongiciel viable qui opère entièrement depuis un navigateur web, capable de chiffrer les fichiers sur un appareil Android. Cette découverte stupéfiante des cherch...",
-      "url": "https://www.generation-nt.com/actualites/deepseek-cree-ransomware-accident-2078423",
+      "title": "La Chine industrialise les traitements anti-cancer personnalisés grâce à l'IA",
+      "description": "La Chine accélère massivement l'intégration de l'intelligence artificielle dans son secteur médical, validant des dispositifs à haut risque et lançant la construction d'usines pour des traitements de ...",
+      "url": "https://www.generation-nt.com/actualites/chine-traitement-cancer-ia-2078430",
       "source": "Génération NT",
-      "publishedAt": "2026-07-10T09:05:01Z",
+      "publishedAt": "2026-07-10T15:05:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "La Constellation de l’Atlantique renforce la coopération entre le Portugal et le Japon face aux phénomènes météorologiques extrêmes et à la gestion des catastrophes",
-      "description": "Le Japon devient le quatrième pôle spatial de la Constellation de l’Atlantique, après Guimarães et Oeiras (Portugal) et Amazónia (Brésil) Le Japon devient le quatrième pôle spatial de la Constellation...",
-      "url": "https://www.globenewswire.com/news-release/2026/07/09/3325143/0/fr/La-Constellation-de-l-Atlantique-renforce-la-coop%C3%A9ration-entre-le-Portugal-et-le-Japon-face-aux-ph%C3%A9nom%C3%A8nes-m%C3%A9t%C3%A9orologiques-extr%C3%AAmes-et-%C3%A0-la-gestion-des-catastrophes.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-07-09T17:44:00Z",
+      "title": "\"Généré\" ou \"assisté\" par IA: l'industrie musicale propose des labels pour identifier clairement un morceau créé avec de l'intelligence artificielle",
+      "description": "Alors que la musique générée par IA envahit les plateformes de streaming, plusieurs organisations professionnelles plaident pour plus de transparence.",
+      "url": "https://www.franceinfo.fr/culture/musique/genere-ou-assiste-par-ia-l-industrie-musicale-propose-des-labels-pour-identifier-clairement-les-morceaux-crees-avec-de-l-intelligence-artificielle_8103788.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-07-11T08:51:35Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Pourquoi l’Europe pourrait devenir le premier marché mondial des robots humanoïdes",
-      "description": "Les robots humanoïdes ne sont plus un simple exercice de démonstration technologique, depuis deux ans, les annonces se multiplient : Tesla accélère le développement d’Optimus, Figure AI déploie ses pr...",
-      "url": "https://www.frenchweb.fr/pourquoi-leurope-pourrait-devenir-le-premier-marche-mondial-des-robots-humanoides/462732",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-07-09T05:52:25Z",
+      "title": "Marion refuse d’utiliser l’IA au travail : « Produire plus ? On produit déjà largement assez »",
+      "description": "Du haut de ses 26 ans, Marion, cheffe de produit dans un groupe de grande distribution, est entrée en résistance active contre le recours à l’intelligence artificielle dans son travail. Quitte à susci...",
+      "url": "https://www.nouvelobs.com/economie/20260711.OBS116581/marion-refuse-d-utiliser-l-ia-au-travail-produire-plus-on-produit-deja-largement-assez.html",
+      "source": "L'Obs",
+      "publishedAt": "2026-07-11T07:00:03Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "GTA Trilogy : cinq ans après le fiasco, le patron de Grove Street Games rejette la faute sur Rockstar",
-      "description": "Près de cinq ans après la sortie catastrophique de GTA Trilogy: The Definitive Edition, le patron du studio de développement Grove Street Games sort enfin du silence. S'il concède à demi-mot que la co...",
-      "url": "https://www.gamekult.com/actualite/gta-trilogy-cinq-ans-apres-le-fiasco-le-patron-de-grove-street-games-rejette-la-faute-sur-rockstar-3050871185.html",
-      "source": "Gamekult",
-      "publishedAt": "2026-07-10T05:02:00Z",
+      "title": "Selon des chercheurs, voici la technique toute simple pour communiquer vraiment avec votre chat",
+      "description": "Avez-vous déjà essayé de comprendre ce que votre chat essaie de vous dire ? Une étude révèle que les félins communiquent par des clignements d'yeux lents. Cette technique simple pourrait transformer v...",
+      "url": "https://www.futura-sciences.com/planete/actualites/chat-selon-chercheurs-voici-technique-toute-simple-communiquer-vraiment-votre-chat-w2t8-136050/",
+      "source": "Futura",
+      "publishedAt": "2026-07-11T06:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

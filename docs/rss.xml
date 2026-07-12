@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 11 Jul 2026 09:41:33 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 09:53:52 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,20 +21,36 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>NLP – Catégorisation multiclasse avec TabICL (TabICLv2 / Python)</title>
-            <link>https://www.youtube.com/watch?v=pWDFTIJiYMU</link>
-            <description><![CDATA[Machine learning. Data science. NLP (natural language processing). TabICL (tabular in-context learning) est une technologie de ...]]></description>
-            <pubDate>Tue, 07 Jul 2026 08:57:32 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=pWDFTIJiYMU</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>ChatGPT Work ou Claude Cowork : lequel choisir pour automatiser son travail en 2026 ? — Frandroid</title>
+            <link>https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-intelligence-artificielle-ia/3177573_chatgpt-work-ou-claude-cowork-lequel-choisir-pour-automatiser-son-travail-en-2026</link>
+            <description><![CDATA[OpenAI a lancé ChatGPT Work le 9 juillet 2026, sa réponse frontale à Claude Cowork d'Anthropic, disponible depuis janvier. Deux agents IA qui promettent]]></description>
+            <pubDate>Sat, 11 Jul 2026 06:53:28 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-intelligence-artificielle-ia/3177573_chatgpt-work-ou-claude-cowork-lequel-choisir-pour-automatiser-son-travail-en-2026</guid>
+            <source>Frandroid</source>
         </item>
         <item>
-            <title>NLP - Topic Modeling sous Python avec « BERTopic »</title>
-            <link>https://www.youtube.com/watch?v=PAUvOSpyp-0</link>
-            <description><![CDATA[Machine learning. Data science. NLP (natural language processing). Text mining. Le « topic modeling » (modélisation de sujets) ...]]></description>
-            <pubDate>Fri, 26 Jun 2026 09:51:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=PAUvOSpyp-0</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>Apple attaque OpenAI en justice pour vol de secrets industriels</title>
+            <link>https://www.numerama.com/tech/2294553-apple-attaque-openai-en-justice-pour-vol-de-secrets-industriels.html</link>
+            <description><![CDATA[OpenAI est dans le viseur d'Apple, qui accuse le créateur de ChatGPT de lui avoir volé des informations confidentielles, via d'anciens employés. OpenAI s'en est bien évidemment défendu. Va-t-on bientô...]]></description>
+            <pubDate>Sat, 11 Jul 2026 07:23:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/tech/2294553-apple-attaque-openai-en-justice-pour-vol-de-secrets-industriels.html</guid>
+            <source>Numerama</source>
+        </item>
+        <item>
+            <title>Atlas : le navigateur IA d’OpenAI disparaît déjà</title>
+            <link>https://www.begeek.fr/atlas-le-navigateur-ia-dopenai-disparait-deja-437013</link>
+            <description><![CDATA[OpenAI abandonne Atlas, son navigateur IA, mais récupère ses meilleures idées pour ChatGPT sur ordinateur et dans Chrome.]]></description>
+            <pubDate>Sat, 11 Jul 2026 08:00:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.begeek.fr/atlas-le-navigateur-ia-dopenai-disparait-deja-437013</guid>
+            <source>Begeek.fr</source>
+        </item>
+        <item>
+            <title>Apple attaque OpenAI : la guerre des secrets industriels commence</title>
+            <link>https://lokan.fr/2026/07/11/apple-attaque-openai-secrets-industriels/</link>
+            <description><![CDATA[Apple attaque OpenAI en justice alors que les deux entreprises travaillent encore ensemble pour intégrer ChatGPT aux appareils de la marque. La plainte ne concerne pas Siri ni les modèles d'IA : Apple...]]></description>
+            <pubDate>Sat, 11 Jul 2026 09:12:28 -0000</pubDate>
+            <guid isPermaLink="true">https://lokan.fr/2026/07/11/apple-attaque-openai-secrets-industriels/</guid>
+            <source>Lokan.fr</source>
         </item>
         <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
@@ -45,20 +61,20 @@
             <source>IA Futura</source>
         </item>
         <item>
-            <title>Whirlpool réinvente le froid : design et intelligence artificielle… au service de l’efficacité</title>
-            <link>https://www.lesnumeriques.com/electromenager/whirlpool-reinvente-le-froid-design-et-intelligence-artificielle-au-service-de-l-efficacite-na258255.html</link>
-            <description><![CDATA[Avec sa nouvelle gamme de réfrigérateurs et congélateurs, Whirlpool dépoussière l’univers du froid avec la volonté d’apporter une véritable valeur ajoutée technologique, notamment grâce à un usage per...]]></description>
-            <pubDate>Fri, 10 Jul 2026 09:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/electromenager/whirlpool-reinvente-le-froid-design-et-intelligence-artificielle-au-service-de-l-efficacite-na258255.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
             <title>Comment ChatGPT sait ce que les mots veulent dire (Embeddings)</title>
             <link>https://www.youtube.com/watch?v=ktL8oV26XYg</link>
             <description><![CDATA[Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...]]></description>
             <pubDate>Thu, 18 Jun 2026 08:01:19 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=ktL8oV26XYg</guid>
             <source>How AI Works?</source>
+        </item>
+        <item>
+            <title>L’IA affine les prévisions climatiques et annonce un dépassement plus rapide des seuils régionaux</title>
+            <link>https://dailygeekshow.com/?p=1012569</link>
+            <description><![CDATA[Et si les moyennes mondiales masquaient une urgence bien plus proche de chez nous ? En analysant dix modèles climatiques, une intelligence artificielle révèle que plusieurs régions pourraient franchir...]]></description>
+            <pubDate>Fri, 10 Jul 2026 17:31:00 -0000</pubDate>
+            <guid isPermaLink="true">https://dailygeekshow.com/?p=1012569</guid>
+            <source>Daily Geek Show</source>
         </item>
         <item>
             <title>ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&amp;#39;IA</title>
@@ -75,22 +91,6 @@
             <pubDate>Thu, 11 Jun 2026 10:53:29 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=1tlM9a4eEII</guid>
             <source>lioncode</source>
-        </item>
-        <item>
-            <title>Windows 11 : Microsoft va utiliser l'IA pour corriger plus rapidement les failles de sécurité</title>
-            <link>https://www.01net.com/actualites/windows-11-microsoft-va-utiliser-lia-pour-corriger-plus-rapidement-les-failles-de-securite.html</link>
-            <description><![CDATA[Microsoft va moderniser sa stratégie de gestion des vulnérabilités de Windows grâce à l’intelligence artificielle. La firme de Redmond va s’appuyer sur un agent IA pour identifier et corriger les fail...]]></description>
-            <pubDate>Fri, 10 Jul 2026 09:02:24 -0000</pubDate>
-            <guid isPermaLink="true">https://www.01net.com/actualites/windows-11-microsoft-va-utiliser-lia-pour-corriger-plus-rapidement-les-failles-de-securite.html</guid>
-            <source>01net.com</source>
-        </item>
-        <item>
-            <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
-            <link>https://www.youtube.com/watch?v=IanWrDWQy0s</link>
-            <description><![CDATA[Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...]]></description>
-            <pubDate>Sat, 20 Jun 2026 17:56:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=IanWrDWQy0s</guid>
-            <source>Seif BOUGUERRA</source>
         </item>
         <item>
             <title>NumPy &amp;amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes</title>
@@ -157,20 +157,20 @@
             <source>Mikail Altundas</source>
         </item>
         <item>
-            <title>Doctolib : comment refuser l’utilisation de vos données pour l’entraînement de l’IA</title>
-            <link>https://www.phonandroid.com/doctolib-comment-refuser-lutilisation-de-vos-donnees-pour-lentrainement-de-lia.html</link>
-            <description><![CDATA[Le site de prise de rendez-vous médicaux Doctolib va se servir de vos données pour entraîner son IA. Vous avez le droit de vous y opposer. Voici la méthode la...]]></description>
-            <pubDate>Fri, 10 Jul 2026 09:01:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.phonandroid.com/doctolib-comment-refuser-lutilisation-de-vos-donnees-pour-lentrainement-de-lia.html</guid>
-            <source>Phonandroid</source>
-        </item>
-        <item>
             <title>Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀</title>
             <link>https://www.youtube.com/watch?v=1Kokkl5PybM</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
             <pubDate>Thu, 04 Jun 2026 09:00:14 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=1Kokkl5PybM</guid>
             <source>Morpheus Formation | Excel, Power BI, Sheets</source>
+        </item>
+        <item>
+            <title>Comment créer une base de données avec le langage SQL ?</title>
+            <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
+            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
+            <pubDate>Wed, 01 Jul 2026 04:00:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=19JD2vconJ0</guid>
+            <source>OpenClassrooms en Français</source>
         </item>
     </channel>
 </rss>
