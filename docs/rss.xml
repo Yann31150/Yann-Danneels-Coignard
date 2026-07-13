@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 12 Jul 2026 09:53:52 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 11:16:51 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,36 +21,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>ChatGPT Work ou Claude Cowork : lequel choisir pour automatiser son travail en 2026 ? — Frandroid</title>
-            <link>https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-intelligence-artificielle-ia/3177573_chatgpt-work-ou-claude-cowork-lequel-choisir-pour-automatiser-son-travail-en-2026</link>
-            <description><![CDATA[OpenAI a lancé ChatGPT Work le 9 juillet 2026, sa réponse frontale à Claude Cowork d'Anthropic, disponible depuis janvier. Deux agents IA qui promettent]]></description>
-            <pubDate>Sat, 11 Jul 2026 06:53:28 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/comment-faire/tutoriaux/tutoriels-intelligence-artificielle-ia/3177573_chatgpt-work-ou-claude-cowork-lequel-choisir-pour-automatiser-son-travail-en-2026</guid>
-            <source>Frandroid</source>
-        </item>
-        <item>
-            <title>Apple attaque OpenAI en justice pour vol de secrets industriels</title>
-            <link>https://www.numerama.com/tech/2294553-apple-attaque-openai-en-justice-pour-vol-de-secrets-industriels.html</link>
-            <description><![CDATA[OpenAI est dans le viseur d'Apple, qui accuse le créateur de ChatGPT de lui avoir volé des informations confidentielles, via d'anciens employés. OpenAI s'en est bien évidemment défendu. Va-t-on bientô...]]></description>
-            <pubDate>Sat, 11 Jul 2026 07:23:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/tech/2294553-apple-attaque-openai-en-justice-pour-vol-de-secrets-industriels.html</guid>
-            <source>Numerama</source>
-        </item>
-        <item>
-            <title>Atlas : le navigateur IA d’OpenAI disparaît déjà</title>
-            <link>https://www.begeek.fr/atlas-le-navigateur-ia-dopenai-disparait-deja-437013</link>
-            <description><![CDATA[OpenAI abandonne Atlas, son navigateur IA, mais récupère ses meilleures idées pour ChatGPT sur ordinateur et dans Chrome.]]></description>
-            <pubDate>Sat, 11 Jul 2026 08:00:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.begeek.fr/atlas-le-navigateur-ia-dopenai-disparait-deja-437013</guid>
-            <source>Begeek.fr</source>
-        </item>
-        <item>
-            <title>Apple attaque OpenAI : la guerre des secrets industriels commence</title>
-            <link>https://lokan.fr/2026/07/11/apple-attaque-openai-secrets-industriels/</link>
-            <description><![CDATA[Apple attaque OpenAI en justice alors que les deux entreprises travaillent encore ensemble pour intégrer ChatGPT aux appareils de la marque. La plainte ne concerne pas Siri ni les modèles d'IA : Apple...]]></description>
-            <pubDate>Sat, 11 Jul 2026 09:12:28 -0000</pubDate>
-            <guid isPermaLink="true">https://lokan.fr/2026/07/11/apple-attaque-openai-secrets-industriels/</guid>
-            <source>Lokan.fr</source>
+            <title>Comment l'intelligence artificielle peut transformer vos écouteurs en traducteurs universels</title>
+            <link>https://www.franceinfo.fr/internet/comment-l-intelligence-artificielle-peut-transformer-vos-ecouteurs-en-traducteurs-universels_8100884.html</link>
+            <description><![CDATA[Avec un smartphone et une paire d'écouteurs, il est désormais possible de suivre une conversation dans une langue étrangère presque en temps réel. Une prouesse obtenue grâce à l'intelligence artificie...]]></description>
+            <pubDate>Sun, 12 Jul 2026 08:07:20 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/internet/comment-l-intelligence-artificielle-peut-transformer-vos-ecouteurs-en-traducteurs-universels_8100884.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
         <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
@@ -69,28 +45,52 @@
             <source>How AI Works?</source>
         </item>
         <item>
-            <title>L’IA affine les prévisions climatiques et annonce un dépassement plus rapide des seuils régionaux</title>
-            <link>https://dailygeekshow.com/?p=1012569</link>
-            <description><![CDATA[Et si les moyennes mondiales masquaient une urgence bien plus proche de chez nous ? En analysant dix modèles climatiques, une intelligence artificielle révèle que plusieurs régions pourraient franchir...]]></description>
-            <pubDate>Fri, 10 Jul 2026 17:31:00 -0000</pubDate>
-            <guid isPermaLink="true">https://dailygeekshow.com/?p=1012569</guid>
-            <source>Daily Geek Show</source>
-        </item>
-        <item>
-            <title>ModAi Lab : la plateforme pour maîtriser le SQL grâce à l&amp;#39;IA</title>
-            <link>https://www.youtube.com/watch?v=bvm-n-HN8ws</link>
-            <description><![CDATA[Tu veux apprendre le SQL pour travailler dans la data ? ModAi Lab est la plateforme d'apprentissage SQL gamifiée et assistée ...]]></description>
-            <pubDate>Thu, 14 May 2026 11:01:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=bvm-n-HN8ws</guid>
-            <source>ModAi Lab | SQL & Data par l'IA</source>
-        </item>
-        <item>
             <title>Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)</title>
             <link>https://www.youtube.com/watch?v=1tlM9a4eEII</link>
             <description><![CDATA[Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...]]></description>
             <pubDate>Thu, 11 Jun 2026 10:53:29 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=1tlM9a4eEII</guid>
             <source>lioncode</source>
+        </item>
+        <item>
+            <title>PrimeBOT présente la robotique personnelle lors du Sommet sur l'IA au service du bien social de l'ONU à Genève</title>
+            <link>https://www.prnewswire.com/news-releases/primebot-presente-la-robotique-personnelle-lors-du-sommet-sur-lia-au-service-du-bien-social-de-lonu-a-geneve-302823327.html</link>
+            <description><![CDATA[GENÈVE, 12 juillet 2026 /PRNewswire/ -- PrimeBOT, une marque spécialisée dans la robotique, a participé au Sommet mondial sur l'IA au service du bien social organisé par les Nations unies. Organisé pa...]]></description>
+            <pubDate>Sun, 12 Jul 2026 09:23:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/primebot-presente-la-robotique-personnelle-lors-du-sommet-sur-lia-au-service-du-bien-social-de-lonu-a-geneve-302823327.html</guid>
+            <source>PRNewswire</source>
+        </item>
+        <item>
+            <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
+            <link>https://www.youtube.com/watch?v=IanWrDWQy0s</link>
+            <description><![CDATA[Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...]]></description>
+            <pubDate>Sat, 20 Jun 2026 17:56:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=IanWrDWQy0s</guid>
+            <source>Seif BOUGUERRA</source>
+        </item>
+        <item>
+            <title>Apprendre SQL avec un VRAI projet (pas des exercices inutiles)</title>
+            <link>https://www.youtube.com/watch?v=s0uwb3ZVA-c</link>
+            <description><![CDATA[Présentation du projet Catalogue VOD On arrête les exercices abstraits. On construit un vrai système. Dans ce Short, je vous ...]]></description>
+            <pubDate>Fri, 29 May 2026 23:15:48 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=s0uwb3ZVA-c</guid>
+            <source>Madi CONDÉ </source>
+        </item>
+        <item>
+            <title>Python for Data Analytics (2026) |Complete Guide with FREE Resources|How to Learn Python|Intellipaat</title>
+            <link>https://www.youtube.com/watch?v=nI9lVOH0htY</link>
+            <description><![CDATA[Enroll for Intellipaat's Python Course: https://intellipaat.com/python-certification-training-online/ Book your Free ...]]></description>
+            <pubDate>Mon, 08 Jun 2026 17:30:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=nI9lVOH0htY</guid>
+            <source>Intellipaat</source>
+        </item>
+        <item>
+            <title>Deviens un Expert IA avec Claude en 2026 (FORMATION 6 HEURES)</title>
+            <link>https://www.youtube.com/watch?v=oS1RvuLPGbA</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4wxMrLz ➜ Utilisez le code ...]]></description>
+            <pubDate>Sun, 17 May 2026 15:00:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=oS1RvuLPGbA</guid>
+            <source>Yassine Sdiri</source>
         </item>
         <item>
             <title>NumPy &amp;amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes</title>
