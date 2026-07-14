@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 13 Jul 2026 11:16:51 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 10:01:56 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,12 +21,20 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Comment l'intelligence artificielle peut transformer vos écouteurs en traducteurs universels</title>
-            <link>https://www.franceinfo.fr/internet/comment-l-intelligence-artificielle-peut-transformer-vos-ecouteurs-en-traducteurs-universels_8100884.html</link>
-            <description><![CDATA[Avec un smartphone et une paire d'écouteurs, il est désormais possible de suivre une conversation dans une langue étrangère presque en temps réel. Une prouesse obtenue grâce à l'intelligence artificie...]]></description>
-            <pubDate>Sun, 12 Jul 2026 08:07:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/internet/comment-l-intelligence-artificielle-peut-transformer-vos-ecouteurs-en-traducteurs-universels_8100884.html</guid>
-            <source>Franceinfo.fr</source>
+            <title>ChatGPT ne soigne pas. Mais il révèle un problème que nous n'avons pas encore résolu</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1552551-chatgpt-ne-soigne-pas-mais-il-revele-un-probleme-que-nous-n-avons-pas-encore-resolu/</link>
+            <description><![CDATA[ChatGPT ne soigne pas. Mais si des millions de Français lui confient leurs symptômes chaque jour, c'est peut-être moins une question de technologie que de système de santé à bout de souffle.]]></description>
+            <pubDate>Mon, 13 Jul 2026 09:03:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1552551-chatgpt-ne-soigne-pas-mais-il-revele-un-probleme-que-nous-n-avons-pas-encore-resolu/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
+            <title>LLM : les modèles d'affaires qui pourraient piéger votre entreprise</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1552519-llm-les-modeles-d-affaires-qui-pourraient-pieger-votre-entreprise/</link>
+            <description><![CDATA[Le vrai danger n'est pas que l'IA échoue, mais qu'elle réussisse trop bien. Monopoles, dépendances et coûts explosifs : les LLM redessinent un champ de bataille risqué pour les entreprises.]]></description>
+            <pubDate>Mon, 13 Jul 2026 09:05:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1552519-llm-les-modeles-d-affaires-qui-pourraient-pieger-votre-entreprise/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
@@ -37,12 +45,28 @@
             <source>IA Futura</source>
         </item>
         <item>
+            <title>Intelligence Artificielle : à la question de l'emploi s'ajoute celle du partage de la valeur</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1552535-intelligence-artificielle-a-la-question-de-l-emploi-s-ajoute-celle-du-partage-de-la-valeur/</link>
+            <description><![CDATA[Sept entreprises technologiques pèsent aujourd'hui près d'un tiers de l'indice S&amp;P 500, contre 12 % il y a dix ans, ascension désormais portée par l'intelligence artificielle.]]></description>
+            <pubDate>Mon, 13 Jul 2026 09:04:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1552535-intelligence-artificielle-a-la-question-de-l-emploi-s-ajoute-celle-du-partage-de-la-valeur/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
             <title>Comment ChatGPT sait ce que les mots veulent dire (Embeddings)</title>
             <link>https://www.youtube.com/watch?v=ktL8oV26XYg</link>
             <description><![CDATA[Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...]]></description>
             <pubDate>Thu, 18 Jun 2026 08:01:19 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=ktL8oV26XYg</guid>
             <source>How AI Works?</source>
+        </item>
+        <item>
+            <title>L'IA apprend de nos données. Qui apprend à l'IA ?</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1552539-l-ia-apprend-de-nos-donnees-qui-apprend-a-l-ia/</link>
+            <description><![CDATA[L'intelligence artificielle apprend de nos données, mais aussi des choix de celles et ceux qui la conçoivent. Peut-elle prétendre comprendre toute l'humanité si elle n'en reflète qu'une partie ?]]></description>
+            <pubDate>Mon, 13 Jul 2026 09:03:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1552539-l-ia-apprend-de-nos-donnees-qui-apprend-a-l-ia/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)</title>
@@ -53,12 +77,12 @@
             <source>lioncode</source>
         </item>
         <item>
-            <title>PrimeBOT présente la robotique personnelle lors du Sommet sur l'IA au service du bien social de l'ONU à Genève</title>
-            <link>https://www.prnewswire.com/news-releases/primebot-presente-la-robotique-personnelle-lors-du-sommet-sur-lia-au-service-du-bien-social-de-lonu-a-geneve-302823327.html</link>
-            <description><![CDATA[GENÈVE, 12 juillet 2026 /PRNewswire/ -- PrimeBOT, une marque spécialisée dans la robotique, a participé au Sommet mondial sur l'IA au service du bien social organisé par les Nations unies. Organisé pa...]]></description>
-            <pubDate>Sun, 12 Jul 2026 09:23:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/primebot-presente-la-robotique-personnelle-lors-du-sommet-sur-lia-au-service-du-bien-social-de-lonu-a-geneve-302823327.html</guid>
-            <source>PRNewswire</source>
+            <title>Jusqu’à 1,5 To de mémoire : la M7 Ultra au cœur des ambitions IA d’Apple</title>
+            <link>https://www.tomshardware.fr/jusqua-15-to-de-memoire-la-m7-ultra-au-coeur-des-ambitions-ia-dapple/</link>
+            <description><![CDATA[Apple ne se contente plus d’intégrer l’intelligence artificielle à ses appareils : la firme repense désormais ses processeurs autour de l’IA. Selon Bloomberg, le futur M7 Ultra, attendu en 2028 avec j...]]></description>
+            <pubDate>Mon, 13 Jul 2026 06:34:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.tomshardware.fr/jusqua-15-to-de-memoire-la-m7-ultra-au-coeur-des-ambitions-ia-dapple/</guid>
+            <source>Tomshardware.fr</source>
         </item>
         <item>
             <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
@@ -67,30 +91,6 @@
             <pubDate>Sat, 20 Jun 2026 17:56:01 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=IanWrDWQy0s</guid>
             <source>Seif BOUGUERRA</source>
-        </item>
-        <item>
-            <title>Apprendre SQL avec un VRAI projet (pas des exercices inutiles)</title>
-            <link>https://www.youtube.com/watch?v=s0uwb3ZVA-c</link>
-            <description><![CDATA[Présentation du projet Catalogue VOD On arrête les exercices abstraits. On construit un vrai système. Dans ce Short, je vous ...]]></description>
-            <pubDate>Fri, 29 May 2026 23:15:48 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=s0uwb3ZVA-c</guid>
-            <source>Madi CONDÉ </source>
-        </item>
-        <item>
-            <title>Python for Data Analytics (2026) |Complete Guide with FREE Resources|How to Learn Python|Intellipaat</title>
-            <link>https://www.youtube.com/watch?v=nI9lVOH0htY</link>
-            <description><![CDATA[Enroll for Intellipaat's Python Course: https://intellipaat.com/python-certification-training-online/ Book your Free ...]]></description>
-            <pubDate>Mon, 08 Jun 2026 17:30:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=nI9lVOH0htY</guid>
-            <source>Intellipaat</source>
-        </item>
-        <item>
-            <title>Deviens un Expert IA avec Claude en 2026 (FORMATION 6 HEURES)</title>
-            <link>https://www.youtube.com/watch?v=oS1RvuLPGbA</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4wxMrLz ➜ Utilisez le code ...]]></description>
-            <pubDate>Sun, 17 May 2026 15:00:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=oS1RvuLPGbA</guid>
-            <source>Yassine Sdiri</source>
         </item>
         <item>
             <title>NumPy &amp;amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes</title>
@@ -165,12 +165,12 @@
             <source>Morpheus Formation | Excel, Power BI, Sheets</source>
         </item>
         <item>
-            <title>Comment créer une base de données avec le langage SQL ?</title>
-            <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
-            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
-            <pubDate>Wed, 01 Jul 2026 04:00:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=19JD2vconJ0</guid>
-            <source>OpenClassrooms en Français</source>
+            <title>Genève reste à la première place du classement mondial 2026 d'Arcadis pour les coûts de construction, alors que les clients cherchent à mieux maîtriser la fiabilité des livraisons</title>
+            <link>https://www.prnewswire.com/news-releases/geneve-reste-a-la-premiere-place-du-classement-mondial-2026-darcadis-pour-les-couts-de-construction-alors-que-les-clients-cherchent-a-mieux-maitriser-la-fiabilite-des-livraisons-302823226.html</link>
+            <description><![CDATA[Le nouveau classement mondial montre que, sur les marchés de la construction de bâtiments complexes, la capacité à garantir la maîtrise des coûts, le respect des délais et la fiabilité des livraisons ...]]></description>
+            <pubDate>Mon, 13 Jul 2026 05:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/geneve-reste-a-la-premiere-place-du-classement-mondial-2026-darcadis-pour-les-couts-de-construction-alors-que-les-clients-cherchent-a-mieux-maitriser-la-fiabilite-des-livraisons-302823226.html</guid>
+            <source>PRNewswire</source>
         </item>
     </channel>
 </rss>
