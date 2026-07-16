@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-15T10:06:35.028038",
+  "lastUpdate": "2026-07-16T10:13:32.059886",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -14,7 +14,7 @@
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
     },
     {
-      "title": "ChatGPT ne répond plus, il exécute ! (ChatGPT Work &amp; GPT-5.6)",
+      "title": "ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)",
       "description": "OpenAI vient de lancer ChatGPT Work et GPT-5.6, et ChatGPT n'a plus rien à voir avec ce que tu connaissais. C'est la plus ...",
       "url": "https://www.youtube.com/watch?v=rx7F_9Vm35Y",
       "source": "Elliott Pierret",
@@ -74,6 +74,42 @@
       "thumbnail": "https://i.ytimg.com/vi/qPszQNflKRk/hqdefault.jpg"
     },
     {
+      "title": "Exploratory Data Analysis using Python | تحليلات سوعبانية",
+      "description": "Ahmed_Sami #Arabic_Big_Data Exploratory Data Analysis using Python To support via PayPal ...",
+      "url": "https://www.youtube.com/watch?v=KeVlGtU8Zjs",
+      "source": "بالعربي Big Data",
+      "publishedAt": "2026-07-04T09:00:14Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "KeVlGtU8Zjs",
+      "thumbnail": "https://i.ytimg.com/vi/KeVlGtU8Zjs/hqdefault.jpg"
+    },
+    {
+      "title": "\"Voici ce que Le Monde peut savoir pour son GEO avec les données déterministes fournies par OpenAI\"",
+      "description": "Le Monde a accès à des données exclusives qui lui sont fournies par OpenAI et qui reflètent comment les articles performent dans ChatGPT, explique Justine Werbrouck, directrice marketing et stratégie ...",
+      "url": "https://www.journaldunet.com/adtech/1552663-voici-ce-que-le-monde-peut-savoir-pour-son-geo-avec-les-donnees-deterministes-fournies-par-openai/",
+      "source": "JDN",
+      "publishedAt": "2026-07-15T07:14:39Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Doctolib veut alimenter son IA avec vos données de santé, voici comment refuser",
+      "description": "Doctolib a discrètement lancé la collecte des données de millions de patients pour un projet de recherche en intelligence artificielle. Bonne nouvelle : on peut dire non, à condition de le faire vite.",
+      "url": "https://www.journaldugeek.com/2026/07/15/doctolib-veut-alimenter-son-ia-avec-vos-donnees-de-sante-voici-comment-refuser/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-07-15T09:32:18Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)",
       "description": "Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...",
       "url": "https://www.youtube.com/watch?v=1tlM9a4eEII",
@@ -84,42 +120,6 @@
       "isYouTube": true,
       "videoId": "1tlM9a4eEII",
       "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
-    },
-    {
-      "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
-      "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
-      "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
-      "source": "Seif BOUGUERRA",
-      "publishedAt": "2026-06-20T17:56:01Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "IanWrDWQy0s",
-      "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
-    },
-    {
-      "title": "Apprendre SQL avec un VRAI projet (pas des exercices inutiles)",
-      "description": "Présentation du projet Catalogue VOD On arrête les exercices abstraits. On construit un vrai système. Dans ce Short, je vous ...",
-      "url": "https://www.youtube.com/watch?v=s0uwb3ZVA-c",
-      "source": "Madi CONDÉ ",
-      "publishedAt": "2026-05-29T23:15:48Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "s0uwb3ZVA-c",
-      "thumbnail": "https://i.ytimg.com/vi/s0uwb3ZVA-c/hqdefault.jpg"
-    },
-    {
-      "title": "Python for Data Analytics (2026) |Complete Guide with FREE Resources|How to Learn Python|Intellipaat",
-      "description": "Enroll for Intellipaat's Python Course: https://intellipaat.com/python-certification-training-online/ Book your Free ...",
-      "url": "https://www.youtube.com/watch?v=nI9lVOH0htY",
-      "source": "Intellipaat",
-      "publishedAt": "2026-06-08T17:30:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "nI9lVOH0htY",
-      "thumbnail": "https://i.ytimg.com/vi/nI9lVOH0htY/hqdefault.jpg"
     },
     {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
@@ -158,6 +158,18 @@
       "thumbnail": "https://i.ytimg.com/vi/OhT0MEFKylY/hqdefault.jpg"
     },
     {
+      "title": "Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant",
+      "description": "Formation SQL Débutant avec PostgreSQL et VS Code | Vidéo 1 : Introduction à SQL Bienvenue dans cette première vidéo de ...",
+      "url": "https://www.youtube.com/watch?v=3AUqD4ZwGts",
+      "source": "Ceemtic Analytics",
+      "publishedAt": "2026-06-30T21:01:55Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "3AUqD4ZwGts",
+      "thumbnail": "https://i.ytimg.com/vi/3AUqD4ZwGts/hqdefault.jpg"
+    },
+    {
       "title": "Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)",
       "description": "Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...",
       "url": "https://www.youtube.com/watch?v=2A5rNESVS9w",
@@ -180,18 +192,6 @@
       "isYouTube": true,
       "videoId": "-9NppUySsk0",
       "thumbnail": "https://i.ytimg.com/vi/-9NppUySsk0/hqdefault.jpg"
-    },
-    {
-      "title": "Samsung Health pousse ses utilisateurs à partager leurs données médicales pour entraîner son IA",
-      "description": "Samsung veut vraiment que vous partagiez vos données de santé pour entraîner son IA. Selon How-To Geek, certains utilisateurs ont récemment vu apparaître un nouveau bouton concernant le partage des do...",
-      "url": "https://www.watchgeneration.fr/sante/2026/07/samsung-health-force-ses-utilisateurs-partager-leurs-donnees-medicales-pour-entrainer-son-ia-19941",
-      "source": "Watchgeneration.fr",
-      "publishedAt": "2026-07-14T07:45:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
@@ -230,35 +230,35 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
-      "title": "eSIM ou roaming : quelle solution choisir pour voyager en 2026 ?",
-      "description": "eSIM ou roaming 2026 ? Pass voyage, carte SIM physique, forfait eSIM. Ubigi, Airalo, Holafly. Données mobiles, compatibilité iPhone, Samsung Galaxy. Guide complet.",
-      "url": "https://www.futura-sciences.com/conso/guides-achat/guides-telecoms-esim-roaming-solution-choisir-voyager-2026-1505/",
-      "source": "Futura",
-      "publishedAt": "2026-07-14T09:00:00Z",
+      "title": "Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀",
+      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
+      "url": "https://www.youtube.com/watch?v=1Kokkl5PybM",
+      "source": "Morpheus Formation | Excel, Power BI, Sheets",
+      "publishedAt": "2026-06-04T09:00:14Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Computer Vision - De la Théorie au Code en 1H",
-      "description": "Dans cette vidéo, on vulgarise la computer vision en deux temps : d'abord un état de l'art des tâches principales et des grandes ...",
-      "url": "https://www.youtube.com/watch?v=MYhsbnBdUEQ",
-      "source": "obarrene",
-      "publishedAt": "2026-06-05T14:32:05Z",
-      "category": "tech",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "MYhsbnBdUEQ",
-      "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
+      "videoId": "1Kokkl5PybM",
+      "thumbnail": "https://i.ytimg.com/vi/1Kokkl5PybM/hqdefault.jpg"
     },
     {
-      "title": "Test Wybot C2 Vision : caméra et IA s'associent pour traquer les saletés au fond de la piscine",
-      "description": "Le Wybot C2 Vision est un robot de piscine compact doté d’une caméra et d’une navigation guidée par intelligence artificielle. Il promet de repérer les débris pour les aspirer sans perdre son temps à ...",
-      "url": "https://www.lesnumeriques.com/robot-piscine/wybot-c2-vision-p78017/test.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-07-14T10:00:00Z",
+      "title": "Du Mississippi à l’intelligence artificielle : la Louisiane, laboratoire inattendu de la nouvelle économie américaine",
+      "description": "Après la Californie, la Louisiane. L’État connu pour ses bateaux à aube, ses bayous et son jazz si typique va-t-il devenir le nouveau pôle de l’innovation états-unienne ?",
+      "url": "https://theconversation.com/du-mississippi-a-lintelligence-artificielle-la-louisiane-laboratoire-inattendu-de-la-nouvelle-economie-americaine-286195",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-07-14T16:47:48Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Social media : Auguste, l’assistant IA conversationnel qui gère votre communication",
+      "description": "Auguste se pilote via une interface conversationnelle : on lui parle, il planifie, crée et publie. L'outil propose notamment de tester l'assistant gratuitement, avec un mois de posts déjà prêts.",
+      "url": "https://www.blogdumoderateur.com/social-media-auguste-assistant-ia-conversationnel-gere-communication/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-07-15T07:38:53Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Et si l’armée était le seul endroit où l’on est encore capable de penser anticipation en France ?",
-      "description": "Drones, missiles hypersoniques, guerre cyber, intelligence artificielle : quand le chef d'état-major des armées esquisse la France de 2040 à la Sorbonne, le contraste avec le reste de la classe politi...",
-      "url": "https://atlantico.fr/article/decryptage/et-si-larmee-etait-le-seul-endroit-ou-lon-est-encore-capable-de-penser-anticipation-en-france-lagane-chauvancy-passot-damien",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-07-14T06:56:00Z",
+      "title": "Lesaffre recrute une ex-dirigeante de Nestlé pour piloter sa R&D",
+      "description": "Le groupe agroalimentaire Lesaffre, spécialiste mondial de la fermentation basé à Marcq-en-Barœul (Nord), nomme Rania Abou Samra au poste de directrice",
+      "url": "https://www.lejournaldesentreprises.com/breve/lesaffre-recrute-une-ex-dirigeante-de-nestle-pour-piloter-sa-rd-2146605",
+      "source": "Le Journal des Entreprises",
+      "publishedAt": "2026-07-15T09:19:21Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Du laboratoire à la route : comment la science de l'entraînement fait son entrée au Brésil avec la HUAWEI WATCH GT Runner 2",
-      "description": "Un double champion olympique court au Brésil avec la montre connectée qu'il a contribué à créer BRASILIA, Brésil, 14 juillet 2026 /PRNewswire/ -- Pendant des décennies, les courses de haut niveau repo...",
-      "url": "https://www.prnewswire.com/news-releases/du-laboratoire-a-la-route--comment-la-science-de-lentrainement-fait-son-entree-au-bresil-avec-la-huawei-watch-gt-runner-2-302824488.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-07-14T02:57:00Z",
+      "title": "Veille communautaire sur des intelligences artificielles du mois de mai 2026",
+      "description": "L’actualité du logiciel libre et des sujets voisins (DIY, Open Hardware, Open Data, les Communs, etc.), sur un site francophone contributif géré par une équipe bénévole par et pour des libristes entho...",
+      "url": "https://linuxfr.org/news/veille-communautaire-sur-des-intelligences-artificielles-du-mois-de-mai-2026",
+      "source": "Linuxfr.org",
+      "publishedAt": "2026-07-14T15:56:45Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "IA : et maintenant, la course aux assistants personnalisés",
-      "description": "Les assistants IA sont annoncés comme la prochaine grande révolution du numérique. Plus autonomes que les chatbots, ils pourraient simplifier notre quotidien… à condition de relever d'importants défis...",
-      "url": "https://atlantico.fr/article/decryptage/ia-et-maintenant-la-course-aux-assistants-personnalises-grunemwald",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-07-14T08:19:00Z",
+      "title": "Apple veut racheter une start-up pour mettre l’IA dans l’iPhone",
+      "description": "Apple veut faire tourner son IA localement dans l'iPhone. Une double bonne nouvelle pour nous ?",
+      "url": "https://www.iphon.fr/post/apple-rachat-start-up-ia-iphone",
+      "source": "Iphon.fr",
+      "publishedAt": "2026-07-15T07:54:41Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
