@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-16T10:13:32.059886",
+  "lastUpdate": "2026-07-17T10:02:08.944956",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -14,18 +14,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
     },
     {
-      "title": "ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)",
-      "description": "OpenAI vient de lancer ChatGPT Work et GPT-5.6, et ChatGPT n'a plus rien à voir avec ce que tu connaissais. C'est la plus ...",
-      "url": "https://www.youtube.com/watch?v=rx7F_9Vm35Y",
-      "source": "Elliott Pierret",
-      "publishedAt": "2026-07-12T16:00:41Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "rx7F_9Vm35Y",
-      "thumbnail": "https://i.ytimg.com/vi/rx7F_9Vm35Y/hqdefault.jpg"
-    },
-    {
       "title": "NLP – Catégorisation multiclasse avec TabICL (TabICLv2 / Python)",
       "description": "Machine learning. Data science. NLP (natural language processing). TabICL (tabular in-context learning) est une technologie de ...",
       "url": "https://www.youtube.com/watch?v=pWDFTIJiYMU",
@@ -36,6 +24,18 @@
       "isYouTube": true,
       "videoId": "pWDFTIJiYMU",
       "thumbnail": "https://i.ytimg.com/vi/pWDFTIJiYMU/hqdefault.jpg"
+    },
+    {
+      "title": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners | SQL Training For Beginners | Simplilearn",
+      "description": "Top Data Analytics and Data Science Courses ...",
+      "url": "https://www.youtube.com/watch?v=GSONaKKZozU",
+      "source": "Simplilearn",
+      "publishedAt": "2026-07-08T15:30:29Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "GSONaKKZozU",
+      "thumbnail": "https://i.ytimg.com/vi/GSONaKKZozU/hqdefault.jpg"
     },
     {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
@@ -50,18 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
     },
     {
-      "title": "Comment ChatGPT sait ce que les mots veulent dire (Embeddings)",
-      "description": "Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...",
-      "url": "https://www.youtube.com/watch?v=ktL8oV26XYg",
-      "source": "How AI Works?",
-      "publishedAt": "2026-06-18T08:01:19Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ktL8oV26XYg",
-      "thumbnail": "https://i.ytimg.com/vi/ktL8oV26XYg/hqdefault.jpg"
-    },
-    {
       "title": "ce que GPT 5.6 SOL sait faire va te surprendre",
       "description": "Apprendre à utiliser l'IA pour tes projets https://anthonymarandon.fr Dans cette vidéo, on plonge dans GPT 5.6 SOL, ...",
       "url": "https://www.youtube.com/watch?v=qPszQNflKRk",
@@ -74,42 +62,6 @@
       "thumbnail": "https://i.ytimg.com/vi/qPszQNflKRk/hqdefault.jpg"
     },
     {
-      "title": "Exploratory Data Analysis using Python | تحليلات سوعبانية",
-      "description": "Ahmed_Sami #Arabic_Big_Data Exploratory Data Analysis using Python To support via PayPal ...",
-      "url": "https://www.youtube.com/watch?v=KeVlGtU8Zjs",
-      "source": "بالعربي Big Data",
-      "publishedAt": "2026-07-04T09:00:14Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "KeVlGtU8Zjs",
-      "thumbnail": "https://i.ytimg.com/vi/KeVlGtU8Zjs/hqdefault.jpg"
-    },
-    {
-      "title": "\"Voici ce que Le Monde peut savoir pour son GEO avec les données déterministes fournies par OpenAI\"",
-      "description": "Le Monde a accès à des données exclusives qui lui sont fournies par OpenAI et qui reflètent comment les articles performent dans ChatGPT, explique Justine Werbrouck, directrice marketing et stratégie ...",
-      "url": "https://www.journaldunet.com/adtech/1552663-voici-ce-que-le-monde-peut-savoir-pour-son-geo-avec-les-donnees-deterministes-fournies-par-openai/",
-      "source": "JDN",
-      "publishedAt": "2026-07-15T07:14:39Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Doctolib veut alimenter son IA avec vos données de santé, voici comment refuser",
-      "description": "Doctolib a discrètement lancé la collecte des données de millions de patients pour un projet de recherche en intelligence artificielle. Bonne nouvelle : on peut dire non, à condition de le faire vite.",
-      "url": "https://www.journaldugeek.com/2026/07/15/doctolib-veut-alimenter-son-ia-avec-vos-donnees-de-sante-voici-comment-refuser/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-07-15T09:32:18Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)",
       "description": "Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...",
       "url": "https://www.youtube.com/watch?v=1tlM9a4eEII",
@@ -120,6 +72,54 @@
       "isYouTube": true,
       "videoId": "1tlM9a4eEII",
       "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
+    },
+    {
+      "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
+      "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
+      "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
+      "source": "Seif BOUGUERRA",
+      "publishedAt": "2026-06-20T17:56:01Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "IanWrDWQy0s",
+      "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
+    },
+    {
+      "title": "L'observabilité, le véritable défi de l'IA en entreprise",
+      "description": "Le vrai défi de l'IA en entreprise n'est plus seulement l'hallucination, mais son pilotage : observer, comprendre et corriger les agents pour garantir des usages fiables, durables et maîtrisés.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1552729-l-observabilite-le-veritable-defi-de-l-ia-en-entreprise/",
+      "source": "JDN",
+      "publishedAt": "2026-07-16T09:49:55Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Python for Data Analytics (2026) |Complete Guide with FREE Resources|How to Learn Python|Intellipaat",
+      "description": "Enroll for Intellipaat's Python Course: https://intellipaat.com/python-certification-training-online/ Book your Free ...",
+      "url": "https://www.youtube.com/watch?v=nI9lVOH0htY",
+      "source": "Intellipaat",
+      "publishedAt": "2026-06-08T17:30:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "nI9lVOH0htY",
+      "thumbnail": "https://i.ytimg.com/vi/nI9lVOH0htY/hqdefault.jpg"
+    },
+    {
+      "title": "Comment J’apprendrais l’IA en 2026 (si je devais recommencer)",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4fRlc8U Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=1eOQtGqgeyU",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-06-01T15:00:04Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1eOQtGqgeyU",
+      "thumbnail": "https://i.ytimg.com/vi/1eOQtGqgeyU/hqdefault.jpg"
     },
     {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
@@ -170,28 +170,16 @@
       "thumbnail": "https://i.ytimg.com/vi/3AUqD4ZwGts/hqdefault.jpg"
     },
     {
-      "title": "Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)",
-      "description": "Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...",
-      "url": "https://www.youtube.com/watch?v=2A5rNESVS9w",
-      "source": "AMVOULA Naïsia ",
-      "publishedAt": "2026-06-14T14:37:38Z",
+      "title": "تعلم SQL لتحليل البيانات من المبتدئ للاحتراف في 3 ساعات",
+      "description": "عايز تتعلم SQL بالطريقة اللي بيشتغل بيها محلل البيانات؟ في الـ SQL for Data Analysis Bootcamp هتتعلم SQL خطوة بخطوة من ...",
+      "url": "https://www.youtube.com/watch?v=0vyXvLDHskM",
+      "source": "Mazen Analytics",
+      "publishedAt": "2026-06-30T13:52:50Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "2A5rNESVS9w",
-      "thumbnail": "https://i.ytimg.com/vi/2A5rNESVS9w/hqdefault.jpg"
-    },
-    {
-      "title": "SQL pour Data Analyst - Formation Complète",
-      "description": "Rejoins le programme pour maîtriser SQL : https://store.ledecodeur.fr/programme-sql ​ Les données utilisées lors du projet ...",
-      "url": "https://www.youtube.com/watch?v=-9NppUySsk0",
-      "source": "Le Decodeur",
-      "publishedAt": "2026-05-17T16:00:30Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "-9NppUySsk0",
-      "thumbnail": "https://i.ytimg.com/vi/-9NppUySsk0/hqdefault.jpg"
+      "videoId": "0vyXvLDHskM",
+      "thumbnail": "https://i.ytimg.com/vi/0vyXvLDHskM/hqdefault.jpg"
     },
     {
       "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
@@ -242,23 +230,35 @@
       "thumbnail": "https://i.ytimg.com/vi/1Kokkl5PybM/hqdefault.jpg"
     },
     {
-      "title": "Du Mississippi à l’intelligence artificielle : la Louisiane, laboratoire inattendu de la nouvelle économie américaine",
-      "description": "Après la Californie, la Louisiane. L’État connu pour ses bateaux à aube, ses bayous et son jazz si typique va-t-il devenir le nouveau pôle de l’innovation états-unienne ?",
-      "url": "https://theconversation.com/du-mississippi-a-lintelligence-artificielle-la-louisiane-laboratoire-inattendu-de-la-nouvelle-economie-americaine-286195",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-07-14T16:47:48Z",
-      "category": "innovation",
+      "title": "Actualité : “Sans aucune exception” : 48h après avoir aspiré le code de milliers de développeurs, Elon Musk promet de rendre X open source",
+      "description": "Elon Musk a annoncé, le 15 juillet 2026, vouloir publier l'intégralité du code de la plateforme en open source. L'annonce tombe au lendemain du scandale Grok Build, qui a sérieusement écorné la crédib...",
+      "url": "https://www.lesnumeriques.com/societe-numerique/sans-aucune-exception-48h-apres-avoir-aspire-le-code-de-milliers-de-developpeurs-elon-musk-promet-de-rendre-x-open-source-n259337.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-07-16T06:31:00Z",
+      "category": "data",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Social media : Auguste, l’assistant IA conversationnel qui gère votre communication",
-      "description": "Auguste se pilote via une interface conversationnelle : on lui parle, il planifie, crée et publie. L'outil propose notamment de tester l'assistant gratuitement, avec un mois de posts déjà prêts.",
-      "url": "https://www.blogdumoderateur.com/social-media-auguste-assistant-ia-conversationnel-gere-communication/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-07-15T07:38:53Z",
+      "title": "Computer Vision - De la Théorie au Code en 1H",
+      "description": "Dans cette vidéo, on vulgarise la computer vision en deux temps : d'abord un état de l'art des tâches principales et des grandes ...",
+      "url": "https://www.youtube.com/watch?v=MYhsbnBdUEQ",
+      "source": "obarrene",
+      "publishedAt": "2026-06-05T14:32:05Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "MYhsbnBdUEQ",
+      "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
+    },
+    {
+      "title": "L'IA Act n'est pas une rupture, c'est la suite du RGPD",
+      "description": "L'IA Act ne concerne plus seulement les juristes. Il impose aux directions générales, DSI et équipes métiers de repenser leur gouvernance de l'intelligence artificielle et de faire de la conformité un...",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1552691-l-ia-act-n-est-pas-une-rupture-c-est-la-suite-du-rgpd/",
+      "source": "JDN",
+      "publishedAt": "2026-07-16T09:50:38Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Lesaffre recrute une ex-dirigeante de Nestlé pour piloter sa R&D",
-      "description": "Le groupe agroalimentaire Lesaffre, spécialiste mondial de la fermentation basé à Marcq-en-Barœul (Nord), nomme Rania Abou Samra au poste de directrice",
-      "url": "https://www.lejournaldesentreprises.com/breve/lesaffre-recrute-une-ex-dirigeante-de-nestle-pour-piloter-sa-rd-2146605",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-07-15T09:19:21Z",
+      "title": "Formation Intelligence Artificielle Marketing : Le Guide Complet 2026 - Webnyxt",
+      "description": "Comparatif des meilleures formations IA marketing en 2026 : prix, durée, certification, financement CPF. Guide complet pour choisir la formation adaptée à votre niveau et budget.",
+      "url": "https://webnyxt.com/formation-intelligence-artificielle-marketing-guide-2026/",
+      "source": "Webnyxt.com",
+      "publishedAt": "2026-07-15T11:57:14Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Veille communautaire sur des intelligences artificielles du mois de mai 2026",
-      "description": "L’actualité du logiciel libre et des sujets voisins (DIY, Open Hardware, Open Data, les Communs, etc.), sur un site francophone contributif géré par une équipe bénévole par et pour des libristes entho...",
-      "url": "https://linuxfr.org/news/veille-communautaire-sur-des-intelligences-artificielles-du-mois-de-mai-2026",
-      "source": "Linuxfr.org",
-      "publishedAt": "2026-07-14T15:56:45Z",
+      "title": "Le créateur de Hinge lance une app de rencontre où l’IA choisit votre date à votre place",
+      "description": "Après avoir créé Hinge, Justin McLeod veut de nouveau bouleverser les rencontres en ligne. Son nouveau service, Overtone, a levé 18 millions de dollars pour remplacer les profils et les swipes par une...",
+      "url": "https://www.numerama.com/tech/2295633-le-createur-de-hinge-lance-une-app-de-rencontre-ou-lia-choisit-votre-date-a-votre-place.html",
+      "source": "Numerama",
+      "publishedAt": "2026-07-15T14:30:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Apple veut racheter une start-up pour mettre l’IA dans l’iPhone",
-      "description": "Apple veut faire tourner son IA localement dans l'iPhone. Une double bonne nouvelle pour nous ?",
-      "url": "https://www.iphon.fr/post/apple-rachat-start-up-ia-iphone",
-      "source": "Iphon.fr",
-      "publishedAt": "2026-07-15T07:54:41Z",
+      "title": "Suno : son piratage révèle comment l’application a siphonné les géants de la musique pour nourrir son IA",
+      "description": "Vous avez probablement déjà entendu parler de Suno, cette application qui utilise l’IA pour transformer votre smartphone en un véritable studio musical. Son code source a été piraté et l’on...",
+      "url": "https://www.phonandroid.com/suno-son-piratage-revele-comment-lapplication-a-siphonne-les-geants-de-la-musique-pour-nourrir-son-ia.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-07-16T09:23:55Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
