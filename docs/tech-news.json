@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-17T10:02:08.944956",
+  "lastUpdate": "2026-07-18T09:37:37.021704",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -14,28 +14,28 @@
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
     },
     {
-      "title": "NLP – Catégorisation multiclasse avec TabICL (TabICLv2 / Python)",
-      "description": "Machine learning. Data science. NLP (natural language processing). TabICL (tabular in-context learning) est une technologie de ...",
-      "url": "https://www.youtube.com/watch?v=pWDFTIJiYMU",
+      "title": "NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)",
+      "description": "Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...",
+      "url": "https://www.youtube.com/watch?v=3J5VPpX2Jww",
       "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-07-07T08:57:32Z",
+      "publishedAt": "2026-06-24T14:33:27Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "pWDFTIJiYMU",
-      "thumbnail": "https://i.ytimg.com/vi/pWDFTIJiYMU/hqdefault.jpg"
+      "videoId": "3J5VPpX2Jww",
+      "thumbnail": "https://i.ytimg.com/vi/3J5VPpX2Jww/hqdefault.jpg"
     },
     {
-      "title": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners | SQL Training For Beginners | Simplilearn",
-      "description": "Top Data Analytics and Data Science Courses ...",
-      "url": "https://www.youtube.com/watch?v=GSONaKKZozU",
-      "source": "Simplilearn",
-      "publishedAt": "2026-07-08T15:30:29Z",
+      "title": "IA et droits d’auteur : tout comprendre à la proposition de loi Darcos, visant à protéger les artistes du pillage",
+      "description": "Un projet de loi souhaite obliger ChatGPT, Claude, Gemini et consorts à prouver qu’ils n’ont pas utilisé des données protégées pour entraîner leurs modèles. Mais les obstacles sont nombreux, et cette ...",
+      "url": "https://www.telerama.fr/arts-expositions/ia-et-droits-d-auteur-tout-comprendre-a-la-proposition-de-loi-darcos-visant-a-proteger-les-artistes-du-pillage-7032090.php",
+      "source": "Telerama.fr",
+      "publishedAt": "2026-07-17T09:00:15Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "GSONaKKZozU",
-      "thumbnail": "https://i.ytimg.com/vi/GSONaKKZozU/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
@@ -48,18 +48,6 @@
       "isYouTube": true,
       "videoId": "mdsnXx_tBEs",
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
-    },
-    {
-      "title": "ce que GPT 5.6 SOL sait faire va te surprendre",
-      "description": "Apprendre à utiliser l'IA pour tes projets https://anthonymarandon.fr Dans cette vidéo, on plonge dans GPT 5.6 SOL, ...",
-      "url": "https://www.youtube.com/watch?v=qPszQNflKRk",
-      "source": "Anthony Marandon",
-      "publishedAt": "2026-07-10T17:10:09Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "qPszQNflKRk",
-      "thumbnail": "https://i.ytimg.com/vi/qPszQNflKRk/hqdefault.jpg"
     },
     {
       "title": "Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)",
@@ -86,11 +74,11 @@
       "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
     },
     {
-      "title": "L'observabilité, le véritable défi de l'IA en entreprise",
-      "description": "Le vrai défi de l'IA en entreprise n'est plus seulement l'hallucination, mais son pilotage : observer, comprendre et corriger les agents pour garantir des usages fiables, durables et maîtrisés.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1552729-l-observabilite-le-veritable-defi-de-l-ia-en-entreprise/",
+      "title": "Xi Jinping appelle à la régulation et à la coopération internationale en matière d'intelligence artificielle",
+      "description": "Le président chinois a plaidé pour une gouvernance internationale de l'IA, insistant sur la coopération, la régulation et le contrôle humain, tout en affirmant les ambitions de la Chine face aux Etats...",
+      "url": "https://www.journaldunet.com/business/action-publique/1552791-xi-jinping-appelle-a-la-regulation-et-a-la-cooperation-internationale-en-matiere-d-intelligence-artificielle-lors-de-la-conference-mondiale-sur-l-ia-a-shanghai/",
       "source": "JDN",
-      "publishedAt": "2026-07-16T09:49:55Z",
+      "publishedAt": "2026-07-17T09:18:33Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -98,16 +86,28 @@
       "thumbnail": ""
     },
     {
-      "title": "Python for Data Analytics (2026) |Complete Guide with FREE Resources|How to Learn Python|Intellipaat",
-      "description": "Enroll for Intellipaat's Python Course: https://intellipaat.com/python-certification-training-online/ Book your Free ...",
-      "url": "https://www.youtube.com/watch?v=nI9lVOH0htY",
-      "source": "Intellipaat",
-      "publishedAt": "2026-06-08T17:30:06Z",
+      "title": "Roblox Build : créer des jeux sur iPhone (via l’IA) va devenir beaucoup plus simple",
+      "description": "Roblox veut transformer davantage de joueurs en créateurs. La plateforme va intégrer dans son application mobile iOS (et Android) un nouvel outil baptisé Build, capable de générer une première version...",
+      "url": "https://iphoneaddict.fr/post/news-431945-roblox-build-creer-jeux-iphone-via-lia-devenir-beaucoup-plus-simple",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-07-17T09:10:44Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Notebooks réactifs avec « marimo » (Python)",
+      "description": "Machine learning. Data science. La librairie « marimo » pour Python permet de créer des notebooks qui, à la différence de ...",
+      "url": "https://www.youtube.com/watch?v=nUOi5S8XBdI",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-05-23T17:20:15Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "nI9lVOH0htY",
-      "thumbnail": "https://i.ytimg.com/vi/nI9lVOH0htY/hqdefault.jpg"
+      "videoId": "nUOi5S8XBdI",
+      "thumbnail": "https://i.ytimg.com/vi/nUOi5S8XBdI/hqdefault.jpg"
     },
     {
       "title": "Comment J’apprendrais l’IA en 2026 (si je devais recommencer)",
@@ -120,6 +120,18 @@
       "isYouTube": true,
       "videoId": "1eOQtGqgeyU",
       "thumbnail": "https://i.ytimg.com/vi/1eOQtGqgeyU/hqdefault.jpg"
+    },
+    {
+      "title": "Formation Power BI Desktop Complète | Dashboard Professionnel en 1H30 – Power BI #12",
+      "description": "Bonjour à toutes et à tous, J'espère que vous allez très bien. Dans cette formation complète Power BI Desktop, vous allez ...",
+      "url": "https://www.youtube.com/watch?v=-sqQb0OViwg",
+      "source": "Martinien Adda",
+      "publishedAt": "2026-05-26T16:00:11Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "-sqQb0OViwg",
+      "thumbnail": "https://i.ytimg.com/vi/-sqQb0OViwg/hqdefault.jpg"
     },
     {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
@@ -170,28 +182,16 @@
       "thumbnail": "https://i.ytimg.com/vi/3AUqD4ZwGts/hqdefault.jpg"
     },
     {
-      "title": "تعلم SQL لتحليل البيانات من المبتدئ للاحتراف في 3 ساعات",
-      "description": "عايز تتعلم SQL بالطريقة اللي بيشتغل بيها محلل البيانات؟ في الـ SQL for Data Analysis Bootcamp هتتعلم SQL خطوة بخطوة من ...",
-      "url": "https://www.youtube.com/watch?v=0vyXvLDHskM",
-      "source": "Mazen Analytics",
-      "publishedAt": "2026-06-30T13:52:50Z",
+      "title": "Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)",
+      "description": "Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...",
+      "url": "https://www.youtube.com/watch?v=2A5rNESVS9w",
+      "source": "AMVOULA Naïsia ",
+      "publishedAt": "2026-06-14T14:37:38Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "0vyXvLDHskM",
-      "thumbnail": "https://i.ytimg.com/vi/0vyXvLDHskM/hqdefault.jpg"
-    },
-    {
-      "title": "2026 FREE Data Analyst Bootcamp [24 Hours+] for FREE | SQL, Excel, Python, Power BI, GitHub, AWS",
-      "description": "Check out all my Full Courses on Analyst Builder: https://www.analystbuilder.com/ 25% Off Analyst Builder Code: BOOTCAMP In ...",
-      "url": "https://www.youtube.com/watch?v=cnjhHZNJEDk",
-      "source": "Alex The Analyst",
-      "publishedAt": "2026-05-19T12:30:29Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "cnjhHZNJEDk",
-      "thumbnail": "https://i.ytimg.com/vi/cnjhHZNJEDk/hqdefault.jpg"
+      "videoId": "2A5rNESVS9w",
+      "thumbnail": "https://i.ytimg.com/vi/2A5rNESVS9w/hqdefault.jpg"
     },
     {
       "title": "Créer un Dashboard Power BI | Tuto complet de A à Z",
@@ -218,23 +218,23 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
-      "title": "Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀",
-      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
-      "url": "https://www.youtube.com/watch?v=1Kokkl5PybM",
-      "source": "Morpheus Formation | Excel, Power BI, Sheets",
-      "publishedAt": "2026-06-04T09:00:14Z",
+      "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
+      "description": "Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...",
+      "url": "https://www.youtube.com/watch?v=OKS6wtA2lAA",
+      "source": "OUJOOD",
+      "publishedAt": "2026-06-03T12:13:50Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "1Kokkl5PybM",
-      "thumbnail": "https://i.ytimg.com/vi/1Kokkl5PybM/hqdefault.jpg"
+      "videoId": "OKS6wtA2lAA",
+      "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
     },
     {
-      "title": "Actualité : “Sans aucune exception” : 48h après avoir aspiré le code de milliers de développeurs, Elon Musk promet de rendre X open source",
-      "description": "Elon Musk a annoncé, le 15 juillet 2026, vouloir publier l'intégralité du code de la plateforme en open source. L'annonce tombe au lendemain du scandale Grok Build, qui a sérieusement écorné la crédib...",
-      "url": "https://www.lesnumeriques.com/societe-numerique/sans-aucune-exception-48h-apres-avoir-aspire-le-code-de-milliers-de-developpeurs-elon-musk-promet-de-rendre-x-open-source-n259337.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-07-16T06:31:00Z",
+      "title": "Nubia NaviX Ultra : le premier smartphone qui contrôle vos applications et paye à votre place",
+      "description": "Nubia dévoile le NaviX Ultra, qu'il présente comme le premier smartphone « agent IA » du monde : une IA qui manipule vos applications et paie à votre place, sans que vous touchiez l'écran.",
+      "url": "https://www.frandroid.com/produits-android/3183157_nubia-navix-ultra-le-premier-smartphone-qui-controle-vos-applications-et-paye-a-votre-place",
+      "source": "Frandroid",
+      "publishedAt": "2026-07-17T06:35:59Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "L'IA Act n'est pas une rupture, c'est la suite du RGPD",
-      "description": "L'IA Act ne concerne plus seulement les juristes. Il impose aux directions générales, DSI et équipes métiers de repenser leur gouvernance de l'intelligence artificielle et de faire de la conformité un...",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1552691-l-ia-act-n-est-pas-une-rupture-c-est-la-suite-du-rgpd/",
-      "source": "JDN",
-      "publishedAt": "2026-07-16T09:50:38Z",
+      "title": "L’IA peut optimiser nos ressources, mais peut-elle compenser durablement nos modes de consommation ?",
+      "description": "Elle prévoit les sécheresses, traque les fuites d’eau et pilote des réseaux électriques entiers. Pourtant, derrière cette impressionnante boîte à outils se cache un paradoxe : l’intelligence artificie...",
+      "url": "https://dailygeekshow.com/?p=1012784",
+      "source": "Daily Geek Show",
+      "publishedAt": "2026-07-16T16:31:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Formation Intelligence Artificielle Marketing : Le Guide Complet 2026 - Webnyxt",
-      "description": "Comparatif des meilleures formations IA marketing en 2026 : prix, durée, certification, financement CPF. Guide complet pour choisir la formation adaptée à votre niveau et budget.",
-      "url": "https://webnyxt.com/formation-intelligence-artificielle-marketing-guide-2026/",
-      "source": "Webnyxt.com",
-      "publishedAt": "2026-07-15T11:57:14Z",
+      "title": "\"Le développement de l'IA ne doit pas être le fait d'un seul pays\" : Xi Jinping défie les États-Unis",
+      "description": "Alors que Pékin cherche à rattraper les géants américains du secteur, l’intelligence artificielle est devenue un nouveau terrain de rivalité entre grandes puissances. ...",
+      "url": "https://www.lalibre.be/economie/digital/2026/07/17/le-developpement-de-lia-ne-doit-pas-etre-le-fait-dun-seul-pays-xi-jinping-defie-les-etats-unis-7EOABE766BAI3BI4AVUTFMICZA/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-07-17T05:47:34Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Le créateur de Hinge lance une app de rencontre où l’IA choisit votre date à votre place",
-      "description": "Après avoir créé Hinge, Justin McLeod veut de nouveau bouleverser les rencontres en ligne. Son nouveau service, Overtone, a levé 18 millions de dollars pour remplacer les profils et les swipes par une...",
-      "url": "https://www.numerama.com/tech/2295633-le-createur-de-hinge-lance-une-app-de-rencontre-ou-lia-choisit-votre-date-a-votre-place.html",
-      "source": "Numerama",
-      "publishedAt": "2026-07-15T14:30:00Z",
+      "title": "Le Pixel 11 de Google révèle un orbe lumineux et des couleurs inattendues",
+      "description": "Google crée le buzz autour de son prochain Pixel 11 avec un teaser montrant un mystérieux orbe lumineux sur la barre photo, surnommé \"Pixel Glow\" et potentiellement lié à l'Intelligence Artificielle G...",
+      "url": "https://www.generation-nt.com/actualites/pixel-11-orbe-lumineux-couleurs-2078752",
+      "source": "Génération NT",
+      "publishedAt": "2026-07-17T05:15:02Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Suno : son piratage révèle comment l’application a siphonné les géants de la musique pour nourrir son IA",
-      "description": "Vous avez probablement déjà entendu parler de Suno, cette application qui utilise l’IA pour transformer votre smartphone en un véritable studio musical. Son code source a été piraté et l’on...",
-      "url": "https://www.phonandroid.com/suno-son-piratage-revele-comment-lapplication-a-siphonne-les-geants-de-la-musique-pour-nourrir-son-ia.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-07-16T09:23:55Z",
+      "title": "Bon plan : le logiciel de réduction de bruit ON1 NoNoise AI 2024 gratuit jusqu’au 31 juillet",
+      "description": "ON1 offre son logiciel de réduction de bruit par IA : ON1 NoNoise AI 2024 est gratuit jusqu'au 31 juillet 2026, au lieu de 69,99 $.\n\n© 2026 Phototrend - Bon plan : le logiciel de réduction de bruit ON...",
+      "url": "https://phototrend.fr/2026/07/on1-nonoise-ai-2024-gratuit/",
+      "source": "Phototrend.fr",
+      "publishedAt": "2026-07-17T07:38:15Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
