@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-18T09:37:37.021704",
+  "lastUpdate": "2026-07-19T09:54:56.520195",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -14,6 +14,18 @@
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
     },
     {
+      "title": "Kimi K3 IMPRESSIONNANT ! IA Kimi K3 meilleur que Claude Fable / Mythos 5 et ChatGPT de OpenAI",
+      "description": "L'intelligence artificielle Kimi K3 est enfin disponible et ses performances sont tout simplement hallucinantes ! Dans ce tutoriel ...",
+      "url": "https://www.youtube.com/watch?v=L6K24ReZDcI",
+      "source": "IA Professeur",
+      "publishedAt": "2026-07-17T18:20:11Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "L6K24ReZDcI",
+      "thumbnail": "https://i.ytimg.com/vi/L6K24ReZDcI/hqdefault.jpg"
+    },
+    {
       "title": "NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)",
       "description": "Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...",
       "url": "https://www.youtube.com/watch?v=3J5VPpX2Jww",
@@ -26,18 +38,6 @@
       "thumbnail": "https://i.ytimg.com/vi/3J5VPpX2Jww/hqdefault.jpg"
     },
     {
-      "title": "IA et droits d’auteur : tout comprendre à la proposition de loi Darcos, visant à protéger les artistes du pillage",
-      "description": "Un projet de loi souhaite obliger ChatGPT, Claude, Gemini et consorts à prouver qu’ils n’ont pas utilisé des données protégées pour entraîner leurs modèles. Mais les obstacles sont nombreux, et cette ...",
-      "url": "https://www.telerama.fr/arts-expositions/ia-et-droits-d-auteur-tout-comprendre-a-la-proposition-de-loi-darcos-visant-a-proteger-les-artistes-du-pillage-7032090.php",
-      "source": "Telerama.fr",
-      "publishedAt": "2026-07-17T09:00:15Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
       "description": "La formation COMPLÈTE Data & Machine Learning — plus de 9 heures de cours, 111 sessions + 15 quiz, 100% GRATUITE.",
       "url": "https://www.youtube.com/watch?v=mdsnXx_tBEs",
@@ -48,6 +48,18 @@
       "isYouTube": true,
       "videoId": "mdsnXx_tBEs",
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
+    },
+    {
+      "title": "Comment ChatGPT sait ce que les mots veulent dire (Embeddings)",
+      "description": "Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...",
+      "url": "https://www.youtube.com/watch?v=ktL8oV26XYg",
+      "source": "How AI Works?",
+      "publishedAt": "2026-06-18T08:01:19Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "ktL8oV26XYg",
+      "thumbnail": "https://i.ytimg.com/vi/ktL8oV26XYg/hqdefault.jpg"
     },
     {
       "title": "Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)",
@@ -74,42 +86,6 @@
       "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
     },
     {
-      "title": "Xi Jinping appelle à la régulation et à la coopération internationale en matière d'intelligence artificielle",
-      "description": "Le président chinois a plaidé pour une gouvernance internationale de l'IA, insistant sur la coopération, la régulation et le contrôle humain, tout en affirmant les ambitions de la Chine face aux Etats...",
-      "url": "https://www.journaldunet.com/business/action-publique/1552791-xi-jinping-appelle-a-la-regulation-et-a-la-cooperation-internationale-en-matiere-d-intelligence-artificielle-lors-de-la-conference-mondiale-sur-l-ia-a-shanghai/",
-      "source": "JDN",
-      "publishedAt": "2026-07-17T09:18:33Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Roblox Build : créer des jeux sur iPhone (via l’IA) va devenir beaucoup plus simple",
-      "description": "Roblox veut transformer davantage de joueurs en créateurs. La plateforme va intégrer dans son application mobile iOS (et Android) un nouvel outil baptisé Build, capable de générer une première version...",
-      "url": "https://iphoneaddict.fr/post/news-431945-roblox-build-creer-jeux-iphone-via-lia-devenir-beaucoup-plus-simple",
-      "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-07-17T09:10:44Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Notebooks réactifs avec « marimo » (Python)",
-      "description": "Machine learning. Data science. La librairie « marimo » pour Python permet de créer des notebooks qui, à la différence de ...",
-      "url": "https://www.youtube.com/watch?v=nUOi5S8XBdI",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-05-23T17:20:15Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "nUOi5S8XBdI",
-      "thumbnail": "https://i.ytimg.com/vi/nUOi5S8XBdI/hqdefault.jpg"
-    },
-    {
       "title": "Comment J’apprendrais l’IA en 2026 (si je devais recommencer)",
       "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4fRlc8U Rejoins ma communauté ...",
       "url": "https://www.youtube.com/watch?v=1eOQtGqgeyU",
@@ -120,6 +96,30 @@
       "isYouTube": true,
       "videoId": "1eOQtGqgeyU",
       "thumbnail": "https://i.ytimg.com/vi/1eOQtGqgeyU/hqdefault.jpg"
+    },
+    {
+      "title": "Claude IA : le tutoriel facile pour débutant",
+      "description": "Comment bien utiliser l'IA Claude en 2026 ? Claude Chat, Claude Cowork, Claude Code, Claude Design... Dans ce tutoriel ...",
+      "url": "https://www.youtube.com/watch?v=nHXND_R4Jy8",
+      "source": "Ludo Salenne",
+      "publishedAt": "2026-06-24T16:09:42Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "nHXND_R4Jy8",
+      "thumbnail": "https://i.ytimg.com/vi/nHXND_R4Jy8/hqdefault.jpg"
+    },
+    {
+      "title": "Claude Skills : Tout le monde peut ENFIN automatiser !",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4v7YD4h Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=y4AAFTlA6ak",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-05-24T15:00:28Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "y4AAFTlA6ak",
+      "thumbnail": "https://i.ytimg.com/vi/y4AAFTlA6ak/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI Desktop Complète | Dashboard Professionnel en 1H30 – Power BI #12",
@@ -230,16 +230,16 @@
       "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
     },
     {
-      "title": "Nubia NaviX Ultra : le premier smartphone qui contrôle vos applications et paye à votre place",
-      "description": "Nubia dévoile le NaviX Ultra, qu'il présente comme le premier smartphone « agent IA » du monde : une IA qui manipule vos applications et paie à votre place, sans que vous touchiez l'écran.",
-      "url": "https://www.frandroid.com/produits-android/3183157_nubia-navix-ultra-le-premier-smartphone-qui-controle-vos-applications-et-paye-a-votre-place",
-      "source": "Frandroid",
-      "publishedAt": "2026-07-17T06:35:59Z",
+      "title": "Comment créer une base de données avec le langage SQL ?",
+      "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
+      "url": "https://www.youtube.com/watch?v=19JD2vconJ0",
+      "source": "OpenClassrooms en Français",
+      "publishedAt": "2026-07-01T04:00:13Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "19JD2vconJ0",
+      "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
       "title": "Computer Vision - De la Théorie au Code en 1H",
@@ -254,47 +254,47 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "L’IA peut optimiser nos ressources, mais peut-elle compenser durablement nos modes de consommation ?",
-      "description": "Elle prévoit les sécheresses, traque les fuites d’eau et pilote des réseaux électriques entiers. Pourtant, derrière cette impressionnante boîte à outils se cache un paradoxe : l’intelligence artificie...",
-      "url": "https://dailygeekshow.com/?p=1012784",
-      "source": "Daily Geek Show",
-      "publishedAt": "2026-07-16T16:31:01Z",
-      "category": "tech",
+      "title": "L’UMons participe à un projet d’intelligence artificielle au service de la lutte contre la malaria en République démocratique du Congo",
+      "description": "Quand la technologie est utilisée au service de la science… ...",
+      "url": "https://www.dhnet.be/regions/mons/2026/07/17/lumons-participe-a-un-projet-dintelligence-artificielle-au-service-de-la-lutte-contre-la-malaria-en-republique-democratique-du-congo-PEELD52P3VFUJC7TEH6ZCAK6KU/",
+      "source": "dh.be",
+      "publishedAt": "2026-07-17T16:03:00Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "\"Le développement de l'IA ne doit pas être le fait d'un seul pays\" : Xi Jinping défie les États-Unis",
-      "description": "Alors que Pékin cherche à rattraper les géants américains du secteur, l’intelligence artificielle est devenue un nouveau terrain de rivalité entre grandes puissances. ...",
-      "url": "https://www.lalibre.be/economie/digital/2026/07/17/le-developpement-de-lia-ne-doit-pas-etre-le-fait-dun-seul-pays-xi-jinping-defie-les-etats-unis-7EOABE766BAI3BI4AVUTFMICZA/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-07-17T05:47:34Z",
-      "category": "tech",
+      "title": "Test Lave-linge Dreame L9 : une très belle surprise à 649 €, mais avec un défaut",
+      "description": "Première incursion de Dreame dans les buanderies françaises, le lave-linge séchant Dreame L9 veut marquer le coup en multipliant les technologies : distributeur automatique de lessive, lavage à la mou...",
+      "url": "https://www.lesnumeriques.com/lave-linge/dreame-l9-p78572/test.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-07-18T05:00:00Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Le Pixel 11 de Google révèle un orbe lumineux et des couleurs inattendues",
-      "description": "Google crée le buzz autour de son prochain Pixel 11 avec un teaser montrant un mystérieux orbe lumineux sur la barre photo, surnommé \"Pixel Glow\" et potentiellement lié à l'Intelligence Artificielle G...",
-      "url": "https://www.generation-nt.com/actualites/pixel-11-orbe-lumineux-couleurs-2078752",
-      "source": "Génération NT",
-      "publishedAt": "2026-07-17T05:15:02Z",
-      "category": "tech",
+      "title": "Kimi K3 : le grand bond en avant de l’IA chinoise… au point de rattraper les Américains ?",
+      "description": "L’entreprise chinoise Moonshot AI a sorti un nouveau modèle d’IA ultra-performant, Kimi K3, qui peut concurrencer les américains Anthropic et OpenAI. Ce modèle \"open-weight\" illustre la rapidité toujo...",
+      "url": "https://atlantico.fr/article/decryptage/kimi-k3-grand-bond-en-avant-ia-chinoise-au-point-de-rattraper-les-americains-Chine-Etats-Unis-Grok-Chatgpt-openai-anthropic-deep-seek-intelligence-artificielle-Benoit-Grunemwald-Thierry-Berthier",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-07-18T07:57:00Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Bon plan : le logiciel de réduction de bruit ON1 NoNoise AI 2024 gratuit jusqu’au 31 juillet",
-      "description": "ON1 offre son logiciel de réduction de bruit par IA : ON1 NoNoise AI 2024 est gratuit jusqu'au 31 juillet 2026, au lieu de 69,99 $.\n\n© 2026 Phototrend - Bon plan : le logiciel de réduction de bruit ON...",
-      "url": "https://phototrend.fr/2026/07/on1-nonoise-ai-2024-gratuit/",
-      "source": "Phototrend.fr",
-      "publishedAt": "2026-07-17T07:38:15Z",
+      "title": "Pudu Robotics classé n°1 mondial dans quatre domaines des robots de service commerciaux par Frost & Sullivan",
+      "description": "Un rapport de marché indépendant 2025 désigne Pudu Robotics comme le leader parmi les entreprises chinoises en termes de chiffre d'affaires, d'expéditions et d'expansion à l'international dans le sect...",
+      "url": "https://www.prnewswire.com/news-releases/pudu-robotics-classe-n1-mondial-dans-quatre-domaines-des-robots-de-service-commerciaux-par-frost--sullivan-302828782.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-07-17T19:10:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

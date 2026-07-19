@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 18 Jul 2026 09:37:37 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 09:54:56 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,6 +21,14 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
+            <title>Kimi K3 IMPRESSIONNANT ! IA Kimi K3 meilleur que Claude Fable / Mythos 5 et ChatGPT de OpenAI</title>
+            <link>https://www.youtube.com/watch?v=L6K24ReZDcI</link>
+            <description><![CDATA[L'intelligence artificielle Kimi K3 est enfin disponible et ses performances sont tout simplement hallucinantes ! Dans ce tutoriel ...]]></description>
+            <pubDate>Fri, 17 Jul 2026 18:20:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=L6K24ReZDcI</guid>
+            <source>IA Professeur</source>
+        </item>
+        <item>
             <title>NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)</title>
             <link>https://www.youtube.com/watch?v=3J5VPpX2Jww</link>
             <description><![CDATA[Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...]]></description>
@@ -29,20 +37,20 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>IA et droits d’auteur : tout comprendre à la proposition de loi Darcos, visant à protéger les artistes du pillage</title>
-            <link>https://www.telerama.fr/arts-expositions/ia-et-droits-d-auteur-tout-comprendre-a-la-proposition-de-loi-darcos-visant-a-proteger-les-artistes-du-pillage-7032090.php</link>
-            <description><![CDATA[Un projet de loi souhaite obliger ChatGPT, Claude, Gemini et consorts à prouver qu’ils n’ont pas utilisé des données protégées pour entraîner leurs modèles. Mais les obstacles sont nombreux, et cette ...]]></description>
-            <pubDate>Fri, 17 Jul 2026 09:00:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.telerama.fr/arts-expositions/ia-et-droits-d-auteur-tout-comprendre-a-la-proposition-de-loi-darcos-visant-a-proteger-les-artistes-du-pillage-7032090.php</guid>
-            <source>Telerama.fr</source>
-        </item>
-        <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
             <link>https://www.youtube.com/watch?v=mdsnXx_tBEs</link>
             <description><![CDATA[La formation COMPLÈTE Data &amp; Machine Learning — plus de 9 heures de cours, 111 sessions + 15 quiz, 100% GRATUITE.]]></description>
             <pubDate>Mon, 25 May 2026 13:45:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=mdsnXx_tBEs</guid>
             <source>IA Futura</source>
+        </item>
+        <item>
+            <title>Comment ChatGPT sait ce que les mots veulent dire (Embeddings)</title>
+            <link>https://www.youtube.com/watch?v=ktL8oV26XYg</link>
+            <description><![CDATA[Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...]]></description>
+            <pubDate>Thu, 18 Jun 2026 08:01:19 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ktL8oV26XYg</guid>
+            <source>How AI Works?</source>
         </item>
         <item>
             <title>Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)</title>
@@ -61,35 +69,27 @@
             <source>Seif BOUGUERRA</source>
         </item>
         <item>
-            <title>Xi Jinping appelle à la régulation et à la coopération internationale en matière d'intelligence artificielle</title>
-            <link>https://www.journaldunet.com/business/action-publique/1552791-xi-jinping-appelle-a-la-regulation-et-a-la-cooperation-internationale-en-matiere-d-intelligence-artificielle-lors-de-la-conference-mondiale-sur-l-ia-a-shanghai/</link>
-            <description><![CDATA[Le président chinois a plaidé pour une gouvernance internationale de l'IA, insistant sur la coopération, la régulation et le contrôle humain, tout en affirmant les ambitions de la Chine face aux Etats...]]></description>
-            <pubDate>Fri, 17 Jul 2026 09:18:33 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/business/action-publique/1552791-xi-jinping-appelle-a-la-regulation-et-a-la-cooperation-internationale-en-matiere-d-intelligence-artificielle-lors-de-la-conference-mondiale-sur-l-ia-a-shanghai/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
-            <title>Roblox Build : créer des jeux sur iPhone (via l’IA) va devenir beaucoup plus simple</title>
-            <link>https://iphoneaddict.fr/post/news-431945-roblox-build-creer-jeux-iphone-via-lia-devenir-beaucoup-plus-simple</link>
-            <description><![CDATA[Roblox veut transformer davantage de joueurs en créateurs. La plateforme va intégrer dans son application mobile iOS (et Android) un nouvel outil baptisé Build, capable de générer une première version...]]></description>
-            <pubDate>Fri, 17 Jul 2026 09:10:44 -0000</pubDate>
-            <guid isPermaLink="true">https://iphoneaddict.fr/post/news-431945-roblox-build-creer-jeux-iphone-via-lia-devenir-beaucoup-plus-simple</guid>
-            <source>Iphoneaddict.fr</source>
-        </item>
-        <item>
-            <title>Notebooks réactifs avec « marimo » (Python)</title>
-            <link>https://www.youtube.com/watch?v=nUOi5S8XBdI</link>
-            <description><![CDATA[Machine learning. Data science. La librairie « marimo » pour Python permet de créer des notebooks qui, à la différence de ...]]></description>
-            <pubDate>Sat, 23 May 2026 17:20:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=nUOi5S8XBdI</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
             <title>Comment J’apprendrais l’IA en 2026 (si je devais recommencer)</title>
             <link>https://www.youtube.com/watch?v=1eOQtGqgeyU</link>
             <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4fRlc8U Rejoins ma communauté ...]]></description>
             <pubDate>Mon, 01 Jun 2026 15:00:04 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=1eOQtGqgeyU</guid>
+            <source>Yassine Sdiri</source>
+        </item>
+        <item>
+            <title>Claude IA : le tutoriel facile pour débutant</title>
+            <link>https://www.youtube.com/watch?v=nHXND_R4Jy8</link>
+            <description><![CDATA[Comment bien utiliser l'IA Claude en 2026 ? Claude Chat, Claude Cowork, Claude Code, Claude Design... Dans ce tutoriel ...]]></description>
+            <pubDate>Wed, 24 Jun 2026 16:09:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=nHXND_R4Jy8</guid>
+            <source>Ludo Salenne</source>
+        </item>
+        <item>
+            <title>Claude Skills : Tout le monde peut ENFIN automatiser !</title>
+            <link>https://www.youtube.com/watch?v=y4AAFTlA6ak</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4v7YD4h Rejoins ma communauté ...]]></description>
+            <pubDate>Sun, 24 May 2026 15:00:28 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=y4AAFTlA6ak</guid>
             <source>Yassine Sdiri</source>
         </item>
         <item>
@@ -165,12 +165,12 @@
             <source>OUJOOD</source>
         </item>
         <item>
-            <title>Nubia NaviX Ultra : le premier smartphone qui contrôle vos applications et paye à votre place</title>
-            <link>https://www.frandroid.com/produits-android/3183157_nubia-navix-ultra-le-premier-smartphone-qui-controle-vos-applications-et-paye-a-votre-place</link>
-            <description><![CDATA[Nubia dévoile le NaviX Ultra, qu'il présente comme le premier smartphone « agent IA » du monde : une IA qui manipule vos applications et paie à votre place, sans que vous touchiez l'écran.]]></description>
-            <pubDate>Fri, 17 Jul 2026 06:35:59 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/produits-android/3183157_nubia-navix-ultra-le-premier-smartphone-qui-controle-vos-applications-et-paye-a-votre-place</guid>
-            <source>Frandroid</source>
+            <title>Comment créer une base de données avec le langage SQL ?</title>
+            <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
+            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
+            <pubDate>Wed, 01 Jul 2026 04:00:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=19JD2vconJ0</guid>
+            <source>OpenClassrooms en Français</source>
         </item>
     </channel>
 </rss>
