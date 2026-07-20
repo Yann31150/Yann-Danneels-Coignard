@@ -1,41 +1,17 @@
 {
-  "lastUpdate": "2026-07-19T09:54:56.520195",
+  "lastUpdate": "2026-07-20T10:56:33.017385",
   "articles": [
     {
-      "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
-      "description": "Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...",
-      "url": "https://www.youtube.com/watch?v=0EsKXRhOYxM",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-06-22T15:04:54Z",
+      "title": "Pourquoi une quarantaine de salariés d'OpenAI sont visés par des courriers juridiques d'Apple",
+      "description": "Selon le \"Financial Times\", Apple a adressé des avertissements juridiques à des dizaines d'anciens employés d'OpenAI ayant travaillé pour l'entreprise, dans le cadre de sa recherche de preuves étayant...",
+      "url": "https://www.lexpress.fr/economie/high-tech/pourquoi-une-quarantaine-de-salaries-dopenai-sont-vises-par-des-courriers-juridiques-dapple-BZQ5V2XKIJCXLGCUHGJE3YJZKQ/",
+      "source": "L'Express",
+      "publishedAt": "2026-07-19T09:33:02Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "0EsKXRhOYxM",
-      "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
-    },
-    {
-      "title": "Kimi K3 IMPRESSIONNANT ! IA Kimi K3 meilleur que Claude Fable / Mythos 5 et ChatGPT de OpenAI",
-      "description": "L'intelligence artificielle Kimi K3 est enfin disponible et ses performances sont tout simplement hallucinantes ! Dans ce tutoriel ...",
-      "url": "https://www.youtube.com/watch?v=L6K24ReZDcI",
-      "source": "IA Professeur",
-      "publishedAt": "2026-07-17T18:20:11Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "L6K24ReZDcI",
-      "thumbnail": "https://i.ytimg.com/vi/L6K24ReZDcI/hqdefault.jpg"
-    },
-    {
-      "title": "NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)",
-      "description": "Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...",
-      "url": "https://www.youtube.com/watch?v=3J5VPpX2Jww",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-06-24T14:33:27Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "3J5VPpX2Jww",
-      "thumbnail": "https://i.ytimg.com/vi/3J5VPpX2Jww/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
@@ -50,16 +26,16 @@
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
     },
     {
-      "title": "Comment ChatGPT sait ce que les mots veulent dire (Embeddings)",
-      "description": "Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...",
-      "url": "https://www.youtube.com/watch?v=ktL8oV26XYg",
-      "source": "How AI Works?",
-      "publishedAt": "2026-06-18T08:01:19Z",
+      "title": "Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp; Claude Cowork",
+      "description": "Bienvenue dans le Jour 1 de cette formation complète consacrée à l'analyse des données avec Claude AI. Dans cette première ...",
+      "url": "https://www.youtube.com/watch?v=NURD13ukpQI",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-07-13T15:17:51Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "ktL8oV26XYg",
-      "thumbnail": "https://i.ytimg.com/vi/ktL8oV26XYg/hqdefault.jpg"
+      "videoId": "NURD13ukpQI",
+      "thumbnail": "https://i.ytimg.com/vi/NURD13ukpQI/hqdefault.jpg"
     },
     {
       "title": "Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)",
@@ -98,6 +74,18 @@
       "thumbnail": "https://i.ytimg.com/vi/1eOQtGqgeyU/hqdefault.jpg"
     },
     {
+      "title": "Chaque IA Expliquée en 19 Minutes",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4oIKXLh Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=bof3sJ9P5Ss",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-06-21T15:00:12Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "bof3sJ9P5Ss",
+      "thumbnail": "https://i.ytimg.com/vi/bof3sJ9P5Ss/hqdefault.jpg"
+    },
+    {
       "title": "Claude IA : le tutoriel facile pour débutant",
       "description": "Comment bien utiliser l'IA Claude en 2026 ? Claude Chat, Claude Cowork, Claude Code, Claude Design... Dans ce tutoriel ...",
       "url": "https://www.youtube.com/watch?v=nHXND_R4Jy8",
@@ -122,16 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/y4AAFTlA6ak/hqdefault.jpg"
     },
     {
-      "title": "Formation Power BI Desktop Complète | Dashboard Professionnel en 1H30 – Power BI #12",
-      "description": "Bonjour à toutes et à tous, J'espère que vous allez très bien. Dans cette formation complète Power BI Desktop, vous allez ...",
-      "url": "https://www.youtube.com/watch?v=-sqQb0OViwg",
-      "source": "Martinien Adda",
-      "publishedAt": "2026-05-26T16:00:11Z",
-      "category": "data",
+      "title": "L&#39;IA secrète qui fait tourner les algos de trading",
+      "description": "Tout le monde l'utilise, presque personne ne l'explique simplement : le modèle de machine learning qui domine les compétitions ...",
+      "url": "https://www.youtube.com/watch?v=oWbNY3pUBMA",
+      "source": "AlgoBacktest",
+      "publishedAt": "2026-05-28T17:00:13Z",
+      "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "-sqQb0OViwg",
-      "thumbnail": "https://i.ytimg.com/vi/-sqQb0OViwg/hqdefault.jpg"
+      "videoId": "oWbNY3pUBMA",
+      "thumbnail": "https://i.ytimg.com/vi/oWbNY3pUBMA/hqdefault.jpg"
     },
     {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
@@ -144,18 +132,6 @@
       "isYouTube": true,
       "videoId": "-kGlpSTHPf4",
       "thumbnail": "https://i.ytimg.com/vi/-kGlpSTHPf4/hqdefault.jpg"
-    },
-    {
-      "title": "Power BI Creer un tableau de bord de A à Z",
-      "description": "FORMATION POWER BI GRATUITE – VIDÉO 3 : CRÉATION D'UN TABLEAU DE BORD INTERACTIF DE A À Z Bienvenue dans ...",
-      "url": "https://www.youtube.com/watch?v=5zWEMjvm86o",
-      "source": "Ceemtic Analytics",
-      "publishedAt": "2026-06-13T21:22:56Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "5zWEMjvm86o",
-      "thumbnail": "https://i.ytimg.com/vi/5zWEMjvm86o/hqdefault.jpg"
     },
     {
       "title": "Power BI : je construis un tableau de bord pour mon client (de A à Z)",
@@ -230,6 +206,30 @@
       "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
     },
     {
+      "title": "Les centres de données spatiaux posent aussi des risques écologiques. Qu’en dit le droit ?",
+      "description": "Un regard juridique sur les centres de données spatiaux, qui ne règlent pas tous les problèmes environnementaux de leurs équivalents terrestres… et en génèrent des nouveaux.",
+      "url": "https://theconversation.com/les-centres-de-donnees-spatiaux-posent-aussi-des-risques-ecologiques-quen-dit-le-droit-286490",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-07-19T09:21:07Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "\"Ni juste ni équitable\" : l'Argentine a-t-elle été favorisée par l'arbitrage pendant la Coupe du monde ?",
+      "description": "Plusieurs décisions arbitrales au fil de ce Mondial 2026 ont semblé profiter à Lionel Messi et ses coéquipiers. Sur les réseaux sociaux, certains internautes accusent même la Fifa de favoriser les Arg...",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/ni-juste-ni-equitable-l-argentine-a-t-elle-ete-favorisee-par-l-arbitrage-pendant-la-coupe-du-monde_8111363.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-07-19T04:38:29Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Comment créer une base de données avec le langage SQL ?",
       "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
       "url": "https://www.youtube.com/watch?v=19JD2vconJ0",
@@ -254,47 +254,47 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "L’UMons participe à un projet d’intelligence artificielle au service de la lutte contre la malaria en République démocratique du Congo",
-      "description": "Quand la technologie est utilisée au service de la science… ...",
-      "url": "https://www.dhnet.be/regions/mons/2026/07/17/lumons-participe-a-un-projet-dintelligence-artificielle-au-service-de-la-lutte-contre-la-malaria-en-republique-democratique-du-congo-PEELD52P3VFUJC7TEH6ZCAK6KU/",
-      "source": "dh.be",
-      "publishedAt": "2026-07-17T16:03:00Z",
-      "category": "innovation",
+      "title": "Meta prépare ses propres puces IA pour moins dépendre de Nvidia",
+      "description": "Meta voudrait lancer dès septembre la fabrication d’une nouvelle puce conçue pour ses besoins en intelligence artificielle. Une manière de réduire ses coûts, mais aussi d’éviter de dépendre entièremen...",
+      "url": "https://www.journaldugeek.com/2026/07/18/meta-prepare-ses-propres-puces-ia-pour-moins-dependre-de-nvidia/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-07-18T15:03:54Z",
+      "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Test Lave-linge Dreame L9 : une très belle surprise à 649 €, mais avec un défaut",
-      "description": "Première incursion de Dreame dans les buanderies françaises, le lave-linge séchant Dreame L9 veut marquer le coup en multipliant les technologies : distributeur automatique de lessive, lavage à la mou...",
-      "url": "https://www.lesnumeriques.com/lave-linge/dreame-l9-p78572/test.html",
+      "title": "Les carnets de Jean-Claude Heudin : l’IA est-elle un nouveau moyen de domination ?",
+      "description": "Intelligence artificielle générale, superintelligence, singularité technologique… Pourquoi les milliardaires investissent-ils massivement dans l’IA, alors qu’ils ont déjà tout ou presque ?",
+      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-carnets-jean-claude-heudin-ia-elle-nouveau-moyen-domination-136324/",
+      "source": "Futura",
+      "publishedAt": "2026-07-19T10:15:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Intelligence artificielle : pourquoi il ne faut pas avoir peur du prix des \"tokens\"",
+      "description": "La valeur des jetons produits par les grands modèles d'IA ne s'envole pas. Au sein de la filière, une déflation est même à l'œuvre, masquée par une accélération des usages.",
+      "url": "https://www.lexpress.fr/economie/high-tech/intelligence-artificielle-pourquoi-il-ne-faut-pas-avoir-peur-du-prix-des-tokens-OVPOIR3AYJGLVFEVFHO5PQHH6I/",
+      "source": "L'Express",
+      "publishedAt": "2026-07-19T09:42:24Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Actualité : Sonars IoT : ces bouées intelligentes repèrent les requins avant qu'ils n'approchent",
+      "description": "De nouvelles bouées intelligentes équipées de sonars scrutent en permanence les eaux de baignade. En analysant la façon de nager de chaque animal, leur intelligence artificielle distingue un requin d'...",
+      "url": "https://www.lesnumeriques.com/sante-sport/sonars-iot-ces-bouees-intelligentes-reperent-les-requins-avant-qu-ils-n-approchent-n259244.html",
       "source": "Les Numériques",
-      "publishedAt": "2026-07-18T05:00:00Z",
-      "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kimi K3 : le grand bond en avant de l’IA chinoise… au point de rattraper les Américains ?",
-      "description": "L’entreprise chinoise Moonshot AI a sorti un nouveau modèle d’IA ultra-performant, Kimi K3, qui peut concurrencer les américains Anthropic et OpenAI. Ce modèle \"open-weight\" illustre la rapidité toujo...",
-      "url": "https://atlantico.fr/article/decryptage/kimi-k3-grand-bond-en-avant-ia-chinoise-au-point-de-rattraper-les-americains-Chine-Etats-Unis-Grok-Chatgpt-openai-anthropic-deep-seek-intelligence-artificielle-Benoit-Grunemwald-Thierry-Berthier",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-07-18T07:57:00Z",
-      "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Pudu Robotics classé n°1 mondial dans quatre domaines des robots de service commerciaux par Frost & Sullivan",
-      "description": "Un rapport de marché indépendant 2025 désigne Pudu Robotics comme le leader parmi les entreprises chinoises en termes de chiffre d'affaires, d'expéditions et d'expansion à l'international dans le sect...",
-      "url": "https://www.prnewswire.com/news-releases/pudu-robotics-classe-n1-mondial-dans-quatre-domaines-des-robots-de-service-commerciaux-par-frost--sullivan-302828782.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-07-17T19:10:00Z",
+      "publishedAt": "2026-07-18T20:45:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 19 Jul 2026 09:54:56 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 10:56:33 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,28 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)</title>
-            <link>https://www.youtube.com/watch?v=0EsKXRhOYxM</link>
-            <description><![CDATA[Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...]]></description>
-            <pubDate>Mon, 22 Jun 2026 15:04:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=0EsKXRhOYxM</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>Kimi K3 IMPRESSIONNANT ! IA Kimi K3 meilleur que Claude Fable / Mythos 5 et ChatGPT de OpenAI</title>
-            <link>https://www.youtube.com/watch?v=L6K24ReZDcI</link>
-            <description><![CDATA[L'intelligence artificielle Kimi K3 est enfin disponible et ses performances sont tout simplement hallucinantes ! Dans ce tutoriel ...]]></description>
-            <pubDate>Fri, 17 Jul 2026 18:20:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=L6K24ReZDcI</guid>
-            <source>IA Professeur</source>
-        </item>
-        <item>
-            <title>NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)</title>
-            <link>https://www.youtube.com/watch?v=3J5VPpX2Jww</link>
-            <description><![CDATA[Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...]]></description>
-            <pubDate>Wed, 24 Jun 2026 14:33:27 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=3J5VPpX2Jww</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>Pourquoi une quarantaine de salariés d'OpenAI sont visés par des courriers juridiques d'Apple</title>
+            <link>https://www.lexpress.fr/economie/high-tech/pourquoi-une-quarantaine-de-salaries-dopenai-sont-vises-par-des-courriers-juridiques-dapple-BZQ5V2XKIJCXLGCUHGJE3YJZKQ/</link>
+            <description><![CDATA[Selon le "Financial Times", Apple a adressé des avertissements juridiques à des dizaines d'anciens employés d'OpenAI ayant travaillé pour l'entreprise, dans le cadre de sa recherche de preuves étayant...]]></description>
+            <pubDate>Sun, 19 Jul 2026 09:33:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lexpress.fr/economie/high-tech/pourquoi-une-quarantaine-de-salaries-dopenai-sont-vises-par-des-courriers-juridiques-dapple-BZQ5V2XKIJCXLGCUHGJE3YJZKQ/</guid>
+            <source>L'Express</source>
         </item>
         <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
@@ -45,12 +29,12 @@
             <source>IA Futura</source>
         </item>
         <item>
-            <title>Comment ChatGPT sait ce que les mots veulent dire (Embeddings)</title>
-            <link>https://www.youtube.com/watch?v=ktL8oV26XYg</link>
-            <description><![CDATA[Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...]]></description>
-            <pubDate>Thu, 18 Jun 2026 08:01:19 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ktL8oV26XYg</guid>
-            <source>How AI Works?</source>
+            <title>Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp;amp; Claude Cowork</title>
+            <link>https://www.youtube.com/watch?v=NURD13ukpQI</link>
+            <description><![CDATA[Bienvenue dans le Jour 1 de cette formation complète consacrée à l'analyse des données avec Claude AI. Dans cette première ...]]></description>
+            <pubDate>Mon, 13 Jul 2026 15:17:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=NURD13ukpQI</guid>
+            <source>Oscar Aksanti</source>
         </item>
         <item>
             <title>Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)</title>
@@ -77,6 +61,14 @@
             <source>Yassine Sdiri</source>
         </item>
         <item>
+            <title>Chaque IA Expliquée en 19 Minutes</title>
+            <link>https://www.youtube.com/watch?v=bof3sJ9P5Ss</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4oIKXLh Rejoins ma communauté ...]]></description>
+            <pubDate>Sun, 21 Jun 2026 15:00:12 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=bof3sJ9P5Ss</guid>
+            <source>Yassine Sdiri</source>
+        </item>
+        <item>
             <title>Claude IA : le tutoriel facile pour débutant</title>
             <link>https://www.youtube.com/watch?v=nHXND_R4Jy8</link>
             <description><![CDATA[Comment bien utiliser l'IA Claude en 2026 ? Claude Chat, Claude Cowork, Claude Code, Claude Design... Dans ce tutoriel ...]]></description>
@@ -93,12 +85,12 @@
             <source>Yassine Sdiri</source>
         </item>
         <item>
-            <title>Formation Power BI Desktop Complète | Dashboard Professionnel en 1H30 – Power BI #12</title>
-            <link>https://www.youtube.com/watch?v=-sqQb0OViwg</link>
-            <description><![CDATA[Bonjour à toutes et à tous, J'espère que vous allez très bien. Dans cette formation complète Power BI Desktop, vous allez ...]]></description>
-            <pubDate>Tue, 26 May 2026 16:00:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=-sqQb0OViwg</guid>
-            <source>Martinien Adda</source>
+            <title>L&amp;#39;IA secrète qui fait tourner les algos de trading</title>
+            <link>https://www.youtube.com/watch?v=oWbNY3pUBMA</link>
+            <description><![CDATA[Tout le monde l'utilise, presque personne ne l'explique simplement : le modèle de machine learning qui domine les compétitions ...]]></description>
+            <pubDate>Thu, 28 May 2026 17:00:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=oWbNY3pUBMA</guid>
+            <source>AlgoBacktest</source>
         </item>
         <item>
             <title>NumPy &amp;amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes</title>
@@ -107,14 +99,6 @@
             <pubDate>Thu, 11 Jun 2026 09:31:32 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=-kGlpSTHPf4</guid>
             <source>lioncode</source>
-        </item>
-        <item>
-            <title>Power BI Creer un tableau de bord de A à Z</title>
-            <link>https://www.youtube.com/watch?v=5zWEMjvm86o</link>
-            <description><![CDATA[FORMATION POWER BI GRATUITE – VIDÉO 3 : CRÉATION D'UN TABLEAU DE BORD INTERACTIF DE A À Z Bienvenue dans ...]]></description>
-            <pubDate>Sat, 13 Jun 2026 21:22:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=5zWEMjvm86o</guid>
-            <source>Ceemtic Analytics</source>
         </item>
         <item>
             <title>Power BI : je construis un tableau de bord pour mon client (de A à Z)</title>
@@ -163,6 +147,22 @@
             <pubDate>Wed, 03 Jun 2026 12:13:50 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=OKS6wtA2lAA</guid>
             <source>OUJOOD</source>
+        </item>
+        <item>
+            <title>Les centres de données spatiaux posent aussi des risques écologiques. Qu’en dit le droit ?</title>
+            <link>https://theconversation.com/les-centres-de-donnees-spatiaux-posent-aussi-des-risques-ecologiques-quen-dit-le-droit-286490</link>
+            <description><![CDATA[Un regard juridique sur les centres de données spatiaux, qui ne règlent pas tous les problèmes environnementaux de leurs équivalents terrestres… et en génèrent des nouveaux.]]></description>
+            <pubDate>Sun, 19 Jul 2026 09:21:07 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/les-centres-de-donnees-spatiaux-posent-aussi-des-risques-ecologiques-quen-dit-le-droit-286490</guid>
+            <source>The Conversation Africa</source>
+        </item>
+        <item>
+            <title>"Ni juste ni équitable" : l'Argentine a-t-elle été favorisée par l'arbitrage pendant la Coupe du monde ?</title>
+            <link>https://www.franceinfo.fr/coupe-du-monde/ni-juste-ni-equitable-l-argentine-a-t-elle-ete-favorisee-par-l-arbitrage-pendant-la-coupe-du-monde_8111363.html</link>
+            <description><![CDATA[Plusieurs décisions arbitrales au fil de ce Mondial 2026 ont semblé profiter à Lionel Messi et ses coéquipiers. Sur les réseaux sociaux, certains internautes accusent même la Fifa de favoriser les Arg...]]></description>
+            <pubDate>Sun, 19 Jul 2026 04:38:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/coupe-du-monde/ni-juste-ni-equitable-l-argentine-a-t-elle-ete-favorisee-par-l-arbitrage-pendant-la-coupe-du-monde_8111363.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
         <item>
             <title>Comment créer une base de données avec le langage SQL ?</title>
