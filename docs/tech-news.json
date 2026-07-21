@@ -1,17 +1,41 @@
 {
-  "lastUpdate": "2026-07-20T10:56:33.017385",
+  "lastUpdate": "2026-07-21T10:27:29.896183",
   "articles": [
     {
-      "title": "Pourquoi une quarantaine de salariés d'OpenAI sont visés par des courriers juridiques d'Apple",
-      "description": "Selon le \"Financial Times\", Apple a adressé des avertissements juridiques à des dizaines d'anciens employés d'OpenAI ayant travaillé pour l'entreprise, dans le cadre de sa recherche de preuves étayant...",
-      "url": "https://www.lexpress.fr/economie/high-tech/pourquoi-une-quarantaine-de-salaries-dopenai-sont-vises-par-des-courriers-juridiques-dapple-BZQ5V2XKIJCXLGCUHGJE3YJZKQ/",
-      "source": "L'Express",
-      "publishedAt": "2026-07-19T09:33:02Z",
+      "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
+      "description": "Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...",
+      "url": "https://www.youtube.com/watch?v=0EsKXRhOYxM",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-06-22T15:04:54Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "0EsKXRhOYxM",
+      "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
+    },
+    {
+      "title": "NLP – Catégorisation multiclasse avec TabICL (TabICLv2 / Python)",
+      "description": "Machine learning. Data science. NLP (natural language processing). TabICL (tabular in-context learning) est une technologie de ...",
+      "url": "https://www.youtube.com/watch?v=pWDFTIJiYMU",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-07-07T08:57:32Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "pWDFTIJiYMU",
+      "thumbnail": "https://i.ytimg.com/vi/pWDFTIJiYMU/hqdefault.jpg"
+    },
+    {
+      "title": "NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)",
+      "description": "Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...",
+      "url": "https://www.youtube.com/watch?v=3J5VPpX2Jww",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-06-24T14:33:27Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "3J5VPpX2Jww",
+      "thumbnail": "https://i.ytimg.com/vi/3J5VPpX2Jww/hqdefault.jpg"
     },
     {
       "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
@@ -24,6 +48,18 @@
       "isYouTube": true,
       "videoId": "mdsnXx_tBEs",
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
+    },
+    {
+      "title": "Comment ChatGPT sait ce que les mots veulent dire (Embeddings)",
+      "description": "Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...",
+      "url": "https://www.youtube.com/watch?v=ktL8oV26XYg",
+      "source": "How AI Works?",
+      "publishedAt": "2026-06-18T08:01:19Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "ktL8oV26XYg",
+      "thumbnail": "https://i.ytimg.com/vi/ktL8oV26XYg/hqdefault.jpg"
     },
     {
       "title": "Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp; Claude Cowork",
@@ -62,64 +98,28 @@
       "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
     },
     {
-      "title": "Comment J’apprendrais l’IA en 2026 (si je devais recommencer)",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4fRlc8U Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=1eOQtGqgeyU",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2026-06-01T15:00:04Z",
+      "title": "BMASS - Bootez direct votre PC sur une IA locale",
+      "description": "Balaji Bikshandi avait un rêve ! Il voulait booter sa machine directement sur un LLM sans avoir à passer par le moindre environnement de bureau ! Et il y est parvenu avec son outil \n\n\n\n\n\n\n\n\n\n \n BMASS\n...",
+      "url": "https://korben.info/bmass-boot-usb-modele-ia-local.html",
+      "source": "Korben.info",
+      "publishedAt": "2026-07-20T10:20:42Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1eOQtGqgeyU",
-      "thumbnail": "https://i.ytimg.com/vi/1eOQtGqgeyU/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "Chaque IA Expliquée en 19 Minutes",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4oIKXLh Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=bof3sJ9P5Ss",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2026-06-21T15:00:12Z",
+      "title": "L'IA ne remplacera pas les catalogues produits, elle révélera surtout leurs faiblesses",
+      "description": "L'IA révèle la qualité des données produits plus qu'elle ne la remplace. Des catalogues fiables et structurés deviennent un avantage concurrentiel essentiel pour le retail de demain.",
+      "url": "https://www.journaldunet.com/retail/1552813-l-ia-ne-remplacera-pas-les-catalogues-produits-elle-revelera-surtout-leurs-faiblesses/",
+      "source": "JDN",
+      "publishedAt": "2026-07-20T09:20:25Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "bof3sJ9P5Ss",
-      "thumbnail": "https://i.ytimg.com/vi/bof3sJ9P5Ss/hqdefault.jpg"
-    },
-    {
-      "title": "Claude IA : le tutoriel facile pour débutant",
-      "description": "Comment bien utiliser l'IA Claude en 2026 ? Claude Chat, Claude Cowork, Claude Code, Claude Design... Dans ce tutoriel ...",
-      "url": "https://www.youtube.com/watch?v=nHXND_R4Jy8",
-      "source": "Ludo Salenne",
-      "publishedAt": "2026-06-24T16:09:42Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "nHXND_R4Jy8",
-      "thumbnail": "https://i.ytimg.com/vi/nHXND_R4Jy8/hqdefault.jpg"
-    },
-    {
-      "title": "Claude Skills : Tout le monde peut ENFIN automatiser !",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4v7YD4h Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=y4AAFTlA6ak",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2026-05-24T15:00:28Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "y4AAFTlA6ak",
-      "thumbnail": "https://i.ytimg.com/vi/y4AAFTlA6ak/hqdefault.jpg"
-    },
-    {
-      "title": "L&#39;IA secrète qui fait tourner les algos de trading",
-      "description": "Tout le monde l'utilise, presque personne ne l'explique simplement : le modèle de machine learning qui domine les compétitions ...",
-      "url": "https://www.youtube.com/watch?v=oWbNY3pUBMA",
-      "source": "AlgoBacktest",
-      "publishedAt": "2026-05-28T17:00:13Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "oWbNY3pUBMA",
-      "thumbnail": "https://i.ytimg.com/vi/oWbNY3pUBMA/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
@@ -194,6 +194,30 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
+      "title": "Context Engineering RH : quand la donnée remplace le prompt",
+      "description": "Le Context Engineering transforme l'IA RH en remplaçant la quête du prompt parfait par l'ingénierie rigoureuse des données métier, garantissant fiabilité, conformité et traçabilité des décisions.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1552823-context-engineering-rh-quand-la-donnee-remplace-le-prompt/",
+      "source": "JDN",
+      "publishedAt": "2026-07-20T09:19:21Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "World models : l'IA ne comprendra pas le monde tant que ses données resteront incompréhensibles",
+      "description": "L'avenir de l'IA repose sur des données structurées. Les graphes de connaissances apportent le contexte nécessaire pour produire des résultats fiables et explicables.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1552811-world-models-l-ia-ne-comprendra-pas-le-monde-tant-que-ses-donnees-resteront-incomprehensibles/",
+      "source": "JDN",
+      "publishedAt": "2026-07-20T09:20:55Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
       "description": "Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...",
       "url": "https://www.youtube.com/watch?v=OKS6wtA2lAA",
@@ -206,40 +230,16 @@
       "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
     },
     {
-      "title": "Les centres de données spatiaux posent aussi des risques écologiques. Qu’en dit le droit ?",
-      "description": "Un regard juridique sur les centres de données spatiaux, qui ne règlent pas tous les problèmes environnementaux de leurs équivalents terrestres… et en génèrent des nouveaux.",
-      "url": "https://theconversation.com/les-centres-de-donnees-spatiaux-posent-aussi-des-risques-ecologiques-quen-dit-le-droit-286490",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-07-19T09:21:07Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "\"Ni juste ni équitable\" : l'Argentine a-t-elle été favorisée par l'arbitrage pendant la Coupe du monde ?",
-      "description": "Plusieurs décisions arbitrales au fil de ce Mondial 2026 ont semblé profiter à Lionel Messi et ses coéquipiers. Sur les réseaux sociaux, certains internautes accusent même la Fifa de favoriser les Arg...",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/ni-juste-ni-equitable-l-argentine-a-t-elle-ete-favorisee-par-l-arbitrage-pendant-la-coupe-du-monde_8111363.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-07-19T04:38:29Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comment créer une base de données avec le langage SQL ?",
-      "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
-      "url": "https://www.youtube.com/watch?v=19JD2vconJ0",
-      "source": "OpenClassrooms en Français",
-      "publishedAt": "2026-07-01T04:00:13Z",
+      "title": "excelisfun Boomerangs Back to YouTube: Make More Excel &amp; Power BI Videos &amp; Classes in 2026 &amp; Beyond!",
+      "description": "As many of you know, I've had many family responsibilities over the last few years that required a lot of my time. Because of that, I ...",
+      "url": "https://www.youtube.com/watch?v=4N-i4KaA56U",
+      "source": "excelisfun",
+      "publishedAt": "2026-07-20T14:11:16Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "19JD2vconJ0",
-      "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
+      "videoId": "4N-i4KaA56U",
+      "thumbnail": "https://i.ytimg.com/vi/4N-i4KaA56U/hqdefault.jpg"
     },
     {
       "title": "Computer Vision - De la Théorie au Code en 1H",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "Meta prépare ses propres puces IA pour moins dépendre de Nvidia",
-      "description": "Meta voudrait lancer dès septembre la fabrication d’une nouvelle puce conçue pour ses besoins en intelligence artificielle. Une manière de réduire ses coûts, mais aussi d’éviter de dépendre entièremen...",
-      "url": "https://www.journaldugeek.com/2026/07/18/meta-prepare-ses-propres-puces-ia-pour-moins-dependre-de-nvidia/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-07-18T15:03:54Z",
+      "title": "Apple aurait recruté des employés de Qwen (Alibaba) pour Siri AI",
+      "description": "Apple pourrait avoir renforcé discrètement ses équipes d’intelligence artificielle avec des profils venus de Qwen, la famille de modèles développée par Alibaba. L’information vient de Robert Scoble, a...",
+      "url": "https://iphoneaddict.fr/post/news-432056-apple-aurait-recrute-employes-qwen-alibaba-siri-ai",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-07-20T08:55:41Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Les carnets de Jean-Claude Heudin : l’IA est-elle un nouveau moyen de domination ?",
-      "description": "Intelligence artificielle générale, superintelligence, singularité technologique… Pourquoi les milliardaires investissent-ils massivement dans l’IA, alors qu’ils ont déjà tout ou presque ?",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-carnets-jean-claude-heudin-ia-elle-nouveau-moyen-domination-136324/",
-      "source": "Futura",
-      "publishedAt": "2026-07-19T10:15:00Z",
+      "title": "Apple aurait recruté une partie de l’équipe historique de Qwen",
+      "description": "Apple a-t-elle récupérée l'équipe derrière le grand modèle de langage chinois Qwen ? C'est ce qu'affirme Robert Scoble, analyste spécialisé dans l'IA et ancien cadre chez Microsoft. Selon lui, Apple a...",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/07/apple-aurait-recrute-une-partie-de-lequipe-historique-de-qwen-309857",
+      "source": "MacGeneration",
+      "publishedAt": "2026-07-20T07:56:10Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Intelligence artificielle : pourquoi il ne faut pas avoir peur du prix des \"tokens\"",
-      "description": "La valeur des jetons produits par les grands modèles d'IA ne s'envole pas. Au sein de la filière, une déflation est même à l'œuvre, masquée par une accélération des usages.",
-      "url": "https://www.lexpress.fr/economie/high-tech/intelligence-artificielle-pourquoi-il-ne-faut-pas-avoir-peur-du-prix-des-tokens-OVPOIR3AYJGLVFEVFHO5PQHH6I/",
-      "source": "L'Express",
-      "publishedAt": "2026-07-19T09:42:24Z",
+      "title": "Vinabot AI Talking Frame : le cadre photo qui change de dimension et donne une voix aux souvenirs",
+      "description": "Vinabot lance officiellement son cadre photo intelligent capable de faire parler n'importe quel visage. Déclinés en deux tailles, ces écrans mêlent affichage premium et intelligence artificielle conve...",
+      "url": "https://www.frandroid.com/produits-android/photo/3185375_vinabot-ai-talking-frame-le-cadre-photo-qui-change-de-dimension-et-donne-une-voix-aux-souvenirs",
+      "source": "Frandroid",
+      "publishedAt": "2026-07-20T10:23:03Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Actualité : Sonars IoT : ces bouées intelligentes repèrent les requins avant qu'ils n'approchent",
-      "description": "De nouvelles bouées intelligentes équipées de sonars scrutent en permanence les eaux de baignade. En analysant la façon de nager de chaque animal, leur intelligence artificielle distingue un requin d'...",
-      "url": "https://www.lesnumeriques.com/sante-sport/sonars-iot-ces-bouees-intelligentes-reperent-les-requins-avant-qu-ils-n-approchent-n259244.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-07-18T20:45:00Z",
+      "title": "Pourquoi les entreprises ne peuvent plus se permettre de déployer des agents IA à l'aveugle",
+      "description": "Les agents IA promettent de transformer la relation client, mais leur mise en production soulève encore de nombreuses questions.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1552797-pourquoi-les-entreprises-ne-peuvent-plus-se-permettre-de-deployer-des-agents-ia-a-l-aveugle/",
+      "source": "JDN",
+      "publishedAt": "2026-07-20T09:22:22Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 20 Jul 2026 10:56:33 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 10:27:29 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,28 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Pourquoi une quarantaine de salariés d'OpenAI sont visés par des courriers juridiques d'Apple</title>
-            <link>https://www.lexpress.fr/economie/high-tech/pourquoi-une-quarantaine-de-salaries-dopenai-sont-vises-par-des-courriers-juridiques-dapple-BZQ5V2XKIJCXLGCUHGJE3YJZKQ/</link>
-            <description><![CDATA[Selon le "Financial Times", Apple a adressé des avertissements juridiques à des dizaines d'anciens employés d'OpenAI ayant travaillé pour l'entreprise, dans le cadre de sa recherche de preuves étayant...]]></description>
-            <pubDate>Sun, 19 Jul 2026 09:33:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lexpress.fr/economie/high-tech/pourquoi-une-quarantaine-de-salaries-dopenai-sont-vises-par-des-courriers-juridiques-dapple-BZQ5V2XKIJCXLGCUHGJE3YJZKQ/</guid>
-            <source>L'Express</source>
+            <title>NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)</title>
+            <link>https://www.youtube.com/watch?v=0EsKXRhOYxM</link>
+            <description><![CDATA[Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...]]></description>
+            <pubDate>Mon, 22 Jun 2026 15:04:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=0EsKXRhOYxM</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>NLP – Catégorisation multiclasse avec TabICL (TabICLv2 / Python)</title>
+            <link>https://www.youtube.com/watch?v=pWDFTIJiYMU</link>
+            <description><![CDATA[Machine learning. Data science. NLP (natural language processing). TabICL (tabular in-context learning) est une technologie de ...]]></description>
+            <pubDate>Tue, 07 Jul 2026 08:57:32 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=pWDFTIJiYMU</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)</title>
+            <link>https://www.youtube.com/watch?v=3J5VPpX2Jww</link>
+            <description><![CDATA[Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...]]></description>
+            <pubDate>Wed, 24 Jun 2026 14:33:27 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=3J5VPpX2Jww</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
@@ -27,6 +43,14 @@
             <pubDate>Mon, 25 May 2026 13:45:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=mdsnXx_tBEs</guid>
             <source>IA Futura</source>
+        </item>
+        <item>
+            <title>Comment ChatGPT sait ce que les mots veulent dire (Embeddings)</title>
+            <link>https://www.youtube.com/watch?v=ktL8oV26XYg</link>
+            <description><![CDATA[Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...]]></description>
+            <pubDate>Thu, 18 Jun 2026 08:01:19 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ktL8oV26XYg</guid>
+            <source>How AI Works?</source>
         </item>
         <item>
             <title>Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp;amp; Claude Cowork</title>
@@ -53,44 +77,32 @@
             <source>Seif BOUGUERRA</source>
         </item>
         <item>
-            <title>Comment J’apprendrais l’IA en 2026 (si je devais recommencer)</title>
-            <link>https://www.youtube.com/watch?v=1eOQtGqgeyU</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4fRlc8U Rejoins ma communauté ...]]></description>
-            <pubDate>Mon, 01 Jun 2026 15:00:04 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1eOQtGqgeyU</guid>
-            <source>Yassine Sdiri</source>
+            <title>BMASS - Bootez direct votre PC sur une IA locale</title>
+            <link>https://korben.info/bmass-boot-usb-modele-ia-local.html</link>
+            <description><![CDATA[Balaji Bikshandi avait un rêve ! Il voulait booter sa machine directement sur un LLM sans avoir à passer par le moindre environnement de bureau ! Et il y est parvenu avec son outil 
+
+
+
+
+
+
+
+
+
+ 
+ BMASS
+...]]></description>
+            <pubDate>Mon, 20 Jul 2026 10:20:42 -0000</pubDate>
+            <guid isPermaLink="true">https://korben.info/bmass-boot-usb-modele-ia-local.html</guid>
+            <source>Korben.info</source>
         </item>
         <item>
-            <title>Chaque IA Expliquée en 19 Minutes</title>
-            <link>https://www.youtube.com/watch?v=bof3sJ9P5Ss</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4oIKXLh Rejoins ma communauté ...]]></description>
-            <pubDate>Sun, 21 Jun 2026 15:00:12 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=bof3sJ9P5Ss</guid>
-            <source>Yassine Sdiri</source>
-        </item>
-        <item>
-            <title>Claude IA : le tutoriel facile pour débutant</title>
-            <link>https://www.youtube.com/watch?v=nHXND_R4Jy8</link>
-            <description><![CDATA[Comment bien utiliser l'IA Claude en 2026 ? Claude Chat, Claude Cowork, Claude Code, Claude Design... Dans ce tutoriel ...]]></description>
-            <pubDate>Wed, 24 Jun 2026 16:09:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=nHXND_R4Jy8</guid>
-            <source>Ludo Salenne</source>
-        </item>
-        <item>
-            <title>Claude Skills : Tout le monde peut ENFIN automatiser !</title>
-            <link>https://www.youtube.com/watch?v=y4AAFTlA6ak</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4v7YD4h Rejoins ma communauté ...]]></description>
-            <pubDate>Sun, 24 May 2026 15:00:28 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=y4AAFTlA6ak</guid>
-            <source>Yassine Sdiri</source>
-        </item>
-        <item>
-            <title>L&amp;#39;IA secrète qui fait tourner les algos de trading</title>
-            <link>https://www.youtube.com/watch?v=oWbNY3pUBMA</link>
-            <description><![CDATA[Tout le monde l'utilise, presque personne ne l'explique simplement : le modèle de machine learning qui domine les compétitions ...]]></description>
-            <pubDate>Thu, 28 May 2026 17:00:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=oWbNY3pUBMA</guid>
-            <source>AlgoBacktest</source>
+            <title>L'IA ne remplacera pas les catalogues produits, elle révélera surtout leurs faiblesses</title>
+            <link>https://www.journaldunet.com/retail/1552813-l-ia-ne-remplacera-pas-les-catalogues-produits-elle-revelera-surtout-leurs-faiblesses/</link>
+            <description><![CDATA[L'IA révèle la qualité des données produits plus qu'elle ne la remplace. Des catalogues fiables et structurés deviennent un avantage concurrentiel essentiel pour le retail de demain.]]></description>
+            <pubDate>Mon, 20 Jul 2026 09:20:25 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/retail/1552813-l-ia-ne-remplacera-pas-les-catalogues-produits-elle-revelera-surtout-leurs-faiblesses/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>NumPy &amp;amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes</title>
@@ -141,6 +153,22 @@
             <source>Mikail Altundas</source>
         </item>
         <item>
+            <title>Context Engineering RH : quand la donnée remplace le prompt</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1552823-context-engineering-rh-quand-la-donnee-remplace-le-prompt/</link>
+            <description><![CDATA[Le Context Engineering transforme l'IA RH en remplaçant la quête du prompt parfait par l'ingénierie rigoureuse des données métier, garantissant fiabilité, conformité et traçabilité des décisions.]]></description>
+            <pubDate>Mon, 20 Jul 2026 09:19:21 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1552823-context-engineering-rh-quand-la-donnee-remplace-le-prompt/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
+            <title>World models : l'IA ne comprendra pas le monde tant que ses données resteront incompréhensibles</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1552811-world-models-l-ia-ne-comprendra-pas-le-monde-tant-que-ses-donnees-resteront-incomprehensibles/</link>
+            <description><![CDATA[L'avenir de l'IA repose sur des données structurées. Les graphes de connaissances apportent le contexte nécessaire pour produire des résultats fiables et explicables.]]></description>
+            <pubDate>Mon, 20 Jul 2026 09:20:55 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1552811-world-models-l-ia-ne-comprendra-pas-le-monde-tant-que-ses-donnees-resteront-incomprehensibles/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
             <title>Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas</title>
             <link>https://www.youtube.com/watch?v=OKS6wtA2lAA</link>
             <description><![CDATA[Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...]]></description>
@@ -149,28 +177,12 @@
             <source>OUJOOD</source>
         </item>
         <item>
-            <title>Les centres de données spatiaux posent aussi des risques écologiques. Qu’en dit le droit ?</title>
-            <link>https://theconversation.com/les-centres-de-donnees-spatiaux-posent-aussi-des-risques-ecologiques-quen-dit-le-droit-286490</link>
-            <description><![CDATA[Un regard juridique sur les centres de données spatiaux, qui ne règlent pas tous les problèmes environnementaux de leurs équivalents terrestres… et en génèrent des nouveaux.]]></description>
-            <pubDate>Sun, 19 Jul 2026 09:21:07 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/les-centres-de-donnees-spatiaux-posent-aussi-des-risques-ecologiques-quen-dit-le-droit-286490</guid>
-            <source>The Conversation Africa</source>
-        </item>
-        <item>
-            <title>"Ni juste ni équitable" : l'Argentine a-t-elle été favorisée par l'arbitrage pendant la Coupe du monde ?</title>
-            <link>https://www.franceinfo.fr/coupe-du-monde/ni-juste-ni-equitable-l-argentine-a-t-elle-ete-favorisee-par-l-arbitrage-pendant-la-coupe-du-monde_8111363.html</link>
-            <description><![CDATA[Plusieurs décisions arbitrales au fil de ce Mondial 2026 ont semblé profiter à Lionel Messi et ses coéquipiers. Sur les réseaux sociaux, certains internautes accusent même la Fifa de favoriser les Arg...]]></description>
-            <pubDate>Sun, 19 Jul 2026 04:38:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/coupe-du-monde/ni-juste-ni-equitable-l-argentine-a-t-elle-ete-favorisee-par-l-arbitrage-pendant-la-coupe-du-monde_8111363.html</guid>
-            <source>Franceinfo.fr</source>
-        </item>
-        <item>
-            <title>Comment créer une base de données avec le langage SQL ?</title>
-            <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
-            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
-            <pubDate>Wed, 01 Jul 2026 04:00:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=19JD2vconJ0</guid>
-            <source>OpenClassrooms en Français</source>
+            <title>excelisfun Boomerangs Back to YouTube: Make More Excel &amp;amp; Power BI Videos &amp;amp; Classes in 2026 &amp;amp; Beyond!</title>
+            <link>https://www.youtube.com/watch?v=4N-i4KaA56U</link>
+            <description><![CDATA[As many of you know, I've had many family responsibilities over the last few years that required a lot of my time. Because of that, I ...]]></description>
+            <pubDate>Mon, 20 Jul 2026 14:11:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=4N-i4KaA56U</guid>
+            <source>excelisfun</source>
         </item>
     </channel>
 </rss>
