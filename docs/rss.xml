@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 21 Jul 2026 10:27:29 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 10:28:56 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,20 +21,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>NLP – Catégorisation multiclasse avec TabICL (TabICLv2 / Python)</title>
-            <link>https://www.youtube.com/watch?v=pWDFTIJiYMU</link>
-            <description><![CDATA[Machine learning. Data science. NLP (natural language processing). TabICL (tabular in-context learning) est une technologie de ...]]></description>
-            <pubDate>Tue, 07 Jul 2026 08:57:32 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=pWDFTIJiYMU</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)</title>
-            <link>https://www.youtube.com/watch?v=3J5VPpX2Jww</link>
-            <description><![CDATA[Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...]]></description>
-            <pubDate>Wed, 24 Jun 2026 14:33:27 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=3J5VPpX2Jww</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>Leçon 4 - Fonction de coût - Cours Complet de Deep Learning</title>
+            <link>https://www.youtube.com/watch?v=yeXdRiD84ro</link>
+            <description><![CDATA[Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...]]></description>
+            <pubDate>Wed, 15 Jul 2026 16:12:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=yeXdRiD84ro</guid>
+            <source>Rafa Explique</source>
         </item>
         <item>
             <title>Formation complète DATA &amp;amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)</title>
@@ -43,6 +35,14 @@
             <pubDate>Mon, 25 May 2026 13:45:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=mdsnXx_tBEs</guid>
             <source>IA Futura</source>
+        </item>
+        <item>
+            <title>Distribution agroalimentaire : l'intelligence artificielle, le nouvel avantage concurrentiel des PME</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1552859-distribution-agroalimentaire-l-intelligence-artificielle-le-nouvel-avantage-concurrentiel-des-pme/</link>
+            <description><![CDATA[Dans quelques années, travailler sans intelligence artificielle paraîtra probablement aussi anachronique que gérer aujourd'hui une entreprise sans messagerie électronique ou sans logiciel de gestion.]]></description>
+            <pubDate>Tue, 21 Jul 2026 07:21:21 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1552859-distribution-agroalimentaire-l-intelligence-artificielle-le-nouvel-avantage-concurrentiel-des-pme/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Comment ChatGPT sait ce que les mots veulent dire (Embeddings)</title>
@@ -69,6 +69,14 @@
             <source>lioncode</source>
         </item>
         <item>
+            <title>Comment préparer vos enfants à grandir avec l’intelligence artificielle ?</title>
+            <link>https://www.presse-citron.net/comment-preparer-enfants-grandir-lintelligence-artificielle/</link>
+            <description><![CDATA[Après nous être échinés, et parfois arraché les cheveux, à éloigner nos jeunes bambins des écrans, les voilà confrontés à une toute autre réalité. Au contact de l'IA, des algorithmes complexes, mais d...]]></description>
+            <pubDate>Mon, 20 Jul 2026 12:02:38 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/comment-preparer-enfants-grandir-lintelligence-artificielle/</guid>
+            <source>Presse-citron</source>
+        </item>
+        <item>
             <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
             <link>https://www.youtube.com/watch?v=IanWrDWQy0s</link>
             <description><![CDATA[Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...]]></description>
@@ -77,32 +85,20 @@
             <source>Seif BOUGUERRA</source>
         </item>
         <item>
-            <title>BMASS - Bootez direct votre PC sur une IA locale</title>
-            <link>https://korben.info/bmass-boot-usb-modele-ia-local.html</link>
-            <description><![CDATA[Balaji Bikshandi avait un rêve ! Il voulait booter sa machine directement sur un LLM sans avoir à passer par le moindre environnement de bureau ! Et il y est parvenu avec son outil 
-
-
-
-
-
-
-
-
-
- 
- BMASS
-...]]></description>
-            <pubDate>Mon, 20 Jul 2026 10:20:42 -0000</pubDate>
-            <guid isPermaLink="true">https://korben.info/bmass-boot-usb-modele-ia-local.html</guid>
-            <source>Korben.info</source>
+            <title>Gboard va bientôt traduire la langue des signes</title>
+            <link>https://www.frandroid.com/android/applications/google-apps/3186601_gboard-va-bientot-traduire-la-langue-des-signes</link>
+            <description><![CDATA[Google développe une nouvelle fonctionnalité pour son clavier Gboard permettant de convertir la langue des signes en texte grâce à l'intelligence artificielle et à la caméra frontale du smartphone.]]></description>
+            <pubDate>Tue, 21 Jul 2026 08:35:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/android/applications/google-apps/3186601_gboard-va-bientot-traduire-la-langue-des-signes</guid>
+            <source>Frandroid</source>
         </item>
         <item>
-            <title>L'IA ne remplacera pas les catalogues produits, elle révélera surtout leurs faiblesses</title>
-            <link>https://www.journaldunet.com/retail/1552813-l-ia-ne-remplacera-pas-les-catalogues-produits-elle-revelera-surtout-leurs-faiblesses/</link>
-            <description><![CDATA[L'IA révèle la qualité des données produits plus qu'elle ne la remplace. Des catalogues fiables et structurés deviennent un avantage concurrentiel essentiel pour le retail de demain.]]></description>
-            <pubDate>Mon, 20 Jul 2026 09:20:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/retail/1552813-l-ia-ne-remplacera-pas-les-catalogues-produits-elle-revelera-surtout-leurs-faiblesses/</guid>
-            <source>JDN</source>
+            <title>Formation Power BI Desktop Complète | Dashboard Professionnel en 1H30 – Power BI #12</title>
+            <link>https://www.youtube.com/watch?v=-sqQb0OViwg</link>
+            <description><![CDATA[Bonjour à toutes et à tous, J'espère que vous allez très bien. Dans cette formation complète Power BI Desktop, vous allez ...]]></description>
+            <pubDate>Tue, 26 May 2026 16:00:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=-sqQb0OViwg</guid>
+            <source>Martinien Adda</source>
         </item>
         <item>
             <title>NumPy &amp;amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes</title>
@@ -129,14 +125,6 @@
             <source>Ceemtic Analytics</source>
         </item>
         <item>
-            <title>Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)</title>
-            <link>https://www.youtube.com/watch?v=2A5rNESVS9w</link>
-            <description><![CDATA[Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...]]></description>
-            <pubDate>Sun, 14 Jun 2026 14:37:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2A5rNESVS9w</guid>
-            <source>AMVOULA Naïsia </source>
-        </item>
-        <item>
             <title>Créer un Dashboard Power BI | Tuto complet de A à Z</title>
             <link>https://www.youtube.com/watch?v=PoJBFjMf88g</link>
             <description><![CDATA[Dans cette vidéo, tu vas apprendre toutes les étapes de conception d'un dashboard de A à Z sur l'outil Power BI. ​ Rejoins le ...]]></description>
@@ -161,28 +149,28 @@
             <source>JDN</source>
         </item>
         <item>
-            <title>World models : l'IA ne comprendra pas le monde tant que ses données resteront incompréhensibles</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1552811-world-models-l-ia-ne-comprendra-pas-le-monde-tant-que-ses-donnees-resteront-incomprehensibles/</link>
-            <description><![CDATA[L'avenir de l'IA repose sur des données structurées. Les graphes de connaissances apportent le contexte nécessaire pour produire des résultats fiables et explicables.]]></description>
-            <pubDate>Mon, 20 Jul 2026 09:20:55 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1552811-world-models-l-ia-ne-comprendra-pas-le-monde-tant-que-ses-donnees-resteront-incomprehensibles/</guid>
-            <source>JDN</source>
+            <title>Découvrez notre formation sur Power BI #data #powerbi</title>
+            <link>https://www.youtube.com/watch?v=5XRR3C0nQLg</link>
+            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
+            <pubDate>Tue, 21 Jul 2026 05:30:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=5XRR3C0nQLg</guid>
+            <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas</title>
-            <link>https://www.youtube.com/watch?v=OKS6wtA2lAA</link>
-            <description><![CDATA[Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...]]></description>
-            <pubDate>Wed, 03 Jun 2026 12:13:50 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=OKS6wtA2lAA</guid>
-            <source>OUJOOD</source>
+            <title>PC, mobile, téléchargements : Bitdefender réduit le prix de sa suite</title>
+            <link>https://www.futura-sciences.com/conso/bons-plans/guides-tech-pc-mobile-telechargements-bitdefender-reduit-prix-suite-10762/</link>
+            <description><![CDATA[Bitdefender Total Security profite actuellement d’une remise de 50 % pour protéger plusieurs appareils contre les menaces en ligne, avec antivirus, confidentialité et outils avancés.]]></description>
+            <pubDate>Tue, 21 Jul 2026 09:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/conso/bons-plans/guides-tech-pc-mobile-telechargements-bitdefender-reduit-prix-suite-10762/</guid>
+            <source>Futura</source>
         </item>
         <item>
-            <title>excelisfun Boomerangs Back to YouTube: Make More Excel &amp;amp; Power BI Videos &amp;amp; Classes in 2026 &amp;amp; Beyond!</title>
-            <link>https://www.youtube.com/watch?v=4N-i4KaA56U</link>
-            <description><![CDATA[As many of you know, I've had many family responsibilities over the last few years that required a lot of my time. Because of that, I ...]]></description>
-            <pubDate>Mon, 20 Jul 2026 14:11:16 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=4N-i4KaA56U</guid>
-            <source>excelisfun</source>
+            <title>Comment créer une base de données avec le langage SQL ?</title>
+            <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
+            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
+            <pubDate>Wed, 01 Jul 2026 04:00:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=19JD2vconJ0</guid>
+            <source>OpenClassrooms en Français</source>
         </item>
     </channel>
 </rss>
