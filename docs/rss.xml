@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 22 Jul 2026 10:28:56 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 10:26:47 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -19,6 +19,14 @@
             <pubDate>Mon, 22 Jun 2026 15:04:54 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=0EsKXRhOYxM</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>"Trouver un moyen d'obtenir un accès libre à internet" : des agents IA d'OpenAI piratent de façon autonome une bibliothèque de code en ligne</title>
+            <link>https://www.franceinfo.fr/internet/intelligence-artificielle/un-cyberincident-sans-precedent-des-agents-ia-d-openai-piratent-de-facon-autonome-une-bibliotheque-de-code-en-ligne_8117705.html</link>
+            <description><![CDATA[Le créateur de ChatGPT testait des modèles d'intelligence artificielle en environnement fermé quant ils sont parvenus à s'évader en trouvant un accès à internet. Pour résoudre l'équation qui leur étai...]]></description>
+            <pubDate>Wed, 22 Jul 2026 10:21:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/internet/intelligence-artificielle/un-cyberincident-sans-precedent-des-agents-ia-d-openai-piratent-de-facon-autonome-une-bibliotheque-de-code-en-ligne_8117705.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
         <item>
             <title>Leçon 4 - Fonction de coût - Cours Complet de Deep Learning</title>
@@ -35,14 +43,6 @@
             <pubDate>Mon, 25 May 2026 13:45:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=mdsnXx_tBEs</guid>
             <source>IA Futura</source>
-        </item>
-        <item>
-            <title>Distribution agroalimentaire : l'intelligence artificielle, le nouvel avantage concurrentiel des PME</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1552859-distribution-agroalimentaire-l-intelligence-artificielle-le-nouvel-avantage-concurrentiel-des-pme/</link>
-            <description><![CDATA[Dans quelques années, travailler sans intelligence artificielle paraîtra probablement aussi anachronique que gérer aujourd'hui une entreprise sans messagerie électronique ou sans logiciel de gestion.]]></description>
-            <pubDate>Tue, 21 Jul 2026 07:21:21 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1552859-distribution-agroalimentaire-l-intelligence-artificielle-le-nouvel-avantage-concurrentiel-des-pme/</guid>
-            <source>JDN</source>
         </item>
         <item>
             <title>Comment ChatGPT sait ce que les mots veulent dire (Embeddings)</title>
@@ -69,14 +69,6 @@
             <source>lioncode</source>
         </item>
         <item>
-            <title>Comment préparer vos enfants à grandir avec l’intelligence artificielle ?</title>
-            <link>https://www.presse-citron.net/comment-preparer-enfants-grandir-lintelligence-artificielle/</link>
-            <description><![CDATA[Après nous être échinés, et parfois arraché les cheveux, à éloigner nos jeunes bambins des écrans, les voilà confrontés à une toute autre réalité. Au contact de l'IA, des algorithmes complexes, mais d...]]></description>
-            <pubDate>Mon, 20 Jul 2026 12:02:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/comment-preparer-enfants-grandir-lintelligence-artificielle/</guid>
-            <source>Presse-citron</source>
-        </item>
-        <item>
             <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
             <link>https://www.youtube.com/watch?v=IanWrDWQy0s</link>
             <description><![CDATA[Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...]]></description>
@@ -85,12 +77,20 @@
             <source>Seif BOUGUERRA</source>
         </item>
         <item>
-            <title>Gboard va bientôt traduire la langue des signes</title>
-            <link>https://www.frandroid.com/android/applications/google-apps/3186601_gboard-va-bientot-traduire-la-langue-des-signes</link>
-            <description><![CDATA[Google développe une nouvelle fonctionnalité pour son clavier Gboard permettant de convertir la langue des signes en texte grâce à l'intelligence artificielle et à la caméra frontale du smartphone.]]></description>
-            <pubDate>Tue, 21 Jul 2026 08:35:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/android/applications/google-apps/3186601_gboard-va-bientot-traduire-la-langue-des-signes</guid>
-            <source>Frandroid</source>
+            <title>Formation Complète STATA | Analyse de Données et Statistiques (Débutant à Avancé)</title>
+            <link>https://www.youtube.com/watch?v=DmHe7VdFfVo</link>
+            <description><![CDATA[Maîtrisez STATA grâce à cette formation complète en français ! Dans cette formation, vous apprendrez à utiliser STATA pour ...]]></description>
+            <pubDate>Tue, 21 Jul 2026 00:22:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=DmHe7VdFfVo</guid>
+            <source>Young Business School</source>
+        </item>
+        <item>
+            <title>Concevez la maison de vos rêves avec l&amp;#39;IA | Test et tutoriel de MeltFlex AI</title>
+            <link>https://www.youtube.com/watch?v=xI4W_2FNnAw</link>
+            <description><![CDATA[Concevez la maison de vos rêves avec l'IA | Test et tutoriel de MeltFlex AI L'intelligence artificielle peut-elle réellement vous aider ...]]></description>
+            <pubDate>Tue, 21 Jul 2026 15:52:55 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=xI4W_2FNnAw</guid>
+            <source>Chloé IA & Tech</source>
         </item>
         <item>
             <title>Formation Power BI Desktop Complète | Dashboard Professionnel en 1H30 – Power BI #12</title>
@@ -141,12 +141,12 @@
             <source>Mikail Altundas</source>
         </item>
         <item>
-            <title>Context Engineering RH : quand la donnée remplace le prompt</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1552823-context-engineering-rh-quand-la-donnee-remplace-le-prompt/</link>
-            <description><![CDATA[Le Context Engineering transforme l'IA RH en remplaçant la quête du prompt parfait par l'ingénierie rigoureuse des données métier, garantissant fiabilité, conformité et traçabilité des décisions.]]></description>
-            <pubDate>Mon, 20 Jul 2026 09:19:21 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1552823-context-engineering-rh-quand-la-donnee-remplace-le-prompt/</guid>
-            <source>JDN</source>
+            <title>Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas</title>
+            <link>https://www.youtube.com/watch?v=OKS6wtA2lAA</link>
+            <description><![CDATA[Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...]]></description>
+            <pubDate>Wed, 03 Jun 2026 12:13:50 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=OKS6wtA2lAA</guid>
+            <source>OUJOOD</source>
         </item>
         <item>
             <title>Découvrez notre formation sur Power BI #data #powerbi</title>
@@ -157,20 +157,20 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>PC, mobile, téléchargements : Bitdefender réduit le prix de sa suite</title>
-            <link>https://www.futura-sciences.com/conso/bons-plans/guides-tech-pc-mobile-telechargements-bitdefender-reduit-prix-suite-10762/</link>
-            <description><![CDATA[Bitdefender Total Security profite actuellement d’une remise de 50 % pour protéger plusieurs appareils contre les menaces en ligne, avec antivirus, confidentialité et outils avancés.]]></description>
-            <pubDate>Tue, 21 Jul 2026 09:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/conso/bons-plans/guides-tech-pc-mobile-telechargements-bitdefender-reduit-prix-suite-10762/</guid>
-            <source>Futura</source>
+            <title>DEMETRA ANNONCE UN PARTENARIAT STRATÉGIQUE AVEC MASMEC BIOMED</title>
+            <link>https://www.prnewswire.com/news-releases/demetra-annonce-un-partenariat-strategique-avec-masmec-biomed-302831925.html</link>
+            <description><![CDATA[Du leadership dans les technologies de chirurgie rachidienne à la création d'un écosystème européen d'innovation reposant sur l'IA, les données, la navigation et la robotique MILAN, 22 juillet 2026 /P...]]></description>
+            <pubDate>Wed, 22 Jul 2026 08:21:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/demetra-annonce-un-partenariat-strategique-avec-masmec-biomed-302831925.html</guid>
+            <source>PRNewswire</source>
         </item>
         <item>
-            <title>Comment créer une base de données avec le langage SQL ?</title>
-            <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
-            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
-            <pubDate>Wed, 01 Jul 2026 04:00:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=19JD2vconJ0</guid>
-            <source>OpenClassrooms en Français</source>
+            <title>Centres de données dans l’espace : ni écologiques, ni économes</title>
+            <link>https://theconversation.com/centres-de-donnees-dans-lespace-ni-ecologiques-ni-economes-286074</link>
+            <description><![CDATA[Envoyer des centres de données dans l’espace créé de nouveaux problèmes. Pour évacuer la chaleur qu’ils génèrent, il faudrait notamment des infrastructures spéciales et de grandes tailles.]]></description>
+            <pubDate>Wed, 22 Jul 2026 09:58:14 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/centres-de-donnees-dans-lespace-ni-ecologiques-ni-economes-286074</guid>
+            <source>The Conversation Africa</source>
         </item>
     </channel>
 </rss>

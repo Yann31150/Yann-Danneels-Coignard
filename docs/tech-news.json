@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-22T10:28:56.683022",
+  "lastUpdate": "2026-07-23T10:26:47.723781",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -12,6 +12,18 @@
       "isYouTube": true,
       "videoId": "0EsKXRhOYxM",
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
+    },
+    {
+      "title": "\"Trouver un moyen d'obtenir un accès libre à internet\" : des agents IA d'OpenAI piratent de façon autonome une bibliothèque de code en ligne",
+      "description": "Le créateur de ChatGPT testait des modèles d'intelligence artificielle en environnement fermé quant ils sont parvenus à s'évader en trouvant un accès à internet. Pour résoudre l'équation qui leur étai...",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/un-cyberincident-sans-precedent-des-agents-ia-d-openai-piratent-de-facon-autonome-une-bibliotheque-de-code-en-ligne_8117705.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-07-22T10:21:33Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Leçon 4 - Fonction de coût - Cours Complet de Deep Learning",
@@ -36,18 +48,6 @@
       "isYouTube": true,
       "videoId": "mdsnXx_tBEs",
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
-    },
-    {
-      "title": "Distribution agroalimentaire : l'intelligence artificielle, le nouvel avantage concurrentiel des PME",
-      "description": "Dans quelques années, travailler sans intelligence artificielle paraîtra probablement aussi anachronique que gérer aujourd'hui une entreprise sans messagerie électronique ou sans logiciel de gestion.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1552859-distribution-agroalimentaire-l-intelligence-artificielle-le-nouvel-avantage-concurrentiel-des-pme/",
-      "source": "JDN",
-      "publishedAt": "2026-07-21T07:21:21Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Comment ChatGPT sait ce que les mots veulent dire (Embeddings)",
@@ -86,18 +86,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
     },
     {
-      "title": "Comment préparer vos enfants à grandir avec l’intelligence artificielle ?",
-      "description": "Après nous être échinés, et parfois arraché les cheveux, à éloigner nos jeunes bambins des écrans, les voilà confrontés à une toute autre réalité. Au contact de l'IA, des algorithmes complexes, mais d...",
-      "url": "https://www.presse-citron.net/comment-preparer-enfants-grandir-lintelligence-artificielle/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-07-20T12:02:38Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
       "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
       "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
@@ -110,16 +98,28 @@
       "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
     },
     {
-      "title": "Gboard va bientôt traduire la langue des signes",
-      "description": "Google développe une nouvelle fonctionnalité pour son clavier Gboard permettant de convertir la langue des signes en texte grâce à l'intelligence artificielle et à la caméra frontale du smartphone.",
-      "url": "https://www.frandroid.com/android/applications/google-apps/3186601_gboard-va-bientot-traduire-la-langue-des-signes",
-      "source": "Frandroid",
-      "publishedAt": "2026-07-21T08:35:00Z",
+      "title": "Formation Complète STATA | Analyse de Données et Statistiques (Débutant à Avancé)",
+      "description": "Maîtrisez STATA grâce à cette formation complète en français ! Dans cette formation, vous apprendrez à utiliser STATA pour ...",
+      "url": "https://www.youtube.com/watch?v=DmHe7VdFfVo",
+      "source": "Young Business School",
+      "publishedAt": "2026-07-21T00:22:01Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "DmHe7VdFfVo",
+      "thumbnail": "https://i.ytimg.com/vi/DmHe7VdFfVo/hqdefault.jpg"
+    },
+    {
+      "title": "Concevez la maison de vos rêves avec l&#39;IA | Test et tutoriel de MeltFlex AI",
+      "description": "Concevez la maison de vos rêves avec l'IA | Test et tutoriel de MeltFlex AI L'intelligence artificielle peut-elle réellement vous aider ...",
+      "url": "https://www.youtube.com/watch?v=xI4W_2FNnAw",
+      "source": "Chloé IA & Tech",
+      "publishedAt": "2026-07-21T15:52:55Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "xI4W_2FNnAw",
+      "thumbnail": "https://i.ytimg.com/vi/xI4W_2FNnAw/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI Desktop Complète | Dashboard Professionnel en 1H30 – Power BI #12",
@@ -194,16 +194,16 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
-      "title": "Context Engineering RH : quand la donnée remplace le prompt",
-      "description": "Le Context Engineering transforme l'IA RH en remplaçant la quête du prompt parfait par l'ingénierie rigoureuse des données métier, garantissant fiabilité, conformité et traçabilité des décisions.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1552823-context-engineering-rh-quand-la-donnee-remplace-le-prompt/",
-      "source": "JDN",
-      "publishedAt": "2026-07-20T09:19:21Z",
+      "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
+      "description": "Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...",
+      "url": "https://www.youtube.com/watch?v=OKS6wtA2lAA",
+      "source": "OUJOOD",
+      "publishedAt": "2026-06-03T12:13:50Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "OKS6wtA2lAA",
+      "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
     },
     {
       "title": "Découvrez notre formation sur Power BI #data #powerbi",
@@ -218,11 +218,11 @@
       "thumbnail": "https://i.ytimg.com/vi/5XRR3C0nQLg/hqdefault.jpg"
     },
     {
-      "title": "PC, mobile, téléchargements : Bitdefender réduit le prix de sa suite",
-      "description": "Bitdefender Total Security profite actuellement d’une remise de 50 % pour protéger plusieurs appareils contre les menaces en ligne, avec antivirus, confidentialité et outils avancés.",
-      "url": "https://www.futura-sciences.com/conso/bons-plans/guides-tech-pc-mobile-telechargements-bitdefender-reduit-prix-suite-10762/",
-      "source": "Futura",
-      "publishedAt": "2026-07-21T09:00:00Z",
+      "title": "DEMETRA ANNONCE UN PARTENARIAT STRATÉGIQUE AVEC MASMEC BIOMED",
+      "description": "Du leadership dans les technologies de chirurgie rachidienne à la création d'un écosystème européen d'innovation reposant sur l'IA, les données, la navigation et la robotique MILAN, 22 juillet 2026 /P...",
+      "url": "https://www.prnewswire.com/news-releases/demetra-annonce-un-partenariat-strategique-avec-masmec-biomed-302831925.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-07-22T08:21:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,16 +230,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Comment créer une base de données avec le langage SQL ?",
-      "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
-      "url": "https://www.youtube.com/watch?v=19JD2vconJ0",
-      "source": "OpenClassrooms en Français",
-      "publishedAt": "2026-07-01T04:00:13Z",
+      "title": "Centres de données dans l’espace : ni écologiques, ni économes",
+      "description": "Envoyer des centres de données dans l’espace créé de nouveaux problèmes. Pour évacuer la chaleur qu’ils génèrent, il faudrait notamment des infrastructures spéciales et de grandes tailles.",
+      "url": "https://theconversation.com/centres-de-donnees-dans-lespace-ni-ecologiques-ni-economes-286074",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-07-22T09:58:14Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "19JD2vconJ0",
-      "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Computer Vision - De la Théorie au Code en 1H",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "Washington envisage de durcir les sanctions contre l’IA chinoise et cible les modèles open source",
-      "description": "Les États-Unis pourraient renforcer leurs restrictions visant les technologies d’intelligence artificielle chinoises. Selon Axios, l’administration Trump étudie plusieurs pistes, dont une limitation d...",
-      "url": "https://www.zdnet.fr/actualites/washington-envisage-de-durcir-les-sanctions-contre-lia-chinoise-et-cible-les-modeles-open-source-498833.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-07-21T07:53:27Z",
+      "title": "Hollywood ouvre la porte à l'IA mais dit vouloir conserver son ADN",
+      "description": "Une meilleure maîtrise de la technologie et des gains économiques expliquent le recours à l'intelligence artificielle dans un secteur qui s'était montré jusqu'ici assez réticent.",
+      "url": "https://www.franceinfo.fr/culture/cinema/hollywood-ouvre-la-porte-a-l-ia-mais-dit-vouloir-conserver-son-adn_8117684.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-07-22T10:11:27Z",
       "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Les smartphones Android à moins de 300 euros vont beaucoup changer : voici la nouveauté qui rendra ces appareils encore plus intéressants",
-      "description": "Qualcomm pourrait lancer un nouveau processeur pour smartphones abordables qui est capable de traiter certaines tâches liées à l’intelligence artificielle localement. Cela réduirait l’écart qu’il y a ...",
-      "url": "https://www.presse-citron.net/smartphones-android-moins-de-300-euros-nouveaute/",
+      "title": "NVIDIA dévoile l'avenir du jeu vidéo avec DLSS 5 à la SIGGRAPH 2026",
+      "description": "NVIDIA a présenté en détail son DLSS 5 lors de la SIGGRAPH 2026, démontrant des progrès significatifs pour apaiser les inquiétudes initiales des joueurs. La technologie de rendu neuronal offre désorma...",
+      "url": "https://www.generation-nt.com/actualites/nvidia-dlss5-siggraph-avenir-2078939",
+      "source": "Génération NT",
+      "publishedAt": "2026-07-22T07:10:01Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ce matin, Gemini devient plus rapide et plus performant : une mise à jour gratuite lance 2 nouveaux modèles d’IA pensés pour l’efficacité au travail",
+      "description": "Bonne nouvelle pour les utilisateurs de la version gratuite de Gemini. Google vient de lancer les modèles Gemini 3.6 Flash et Gemini 3.5 Flash-Lite. La firme indique également qu’elle est déjà en trai...",
+      "url": "https://www.presse-citron.net/gemini-plus-rapide-performant-mise-a-jour-gratuite/",
       "source": "Presse-citron",
-      "publishedAt": "2026-07-21T10:24:31Z",
+      "publishedAt": "2026-07-22T07:51:12Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,23 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "France Travail déploie un outil de profilage algorithmique à des fins de contrôle",
-      "description": "France Travail développe un algorithme de profilage des chômeur·euses à des fins de contrôle, comme le prouve un document que nous publions aujourd'hui en partenariat avec la cellule investigation de ...",
-      "url": "https://www.laquadrature.net/2026/07/20/france-travail-deploie-un-outil-de-profilage-algorithmique-a-des-fins-de-controle/",
-      "source": "Laquadrature.net",
-      "publishedAt": "2026-07-20T06:00:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sony Bravia KD-75X82KP : ce TV 4K 75 pouces passe à 600 € (-50 %)",
-      "description": "Le Sony Bravia KD-75X82KP a beau intégrer une dalle 4K de 75 pouces, son prix actuel est très contenu. Amazon affiche en effet ce modèle à 600 euros, et",
-      "url": "https://www.frandroid.com/bons-plans/3186581_cet-immense-tv-4k-sony-bravia-de-75-pouces-nest-qua-600-e-sur-amazon-et-il-ny-en-aura-pas-pour-tout-le-monde",
-      "source": "Frandroid",
-      "publishedAt": "2026-07-21T09:32:49Z",
+      "title": "Actualité : SIGGRAPH 2026 : Nvidia assure le SAV du DLSS 5 et tente de rassurer les joueurs",
+      "description": "Critiqué lors de son annonce en mars dernier pour la dérive IA de ses rendus, le DLSS 5 de Nvidia cherche à rassurer. Au SIGGRAPH, le constructeur a dévoilé de nouveaux outils destinés à redonner le c...",
+      "url": "https://www.lesnumeriques.com/carte-graphique/siggraph-2026-nvidia-assure-le-sav-du-dlss-5-et-tente-de-rassurer-les-joueurs-n259540.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-07-21T20:10:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
