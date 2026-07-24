@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 23 Jul 2026 10:26:47 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 10:22:59 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -19,14 +19,6 @@
             <pubDate>Mon, 22 Jun 2026 15:04:54 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=0EsKXRhOYxM</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>"Trouver un moyen d'obtenir un accès libre à internet" : des agents IA d'OpenAI piratent de façon autonome une bibliothèque de code en ligne</title>
-            <link>https://www.franceinfo.fr/internet/intelligence-artificielle/un-cyberincident-sans-precedent-des-agents-ia-d-openai-piratent-de-facon-autonome-une-bibliotheque-de-code-en-ligne_8117705.html</link>
-            <description><![CDATA[Le créateur de ChatGPT testait des modèles d'intelligence artificielle en environnement fermé quant ils sont parvenus à s'évader en trouvant un accès à internet. Pour résoudre l'équation qui leur étai...]]></description>
-            <pubDate>Wed, 22 Jul 2026 10:21:33 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/internet/intelligence-artificielle/un-cyberincident-sans-precedent-des-agents-ia-d-openai-piratent-de-facon-autonome-une-bibliotheque-de-code-en-ligne_8117705.html</guid>
-            <source>Franceinfo.fr</source>
         </item>
         <item>
             <title>Leçon 4 - Fonction de coût - Cours Complet de Deep Learning</title>
@@ -43,14 +35,6 @@
             <pubDate>Mon, 25 May 2026 13:45:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=mdsnXx_tBEs</guid>
             <source>IA Futura</source>
-        </item>
-        <item>
-            <title>Comment ChatGPT sait ce que les mots veulent dire (Embeddings)</title>
-            <link>https://www.youtube.com/watch?v=ktL8oV26XYg</link>
-            <description><![CDATA[Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...]]></description>
-            <pubDate>Thu, 18 Jun 2026 08:01:19 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ktL8oV26XYg</guid>
-            <source>How AI Works?</source>
         </item>
         <item>
             <title>Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp;amp; Claude Cowork</title>
@@ -91,6 +75,22 @@
             <pubDate>Tue, 21 Jul 2026 15:52:55 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=xI4W_2FNnAw</guid>
             <source>Chloé IA & Tech</source>
+        </item>
+        <item>
+            <title>Aperçu IA et Mode IA en France : la recherche Google ne sera plus jamais la même</title>
+            <link>https://www.phonandroid.com/apercu-ia-et-mode-ia-en-france-la-recherche-google-ne-sera-plus-jamais-la-meme.html</link>
+            <description><![CDATA[Google déploie les Aperçus IA et le Mode IA dans son moteur de recherche en France, des mois après tout le monde. Il va falloir s'habituer à ces nouvelles fonctionnalités,...]]></description>
+            <pubDate>Thu, 23 Jul 2026 09:36:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.phonandroid.com/apercu-ia-et-mode-ia-en-france-la-recherche-google-ne-sera-plus-jamais-la-meme.html</guid>
+            <source>Phonandroid</source>
+        </item>
+        <item>
+            <title>Comment J’apprendrais l’IA en 2026 (si je devais recommencer)</title>
+            <link>https://www.youtube.com/watch?v=1eOQtGqgeyU</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4fRlc8U Rejoins ma communauté ...]]></description>
+            <pubDate>Mon, 01 Jun 2026 15:00:04 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1eOQtGqgeyU</guid>
+            <source>Yassine Sdiri</source>
         </item>
         <item>
             <title>Formation Power BI Desktop Complète | Dashboard Professionnel en 1H30 – Power BI #12</title>
@@ -157,20 +157,20 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>DEMETRA ANNONCE UN PARTENARIAT STRATÉGIQUE AVEC MASMEC BIOMED</title>
-            <link>https://www.prnewswire.com/news-releases/demetra-annonce-un-partenariat-strategique-avec-masmec-biomed-302831925.html</link>
-            <description><![CDATA[Du leadership dans les technologies de chirurgie rachidienne à la création d'un écosystème européen d'innovation reposant sur l'IA, les données, la navigation et la robotique MILAN, 22 juillet 2026 /P...]]></description>
-            <pubDate>Wed, 22 Jul 2026 08:21:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/demetra-annonce-un-partenariat-strategique-avec-masmec-biomed-302831925.html</guid>
-            <source>PRNewswire</source>
+            <title>Comment créer une base de données avec le langage SQL ?</title>
+            <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
+            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
+            <pubDate>Wed, 01 Jul 2026 04:00:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=19JD2vconJ0</guid>
+            <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Centres de données dans l’espace : ni écologiques, ni économes</title>
-            <link>https://theconversation.com/centres-de-donnees-dans-lespace-ni-ecologiques-ni-economes-286074</link>
-            <description><![CDATA[Envoyer des centres de données dans l’espace créé de nouveaux problèmes. Pour évacuer la chaleur qu’ils génèrent, il faudrait notamment des infrastructures spéciales et de grandes tailles.]]></description>
-            <pubDate>Wed, 22 Jul 2026 09:58:14 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/centres-de-donnees-dans-lespace-ni-ecologiques-ni-economes-286074</guid>
-            <source>The Conversation Africa</source>
+            <title>Actualité : Tesla n'a jamais eu autant d'accidents sous pilote automatique... et garde le silence sur chacun d'eux</title>
+            <link>https://www.lesnumeriques.com/voiture-electrique/tesla-n-a-jamais-eu-autant-d-accidents-sous-pilote-automatique-et-garde-le-silence-sur-chacun-d-eux-n259610.html</link>
+            <description><![CDATA[Le pilote automatique de Tesla n'a jamais provoqué autant d'accidents déclarés : 207 pour le seul mois de mai 2026, selon les données transmises au régulateur américain. Le constructeur masque pourtan...]]></description>
+            <pubDate>Thu, 23 Jul 2026 06:56:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/voiture-electrique/tesla-n-a-jamais-eu-autant-d-accidents-sous-pilote-automatique-et-garde-le-silence-sur-chacun-d-eux-n259610.html</guid>
+            <source>Les Numériques</source>
         </item>
     </channel>
 </rss>

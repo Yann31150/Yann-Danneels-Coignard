@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-23T10:26:47.723781",
+  "lastUpdate": "2026-07-24T10:22:59.301011",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -12,18 +12,6 @@
       "isYouTube": true,
       "videoId": "0EsKXRhOYxM",
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
-    },
-    {
-      "title": "\"Trouver un moyen d'obtenir un accès libre à internet\" : des agents IA d'OpenAI piratent de façon autonome une bibliothèque de code en ligne",
-      "description": "Le créateur de ChatGPT testait des modèles d'intelligence artificielle en environnement fermé quant ils sont parvenus à s'évader en trouvant un accès à internet. Pour résoudre l'équation qui leur étai...",
-      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/un-cyberincident-sans-precedent-des-agents-ia-d-openai-piratent-de-facon-autonome-une-bibliotheque-de-code-en-ligne_8117705.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-07-22T10:21:33Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Leçon 4 - Fonction de coût - Cours Complet de Deep Learning",
@@ -48,18 +36,6 @@
       "isYouTube": true,
       "videoId": "mdsnXx_tBEs",
       "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
-    },
-    {
-      "title": "Comment ChatGPT sait ce que les mots veulent dire (Embeddings)",
-      "description": "Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...",
-      "url": "https://www.youtube.com/watch?v=ktL8oV26XYg",
-      "source": "How AI Works?",
-      "publishedAt": "2026-06-18T08:01:19Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ktL8oV26XYg",
-      "thumbnail": "https://i.ytimg.com/vi/ktL8oV26XYg/hqdefault.jpg"
     },
     {
       "title": "Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp; Claude Cowork",
@@ -120,6 +96,30 @@
       "isYouTube": true,
       "videoId": "xI4W_2FNnAw",
       "thumbnail": "https://i.ytimg.com/vi/xI4W_2FNnAw/hqdefault.jpg"
+    },
+    {
+      "title": "Aperçu IA et Mode IA en France : la recherche Google ne sera plus jamais la même",
+      "description": "Google déploie les Aperçus IA et le Mode IA dans son moteur de recherche en France, des mois après tout le monde. Il va falloir s'habituer à ces nouvelles fonctionnalités,...",
+      "url": "https://www.phonandroid.com/apercu-ia-et-mode-ia-en-france-la-recherche-google-ne-sera-plus-jamais-la-meme.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-07-23T09:36:03Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comment J’apprendrais l’IA en 2026 (si je devais recommencer)",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4fRlc8U Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=1eOQtGqgeyU",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-06-01T15:00:04Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1eOQtGqgeyU",
+      "thumbnail": "https://i.ytimg.com/vi/1eOQtGqgeyU/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI Desktop Complète | Dashboard Professionnel en 1H30 – Power BI #12",
@@ -218,23 +218,23 @@
       "thumbnail": "https://i.ytimg.com/vi/5XRR3C0nQLg/hqdefault.jpg"
     },
     {
-      "title": "DEMETRA ANNONCE UN PARTENARIAT STRATÉGIQUE AVEC MASMEC BIOMED",
-      "description": "Du leadership dans les technologies de chirurgie rachidienne à la création d'un écosystème européen d'innovation reposant sur l'IA, les données, la navigation et la robotique MILAN, 22 juillet 2026 /P...",
-      "url": "https://www.prnewswire.com/news-releases/demetra-annonce-un-partenariat-strategique-avec-masmec-biomed-302831925.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-07-22T08:21:00Z",
+      "title": "Comment créer une base de données avec le langage SQL ?",
+      "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
+      "url": "https://www.youtube.com/watch?v=19JD2vconJ0",
+      "source": "OpenClassrooms en Français",
+      "publishedAt": "2026-07-01T04:00:13Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "19JD2vconJ0",
+      "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
-      "title": "Centres de données dans l’espace : ni écologiques, ni économes",
-      "description": "Envoyer des centres de données dans l’espace créé de nouveaux problèmes. Pour évacuer la chaleur qu’ils génèrent, il faudrait notamment des infrastructures spéciales et de grandes tailles.",
-      "url": "https://theconversation.com/centres-de-donnees-dans-lespace-ni-ecologiques-ni-economes-286074",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-07-22T09:58:14Z",
+      "title": "Actualité : Tesla n'a jamais eu autant d'accidents sous pilote automatique... et garde le silence sur chacun d'eux",
+      "description": "Le pilote automatique de Tesla n'a jamais provoqué autant d'accidents déclarés : 207 pour le seul mois de mai 2026, selon les données transmises au régulateur américain. Le constructeur masque pourtan...",
+      "url": "https://www.lesnumeriques.com/voiture-electrique/tesla-n-a-jamais-eu-autant-d-accidents-sous-pilote-automatique-et-garde-le-silence-sur-chacun-d-eux-n259610.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-07-23T06:56:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,35 +254,23 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "Hollywood ouvre la porte à l'IA mais dit vouloir conserver son ADN",
-      "description": "Une meilleure maîtrise de la technologie et des gains économiques expliquent le recours à l'intelligence artificielle dans un secteur qui s'était montré jusqu'ici assez réticent.",
-      "url": "https://www.franceinfo.fr/culture/cinema/hollywood-ouvre-la-porte-a-l-ia-mais-dit-vouloir-conserver-son-adn_8117684.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-07-22T10:11:27Z",
-      "category": "innovation",
-      "hasVideo": false,
+      "title": "Pour identifier les fake news, Nvidia lance un détecteur d’IA précis et rapide pour les vidéos",
+      "description": "Nvidia a annoncé un nouvel outil permettant d'analyser des vidéos et de détecter, le cas échéant, si ces dernières ont été générées à l'aide d'une intelligence artificielle. Baptisé Synthetic Video De...",
+      "url": "https://www.frandroid.com/marques/nvidia/3189859_pour-identifier-les-fake-news-nvidia-lance-un-detecteur-dia-precis-et-rapide-pour-les-videos",
+      "source": "Frandroid",
+      "publishedAt": "2026-07-23T08:41:06Z",
+      "category": "tech",
+      "hasVideo": true,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "NVIDIA dévoile l'avenir du jeu vidéo avec DLSS 5 à la SIGGRAPH 2026",
-      "description": "NVIDIA a présenté en détail son DLSS 5 lors de la SIGGRAPH 2026, démontrant des progrès significatifs pour apaiser les inquiétudes initiales des joueurs. La technologie de rendu neuronal offre désorma...",
-      "url": "https://www.generation-nt.com/actualites/nvidia-dlss5-siggraph-avenir-2078939",
-      "source": "Génération NT",
-      "publishedAt": "2026-07-22T07:10:01Z",
-      "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ce matin, Gemini devient plus rapide et plus performant : une mise à jour gratuite lance 2 nouveaux modèles d’IA pensés pour l’efficacité au travail",
-      "description": "Bonne nouvelle pour les utilisateurs de la version gratuite de Gemini. Google vient de lancer les modèles Gemini 3.6 Flash et Gemini 3.5 Flash-Lite. La firme indique également qu’elle est déjà en trai...",
-      "url": "https://www.presse-citron.net/gemini-plus-rapide-performant-mise-a-jour-gratuite/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-07-22T07:51:12Z",
+      "title": "Netflix révèle utiliser l’IA sur son application et dans environ 300 films et séries rien qu’en 2026",
+      "description": "Netflix ne voit pas l'intelligence artificielle d'un mauvais oeil. La plateforme révèle avoir l'utilisé sur de nombreux projets.  \nThe post Netflix révèle utiliser l’IA sur son application et dans env...",
+      "url": "https://dailygeekshow.com/netflix-revele-utiliser-lia-sur-son-application-et-dans-environ-300-films-et-series-rien-quen-2026/",
+      "source": "Daily Geek Show",
+      "publishedAt": "2026-07-23T09:26:24Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Actualité : SIGGRAPH 2026 : Nvidia assure le SAV du DLSS 5 et tente de rassurer les joueurs",
-      "description": "Critiqué lors de son annonce en mars dernier pour la dérive IA de ses rendus, le DLSS 5 de Nvidia cherche à rassurer. Au SIGGRAPH, le constructeur a dévoilé de nouveaux outils destinés à redonner le c...",
-      "url": "https://www.lesnumeriques.com/carte-graphique/siggraph-2026-nvidia-assure-le-sav-du-dlss-5-et-tente-de-rassurer-les-joueurs-n259540.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-07-21T20:10:00Z",
+      "title": "AMD investit des milliards de dollars dans Anthropic et lui vendra des puces IA par milliers",
+      "description": "Dans le cadre d'un partenariat avec Anthropic, AMD va investir jusqu'à 5 milliards de dollars dans la start-up d'IA et lui fournira de nouvelles puces IA pour une puissance de calcul indispensable aux...",
+      "url": "https://www.generation-nt.com/actualites/amd-anthropic-5-milliards-dollars-puces-ia-2079026",
+      "source": "Génération NT",
+      "publishedAt": "2026-07-23T09:50:01Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Urban Privacy : quand la mode devient un bouclier contre la surveillance numérique",
+      "description": "Dans un monde où les caméras intelligentes se multiplient, où les smartphones enregistrent en permanence notre position et où l’intelligence artificielle est capable d’identifier un visage en quelques...",
+      "url": "https://w3sh.com/2026/07/urban-privacy-quand-la-mode-devient-un-bouclier-contre-la-surveillance-numerique/",
+      "source": "W3sh.com",
+      "publishedAt": "2026-07-23T08:17:13Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
