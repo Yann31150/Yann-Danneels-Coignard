@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-24T10:22:59.301011",
+  "lastUpdate": "2026-07-25T09:52:52.085652",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -14,6 +14,30 @@
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
     },
     {
+      "title": "ChatGPT peut maintenant lire vos données Apple Santé : voici ce que ça change",
+      "description": "ChatGPT prend désormais en charge les données de votre application Santé sur iPhone. Une nouveauté qui ne laisse personne indifférent.",
+      "url": "https://www.iphon.fr/post/chatgpt-apple-sante-iphone-ia",
+      "source": "Iphon.fr",
+      "publishedAt": "2026-07-24T08:59:38Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sans ces 6 compétences SEO liées à l’IA, vous risquez d’être dépassé !",
+      "description": "Le SEO d’aujourd’hui n’a plus grand-chose à voir avec celui d’il y a 5 ans. Entre les réponses générées par ChatGPT, les Overviews de Google et les citations qui apparaissent (ou pas) dans Perplexity,...",
+      "url": "https://www.webmarketing-com.com/6-competences-seo-ia",
+      "source": "Webmarketing-com.com",
+      "publishedAt": "2026-07-24T09:00:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Leçon 4 - Fonction de coût - Cours Complet de Deep Learning",
       "description": "Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...",
       "url": "https://www.youtube.com/watch?v=yeXdRiD84ro",
@@ -26,16 +50,16 @@
       "thumbnail": "https://i.ytimg.com/vi/yeXdRiD84ro/hqdefault.jpg"
     },
     {
-      "title": "Formation complète DATA &amp; MACHINE LEARNING — 9h30 gratuites (111 sessions + 15 quiz)",
-      "description": "La formation COMPLÈTE Data & Machine Learning — plus de 9 heures de cours, 111 sessions + 15 quiz, 100% GRATUITE.",
-      "url": "https://www.youtube.com/watch?v=mdsnXx_tBEs",
-      "source": "IA Futura",
-      "publishedAt": "2026-05-25T13:45:06Z",
+      "title": "Comment ChatGPT sait ce que les mots veulent dire (Embeddings)",
+      "description": "Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...",
+      "url": "https://www.youtube.com/watch?v=ktL8oV26XYg",
+      "source": "How AI Works?",
+      "publishedAt": "2026-06-18T08:01:19Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "mdsnXx_tBEs",
-      "thumbnail": "https://i.ytimg.com/vi/mdsnXx_tBEs/hqdefault.jpg"
+      "videoId": "ktL8oV26XYg",
+      "thumbnail": "https://i.ytimg.com/vi/ktL8oV26XYg/hqdefault.jpg"
     },
     {
       "title": "Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp; Claude Cowork",
@@ -48,6 +72,18 @@
       "isYouTube": true,
       "videoId": "NURD13ukpQI",
       "thumbnail": "https://i.ytimg.com/vi/NURD13ukpQI/hqdefault.jpg"
+    },
+    {
+      "title": "Pour 2027, les algorithmes sont déjà en campagne",
+      "description": "Le Sénat alerte sur l’impact des algorithmes et de l’intelligence artificielle dans la présidentielle 2027, entre désinformation et inégalités de visibilité.",
+      "url": "https://lenouveauparadigme.fr/pour-2027-les-algorithmes-sont-deja-en-campagne/",
+      "source": "Lenouveauparadigme.fr",
+      "publishedAt": "2026-07-24T07:15:14Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)",
@@ -84,42 +120,6 @@
       "isYouTube": true,
       "videoId": "DmHe7VdFfVo",
       "thumbnail": "https://i.ytimg.com/vi/DmHe7VdFfVo/hqdefault.jpg"
-    },
-    {
-      "title": "Concevez la maison de vos rêves avec l&#39;IA | Test et tutoriel de MeltFlex AI",
-      "description": "Concevez la maison de vos rêves avec l'IA | Test et tutoriel de MeltFlex AI L'intelligence artificielle peut-elle réellement vous aider ...",
-      "url": "https://www.youtube.com/watch?v=xI4W_2FNnAw",
-      "source": "Chloé IA & Tech",
-      "publishedAt": "2026-07-21T15:52:55Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "xI4W_2FNnAw",
-      "thumbnail": "https://i.ytimg.com/vi/xI4W_2FNnAw/hqdefault.jpg"
-    },
-    {
-      "title": "Aperçu IA et Mode IA en France : la recherche Google ne sera plus jamais la même",
-      "description": "Google déploie les Aperçus IA et le Mode IA dans son moteur de recherche en France, des mois après tout le monde. Il va falloir s'habituer à ces nouvelles fonctionnalités,...",
-      "url": "https://www.phonandroid.com/apercu-ia-et-mode-ia-en-france-la-recherche-google-ne-sera-plus-jamais-la-meme.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-07-23T09:36:03Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comment J’apprendrais l’IA en 2026 (si je devais recommencer)",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4fRlc8U Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=1eOQtGqgeyU",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2026-06-01T15:00:04Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1eOQtGqgeyU",
-      "thumbnail": "https://i.ytimg.com/vi/1eOQtGqgeyU/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI Desktop Complète | Dashboard Professionnel en 1H30 – Power BI #12",
@@ -194,16 +194,16 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
-      "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
-      "description": "Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...",
-      "url": "https://www.youtube.com/watch?v=OKS6wtA2lAA",
-      "source": "OUJOOD",
-      "publishedAt": "2026-06-03T12:13:50Z",
+      "title": "Relation client : l'IA traitera bientôt un dossier sur deux, mais 90 % des Français préfèrent encore l'humain",
+      "description": "L'IA transforme la relation client sans remplacer l'humain. Le modèle hybride combine rapidité, disponibilité et empathie pour offrir une expérience plus efficace et plus humaine.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1552959-relation-client-l-ia-traitera-bientot-un-dossier-sur-deux-mais-90-des-francais-preferent-encore-l-humain/",
+      "source": "JDN",
+      "publishedAt": "2026-07-24T07:33:53Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "OKS6wtA2lAA",
-      "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Découvrez notre formation sur Power BI #data #powerbi",
@@ -218,6 +218,18 @@
       "thumbnail": "https://i.ytimg.com/vi/5XRR3C0nQLg/hqdefault.jpg"
     },
     {
+      "title": "Baromètre 2026 Assureurs Animaux",
+      "description": "Jeu de données issu du **Baromètre de l'assurance santé animale 2026**, une analyse des offres de **15 assureurs** proposant des contrats santé pour chien et chat en France. Les données ont été relevé...",
+      "url": "https://www.data.gouv.fr/datasets/barometre-2026-assureurs-animaux",
+      "source": "Gouv.fr",
+      "publishedAt": "2026-07-24T09:13:15Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Comment créer une base de données avec le langage SQL ?",
       "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
       "url": "https://www.youtube.com/watch?v=19JD2vconJ0",
@@ -228,18 +240,6 @@
       "isYouTube": true,
       "videoId": "19JD2vconJ0",
       "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
-    },
-    {
-      "title": "Actualité : Tesla n'a jamais eu autant d'accidents sous pilote automatique... et garde le silence sur chacun d'eux",
-      "description": "Le pilote automatique de Tesla n'a jamais provoqué autant d'accidents déclarés : 207 pour le seul mois de mai 2026, selon les données transmises au régulateur américain. Le constructeur masque pourtan...",
-      "url": "https://www.lesnumeriques.com/voiture-electrique/tesla-n-a-jamais-eu-autant-d-accidents-sous-pilote-automatique-et-garde-le-silence-sur-chacun-d-eux-n259610.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-07-23T06:56:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Computer Vision - De la Théorie au Code en 1H",
@@ -254,23 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "Pour identifier les fake news, Nvidia lance un détecteur d’IA précis et rapide pour les vidéos",
-      "description": "Nvidia a annoncé un nouvel outil permettant d'analyser des vidéos et de détecter, le cas échéant, si ces dernières ont été générées à l'aide d'une intelligence artificielle. Baptisé Synthetic Video De...",
-      "url": "https://www.frandroid.com/marques/nvidia/3189859_pour-identifier-les-fake-news-nvidia-lance-un-detecteur-dia-precis-et-rapide-pour-les-videos",
-      "source": "Frandroid",
-      "publishedAt": "2026-07-23T08:41:06Z",
-      "category": "tech",
-      "hasVideo": true,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Netflix révèle utiliser l’IA sur son application et dans environ 300 films et séries rien qu’en 2026",
-      "description": "Netflix ne voit pas l'intelligence artificielle d'un mauvais oeil. La plateforme révèle avoir l'utilisé sur de nombreux projets.  \nThe post Netflix révèle utiliser l’IA sur son application et dans env...",
-      "url": "https://dailygeekshow.com/netflix-revele-utiliser-lia-sur-son-application-et-dans-environ-300-films-et-series-rien-quen-2026/",
-      "source": "Daily Geek Show",
-      "publishedAt": "2026-07-23T09:26:24Z",
+      "title": "Le mode vocal de Claude s’améliore sur iPhone avec des modèles IA plus puissants",
+      "description": "Anthropic déploie une nouvelle version du mode vocal de Claude, en bêta ouverte à tous les utilisateurs. Cet assistant utilise désormais des modèles d’intelligence artificielle plus puissants, à savoi...",
+      "url": "https://kulturegeek.fr/news-356026/mode-vocal-claude-sameliore-modeles-ia-plus-puissants",
+      "source": "KultureGeek",
+      "publishedAt": "2026-07-24T09:04:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "AMD investit des milliards de dollars dans Anthropic et lui vendra des puces IA par milliers",
-      "description": "Dans le cadre d'un partenariat avec Anthropic, AMD va investir jusqu'à 5 milliards de dollars dans la start-up d'IA et lui fournira de nouvelles puces IA pour une puissance de calcul indispensable aux...",
-      "url": "https://www.generation-nt.com/actualites/amd-anthropic-5-milliards-dollars-puces-ia-2079026",
-      "source": "Génération NT",
-      "publishedAt": "2026-07-23T09:50:01Z",
+      "title": "À cause du piratage raté d’OpenAI, l’IA pourrait être coupée sur simple ordre du gouvernement américain",
+      "description": "Aux États-Unis, deux élus veulent obliger les géants de l'intelligence artificielle à installer un bouton d'arrêt d'urgence. En cas de dérapage grave, l'État pourrait ordonner l'extinction pure et sim...",
+      "url": "https://www.phonandroid.com/a-cause-du-piratage-rate-dopenai-lia-pourrait-etre-coupee-sur-simple-ordre-du-gouvernement-americain.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-07-24T08:07:40Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Urban Privacy : quand la mode devient un bouclier contre la surveillance numérique",
-      "description": "Dans un monde où les caméras intelligentes se multiplient, où les smartphones enregistrent en permanence notre position et où l’intelligence artificielle est capable d’identifier un visage en quelques...",
-      "url": "https://w3sh.com/2026/07/urban-privacy-quand-la-mode-devient-un-bouclier-contre-la-surveillance-numerique/",
-      "source": "W3sh.com",
-      "publishedAt": "2026-07-23T08:17:13Z",
+      "title": "Axa complète son secure GPT par Copilot pour Microsoft 365",
+      "description": "Quelques années après la généralisation de son IA générative privée, Axa initie le déploiement progressif de Microsoft 365 Copilot. L’IA dans les outils Office est présentée comme une nouvelle étape v...",
+      "url": "https://www.zdnet.fr/actualites/axa-complete-son-secure-gpt-par-copilot-pour-microsoft-365-498980.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-07-24T09:08:34Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Photos professionnelles générées par IA : les questions RGPD que toute entreprise devrait poser",
+      "description": "Les générateurs de portraits professionnels par IA séduisent les entreprises. Mais confier les visages de ses collaborateurs à une IA n'est pas un achat logiciel comme un autre. Les questions à poser.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1552921-photos-professionnelles-generees-par-ia-les-questions-rgpd-que-toute-entreprise-devrait-poser/",
+      "source": "JDN",
+      "publishedAt": "2026-07-24T07:35:21Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
