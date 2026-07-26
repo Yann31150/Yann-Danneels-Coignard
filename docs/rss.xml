@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 25 Jul 2026 09:52:52 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 10:03:37 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,28 +13,20 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)</title>
-            <link>https://www.youtube.com/watch?v=0EsKXRhOYxM</link>
-            <description><![CDATA[Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...]]></description>
-            <pubDate>Mon, 22 Jun 2026 15:04:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=0EsKXRhOYxM</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>Un "cyberincident sans précédent" : ce que l'on sait de la cyberattaque menée de leur propre initiative par les modèles d'OpenAI</title>
+            <link>https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-cyberincident-sans-precedent-ce-que-l-on-sait-de-la-cyberattaque-menee-de-leur-propre-initiative-par-les-modeles-d-openai_8120441.html</link>
+            <description><![CDATA[Le créateur de ChatGPT a annoncé mardi que ses modèles d'intelligence artificielle avancés s'étaient emballés lors de tests de sécurité : ils sont parvenus à exploiter des failles pour accéder à inter...]]></description>
+            <pubDate>Sat, 25 Jul 2026 05:12:41 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-cyberincident-sans-precedent-ce-que-l-on-sait-de-la-cyberattaque-menee-de-leur-propre-initiative-par-les-modeles-d-openai_8120441.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
         <item>
-            <title>ChatGPT peut maintenant lire vos données Apple Santé : voici ce que ça change</title>
-            <link>https://www.iphon.fr/post/chatgpt-apple-sante-iphone-ia</link>
-            <description><![CDATA[ChatGPT prend désormais en charge les données de votre application Santé sur iPhone. Une nouveauté qui ne laisse personne indifférent.]]></description>
-            <pubDate>Fri, 24 Jul 2026 08:59:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.iphon.fr/post/chatgpt-apple-sante-iphone-ia</guid>
-            <source>Iphon.fr</source>
-        </item>
-        <item>
-            <title>Sans ces 6 compétences SEO liées à l’IA, vous risquez d’être dépassé !</title>
-            <link>https://www.webmarketing-com.com/6-competences-seo-ia</link>
-            <description><![CDATA[Le SEO d’aujourd’hui n’a plus grand-chose à voir avec celui d’il y a 5 ans. Entre les réponses générées par ChatGPT, les Overviews de Google et les citations qui apparaissent (ou pas) dans Perplexity,...]]></description>
-            <pubDate>Fri, 24 Jul 2026 09:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.webmarketing-com.com/6-competences-seo-ia</guid>
-            <source>Webmarketing-com.com</source>
+            <title>Optimisation pour les moteurs génératifs (GEO) : comment être cité par ChatGPT et Perplexity</title>
+            <link>https://descary.com/optimisation-pour-les-moteurs-generatifs/</link>
+            <description><![CDATA[À retenir Introduction Depuis 20 ans, j’optimise des sites pour Google. Aujourd’hui, un changement de fond s’opère : de plus en plus de gens posent leur question directement à une IA — ChatGPT, Perple...]]></description>
+            <pubDate>Fri, 24 Jul 2026 15:43:16 -0000</pubDate>
+            <guid isPermaLink="true">https://descary.com/optimisation-pour-les-moteurs-generatifs/</guid>
+            <source>Descary.com</source>
         </item>
         <item>
             <title>Leçon 4 - Fonction de coût - Cours Complet de Deep Learning</title>
@@ -45,12 +37,12 @@
             <source>Rafa Explique</source>
         </item>
         <item>
-            <title>Comment ChatGPT sait ce que les mots veulent dire (Embeddings)</title>
-            <link>https://www.youtube.com/watch?v=ktL8oV26XYg</link>
-            <description><![CDATA[Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...]]></description>
-            <pubDate>Thu, 18 Jun 2026 08:01:19 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ktL8oV26XYg</guid>
-            <source>How AI Works?</source>
+            <title>JAX Automatic Differentiation – Régression simple, descente de gradient (Python)</title>
+            <link>https://www.youtube.com/watch?v=LKtwwn-W6iM</link>
+            <description><![CDATA[Machine learning. Data science. JAX est une bibliothèque de calcul numérique « à la Numpy » permettant de manipuler les ...]]></description>
+            <pubDate>Mon, 20 Jul 2026 08:19:53 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=LKtwwn-W6iM</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
             <title>Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp;amp; Claude Cowork</title>
@@ -59,14 +51,6 @@
             <pubDate>Mon, 13 Jul 2026 15:17:51 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=NURD13ukpQI</guid>
             <source>Oscar Aksanti</source>
-        </item>
-        <item>
-            <title>Pour 2027, les algorithmes sont déjà en campagne</title>
-            <link>https://lenouveauparadigme.fr/pour-2027-les-algorithmes-sont-deja-en-campagne/</link>
-            <description><![CDATA[Le Sénat alerte sur l’impact des algorithmes et de l’intelligence artificielle dans la présidentielle 2027, entre désinformation et inégalités de visibilité.]]></description>
-            <pubDate>Fri, 24 Jul 2026 07:15:14 -0000</pubDate>
-            <guid isPermaLink="true">https://lenouveauparadigme.fr/pour-2027-les-algorithmes-sont-deja-en-campagne/</guid>
-            <source>Lenouveauparadigme.fr</source>
         </item>
         <item>
             <title>Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)</title>
@@ -93,12 +77,20 @@
             <source>Young Business School</source>
         </item>
         <item>
-            <title>Formation Power BI Desktop Complète | Dashboard Professionnel en 1H30 – Power BI #12</title>
-            <link>https://www.youtube.com/watch?v=-sqQb0OViwg</link>
-            <description><![CDATA[Bonjour à toutes et à tous, J'espère que vous allez très bien. Dans cette formation complète Power BI Desktop, vous allez ...]]></description>
-            <pubDate>Tue, 26 May 2026 16:00:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=-sqQb0OViwg</guid>
-            <source>Martinien Adda</source>
+            <title>Comment J’apprendrais l’IA en 2026 (si je devais recommencer)</title>
+            <link>https://www.youtube.com/watch?v=1eOQtGqgeyU</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4fRlc8U Rejoins ma communauté ...]]></description>
+            <pubDate>Mon, 01 Jun 2026 15:00:04 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1eOQtGqgeyU</guid>
+            <source>Yassine Sdiri</source>
+        </item>
+        <item>
+            <title>Chaque IA Expliquée en 19 Minutes</title>
+            <link>https://www.youtube.com/watch?v=bof3sJ9P5Ss</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4oIKXLh Rejoins ma communauté ...]]></description>
+            <pubDate>Sun, 21 Jun 2026 15:00:12 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=bof3sJ9P5Ss</guid>
+            <source>Yassine Sdiri</source>
         </item>
         <item>
             <title>NumPy &amp;amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes</title>
@@ -109,12 +101,12 @@
             <source>lioncode</source>
         </item>
         <item>
-            <title>Power BI : je construis un tableau de bord pour mon client (de A à Z)</title>
-            <link>https://www.youtube.com/watch?v=OhT0MEFKylY</link>
-            <description><![CDATA[Apprends les bases indispensables de Power BI et réalise ton premier tableau de bord en moins d'une heure ! Au travers d'un ...]]></description>
-            <pubDate>Tue, 26 May 2026 15:00:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=OhT0MEFKylY</guid>
-            <source>Alexandre STEVENS</source>
+            <title>Power BI Creer un tableau de bord de A à Z</title>
+            <link>https://www.youtube.com/watch?v=5zWEMjvm86o</link>
+            <description><![CDATA[FORMATION POWER BI GRATUITE – VIDÉO 3 : CRÉATION D'UN TABLEAU DE BORD INTERACTIF DE A À Z Bienvenue dans ...]]></description>
+            <pubDate>Sat, 13 Jun 2026 21:22:56 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=5zWEMjvm86o</guid>
+            <source>Ceemtic Analytics</source>
         </item>
         <item>
             <title>Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant</title>
@@ -141,12 +133,20 @@
             <source>Mikail Altundas</source>
         </item>
         <item>
-            <title>Relation client : l'IA traitera bientôt un dossier sur deux, mais 90 % des Français préfèrent encore l'humain</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1552959-relation-client-l-ia-traitera-bientot-un-dossier-sur-deux-mais-90-des-francais-preferent-encore-l-humain/</link>
-            <description><![CDATA[L'IA transforme la relation client sans remplacer l'humain. Le modèle hybride combine rapidité, disponibilité et empathie pour offrir une expérience plus efficace et plus humaine.]]></description>
-            <pubDate>Fri, 24 Jul 2026 07:33:53 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1552959-relation-client-l-ia-traitera-bientot-un-dossier-sur-deux-mais-90-des-francais-preferent-encore-l-humain/</guid>
-            <source>JDN</source>
+            <title>Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas</title>
+            <link>https://www.youtube.com/watch?v=OKS6wtA2lAA</link>
+            <description><![CDATA[Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...]]></description>
+            <pubDate>Wed, 03 Jun 2026 12:13:50 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=OKS6wtA2lAA</guid>
+            <source>OUJOOD</source>
+        </item>
+        <item>
+            <title>Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀</title>
+            <link>https://www.youtube.com/watch?v=1Kokkl5PybM</link>
+            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
+            <pubDate>Thu, 04 Jun 2026 09:00:14 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1Kokkl5PybM</guid>
+            <source>Morpheus Formation | Excel, Power BI, Sheets</source>
         </item>
         <item>
             <title>Découvrez notre formation sur Power BI #data #powerbi</title>
@@ -157,20 +157,20 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Baromètre 2026 Assureurs Animaux</title>
-            <link>https://www.data.gouv.fr/datasets/barometre-2026-assureurs-animaux</link>
-            <description><![CDATA[Jeu de données issu du **Baromètre de l'assurance santé animale 2026**, une analyse des offres de **15 assureurs** proposant des contrats santé pour chien et chat en France. Les données ont été relevé...]]></description>
-            <pubDate>Fri, 24 Jul 2026 09:13:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/barometre-2026-assureurs-animaux</guid>
-            <source>Gouv.fr</source>
+            <title>VPN, antivirus, données personnelles : ce pack Surfshark passe en promo</title>
+            <link>https://www.futura-sciences.com/conso/bons-plans/guides-vpn-vpn-antivirus-donnees-personnelles-ce-pack-surfshark-passe-promo-10775/</link>
+            <description><![CDATA[Surfshark One+ réunit VPN, antivirus et outils de protection des données dans une seule offre.Une solution pensée pour renforcer la confidentialité en ligne sans multiplier les abonnements.]]></description>
+            <pubDate>Sat, 25 Jul 2026 09:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/conso/bons-plans/guides-vpn-vpn-antivirus-donnees-personnelles-ce-pack-surfshark-passe-promo-10775/</guid>
+            <source>Futura</source>
         </item>
         <item>
-            <title>Comment créer une base de données avec le langage SQL ?</title>
-            <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
-            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
-            <pubDate>Wed, 01 Jul 2026 04:00:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=19JD2vconJ0</guid>
-            <source>OpenClassrooms en Français</source>
+            <title>Histoire SF: Biatinic, vous faire vire 200 ans</title>
+            <link>https://linuxfr.org/users/oliver_h/journaux/histoire-sf-biatinic-vous-faire-vire-200-ans-3</link>
+            <description><![CDATA[Histoire SF: Biatinic, vous faire vire 200 ans &lt;3]]></description>
+            <pubDate>Fri, 24 Jul 2026 20:20:21 -0000</pubDate>
+            <guid isPermaLink="true">https://linuxfr.org/users/oliver_h/journaux/histoire-sf-biatinic-vous-faire-vire-200-ans-3</guid>
+            <source>Linuxfr.org</source>
         </item>
     </channel>
 </rss>

@@ -1,24 +1,12 @@
 {
-  "lastUpdate": "2026-07-25T09:52:52.085652",
+  "lastUpdate": "2026-07-26T10:03:37.880280",
   "articles": [
     {
-      "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
-      "description": "Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...",
-      "url": "https://www.youtube.com/watch?v=0EsKXRhOYxM",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-06-22T15:04:54Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "0EsKXRhOYxM",
-      "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
-    },
-    {
-      "title": "ChatGPT peut maintenant lire vos données Apple Santé : voici ce que ça change",
-      "description": "ChatGPT prend désormais en charge les données de votre application Santé sur iPhone. Une nouveauté qui ne laisse personne indifférent.",
-      "url": "https://www.iphon.fr/post/chatgpt-apple-sante-iphone-ia",
-      "source": "Iphon.fr",
-      "publishedAt": "2026-07-24T08:59:38Z",
+      "title": "Un \"cyberincident sans précédent\" : ce que l'on sait de la cyberattaque menée de leur propre initiative par les modèles d'OpenAI",
+      "description": "Le créateur de ChatGPT a annoncé mardi que ses modèles d'intelligence artificielle avancés s'étaient emballés lors de tests de sécurité : ils sont parvenus à exploiter des failles pour accéder à inter...",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-cyberincident-sans-precedent-ce-que-l-on-sait-de-la-cyberattaque-menee-de-leur-propre-initiative-par-les-modeles-d-openai_8120441.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-07-25T05:12:41Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -26,11 +14,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Sans ces 6 compétences SEO liées à l’IA, vous risquez d’être dépassé !",
-      "description": "Le SEO d’aujourd’hui n’a plus grand-chose à voir avec celui d’il y a 5 ans. Entre les réponses générées par ChatGPT, les Overviews de Google et les citations qui apparaissent (ou pas) dans Perplexity,...",
-      "url": "https://www.webmarketing-com.com/6-competences-seo-ia",
-      "source": "Webmarketing-com.com",
-      "publishedAt": "2026-07-24T09:00:00Z",
+      "title": "Optimisation pour les moteurs génératifs (GEO) : comment être cité par ChatGPT et Perplexity",
+      "description": "À retenir Introduction Depuis 20 ans, j’optimise des sites pour Google. Aujourd’hui, un changement de fond s’opère : de plus en plus de gens posent leur question directement à une IA — ChatGPT, Perple...",
+      "url": "https://descary.com/optimisation-pour-les-moteurs-generatifs/",
+      "source": "Descary.com",
+      "publishedAt": "2026-07-24T15:43:16Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -50,16 +38,16 @@
       "thumbnail": "https://i.ytimg.com/vi/yeXdRiD84ro/hqdefault.jpg"
     },
     {
-      "title": "Comment ChatGPT sait ce que les mots veulent dire (Embeddings)",
-      "description": "Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...",
-      "url": "https://www.youtube.com/watch?v=ktL8oV26XYg",
-      "source": "How AI Works?",
-      "publishedAt": "2026-06-18T08:01:19Z",
+      "title": "JAX Automatic Differentiation – Régression simple, descente de gradient (Python)",
+      "description": "Machine learning. Data science. JAX est une bibliothèque de calcul numérique « à la Numpy » permettant de manipuler les ...",
+      "url": "https://www.youtube.com/watch?v=LKtwwn-W6iM",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-07-20T08:19:53Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "ktL8oV26XYg",
-      "thumbnail": "https://i.ytimg.com/vi/ktL8oV26XYg/hqdefault.jpg"
+      "videoId": "LKtwwn-W6iM",
+      "thumbnail": "https://i.ytimg.com/vi/LKtwwn-W6iM/hqdefault.jpg"
     },
     {
       "title": "Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp; Claude Cowork",
@@ -72,18 +60,6 @@
       "isYouTube": true,
       "videoId": "NURD13ukpQI",
       "thumbnail": "https://i.ytimg.com/vi/NURD13ukpQI/hqdefault.jpg"
-    },
-    {
-      "title": "Pour 2027, les algorithmes sont déjà en campagne",
-      "description": "Le Sénat alerte sur l’impact des algorithmes et de l’intelligence artificielle dans la présidentielle 2027, entre désinformation et inégalités de visibilité.",
-      "url": "https://lenouveauparadigme.fr/pour-2027-les-algorithmes-sont-deja-en-campagne/",
-      "source": "Lenouveauparadigme.fr",
-      "publishedAt": "2026-07-24T07:15:14Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)",
@@ -122,16 +98,28 @@
       "thumbnail": "https://i.ytimg.com/vi/DmHe7VdFfVo/hqdefault.jpg"
     },
     {
-      "title": "Formation Power BI Desktop Complète | Dashboard Professionnel en 1H30 – Power BI #12",
-      "description": "Bonjour à toutes et à tous, J'espère que vous allez très bien. Dans cette formation complète Power BI Desktop, vous allez ...",
-      "url": "https://www.youtube.com/watch?v=-sqQb0OViwg",
-      "source": "Martinien Adda",
-      "publishedAt": "2026-05-26T16:00:11Z",
-      "category": "data",
+      "title": "Comment J’apprendrais l’IA en 2026 (si je devais recommencer)",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4fRlc8U Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=1eOQtGqgeyU",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-06-01T15:00:04Z",
+      "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "-sqQb0OViwg",
-      "thumbnail": "https://i.ytimg.com/vi/-sqQb0OViwg/hqdefault.jpg"
+      "videoId": "1eOQtGqgeyU",
+      "thumbnail": "https://i.ytimg.com/vi/1eOQtGqgeyU/hqdefault.jpg"
+    },
+    {
+      "title": "Chaque IA Expliquée en 19 Minutes",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4oIKXLh Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=bof3sJ9P5Ss",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-06-21T15:00:12Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "bof3sJ9P5Ss",
+      "thumbnail": "https://i.ytimg.com/vi/bof3sJ9P5Ss/hqdefault.jpg"
     },
     {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
@@ -146,16 +134,16 @@
       "thumbnail": "https://i.ytimg.com/vi/-kGlpSTHPf4/hqdefault.jpg"
     },
     {
-      "title": "Power BI : je construis un tableau de bord pour mon client (de A à Z)",
-      "description": "Apprends les bases indispensables de Power BI et réalise ton premier tableau de bord en moins d'une heure ! Au travers d'un ...",
-      "url": "https://www.youtube.com/watch?v=OhT0MEFKylY",
-      "source": "Alexandre STEVENS",
-      "publishedAt": "2026-05-26T15:00:25Z",
+      "title": "Power BI Creer un tableau de bord de A à Z",
+      "description": "FORMATION POWER BI GRATUITE – VIDÉO 3 : CRÉATION D'UN TABLEAU DE BORD INTERACTIF DE A À Z Bienvenue dans ...",
+      "url": "https://www.youtube.com/watch?v=5zWEMjvm86o",
+      "source": "Ceemtic Analytics",
+      "publishedAt": "2026-06-13T21:22:56Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "OhT0MEFKylY",
-      "thumbnail": "https://i.ytimg.com/vi/OhT0MEFKylY/hqdefault.jpg"
+      "videoId": "5zWEMjvm86o",
+      "thumbnail": "https://i.ytimg.com/vi/5zWEMjvm86o/hqdefault.jpg"
     },
     {
       "title": "Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant",
@@ -194,16 +182,28 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
-      "title": "Relation client : l'IA traitera bientôt un dossier sur deux, mais 90 % des Français préfèrent encore l'humain",
-      "description": "L'IA transforme la relation client sans remplacer l'humain. Le modèle hybride combine rapidité, disponibilité et empathie pour offrir une expérience plus efficace et plus humaine.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1552959-relation-client-l-ia-traitera-bientot-un-dossier-sur-deux-mais-90-des-francais-preferent-encore-l-humain/",
-      "source": "JDN",
-      "publishedAt": "2026-07-24T07:33:53Z",
+      "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
+      "description": "Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...",
+      "url": "https://www.youtube.com/watch?v=OKS6wtA2lAA",
+      "source": "OUJOOD",
+      "publishedAt": "2026-06-03T12:13:50Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "OKS6wtA2lAA",
+      "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
+    },
+    {
+      "title": "Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀",
+      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
+      "url": "https://www.youtube.com/watch?v=1Kokkl5PybM",
+      "source": "Morpheus Formation | Excel, Power BI, Sheets",
+      "publishedAt": "2026-06-04T09:00:14Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1Kokkl5PybM",
+      "thumbnail": "https://i.ytimg.com/vi/1Kokkl5PybM/hqdefault.jpg"
     },
     {
       "title": "Découvrez notre formation sur Power BI #data #powerbi",
@@ -218,11 +218,11 @@
       "thumbnail": "https://i.ytimg.com/vi/5XRR3C0nQLg/hqdefault.jpg"
     },
     {
-      "title": "Baromètre 2026 Assureurs Animaux",
-      "description": "Jeu de données issu du **Baromètre de l'assurance santé animale 2026**, une analyse des offres de **15 assureurs** proposant des contrats santé pour chien et chat en France. Les données ont été relevé...",
-      "url": "https://www.data.gouv.fr/datasets/barometre-2026-assureurs-animaux",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-07-24T09:13:15Z",
+      "title": "VPN, antivirus, données personnelles : ce pack Surfshark passe en promo",
+      "description": "Surfshark One+ réunit VPN, antivirus et outils de protection des données dans une seule offre.Une solution pensée pour renforcer la confidentialité en ligne sans multiplier les abonnements.",
+      "url": "https://www.futura-sciences.com/conso/bons-plans/guides-vpn-vpn-antivirus-donnees-personnelles-ce-pack-surfshark-passe-promo-10775/",
+      "source": "Futura",
+      "publishedAt": "2026-07-25T09:00:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,16 +230,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Comment créer une base de données avec le langage SQL ?",
-      "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
-      "url": "https://www.youtube.com/watch?v=19JD2vconJ0",
-      "source": "OpenClassrooms en Français",
-      "publishedAt": "2026-07-01T04:00:13Z",
+      "title": "Histoire SF: Biatinic, vous faire vire 200 ans",
+      "description": "Histoire SF: Biatinic, vous faire vire 200 ans <3",
+      "url": "https://linuxfr.org/users/oliver_h/journaux/histoire-sf-biatinic-vous-faire-vire-200-ans-3",
+      "source": "Linuxfr.org",
+      "publishedAt": "2026-07-24T20:20:21Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "19JD2vconJ0",
-      "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Computer Vision - De la Théorie au Code en 1H",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "Le mode vocal de Claude s’améliore sur iPhone avec des modèles IA plus puissants",
-      "description": "Anthropic déploie une nouvelle version du mode vocal de Claude, en bêta ouverte à tous les utilisateurs. Cet assistant utilise désormais des modèles d’intelligence artificielle plus puissants, à savoi...",
-      "url": "https://kulturegeek.fr/news-356026/mode-vocal-claude-sameliore-modeles-ia-plus-puissants",
-      "source": "KultureGeek",
-      "publishedAt": "2026-07-24T09:04:01Z",
+      "title": "L’agent rebel d’OpenAI pousse le Congrès à réclamer un bouton d’arrêt d’urgence",
+      "description": "Les craintes d’une intelligence artificielle échappant à tout contrôle prennent une tournure concrète. Récemment, des modèles d’OpenAI se sont échappés d’un environnement de test sécurisé. Ils ont pir...",
+      "url": "https://www.fredzone.org/lagent-rebelle-dopenai-pousse-le-congres-a-reclamer-un-bouton-darret-durgence/",
+      "source": "FREDZONE",
+      "publishedAt": "2026-07-25T03:13:46Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,23 @@
       "thumbnail": ""
     },
     {
-      "title": "À cause du piratage raté d’OpenAI, l’IA pourrait être coupée sur simple ordre du gouvernement américain",
-      "description": "Aux États-Unis, deux élus veulent obliger les géants de l'intelligence artificielle à installer un bouton d'arrêt d'urgence. En cas de dérapage grave, l'État pourrait ordonner l'extinction pure et sim...",
-      "url": "https://www.phonandroid.com/a-cause-du-piratage-rate-dopenai-lia-pourrait-etre-coupee-sur-simple-ordre-du-gouvernement-americain.html",
+      "title": "SpaceXAI dégaine son plug-in Grok pour Excel : un ajout tardif dans un marché déjà saturé",
+      "description": "Le secteur de la productivité assistée par intelligence artificielle vient d’accueillir un nouvel acteur. SpaceXAI (anciennement xAI) a officiellement lancé un module complémentaire Grok destiné à Mic...",
+      "url": "https://www.fredzone.org/spacexai-degaine-son-plug-in-grok-pour-excel-un-ajout-tardif-dans-un-marche-deja-sature/",
+      "source": "FREDZONE",
+      "publishedAt": "2026-07-25T06:24:53Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L’intelligence artificielle devient championne en maths, et c’est une première",
+      "description": "De plus en plus intelligente, l’IA est en train de marquer des points. Deux d’entre elles, développées par Huawei et Xiaohongshu, ont réussi à obtenir le score parfait au prestigieux...",
+      "url": "https://www.phonandroid.com/lintelligence-artificielle-devient-championne-en-maths-et-cest-une-premiere.html",
       "source": "Phonandroid",
-      "publishedAt": "2026-07-24T08:07:40Z",
+      "publishedAt": "2026-07-25T10:03:24Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,23 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Axa complète son secure GPT par Copilot pour Microsoft 365",
-      "description": "Quelques années après la généralisation de son IA générative privée, Axa initie le déploiement progressif de Microsoft 365 Copilot. L’IA dans les outils Office est présentée comme une nouvelle étape v...",
-      "url": "https://www.zdnet.fr/actualites/axa-complete-son-secure-gpt-par-copilot-pour-microsoft-365-498980.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-07-24T09:08:34Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Photos professionnelles générées par IA : les questions RGPD que toute entreprise devrait poser",
-      "description": "Les générateurs de portraits professionnels par IA séduisent les entreprises. Mais confier les visages de ses collaborateurs à une IA n'est pas un achat logiciel comme un autre. Les questions à poser.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1552921-photos-professionnelles-generees-par-ia-les-questions-rgpd-que-toute-entreprise-devrait-poser/",
-      "source": "JDN",
-      "publishedAt": "2026-07-24T07:35:21Z",
+      "title": "Intelligence artificielle, quand la bulle éclatera",
+      "description": "Pour la première fois depuis 22 ans, Google a dépensé plus d’argent qu’il n’en a gagné en un trimestre, en raison de ses investissements dans les data centers. Toute l’industrie de l’IA commence à êtr...",
+      "url": "https://www.mediapart.fr/journal/economie-et-social/250726/intelligence-artificielle-quand-la-bulle-eclatera",
+      "source": "Mediapart",
+      "publishedAt": "2026-07-25T05:38:30Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
