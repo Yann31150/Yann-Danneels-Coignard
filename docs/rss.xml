@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 26 Jul 2026 10:03:37 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 11:28:59 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,20 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Un "cyberincident sans précédent" : ce que l'on sait de la cyberattaque menée de leur propre initiative par les modèles d'OpenAI</title>
-            <link>https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-cyberincident-sans-precedent-ce-que-l-on-sait-de-la-cyberattaque-menee-de-leur-propre-initiative-par-les-modeles-d-openai_8120441.html</link>
-            <description><![CDATA[Le créateur de ChatGPT a annoncé mardi que ses modèles d'intelligence artificielle avancés s'étaient emballés lors de tests de sécurité : ils sont parvenus à exploiter des failles pour accéder à inter...]]></description>
-            <pubDate>Sat, 25 Jul 2026 05:12:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-cyberincident-sans-precedent-ce-que-l-on-sait-de-la-cyberattaque-menee-de-leur-propre-initiative-par-les-modeles-d-openai_8120441.html</guid>
-            <source>Franceinfo.fr</source>
+            <title>Portrait – 6 infos clés pour comprendre Mira Murati, l’une des figures les plus importantes de l’IA qui a façonné ChatGPT</title>
+            <link>https://www.presse-citron.net/portrait-6-infos-cles-pour-comprendre-mira-murati-figures-plus-importantes-ia-faconne-chatgpt/</link>
+            <description><![CDATA[De l'ombre de ChatGPT à la tête d'une startup valorisée 12 milliards de dollars, Mira Murati s'est imposée comme l'une des figures les plus influentes et convoitées de la Silicon Valley. Retour sur la...]]></description>
+            <pubDate>Sun, 26 Jul 2026 08:00:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/portrait-6-infos-cles-pour-comprendre-mira-murati-figures-plus-importantes-ia-faconne-chatgpt/</guid>
+            <source>Presse-citron</source>
         </item>
         <item>
-            <title>Optimisation pour les moteurs génératifs (GEO) : comment être cité par ChatGPT et Perplexity</title>
-            <link>https://descary.com/optimisation-pour-les-moteurs-generatifs/</link>
-            <description><![CDATA[À retenir Introduction Depuis 20 ans, j’optimise des sites pour Google. Aujourd’hui, un changement de fond s’opère : de plus en plus de gens posent leur question directement à une IA — ChatGPT, Perple...]]></description>
-            <pubDate>Fri, 24 Jul 2026 15:43:16 -0000</pubDate>
-            <guid isPermaLink="true">https://descary.com/optimisation-pour-les-moteurs-generatifs/</guid>
-            <source>Descary.com</source>
+            <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
+            <link>https://www.youtube.com/watch?v=9R-humPn-eo</link>
+            <description><![CDATA[Vous souhaitez maîtriser Microsoft Power BI et apprendre à créer vos rapports pas à pas ? Microsoft Power BI est aujourd'hui l'un ...]]></description>
+            <pubDate>Sun, 26 Jul 2026 15:00:27 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=9R-humPn-eo</guid>
+            <source>JUFIP</source>
         </item>
         <item>
             <title>Leçon 4 - Fonction de coût - Cours Complet de Deep Learning</title>
@@ -45,6 +45,14 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
+            <title>⚡ Cette intelligence artificielle exploite directement la physique au lieu des GPU</title>
+            <link>https://www.techno-science.net/fr/actualites/intelligence-artificielle-oscillateurs-reduire-energie-generation-29072</link>
+            <description><![CDATA[Une jeune entreprise américaine propose une autre manière de faire fonctionner une intelligence artificielle générative. Son modèle Un-0 produit des images avec un système d’oscillateurs couplés, au l...]]></description>
+            <pubDate>Sun, 26 Jul 2026 04:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.techno-science.net/fr/actualites/intelligence-artificielle-oscillateurs-reduire-energie-generation-29072</guid>
+            <source>Techno-science.net</source>
+        </item>
+        <item>
             <title>Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp;amp; Claude Cowork</title>
             <link>https://www.youtube.com/watch?v=NURD13ukpQI</link>
             <description><![CDATA[Bienvenue dans le Jour 1 de cette formation complète consacrée à l'analyse des données avec Claude AI. Dans cette première ...]]></description>
@@ -61,36 +69,28 @@
             <source>lioncode</source>
         </item>
         <item>
+            <title>Les entreprises investissent dans les données. Pourquoi investissent-elles si peu dans la preuve ?</title>
+            <link>https://www.journaldunet.com/management/direction-generale/1553031-les-entreprises-investissent-dans-les-donnees-pourquoi-investissent-elles-si-peu-dans-la-preuve/</link>
+            <description><![CDATA[À l'heure où les entreprises pilotent leurs activités grâce aux données, leur véritable défi est désormais de transformer l'information en preuve pour sécuriser leurs décisions.]]></description>
+            <pubDate>Sun, 26 Jul 2026 10:00:12 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/management/direction-generale/1553031-les-entreprises-investissent-dans-les-donnees-pourquoi-investissent-elles-si-peu-dans-la-preuve/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
+            <title>Comment une IA d’OpenAI a échappé à toute surveillance pendant une semaine</title>
+            <link>https://www.macg.co/intelligence-artificielle/2026/07/comment-une-ia-dopenai-echappe-toute-surveillance-pendant-une-semaine-309993</link>
+            <description><![CDATA[C'est sans doute l'une des histoires les plus fascinantes et inquiétantes que l'intelligence artificielle nous ait offertes à ce jour. Le 21 juillet dernier, on apprenait que la plateforme Hugging Fac...]]></description>
+            <pubDate>Sun, 26 Jul 2026 10:03:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.macg.co/intelligence-artificielle/2026/07/comment-une-ia-dopenai-echappe-toute-surveillance-pendant-une-semaine-309993</guid>
+            <source>MacGeneration</source>
+        </item>
+        <item>
             <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
             <link>https://www.youtube.com/watch?v=IanWrDWQy0s</link>
             <description><![CDATA[Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...]]></description>
             <pubDate>Sat, 20 Jun 2026 17:56:01 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=IanWrDWQy0s</guid>
             <source>Seif BOUGUERRA</source>
-        </item>
-        <item>
-            <title>Formation Complète STATA | Analyse de Données et Statistiques (Débutant à Avancé)</title>
-            <link>https://www.youtube.com/watch?v=DmHe7VdFfVo</link>
-            <description><![CDATA[Maîtrisez STATA grâce à cette formation complète en français ! Dans cette formation, vous apprendrez à utiliser STATA pour ...]]></description>
-            <pubDate>Tue, 21 Jul 2026 00:22:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=DmHe7VdFfVo</guid>
-            <source>Young Business School</source>
-        </item>
-        <item>
-            <title>Comment J’apprendrais l’IA en 2026 (si je devais recommencer)</title>
-            <link>https://www.youtube.com/watch?v=1eOQtGqgeyU</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4fRlc8U Rejoins ma communauté ...]]></description>
-            <pubDate>Mon, 01 Jun 2026 15:00:04 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1eOQtGqgeyU</guid>
-            <source>Yassine Sdiri</source>
-        </item>
-        <item>
-            <title>Chaque IA Expliquée en 19 Minutes</title>
-            <link>https://www.youtube.com/watch?v=bof3sJ9P5Ss</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4oIKXLh Rejoins ma communauté ...]]></description>
-            <pubDate>Sun, 21 Jun 2026 15:00:12 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=bof3sJ9P5Ss</guid>
-            <source>Yassine Sdiri</source>
         </item>
         <item>
             <title>NumPy &amp;amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes</title>
@@ -141,14 +141,6 @@
             <source>OUJOOD</source>
         </item>
         <item>
-            <title>Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀</title>
-            <link>https://www.youtube.com/watch?v=1Kokkl5PybM</link>
-            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
-            <pubDate>Thu, 04 Jun 2026 09:00:14 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1Kokkl5PybM</guid>
-            <source>Morpheus Formation | Excel, Power BI, Sheets</source>
-        </item>
-        <item>
             <title>Découvrez notre formation sur Power BI #data #powerbi</title>
             <link>https://www.youtube.com/watch?v=5XRR3C0nQLg</link>
             <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
@@ -157,20 +149,28 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>VPN, antivirus, données personnelles : ce pack Surfshark passe en promo</title>
-            <link>https://www.futura-sciences.com/conso/bons-plans/guides-vpn-vpn-antivirus-donnees-personnelles-ce-pack-surfshark-passe-promo-10775/</link>
-            <description><![CDATA[Surfshark One+ réunit VPN, antivirus et outils de protection des données dans une seule offre.Une solution pensée pour renforcer la confidentialité en ligne sans multiplier les abonnements.]]></description>
-            <pubDate>Sat, 25 Jul 2026 09:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/conso/bons-plans/guides-vpn-vpn-antivirus-donnees-personnelles-ce-pack-surfshark-passe-promo-10775/</guid>
+            <title>511 milliards de barils sous l'Antarctique ? Ces nouvelles données alimentent toutes les spéculations</title>
+            <link>https://www.futura-sciences.com/planete/actualites/antarctique-511-milliards-barils-sous-antarctique-ces-nouvelles-donnees-alimentent-toutes-speculations-k2m6-136391/</link>
+            <description><![CDATA[511 milliards de barils de pétrole sous les glaces de l'Antarctique : de quoi presque doubler les réserves connues de l'Arabie saoudite. Des navires russes cartographient les fonds marins d'une zone r...]]></description>
+            <pubDate>Sun, 26 Jul 2026 08:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/planete/actualites/antarctique-511-milliards-barils-sous-antarctique-ces-nouvelles-donnees-alimentent-toutes-speculations-k2m6-136391/</guid>
             <source>Futura</source>
         </item>
         <item>
-            <title>Histoire SF: Biatinic, vous faire vire 200 ans</title>
-            <link>https://linuxfr.org/users/oliver_h/journaux/histoire-sf-biatinic-vous-faire-vire-200-ans-3</link>
-            <description><![CDATA[Histoire SF: Biatinic, vous faire vire 200 ans &lt;3]]></description>
-            <pubDate>Fri, 24 Jul 2026 20:20:21 -0000</pubDate>
-            <guid isPermaLink="true">https://linuxfr.org/users/oliver_h/journaux/histoire-sf-biatinic-vous-faire-vire-200-ans-3</guid>
-            <source>Linuxfr.org</source>
+            <title>Comment créer une base de données avec le langage SQL ?</title>
+            <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
+            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
+            <pubDate>Wed, 01 Jul 2026 04:00:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=19JD2vconJ0</guid>
+            <source>OpenClassrooms en Français</source>
+        </item>
+        <item>
+            <title>Des données de pompiers français exposées en série</title>
+            <link>https://www.zataz.com/des-donnees-de-pompiers-francais-exposees-en-serie/</link>
+            <description><![CDATA[Plusieurs SDIS et Pompiers.fr sont visés par des fuites de données, des documents internes et un accès administrateur.]]></description>
+            <pubDate>Sun, 26 Jul 2026 00:51:59 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zataz.com/des-donnees-de-pompiers-francais-exposees-en-serie/</guid>
+            <source>Zataz.com</source>
         </item>
     </channel>
 </rss>
