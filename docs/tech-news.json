@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-07-27T11:28:59.366377",
+  "lastUpdate": "2026-07-28T10:39:16.765660",
   "articles": [
     {
-      "title": "Portrait – 6 infos clés pour comprendre Mira Murati, l’une des figures les plus importantes de l’IA qui a façonné ChatGPT",
-      "description": "De l'ombre de ChatGPT à la tête d'une startup valorisée 12 milliards de dollars, Mira Murati s'est imposée comme l'une des figures les plus influentes et convoitées de la Silicon Valley. Retour sur la...",
-      "url": "https://www.presse-citron.net/portrait-6-infos-cles-pour-comprendre-mira-murati-figures-plus-importantes-ia-faconne-chatgpt/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-07-26T08:00:34Z",
+      "title": "Actualité : \"C'est le moment\" : Sam Altman annonce que l'IA a franchi un point de non-retour",
+      "description": "Le créateur de ChatGPT affirme que les machines ont dépassé l'humanité. Le timing interroge : trois jours plus tôt, un agent IA de sa propre entreprise s'évadait de son confinement et piratait une ent...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/c-est-le-moment-sam-altman-annonce-que-l-ia-a-franchi-un-point-de-non-retour-n259746.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-07-27T06:01:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -50,18 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/LKtwwn-W6iM/hqdefault.jpg"
     },
     {
-      "title": "⚡ Cette intelligence artificielle exploite directement la physique au lieu des GPU",
-      "description": "Une jeune entreprise américaine propose une autre manière de faire fonctionner une intelligence artificielle générative. Son modèle Un-0 produit des images avec un système d’oscillateurs couplés, au l...",
-      "url": "https://www.techno-science.net/fr/actualites/intelligence-artificielle-oscillateurs-reduire-energie-generation-29072",
-      "source": "Techno-science.net",
-      "publishedAt": "2026-07-26T04:00:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp; Claude Cowork",
       "description": "Bienvenue dans le Jour 1 de cette formation complète consacrée à l'analyse des données avec Claude AI. Dans cette première ...",
       "url": "https://www.youtube.com/watch?v=NURD13ukpQI",
@@ -86,30 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
     },
     {
-      "title": "Les entreprises investissent dans les données. Pourquoi investissent-elles si peu dans la preuve ?",
-      "description": "À l'heure où les entreprises pilotent leurs activités grâce aux données, leur véritable défi est désormais de transformer l'information en preuve pour sécuriser leurs décisions.",
-      "url": "https://www.journaldunet.com/management/direction-generale/1553031-les-entreprises-investissent-dans-les-donnees-pourquoi-investissent-elles-si-peu-dans-la-preuve/",
-      "source": "JDN",
-      "publishedAt": "2026-07-26T10:00:12Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comment une IA d’OpenAI a échappé à toute surveillance pendant une semaine",
-      "description": "C'est sans doute l'une des histoires les plus fascinantes et inquiétantes que l'intelligence artificielle nous ait offertes à ce jour. Le 21 juillet dernier, on apprenait que la plateforme Hugging Fac...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/07/comment-une-ia-dopenai-echappe-toute-surveillance-pendant-une-semaine-309993",
-      "source": "MacGeneration",
-      "publishedAt": "2026-07-26T10:03:17Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
       "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
       "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
@@ -122,6 +86,42 @@
       "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
     },
     {
+      "title": "Quand l’IA fait flamber le prix des voitures : BYD et GM tirent la sonnette d’alarme",
+      "description": "La crise de la mémoire dopée par l'intelligence artificielle ne se limite plus aux PC et aux smartphones. Elle atteint désormais l'automobile : General Motors prévient d'une forte hausse de ses coûts,...",
+      "url": "https://www.frandroid.com/survoltes/voitures-electriques/3194759_quand-lia-fait-flamber-le-prix-des-voitures-byd-et-gm-tirent-la-sonnette-dalarme",
+      "source": "Frandroid",
+      "publishedAt": "2026-07-27T10:07:08Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Formation Complète STATA | Analyse de Données et Statistiques (Débutant à Avancé)",
+      "description": "Maîtrisez STATA grâce à cette formation complète en français ! Dans cette formation, vous apprendrez à utiliser STATA pour ...",
+      "url": "https://www.youtube.com/watch?v=DmHe7VdFfVo",
+      "source": "Young Business School",
+      "publishedAt": "2026-07-21T00:22:01Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "DmHe7VdFfVo",
+      "thumbnail": "https://i.ytimg.com/vi/DmHe7VdFfVo/hqdefault.jpg"
+    },
+    {
+      "title": "Comment J’apprendrais l’IA en 2026 (si je devais recommencer)",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4fRlc8U Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=1eOQtGqgeyU",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-06-01T15:00:04Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1eOQtGqgeyU",
+      "thumbnail": "https://i.ytimg.com/vi/1eOQtGqgeyU/hqdefault.jpg"
+    },
+    {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
       "description": "NumPy et Pandas sont les deux bibliothèques qui font de Python le roi de la data science. Ce cours complet te donne tout le ...",
       "url": "https://www.youtube.com/watch?v=-kGlpSTHPf4",
@@ -132,18 +132,6 @@
       "isYouTube": true,
       "videoId": "-kGlpSTHPf4",
       "thumbnail": "https://i.ytimg.com/vi/-kGlpSTHPf4/hqdefault.jpg"
-    },
-    {
-      "title": "Power BI Creer un tableau de bord de A à Z",
-      "description": "FORMATION POWER BI GRATUITE – VIDÉO 3 : CRÉATION D'UN TABLEAU DE BORD INTERACTIF DE A À Z Bienvenue dans ...",
-      "url": "https://www.youtube.com/watch?v=5zWEMjvm86o",
-      "source": "Ceemtic Analytics",
-      "publishedAt": "2026-06-13T21:22:56Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "5zWEMjvm86o",
-      "thumbnail": "https://i.ytimg.com/vi/5zWEMjvm86o/hqdefault.jpg"
     },
     {
       "title": "Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant",
@@ -182,16 +170,40 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
-      "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
-      "description": "Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...",
-      "url": "https://www.youtube.com/watch?v=OKS6wtA2lAA",
-      "source": "OUJOOD",
-      "publishedAt": "2026-06-03T12:13:50Z",
+      "title": "Comment analyser vos données avec Claude Code | Formation Complète Claude pour Data Analyst de A à Z",
+      "description": "Bienvenue dans cette formation complète consacrée à l'analyse des données avec Claude. Vous comprendrez ce qu'est Claude ...",
+      "url": "https://www.youtube.com/watch?v=Z1Y41sOVWyQ",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-07-21T15:59:13Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "OKS6wtA2lAA",
-      "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
+      "videoId": "Z1Y41sOVWyQ",
+      "thumbnail": "https://i.ytimg.com/vi/Z1Y41sOVWyQ/hqdefault.jpg"
+    },
+    {
+      "title": "C'est du jamais-vu : on a découvert une supernova « binaire » !",
+      "description": "En combinant des données à plusieurs longueurs d'onde et notamment dans les domaines des rayons gamma et X, une équipe d'astrophysiciens a vérifié une théorie de longue date. On a enfin découvert les ...",
+      "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-cest-jamais-vu-on-decouvert-supernova-binaire-136482/",
+      "source": "Futura",
+      "publishedAt": "2026-07-27T10:03:23Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Actualité : Votre chien a quelque chose à vous dire : Invoxia fait parler ses données de santé",
+      "description": "Avec Ask your Dog, Invoxia transforme les informations recueillies par son collier Biotracker en messages rédigés à la première personne. Le chien ne parle évidemment pas encore, mais son rythme cardi...",
+      "url": "https://www.lesnumeriques.com/objet-connecte-pour-animaux/votre-chien-a-quelque-chose-a-vous-dire-invoxia-fait-parler-ses-donnees-de-sante-n259751.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-07-27T10:33:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Découvrez notre formation sur Power BI #data #powerbi",
@@ -230,18 +242,6 @@
       "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
-      "title": "Des données de pompiers français exposées en série",
-      "description": "Plusieurs SDIS et Pompiers.fr sont visés par des fuites de données, des documents internes et un accès administrateur.",
-      "url": "https://www.zataz.com/des-donnees-de-pompiers-francais-exposees-en-serie/",
-      "source": "Zataz.com",
-      "publishedAt": "2026-07-26T00:51:59Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Computer Vision - De la Théorie au Code en 1H",
       "description": "Dans cette vidéo, on vulgarise la computer vision en deux temps : d'abord un état de l'art des tâches principales et des grandes ...",
       "url": "https://www.youtube.com/watch?v=MYhsbnBdUEQ",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "L’intelligence artificielle devient championne en maths, et c’est une première",
-      "description": "De plus en plus intelligente, l’IA est en train de marquer des points. Deux d’entre elles, développées par Huawei et Xiaohongshu, ont réussi à obtenir le score parfait au prestigieux...",
-      "url": "https://www.phonandroid.com/lintelligence-artificielle-devient-championne-en-maths-et-cest-une-premiere.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-07-25T10:03:24Z",
+      "title": "Foire agricole de Libramont : “L’intelligence artificielle m’aide chaque jour à la ferme”",
+      "description": "À la ferme connectée d’Henri Louvigny à Bougnimont (Libramont), l’IA allège la charge administrative et prodigue des conseils pour réussir les cultures sur base des résultats des analyses de sol.\n ...",
+      "url": "https://www.dhnet.be/regions/luxembourg/2026/07/26/foire-agricole-de-libramont-lintelligence-artificielle-maide-chaque-jour-a-la-ferme-5NSBO2EBBFDOXAB5UQPZZALDHU/",
+      "source": "dh.be",
+      "publishedAt": "2026-07-26T13:22:26Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Actualité : La musique par IA dépasse 50 % des nouveaux titres : quelle plateforme choisir pour l'éviter ?",
-      "description": "Pour la première fois, les morceaux générés par intelligence artificielle sont devenus majoritaires parmi les nouvelles musiques mises en ligne sur Deezer. Face à cette vague sans précédent, les plate...",
-      "url": "https://www.lesnumeriques.com/musique/la-musique-par-ia-depasse-50-des-nouveaux-titres-quelle-plateforme-choisir-pour-l-eviter-n259652.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-07-26T08:43:00Z",
+      "title": "Start-ups à impact : le groupe Manutan dévoile les 12 finalistes de la 6 e édition de son programme « Moov’with Manutan »",
+      "description": "Le groupe Manutan annonce les 12 start-ups finalistes de la 6e édition de Moov’with Manutan, son programme d’accélération dédié aux jeunes pousses B2B à impact. Déployé en partenariat avec le Moovjee,...",
+      "url": "https://www.frenchweb.fr/start-ups-a-impact-le-groupe-manutan-devoile-les-12-finalistes-de-la-6-e-edition-de-son-programme-moovwith-manutan/462796",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-07-27T06:49:37Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Kimi K3 : le nouveau modèle IA géant chinois est presque au niveau des meilleurs",
-      "description": "Avec Kimi K3, la start-up chinoise Moonshot AI a dévoilé une IA capable de rivaliser avec certains des meilleurs modèles américains. Elle sera rendue plus largement accessible le 27 juillet, même si s...",
-      "url": "https://www.journaldugeek.com/2026/07/26/kimi-k3-le-nouveau-modele-ia-geant-chinois-est-presque-au-niveau-des-meilleurs/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-07-26T09:03:13Z",
+      "title": "Retour d’expérience : comment j'ai résolu le problème de connexion Wifi instable de mon bureau à domicile grâce à l'outil de diagnostic gratuit de Samsung",
+      "description": "Une récente augmentation des latences et des déconnexions m'a poussé à revoir la configuration de mon espace de travail à la maison. Voici comment j'ai validé ma solution avec Connectivity Labs du fab...",
+      "url": "https://www.zdnet.fr/pratique/retour-dexperience-comment-jai-resolu-le-probleme-de-connexion-wifi-instable-de-mon-bureau-a-domicile-grace-a-loutil-de-diagnostic-gratuit-de-samsung-498994.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-07-27T08:07:15Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Actualité : BeeStation Plus : le cloud à la maison de Synology, aux frontières du NAS",
-      "description": "Pas vraiment un NAS, pas vraiment un simple disque dur : la BeeStation Plus est, selon son constructeur Synology, une solution de “stockage cloud personnel”. Derrière cette appellation maison se cache...",
-      "url": "https://www.lesnumeriques.com/nas/beestation-plus-le-cloud-a-la-maison-de-synology-aux-frontieres-du-nas-n259670.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-07-25T13:00:00Z",
+      "title": "« C’est encore pire » : le réalisateur de District 9 a fait un film entièrement généré par l’IA, les internautes le dézinguent",
+      "description": "Neill Blomkamp vient de dévoiler un court-métrage réalisé entièrement avec l’IA et les internautes ne cachent pas leur dégoût. \nThe post « C’est encore pire » : le réalisateur de District 9 a fait un ...",
+      "url": "https://dailygeekshow.com/?p=1013377",
+      "source": "Daily Geek Show",
+      "publishedAt": "2026-07-27T09:47:39Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
