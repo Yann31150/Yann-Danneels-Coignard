@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-07-28T10:39:16.765660",
+  "lastUpdate": "2026-07-29T10:42:39.045009",
   "articles": [
-    {
-      "title": "Actualité : \"C'est le moment\" : Sam Altman annonce que l'IA a franchi un point de non-retour",
-      "description": "Le créateur de ChatGPT affirme que les machines ont dépassé l'humanité. Le timing interroge : trois jours plus tôt, un agent IA de sa propre entreprise s'évadait de son confinement et piratait une ent...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/c-est-le-moment-sam-altman-annonce-que-l-ia-a-franchi-un-point-de-non-retour-n259746.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-07-27T06:01:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
       "description": "Vous souhaitez maîtriser Microsoft Power BI et apprendre à créer vos rapports pas à pas ? Microsoft Power BI est aujourd'hui l'un ...",
@@ -74,6 +62,18 @@
       "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
     },
     {
+      "title": "BULL ET KALRAY S'ASSOCIENT POUR DÉVELOPPER LA PROCHAINE GÉNÉRATION DE RÉSEAUX À HAUTE VITESSE POUR L'ÈRE DE L'IA",
+      "description": "Grenoble, le 28 juillet 2026 – Bull, leader dans le calcul avancé et l’intelligence artificielle, et Kalray (Euronext Growth Paris : ALKAL), spécialiste des technologies matérielles et logicielles pou...",
+      "url": "https://www.globenewswire.com/news-release/2026/07/28/3334045/0/fr/BULL-ET-KALRAY-S-ASSOCIENT-POUR-D%C3%89VELOPPER-LA-PROCHAINE-G%C3%89N%C3%89RATION-DE-R%C3%89SEAUX-%C3%80-HAUTE-VITESSE-POUR-L-%C3%88RE-DE-L-IA.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-28T09:04:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
       "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
       "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
@@ -86,28 +86,16 @@
       "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
     },
     {
-      "title": "Quand l’IA fait flamber le prix des voitures : BYD et GM tirent la sonnette d’alarme",
-      "description": "La crise de la mémoire dopée par l'intelligence artificielle ne se limite plus aux PC et aux smartphones. Elle atteint désormais l'automobile : General Motors prévient d'une forte hausse de ses coûts,...",
-      "url": "https://www.frandroid.com/survoltes/voitures-electriques/3194759_quand-lia-fait-flamber-le-prix-des-voitures-byd-et-gm-tirent-la-sonnette-dalarme",
-      "source": "Frandroid",
-      "publishedAt": "2026-07-27T10:07:08Z",
+      "title": "KomikoAI : une fuite relie courriels et prompts",
+      "description": "Des données personnelles d'un professionnel de l'IA piratés : courriels, identifiants, contenus générés et prompts d’utilisateurs.",
+      "url": "https://www.zataz.com/komikoai-une-fuite-relie-courriels-et-prompts/",
+      "source": "Zataz.com",
+      "publishedAt": "2026-07-28T09:01:19Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
-    },
-    {
-      "title": "Formation Complète STATA | Analyse de Données et Statistiques (Débutant à Avancé)",
-      "description": "Maîtrisez STATA grâce à cette formation complète en français ! Dans cette formation, vous apprendrez à utiliser STATA pour ...",
-      "url": "https://www.youtube.com/watch?v=DmHe7VdFfVo",
-      "source": "Young Business School",
-      "publishedAt": "2026-07-21T00:22:01Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "DmHe7VdFfVo",
-      "thumbnail": "https://i.ytimg.com/vi/DmHe7VdFfVo/hqdefault.jpg"
     },
     {
       "title": "Comment J’apprendrais l’IA en 2026 (si je devais recommencer)",
@@ -122,6 +110,18 @@
       "thumbnail": "https://i.ytimg.com/vi/1eOQtGqgeyU/hqdefault.jpg"
     },
     {
+      "title": "Chaque IA Expliquée en 19 Minutes",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4oIKXLh Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=bof3sJ9P5Ss",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-06-21T15:00:12Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "bof3sJ9P5Ss",
+      "thumbnail": "https://i.ytimg.com/vi/bof3sJ9P5Ss/hqdefault.jpg"
+    },
+    {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
       "description": "NumPy et Pandas sont les deux bibliothèques qui font de Python le roi de la data science. Ce cours complet te donne tout le ...",
       "url": "https://www.youtube.com/watch?v=-kGlpSTHPf4",
@@ -134,6 +134,18 @@
       "thumbnail": "https://i.ytimg.com/vi/-kGlpSTHPf4/hqdefault.jpg"
     },
     {
+      "title": "Power BI Creer un tableau de bord de A à Z",
+      "description": "FORMATION POWER BI GRATUITE – VIDÉO 3 : CRÉATION D'UN TABLEAU DE BORD INTERACTIF DE A À Z Bienvenue dans ...",
+      "url": "https://www.youtube.com/watch?v=5zWEMjvm86o",
+      "source": "Ceemtic Analytics",
+      "publishedAt": "2026-06-13T21:22:56Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "5zWEMjvm86o",
+      "thumbnail": "https://i.ytimg.com/vi/5zWEMjvm86o/hqdefault.jpg"
+    },
+    {
       "title": "Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant",
       "description": "Formation SQL Débutant avec PostgreSQL et VS Code | Vidéo 1 : Introduction à SQL Bienvenue dans cette première vidéo de ...",
       "url": "https://www.youtube.com/watch?v=3AUqD4ZwGts",
@@ -144,6 +156,18 @@
       "isYouTube": true,
       "videoId": "3AUqD4ZwGts",
       "thumbnail": "https://i.ytimg.com/vi/3AUqD4ZwGts/hqdefault.jpg"
+    },
+    {
+      "title": "Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)",
+      "description": "Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...",
+      "url": "https://www.youtube.com/watch?v=2A5rNESVS9w",
+      "source": "AMVOULA Naïsia ",
+      "publishedAt": "2026-06-14T14:37:38Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "2A5rNESVS9w",
+      "thumbnail": "https://i.ytimg.com/vi/2A5rNESVS9w/hqdefault.jpg"
     },
     {
       "title": "Créer un Dashboard Power BI | Tuto complet de A à Z",
@@ -182,30 +206,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Z1Y41sOVWyQ/hqdefault.jpg"
     },
     {
-      "title": "C'est du jamais-vu : on a découvert une supernova « binaire » !",
-      "description": "En combinant des données à plusieurs longueurs d'onde et notamment dans les domaines des rayons gamma et X, une équipe d'astrophysiciens a vérifié une théorie de longue date. On a enfin découvert les ...",
-      "url": "https://www.futura-sciences.com/sciences/actualites/astronomie-cest-jamais-vu-on-decouvert-supernova-binaire-136482/",
-      "source": "Futura",
-      "publishedAt": "2026-07-27T10:03:23Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Actualité : Votre chien a quelque chose à vous dire : Invoxia fait parler ses données de santé",
-      "description": "Avec Ask your Dog, Invoxia transforme les informations recueillies par son collier Biotracker en messages rédigés à la première personne. Le chien ne parle évidemment pas encore, mais son rythme cardi...",
-      "url": "https://www.lesnumeriques.com/objet-connecte-pour-animaux/votre-chien-a-quelque-chose-a-vous-dire-invoxia-fait-parler-ses-donnees-de-sante-n259751.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-07-27T10:33:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Découvrez notre formation sur Power BI #data #powerbi",
       "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
       "url": "https://www.youtube.com/watch?v=5XRR3C0nQLg",
@@ -216,18 +216,6 @@
       "isYouTube": true,
       "videoId": "5XRR3C0nQLg",
       "thumbnail": "https://i.ytimg.com/vi/5XRR3C0nQLg/hqdefault.jpg"
-    },
-    {
-      "title": "511 milliards de barils sous l'Antarctique ? Ces nouvelles données alimentent toutes les spéculations",
-      "description": "511 milliards de barils de pétrole sous les glaces de l'Antarctique : de quoi presque doubler les réserves connues de l'Arabie saoudite. Des navires russes cartographient les fonds marins d'une zone r...",
-      "url": "https://www.futura-sciences.com/planete/actualites/antarctique-511-milliards-barils-sous-antarctique-ces-nouvelles-donnees-alimentent-toutes-speculations-k2m6-136391/",
-      "source": "Futura",
-      "publishedAt": "2026-07-26T08:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Comment créer une base de données avec le langage SQL ?",
@@ -242,6 +230,18 @@
       "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
+      "title": "Un cabriolet électrique chez BMW ? La i4 doit renaître sous une forme inédite",
+      "description": "En 2028, BMW déclinera sa prochaine berline i4 en une version décapotable. Un type de carrosserie bien rare sur le marché et pourtant important pour l'image de marque. BMW ne manque pas d'ambition sur...",
+      "url": "https://www.numerama.com/vroom/2302727-un-cabriolet-electrique-chez-bmw-la-i4-doit-renaitre-sous-une-forme-inedite.html",
+      "source": "Numerama",
+      "publishedAt": "2026-07-28T09:19:47Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Computer Vision - De la Théorie au Code en 1H",
       "description": "Dans cette vidéo, on vulgarise la computer vision en deux temps : d'abord un état de l'art des tâches principales et des grandes ...",
       "url": "https://www.youtube.com/watch?v=MYhsbnBdUEQ",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "Foire agricole de Libramont : “L’intelligence artificielle m’aide chaque jour à la ferme”",
-      "description": "À la ferme connectée d’Henri Louvigny à Bougnimont (Libramont), l’IA allège la charge administrative et prodigue des conseils pour réussir les cultures sur base des résultats des analyses de sol.\n ...",
-      "url": "https://www.dhnet.be/regions/luxembourg/2026/07/26/foire-agricole-de-libramont-lintelligence-artificielle-maide-chaque-jour-a-la-ferme-5NSBO2EBBFDOXAB5UQPZZALDHU/",
-      "source": "dh.be",
-      "publishedAt": "2026-07-26T13:22:26Z",
+      "title": "L'Union européenne impose, à partir du 2 août 2026, l'obligation d'étiqueter les contenus générés par intelligence artificielle sous peine d'amende",
+      "description": "Les nouvelles règles de transparence de l'IA Act entrent en vigueur, imposant l'étiquetage des contenus IA pour distinguer le vrai du faux et prévenir les abus.",
+      "url": "https://www.journaldunet.com/business/action-publique/1553143-l-union-europeenne-impose-a-partir-du-2-aout-2026-l-obligation-d-etiqueter-les-contenus-generes-par-intelligence-artificielle-sous-peine-d-amende/",
+      "source": "JDN",
+      "publishedAt": "2026-07-28T08:33:44Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Start-ups à impact : le groupe Manutan dévoile les 12 finalistes de la 6 e édition de son programme « Moov’with Manutan »",
-      "description": "Le groupe Manutan annonce les 12 start-ups finalistes de la 6e édition de Moov’with Manutan, son programme d’accélération dédié aux jeunes pousses B2B à impact. Déployé en partenariat avec le Moovjee,...",
-      "url": "https://www.frenchweb.fr/start-ups-a-impact-le-groupe-manutan-devoile-les-12-finalistes-de-la-6-e-edition-de-son-programme-moovwith-manutan/462796",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-07-27T06:49:37Z",
+      "title": "Une étude d’Aptean révèle pourquoi l’IA généraliste ne répond pas aux attentes des entreprises",
+      "description": "Les organisations qui utilisent une IA sectorielle obtiennent de meilleurs résultats opérationnels Les organisations qui utilisent une IA sectorielle obtiennent de meilleurs résultats opérationnels",
+      "url": "https://www.globenewswire.com/news-release/2026/07/28/3334010/29866/fr/Une-%C3%A9tude-d-Aptean-r%C3%A9v%C3%A8le-pourquoi-l-IA-g%C3%A9n%C3%A9raliste-ne-r%C3%A9pond-pas-aux-attentes-des-entreprises.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-07-28T07:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Retour d’expérience : comment j'ai résolu le problème de connexion Wifi instable de mon bureau à domicile grâce à l'outil de diagnostic gratuit de Samsung",
-      "description": "Une récente augmentation des latences et des déconnexions m'a poussé à revoir la configuration de mon espace de travail à la maison. Voici comment j'ai validé ma solution avec Connectivity Labs du fab...",
-      "url": "https://www.zdnet.fr/pratique/retour-dexperience-comment-jai-resolu-le-probleme-de-connexion-wifi-instable-de-mon-bureau-a-domicile-grace-a-loutil-de-diagnostic-gratuit-de-samsung-498994.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-07-27T08:07:15Z",
+      "title": "Sommes-nous seulement entrés dans l'ère de la gouvernance de l'IA ?",
+      "description": "une question mérite d'être posée avant même de réfléchir aux modèles de gouvernance : sommes-nous réellement entrés dans l'ère de la gouvernance de l'IA ?",
+      "url": "https://blog.octo.com/sommes-nous-seulement-entres-dans-l'ere-de-la-gouvernance-de-l'ia",
+      "source": "Octo.com",
+      "publishedAt": "2026-07-28T07:03:10Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "« C’est encore pire » : le réalisateur de District 9 a fait un film entièrement généré par l’IA, les internautes le dézinguent",
-      "description": "Neill Blomkamp vient de dévoiler un court-métrage réalisé entièrement avec l’IA et les internautes ne cachent pas leur dégoût. \nThe post « C’est encore pire » : le réalisateur de District 9 a fait un ...",
-      "url": "https://dailygeekshow.com/?p=1013377",
-      "source": "Daily Geek Show",
-      "publishedAt": "2026-07-27T09:47:39Z",
+      "title": "Suitable AI : 15 176 comptes exposés via GraphQL",
+      "description": "Suitable AI : une fuite revendiquée expose 15 176 candidats et des failles critiques à grande échelle.",
+      "url": "https://www.zataz.com/suitable-ai-15-176-comptes-exposes-via-graphql/",
+      "source": "Zataz.com",
+      "publishedAt": "2026-07-28T09:16:47Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
