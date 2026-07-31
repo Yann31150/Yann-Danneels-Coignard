@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-07-30T10:28:44.507410",
+  "lastUpdate": "2026-07-31T10:42:53.348330",
   "articles": [
-    {
-      "title": "Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning",
-      "description": "Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...",
-      "url": "https://www.youtube.com/watch?v=PY_wRwL3Q0E",
-      "source": "Rafa Explique",
-      "publishedAt": "2026-07-15T16:07:36Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "PY_wRwL3Q0E",
-      "thumbnail": "https://i.ytimg.com/vi/PY_wRwL3Q0E/hqdefault.jpg"
-    },
     {
       "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
       "description": "Vous souhaitez maîtriser Microsoft Power BI et apprendre à créer vos rapports pas à pas ? Microsoft Power BI est aujourd'hui l'un ...",
@@ -24,6 +12,18 @@
       "isYouTube": true,
       "videoId": "9R-humPn-eo",
       "thumbnail": "https://i.ytimg.com/vi/9R-humPn-eo/hqdefault.jpg"
+    },
+    {
+      "title": "Leçon 2 - Le perceptron - Cours Complet de Deep Learning",
+      "description": "Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...",
+      "url": "https://www.youtube.com/watch?v=GBtvaFSYuRk",
+      "source": "Rafa Explique",
+      "publishedAt": "2026-07-15T16:09:24Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "GBtvaFSYuRk",
+      "thumbnail": "https://i.ytimg.com/vi/GBtvaFSYuRk/hqdefault.jpg"
     },
     {
       "title": "Leçon 4 - Fonction de coût - Cours Complet de Deep Learning",
@@ -74,11 +74,11 @@
       "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
     },
     {
-      "title": "BULL ET KALRAY S'ASSOCIENT POUR DÉVELOPPER LA PROCHAINE GÉNÉRATION DE RÉSEAUX À HAUTE VITESSE POUR L'ÈRE DE L'IA",
-      "description": "Grenoble, le 28 juillet 2026 – Bull, leader dans le calcul avancé et l’intelligence artificielle, et Kalray (Euronext Growth Paris : ALKAL), spécialiste des technologies matérielles et logicielles pou...",
-      "url": "https://www.globenewswire.com/news-release/2026/07/28/3334045/0/fr/BULL-ET-KALRAY-S-ASSOCIENT-POUR-D%C3%89VELOPPER-LA-PROCHAINE-G%C3%89N%C3%89RATION-DE-R%C3%89SEAUX-%C3%80-HAUTE-VITESSE-POUR-L-%C3%88RE-DE-L-IA.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-07-28T09:04:00Z",
+      "title": "De ZOĪ à PRENUVO, la médecine préventive devient une industrie",
+      "description": "Les systèmes de santé occidentaux ont été conçus pour intervenir lorsque la maladie se manifeste. Une nouvelle génération d’entreprises veut désormais intervenir en préventif, en combinant imagerie, b...",
+      "url": "https://www.frenchweb.fr/de-zoi-a-prenuvo-la-medecine-preventive-devient-une-industrie/462842",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-07-30T05:28:04Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -98,18 +98,6 @@
       "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
     },
     {
-      "title": "Tellus Power lance Tellus Energy AI, un modèle d’IA vertical dédié au calcul informatique vert",
-      "description": "IRVINE, Californie, 29 juill. 2026 (GLOBE NEWSWIRE) -- Tellus Power Global Holding Limited (« Tellus Power » ou la « Société »), entreprise de technologies avancées spécialisée dans les systèmes de tr...",
-      "url": "https://www.globenewswire.com/news-release/2026/07/29/3334980/0/fr/Tellus-Power-lance-Tellus-Energy-AI-un-mod%C3%A8le-d-IA-vertical-d%C3%A9di%C3%A9-au-calcul-informatique-vert.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-07-29T06:31:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Comment J’apprendrais l’IA en 2026 (si je devais recommencer)",
       "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4fRlc8U Rejoins ma communauté ...",
       "url": "https://www.youtube.com/watch?v=1eOQtGqgeyU",
@@ -120,6 +108,18 @@
       "isYouTube": true,
       "videoId": "1eOQtGqgeyU",
       "thumbnail": "https://i.ytimg.com/vi/1eOQtGqgeyU/hqdefault.jpg"
+    },
+    {
+      "title": "Chaque IA Expliquée en 19 Minutes",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4oIKXLh Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=bof3sJ9P5Ss",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-06-21T15:00:12Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "bof3sJ9P5Ss",
+      "thumbnail": "https://i.ytimg.com/vi/bof3sJ9P5Ss/hqdefault.jpg"
     },
     {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
@@ -158,30 +158,6 @@
       "thumbnail": "https://i.ytimg.com/vi/3AUqD4ZwGts/hqdefault.jpg"
     },
     {
-      "title": "ERP, CRM, outils métier : là où se gagne la bataille d’une IA fiable et gouvernée",
-      "description": "Le principe fait désormais consensus : la gouvernance des données constitue le socle de toute stratégie IA. Qualité, fraîcheur, traçabilité, droits d’accès et finalité conditionnent la fiabilité des r...",
-      "url": "https://www.frenchweb.fr/erp-crm-outils-metier-la-ou-se-gagne-la-bataille-dune-ia-fiable-et-gouvernee/462823",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-07-29T07:15:59Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Créer un Dashboard Power BI | Tuto complet de A à Z",
-      "description": "Dans cette vidéo, tu vas apprendre toutes les étapes de conception d'un dashboard de A à Z sur l'outil Power BI. ​ Rejoins le ...",
-      "url": "https://www.youtube.com/watch?v=PoJBFjMf88g",
-      "source": "Le Decodeur",
-      "publishedAt": "2026-05-31T15:30:48Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "PoJBFjMf88g",
-      "thumbnail": "https://i.ytimg.com/vi/PoJBFjMf88g/hqdefault.jpg"
-    },
-    {
       "title": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data",
       "description": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data Timeline 00:00 Introduction ...",
       "url": "https://www.youtube.com/watch?v=IwQvKri768w",
@@ -194,23 +170,47 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
-      "title": "Analysez vos fichiers CSV et maîtrisez les DataFrames Pandas",
-      "description": "Vos bases de données contiennent du texte, des dates et des nombres mélangés ? NumPy va détester ça. Dans le monde réel, ...",
-      "url": "https://www.youtube.com/watch?v=OKS6wtA2lAA",
-      "source": "OUJOOD",
-      "publishedAt": "2026-06-03T12:13:50Z",
+      "title": "Grâce à l'IA, l'expert-comptable peut mieux accompagner ses clients",
+      "description": "L'expert-comptable a toujours conseillé. Avec l'IA, plus de données, du temps réel et moins de tâches sans valeur, il pousse son conseil bien plus loin. Un niveau qui monte, quand il est bien encadré.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1553209-grace-a-l-ia-l-expert-comptable-peut-mieux-accompagner-ses-clients/",
+      "source": "JDN",
+      "publishedAt": "2026-07-30T07:50:08Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀",
+      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
+      "url": "https://www.youtube.com/watch?v=1Kokkl5PybM",
+      "source": "Morpheus Formation | Excel, Power BI, Sheets",
+      "publishedAt": "2026-06-04T09:00:14Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "OKS6wtA2lAA",
-      "thumbnail": "https://i.ytimg.com/vi/OKS6wtA2lAA/hqdefault.jpg"
+      "videoId": "1Kokkl5PybM",
+      "thumbnail": "https://i.ytimg.com/vi/1Kokkl5PybM/hqdefault.jpg"
     },
     {
-      "title": "Et si l'IA d'entreprise entrait déjà dans l'ère des stratégies multi-modèles ?",
-      "description": "L'IA entre dans une phase plus mature, où les entreprises arbitrent désormais entre plusieurs modèles selon les usages, les coûts et le niveau de sensibilité des tâches.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1553169-et-si-l-ia-d-entreprise-entrait-deja-dans-l-ere-des-strategies-multi-modeles/",
-      "source": "JDN",
-      "publishedAt": "2026-07-29T09:50:34Z",
+      "title": "Comment créer une base de données avec le langage SQL ?",
+      "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
+      "url": "https://www.youtube.com/watch?v=19JD2vconJ0",
+      "source": "OpenClassrooms en Français",
+      "publishedAt": "2026-07-01T04:00:13Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "19JD2vconJ0",
+      "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
+    },
+    {
+      "title": "Insolite. Un homme politique canadien lit un discours généré par IA… prompt inclus",
+      "description": "Bill Oliver, député progressiste-conservateur et président de l'Assemblée législative du Nouveau-Brunswick, a fait le tour du monde après avoir lu, sans s'en rendre compte, une instruction destinée à ...",
+      "url": "https://www.ledauphine.com/insolite/2026/07/30/un-homme-politique-canadien-lit-un-discours-genere-par-ia-prompt-inclus",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-07-30T10:30:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,28 +218,28 @@
       "thumbnail": ""
     },
     {
-      "title": "L'avènement du \"Brain Master, le \"Web Master\" de l'ère IA",
-      "description": "Quelque part entre l'administrateur de bases de données et le directeur de cabinet, un nouveau métier apparaît discrètement sur les organigrammes. Voici l'histoire de son arrivée.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1553193-l-avenement-du-brain-master-le-web-master-de-l-ere-ia/",
-      "source": "JDN",
-      "publishedAt": "2026-07-29T09:49:44Z",
+      "title": "Data Analyst avec Python | Introduction complète à Python | Tutoriel complet",
+      "description": "Maîtrise Python pour la DATA : https://store.ledecodeur.fr/formation-python Mes ressources : https://linktr.ee/ledecodeur Liens ...",
+      "url": "https://www.youtube.com/watch?v=2sunLXT-XgM",
+      "source": "Le Decodeur",
+      "publishedAt": "2026-06-28T16:00:20Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "2sunLXT-XgM",
+      "thumbnail": "https://i.ytimg.com/vi/2sunLXT-XgM/hqdefault.jpg"
     },
     {
-      "title": "Sauvetage du télescope Swift : le remorqueur spatial LINK est en train de partir en vrille",
-      "description": "Censé rehausser l'orbite du télescope spatial Swift de la NASA, le véhicule robotisé LINK rencontre d'importantes anomalies matérielles. Désormais en rotation incontrôlée et privé de deux roues de réa...",
-      "url": "https://www.numerama.com/sciences/2303349-sauvetage-du-telescope-swift-le-remorqueur-spatial-link-est-en-train-de-partir-en-vrille.html",
-      "source": "Numerama",
-      "publishedAt": "2026-07-29T07:52:28Z",
+      "title": "Devenir Data Analyst avec des ressources gratuites 📚✅ #data #gratuit #tuto",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=-Oba6X3lIxg",
+      "source": "Le Decodeur",
+      "publishedAt": "2026-07-08T12:39:10Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "-Oba6X3lIxg",
+      "thumbnail": "https://i.ytimg.com/vi/-Oba6X3lIxg/hqdefault.jpg"
     },
     {
       "title": "Computer Vision - De la Théorie au Code en 1H",
@@ -254,35 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "“Il faudra peut-être ralentir le rythme du développement de l’IA” : le monde n’est pas prêt pour ce qui arrive et c’est le patron d’OpenAI qui le dit. Voici l’incident grave qui l’a fait changer d’avis",
-      "description": "Sam Altman souhaite un ralentissement du rythme auquel l’intelligence artificielle progresse. Cela permettrait de gagner du temps pour que la société s’adapte aux prochaines évolutions. Cette déclarat...",
-      "url": "https://www.presse-citron.net/ia-le-monde-pas-pret-patron-openai-incident-grave/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-07-29T09:53:41Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Les prérequis pour réussir le déploiement de l’IA à l’échelle de l’entreprise",
-      "description": "Les entreprises savent aujourd’hui lancer des prototypes d’intelligence artificielle, mais la plupart d’entre elles rencontrent davantage de difficultés lorsqu’il faut les connecter au système d’infor...",
-      "url": "https://www.frenchweb.fr/les-prerequis-pour-reussir-le-deploiement-de-lia-a-lechelle-de-lentreprise/462820",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-07-29T07:08:12Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ce nouveau bouton de Google Photos cache un piège que beaucoup vont découvrir trop tard",
-      "description": "Google Photos continue d’empiler les outils de retouche par intelligence artificielle. La dernière mise à jour raccourcit encore le chemin vers ces fonctions, avec un bouton ajouté là où personne...",
-      "url": "https://www.phonandroid.com/ce-nouveau-bouton-de-google-photos-cache-un-piege-que-beaucoup-vont-decouvrir-trop-tard.html",
+      "title": "Grâce à ce satellite virtuel, Google observe désormais n’importe quel point du globe en quasi direct",
+      "description": "Les nuages ont longtemps privé l’imagerie satellite d’une partie du globe. Google vient de contourner l’obstacle avec un modèle d’intelligence artificielle signé DeepMind. Sa plateforme peut désormais...",
+      "url": "https://www.phonandroid.com/grace-a-ce-satellite-virtuel-google-observe-desormais-nimporte-quel-point-du-globe-en-quasi-direct.html",
       "source": "Phonandroid",
-      "publishedAt": "2026-07-29T10:13:44Z",
+      "publishedAt": "2026-07-30T07:58:59Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,12 +266,36 @@
       "thumbnail": ""
     },
     {
-      "title": "Après l’attaque d’une IA lâchée sans surveillance, Nvidia lève une armée de 52 entreprises",
-      "description": "Les modèles d’OpenAI ont attaqué seuls les serveurs d’une entreprise en juillet. Nvidia riposte aujourd’hui en réunissant plus de cinquante sociétés autour d’outils ouverts. Trois des plus grands labo...",
-      "url": "https://www.phonandroid.com/apres-lattaque-dune-ia-lachee-sans-surveillance-nvidia-leve-une-armee-de-52-entreprises.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-07-29T07:10:07Z",
+      "title": "Brevet : une reconnaissance des gestes plus fiables pour le Vision Pro et les Apple Glasses",
+      "description": "Apple veut transformer les mouvements de la tête en commandes précises pour ses appareils portés sur le visage. Un brevet accordé décrit une méthode limitant la dérive des gyroscopes afin d’éviter des...",
+      "url": "https://iphoneaddict.fr/post/news-432588-brevet-reconnaissance-gestes-plus-fiables-vision-pro-apple-glasses",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-07-30T09:55:05Z",
       "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Deezer AI Detector : comment savoir si vos morceaux préférés ont été créés par une IA ? [Sponso]",
+      "description": "97 % des auditeurs ne distinguent plus l'humain de l'IA. Pour lutter contre ce fléau, Deezer, déjà engagé sur ce sujet, va plus loin et lance un scanner pour traquer l'IA directement dans vos playlist...",
+      "url": "https://www.frandroid.com/services/streaming-musical/3196231_deezer-ai-detector-comment-savoir-si-vos-morceaux-preferes-ont-ete-crees-par-une-ia",
+      "source": "Frandroid",
+      "publishedAt": "2026-07-30T08:00:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Compétition mondiale sur l’IA, la France dans un corner auto-infligé",
+      "description": "Avec le Plan Prométhée, la France veut faire de la puissance de calcul un levier stratégique pour rattraper son retard dans l'IA. Mais entre dépendance aux technologies étrangères, manque de financeme...",
+      "url": "https://atlantico.fr/article/decryptage/competition-mondiale-sur-lia-la-france-dans-un-corner-auto-inflige-julien-pillot",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-07-30T08:56:00Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
