@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 01 Aug 2026 10:02:28 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 10:00:25 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,36 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)</title>
-            <link>https://www.youtube.com/watch?v=0EsKXRhOYxM</link>
-            <description><![CDATA[Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...]]></description>
-            <pubDate>Mon, 22 Jun 2026 15:04:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=0EsKXRhOYxM</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>GPT s’échappe et pirate le plus grand hub d’IA : on sait enfin ce qui s’est passé, et c’est digne d’un film de SF</title>
-            <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3199179_un-agent-dopenai-sechappe-et-pirate-le-plus-grand-hub-dia-un-scenario-de-science-fiction-pourtant-bien-reel</link>
-            <description><![CDATA[Les modèles d'intelligence artificielle les plus puissants commencent à échapper des mains de leurs créateurs. C'est ce qui s'est passé du 9 au 13 juillet avec deux modèles d'OpenAI, dont GPT-5.6 Sol ...]]></description>
-            <pubDate>Thu, 30 Jul 2026 13:56:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3199179_un-agent-dopenai-sechappe-et-pirate-le-plus-grand-hub-dia-un-scenario-de-science-fiction-pourtant-bien-reel</guid>
-            <source>Frandroid</source>
-        </item>
-        <item>
-            <title>Des lunettes espionnes à la mise à nue par l'IA : la panoplie croissante d'outils d'abus facilités par la technologie</title>
-            <link>https://atlantico.fr/article/decryptage/des-lunettes-espionnes-a-la-mise-a-nue-par-l-ia-la-panoplie-croissante-d-outils-d-abus-facilites-par-la-technologie</link>
-            <description><![CDATA[Il est difficile d'estimer l'impact de l'intelligence artificielle depuis le lancement, il y a à peine trois ans, de plateformes d'IA générative telles que ChatGPT. Si ces technologies ont permis d'in...]]></description>
-            <pubDate>Fri, 31 Jul 2026 09:03:00 -0000</pubDate>
-            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/des-lunettes-espionnes-a-la-mise-a-nue-par-l-ia-la-panoplie-croissante-d-outils-d-abus-facilites-par-la-technologie</guid>
-            <source>Atlantico.fr</source>
-        </item>
-        <item>
-            <title>Bientôt, ce n'est plus votre client qui choisira le produit. C'est son agent IA</title>
-            <link>https://www.journaldunet.com/seo/1551127-bientot-ce-n-est-plus-votre-client-qui-choisira-le-produit-c-est-son-agent-ia/</link>
-            <description><![CDATA[ChatGPT, Copilot et Gemini commencent à comparer et acheter à la place des clients. Une page produit pensée pour convaincre un humain ne convainc pas une machine.]]></description>
-            <pubDate>Thu, 30 Jul 2026 14:26:24 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/seo/1551127-bientot-ce-n-est-plus-votre-client-qui-choisira-le-produit-c-est-son-agent-ia/</guid>
-            <source>JDN</source>
+            <title>Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning</title>
+            <link>https://www.youtube.com/watch?v=PY_wRwL3Q0E</link>
+            <description><![CDATA[Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...]]></description>
+            <pubDate>Wed, 15 Jul 2026 16:07:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=PY_wRwL3Q0E</guid>
+            <source>Rafa Explique</source>
         </item>
         <item>
             <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
@@ -93,6 +69,30 @@
             <source>lioncode</source>
         </item>
         <item>
+            <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
+            <link>https://www.youtube.com/watch?v=IanWrDWQy0s</link>
+            <description><![CDATA[Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...]]></description>
+            <pubDate>Sat, 20 Jun 2026 17:56:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=IanWrDWQy0s</guid>
+            <source>Seif BOUGUERRA</source>
+        </item>
+        <item>
+            <title>Les données économiques régionales publiées en Chine montrent un discret mais puissant virage industriel</title>
+            <link>https://atlantico.fr/article/decryptage/les-donnees-economiques-regionales-publiees-en-chine-montrent-un-discret-mais-puissant-virage-industriel</link>
+            <description><![CDATA[Depuis plus de dix ans, la Chine déroule une stratégie industrielle méthodique pour s'imposer dans les secteurs technologiques les plus stratégiques. Intelligence artificielle, semi-conducteurs, robot...]]></description>
+            <pubDate>Sat, 01 Aug 2026 06:39:00 -0000</pubDate>
+            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/les-donnees-economiques-regionales-publiees-en-chine-montrent-un-discret-mais-puissant-virage-industriel</guid>
+            <source>Atlantico.fr</source>
+        </item>
+        <item>
+            <title>Anthropic ne veut pas être à la traîne : ses modèles ont eux aussi attaqué des services sur le web</title>
+            <link>https://www.macg.co/intelligence-artificielle/2026/07/anthropic-ne-veut-pas-etre-la-traine-ses-modeles-ont-eux-aussi-attaque-des-services-sur-le-web-310141</link>
+            <description><![CDATA[Moi aussi, moi aussi ! Alors qu’OpenAI fait les grands titres depuis quelques jours, parce que ses modèles ont réussi à entrer dans l’infrastructure de Hugging Face à son insu pour y récupérer des don...]]></description>
+            <pubDate>Fri, 31 Jul 2026 14:01:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.macg.co/intelligence-artificielle/2026/07/anthropic-ne-veut-pas-etre-la-traine-ses-modeles-ont-eux-aussi-attaque-des-services-sur-le-web-310141</guid>
+            <source>MacGeneration</source>
+        </item>
+        <item>
             <title>NumPy &amp;amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes</title>
             <link>https://www.youtube.com/watch?v=-kGlpSTHPf4</link>
             <description><![CDATA[NumPy et Pandas sont les deux bibliothèques qui font de Python le roi de la data science. Ce cours complet te donne tout le ...]]></description>
@@ -117,12 +117,12 @@
             <source>Ceemtic Analytics</source>
         </item>
         <item>
-            <title>👉 Most SQL Beginners Don&amp;#39;t Know Composite Indexes 😱 SQL Made Easy! #shorts #sql</title>
-            <link>https://www.youtube.com/watch?v=q_QFqF2jUUY</link>
-            <description><![CDATA[Confused about Composite Indexes in SQL? A Composite Index is an index created on multiple columns to improve query ...]]></description>
-            <pubDate>Sun, 07 Jun 2026 07:15:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=q_QFqF2jUUY</guid>
-            <source>Techtutorpro360</source>
+            <title>L’Europe continent de l’IA ? Ambitions XXL, moyens XXS, le grand écart de la Commission de Bruxelles</title>
+            <link>https://atlantico.fr/article/decryptage/leurope-continent-de-lia-ambitions-xxl-moyens-xxs-le-grand-ecart-de-la-commission-de-bruxelles</link>
+            <description><![CDATA[Avec ses gigafactories, l'Union européenne espère reprendre pied dans la course mondiale à l'intelligence artificielle. Mais face aux investissements massifs des États-Unis et de la Chine, l'ambition ...]]></description>
+            <pubDate>Sat, 01 Aug 2026 06:16:45 -0000</pubDate>
+            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/leurope-continent-de-lia-ambitions-xxl-moyens-xxs-le-grand-ecart-de-la-commission-de-bruxelles</guid>
+            <source>Atlantico.fr</source>
         </item>
         <item>
             <title>Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data</title>
@@ -133,6 +133,22 @@
             <source>Mikail Altundas</source>
         </item>
         <item>
+            <title>Comment analyser vos données avec Claude Code | Formation Complète Claude pour Data Analyst de A à Z</title>
+            <link>https://www.youtube.com/watch?v=Z1Y41sOVWyQ</link>
+            <description><![CDATA[Bienvenue dans cette formation complète consacrée à l'analyse des données avec Claude. Vous comprendrez ce qu'est Claude ...]]></description>
+            <pubDate>Tue, 21 Jul 2026 15:59:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z1Y41sOVWyQ</guid>
+            <source>Oscar Aksanti</source>
+        </item>
+        <item>
+            <title>Doctolib va exploiter les données de 50 millions de patients pour un projet de recherche en IA et votre profil a peut être déjà été retenu</title>
+            <link>https://www.gameblog.fr/trends/doctolib-va-exploiter-les-donnees-de-50-millions-de-patients-pour-un-projet-de-recherche-en-ia-et-votre-profil-a-peut-etre-deja-ete-retenu-720224</link>
+            <description><![CDATA[Vos données médicales bientôt exploitées par une IA sans que vous le sachiez ? Dès août 2026, Doctolib inclut 50 millions de patients par défaut. Voici comment refuser avant qu'il ne soit trop tard.]]></description>
+            <pubDate>Sat, 01 Aug 2026 05:00:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.gameblog.fr/trends/doctolib-va-exploiter-les-donnees-de-50-millions-de-patients-pour-un-projet-de-recherche-en-ia-et-votre-profil-a-peut-etre-deja-ete-retenu-720224</guid>
+            <source>Gameblog</source>
+        </item>
+        <item>
             <title>Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀</title>
             <link>https://www.youtube.com/watch?v=1Kokkl5PybM</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
@@ -141,36 +157,20 @@
             <source>Morpheus Formation | Excel, Power BI, Sheets</source>
         </item>
         <item>
-            <title>Comment créer une base de données avec le langage SQL ?</title>
-            <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
+            <title>Découvrez notre formation sur Power BI #data #powerbi</title>
+            <link>https://www.youtube.com/watch?v=5XRR3C0nQLg</link>
             <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
-            <pubDate>Wed, 01 Jul 2026 04:00:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=19JD2vconJ0</guid>
+            <pubDate>Tue, 21 Jul 2026 05:30:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=5XRR3C0nQLg</guid>
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Data Analyst avec Python | Introduction complète à Python | Tutoriel complet</title>
-            <link>https://www.youtube.com/watch?v=2sunLXT-XgM</link>
-            <description><![CDATA[Maîtrise Python pour la DATA : https://store.ledecodeur.fr/formation-python Mes ressources : https://linktr.ee/ledecodeur Liens ...]]></description>
-            <pubDate>Sun, 28 Jun 2026 16:00:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2sunLXT-XgM</guid>
-            <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>Devenir Data Analyst avec des ressources gratuites 📚✅ #data #gratuit #tuto</title>
-            <link>https://www.youtube.com/watch?v=-Oba6X3lIxg</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Wed, 08 Jul 2026 12:39:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=-Oba6X3lIxg</guid>
-            <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>OSINT et intelligence économique : la recherche d'information change de nature, les organisations doivent changer de méthode</title>
-            <link>https://www.journaldunet.com/management/direction-generale/1553261-osint-et-intelligence-economique-la-recherche-d-information-change-de-nature-les-organisations-doivent-changer-de-methode/</link>
-            <description><![CDATA[À l'heure où l'information est omniprésente, l'OSINT et l'intelligence économique transforment les données en décisions et réduisent l'incertitude.]]></description>
-            <pubDate>Fri, 31 Jul 2026 09:27:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/management/direction-generale/1553261-osint-et-intelligence-economique-la-recherche-d-information-change-de-nature-les-organisations-doivent-changer-de-methode/</guid>
-            <source>JDN</source>
+            <title>Santé. IA : pourquoi Doctolib compte-t-il utiliser nos données de santé pour des recherches scientifiques ?</title>
+            <link>https://www.ledauphine.com/sante/2026/08/01/ia-pourquoi-doctolib-compte-t-il-utiliser-nos-donnees-de-sante-pour-des-recherches-scientifiques</link>
+            <description><![CDATA[Dès ce dimanche, Doctolib lance un programme de recherche scientifique utilisant les données de ses 50 millions d'utilisateurs. Ce qui provoque une levée de boucliers.]]></description>
+            <pubDate>Sat, 01 Aug 2026 09:46:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.ledauphine.com/sante/2026/08/01/ia-pourquoi-doctolib-compte-t-il-utiliser-nos-donnees-de-sante-pour-des-recherches-scientifiques</guid>
+            <source>Le Dauphiné Libéré</source>
         </item>
     </channel>
 </rss>

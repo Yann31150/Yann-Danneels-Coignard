@@ -1,53 +1,17 @@
 {
-  "lastUpdate": "2026-08-01T10:02:28.651903",
+  "lastUpdate": "2026-08-02T10:00:25.878089",
   "articles": [
     {
-      "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
-      "description": "Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...",
-      "url": "https://www.youtube.com/watch?v=0EsKXRhOYxM",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-06-22T15:04:54Z",
+      "title": "Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning",
+      "description": "Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...",
+      "url": "https://www.youtube.com/watch?v=PY_wRwL3Q0E",
+      "source": "Rafa Explique",
+      "publishedAt": "2026-07-15T16:07:36Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "0EsKXRhOYxM",
-      "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
-    },
-    {
-      "title": "GPT s’échappe et pirate le plus grand hub d’IA : on sait enfin ce qui s’est passé, et c’est digne d’un film de SF",
-      "description": "Les modèles d'intelligence artificielle les plus puissants commencent à échapper des mains de leurs créateurs. C'est ce qui s'est passé du 9 au 13 juillet avec deux modèles d'OpenAI, dont GPT-5.6 Sol ...",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3199179_un-agent-dopenai-sechappe-et-pirate-le-plus-grand-hub-dia-un-scenario-de-science-fiction-pourtant-bien-reel",
-      "source": "Frandroid",
-      "publishedAt": "2026-07-30T13:56:34Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Des lunettes espionnes à la mise à nue par l'IA : la panoplie croissante d'outils d'abus facilités par la technologie",
-      "description": "Il est difficile d'estimer l'impact de l'intelligence artificielle depuis le lancement, il y a à peine trois ans, de plateformes d'IA générative telles que ChatGPT. Si ces technologies ont permis d'in...",
-      "url": "https://atlantico.fr/article/decryptage/des-lunettes-espionnes-a-la-mise-a-nue-par-l-ia-la-panoplie-croissante-d-outils-d-abus-facilites-par-la-technologie",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-07-31T09:03:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bientôt, ce n'est plus votre client qui choisira le produit. C'est son agent IA",
-      "description": "ChatGPT, Copilot et Gemini commencent à comparer et acheter à la place des clients. Une page produit pensée pour convaincre un humain ne convainc pas une machine.",
-      "url": "https://www.journaldunet.com/seo/1551127-bientot-ce-n-est-plus-votre-client-qui-choisira-le-produit-c-est-son-agent-ia/",
-      "source": "JDN",
-      "publishedAt": "2026-07-30T14:26:24Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "videoId": "PY_wRwL3Q0E",
+      "thumbnail": "https://i.ytimg.com/vi/PY_wRwL3Q0E/hqdefault.jpg"
     },
     {
       "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
@@ -122,6 +86,42 @@
       "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
     },
     {
+      "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
+      "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
+      "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
+      "source": "Seif BOUGUERRA",
+      "publishedAt": "2026-06-20T17:56:01Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "IanWrDWQy0s",
+      "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
+    },
+    {
+      "title": "Les données économiques régionales publiées en Chine montrent un discret mais puissant virage industriel",
+      "description": "Depuis plus de dix ans, la Chine déroule une stratégie industrielle méthodique pour s'imposer dans les secteurs technologiques les plus stratégiques. Intelligence artificielle, semi-conducteurs, robot...",
+      "url": "https://atlantico.fr/article/decryptage/les-donnees-economiques-regionales-publiees-en-chine-montrent-un-discret-mais-puissant-virage-industriel",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-08-01T06:39:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic ne veut pas être à la traîne : ses modèles ont eux aussi attaqué des services sur le web",
+      "description": "Moi aussi, moi aussi ! Alors qu’OpenAI fait les grands titres depuis quelques jours, parce que ses modèles ont réussi à entrer dans l’infrastructure de Hugging Face à son insu pour y récupérer des don...",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/07/anthropic-ne-veut-pas-etre-la-traine-ses-modeles-ont-eux-aussi-attaque-des-services-sur-le-web-310141",
+      "source": "MacGeneration",
+      "publishedAt": "2026-07-31T14:01:16Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
       "description": "NumPy et Pandas sont les deux bibliothèques qui font de Python le roi de la data science. Ce cours complet te donne tout le ...",
       "url": "https://www.youtube.com/watch?v=-kGlpSTHPf4",
@@ -158,16 +158,16 @@
       "thumbnail": "https://i.ytimg.com/vi/3AUqD4ZwGts/hqdefault.jpg"
     },
     {
-      "title": "👉 Most SQL Beginners Don&#39;t Know Composite Indexes 😱 SQL Made Easy! #shorts #sql",
-      "description": "Confused about Composite Indexes in SQL? A Composite Index is an index created on multiple columns to improve query ...",
-      "url": "https://www.youtube.com/watch?v=q_QFqF2jUUY",
-      "source": "Techtutorpro360",
-      "publishedAt": "2026-06-07T07:15:34Z",
+      "title": "L’Europe continent de l’IA ? Ambitions XXL, moyens XXS, le grand écart de la Commission de Bruxelles",
+      "description": "Avec ses gigafactories, l'Union européenne espère reprendre pied dans la course mondiale à l'intelligence artificielle. Mais face aux investissements massifs des États-Unis et de la Chine, l'ambition ...",
+      "url": "https://atlantico.fr/article/decryptage/leurope-continent-de-lia-ambitions-xxl-moyens-xxs-le-grand-ecart-de-la-commission-de-bruxelles",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-08-01T06:16:45Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "q_QFqF2jUUY",
-      "thumbnail": "https://i.ytimg.com/vi/q_QFqF2jUUY/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data",
@@ -182,6 +182,30 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
+      "title": "Comment analyser vos données avec Claude Code | Formation Complète Claude pour Data Analyst de A à Z",
+      "description": "Bienvenue dans cette formation complète consacrée à l'analyse des données avec Claude. Vous comprendrez ce qu'est Claude ...",
+      "url": "https://www.youtube.com/watch?v=Z1Y41sOVWyQ",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-07-21T15:59:13Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Z1Y41sOVWyQ",
+      "thumbnail": "https://i.ytimg.com/vi/Z1Y41sOVWyQ/hqdefault.jpg"
+    },
+    {
+      "title": "Doctolib va exploiter les données de 50 millions de patients pour un projet de recherche en IA et votre profil a peut être déjà été retenu",
+      "description": "Vos données médicales bientôt exploitées par une IA sans que vous le sachiez ? Dès août 2026, Doctolib inclut 50 millions de patients par défaut. Voici comment refuser avant qu'il ne soit trop tard.",
+      "url": "https://www.gameblog.fr/trends/doctolib-va-exploiter-les-donnees-de-50-millions-de-patients-pour-un-projet-de-recherche-en-ia-et-votre-profil-a-peut-etre-deja-ete-retenu-720224",
+      "source": "Gameblog",
+      "publishedAt": "2026-08-01T05:00:37Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=1Kokkl5PybM",
@@ -194,47 +218,23 @@
       "thumbnail": "https://i.ytimg.com/vi/1Kokkl5PybM/hqdefault.jpg"
     },
     {
-      "title": "Comment créer une base de données avec le langage SQL ?",
+      "title": "Découvrez notre formation sur Power BI #data #powerbi",
       "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
-      "url": "https://www.youtube.com/watch?v=19JD2vconJ0",
+      "url": "https://www.youtube.com/watch?v=5XRR3C0nQLg",
       "source": "OpenClassrooms en Français",
-      "publishedAt": "2026-07-01T04:00:13Z",
+      "publishedAt": "2026-07-21T05:30:15Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "19JD2vconJ0",
-      "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
+      "videoId": "5XRR3C0nQLg",
+      "thumbnail": "https://i.ytimg.com/vi/5XRR3C0nQLg/hqdefault.jpg"
     },
     {
-      "title": "Data Analyst avec Python | Introduction complète à Python | Tutoriel complet",
-      "description": "Maîtrise Python pour la DATA : https://store.ledecodeur.fr/formation-python Mes ressources : https://linktr.ee/ledecodeur Liens ...",
-      "url": "https://www.youtube.com/watch?v=2sunLXT-XgM",
-      "source": "Le Decodeur",
-      "publishedAt": "2026-06-28T16:00:20Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "2sunLXT-XgM",
-      "thumbnail": "https://i.ytimg.com/vi/2sunLXT-XgM/hqdefault.jpg"
-    },
-    {
-      "title": "Devenir Data Analyst avec des ressources gratuites 📚✅ #data #gratuit #tuto",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=-Oba6X3lIxg",
-      "source": "Le Decodeur",
-      "publishedAt": "2026-07-08T12:39:10Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "-Oba6X3lIxg",
-      "thumbnail": "https://i.ytimg.com/vi/-Oba6X3lIxg/hqdefault.jpg"
-    },
-    {
-      "title": "OSINT et intelligence économique : la recherche d'information change de nature, les organisations doivent changer de méthode",
-      "description": "À l'heure où l'information est omniprésente, l'OSINT et l'intelligence économique transforment les données en décisions et réduisent l'incertitude.",
-      "url": "https://www.journaldunet.com/management/direction-generale/1553261-osint-et-intelligence-economique-la-recherche-d-information-change-de-nature-les-organisations-doivent-changer-de-methode/",
-      "source": "JDN",
-      "publishedAt": "2026-07-31T09:27:06Z",
+      "title": "Santé. IA : pourquoi Doctolib compte-t-il utiliser nos données de santé pour des recherches scientifiques ?",
+      "description": "Dès ce dimanche, Doctolib lance un programme de recherche scientifique utilisant les données de ses 50 millions d'utilisateurs. Ce qui provoque une levée de boucliers.",
+      "url": "https://www.ledauphine.com/sante/2026/08/01/ia-pourquoi-doctolib-compte-t-il-utiliser-nos-donnees-de-sante-pour-des-recherches-scientifiques",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-08-01T09:46:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "\"Un raccourci pour développer leurs propres systèmes spécialisés\": comment la Chine utilise l’IA américaine à des fins militaires",
-      "description": "Des chercheurs militaires chinois se serviraient des modèles américains d’intelligence artificielle afin d’entraîner leurs systèmes de défense. C'est ce que révèle une enquête de Reuters. ...",
-      "url": "https://www.dhnet.be/actu/monde/2026/07/31/un-raccourci-pour-developper-leurs-propres-systemes-specialises-comment-la-chine-utilise-lia-americaine-a-des-fins-militaires-7P6AXQSO2JHMPGMFI7DAGIQP7E/",
-      "source": "dh.be",
-      "publishedAt": "2026-07-31T09:13:57Z",
+      "title": "Intelligence artificielle : 1 319 employés d'OpenAI, Anthropic, Meta et Google DeepMind demandent à Washington de ralentir",
+      "description": "Un modèle d'IA s'échappe tout seul sur Hugging Face, des employés d'OpenAI parlent de « course mortelle »... et Sam Altman confirme avoir demandé à la Maison-Blanche de ralentir. Que s'est-il vraiment...",
+      "url": "https://www.gameblog.fr/trends/intelligence-artificielle-1-319-employes-dopenai-anthropic-meta-et-google-deepmind-demandent-a-washington-de-ralentir-720226",
+      "source": "Gameblog",
+      "publishedAt": "2026-08-01T05:30:05Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Comment la Chine utilise l’IA américaine pour entraîner ses systèmes de défense",
-      "description": "Selon Reuters, des chercheurs militaires chinois exploitent des modèles américains d’intelligence artificielle afin d’entraîner leurs systèmes de défense. ...",
-      "url": "https://www.lalibre.be/economie/digital/2026/07/31/comment-la-chine-utilise-lia-americaine-pour-entrainer-ses-systemes-de-defense-SXKQ6NPXL5EWBGZDCTSUQTGOZE/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-07-31T08:55:23Z",
+      "title": "Krach en vue ? Ce que préfigure vraiment la crise des bourses asiatiques sur l’IA",
+      "description": "La violente correction des valeurs technologiques asiatiques, portée par les reculs de Samsung et SK Hynix, relance les interrogations sur une éventuelle bulle de l'intelligence artificielle. Faut-il ...",
+      "url": "https://atlantico.fr/article/decryptage/krach-en-vue-ce-que-prefigure-vraiment-la-crise-des-bourses-asiatiques-sur-lia",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-08-01T06:04:44Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Après OpenAI, l'entreprise américaine Anthropic révèle que son intelligence artificielle a accédé sans autorisation aux systèmes de trois organisations",
-      "description": "La start-up assure qu'il s'agit d'une erreur de configuration, et non d'une tentative de son IA de quitter son environnement de test.",
-      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/apres-openai-l-entreprise-americaine-anthropic-revele-que-son-intelligence-artificielle-a-accede-sans-autorisation-aux-systemes-de-trois-organisations_8129474.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-07-31T09:17:35Z",
+      "title": "Quand un ex-conseiller d’Emmanuel Macron remet les (riches) Français en marche",
+      "description": "Ismaël Emelien, qui fut l’un des stratèges de la campagne présidentielle victorieuse de 2017 avant de rejoindre l’Elysée jusqu’en 2019, s’est reconverti dans la très lucrative médecine anti-âge pour «...",
+      "url": "https://www.nouvelobs.com/economie/20260801.OBS117114/quand-un-ex-conseiller-d-emmanuel-macron-remet-les-riches-francais-en-marche.html",
+      "source": "L'Obs",
+      "publishedAt": "2026-08-01T07:30:13Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Grâce à ce satellite virtuel, Google observe désormais n’importe quel point du globe en quasi direct",
-      "description": "Les nuages ont longtemps privé l’imagerie satellite d’une partie du globe. Google vient de contourner l’obstacle avec un modèle d’intelligence artificielle signé DeepMind. Sa plateforme peut désormais...",
-      "url": "https://www.phonandroid.com/grace-a-ce-satellite-virtuel-google-observe-desormais-nimporte-quel-point-du-globe-en-quasi-direct.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-07-30T07:58:59Z",
+      "title": "L’accès à l’énergie, levier de domination de l’IA",
+      "description": "Pour se développer, l’IA a besoin d’énergie. Attention cependant à ce que l’accès à cette ressource ne devienne pas une barrière à l’entrée, alerte l’Autorité de la concurrence. Elle appelle à garanti...",
+      "url": "https://www.zdnet.fr/actualites/lacces-a-lenergie-levier-de-domination-de-lia-499167.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-07-31T01:07:30Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
