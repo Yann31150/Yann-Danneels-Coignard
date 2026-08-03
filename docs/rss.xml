@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 02 Aug 2026 10:00:25 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 11:29:40 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -19,6 +19,14 @@
             <pubDate>Wed, 15 Jul 2026 16:07:36 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=PY_wRwL3Q0E</guid>
             <source>Rafa Explique</source>
+        </item>
+        <item>
+            <title>« L’AI Act » entre en vigueur… Quels nouveaux pouvoirs sur l’intelligence artificielle cette loi offre-t-elle à l’UE ?</title>
+            <link>https://www.20minutes.fr/high-tech/4237341-20260802-act-entre-vigueur-nouveaux-pouvoirs-intelligence-artificielle-loi-offre-ue</link>
+            <description><![CDATA[Ce dimanche, plusieurs dispositions d’une loi phare sur l’intelligence artificielle, votée il y a deux ans, entrent en vigueur. Les entreprises d’IA doivent ainsi prendre des mesures pour atténuer les...]]></description>
+            <pubDate>Sun, 02 Aug 2026 08:59:44 -0000</pubDate>
+            <guid isPermaLink="true">https://www.20minutes.fr/high-tech/4237341-20260802-act-entre-vigueur-nouveaux-pouvoirs-intelligence-artificielle-loi-offre-ue</guid>
+            <source>20 Minutes</source>
         </item>
         <item>
             <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
@@ -45,12 +53,28 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
+            <title>25 ans après, le A.I. intelligence artificielle de Steven Spielberg s'avère encore plus dérangeant qu'à sa sortie</title>
+            <link>https://atlantico.fr/article/decryptage/25-ans-apres-le-ai-intelligence-artificielle-de-steven-spielberg-s-avere-encore-plus-derangeant-qu-a-sa-sortie</link>
+            <description><![CDATA[Vingt-cinq ans après sa sortie, A.I. Intelligence artificielle apparaît plus actuel que jamais. Sans avoir prédit l'IA générative, le film de Spielberg, imaginé pendant plus de vingt ans par Stanley K...]]></description>
+            <pubDate>Sun, 02 Aug 2026 10:53:43 -0000</pubDate>
+            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/25-ans-apres-le-ai-intelligence-artificielle-de-steven-spielberg-s-avere-encore-plus-derangeant-qu-a-sa-sortie</guid>
+            <source>Atlantico.fr</source>
+        </item>
+        <item>
             <title>Comment ChatGPT sait ce que les mots veulent dire (Embeddings)</title>
             <link>https://www.youtube.com/watch?v=ktL8oV26XYg</link>
             <description><![CDATA[Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...]]></description>
             <pubDate>Thu, 18 Jun 2026 08:01:19 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=ktL8oV26XYg</guid>
             <source>How AI Works?</source>
+        </item>
+        <item>
+            <title>SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners | SQL Training For Beginners | Simplilearn</title>
+            <link>https://www.youtube.com/watch?v=GSONaKKZozU</link>
+            <description><![CDATA[Micrososft Azure - Data Analyst Course ...]]></description>
+            <pubDate>Wed, 08 Jul 2026 15:30:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=GSONaKKZozU</guid>
+            <source>Simplilearn</source>
         </item>
         <item>
             <title>Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp;amp; Claude Cowork</title>
@@ -61,36 +85,12 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)</title>
-            <link>https://www.youtube.com/watch?v=1tlM9a4eEII</link>
-            <description><![CDATA[Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...]]></description>
-            <pubDate>Thu, 11 Jun 2026 10:53:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1tlM9a4eEII</guid>
-            <source>lioncode</source>
-        </item>
-        <item>
-            <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
-            <link>https://www.youtube.com/watch?v=IanWrDWQy0s</link>
-            <description><![CDATA[Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...]]></description>
-            <pubDate>Sat, 20 Jun 2026 17:56:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=IanWrDWQy0s</guid>
-            <source>Seif BOUGUERRA</source>
-        </item>
-        <item>
-            <title>Les données économiques régionales publiées en Chine montrent un discret mais puissant virage industriel</title>
-            <link>https://atlantico.fr/article/decryptage/les-donnees-economiques-regionales-publiees-en-chine-montrent-un-discret-mais-puissant-virage-industriel</link>
-            <description><![CDATA[Depuis plus de dix ans, la Chine déroule une stratégie industrielle méthodique pour s'imposer dans les secteurs technologiques les plus stratégiques. Intelligence artificielle, semi-conducteurs, robot...]]></description>
-            <pubDate>Sat, 01 Aug 2026 06:39:00 -0000</pubDate>
-            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/les-donnees-economiques-regionales-publiees-en-chine-montrent-un-discret-mais-puissant-virage-industriel</guid>
-            <source>Atlantico.fr</source>
-        </item>
-        <item>
-            <title>Anthropic ne veut pas être à la traîne : ses modèles ont eux aussi attaqué des services sur le web</title>
-            <link>https://www.macg.co/intelligence-artificielle/2026/07/anthropic-ne-veut-pas-etre-la-traine-ses-modeles-ont-eux-aussi-attaque-des-services-sur-le-web-310141</link>
-            <description><![CDATA[Moi aussi, moi aussi ! Alors qu’OpenAI fait les grands titres depuis quelques jours, parce que ses modèles ont réussi à entrer dans l’infrastructure de Hugging Face à son insu pour y récupérer des don...]]></description>
-            <pubDate>Fri, 31 Jul 2026 14:01:16 -0000</pubDate>
-            <guid isPermaLink="true">https://www.macg.co/intelligence-artificielle/2026/07/anthropic-ne-veut-pas-etre-la-traine-ses-modeles-ont-eux-aussi-attaque-des-services-sur-le-web-310141</guid>
-            <source>MacGeneration</source>
+            <title>C’est la nouvelle lubie d’Elon Musk : est-il vraiment possible de déployer 1 million de data centers dans l’espace ?</title>
+            <link>https://www.presse-citron.net/nouvelle-lubie-elon-musk-vraiment-possible-deployer-1-million-data-centers-espace/</link>
+            <description><![CDATA[Avec son projet de déployer 1 million de data centers spatiaux, Elon Musk promet de révolutionner l'intelligence artificielle depuis l'orbite terrestre. Mais cette vision spectaculaire se heurte, pour...]]></description>
+            <pubDate>Sat, 01 Aug 2026 14:00:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/nouvelle-lubie-elon-musk-vraiment-possible-deployer-1-million-data-centers-espace/</guid>
+            <source>Presse-citron</source>
         </item>
         <item>
             <title>NumPy &amp;amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes</title>
@@ -117,12 +117,12 @@
             <source>Ceemtic Analytics</source>
         </item>
         <item>
-            <title>L’Europe continent de l’IA ? Ambitions XXL, moyens XXS, le grand écart de la Commission de Bruxelles</title>
-            <link>https://atlantico.fr/article/decryptage/leurope-continent-de-lia-ambitions-xxl-moyens-xxs-le-grand-ecart-de-la-commission-de-bruxelles</link>
-            <description><![CDATA[Avec ses gigafactories, l'Union européenne espère reprendre pied dans la course mondiale à l'intelligence artificielle. Mais face aux investissements massifs des États-Unis et de la Chine, l'ambition ...]]></description>
-            <pubDate>Sat, 01 Aug 2026 06:16:45 -0000</pubDate>
-            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/leurope-continent-de-lia-ambitions-xxl-moyens-xxs-le-grand-ecart-de-la-commission-de-bruxelles</guid>
-            <source>Atlantico.fr</source>
+            <title>Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)</title>
+            <link>https://www.youtube.com/watch?v=2A5rNESVS9w</link>
+            <description><![CDATA[Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...]]></description>
+            <pubDate>Sun, 14 Jun 2026 14:37:38 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=2A5rNESVS9w</guid>
+            <source>AMVOULA Naïsia </source>
         </item>
         <item>
             <title>Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data</title>
@@ -141,36 +141,36 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Doctolib va exploiter les données de 50 millions de patients pour un projet de recherche en IA et votre profil a peut être déjà été retenu</title>
-            <link>https://www.gameblog.fr/trends/doctolib-va-exploiter-les-donnees-de-50-millions-de-patients-pour-un-projet-de-recherche-en-ia-et-votre-profil-a-peut-etre-deja-ete-retenu-720224</link>
-            <description><![CDATA[Vos données médicales bientôt exploitées par une IA sans que vous le sachiez ? Dès août 2026, Doctolib inclut 50 millions de patients par défaut. Voici comment refuser avant qu'il ne soit trop tard.]]></description>
-            <pubDate>Sat, 01 Aug 2026 05:00:37 -0000</pubDate>
-            <guid isPermaLink="true">https://www.gameblog.fr/trends/doctolib-va-exploiter-les-donnees-de-50-millions-de-patients-pour-un-projet-de-recherche-en-ia-et-votre-profil-a-peut-etre-deja-ete-retenu-720224</guid>
-            <source>Gameblog</source>
+            <title>SpaceXAI promet enfin de retirer ses turbines litigieuses d’ici 2027</title>
+            <link>https://www.begeek.fr/spacexai-promet-enfin-de-retirer-ses-turbines-litigieuses-dici-2027-437998</link>
+            <description><![CDATA[Accusé par la NAACP de violer le Clean Air Act, SpaceXAI promet de retirer 69 turbines non autorisées d’ici juillet 2027, sans freiner ses projets IA.]]></description>
+            <pubDate>Sun, 02 Aug 2026 10:00:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.begeek.fr/spacexai-promet-enfin-de-retirer-ses-turbines-litigieuses-dici-2027-437998</guid>
+            <source>Begeek.fr</source>
         </item>
         <item>
-            <title>Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀</title>
-            <link>https://www.youtube.com/watch?v=1Kokkl5PybM</link>
-            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
-            <pubDate>Thu, 04 Jun 2026 09:00:14 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1Kokkl5PybM</guid>
-            <source>Morpheus Formation | Excel, Power BI, Sheets</source>
-        </item>
-        <item>
-            <title>Découvrez notre formation sur Power BI #data #powerbi</title>
-            <link>https://www.youtube.com/watch?v=5XRR3C0nQLg</link>
+            <title>Comment créer une base de données avec le langage SQL ?</title>
+            <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
             <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
-            <pubDate>Tue, 21 Jul 2026 05:30:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=5XRR3C0nQLg</guid>
+            <pubDate>Wed, 01 Jul 2026 04:00:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=19JD2vconJ0</guid>
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Santé. IA : pourquoi Doctolib compte-t-il utiliser nos données de santé pour des recherches scientifiques ?</title>
-            <link>https://www.ledauphine.com/sante/2026/08/01/ia-pourquoi-doctolib-compte-t-il-utiliser-nos-donnees-de-sante-pour-des-recherches-scientifiques</link>
-            <description><![CDATA[Dès ce dimanche, Doctolib lance un programme de recherche scientifique utilisant les données de ses 50 millions d'utilisateurs. Ce qui provoque une levée de boucliers.]]></description>
-            <pubDate>Sat, 01 Aug 2026 09:46:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.ledauphine.com/sante/2026/08/01/ia-pourquoi-doctolib-compte-t-il-utiliser-nos-donnees-de-sante-pour-des-recherches-scientifiques</guid>
-            <source>Le Dauphiné Libéré</source>
+            <title>sqlmath 2026.7.30</title>
+            <link>https://pypi.org/project/sqlmath/2026.7.30/</link>
+            <description><![CDATA[sqlite for data-science]]></description>
+            <pubDate>Sat, 01 Aug 2026 01:36:19 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/sqlmath/2026.7.30/</guid>
+            <source>Pypi.org</source>
+        </item>
+        <item>
+            <title>La galaxie d'Andromède est en train de s'endormir sous l'œil de Hubble</title>
+            <link>https://www.generation-nt.com/actualites/galaxie-andromede-hubble-etoiles-formation-ralentissement-nasa-2079170</link>
+            <description><![CDATA[Notre proche voisine galactique semble prendre une pause. Pour la galaxie d'Andromède, des données du télescope spatial Hubble montrent un ralentissement de la naissance de ses étoiles.]]></description>
+            <pubDate>Sat, 01 Aug 2026 06:10:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/galaxie-andromede-hubble-etoiles-formation-ralentissement-nasa-2079170</guid>
+            <source>Génération NT</source>
         </item>
     </channel>
 </rss>

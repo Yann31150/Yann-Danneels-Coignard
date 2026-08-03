@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-02T10:00:25.878089",
+  "lastUpdate": "2026-08-03T11:29:40.289063",
   "articles": [
     {
       "title": "Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning",
@@ -12,6 +12,18 @@
       "isYouTube": true,
       "videoId": "PY_wRwL3Q0E",
       "thumbnail": "https://i.ytimg.com/vi/PY_wRwL3Q0E/hqdefault.jpg"
+    },
+    {
+      "title": "« L’AI Act » entre en vigueur… Quels nouveaux pouvoirs sur l’intelligence artificielle cette loi offre-t-elle à l’UE ?",
+      "description": "Ce dimanche, plusieurs dispositions d’une loi phare sur l’intelligence artificielle, votée il y a deux ans, entrent en vigueur. Les entreprises d’IA doivent ainsi prendre des mesures pour atténuer les...",
+      "url": "https://www.20minutes.fr/high-tech/4237341-20260802-act-entre-vigueur-nouveaux-pouvoirs-intelligence-artificielle-loi-offre-ue",
+      "source": "20 Minutes",
+      "publishedAt": "2026-08-02T08:59:44Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
@@ -50,6 +62,18 @@
       "thumbnail": "https://i.ytimg.com/vi/LKtwwn-W6iM/hqdefault.jpg"
     },
     {
+      "title": "25 ans après, le A.I. intelligence artificielle de Steven Spielberg s'avère encore plus dérangeant qu'à sa sortie",
+      "description": "Vingt-cinq ans après sa sortie, A.I. Intelligence artificielle apparaît plus actuel que jamais. Sans avoir prédit l'IA générative, le film de Spielberg, imaginé pendant plus de vingt ans par Stanley K...",
+      "url": "https://atlantico.fr/article/decryptage/25-ans-apres-le-ai-intelligence-artificielle-de-steven-spielberg-s-avere-encore-plus-derangeant-qu-a-sa-sortie",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-08-02T10:53:43Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Comment ChatGPT sait ce que les mots veulent dire (Embeddings)",
       "description": "Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...",
       "url": "https://www.youtube.com/watch?v=ktL8oV26XYg",
@@ -60,6 +84,18 @@
       "isYouTube": true,
       "videoId": "ktL8oV26XYg",
       "thumbnail": "https://i.ytimg.com/vi/ktL8oV26XYg/hqdefault.jpg"
+    },
+    {
+      "title": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners | SQL Training For Beginners | Simplilearn",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "url": "https://www.youtube.com/watch?v=GSONaKKZozU",
+      "source": "Simplilearn",
+      "publishedAt": "2026-07-08T15:30:29Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "GSONaKKZozU",
+      "thumbnail": "https://i.ytimg.com/vi/GSONaKKZozU/hqdefault.jpg"
     },
     {
       "title": "Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp; Claude Cowork",
@@ -74,47 +110,11 @@
       "thumbnail": "https://i.ytimg.com/vi/NURD13ukpQI/hqdefault.jpg"
     },
     {
-      "title": "Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)",
-      "description": "Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...",
-      "url": "https://www.youtube.com/watch?v=1tlM9a4eEII",
-      "source": "lioncode",
-      "publishedAt": "2026-06-11T10:53:29Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1tlM9a4eEII",
-      "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
-    },
-    {
-      "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
-      "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
-      "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
-      "source": "Seif BOUGUERRA",
-      "publishedAt": "2026-06-20T17:56:01Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "IanWrDWQy0s",
-      "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
-    },
-    {
-      "title": "Les données économiques régionales publiées en Chine montrent un discret mais puissant virage industriel",
-      "description": "Depuis plus de dix ans, la Chine déroule une stratégie industrielle méthodique pour s'imposer dans les secteurs technologiques les plus stratégiques. Intelligence artificielle, semi-conducteurs, robot...",
-      "url": "https://atlantico.fr/article/decryptage/les-donnees-economiques-regionales-publiees-en-chine-montrent-un-discret-mais-puissant-virage-industriel",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-08-01T06:39:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic ne veut pas être à la traîne : ses modèles ont eux aussi attaqué des services sur le web",
-      "description": "Moi aussi, moi aussi ! Alors qu’OpenAI fait les grands titres depuis quelques jours, parce que ses modèles ont réussi à entrer dans l’infrastructure de Hugging Face à son insu pour y récupérer des don...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/07/anthropic-ne-veut-pas-etre-la-traine-ses-modeles-ont-eux-aussi-attaque-des-services-sur-le-web-310141",
-      "source": "MacGeneration",
-      "publishedAt": "2026-07-31T14:01:16Z",
+      "title": "C’est la nouvelle lubie d’Elon Musk : est-il vraiment possible de déployer 1 million de data centers dans l’espace ?",
+      "description": "Avec son projet de déployer 1 million de data centers spatiaux, Elon Musk promet de révolutionner l'intelligence artificielle depuis l'orbite terrestre. Mais cette vision spectaculaire se heurte, pour...",
+      "url": "https://www.presse-citron.net/nouvelle-lubie-elon-musk-vraiment-possible-deployer-1-million-data-centers-espace/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-08-01T14:00:02Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -158,16 +158,16 @@
       "thumbnail": "https://i.ytimg.com/vi/3AUqD4ZwGts/hqdefault.jpg"
     },
     {
-      "title": "L’Europe continent de l’IA ? Ambitions XXL, moyens XXS, le grand écart de la Commission de Bruxelles",
-      "description": "Avec ses gigafactories, l'Union européenne espère reprendre pied dans la course mondiale à l'intelligence artificielle. Mais face aux investissements massifs des États-Unis et de la Chine, l'ambition ...",
-      "url": "https://atlantico.fr/article/decryptage/leurope-continent-de-lia-ambitions-xxl-moyens-xxs-le-grand-ecart-de-la-commission-de-bruxelles",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-08-01T06:16:45Z",
+      "title": "Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)",
+      "description": "Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...",
+      "url": "https://www.youtube.com/watch?v=2A5rNESVS9w",
+      "source": "AMVOULA Naïsia ",
+      "publishedAt": "2026-06-14T14:37:38Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "2A5rNESVS9w",
+      "thumbnail": "https://i.ytimg.com/vi/2A5rNESVS9w/hqdefault.jpg"
     },
     {
       "title": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data",
@@ -194,11 +194,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Z1Y41sOVWyQ/hqdefault.jpg"
     },
     {
-      "title": "Doctolib va exploiter les données de 50 millions de patients pour un projet de recherche en IA et votre profil a peut être déjà été retenu",
-      "description": "Vos données médicales bientôt exploitées par une IA sans que vous le sachiez ? Dès août 2026, Doctolib inclut 50 millions de patients par défaut. Voici comment refuser avant qu'il ne soit trop tard.",
-      "url": "https://www.gameblog.fr/trends/doctolib-va-exploiter-les-donnees-de-50-millions-de-patients-pour-un-projet-de-recherche-en-ia-et-votre-profil-a-peut-etre-deja-ete-retenu-720224",
-      "source": "Gameblog",
-      "publishedAt": "2026-08-01T05:00:37Z",
+      "title": "SpaceXAI promet enfin de retirer ses turbines litigieuses d’ici 2027",
+      "description": "Accusé par la NAACP de violer le Clean Air Act, SpaceXAI promet de retirer 69 turbines non autorisées d’ici juillet 2027, sans freiner ses projets IA.",
+      "url": "https://www.begeek.fr/spacexai-promet-enfin-de-retirer-ses-turbines-litigieuses-dici-2027-437998",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-08-02T10:00:03Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,35 +206,35 @@
       "thumbnail": ""
     },
     {
-      "title": "Exercice Power BI : modélisation, DAX et KPI dynamiques 🚀",
-      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
-      "url": "https://www.youtube.com/watch?v=1Kokkl5PybM",
-      "source": "Morpheus Formation | Excel, Power BI, Sheets",
-      "publishedAt": "2026-06-04T09:00:14Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1Kokkl5PybM",
-      "thumbnail": "https://i.ytimg.com/vi/1Kokkl5PybM/hqdefault.jpg"
-    },
-    {
-      "title": "Découvrez notre formation sur Power BI #data #powerbi",
+      "title": "Comment créer une base de données avec le langage SQL ?",
       "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
-      "url": "https://www.youtube.com/watch?v=5XRR3C0nQLg",
+      "url": "https://www.youtube.com/watch?v=19JD2vconJ0",
       "source": "OpenClassrooms en Français",
-      "publishedAt": "2026-07-21T05:30:15Z",
+      "publishedAt": "2026-07-01T04:00:13Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "5XRR3C0nQLg",
-      "thumbnail": "https://i.ytimg.com/vi/5XRR3C0nQLg/hqdefault.jpg"
+      "videoId": "19JD2vconJ0",
+      "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
-      "title": "Santé. IA : pourquoi Doctolib compte-t-il utiliser nos données de santé pour des recherches scientifiques ?",
-      "description": "Dès ce dimanche, Doctolib lance un programme de recherche scientifique utilisant les données de ses 50 millions d'utilisateurs. Ce qui provoque une levée de boucliers.",
-      "url": "https://www.ledauphine.com/sante/2026/08/01/ia-pourquoi-doctolib-compte-t-il-utiliser-nos-donnees-de-sante-pour-des-recherches-scientifiques",
-      "source": "Le Dauphiné Libéré",
-      "publishedAt": "2026-08-01T09:46:00Z",
+      "title": "sqlmath 2026.7.30",
+      "description": "sqlite for data-science",
+      "url": "https://pypi.org/project/sqlmath/2026.7.30/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-08-01T01:36:19Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "La galaxie d'Andromède est en train de s'endormir sous l'œil de Hubble",
+      "description": "Notre proche voisine galactique semble prendre une pause. Pour la galaxie d'Andromède, des données du télescope spatial Hubble montrent un ralentissement de la naissance de ses étoiles.",
+      "url": "https://www.generation-nt.com/actualites/galaxie-andromede-hubble-etoiles-formation-ralentissement-nasa-2079170",
+      "source": "Génération NT",
+      "publishedAt": "2026-08-01T06:10:01Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/MYhsbnBdUEQ/hqdefault.jpg"
     },
     {
-      "title": "Intelligence artificielle : 1 319 employés d'OpenAI, Anthropic, Meta et Google DeepMind demandent à Washington de ralentir",
-      "description": "Un modèle d'IA s'échappe tout seul sur Hugging Face, des employés d'OpenAI parlent de « course mortelle »... et Sam Altman confirme avoir demandé à la Maison-Blanche de ralentir. Que s'est-il vraiment...",
-      "url": "https://www.gameblog.fr/trends/intelligence-artificielle-1-319-employes-dopenai-anthropic-meta-et-google-deepmind-demandent-a-washington-de-ralentir-720226",
-      "source": "Gameblog",
-      "publishedAt": "2026-08-01T05:30:05Z",
+      "title": "Intelligence artificielle : la réglementation la plus puissante au monde entre en vigueur dans l’UE",
+      "description": "Une loi pionnière sur l’IA entre en vigueur ce dimanche 2 août au sein de l’Union européenne. Adoptée il y a deux ans, elle donne de nouveaux pouvoirs aux institutions et les dote, surtout, d’un large...",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/intelligence-artificielle-la-reglementation-la-plus-puissante-au-monde-entre-en-vigueur-dans-lue-dimanche-2-aout_645117",
+      "source": "Challenges",
+      "publishedAt": "2026-08-02T11:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Krach en vue ? Ce que préfigure vraiment la crise des bourses asiatiques sur l’IA",
-      "description": "La violente correction des valeurs technologiques asiatiques, portée par les reculs de Samsung et SK Hynix, relance les interrogations sur une éventuelle bulle de l'intelligence artificielle. Faut-il ...",
-      "url": "https://atlantico.fr/article/decryptage/krach-en-vue-ce-que-prefigure-vraiment-la-crise-des-bourses-asiatiques-sur-lia",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-08-01T06:04:44Z",
+      "title": "IA, la grande escroquerie",
+      "description": "Emily Bender et Alex Hanna publient The AI con, « L’escroquerie de l’IA ». Une synthèse très documentée qui nous invite à lutter contre le monde que nous proposent les géants de l’IA. Lecture.",
+      "url": "https://framablog.org/2026/08/02/ia-la-grande-escroquerie/",
+      "source": "Framablog.org",
+      "publishedAt": "2026-08-02T08:00:16Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Quand un ex-conseiller d’Emmanuel Macron remet les (riches) Français en marche",
-      "description": "Ismaël Emelien, qui fut l’un des stratèges de la campagne présidentielle victorieuse de 2017 avant de rejoindre l’Elysée jusqu’en 2019, s’est reconverti dans la très lucrative médecine anti-âge pour «...",
-      "url": "https://www.nouvelobs.com/economie/20260801.OBS117114/quand-un-ex-conseiller-d-emmanuel-macron-remet-les-riches-francais-en-marche.html",
-      "source": "L'Obs",
-      "publishedAt": "2026-08-01T07:30:13Z",
+      "title": "Actualité : Marre du contenu généré par IA sur LinkedIn ? Le réseau ajoute un bouton pour signaler le \"slop”",
+      "description": "Face à l'explosion des posts générés par IA sur sa plateforme, LinkedIn prend plusieurs mesures pour limiter leurs apparitions dans les feeds de ses utilisateurs. Un nouvel outil de signalement de « b...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/marre-du-contenu-genere-par-ia-sur-linkedin-le-reseau-ajoute-un-bouton-pour-signaler-le-slop-n259952.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-08-02T10:34:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "L’accès à l’énergie, levier de domination de l’IA",
-      "description": "Pour se développer, l’IA a besoin d’énergie. Attention cependant à ce que l’accès à cette ressource ne devienne pas une barrière à l’entrée, alerte l’Autorité de la concurrence. Elle appelle à garanti...",
-      "url": "https://www.zdnet.fr/actualites/lacces-a-lenergie-levier-de-domination-de-lia-499167.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-07-31T01:07:30Z",
+      "title": "Atteinte d’une maladie génétique rare, Mei, âgée de 6 ans, est décédée à la suite d’une thérapie génique expérimentale menée dans la précipitation",
+      "description": "Une enquête de la revue “Science” et du site spécialisé Retraction Watch, publiée le 23 juillet, révèle que l’essai clinique aurait transgressé de nombreuses règles d’éthique et de sécurité. ...",
+      "url": "https://www.lalibre.be/planete/sante/2026/08/01/atteinte-dune-maladie-genetique-rare-mei-agee-de-6-ans-est-decedee-a-la-suite-dune-therapie-genique-experimentale-menee-dans-la-precipitation-K4TYOEGY5FFN7FKMS5MFCDLXAQ/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-08-01T15:56:39Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
