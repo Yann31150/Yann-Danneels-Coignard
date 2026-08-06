@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 05 Aug 2026 10:40:18 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 10:42:51 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,28 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Une intelligence artificielle autonome réalise sa propre recherche biomédicale</title>
-            <link>https://www.techno-science.net/fr/actualites/biomni-agent-autonome-recherche-biomedicale-29113</link>
-            <description><![CDATA[Un système d’intelligence artificielle présenté dans la revue Science peut exécuter de manière autonome plusieurs tâches de recherche biomédicale. Baptisé Biomni, il ne se limite pas à répondre à des ...]]></description>
-            <pubDate>Tue, 04 Aug 2026 04:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.techno-science.net/fr/actualites/biomni-agent-autonome-recherche-biomedicale-29113</guid>
-            <source>Techno-science.net</source>
+            <title>NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)</title>
+            <link>https://www.youtube.com/watch?v=0EsKXRhOYxM</link>
+            <description><![CDATA[Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...]]></description>
+            <pubDate>Mon, 22 Jun 2026 15:04:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=0EsKXRhOYxM</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning</title>
-            <link>https://www.youtube.com/watch?v=PY_wRwL3Q0E</link>
-            <description><![CDATA[Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...]]></description>
-            <pubDate>Wed, 15 Jul 2026 16:07:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=PY_wRwL3Q0E</guid>
-            <source>Rafa Explique</source>
+            <title>Actualité : "Superintelligence sûre" : le scientifique qui a rendu ChatGPT possible prépare quelque chose de bien plus gros</title>
+            <link>https://www.lesnumeriques.com/intelligence-artificielle/superintelligence-sure-le-scientifique-qui-a-rendu-chatgpt-possible-prepare-quelque-chose-de-bien-plus-gros-n260093.html</link>
+            <description><![CDATA[Ilya Sutskever a cofondé OpenAI, posé les bases de ChatGPT, puis tout quitté pour fonder un labo avec une seule obsession : construire une intelligence artificielle supérieure à l'humain, sans qu'elle...]]></description>
+            <pubDate>Wed, 05 Aug 2026 06:31:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/superintelligence-sure-le-scientifique-qui-a-rendu-chatgpt-possible-prepare-quelque-chose-de-bien-plus-gros-n260093.html</guid>
+            <source>Les Numériques</source>
+        </item>
+        <item>
+            <title>Pourquoi ChatGPT essaie-t-il de vous donner raison, même quand vous avez tort ?</title>
+            <link>https://www.futura-sciences.com/tech/questions-reponses/intelligence-artificielle-chatgpt-essaie-t-il-vous-donner-raison-meme-vous-avez-tort-25807/</link>
+            <description><![CDATA[Le plus grand piège de l’IA n'est peut-être pas celui que vous imaginez… Il réside dans la tendance assumée par défaut de manifester de la complaisance envers nous. Pourquoi les IA agissent-elles ains...]]></description>
+            <pubDate>Wed, 05 Aug 2026 10:00:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/tech/questions-reponses/intelligence-artificielle-chatgpt-essaie-t-il-vous-donner-raison-meme-vous-avez-tort-25807/</guid>
+            <source>Futura</source>
         </item>
         <item>
             <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
@@ -53,22 +61,6 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>15 ans déjà ! Des machines et des hommes : le deep learning, nouvelle frontière de l’intelligence artificielle ?</title>
-            <link>https://www.opinion-internationale.com/2026/08/03/des-machines-et-des-hommes-le-deep-learning-nouvelle-frontiere-de-lintelligence-artificielle_39440.html</link>
-            <description><![CDATA[A l’occasion des 15 ans de notre média, nous publions les  articles les plus populaires, les plus croustillants, les plus porteurs de sens… Aujourd’hui, le plus ancien de nos articles sur l’intelligen...]]></description>
-            <pubDate>Mon, 03 Aug 2026 09:11:43 -0000</pubDate>
-            <guid isPermaLink="true">https://www.opinion-internationale.com/2026/08/03/des-machines-et-des-hommes-le-deep-learning-nouvelle-frontiere-de-lintelligence-artificielle_39440.html</guid>
-            <source>Opinion-internationale.com</source>
-        </item>
-        <item>
-            <title>VENOM : l'US Air Force a fait voler un F-16 entièrement par une IA !</title>
-            <link>https://www.generation-nt.com/actualites/us-air-force-programme-venom-f-16-pilotage-intelligence-artificielle-2079399</link>
-            <description><![CDATA[Le programme VENOM de la DARPA continue d'avancer avec la démonstration du vol d'un chasseur F-16 entièrement piloté par une intelligence artificielle, sans avoir à transformer profondément le système...]]></description>
-            <pubDate>Tue, 04 Aug 2026 08:20:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/us-air-force-programme-venom-f-16-pilotage-intelligence-artificielle-2079399</guid>
-            <source>Génération NT</source>
-        </item>
-        <item>
             <title>Comment ChatGPT sait ce que les mots veulent dire (Embeddings)</title>
             <link>https://www.youtube.com/watch?v=ktL8oV26XYg</link>
             <description><![CDATA[Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...]]></description>
@@ -91,6 +83,14 @@
             <pubDate>Thu, 11 Jun 2026 10:53:29 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=1tlM9a4eEII</guid>
             <source>lioncode</source>
+        </item>
+        <item>
+            <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
+            <link>https://www.youtube.com/watch?v=IanWrDWQy0s</link>
+            <description><![CDATA[Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...]]></description>
+            <pubDate>Sat, 20 Jun 2026 17:56:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=IanWrDWQy0s</guid>
+            <source>Seif BOUGUERRA</source>
         </item>
         <item>
             <title>NumPy &amp;amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes</title>
@@ -149,6 +149,14 @@
             <source>Abondance.com</source>
         </item>
         <item>
+            <title>Lumo AI : et si vous testiez l’assistant IA européen qui ne lit jamais vos conversations ? [Sponso]</title>
+            <link>https://www.frandroid.com/services/3200711_lumo-ai-et-si-vous-testiez-lassistant-ia-europeen-qui-ne-lit-jamais-vos-conversations</link>
+            <description><![CDATA[L'IA générative analyse, rédige ou crée du contenu pour vous en quelques secondes. Mais tout ceci a un coût et c’est bien souvent vos données personnelles qui paient la facture. Si vous ne voulez pas ...]]></description>
+            <pubDate>Wed, 05 Aug 2026 05:20:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/services/3200711_lumo-ai-et-si-vous-testiez-lassistant-ia-europeen-qui-ne-lit-jamais-vos-conversations</guid>
+            <source>Frandroid</source>
+        </item>
+        <item>
             <title>Comment créer une base de données avec le langage SQL ?</title>
             <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
             <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
@@ -157,20 +165,12 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>IA, SEO, vidéo : 5 nouveaux outils à découvrir sur Product Hunt en juillet 2026</title>
-            <link>https://www.blogdumoderateur.com/nouveaux-outils-product-hunt-juillet-2026/</link>
-            <description><![CDATA[Un outil SEO open source, une plateforme de vibe coding orientée business, un logiciel de montage dopé à l'IA... Voici cinq outils plébiscités sur Product Hunt ce mois-ci.]]></description>
-            <pubDate>Tue, 04 Aug 2026 07:40:27 -0000</pubDate>
-            <guid isPermaLink="true">https://www.blogdumoderateur.com/nouveaux-outils-product-hunt-juillet-2026/</guid>
-            <source>Blogdumoderateur.com</source>
-        </item>
-        <item>
-            <title>54 des 55 failles de sécurité déposées par ce compte GitHub n'existaient pas</title>
-            <link>https://korben.info/54-des-55-failles-de-securite-deposees-par-ce-compte-github-nexistaient-pas.html</link>
-            <description><![CDATA[JFrog, une société spécialisée dans la sécurité de la chaîne logicielle, a passé au crible les 55 vulnérabilités déposées par un seul compte GitHub. Cinquante-quatre étaient entièrement fabriquées, un...]]></description>
-            <pubDate>Tue, 04 Aug 2026 10:17:36 -0000</pubDate>
-            <guid isPermaLink="true">https://korben.info/54-des-55-failles-de-securite-deposees-par-ce-compte-github-nexistaient-pas.html</guid>
-            <source>Korben.info</source>
+            <title>Actualité : Google Assistant, c’est (très bientôt) fini : voici quand le service sera coupé</title>
+            <link>https://www.lesnumeriques.com/telephone-portable/google-assistant-c-est-tres-bientot-fini-voici-quand-le-service-sera-coupe-n260104.html</link>
+            <description><![CDATA[Le clap de fin résonnera bientôt pour Google Assistant sur les smartphones Android. À compter du 4 septembre, il sera remplacé par Gemini, l'IA générative de Mountain View.]]></description>
+            <pubDate>Wed, 05 Aug 2026 09:59:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/telephone-portable/google-assistant-c-est-tres-bientot-fini-voici-quand-le-service-sera-coupe-n260104.html</guid>
+            <source>Les Numériques</source>
         </item>
     </channel>
 </rss>

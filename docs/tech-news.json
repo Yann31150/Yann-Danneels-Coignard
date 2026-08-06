@@ -1,12 +1,24 @@
 {
-  "lastUpdate": "2026-08-05T10:40:18.749206",
+  "lastUpdate": "2026-08-06T10:42:51.116859",
   "articles": [
     {
-      "title": "Une intelligence artificielle autonome réalise sa propre recherche biomédicale",
-      "description": "Un système d’intelligence artificielle présenté dans la revue Science peut exécuter de manière autonome plusieurs tâches de recherche biomédicale. Baptisé Biomni, il ne se limite pas à répondre à des ...",
-      "url": "https://www.techno-science.net/fr/actualites/biomni-agent-autonome-recherche-biomedicale-29113",
-      "source": "Techno-science.net",
-      "publishedAt": "2026-08-04T04:00:00Z",
+      "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
+      "description": "Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...",
+      "url": "https://www.youtube.com/watch?v=0EsKXRhOYxM",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-06-22T15:04:54Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "0EsKXRhOYxM",
+      "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
+    },
+    {
+      "title": "Actualité : \"Superintelligence sûre\" : le scientifique qui a rendu ChatGPT possible prépare quelque chose de bien plus gros",
+      "description": "Ilya Sutskever a cofondé OpenAI, posé les bases de ChatGPT, puis tout quitté pour fonder un labo avec une seule obsession : construire une intelligence artificielle supérieure à l'humain, sans qu'elle...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/superintelligence-sure-le-scientifique-qui-a-rendu-chatgpt-possible-prepare-quelque-chose-de-bien-plus-gros-n260093.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-08-05T06:31:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -14,16 +26,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning",
-      "description": "Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...",
-      "url": "https://www.youtube.com/watch?v=PY_wRwL3Q0E",
-      "source": "Rafa Explique",
-      "publishedAt": "2026-07-15T16:07:36Z",
+      "title": "Pourquoi ChatGPT essaie-t-il de vous donner raison, même quand vous avez tort ?",
+      "description": "Le plus grand piège de l’IA n'est peut-être pas celui que vous imaginez… Il réside dans la tendance assumée par défaut de manifester de la complaisance envers nous. Pourquoi les IA agissent-elles ains...",
+      "url": "https://www.futura-sciences.com/tech/questions-reponses/intelligence-artificielle-chatgpt-essaie-t-il-vous-donner-raison-meme-vous-avez-tort-25807/",
+      "source": "Futura",
+      "publishedAt": "2026-08-05T10:00:03Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "PY_wRwL3Q0E",
-      "thumbnail": "https://i.ytimg.com/vi/PY_wRwL3Q0E/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
@@ -62,30 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/LKtwwn-W6iM/hqdefault.jpg"
     },
     {
-      "title": "15 ans déjà ! Des machines et des hommes : le deep learning, nouvelle frontière de l’intelligence artificielle ?",
-      "description": "A l’occasion des 15 ans de notre média, nous publions les  articles les plus populaires, les plus croustillants, les plus porteurs de sens… Aujourd’hui, le plus ancien de nos articles sur l’intelligen...",
-      "url": "https://www.opinion-internationale.com/2026/08/03/des-machines-et-des-hommes-le-deep-learning-nouvelle-frontiere-de-lintelligence-artificielle_39440.html",
-      "source": "Opinion-internationale.com",
-      "publishedAt": "2026-08-03T09:11:43Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "VENOM : l'US Air Force a fait voler un F-16 entièrement par une IA !",
-      "description": "Le programme VENOM de la DARPA continue d'avancer avec la démonstration du vol d'un chasseur F-16 entièrement piloté par une intelligence artificielle, sans avoir à transformer profondément le système...",
-      "url": "https://www.generation-nt.com/actualites/us-air-force-programme-venom-f-16-pilotage-intelligence-artificielle-2079399",
-      "source": "Génération NT",
-      "publishedAt": "2026-08-04T08:20:02Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Comment ChatGPT sait ce que les mots veulent dire (Embeddings)",
       "description": "Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...",
       "url": "https://www.youtube.com/watch?v=ktL8oV26XYg",
@@ -120,6 +108,18 @@
       "isYouTube": true,
       "videoId": "1tlM9a4eEII",
       "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
+    },
+    {
+      "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
+      "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
+      "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
+      "source": "Seif BOUGUERRA",
+      "publishedAt": "2026-06-20T17:56:01Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "IanWrDWQy0s",
+      "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
     },
     {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
@@ -206,6 +206,18 @@
       "thumbnail": ""
     },
     {
+      "title": "Lumo AI : et si vous testiez l’assistant IA européen qui ne lit jamais vos conversations ? [Sponso]",
+      "description": "L'IA générative analyse, rédige ou crée du contenu pour vous en quelques secondes. Mais tout ceci a un coût et c’est bien souvent vos données personnelles qui paient la facture. Si vous ne voulez pas ...",
+      "url": "https://www.frandroid.com/services/3200711_lumo-ai-et-si-vous-testiez-lassistant-ia-europeen-qui-ne-lit-jamais-vos-conversations",
+      "source": "Frandroid",
+      "publishedAt": "2026-08-05T05:20:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Comment créer une base de données avec le langage SQL ?",
       "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
       "url": "https://www.youtube.com/watch?v=19JD2vconJ0",
@@ -218,11 +230,11 @@
       "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
-      "title": "IA, SEO, vidéo : 5 nouveaux outils à découvrir sur Product Hunt en juillet 2026",
-      "description": "Un outil SEO open source, une plateforme de vibe coding orientée business, un logiciel de montage dopé à l'IA... Voici cinq outils plébiscités sur Product Hunt ce mois-ci.",
-      "url": "https://www.blogdumoderateur.com/nouveaux-outils-product-hunt-juillet-2026/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-08-04T07:40:27Z",
+      "title": "Actualité : Google Assistant, c’est (très bientôt) fini : voici quand le service sera coupé",
+      "description": "Le clap de fin résonnera bientôt pour Google Assistant sur les smartphones Android. À compter du 4 septembre, il sera remplacé par Gemini, l'IA générative de Mountain View.",
+      "url": "https://www.lesnumeriques.com/telephone-portable/google-assistant-c-est-tres-bientot-fini-voici-quand-le-service-sera-coupe-n260104.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-08-05T09:59:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,23 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "54 des 55 failles de sécurité déposées par ce compte GitHub n'existaient pas",
-      "description": "JFrog, une société spécialisée dans la sécurité de la chaîne logicielle, a passé au crible les 55 vulnérabilités déposées par un seul compte GitHub. Cinquante-quatre étaient entièrement fabriquées, un...",
-      "url": "https://korben.info/54-des-55-failles-de-securite-deposees-par-ce-compte-github-nexistaient-pas.html",
-      "source": "Korben.info",
-      "publishedAt": "2026-08-04T10:17:36Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "PIIEC IA : votre entreprise a-t-elle le profil et comment candidater ?",
-      "description": "La France sélectionne jusqu’au 9 septembre 2026 les futurs participants français du Projet important d’intérêt européen commun consacré à l’intelligence artificielle. L’appel ne s’adresse pas uniqueme...",
-      "url": "https://www.frenchweb.fr/piiec-ia-votre-entreprise-a-t-elle-le-profil-et-comment-candidater/462849",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-08-04T08:42:18Z",
+      "title": "« Nous sommes à un tournant historique » : l’IA commence à prendre les commandes dans l’espace",
+      "description": "Il y a des endroits où l'intelligence humaine ne peut tout simplement pas suivre. Trop loin. Trop vite. Trop seule. L'espace est l'un d'eux. Et c'est précisément là, que l'intelligence artificielle ré...",
+      "url": "https://www.futura-sciences.com/sciences/actualites/series-ete-nous-sommes-tournant-historique-ia-commence-prendre-commandes-espace-135971/",
+      "source": "Futura",
+      "publishedAt": "2026-08-04T19:03:15Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "IA et gestion d'actifs : la véritable révolution ne commencera pas quand les robots remplaceront les financiers",
-      "description": "Aujourd'hui, l'intelligence artificielle relève encore davantage du marketing que d'une véritable transformation opérationnelle.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1553365-ia-et-gestion-d-actifs-la-veritable-revolution-ne-commencera-pas-quand-les-robots-remplaceront-les-financiers-elle-commencera-quand-ils-prendront-les-meilleures-decisions/",
-      "source": "JDN",
-      "publishedAt": "2026-08-04T09:29:32Z",
+      "title": "Apple et OpenAI : la bataille judiciaire s’intensifie autour de présumés secrets commerciaux",
+      "description": "Apple hausse le ton contre OpenAI en demandant à la justice américaine une injonction d’urgence pour protéger ses secrets commerciaux.",
+      "url": "https://www.zdnet.fr/actualites/apple-et-openai-la-bataille-judiciaire-sintensifie-autour-de-presumes-secrets-commerciaux-499306.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-08-05T07:05:35Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Internet. Aperçus IA de Google : comment les faire disparaître et retrouver les résultats de recherche traditionnels ?",
-      "description": "Les réponses générées par l’intelligence artificielle de Google sont désormais disponibles en France. Placées en tête des résultats de recherche, elles peuvent toutefois être masquées. Voici comment.",
-      "url": "https://www.ledauphine.com/science-et-technologie/2026/08/04/apercus-ia-de-google-comment-les-faire-disparaitre-et-retrouver-les-resultats-de-recherche-traditionnels",
-      "source": "Le Dauphiné Libéré",
-      "publishedAt": "2026-08-04T10:37:00Z",
+      "title": "SUNON dévoile des ventilateurs EC écologiques conformes à la norme ErP 2026, destinés à alimenter les infrastructures d'IA de nouvelle génération",
+      "description": "KAOHSIUNG, 5 août 2026 /PRNewswire/ -- Alors que les industries mondiales s'empressent de développer leurs infrastructures d'IA dans le cadre d'exigences ESG strictes, une gestion thermique très effic...",
+      "url": "https://www.prnewswire.com/news-releases/sunon-devoile-des-ventilateurs-ec-ecologiques-conformes-a-la-norme-erp-2026-destines-a-alimenter-les-infrastructures-dia-de-nouvelle-generation-302839767.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-08-05T07:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "« Gardez cela à l'esprit » Stellar Blade 2 : après l'énorme polémique, le créateur du jeu tente de se défendre et répond aux critiques",
-      "description": "Stellar Blade Blood Rain, deuxième volet de la saga de Shift Up, s'est récemment attiré les foudres des internautes avec une vidéo promotionnelle générée par intelligence artificielle. Le studio répon...",
-      "url": "https://www.gameblog.fr/jeu-video/ed/news/stellar-blade-blood-rain-polemique-chanson-ia-reponse-720356",
-      "source": "Gameblog",
-      "publishedAt": "2026-08-04T10:06:53Z",
+      "title": "MSI PRO MAX EDGE AI+ : un PC de 4 litres pour l’IA locale",
+      "description": "Le MSI PRO MAX EDGE AI+ rejoint la grande famille des engins compacts dédiés à une exploitation d'IA locale grâce à un Ryzen AI Max+ 395.\nMSI PRO MAX EDGE AI+ : un PC de 4 litres pour l’IA locale © Mi...",
+      "url": "https://www.minimachines.net/actu/msi-pro-max-edge-ai-plus-142580",
+      "source": "Minimachines.net",
+      "publishedAt": "2026-08-05T10:29:19Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,12 +290,12 @@
       "thumbnail": ""
     },
     {
-      "title": "« Ils ont confondu deux noms asiatiques » : OpenAI publie des messages internes pour contrer la plainte d’Apple",
-      "description": "Accusé par Apple d'avoir volé des informations confidentielles via d'anciens employés, OpenAI publie sa propre défense, messages internes à l'appui. Le feuilleton judiciaire entre Apple et OpenAI cont...",
-      "url": "https://www.numerama.com/cyberguerre/2306093-ils-ont-confondu-deux-noms-asiatiques-openai-publie-des-messages-internes-pour-contrer-la-plainte-dapple.html",
-      "source": "Numerama",
-      "publishedAt": "2026-08-04T08:54:07Z",
-      "category": "tech",
+      "title": "Yili Group stimule l’innovation et la coopération pour un écosystème laitier mondial durable lors du Congrès mondial du lait 2026",
+      "description": "HOHHOT, Chine, 05 août 2026 (GLOBE NEWSWIRE) -- Le 2026 World Dairy Congress (Congrès mondial du lait 2026) a officiellement ouvert ses portes le 1er août à Hohhot, en Mongolie-Intérieure. Organisé pa...",
+      "url": "https://www.globenewswire.com/news-release/2026/08/05/3339067/0/fr/Yili-Group-stimule-l-innovation-et-la-coop%C3%A9ration-pour-un-%C3%A9cosyst%C3%A8me-laitier-mondial-durable-lors-du-Congr%C3%A8s-mondial-du-lait-2026.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-08-05T07:55:00Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
