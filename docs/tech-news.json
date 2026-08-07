@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-06T10:42:51.116859",
+  "lastUpdate": "2026-08-07T09:03:23.306936",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -14,11 +14,11 @@
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
     },
     {
-      "title": "Actualité : \"Superintelligence sûre\" : le scientifique qui a rendu ChatGPT possible prépare quelque chose de bien plus gros",
-      "description": "Ilya Sutskever a cofondé OpenAI, posé les bases de ChatGPT, puis tout quitté pour fonder un labo avec une seule obsession : construire une intelligence artificielle supérieure à l'humain, sans qu'elle...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/superintelligence-sure-le-scientifique-qui-a-rendu-chatgpt-possible-prepare-quelque-chose-de-bien-plus-gros-n260093.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-08-05T06:31:00Z",
+      "title": "Non, ChatGPT ne rend pas votre cerveau moins actif : voici ce que révèle vraiment l'étude",
+      "description": "Une récente étude sur l’impact des modèles de langage sur notre cerveau et nos capacités cognitives a été mal interprétée dans certains médias, donnant lieu à une légère désinformation sur la question...",
+      "url": "https://www.futura-sciences.com/sante/actualites/cerveau-non-chatgpt-ne-rend-pas-votre-cerveau-moins-actif-voici-ce-revele-vraiment-etude-w2t8-136717/",
+      "source": "Futura",
+      "publishedAt": "2026-08-06T06:00:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -26,16 +26,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Pourquoi ChatGPT essaie-t-il de vous donner raison, même quand vous avez tort ?",
-      "description": "Le plus grand piège de l’IA n'est peut-être pas celui que vous imaginez… Il réside dans la tendance assumée par défaut de manifester de la complaisance envers nous. Pourquoi les IA agissent-elles ains...",
-      "url": "https://www.futura-sciences.com/tech/questions-reponses/intelligence-artificielle-chatgpt-essaie-t-il-vous-donner-raison-meme-vous-avez-tort-25807/",
-      "source": "Futura",
-      "publishedAt": "2026-08-05T10:00:03Z",
+      "title": "Les Worlds Models : l’IA post LLM, expliqué par Yann LeCun",
+      "description": "L'avenir de l'IA selon Yann LeCun : World Models, LLM, Open Source et Souveraineté L'IA générative (LLM) a-t-elle déjà atteint ...",
+      "url": "https://www.youtube.com/watch?v=m7ywFu3Yqh8",
+      "source": "A la french  💻",
+      "publishedAt": "2026-07-07T10:07:58Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "m7ywFu3Yqh8",
+      "thumbnail": "https://i.ytimg.com/vi/m7ywFu3Yqh8/hqdefault.jpg"
     },
     {
       "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
@@ -48,6 +48,18 @@
       "isYouTube": true,
       "videoId": "9R-humPn-eo",
       "thumbnail": "https://i.ytimg.com/vi/9R-humPn-eo/hqdefault.jpg"
+    },
+    {
+      "title": "Meta se lance à son tour dans le vibe coding avec Muse Code, sa réponse à Claude Code ou Codex",
+      "description": "Meta a annoncé une nouvelle version de son grand modèle de langage (LLM) de référence et surtout la première version de sa réponse à Claude Code d’Anthropic ou Codex d’OpenAI, à savoir un outil spécia...",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/08/meta-se-lance-son-tour-dans-le-vibe-coding-avec-muse-code-sa-reponse-claude-code-ou-codex-310233",
+      "source": "MacGeneration",
+      "publishedAt": "2026-08-06T08:44:25Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Leçon 4 - Fonction de coût - Cours Complet de Deep Learning",
@@ -110,18 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
     },
     {
-      "title": "Le SQL qu&#39;on attend VRAIMENT de toi en data commence ici",
-      "description": "Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...",
-      "url": "https://www.youtube.com/watch?v=IanWrDWQy0s",
-      "source": "Seif BOUGUERRA",
-      "publishedAt": "2026-06-20T17:56:01Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "IanWrDWQy0s",
-      "thumbnail": "https://i.ytimg.com/vi/IanWrDWQy0s/hqdefault.jpg"
-    },
-    {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
       "description": "NumPy et Pandas sont les deux bibliothèques qui font de Python le roi de la data science. Ce cours complet te donne tout le ...",
       "url": "https://www.youtube.com/watch?v=-kGlpSTHPf4",
@@ -170,6 +170,18 @@
       "thumbnail": "https://i.ytimg.com/vi/2A5rNESVS9w/hqdefault.jpg"
     },
     {
+      "title": "ENGWE réaffirme son engagement en faveur de la mobilité durable et de son impact communautaire lors de la Notte Bianca dello Sport en Italie",
+      "description": "BARI, Italie, 6 août 2026 /PRNewswire/ -- ENGWE est fier d'être à nouveau le sponsor principal de la Notte Bianca dello Sport (nuit blanche du sport) à Bari, en Italie, renforçant ainsi son engagement...",
+      "url": "https://www.prnewswire.com/news-releases/engwe-reaffirme-son-engagement-en-faveur-de-la-mobilite-durable-et-de-son-impact-communautaire-lors-de-la-notte-bianca-dello-sport-en-italie-302843263.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-08-06T07:30:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data",
       "description": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data Timeline 00:00 Introduction ...",
       "url": "https://www.youtube.com/watch?v=IwQvKri768w",
@@ -194,11 +206,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Z1Y41sOVWyQ/hqdefault.jpg"
     },
     {
-      "title": "Se former à l’IA générative en 2026 : quelle formation choisir selon votre profil ?",
-      "description": "Article sponsorisé par Jehda Pourquoi se former à l'IA générative aujourd'hui ? L'IA générative n'est plus un sujet de curiosité réservé aux early adopters. Rédaction, analyse de données, code, servic...",
-      "url": "https://www.abondance.com/20260804-2708014-se-former-a-lia-generative-en-2026-quelle-formation-choisir-selon-votre-profil.html",
-      "source": "Abondance.com",
-      "publishedAt": "2026-08-04T08:19:06Z",
+      "title": "Urgo, bio­Mérieux, Boiron… comment les laboratoires familiaux français continuent de prospérer face à la Big Pharma",
+      "description": "500 FORTUNES - A l’ombre des géants de la Big Pharma, des entreprises centenaires à l’actionnariat familial prospèrent sur un équilibre parfois complexe : innover sans renier l’héritage, transmettre s...",
+      "url": "https://www.challenges.fr/fortunes/urgo-biomerieux-boiron-comment-les-laboratoires-familiaux-francais-continuent-de-prosperer-face-a-la-big-pharma_645060",
+      "source": "Challenges",
+      "publishedAt": "2026-08-06T06:00:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,11 +218,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Lumo AI : et si vous testiez l’assistant IA européen qui ne lit jamais vos conversations ? [Sponso]",
-      "description": "L'IA générative analyse, rédige ou crée du contenu pour vous en quelques secondes. Mais tout ceci a un coût et c’est bien souvent vos données personnelles qui paient la facture. Si vous ne voulez pas ...",
-      "url": "https://www.frandroid.com/services/3200711_lumo-ai-et-si-vous-testiez-lassistant-ia-europeen-qui-ne-lit-jamais-vos-conversations",
-      "source": "Frandroid",
-      "publishedAt": "2026-08-05T05:20:00Z",
+      "title": "EON veut remplacer les câbles sous-marins par des lasers orbitaux",
+      "description": "La jeune pousse EON veut relier des data centers par laser depuis l’orbite. Une idée très ambitieuse, portée par l’explosion des besoins en IA.",
+      "url": "https://www.begeek.fr/eon-veut-remplacer-les-cables-sous-marins-par-des-lasers-orbitaux-438113",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-08-05T14:00:06Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,23 +242,11 @@
       "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
-      "title": "Actualité : Google Assistant, c’est (très bientôt) fini : voici quand le service sera coupé",
-      "description": "Le clap de fin résonnera bientôt pour Google Assistant sur les smartphones Android. À compter du 4 septembre, il sera remplacé par Gemini, l'IA générative de Mountain View.",
-      "url": "https://www.lesnumeriques.com/telephone-portable/google-assistant-c-est-tres-bientot-fini-voici-quand-le-service-sera-coupe-n260104.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-08-05T09:59:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "« Nous sommes à un tournant historique » : l’IA commence à prendre les commandes dans l’espace",
-      "description": "Il y a des endroits où l'intelligence humaine ne peut tout simplement pas suivre. Trop loin. Trop vite. Trop seule. L'espace est l'un d'eux. Et c'est précisément là, que l'intelligence artificielle ré...",
-      "url": "https://www.futura-sciences.com/sciences/actualites/series-ete-nous-sommes-tournant-historique-ia-commence-prendre-commandes-espace-135971/",
-      "source": "Futura",
-      "publishedAt": "2026-08-04T19:03:15Z",
+      "title": "MacPaw et Liquid AI préparent une couche d’IA locale pour les applications Mac",
+      "description": "Décidément sur tous les fronts, MacPaw veut bâtir une intelligence artificielle capable de fonctionner à travers plusieurs applications du Mac. L’éditeur ukrainien s’est associé…\nLire la suite…\nFacebo...",
+      "url": "https://iphoneaddict.fr/post/news-432955-macpaw-liquid-ai-preparent-couche-dia-locale-applications-mac",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-08-05T17:50:31Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Apple et OpenAI : la bataille judiciaire s’intensifie autour de présumés secrets commerciaux",
-      "description": "Apple hausse le ton contre OpenAI en demandant à la justice américaine une injonction d’urgence pour protéger ses secrets commerciaux.",
-      "url": "https://www.zdnet.fr/actualites/apple-et-openai-la-bataille-judiciaire-sintensifie-autour-de-presumes-secrets-commerciaux-499306.htm",
+      "title": "Ce pont est régulièrement le théâtre d'actes désespérés : il va être équipé d'un dispositif inédit en France avec caméras, IA et filets",
+      "description": "Le pont de la Caille, en Haute-Savoie, va être équipé de filets, de caméras avec intelligence artificielle et de bornes d’appel pour prévenir les suicides. L’ouvrage, emprunté chaque année par 100.000...",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/haute-savoie/ce-pont-est-regulierement-le-theatre-d-actes-desesperes-il-va-etre-equipe-d-un-dispositif-inedit-en-france-avec-cameras-ia-et-filets-3397036.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-08-05T14:50:02Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta entre dans la course aux agents de programmation avec Muse Code",
+      "description": "Sur un marché aujourd’hui dominé par Codex d’OpenAI et Claude Code d’Anthropic, Meta choisit de faire de la compétitivité tarifaire son principal argument pour attirer les développeurs et étendre son ...",
+      "url": "https://www.zdnet.fr/actualites/meta-entre-dans-la-course-aux-agents-de-programmation-avec-muse-code-499356.htm",
       "source": "ZDNet France",
-      "publishedAt": "2026-08-05T07:05:35Z",
+      "publishedAt": "2026-08-06T08:20:10Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,23 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "SUNON dévoile des ventilateurs EC écologiques conformes à la norme ErP 2026, destinés à alimenter les infrastructures d'IA de nouvelle génération",
-      "description": "KAOHSIUNG, 5 août 2026 /PRNewswire/ -- Alors que les industries mondiales s'empressent de développer leurs infrastructures d'IA dans le cadre d'exigences ESG strictes, une gestion thermique très effic...",
-      "url": "https://www.prnewswire.com/news-releases/sunon-devoile-des-ventilateurs-ec-ecologiques-conformes-a-la-norme-erp-2026-destines-a-alimenter-les-infrastructures-dia-de-nouvelle-generation-302839767.html",
+      "title": "Tuya Smart lance Tuya AI Coding, une solution permettant aux utilisateurs de créer leurs propres applications de style de vie basées sur l'IA à l'aide du langage naturel",
+      "description": "HANGZHOU, Chine, 5 août 2026 /PRNewswire/ -- Tuya Smart (NYSE : TUYA ; HKEX : 2391), fournisseur mondial de services de plateforme infonuagique pour l'IA, a officiellement lancé Tuya AI Coding, une pl...",
+      "url": "https://www.prnewswire.com/news-releases/tuya-smart-lance-tuya-ai-coding-une-solution-permettant-aux-utilisateurs-de-creer-leurs-propres-applications-de-style-de-vie-basees-sur-lia-a-laide-du-langage-naturel-302843903.html",
       "source": "PRNewswire",
-      "publishedAt": "2026-08-05T07:00:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "MSI PRO MAX EDGE AI+ : un PC de 4 litres pour l’IA locale",
-      "description": "Le MSI PRO MAX EDGE AI+ rejoint la grande famille des engins compacts dédiés à une exploitation d'IA locale grâce à un Ryzen AI Max+ 395.\nMSI PRO MAX EDGE AI+ : un PC de 4 litres pour l’IA locale © Mi...",
-      "url": "https://www.minimachines.net/actu/msi-pro-max-edge-ai-plus-142580",
-      "source": "Minimachines.net",
-      "publishedAt": "2026-08-05T10:29:19Z",
+      "publishedAt": "2026-08-05T15:19:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
