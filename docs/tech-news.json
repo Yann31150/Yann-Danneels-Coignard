@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-07T09:03:23.306936",
+  "lastUpdate": "2026-08-08T08:47:36.816130",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -14,11 +14,23 @@
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
     },
     {
-      "title": "Non, ChatGPT ne rend pas votre cerveau moins actif : voici ce que révèle vraiment l'étude",
-      "description": "Une récente étude sur l’impact des modèles de langage sur notre cerveau et nos capacités cognitives a été mal interprétée dans certains médias, donnant lieu à une légère désinformation sur la question...",
-      "url": "https://www.futura-sciences.com/sante/actualites/cerveau-non-chatgpt-ne-rend-pas-votre-cerveau-moins-actif-voici-ce-revele-vraiment-etude-w2t8-136717/",
-      "source": "Futura",
-      "publishedAt": "2026-08-06T06:00:00Z",
+      "title": "Journée noire pour l’IA chez Google : Demis Hassabis n’est plus à la tête de DeepMind",
+      "description": "Considéré comme l’un des architectes de l’intelligence artificielle moderne, Demis Hassabis était devenu le visage de Google dans la révolution des LLM. Le prix Nobel de chimie abandonne la direction ...",
+      "url": "https://www.numerama.com/tech/2307093-journee-noire-pour-lia-chez-google-demis-hassabis-nest-plus-a-la-tete-de-deepmind.html",
+      "source": "Numerama",
+      "publishedAt": "2026-08-06T09:26:07Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Le classement des 100 outils IA les plus populaires dans le monde en 2026",
+      "description": "Les 100 premiers outils IA concentrent près de 90 % des visites web du marché. Un classement qui confirme la domination de ChatGPT et le recul des outils spécialisés.",
+      "url": "https://www.blogdumoderateur.com/classement-100-outils-ia-populaires-monde-2026/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-08-07T08:41:29Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -38,6 +50,18 @@
       "thumbnail": "https://i.ytimg.com/vi/m7ywFu3Yqh8/hqdefault.jpg"
     },
     {
+      "title": "Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker",
+      "description": "Machine learning. Data science. MLOps. Création d'une image docker encapsulant une base de données multi-tables (SQLite, ...",
+      "url": "https://www.youtube.com/watch?v=dIuLrxn3ViE",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-07-30T15:41:54Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "dIuLrxn3ViE",
+      "thumbnail": "https://i.ytimg.com/vi/dIuLrxn3ViE/hqdefault.jpg"
+    },
+    {
       "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
       "description": "Vous souhaitez maîtriser Microsoft Power BI et apprendre à créer vos rapports pas à pas ? Microsoft Power BI est aujourd'hui l'un ...",
       "url": "https://www.youtube.com/watch?v=9R-humPn-eo",
@@ -48,18 +72,6 @@
       "isYouTube": true,
       "videoId": "9R-humPn-eo",
       "thumbnail": "https://i.ytimg.com/vi/9R-humPn-eo/hqdefault.jpg"
-    },
-    {
-      "title": "Meta se lance à son tour dans le vibe coding avec Muse Code, sa réponse à Claude Code ou Codex",
-      "description": "Meta a annoncé une nouvelle version de son grand modèle de langage (LLM) de référence et surtout la première version de sa réponse à Claude Code d’Anthropic ou Codex d’OpenAI, à savoir un outil spécia...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/08/meta-se-lance-son-tour-dans-le-vibe-coding-avec-muse-code-sa-reponse-claude-code-ou-codex-310233",
-      "source": "MacGeneration",
-      "publishedAt": "2026-08-06T08:44:25Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Leçon 4 - Fonction de coût - Cours Complet de Deep Learning",
@@ -110,18 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/NURD13ukpQI/hqdefault.jpg"
     },
     {
-      "title": "Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)",
-      "description": "Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...",
-      "url": "https://www.youtube.com/watch?v=1tlM9a4eEII",
-      "source": "lioncode",
-      "publishedAt": "2026-06-11T10:53:29Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1tlM9a4eEII",
-      "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
-    },
-    {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
       "description": "NumPy et Pandas sont les deux bibliothèques qui font de Python le roi de la data science. Ce cours complet te donne tout le ...",
       "url": "https://www.youtube.com/watch?v=-kGlpSTHPf4",
@@ -170,18 +170,6 @@
       "thumbnail": "https://i.ytimg.com/vi/2A5rNESVS9w/hqdefault.jpg"
     },
     {
-      "title": "ENGWE réaffirme son engagement en faveur de la mobilité durable et de son impact communautaire lors de la Notte Bianca dello Sport en Italie",
-      "description": "BARI, Italie, 6 août 2026 /PRNewswire/ -- ENGWE est fier d'être à nouveau le sponsor principal de la Notte Bianca dello Sport (nuit blanche du sport) à Bari, en Italie, renforçant ainsi son engagement...",
-      "url": "https://www.prnewswire.com/news-releases/engwe-reaffirme-son-engagement-en-faveur-de-la-mobilite-durable-et-de-son-impact-communautaire-lors-de-la-notte-bianca-dello-sport-en-italie-302843263.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-08-06T07:30:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data",
       "description": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data Timeline 00:00 Introduction ...",
       "url": "https://www.youtube.com/watch?v=IwQvKri768w",
@@ -194,35 +182,11 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
-      "title": "Comment analyser vos données avec Claude Code | Formation Complète Claude pour Data Analyst de A à Z",
-      "description": "Bienvenue dans cette formation complète consacrée à l'analyse des données avec Claude. Vous comprendrez ce qu'est Claude ...",
-      "url": "https://www.youtube.com/watch?v=Z1Y41sOVWyQ",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-07-21T15:59:13Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Z1Y41sOVWyQ",
-      "thumbnail": "https://i.ytimg.com/vi/Z1Y41sOVWyQ/hqdefault.jpg"
-    },
-    {
-      "title": "Urgo, bio­Mérieux, Boiron… comment les laboratoires familiaux français continuent de prospérer face à la Big Pharma",
-      "description": "500 FORTUNES - A l’ombre des géants de la Big Pharma, des entreprises centenaires à l’actionnariat familial prospèrent sur un équilibre parfois complexe : innover sans renier l’héritage, transmettre s...",
-      "url": "https://www.challenges.fr/fortunes/urgo-biomerieux-boiron-comment-les-laboratoires-familiaux-francais-continuent-de-prosperer-face-a-la-big-pharma_645060",
-      "source": "Challenges",
-      "publishedAt": "2026-08-06T06:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "EON veut remplacer les câbles sous-marins par des lasers orbitaux",
-      "description": "La jeune pousse EON veut relier des data centers par laser depuis l’orbite. Une idée très ambitieuse, portée par l’explosion des besoins en IA.",
-      "url": "https://www.begeek.fr/eon-veut-remplacer-les-cables-sous-marins-par-des-lasers-orbitaux-438113",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-08-05T14:00:06Z",
+      "title": "Google Pixel : un simple prompt IA suffira bientôt pour personnaliser l’horloge de l’écran de verrouillage",
+      "description": "Les possesseurs de smartphones Pixel pourront bientôt personnaliser l'aspect de l'horloge sur leur écran de verrouillage grâce à l'IA. Google Pixel 10 //",
+      "url": "https://www.frandroid.com/marques/google/3205965_google-pixel-un-simple-prompt-ia-suffira-bientot-pour-personnaliser-lhorloge-de-lecran-de-verrouillage",
+      "source": "Frandroid",
+      "publishedAt": "2026-08-07T07:51:06Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +206,47 @@
       "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
-      "title": "MacPaw et Liquid AI préparent une couche d’IA locale pour les applications Mac",
-      "description": "Décidément sur tous les fronts, MacPaw veut bâtir une intelligence artificielle capable de fonctionner à travers plusieurs applications du Mac. L’éditeur ukrainien s’est associé…\nLire la suite…\nFacebo...",
-      "url": "https://iphoneaddict.fr/post/news-432955-macpaw-liquid-ai-preparent-couche-dia-locale-applications-mac",
-      "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-08-05T17:50:31Z",
+      "title": "Tableau de bord du développement durable en Provence-Alpes-Côte d'Azur_2024",
+      "description": "Le tableau de bord du développement durable a pour objectif d’éclairer la prise de décision et la mise en œuvre d’actions permettant de répondre aux défis auxquels la région Provence-Alpes-Côte d’Azur...",
+      "url": "https://www.data.gouv.fr/datasets/tableau-de-bord-du-developpement-durable-en-provence-alpes-cote-d-azur-2024",
+      "source": "Gouv.fr",
+      "publishedAt": "2026-08-07T00:00:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Data Analyst avec Python | Introduction complète à Python | Tutoriel complet",
+      "description": "Maîtrise Python pour la DATA : https://store.ledecodeur.fr/formation-python Mes ressources : https://linktr.ee/ledecodeur Liens ...",
+      "url": "https://www.youtube.com/watch?v=2sunLXT-XgM",
+      "source": "Le Decodeur",
+      "publishedAt": "2026-06-28T16:00:20Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "2sunLXT-XgM",
+      "thumbnail": "https://i.ytimg.com/vi/2sunLXT-XgM/hqdefault.jpg"
+    },
+    {
+      "title": "Devenir Data Analyst avec des ressources gratuites 📚✅ #data #gratuit #tuto",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=-Oba6X3lIxg",
+      "source": "Le Decodeur",
+      "publishedAt": "2026-07-08T12:39:10Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "-Oba6X3lIxg",
+      "thumbnail": "https://i.ytimg.com/vi/-Oba6X3lIxg/hqdefault.jpg"
+    },
+    {
+      "title": "Actualité : Prouesse et vertige : une IA vient de créer des virus qui n'existent pas dans la nature",
+      "description": "Pour la toute première fois, une intelligence artificielle a écrit des génomes viraux complets. Synthétisés en laboratoire, ces virus artificiels infectent et détruisent des bactéries. Certains se rép...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/prouesse-et-vertige-une-ia-vient-de-creer-des-virus-qui-n-existent-pas-dans-la-nature-n260181.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-08-07T06:31:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Ce pont est régulièrement le théâtre d'actes désespérés : il va être équipé d'un dispositif inédit en France avec caméras, IA et filets",
-      "description": "Le pont de la Caille, en Haute-Savoie, va être équipé de filets, de caméras avec intelligence artificielle et de bornes d’appel pour prévenir les suicides. L’ouvrage, emprunté chaque année par 100.000...",
-      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/haute-savoie/ce-pont-est-regulierement-le-theatre-d-actes-desesperes-il-va-etre-equipe-d-un-dispositif-inedit-en-france-avec-cameras-ia-et-filets-3397036.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-08-05T14:50:02Z",
+      "title": "IA et ETF : le risque d'une économie guidée par le consensus",
+      "description": "À l'heure où l'intelligence artificielle transforme notre rapport à l'information et où la gestion passive occupe une place croissante dans les marchés financiers, un même risque apparaît...",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1553475-ia-et-etf-le-risque-d-une-economie-guidee-par-le-consensus/",
+      "source": "JDN",
+      "publishedAt": "2026-08-07T07:17:57Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,36 +266,36 @@
       "thumbnail": ""
     },
     {
-      "title": "Meta entre dans la course aux agents de programmation avec Muse Code",
-      "description": "Sur un marché aujourd’hui dominé par Codex d’OpenAI et Claude Code d’Anthropic, Meta choisit de faire de la compétitivité tarifaire son principal argument pour attirer les développeurs et étendre son ...",
-      "url": "https://www.zdnet.fr/actualites/meta-entre-dans-la-course-aux-agents-de-programmation-avec-muse-code-499356.htm",
+      "title": "Accepteriez-vous d’être payé 50€ pour laisser une IA lire vos pensées ?",
+      "description": "La Silicon Valley est désormais remplie à ras-bord de start-ups d’intelligence artificielle se ressemblant toutes plus ou moins. Mais il y en a une qui a un projet un peu...",
+      "url": "https://www.phonandroid.com/accepteriez-vous-detre-paye-50e-pour-laisser-une-ia-lire-vos-pensees.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-08-07T07:30:43Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google Pixel : cette nouvelle fonctionnalité va vous permettre de le personnaliser comme jamais",
+      "description": "Une horloge d'écran de verrouillage générée à la demande par intelligence artificielle : c'est ce que Google expérimente en coulisses pour ses smartphones Pixel. La fonctionnalité, repérée dans une ve...",
+      "url": "https://www.tomshardware.fr/google-pixel-cette-nouvelle-fonctionnalite-va-vous-permettre-de-le-personnaliser-comme-jamais/",
+      "source": "Tomshardware.fr",
+      "publishedAt": "2026-08-07T06:52:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "SoftBank accélère son « tout-IA » avec un prêt de 10 milliards de dollars adossé à OpenAI",
+      "description": "Ce montage financier atypique illustre l’ampleur du pari que SoftBank fait désormais sur OpenAI, érigée en partenaire central plutôt qu’en simple cible d’investissement.",
+      "url": "https://www.zdnet.fr/actualites/softbank-accelere-son-tout-ia-avec-un-pret-de-10-milliards-de-dollars-adosse-a-openai-499407.htm",
       "source": "ZDNet France",
-      "publishedAt": "2026-08-06T08:20:10Z",
+      "publishedAt": "2026-08-07T08:25:04Z",
       "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tuya Smart lance Tuya AI Coding, une solution permettant aux utilisateurs de créer leurs propres applications de style de vie basées sur l'IA à l'aide du langage naturel",
-      "description": "HANGZHOU, Chine, 5 août 2026 /PRNewswire/ -- Tuya Smart (NYSE : TUYA ; HKEX : 2391), fournisseur mondial de services de plateforme infonuagique pour l'IA, a officiellement lancé Tuya AI Coding, une pl...",
-      "url": "https://www.prnewswire.com/news-releases/tuya-smart-lance-tuya-ai-coding-une-solution-permettant-aux-utilisateurs-de-creer-leurs-propres-applications-de-style-de-vie-basees-sur-lia-a-laide-du-langage-naturel-302843903.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-08-05T15:19:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Yili Group stimule l’innovation et la coopération pour un écosystème laitier mondial durable lors du Congrès mondial du lait 2026",
-      "description": "HOHHOT, Chine, 05 août 2026 (GLOBE NEWSWIRE) -- Le 2026 World Dairy Congress (Congrès mondial du lait 2026) a officiellement ouvert ses portes le 1er août à Hohhot, en Mongolie-Intérieure. Organisé pa...",
-      "url": "https://www.globenewswire.com/news-release/2026/08/05/3339067/0/fr/Yili-Group-stimule-l-innovation-et-la-coop%C3%A9ration-pour-un-%C3%A9cosyst%C3%A8me-laitier-mondial-durable-lors-du-Congr%C3%A8s-mondial-du-lait-2026.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-08-05T07:55:00Z",
-      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
