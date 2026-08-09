@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 08 Aug 2026 08:47:36 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 08:48:53 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,28 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)</title>
-            <link>https://www.youtube.com/watch?v=0EsKXRhOYxM</link>
-            <description><![CDATA[Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...]]></description>
-            <pubDate>Mon, 22 Jun 2026 15:04:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=0EsKXRhOYxM</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>Journée noire pour l’IA chez Google : Demis Hassabis n’est plus à la tête de DeepMind</title>
-            <link>https://www.numerama.com/tech/2307093-journee-noire-pour-lia-chez-google-demis-hassabis-nest-plus-a-la-tete-de-deepmind.html</link>
-            <description><![CDATA[Considéré comme l’un des architectes de l’intelligence artificielle moderne, Demis Hassabis était devenu le visage de Google dans la révolution des LLM. Le prix Nobel de chimie abandonne la direction ...]]></description>
-            <pubDate>Thu, 06 Aug 2026 09:26:07 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/tech/2307093-journee-noire-pour-lia-chez-google-demis-hassabis-nest-plus-a-la-tete-de-deepmind.html</guid>
-            <source>Numerama</source>
-        </item>
-        <item>
-            <title>Le classement des 100 outils IA les plus populaires dans le monde en 2026</title>
-            <link>https://www.blogdumoderateur.com/classement-100-outils-ia-populaires-monde-2026/</link>
-            <description><![CDATA[Les 100 premiers outils IA concentrent près de 90 % des visites web du marché. Un classement qui confirme la domination de ChatGPT et le recul des outils spécialisés.]]></description>
-            <pubDate>Fri, 07 Aug 2026 08:41:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.blogdumoderateur.com/classement-100-outils-ia-populaires-monde-2026/</guid>
-            <source>Blogdumoderateur.com</source>
+            <title>Intelligence artificielle : de la désillusion à la révolte</title>
+            <link>https://www.macg.co/intelligence-artificielle/2026/07/intelligence-artificielle-de-la-desillusion-la-revolte-309975</link>
+            <description><![CDATA[S'il est une innovation qui collectionne les superlatifs dans la grande histoire de la tech, c'est bien l'intelligence artificielle générative. Son émergence fulgurante défie l'entendement : il n'a fa...]]></description>
+            <pubDate>Sat, 08 Aug 2026 05:00:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.macg.co/intelligence-artificielle/2026/07/intelligence-artificielle-de-la-desillusion-la-revolte-309975</guid>
+            <source>MacGeneration</source>
         </item>
         <item>
             <title>Les Worlds Models : l’IA post LLM, expliqué par Yann LeCun</title>
@@ -51,6 +35,14 @@
             <pubDate>Thu, 30 Jul 2026 15:41:54 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=dIuLrxn3ViE</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Une grande avancée scientifique ? Des virus absents de la nature conçus pour la première fois par intelligence artificielle</title>
+            <link>https://www.lalibre.be/planete/environnement/2026/08/07/une-grande-avancee-scientifique-des-virus-absents-de-la-nature-concus-pour-la-premiere-fois-par-intelligence-artificielle-X2R4PIOCOVA2BIH7VOFO5SWKHY/</link>
+            <description><![CDATA[Des scientifiques de l'université de Stanford sont parvenus pour la première fois à concevoir des virus inexistants dans la nature à l'aide de l'intelligence artificielle (IA), rapportent plusieurs mé...]]></description>
+            <pubDate>Fri, 07 Aug 2026 18:03:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lalibre.be/planete/environnement/2026/08/07/une-grande-avancee-scientifique-des-virus-absents-de-la-nature-concus-pour-la-premiere-fois-par-intelligence-artificielle-X2R4PIOCOVA2BIH7VOFO5SWKHY/</guid>
+            <source>Lalibre.be</source>
         </item>
         <item>
             <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
@@ -85,6 +77,14 @@
             <source>How AI Works?</source>
         </item>
         <item>
+            <title>Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet</title>
+            <link>https://www.youtube.com/watch?v=x7Nh0RKEoxg</link>
+            <description><![CDATA[Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...]]></description>
+            <pubDate>Fri, 31 Jul 2026 17:56:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=x7Nh0RKEoxg</guid>
+            <source>Data & Dash Consulting</source>
+        </item>
+        <item>
             <title>Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp;amp; Claude Cowork</title>
             <link>https://www.youtube.com/watch?v=NURD13ukpQI</link>
             <description><![CDATA[Bienvenue dans le Jour 1 de cette formation complète consacrée à l'analyse des données avec Claude AI. Dans cette première ...]]></description>
@@ -117,28 +117,12 @@
             <source>Ceemtic Analytics</source>
         </item>
         <item>
-            <title>Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)</title>
-            <link>https://www.youtube.com/watch?v=2A5rNESVS9w</link>
-            <description><![CDATA[Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...]]></description>
-            <pubDate>Sun, 14 Jun 2026 14:37:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2A5rNESVS9w</guid>
-            <source>AMVOULA Naïsia </source>
-        </item>
-        <item>
             <title>Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data</title>
             <link>https://www.youtube.com/watch?v=IwQvKri768w</link>
             <description><![CDATA[Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data Timeline 00:00 Introduction ...]]></description>
             <pubDate>Tue, 07 Jul 2026 15:00:26 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=IwQvKri768w</guid>
             <source>Mikail Altundas</source>
-        </item>
-        <item>
-            <title>Google Pixel : un simple prompt IA suffira bientôt pour personnaliser l’horloge de l’écran de verrouillage</title>
-            <link>https://www.frandroid.com/marques/google/3205965_google-pixel-un-simple-prompt-ia-suffira-bientot-pour-personnaliser-lhorloge-de-lecran-de-verrouillage</link>
-            <description><![CDATA[Les possesseurs de smartphones Pixel pourront bientôt personnaliser l'aspect de l'horloge sur leur écran de verrouillage grâce à l'IA. Google Pixel 10 //]]></description>
-            <pubDate>Fri, 07 Aug 2026 07:51:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/marques/google/3205965_google-pixel-un-simple-prompt-ia-suffira-bientot-pour-personnaliser-lhorloge-de-lecran-de-verrouillage</guid>
-            <source>Frandroid</source>
         </item>
         <item>
             <title>Comment créer une base de données avec le langage SQL ?</title>
@@ -149,14 +133,6 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Tableau de bord du développement durable en Provence-Alpes-Côte d'Azur_2024</title>
-            <link>https://www.data.gouv.fr/datasets/tableau-de-bord-du-developpement-durable-en-provence-alpes-cote-d-azur-2024</link>
-            <description><![CDATA[Le tableau de bord du développement durable a pour objectif d’éclairer la prise de décision et la mise en œuvre d’actions permettant de répondre aux défis auxquels la région Provence-Alpes-Côte d’Azur...]]></description>
-            <pubDate>Fri, 07 Aug 2026 00:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/tableau-de-bord-du-developpement-durable-en-provence-alpes-cote-d-azur-2024</guid>
-            <source>Gouv.fr</source>
-        </item>
-        <item>
             <title>Data Analyst avec Python | Introduction complète à Python | Tutoriel complet</title>
             <link>https://www.youtube.com/watch?v=2sunLXT-XgM</link>
             <description><![CDATA[Maîtrise Python pour la DATA : https://store.ledecodeur.fr/formation-python Mes ressources : https://linktr.ee/ledecodeur Liens ...]]></description>
@@ -165,12 +141,36 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Devenir Data Analyst avec des ressources gratuites 📚✅ #data #gratuit #tuto</title>
-            <link>https://www.youtube.com/watch?v=-Oba6X3lIxg</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Wed, 08 Jul 2026 12:39:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=-Oba6X3lIxg</guid>
-            <source>Le Decodeur</source>
+            <title>Python pour la data : Le guide du débutant</title>
+            <link>https://www.youtube.com/watch?v=s6yhACGTANI</link>
+            <description><![CDATA[La vidéo intitulée "Python : Le guide du débutant" est une présentation visuelle conçue pour vous introduire aux fondements de ...]]></description>
+            <pubDate>Tue, 30 Jun 2026 07:58:21 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=s6yhACGTANI</guid>
+            <source>Eco_sta_tech</source>
+        </item>
+        <item>
+            <title>Témoignages. « J'enregistre des spots intéressants » : les réseaux sociaux et l'IA, pratiques pour voyager ?</title>
+            <link>https://www.ledauphine.com/economie/2026/08/08/j-enregistre-des-spots-interessants-les-reseaux-sociaux-et-l-ia-pratiques-pour-voyager</link>
+            <description><![CDATA[Les trois quarts des Français ont déjà utilisé les réseaux sociaux pour trouver l’inspiration de leur prochain voyage et un quart d’entre eux utilisent ponctuellement l’intelligence artificielle pour ...]]></description>
+            <pubDate>Sat, 08 Aug 2026 05:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.ledauphine.com/economie/2026/08/08/j-enregistre-des-spots-interessants-les-reseaux-sociaux-et-l-ia-pratiques-pour-voyager</guid>
+            <source>Le Dauphiné Libéré</source>
+        </item>
+        <item>
+            <title>Accepteriez-vous d’être payé 50€ pour laisser une IA lire vos pensées ?</title>
+            <link>https://www.phonandroid.com/accepteriez-vous-detre-paye-50e-pour-laisser-une-ia-lire-vos-pensees.html</link>
+            <description><![CDATA[La Silicon Valley est désormais remplie à ras-bord de start-ups d’intelligence artificielle se ressemblant toutes plus ou moins. Mais il y en a une qui a un projet un peu...]]></description>
+            <pubDate>Fri, 07 Aug 2026 07:30:43 -0000</pubDate>
+            <guid isPermaLink="true">https://www.phonandroid.com/accepteriez-vous-detre-paye-50e-pour-laisser-une-ia-lire-vos-pensees.html</guid>
+            <source>Phonandroid</source>
+        </item>
+        <item>
+            <title>Et si notre cerveau adulte gardait une capacité insoupçonnée toute notre vie ? Voici la stupéfiante réponse des chercheurs</title>
+            <link>https://www.futura-sciences.com/sante/questions-reponses/cerveau-si-notre-cerveau-adulte-gardait-capacite-insoupconnee-toute-notre-vie-voici-stupefiante-reponse-chercheurs-w2t8-25817/</link>
+            <description><![CDATA[Une découverte révolutionnaire vient bousculer nos connaissances sur le cerveau humain. Des chercheurs de l'Institut Karolinska ont démontré que le cerveau adulte continue à produire de nouveaux neuro...]]></description>
+            <pubDate>Sat, 08 Aug 2026 06:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/sante/questions-reponses/cerveau-si-notre-cerveau-adulte-gardait-capacite-insoupconnee-toute-notre-vie-voici-stupefiante-reponse-chercheurs-w2t8-25817/</guid>
+            <source>Futura</source>
         </item>
     </channel>
 </rss>

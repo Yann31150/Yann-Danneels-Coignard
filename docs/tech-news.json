@@ -1,36 +1,12 @@
 {
-  "lastUpdate": "2026-08-08T08:47:36.816130",
+  "lastUpdate": "2026-08-09T08:48:53.078855",
   "articles": [
     {
-      "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
-      "description": "Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...",
-      "url": "https://www.youtube.com/watch?v=0EsKXRhOYxM",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-06-22T15:04:54Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "0EsKXRhOYxM",
-      "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
-    },
-    {
-      "title": "Journée noire pour l’IA chez Google : Demis Hassabis n’est plus à la tête de DeepMind",
-      "description": "Considéré comme l’un des architectes de l’intelligence artificielle moderne, Demis Hassabis était devenu le visage de Google dans la révolution des LLM. Le prix Nobel de chimie abandonne la direction ...",
-      "url": "https://www.numerama.com/tech/2307093-journee-noire-pour-lia-chez-google-demis-hassabis-nest-plus-a-la-tete-de-deepmind.html",
-      "source": "Numerama",
-      "publishedAt": "2026-08-06T09:26:07Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le classement des 100 outils IA les plus populaires dans le monde en 2026",
-      "description": "Les 100 premiers outils IA concentrent près de 90 % des visites web du marché. Un classement qui confirme la domination de ChatGPT et le recul des outils spécialisés.",
-      "url": "https://www.blogdumoderateur.com/classement-100-outils-ia-populaires-monde-2026/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-08-07T08:41:29Z",
+      "title": "Intelligence artificielle : de la désillusion à la révolte",
+      "description": "S'il est une innovation qui collectionne les superlatifs dans la grande histoire de la tech, c'est bien l'intelligence artificielle générative. Son émergence fulgurante défie l'entendement : il n'a fa...",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/07/intelligence-artificielle-de-la-desillusion-la-revolte-309975",
+      "source": "MacGeneration",
+      "publishedAt": "2026-08-08T05:00:33Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -60,6 +36,18 @@
       "isYouTube": true,
       "videoId": "dIuLrxn3ViE",
       "thumbnail": "https://i.ytimg.com/vi/dIuLrxn3ViE/hqdefault.jpg"
+    },
+    {
+      "title": "Une grande avancée scientifique ? Des virus absents de la nature conçus pour la première fois par intelligence artificielle",
+      "description": "Des scientifiques de l'université de Stanford sont parvenus pour la première fois à concevoir des virus inexistants dans la nature à l'aide de l'intelligence artificielle (IA), rapportent plusieurs mé...",
+      "url": "https://www.lalibre.be/planete/environnement/2026/08/07/une-grande-avancee-scientifique-des-virus-absents-de-la-nature-concus-pour-la-premiere-fois-par-intelligence-artificielle-X2R4PIOCOVA2BIH7VOFO5SWKHY/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-08-07T18:03:29Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
@@ -110,6 +98,18 @@
       "thumbnail": "https://i.ytimg.com/vi/ktL8oV26XYg/hqdefault.jpg"
     },
     {
+      "title": "Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet",
+      "description": "Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...",
+      "url": "https://www.youtube.com/watch?v=x7Nh0RKEoxg",
+      "source": "Data & Dash Consulting",
+      "publishedAt": "2026-07-31T17:56:47Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "x7Nh0RKEoxg",
+      "thumbnail": "https://i.ytimg.com/vi/x7Nh0RKEoxg/hqdefault.jpg"
+    },
+    {
       "title": "Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp; Claude Cowork",
       "description": "Bienvenue dans le Jour 1 de cette formation complète consacrée à l'analyse des données avec Claude AI. Dans cette première ...",
       "url": "https://www.youtube.com/watch?v=NURD13ukpQI",
@@ -158,18 +158,6 @@
       "thumbnail": "https://i.ytimg.com/vi/3AUqD4ZwGts/hqdefault.jpg"
     },
     {
-      "title": "Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)",
-      "description": "Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...",
-      "url": "https://www.youtube.com/watch?v=2A5rNESVS9w",
-      "source": "AMVOULA Naïsia ",
-      "publishedAt": "2026-06-14T14:37:38Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "2A5rNESVS9w",
-      "thumbnail": "https://i.ytimg.com/vi/2A5rNESVS9w/hqdefault.jpg"
-    },
-    {
       "title": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data",
       "description": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data Timeline 00:00 Introduction ...",
       "url": "https://www.youtube.com/watch?v=IwQvKri768w",
@@ -180,18 +168,6 @@
       "isYouTube": true,
       "videoId": "IwQvKri768w",
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
-    },
-    {
-      "title": "Google Pixel : un simple prompt IA suffira bientôt pour personnaliser l’horloge de l’écran de verrouillage",
-      "description": "Les possesseurs de smartphones Pixel pourront bientôt personnaliser l'aspect de l'horloge sur leur écran de verrouillage grâce à l'IA. Google Pixel 10 //",
-      "url": "https://www.frandroid.com/marques/google/3205965_google-pixel-un-simple-prompt-ia-suffira-bientot-pour-personnaliser-lhorloge-de-lecran-de-verrouillage",
-      "source": "Frandroid",
-      "publishedAt": "2026-08-07T07:51:06Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Comment créer une base de données avec le langage SQL ?",
@@ -206,18 +182,6 @@
       "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
-      "title": "Tableau de bord du développement durable en Provence-Alpes-Côte d'Azur_2024",
-      "description": "Le tableau de bord du développement durable a pour objectif d’éclairer la prise de décision et la mise en œuvre d’actions permettant de répondre aux défis auxquels la région Provence-Alpes-Côte d’Azur...",
-      "url": "https://www.data.gouv.fr/datasets/tableau-de-bord-du-developpement-durable-en-provence-alpes-cote-d-azur-2024",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-08-07T00:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Data Analyst avec Python | Introduction complète à Python | Tutoriel complet",
       "description": "Maîtrise Python pour la DATA : https://store.ledecodeur.fr/formation-python Mes ressources : https://linktr.ee/ledecodeur Liens ...",
       "url": "https://www.youtube.com/watch?v=2sunLXT-XgM",
@@ -230,35 +194,23 @@
       "thumbnail": "https://i.ytimg.com/vi/2sunLXT-XgM/hqdefault.jpg"
     },
     {
-      "title": "Devenir Data Analyst avec des ressources gratuites 📚✅ #data #gratuit #tuto",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=-Oba6X3lIxg",
-      "source": "Le Decodeur",
-      "publishedAt": "2026-07-08T12:39:10Z",
+      "title": "Python pour la data : Le guide du débutant",
+      "description": "La vidéo intitulée \"Python : Le guide du débutant\" est une présentation visuelle conçue pour vous introduire aux fondements de ...",
+      "url": "https://www.youtube.com/watch?v=s6yhACGTANI",
+      "source": "Eco_sta_tech",
+      "publishedAt": "2026-06-30T07:58:21Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "-Oba6X3lIxg",
-      "thumbnail": "https://i.ytimg.com/vi/-Oba6X3lIxg/hqdefault.jpg"
+      "videoId": "s6yhACGTANI",
+      "thumbnail": "https://i.ytimg.com/vi/s6yhACGTANI/hqdefault.jpg"
     },
     {
-      "title": "Actualité : Prouesse et vertige : une IA vient de créer des virus qui n'existent pas dans la nature",
-      "description": "Pour la toute première fois, une intelligence artificielle a écrit des génomes viraux complets. Synthétisés en laboratoire, ces virus artificiels infectent et détruisent des bactéries. Certains se rép...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/prouesse-et-vertige-une-ia-vient-de-creer-des-virus-qui-n-existent-pas-dans-la-nature-n260181.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-08-07T06:31:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "IA et ETF : le risque d'une économie guidée par le consensus",
-      "description": "À l'heure où l'intelligence artificielle transforme notre rapport à l'information et où la gestion passive occupe une place croissante dans les marchés financiers, un même risque apparaît...",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1553475-ia-et-etf-le-risque-d-une-economie-guidee-par-le-consensus/",
-      "source": "JDN",
-      "publishedAt": "2026-08-07T07:17:57Z",
+      "title": "Témoignages. « J'enregistre des spots intéressants » : les réseaux sociaux et l'IA, pratiques pour voyager ?",
+      "description": "Les trois quarts des Français ont déjà utilisé les réseaux sociaux pour trouver l’inspiration de leur prochain voyage et un quart d’entre eux utilisent ponctuellement l’intelligence artificielle pour ...",
+      "url": "https://www.ledauphine.com/economie/2026/08/08/j-enregistre-des-spots-interessants-les-reseaux-sociaux-et-l-ia-pratiques-pour-voyager",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-08-08T05:30:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +230,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Google Pixel : cette nouvelle fonctionnalité va vous permettre de le personnaliser comme jamais",
-      "description": "Une horloge d'écran de verrouillage générée à la demande par intelligence artificielle : c'est ce que Google expérimente en coulisses pour ses smartphones Pixel. La fonctionnalité, repérée dans une ve...",
-      "url": "https://www.tomshardware.fr/google-pixel-cette-nouvelle-fonctionnalite-va-vous-permettre-de-le-personnaliser-comme-jamais/",
-      "source": "Tomshardware.fr",
-      "publishedAt": "2026-08-07T06:52:00Z",
+      "title": "Et si notre cerveau adulte gardait une capacité insoupçonnée toute notre vie ? Voici la stupéfiante réponse des chercheurs",
+      "description": "Une découverte révolutionnaire vient bousculer nos connaissances sur le cerveau humain. Des chercheurs de l'Institut Karolinska ont démontré que le cerveau adulte continue à produire de nouveaux neuro...",
+      "url": "https://www.futura-sciences.com/sante/questions-reponses/cerveau-si-notre-cerveau-adulte-gardait-capacite-insoupconnee-toute-notre-vie-voici-stupefiante-reponse-chercheurs-w2t8-25817/",
+      "source": "Futura",
+      "publishedAt": "2026-08-08T06:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +242,23 @@
       "thumbnail": ""
     },
     {
-      "title": "SoftBank accélère son « tout-IA » avec un prêt de 10 milliards de dollars adossé à OpenAI",
-      "description": "Ce montage financier atypique illustre l’ampleur du pari que SoftBank fait désormais sur OpenAI, érigée en partenaire central plutôt qu’en simple cible d’investissement.",
-      "url": "https://www.zdnet.fr/actualites/softbank-accelere-son-tout-ia-avec-un-pret-de-10-milliards-de-dollars-adosse-a-openai-499407.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-08-07T08:25:04Z",
+      "title": "SK Hynix : le pari XXL sur l’IA qui pourrait prolonger la flambée des prix",
+      "description": "Le géant sud-coréen investit environ 35 milliards d’euros dans deux usines. Un pari massif sur l’IA, et une mauvaise nouvelle pour les prix.",
+      "url": "https://www.begeek.fr/sk-hynix-le-pari-xxl-sur-lia-qui-pourrait-prolonger-la-flambee-des-prix-438260",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-08-08T08:00:54Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Les IA commencent-elles à échapper à leurs propres garde-fous ?",
+      "description": "En plein test de sécurité, une IA de Meta a profité d’une porte laissée ouverte pour atteindre le système d’une autre entreprise. Un cas qui n’est désormais plus isolé. ...",
+      "url": "https://www.lalibre.be/economie/digital/2026/08/08/les-ia-commencent-elles-a-echapper-a-leurs-propres-garde-fous-UVZBWSLG35AC7HWXUBD7LLWVKI/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-08-08T06:36:05Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
