@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 09 Aug 2026 08:48:53 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 09:26:25 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Intelligence artificielle : de la désillusion à la révolte</title>
-            <link>https://www.macg.co/intelligence-artificielle/2026/07/intelligence-artificielle-de-la-desillusion-la-revolte-309975</link>
-            <description><![CDATA[S'il est une innovation qui collectionne les superlatifs dans la grande histoire de la tech, c'est bien l'intelligence artificielle générative. Son émergence fulgurante défie l'entendement : il n'a fa...]]></description>
-            <pubDate>Sat, 08 Aug 2026 05:00:33 -0000</pubDate>
-            <guid isPermaLink="true">https://www.macg.co/intelligence-artificielle/2026/07/intelligence-artificielle-de-la-desillusion-la-revolte-309975</guid>
-            <source>MacGeneration</source>
-        </item>
         <item>
             <title>Les Worlds Models : l’IA post LLM, expliqué par Yann LeCun</title>
             <link>https://www.youtube.com/watch?v=m7ywFu3Yqh8</link>
@@ -35,14 +27,6 @@
             <pubDate>Thu, 30 Jul 2026 15:41:54 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=dIuLrxn3ViE</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>Une grande avancée scientifique ? Des virus absents de la nature conçus pour la première fois par intelligence artificielle</title>
-            <link>https://www.lalibre.be/planete/environnement/2026/08/07/une-grande-avancee-scientifique-des-virus-absents-de-la-nature-concus-pour-la-premiere-fois-par-intelligence-artificielle-X2R4PIOCOVA2BIH7VOFO5SWKHY/</link>
-            <description><![CDATA[Des scientifiques de l'université de Stanford sont parvenus pour la première fois à concevoir des virus inexistants dans la nature à l'aide de l'intelligence artificielle (IA), rapportent plusieurs mé...]]></description>
-            <pubDate>Fri, 07 Aug 2026 18:03:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lalibre.be/planete/environnement/2026/08/07/une-grande-avancee-scientifique-des-virus-absents-de-la-nature-concus-pour-la-premiere-fois-par-intelligence-artificielle-X2R4PIOCOVA2BIH7VOFO5SWKHY/</guid>
-            <source>Lalibre.be</source>
         </item>
         <item>
             <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
@@ -93,6 +77,22 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
+            <title>Le codage des données UTF-8 #informatique #données #data #codage</title>
+            <link>https://www.youtube.com/watch?v=syxw4SZor-s</link>
+            <description><![CDATA[Le codage des données UTF-8 #informatique #données #data #codage Pourquoi certains sites affichent-ils des caractères ...]]></description>
+            <pubDate>Thu, 02 Jul 2026 11:00:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=syxw4SZor-s</guid>
+            <source>Informatique ISTA</source>
+        </item>
+        <item>
+            <title>Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)</title>
+            <link>https://www.youtube.com/watch?v=1tlM9a4eEII</link>
+            <description><![CDATA[Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...]]></description>
+            <pubDate>Thu, 11 Jun 2026 10:53:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1tlM9a4eEII</guid>
+            <source>lioncode</source>
+        </item>
+        <item>
             <title>NumPy &amp;amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes</title>
             <link>https://www.youtube.com/watch?v=-kGlpSTHPf4</link>
             <description><![CDATA[NumPy et Pandas sont les deux bibliothèques qui font de Python le roi de la data science. Ce cours complet te donne tout le ...]]></description>
@@ -125,12 +125,36 @@
             <source>Mikail Altundas</source>
         </item>
         <item>
+            <title>Dossier : J’ai essayé de remplacer Google Maps pendant 4 ans : mon bilan sans concession</title>
+            <link>https://www.lesnumeriques.com/societe-numerique/j-ai-essaye-de-remplacer-google-maps-pendant-4-ans-mon-bilan-sans-concession-a259052.html</link>
+            <description><![CDATA[Malgré une volonté grandissante de réduire sa dépendance aux géants du Web et de protéger ses données personnelles, se passer de Google Maps relève du parcours du combattant. L'hégémonie du service de...]]></description>
+            <pubDate>Sun, 09 Aug 2026 07:41:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/societe-numerique/j-ai-essaye-de-remplacer-google-maps-pendant-4-ans-mon-bilan-sans-concession-a259052.html</guid>
+            <source>Les Numériques</source>
+        </item>
+        <item>
             <title>Comment créer une base de données avec le langage SQL ?</title>
             <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
             <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
             <pubDate>Wed, 01 Jul 2026 04:00:13 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=19JD2vconJ0</guid>
             <source>OpenClassrooms en Français</source>
+        </item>
+        <item>
+            <title>Héritons-nous des traumatismes de nos parents ? Pas exactement</title>
+            <link>https://theconversation.com/heritons-nous-des-traumatismes-de-nos-parents-pas-exactement-289107</link>
+            <description><![CDATA[Nous n’héritons pas des souvenirs traumatiques de nos ancêtres, nous disent les données scientifiques. Mais l’épigénétique ou le contexte de la grossesse pourraient influencer notre sensibilité au str...]]></description>
+            <pubDate>Sun, 09 Aug 2026 07:35:40 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/heritons-nous-des-traumatismes-de-nos-parents-pas-exactement-289107</guid>
+            <source>The Conversation Africa</source>
+        </item>
+        <item>
+            <title>Des milliers de personnes se rassemblent pour le mariage de Cristiano Ronaldo… et tombent sur des inconnus</title>
+            <link>https://www.sofoot.com/breves/des-milliers-de-personnes-se-rassemblent-pour-le-mariage-de-cristiano-ronaldo-et-tombent-sur-des-inconnus</link>
+            <description><![CDATA[Le fanatisme engendre bien souvent des comportements pas franchement intelligents. Ce samedi, plusieurs milliers personnes s’étaient rassemblées devant la…]]></description>
+            <pubDate>Sun, 09 Aug 2026 09:10:25 -0000</pubDate>
+            <guid isPermaLink="true">https://www.sofoot.com/breves/des-milliers-de-personnes-se-rassemblent-pour-le-mariage-de-cristiano-ronaldo-et-tombent-sur-des-inconnus</guid>
+            <source>SO FOOT</source>
         </item>
         <item>
             <title>Data Analyst avec Python | Introduction complète à Python | Tutoriel complet</title>
@@ -141,36 +165,12 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Python pour la data : Le guide du débutant</title>
-            <link>https://www.youtube.com/watch?v=s6yhACGTANI</link>
-            <description><![CDATA[La vidéo intitulée "Python : Le guide du débutant" est une présentation visuelle conçue pour vous introduire aux fondements de ...]]></description>
-            <pubDate>Tue, 30 Jun 2026 07:58:21 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=s6yhACGTANI</guid>
-            <source>Eco_sta_tech</source>
-        </item>
-        <item>
-            <title>Témoignages. « J'enregistre des spots intéressants » : les réseaux sociaux et l'IA, pratiques pour voyager ?</title>
-            <link>https://www.ledauphine.com/economie/2026/08/08/j-enregistre-des-spots-interessants-les-reseaux-sociaux-et-l-ia-pratiques-pour-voyager</link>
-            <description><![CDATA[Les trois quarts des Français ont déjà utilisé les réseaux sociaux pour trouver l’inspiration de leur prochain voyage et un quart d’entre eux utilisent ponctuellement l’intelligence artificielle pour ...]]></description>
-            <pubDate>Sat, 08 Aug 2026 05:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.ledauphine.com/economie/2026/08/08/j-enregistre-des-spots-interessants-les-reseaux-sociaux-et-l-ia-pratiques-pour-voyager</guid>
-            <source>Le Dauphiné Libéré</source>
-        </item>
-        <item>
-            <title>Accepteriez-vous d’être payé 50€ pour laisser une IA lire vos pensées ?</title>
-            <link>https://www.phonandroid.com/accepteriez-vous-detre-paye-50e-pour-laisser-une-ia-lire-vos-pensees.html</link>
-            <description><![CDATA[La Silicon Valley est désormais remplie à ras-bord de start-ups d’intelligence artificielle se ressemblant toutes plus ou moins. Mais il y en a une qui a un projet un peu...]]></description>
-            <pubDate>Fri, 07 Aug 2026 07:30:43 -0000</pubDate>
-            <guid isPermaLink="true">https://www.phonandroid.com/accepteriez-vous-detre-paye-50e-pour-laisser-une-ia-lire-vos-pensees.html</guid>
-            <source>Phonandroid</source>
-        </item>
-        <item>
-            <title>Et si notre cerveau adulte gardait une capacité insoupçonnée toute notre vie ? Voici la stupéfiante réponse des chercheurs</title>
-            <link>https://www.futura-sciences.com/sante/questions-reponses/cerveau-si-notre-cerveau-adulte-gardait-capacite-insoupconnee-toute-notre-vie-voici-stupefiante-reponse-chercheurs-w2t8-25817/</link>
-            <description><![CDATA[Une découverte révolutionnaire vient bousculer nos connaissances sur le cerveau humain. Des chercheurs de l'Institut Karolinska ont démontré que le cerveau adulte continue à produire de nouveaux neuro...]]></description>
-            <pubDate>Sat, 08 Aug 2026 06:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/sante/questions-reponses/cerveau-si-notre-cerveau-adulte-gardait-capacite-insoupconnee-toute-notre-vie-voici-stupefiante-reponse-chercheurs-w2t8-25817/</guid>
-            <source>Futura</source>
+            <title>Pastèque : pourquoi vous devriez manger l'écorce blanche d'après ces nouvelles données américaines</title>
+            <link>https://www.doctissimo.fr/nutrition/news-nutrition/pasteque-pourquoi-vous-devriez-manger-lecorce-blanche-dapres-ces-nouvelles-donnees-americaines-812966.htm</link>
+            <description><![CDATA[10 kcal pour 50 g d’écorce de pastèque : l’USDA lui accorde un profil nutritionnel officiel et ouvre la voie à des recettes anti-gaspi.]]></description>
+            <pubDate>Sat, 08 Aug 2026 11:38:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.doctissimo.fr/nutrition/news-nutrition/pasteque-pourquoi-vous-devriez-manger-lecorce-blanche-dapres-ces-nouvelles-donnees-americaines-812966.htm</guid>
+            <source>Doctissimo.fr</source>
         </item>
     </channel>
 </rss>

@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-08-09T08:48:53.078855",
+  "lastUpdate": "2026-08-10T09:26:25.467477",
   "articles": [
-    {
-      "title": "Intelligence artificielle : de la désillusion à la révolte",
-      "description": "S'il est une innovation qui collectionne les superlatifs dans la grande histoire de la tech, c'est bien l'intelligence artificielle générative. Son émergence fulgurante défie l'entendement : il n'a fa...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/07/intelligence-artificielle-de-la-desillusion-la-revolte-309975",
-      "source": "MacGeneration",
-      "publishedAt": "2026-08-08T05:00:33Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "Les Worlds Models : l’IA post LLM, expliqué par Yann LeCun",
       "description": "L'avenir de l'IA selon Yann LeCun : World Models, LLM, Open Source et Souveraineté L'IA générative (LLM) a-t-elle déjà atteint ...",
@@ -36,18 +24,6 @@
       "isYouTube": true,
       "videoId": "dIuLrxn3ViE",
       "thumbnail": "https://i.ytimg.com/vi/dIuLrxn3ViE/hqdefault.jpg"
-    },
-    {
-      "title": "Une grande avancée scientifique ? Des virus absents de la nature conçus pour la première fois par intelligence artificielle",
-      "description": "Des scientifiques de l'université de Stanford sont parvenus pour la première fois à concevoir des virus inexistants dans la nature à l'aide de l'intelligence artificielle (IA), rapportent plusieurs mé...",
-      "url": "https://www.lalibre.be/planete/environnement/2026/08/07/une-grande-avancee-scientifique-des-virus-absents-de-la-nature-concus-pour-la-premiere-fois-par-intelligence-artificielle-X2R4PIOCOVA2BIH7VOFO5SWKHY/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-08-07T18:03:29Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
@@ -122,6 +98,30 @@
       "thumbnail": "https://i.ytimg.com/vi/NURD13ukpQI/hqdefault.jpg"
     },
     {
+      "title": "Le codage des données UTF-8 #informatique #données #data #codage",
+      "description": "Le codage des données UTF-8 #informatique #données #data #codage Pourquoi certains sites affichent-ils des caractères ...",
+      "url": "https://www.youtube.com/watch?v=syxw4SZor-s",
+      "source": "Informatique ISTA",
+      "publishedAt": "2026-07-02T11:00:18Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "syxw4SZor-s",
+      "thumbnail": "https://i.ytimg.com/vi/syxw4SZor-s/hqdefault.jpg"
+    },
+    {
+      "title": "Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)",
+      "description": "Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...",
+      "url": "https://www.youtube.com/watch?v=1tlM9a4eEII",
+      "source": "lioncode",
+      "publishedAt": "2026-06-11T10:53:29Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1tlM9a4eEII",
+      "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
+    },
+    {
       "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
       "description": "NumPy et Pandas sont les deux bibliothèques qui font de Python le roi de la data science. Ce cours complet te donne tout le ...",
       "url": "https://www.youtube.com/watch?v=-kGlpSTHPf4",
@@ -170,6 +170,18 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
+      "title": "Dossier : J’ai essayé de remplacer Google Maps pendant 4 ans : mon bilan sans concession",
+      "description": "Malgré une volonté grandissante de réduire sa dépendance aux géants du Web et de protéger ses données personnelles, se passer de Google Maps relève du parcours du combattant. L'hégémonie du service de...",
+      "url": "https://www.lesnumeriques.com/societe-numerique/j-ai-essaye-de-remplacer-google-maps-pendant-4-ans-mon-bilan-sans-concession-a259052.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-08-09T07:41:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Comment créer une base de données avec le langage SQL ?",
       "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
       "url": "https://www.youtube.com/watch?v=19JD2vconJ0",
@@ -180,6 +192,30 @@
       "isYouTube": true,
       "videoId": "19JD2vconJ0",
       "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
+    },
+    {
+      "title": "Héritons-nous des traumatismes de nos parents ? Pas exactement",
+      "description": "Nous n’héritons pas des souvenirs traumatiques de nos ancêtres, nous disent les données scientifiques. Mais l’épigénétique ou le contexte de la grossesse pourraient influencer notre sensibilité au str...",
+      "url": "https://theconversation.com/heritons-nous-des-traumatismes-de-nos-parents-pas-exactement-289107",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-08-09T07:35:40Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Des milliers de personnes se rassemblent pour le mariage de Cristiano Ronaldo… et tombent sur des inconnus",
+      "description": "Le fanatisme engendre bien souvent des comportements pas franchement intelligents. Ce samedi, plusieurs milliers personnes s’étaient rassemblées devant la…",
+      "url": "https://www.sofoot.com/breves/des-milliers-de-personnes-se-rassemblent-pour-le-mariage-de-cristiano-ronaldo-et-tombent-sur-des-inconnus",
+      "source": "SO FOOT",
+      "publishedAt": "2026-08-09T09:10:25Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Data Analyst avec Python | Introduction complète à Python | Tutoriel complet",
@@ -194,23 +230,59 @@
       "thumbnail": "https://i.ytimg.com/vi/2sunLXT-XgM/hqdefault.jpg"
     },
     {
-      "title": "Python pour la data : Le guide du débutant",
-      "description": "La vidéo intitulée \"Python : Le guide du débutant\" est une présentation visuelle conçue pour vous introduire aux fondements de ...",
-      "url": "https://www.youtube.com/watch?v=s6yhACGTANI",
-      "source": "Eco_sta_tech",
-      "publishedAt": "2026-06-30T07:58:21Z",
+      "title": "Pastèque : pourquoi vous devriez manger l'écorce blanche d'après ces nouvelles données américaines",
+      "description": "10 kcal pour 50 g d’écorce de pastèque : l’USDA lui accorde un profil nutritionnel officiel et ouvre la voie à des recettes anti-gaspi.",
+      "url": "https://www.doctissimo.fr/nutrition/news-nutrition/pasteque-pourquoi-vous-devriez-manger-lecorce-blanche-dapres-ces-nouvelles-donnees-americaines-812966.htm",
+      "source": "Doctissimo.fr",
+      "publishedAt": "2026-08-08T11:38:54Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "s6yhACGTANI",
-      "thumbnail": "https://i.ytimg.com/vi/s6yhACGTANI/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "Témoignages. « J'enregistre des spots intéressants » : les réseaux sociaux et l'IA, pratiques pour voyager ?",
-      "description": "Les trois quarts des Français ont déjà utilisé les réseaux sociaux pour trouver l’inspiration de leur prochain voyage et un quart d’entre eux utilisent ponctuellement l’intelligence artificielle pour ...",
-      "url": "https://www.ledauphine.com/economie/2026/08/08/j-enregistre-des-spots-interessants-les-reseaux-sociaux-et-l-ia-pratiques-pour-voyager",
+      "title": "​​​​​​​IA : Après le festin à 900 milliards des géants de la tech, la facture s’annonce colossale… et le retour sur investissement tarde à venir",
+      "description": "Les revenus de l’intelligence artificielle progressent à toute vitesse, mais restent insuffisants face à l’explosion des investissements. Les géants de la tech devront encore prouver que les milliards...",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/ia-apres-le-festin-a-900-milliards-des-geants-de-la-tech-la-facture-sannonce-colossale-et-le-retour-sur-investissement-tarde-a-venir_645180",
+      "source": "Challenges",
+      "publishedAt": "2026-08-09T09:18:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L’Air Force laisse une IA piloter un F-16… mais garde un humain à bord",
+      "description": "Un F-16 modifié a volé sous le contrôle d’une intelligence artificielle lors d’un essai mené par l’US Air Force et la DARPA. Une étape importante pour les militaires américains, même si le « pilote au...",
+      "url": "https://www.journaldugeek.com/2026/08/08/lair-force-laisse-une-ia-piloter-un-f-16-mais-garde-un-humain-a-bord/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-08-08T12:00:27Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Technologies. \"Projet Panama\" : pourquoi l’IA Claude a acheté puis détruit des millions de livres d'occasion ?",
+      "description": "Le géant américain Anthropic est au cœur d’un tollé : afin d’entraîner son intelligence artificielle Claude, l’entreprise a acheté, scanné, puis détruit des millions de livres d’occasion.",
+      "url": "https://www.ledauphine.com/science-et-technologie/2026/08/08/projet-panama-pourquoi-l-ia-claude-a-achete-puis-detruit-des-millions-de-livres-d-occasion",
       "source": "Le Dauphiné Libéré",
-      "publishedAt": "2026-08-08T05:30:00Z",
+      "publishedAt": "2026-08-08T17:20:00Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Après avoir fait plier PG&E, Erin Brockovich s’attaque aux data centers",
+      "description": "Alors que la fronde anti-intelligence artificielle devient de plus en plus audible aux États-Unis, une voix a décidé de se faire entendre pour rassembler non pas toutes les craintes, fondées ou non, d...",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/08/apres-avoir-fait-plier-pge-erin-brockovich-sattaque-aux-data-centers-310275",
+      "source": "MacGeneration",
+      "publishedAt": "2026-08-09T08:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,47 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Accepteriez-vous d’être payé 50€ pour laisser une IA lire vos pensées ?",
-      "description": "La Silicon Valley est désormais remplie à ras-bord de start-ups d’intelligence artificielle se ressemblant toutes plus ou moins. Mais il y en a une qui a un projet un peu...",
-      "url": "https://www.phonandroid.com/accepteriez-vous-detre-paye-50e-pour-laisser-une-ia-lire-vos-pensees.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-08-07T07:30:43Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Et si notre cerveau adulte gardait une capacité insoupçonnée toute notre vie ? Voici la stupéfiante réponse des chercheurs",
-      "description": "Une découverte révolutionnaire vient bousculer nos connaissances sur le cerveau humain. Des chercheurs de l'Institut Karolinska ont démontré que le cerveau adulte continue à produire de nouveaux neuro...",
-      "url": "https://www.futura-sciences.com/sante/questions-reponses/cerveau-si-notre-cerveau-adulte-gardait-capacite-insoupconnee-toute-notre-vie-voici-stupefiante-reponse-chercheurs-w2t8-25817/",
-      "source": "Futura",
-      "publishedAt": "2026-08-08T06:00:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "SK Hynix : le pari XXL sur l’IA qui pourrait prolonger la flambée des prix",
-      "description": "Le géant sud-coréen investit environ 35 milliards d’euros dans deux usines. Un pari massif sur l’IA, et une mauvaise nouvelle pour les prix.",
-      "url": "https://www.begeek.fr/sk-hynix-le-pari-xxl-sur-lia-qui-pourrait-prolonger-la-flambee-des-prix-438260",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-08-08T08:00:54Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Les IA commencent-elles à échapper à leurs propres garde-fous ?",
-      "description": "En plein test de sécurité, une IA de Meta a profité d’une porte laissée ouverte pour atteindre le système d’une autre entreprise. Un cas qui n’est désormais plus isolé. ...",
-      "url": "https://www.lalibre.be/economie/digital/2026/08/08/les-ia-commencent-elles-a-echapper-a-leurs-propres-garde-fous-UVZBWSLG35AC7HWXUBD7LLWVKI/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-08-08T06:36:05Z",
+      "title": "Actualité : Astra, le prochain modèle d'OpenAI, fait tellement peur que son créateur le place en confinement",
+      "description": "C'est la panique chez OpenAI. Le laboratoire IA a décidé qu'une partie du développement de son prochain modèle Astra est désormais mis en pause. Selon l'entreprise de Sam Altman, ses capacités en cybe...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/astra-le-prochain-modele-d-openai-fait-tellement-peur-a-son-createur-que-le-developpement-est-ralenti-n260233.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-08-09T09:15:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
