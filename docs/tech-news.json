@@ -1,6 +1,30 @@
 {
-  "lastUpdate": "2026-08-10T09:26:25.467477",
+  "lastUpdate": "2026-08-11T09:02:34.242564",
   "articles": [
+    {
+      "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
+      "description": "Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...",
+      "url": "https://www.youtube.com/watch?v=0EsKXRhOYxM",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-06-22T15:04:54Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "0EsKXRhOYxM",
+      "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
+    },
+    {
+      "title": "La nouvelle IA d’OpenAI fait peur à son propre créateur : vous n’y avez pas accès sur ChatGPT à cause d’un “seuil critique”",
+      "description": "OpenAI a développé un nouveau modèle d'IA appelé Astra. Mais celui-ci doit encore être confiné, car ses compétences en codage et en cybersécurité ont peut-être franchi un seuil critique.",
+      "url": "https://www.presse-citron.net/ia-openai-fait-peur-a-son-createur-chatgpt-seuil-critique/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-08-10T08:24:56Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
     {
       "title": "Les Worlds Models : l’IA post LLM, expliqué par Yann LeCun",
       "description": "L'avenir de l'IA selon Yann LeCun : World Models, LLM, Open Source et Souveraineté L'IA générative (LLM) a-t-elle déjà atteint ...",
@@ -38,18 +62,6 @@
       "thumbnail": "https://i.ytimg.com/vi/9R-humPn-eo/hqdefault.jpg"
     },
     {
-      "title": "Leçon 4 - Fonction de coût - Cours Complet de Deep Learning",
-      "description": "Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...",
-      "url": "https://www.youtube.com/watch?v=yeXdRiD84ro",
-      "source": "Rafa Explique",
-      "publishedAt": "2026-07-15T16:12:40Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "yeXdRiD84ro",
-      "thumbnail": "https://i.ytimg.com/vi/yeXdRiD84ro/hqdefault.jpg"
-    },
-    {
       "title": "JAX Automatic Differentiation – Régression simple, descente de gradient (Python)",
       "description": "Machine learning. Data science. JAX est une bibliothèque de calcul numérique « à la Numpy » permettant de manipuler les ...",
       "url": "https://www.youtube.com/watch?v=LKtwwn-W6iM",
@@ -72,6 +84,18 @@
       "isYouTube": true,
       "videoId": "ktL8oV26XYg",
       "thumbnail": "https://i.ytimg.com/vi/ktL8oV26XYg/hqdefault.jpg"
+    },
+    {
+      "title": "Doctolib investit 20 millions d'euros dans une IA médicale, voici comment elle s'invite dans vos consultations",
+      "description": "Associant recherche publique et algorithmes fermés, le leader de l'e-santé promet de transformer le parcours de soins, tout en soulevant d'importants débats sur la souveraineté et la confidentialité d...",
+      "url": "https://www.zdnet.fr/actualites/doctolib-investit-20-millions-deuros-dans-une-ia-medicale-voici-comment-elle-sinvite-dans-vos-consultations-499536.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-08-10T05:08:40Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet",
@@ -98,42 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/NURD13ukpQI/hqdefault.jpg"
     },
     {
-      "title": "Le codage des données UTF-8 #informatique #données #data #codage",
-      "description": "Le codage des données UTF-8 #informatique #données #data #codage Pourquoi certains sites affichent-ils des caractères ...",
-      "url": "https://www.youtube.com/watch?v=syxw4SZor-s",
-      "source": "Informatique ISTA",
-      "publishedAt": "2026-07-02T11:00:18Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "syxw4SZor-s",
-      "thumbnail": "https://i.ytimg.com/vi/syxw4SZor-s/hqdefault.jpg"
-    },
-    {
-      "title": "Machine Learning avec scikit-learn — Ton Premier Modèle en 10 Minutes (Cours Complet)",
-      "description": "Et si une machine apprenait à partir de tes données ? Ce cours complet t'emmène de zéro jusqu'à ton premier vrai modèle de ...",
-      "url": "https://www.youtube.com/watch?v=1tlM9a4eEII",
-      "source": "lioncode",
-      "publishedAt": "2026-06-11T10:53:29Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1tlM9a4eEII",
-      "thumbnail": "https://i.ytimg.com/vi/1tlM9a4eEII/hqdefault.jpg"
-    },
-    {
-      "title": "NumPy &amp; Pandas — Python pour la Data Science : Cours Complet en 10 Minutes",
-      "description": "NumPy et Pandas sont les deux bibliothèques qui font de Python le roi de la data science. Ce cours complet te donne tout le ...",
-      "url": "https://www.youtube.com/watch?v=-kGlpSTHPf4",
-      "source": "lioncode",
-      "publishedAt": "2026-06-11T09:31:32Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "-kGlpSTHPf4",
-      "thumbnail": "https://i.ytimg.com/vi/-kGlpSTHPf4/hqdefault.jpg"
-    },
-    {
       "title": "Power BI Creer un tableau de bord de A à Z",
       "description": "FORMATION POWER BI GRATUITE – VIDÉO 3 : CRÉATION D'UN TABLEAU DE BORD INTERACTIF DE A À Z Bienvenue dans ...",
       "url": "https://www.youtube.com/watch?v=5zWEMjvm86o",
@@ -158,6 +146,18 @@
       "thumbnail": "https://i.ytimg.com/vi/3AUqD4ZwGts/hqdefault.jpg"
     },
     {
+      "title": "Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)",
+      "description": "Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...",
+      "url": "https://www.youtube.com/watch?v=2A5rNESVS9w",
+      "source": "AMVOULA Naïsia ",
+      "publishedAt": "2026-06-14T14:37:38Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "2A5rNESVS9w",
+      "thumbnail": "https://i.ytimg.com/vi/2A5rNESVS9w/hqdefault.jpg"
+    },
+    {
       "title": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data",
       "description": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data Timeline 00:00 Introduction ...",
       "url": "https://www.youtube.com/watch?v=IwQvKri768w",
@@ -170,11 +170,23 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
-      "title": "Dossier : J’ai essayé de remplacer Google Maps pendant 4 ans : mon bilan sans concession",
-      "description": "Malgré une volonté grandissante de réduire sa dépendance aux géants du Web et de protéger ses données personnelles, se passer de Google Maps relève du parcours du combattant. L'hégémonie du service de...",
-      "url": "https://www.lesnumeriques.com/societe-numerique/j-ai-essaye-de-remplacer-google-maps-pendant-4-ans-mon-bilan-sans-concession-a259052.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-08-09T07:41:00Z",
+      "title": "Comment analyser vos données avec Claude Code | Formation Complète Claude pour Data Analyst de A à Z",
+      "description": "Bienvenue dans cette formation complète consacrée à l'analyse des données avec Claude. Vous comprendrez ce qu'est Claude ...",
+      "url": "https://www.youtube.com/watch?v=Z1Y41sOVWyQ",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-07-21T15:59:13Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Z1Y41sOVWyQ",
+      "thumbnail": "https://i.ytimg.com/vi/Z1Y41sOVWyQ/hqdefault.jpg"
+    },
+    {
+      "title": "Claude Cowork, d'Anthropic, se tourne vers le cloud alors que les données montrent que 90 % des sessions ne sont pas consacrées au codage",
+      "description": "Claude Cowork se tourne vers le Web et le mobile, et de nouvelles données montrent que son utilisation s'étend bien au-delà du codage et du développement logiciel. Peut-il remplacer OpenClaw ?",
+      "url": "https://www.zdnet.fr/actualites/claude-cowork-danthropic-se-tourne-vers-le-cloud-alors-que-les-donnees-montrent-que-90-des-sessions-ne-sont-pas-consacrees-au-codage-499502.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-08-10T08:51:09Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,11 +218,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Des milliers de personnes se rassemblent pour le mariage de Cristiano Ronaldo… et tombent sur des inconnus",
-      "description": "Le fanatisme engendre bien souvent des comportements pas franchement intelligents. Ce samedi, plusieurs milliers personnes s’étaient rassemblées devant la…",
-      "url": "https://www.sofoot.com/breves/des-milliers-de-personnes-se-rassemblent-pour-le-mariage-de-cristiano-ronaldo-et-tombent-sur-des-inconnus",
-      "source": "SO FOOT",
-      "publishedAt": "2026-08-09T09:10:25Z",
+      "title": "L'IA a créé son premier virus artificiel fonctionnel qui n'existe pas dans la nature !",
+      "description": "Des chercheurs ont utilisé une IA pour imaginer et construire des virus entièrement nouveaux, sans équivalents dans la nature. C'est une première qui oscille entre la promesse d'une médecine réinventé...",
+      "url": "https://www.generation-nt.com/actualites/intelligence-artificielle-conception-virus-2079549",
+      "source": "Génération NT",
+      "publishedAt": "2026-08-09T14:30:01Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,47 +242,11 @@
       "thumbnail": "https://i.ytimg.com/vi/2sunLXT-XgM/hqdefault.jpg"
     },
     {
-      "title": "Pastèque : pourquoi vous devriez manger l'écorce blanche d'après ces nouvelles données américaines",
-      "description": "10 kcal pour 50 g d’écorce de pastèque : l’USDA lui accorde un profil nutritionnel officiel et ouvre la voie à des recettes anti-gaspi.",
-      "url": "https://www.doctissimo.fr/nutrition/news-nutrition/pasteque-pourquoi-vous-devriez-manger-lecorce-blanche-dapres-ces-nouvelles-donnees-americaines-812966.htm",
-      "source": "Doctissimo.fr",
-      "publishedAt": "2026-08-08T11:38:54Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "​​​​​​​IA : Après le festin à 900 milliards des géants de la tech, la facture s’annonce colossale… et le retour sur investissement tarde à venir",
-      "description": "Les revenus de l’intelligence artificielle progressent à toute vitesse, mais restent insuffisants face à l’explosion des investissements. Les géants de la tech devront encore prouver que les milliards...",
-      "url": "https://www.challenges.fr/entreprise/tech-numerique/ia-apres-le-festin-a-900-milliards-des-geants-de-la-tech-la-facture-sannonce-colossale-et-le-retour-sur-investissement-tarde-a-venir_645180",
-      "source": "Challenges",
-      "publishedAt": "2026-08-09T09:18:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L’Air Force laisse une IA piloter un F-16… mais garde un humain à bord",
-      "description": "Un F-16 modifié a volé sous le contrôle d’une intelligence artificielle lors d’un essai mené par l’US Air Force et la DARPA. Une étape importante pour les militaires américains, même si le « pilote au...",
-      "url": "https://www.journaldugeek.com/2026/08/08/lair-force-laisse-une-ia-piloter-un-f-16-mais-garde-un-humain-a-bord/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-08-08T12:00:27Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Technologies. \"Projet Panama\" : pourquoi l’IA Claude a acheté puis détruit des millions de livres d'occasion ?",
-      "description": "Le géant américain Anthropic est au cœur d’un tollé : afin d’entraîner son intelligence artificielle Claude, l’entreprise a acheté, scanné, puis détruit des millions de livres d’occasion.",
-      "url": "https://www.ledauphine.com/science-et-technologie/2026/08/08/projet-panama-pourquoi-l-ia-claude-a-achete-puis-detruit-des-millions-de-livres-d-occasion",
-      "source": "Le Dauphiné Libéré",
-      "publishedAt": "2026-08-08T17:20:00Z",
+      "title": "Les nouvelles aides auditives ReSound Sensia™ mettent en avant la voix que vous souhaitez entendre, pas seulement la plus forte",
+      "description": "De manière automatique, précise et fiable. BALLERUP, Danemark, 10 août 2026 /PRNewswire/ -- GN, leader mondial des technologies auditives, annonce ReSound Sensia™, une nouvelle gamme d'appareils audit...",
+      "url": "https://www.prnewswire.com/news-releases/les-nouvelles-aides-auditives-resound-sensia-mettent-en-avant-la-voix-que-vous-souhaitez-entendre-pas-seulement-la-plus-forte-302846616.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-08-10T07:00:00Z",
       "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Après avoir fait plier PG&E, Erin Brockovich s’attaque aux data centers",
-      "description": "Alors que la fronde anti-intelligence artificielle devient de plus en plus audible aux États-Unis, une voix a décidé de se faire entendre pour rassembler non pas toutes les craintes, fondées ou non, d...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/08/apres-avoir-fait-plier-pge-erin-brockovich-sattaque-aux-data-centers-310275",
-      "source": "MacGeneration",
-      "publishedAt": "2026-08-09T08:00:00Z",
+      "title": "OpenAI suspend une partie du développement d’Astra face à des risques cyber inédits",
+      "description": "Alors que les capacités cyber des modèles d’IA progressent rapidement, cette pause marque l’une des premières fois qu’un laboratoire de pointe ralentit volontairement le développement d’un de ses modè...",
+      "url": "https://www.zdnet.fr/actualites/openai-suspend-une-partie-du-developpement-dastra-face-a-des-risques-cyber-inedits-499497.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-08-10T08:51:09Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +266,35 @@
       "thumbnail": ""
     },
     {
-      "title": "Actualité : Astra, le prochain modèle d'OpenAI, fait tellement peur que son créateur le place en confinement",
-      "description": "C'est la panique chez OpenAI. Le laboratoire IA a décidé qu'une partie du développement de son prochain modèle Astra est désormais mis en pause. Selon l'entreprise de Sam Altman, ses capacités en cybe...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/astra-le-prochain-modele-d-openai-fait-tellement-peur-a-son-createur-que-le-developpement-est-ralenti-n260233.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-08-09T09:15:00Z",
+      "title": "\"On plante des arbres gratuitement chez vous\" : cette association récolte des fonds pour \"faire grandir la forêt\" en milieu urbain",
+      "description": "En Ardèche, autour d'Annonay, six hommes ont créé l'association \"SylvAsso\". Elle vise à planter des arbres gratuitement chez les particuliers et les professionnels. L'association a besoin de fonds pou...",
+      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/ardeche/on-plante-des-arbres-gratuitement-chez-vous-cette-association-recolte-des-fonds-pour-faire-grandir-la-foret-en-milieu-urbain-3398923.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-08-10T05:10:02Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ce motif rend vos vêtements ou votre voiture indétectables par les caméras de surveillance IA",
+      "description": "Un expert en cybersécurité est parvenu à créer des motifs capables d’empêcher la reconnaissance faciale ou la lecture d’une plaque d’immatriculation par les caméras de surveillance IA. Nous n’en somme...",
+      "url": "https://www.phonandroid.com/ce-motif-rend-vos-vetements-ou-votre-voiture-indetectables-par-les-cameras-de-surveillance-ia.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-08-10T08:25:24Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Faut-il s’inquiéter des IA qui “s’échappent” et redouter un scénario à la Terminator ?",
+      "description": "Les IA qui semblent s’échapper de leur environnement de test peuvent inquiéter, et certains éléments sont interpellants. Mais pas de là à prêter une conscience à ces agents. ...",
+      "url": "https://www.lalibre.be/economie/entreprises-startup/2026/08/10/faut-il-sinquieter-des-ia-qui-sechappent-et-redouter-un-scenario-a-la-terminator-QOR7ZGRQOZHNHBZRJDVCVJ3IA4/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-08-10T07:32:32Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
