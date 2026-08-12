@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 11 Aug 2026 09:02:34 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 09:15:07 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,28 +21,28 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>La nouvelle IA d’OpenAI fait peur à son propre créateur : vous n’y avez pas accès sur ChatGPT à cause d’un “seuil critique”</title>
-            <link>https://www.presse-citron.net/ia-openai-fait-peur-a-son-createur-chatgpt-seuil-critique/</link>
-            <description><![CDATA[OpenAI a développé un nouveau modèle d'IA appelé Astra. Mais celui-ci doit encore être confiné, car ses compétences en codage et en cybersécurité ont peut-être franchi un seuil critique.]]></description>
-            <pubDate>Mon, 10 Aug 2026 08:24:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/ia-openai-fait-peur-a-son-createur-chatgpt-seuil-critique/</guid>
-            <source>Presse-citron</source>
+            <title>C’est moins cher qu’un iPhone : voici combien le premier appareil dédié à ChatGPT devrait coûter</title>
+            <link>https://www.journaldugeek.com/2026/08/11/cest-moins-cher-quun-iphone-voici-combien-le-premier-appareil-dedie-a-chatgpt-devrait-couter/</link>
+            <description><![CDATA[OpenAI ne se contentera pas de proposer des modèles d’IA. Et, d’après un article de Bloomberg, son premier appareil serait une enceinte connectée dédiée à l’IA de ChatGPT, qui aurait la même forme qu’...]]></description>
+            <pubDate>Tue, 11 Aug 2026 08:31:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/08/11/cest-moins-cher-quun-iphone-voici-combien-le-premier-appareil-dedie-a-chatgpt-devrait-couter/</guid>
+            <source>Journal du geek</source>
         </item>
         <item>
-            <title>Les Worlds Models : l’IA post LLM, expliqué par Yann LeCun</title>
-            <link>https://www.youtube.com/watch?v=m7ywFu3Yqh8</link>
-            <description><![CDATA[L'avenir de l'IA selon Yann LeCun : World Models, LLM, Open Source et Souveraineté L'IA générative (LLM) a-t-elle déjà atteint ...]]></description>
-            <pubDate>Tue, 07 Jul 2026 10:07:58 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=m7ywFu3Yqh8</guid>
-            <source>A la french  💻</source>
-        </item>
-        <item>
-            <title>Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker</title>
-            <link>https://www.youtube.com/watch?v=dIuLrxn3ViE</link>
-            <description><![CDATA[Machine learning. Data science. MLOps. Création d'une image docker encapsulant une base de données multi-tables (SQLite, ...]]></description>
-            <pubDate>Thu, 30 Jul 2026 15:41:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=dIuLrxn3ViE</guid>
+            <title>NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)</title>
+            <link>https://www.youtube.com/watch?v=3J5VPpX2Jww</link>
+            <description><![CDATA[Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...]]></description>
+            <pubDate>Wed, 24 Jun 2026 14:33:27 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=3J5VPpX2Jww</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Nvidia et Wall Street créent un fonds de 500 milliards de dollars pour financer l'infrastructure IA</title>
+            <link>https://www.zdnet.fr/actualites/nvidia-et-wall-street-creent-un-fonds-de-500-milliards-de-dollars-pour-financer-linfrastructure-ia-499697.htm</link>
+            <description><![CDATA[Pour soutenir le coût colossal du déploiement de l'intelligence artificielle, Nvidia s'associe à six géants de la finance mondiale. L'objectif de cette alliance à 500 milliards de dollars : transforme...]]></description>
+            <pubDate>Tue, 11 Aug 2026 07:08:20 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/nvidia-et-wall-street-creent-un-fonds-de-500-milliards-de-dollars-pour-financer-linfrastructure-ia-499697.htm</guid>
+            <source>ZDNet France</source>
         </item>
         <item>
             <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
@@ -51,6 +51,14 @@
             <pubDate>Sun, 26 Jul 2026 15:00:27 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=9R-humPn-eo</guid>
             <source>JUFIP</source>
+        </item>
+        <item>
+            <title>Leçon 4 - Fonction de coût - Cours Complet de Deep Learning</title>
+            <link>https://www.youtube.com/watch?v=yeXdRiD84ro</link>
+            <description><![CDATA[Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...]]></description>
+            <pubDate>Wed, 15 Jul 2026 16:12:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=yeXdRiD84ro</guid>
+            <source>Rafa Explique</source>
         </item>
         <item>
             <title>JAX Automatic Differentiation – Régression simple, descente de gradient (Python)</title>
@@ -69,12 +77,12 @@
             <source>How AI Works?</source>
         </item>
         <item>
-            <title>Doctolib investit 20 millions d'euros dans une IA médicale, voici comment elle s'invite dans vos consultations</title>
-            <link>https://www.zdnet.fr/actualites/doctolib-investit-20-millions-deuros-dans-une-ia-medicale-voici-comment-elle-sinvite-dans-vos-consultations-499536.htm</link>
-            <description><![CDATA[Associant recherche publique et algorithmes fermés, le leader de l'e-santé promet de transformer le parcours de soins, tout en soulevant d'importants débats sur la souveraineté et la confidentialité d...]]></description>
-            <pubDate>Mon, 10 Aug 2026 05:08:40 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/doctolib-investit-20-millions-deuros-dans-une-ia-medicale-voici-comment-elle-sinvite-dans-vos-consultations-499536.htm</guid>
-            <source>ZDNet France</source>
+            <title>SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners | SQL Training For Beginners | Simplilearn</title>
+            <link>https://www.youtube.com/watch?v=GSONaKKZozU</link>
+            <description><![CDATA[Micrososft Azure - Data Analyst Course ...]]></description>
+            <pubDate>Wed, 08 Jul 2026 15:30:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=GSONaKKZozU</guid>
+            <source>Simplilearn</source>
         </item>
         <item>
             <title>Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet</title>
@@ -85,36 +93,12 @@
             <source>Data & Dash Consulting</source>
         </item>
         <item>
-            <title>Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp;amp; Claude Cowork</title>
-            <link>https://www.youtube.com/watch?v=NURD13ukpQI</link>
-            <description><![CDATA[Bienvenue dans le Jour 1 de cette formation complète consacrée à l'analyse des données avec Claude AI. Dans cette première ...]]></description>
-            <pubDate>Mon, 13 Jul 2026 15:17:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=NURD13ukpQI</guid>
-            <source>Oscar Aksanti</source>
-        </item>
-        <item>
-            <title>Power BI Creer un tableau de bord de A à Z</title>
-            <link>https://www.youtube.com/watch?v=5zWEMjvm86o</link>
-            <description><![CDATA[FORMATION POWER BI GRATUITE – VIDÉO 3 : CRÉATION D'UN TABLEAU DE BORD INTERACTIF DE A À Z Bienvenue dans ...]]></description>
-            <pubDate>Sat, 13 Jun 2026 21:22:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=5zWEMjvm86o</guid>
-            <source>Ceemtic Analytics</source>
-        </item>
-        <item>
             <title>Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant</title>
             <link>https://www.youtube.com/watch?v=3AUqD4ZwGts</link>
             <description><![CDATA[Formation SQL Débutant avec PostgreSQL et VS Code | Vidéo 1 : Introduction à SQL Bienvenue dans cette première vidéo de ...]]></description>
             <pubDate>Tue, 30 Jun 2026 21:01:55 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=3AUqD4ZwGts</guid>
             <source>Ceemtic Analytics</source>
-        </item>
-        <item>
-            <title>Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)</title>
-            <link>https://www.youtube.com/watch?v=2A5rNESVS9w</link>
-            <description><![CDATA[Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...]]></description>
-            <pubDate>Sun, 14 Jun 2026 14:37:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2A5rNESVS9w</guid>
-            <source>AMVOULA Naïsia </source>
         </item>
         <item>
             <title>Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data</title>
@@ -125,20 +109,20 @@
             <source>Mikail Altundas</source>
         </item>
         <item>
-            <title>Comment analyser vos données avec Claude Code | Formation Complète Claude pour Data Analyst de A à Z</title>
-            <link>https://www.youtube.com/watch?v=Z1Y41sOVWyQ</link>
-            <description><![CDATA[Bienvenue dans cette formation complète consacrée à l'analyse des données avec Claude. Vous comprendrez ce qu'est Claude ...]]></description>
-            <pubDate>Tue, 21 Jul 2026 15:59:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z1Y41sOVWyQ</guid>
-            <source>Oscar Aksanti</source>
+            <title>Découvrez notre formation sur Power BI #data #powerbi</title>
+            <link>https://www.youtube.com/watch?v=5XRR3C0nQLg</link>
+            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
+            <pubDate>Tue, 21 Jul 2026 05:30:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=5XRR3C0nQLg</guid>
+            <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Claude Cowork, d'Anthropic, se tourne vers le cloud alors que les données montrent que 90 % des sessions ne sont pas consacrées au codage</title>
-            <link>https://www.zdnet.fr/actualites/claude-cowork-danthropic-se-tourne-vers-le-cloud-alors-que-les-donnees-montrent-que-90-des-sessions-ne-sont-pas-consacrees-au-codage-499502.htm</link>
-            <description><![CDATA[Claude Cowork se tourne vers le Web et le mobile, et de nouvelles données montrent que son utilisation s'étend bien au-delà du codage et du développement logiciel. Peut-il remplacer OpenClaw ?]]></description>
-            <pubDate>Mon, 10 Aug 2026 08:51:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/claude-cowork-danthropic-se-tourne-vers-le-cloud-alors-que-les-donnees-montrent-que-90-des-sessions-ne-sont-pas-consacrees-au-codage-499502.htm</guid>
-            <source>ZDNet France</source>
+            <title>Comment créer une pyramide des âges sur Power BI ?</title>
+            <link>https://www.youtube.com/watch?v=rDVtYMoa_Ok</link>
+            <description><![CDATA[Retrouvez la vidéo juste ici : https://www.youtube.com/watch?v=v0Z8TMkAbaE Testez votre niveau sur PowerBI et recevez des ...]]></description>
+            <pubDate>Tue, 04 Aug 2026 16:30:12 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=rDVtYMoa_Ok</guid>
+            <source>Morpheus Formation | Excel, Power BI, Data</source>
         </item>
         <item>
             <title>Comment créer une base de données avec le langage SQL ?</title>
@@ -149,20 +133,14 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Héritons-nous des traumatismes de nos parents ? Pas exactement</title>
-            <link>https://theconversation.com/heritons-nous-des-traumatismes-de-nos-parents-pas-exactement-289107</link>
-            <description><![CDATA[Nous n’héritons pas des souvenirs traumatiques de nos ancêtres, nous disent les données scientifiques. Mais l’épigénétique ou le contexte de la grossesse pourraient influencer notre sensibilité au str...]]></description>
-            <pubDate>Sun, 09 Aug 2026 07:35:40 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/heritons-nous-des-traumatismes-de-nos-parents-pas-exactement-289107</guid>
-            <source>The Conversation Africa</source>
-        </item>
-        <item>
-            <title>L'IA a créé son premier virus artificiel fonctionnel qui n'existe pas dans la nature !</title>
-            <link>https://www.generation-nt.com/actualites/intelligence-artificielle-conception-virus-2079549</link>
-            <description><![CDATA[Des chercheurs ont utilisé une IA pour imaginer et construire des virus entièrement nouveaux, sans équivalents dans la nature. C'est une première qui oscille entre la promesse d'une médecine réinventé...]]></description>
-            <pubDate>Sun, 09 Aug 2026 14:30:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/intelligence-artificielle-conception-virus-2079549</guid>
-            <source>Génération NT</source>
+            <title>FrenchNews-7 — corpus annoté de presse française</title>
+            <link>https://www.data.gouv.fr/datasets/frenchnews-7-corpus-annote-de-presse-francaise</link>
+            <description><![CDATA[**FrenchNews-7** est un jeu de données de référence pour la **classification par rubriques
+rédactionnelles d'articles de presse française**. Il recense **87 637 articles annotés**,
+publiés par **13 éd...]]></description>
+            <pubDate>Mon, 10 Aug 2026 17:38:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/frenchnews-7-corpus-annote-de-presse-francaise</guid>
+            <source>Gouv.fr</source>
         </item>
         <item>
             <title>Data Analyst avec Python | Introduction complète à Python | Tutoriel complet</title>
@@ -171,6 +149,33 @@
             <pubDate>Sun, 28 Jun 2026 16:00:20 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=2sunLXT-XgM</guid>
             <source>Le Decodeur</source>
+        </item>
+        <item>
+            <title>Pendant les vagues de chaleur, pourquoi faut-il être particulièrement vigilant avec les intoxications alimentaires ?</title>
+            <link>https://theconversation.com/pendant-les-vagues-de-chaleur-pourquoi-faut-il-etre-particulierement-vigilant-avec-les-intoxications-alimentaires-288986</link>
+            <description><![CDATA[À partir de données madrilènes, des chercheurs espagnols ont estimé le risque accru d’hospitalisations pour intoxication alimentaire, lors des canicules, au-delà de certaines températures.]]></description>
+            <pubDate>Tue, 11 Aug 2026 08:38:27 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/pendant-les-vagues-de-chaleur-pourquoi-faut-il-etre-particulierement-vigilant-avec-les-intoxications-alimentaires-288986</guid>
+            <source>The Conversation Africa</source>
+        </item>
+        <item>
+            <title>Il coûte 2 000 € mais on se l’arrache quand même : le nouveau smartphone pliant de Samsung bat un record et se vend mieux que prévu. Voici les 2 détails qui font toute la différence</title>
+            <link>https://www.presse-citron.net/nouveau-smartphone-pliant-de-samsung-bat-un-record-et-se-vend-mieux-que-prevu/</link>
+            <description><![CDATA[Le Galaxy Z Fold8 se vend si bien que Samsung serait obligé de commander de nouvelles unités par rapport à ce qui était prévu pour satisfaire la demande.]]></description>
+            <pubDate>Tue, 11 Aug 2026 08:26:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/nouveau-smartphone-pliant-de-samsung-bat-un-record-et-se-vend-mieux-que-prevu/</guid>
+            <source>Presse-citron</source>
+        </item>
+        <item>
+            <title>Apple Reference Image : iOS 27 va identifier les photos prises par l’iPhone</title>
+            <link>https://iphoneaddict.fr/post/news-433201-apple-reference-image-ios-27-identifier-photos-prises-liphone</link>
+            <description><![CDATA[Apple développe « Apple Reference Image », un système de provenance destiné à prouver qu’une photo a bien été prise par un iPhone plutôt…
+Lire la suite…
+Facebook · X · iAddict
+L’article Apple Referenc...]]></description>
+            <pubDate>Tue, 11 Aug 2026 08:40:08 -0000</pubDate>
+            <guid isPermaLink="true">https://iphoneaddict.fr/post/news-433201-apple-reference-image-ios-27-identifier-photos-prises-liphone</guid>
+            <source>Iphoneaddict.fr</source>
         </item>
     </channel>
 </rss>

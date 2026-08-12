@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-11T09:02:34.242564",
+  "lastUpdate": "2026-08-12T09:15:07.552420",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -14,11 +14,11 @@
       "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
     },
     {
-      "title": "La nouvelle IA d’OpenAI fait peur à son propre créateur : vous n’y avez pas accès sur ChatGPT à cause d’un “seuil critique”",
-      "description": "OpenAI a développé un nouveau modèle d'IA appelé Astra. Mais celui-ci doit encore être confiné, car ses compétences en codage et en cybersécurité ont peut-être franchi un seuil critique.",
-      "url": "https://www.presse-citron.net/ia-openai-fait-peur-a-son-createur-chatgpt-seuil-critique/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-08-10T08:24:56Z",
+      "title": "C’est moins cher qu’un iPhone : voici combien le premier appareil dédié à ChatGPT devrait coûter",
+      "description": "OpenAI ne se contentera pas de proposer des modèles d’IA. Et, d’après un article de Bloomberg, son premier appareil serait une enceinte connectée dédiée à l’IA de ChatGPT, qui aurait la même forme qu’...",
+      "url": "https://www.journaldugeek.com/2026/08/11/cest-moins-cher-quun-iphone-voici-combien-le-premier-appareil-dedie-a-chatgpt-devrait-couter/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-08-11T08:31:42Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -26,28 +26,28 @@
       "thumbnail": ""
     },
     {
-      "title": "Les Worlds Models : l’IA post LLM, expliqué par Yann LeCun",
-      "description": "L'avenir de l'IA selon Yann LeCun : World Models, LLM, Open Source et Souveraineté L'IA générative (LLM) a-t-elle déjà atteint ...",
-      "url": "https://www.youtube.com/watch?v=m7ywFu3Yqh8",
-      "source": "A la french  💻",
-      "publishedAt": "2026-07-07T10:07:58Z",
+      "title": "NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)",
+      "description": "Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...",
+      "url": "https://www.youtube.com/watch?v=3J5VPpX2Jww",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-06-24T14:33:27Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "m7ywFu3Yqh8",
-      "thumbnail": "https://i.ytimg.com/vi/m7ywFu3Yqh8/hqdefault.jpg"
+      "videoId": "3J5VPpX2Jww",
+      "thumbnail": "https://i.ytimg.com/vi/3J5VPpX2Jww/hqdefault.jpg"
     },
     {
-      "title": "Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker",
-      "description": "Machine learning. Data science. MLOps. Création d'une image docker encapsulant une base de données multi-tables (SQLite, ...",
-      "url": "https://www.youtube.com/watch?v=dIuLrxn3ViE",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-07-30T15:41:54Z",
+      "title": "Nvidia et Wall Street créent un fonds de 500 milliards de dollars pour financer l'infrastructure IA",
+      "description": "Pour soutenir le coût colossal du déploiement de l'intelligence artificielle, Nvidia s'associe à six géants de la finance mondiale. L'objectif de cette alliance à 500 milliards de dollars : transforme...",
+      "url": "https://www.zdnet.fr/actualites/nvidia-et-wall-street-creent-un-fonds-de-500-milliards-de-dollars-pour-financer-linfrastructure-ia-499697.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-08-11T07:08:20Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "dIuLrxn3ViE",
-      "thumbnail": "https://i.ytimg.com/vi/dIuLrxn3ViE/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
@@ -60,6 +60,18 @@
       "isYouTube": true,
       "videoId": "9R-humPn-eo",
       "thumbnail": "https://i.ytimg.com/vi/9R-humPn-eo/hqdefault.jpg"
+    },
+    {
+      "title": "Leçon 4 - Fonction de coût - Cours Complet de Deep Learning",
+      "description": "Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...",
+      "url": "https://www.youtube.com/watch?v=yeXdRiD84ro",
+      "source": "Rafa Explique",
+      "publishedAt": "2026-07-15T16:12:40Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "yeXdRiD84ro",
+      "thumbnail": "https://i.ytimg.com/vi/yeXdRiD84ro/hqdefault.jpg"
     },
     {
       "title": "JAX Automatic Differentiation – Régression simple, descente de gradient (Python)",
@@ -86,16 +98,16 @@
       "thumbnail": "https://i.ytimg.com/vi/ktL8oV26XYg/hqdefault.jpg"
     },
     {
-      "title": "Doctolib investit 20 millions d'euros dans une IA médicale, voici comment elle s'invite dans vos consultations",
-      "description": "Associant recherche publique et algorithmes fermés, le leader de l'e-santé promet de transformer le parcours de soins, tout en soulevant d'importants débats sur la souveraineté et la confidentialité d...",
-      "url": "https://www.zdnet.fr/actualites/doctolib-investit-20-millions-deuros-dans-une-ia-medicale-voici-comment-elle-sinvite-dans-vos-consultations-499536.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-08-10T05:08:40Z",
+      "title": "SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners | SQL Training For Beginners | Simplilearn",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "url": "https://www.youtube.com/watch?v=GSONaKKZozU",
+      "source": "Simplilearn",
+      "publishedAt": "2026-07-08T15:30:29Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "GSONaKKZozU",
+      "thumbnail": "https://i.ytimg.com/vi/GSONaKKZozU/hqdefault.jpg"
     },
     {
       "title": "Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet",
@@ -110,30 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/x7Nh0RKEoxg/hqdefault.jpg"
     },
     {
-      "title": "Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp; Claude Cowork",
-      "description": "Bienvenue dans le Jour 1 de cette formation complète consacrée à l'analyse des données avec Claude AI. Dans cette première ...",
-      "url": "https://www.youtube.com/watch?v=NURD13ukpQI",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-07-13T15:17:51Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "NURD13ukpQI",
-      "thumbnail": "https://i.ytimg.com/vi/NURD13ukpQI/hqdefault.jpg"
-    },
-    {
-      "title": "Power BI Creer un tableau de bord de A à Z",
-      "description": "FORMATION POWER BI GRATUITE – VIDÉO 3 : CRÉATION D'UN TABLEAU DE BORD INTERACTIF DE A À Z Bienvenue dans ...",
-      "url": "https://www.youtube.com/watch?v=5zWEMjvm86o",
-      "source": "Ceemtic Analytics",
-      "publishedAt": "2026-06-13T21:22:56Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "5zWEMjvm86o",
-      "thumbnail": "https://i.ytimg.com/vi/5zWEMjvm86o/hqdefault.jpg"
-    },
-    {
       "title": "Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant",
       "description": "Formation SQL Débutant avec PostgreSQL et VS Code | Vidéo 1 : Introduction à SQL Bienvenue dans cette première vidéo de ...",
       "url": "https://www.youtube.com/watch?v=3AUqD4ZwGts",
@@ -144,18 +132,6 @@
       "isYouTube": true,
       "videoId": "3AUqD4ZwGts",
       "thumbnail": "https://i.ytimg.com/vi/3AUqD4ZwGts/hqdefault.jpg"
-    },
-    {
-      "title": "Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)",
-      "description": "Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...",
-      "url": "https://www.youtube.com/watch?v=2A5rNESVS9w",
-      "source": "AMVOULA Naïsia ",
-      "publishedAt": "2026-06-14T14:37:38Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "2A5rNESVS9w",
-      "thumbnail": "https://i.ytimg.com/vi/2A5rNESVS9w/hqdefault.jpg"
     },
     {
       "title": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data",
@@ -170,28 +146,28 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
-      "title": "Comment analyser vos données avec Claude Code | Formation Complète Claude pour Data Analyst de A à Z",
-      "description": "Bienvenue dans cette formation complète consacrée à l'analyse des données avec Claude. Vous comprendrez ce qu'est Claude ...",
-      "url": "https://www.youtube.com/watch?v=Z1Y41sOVWyQ",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-07-21T15:59:13Z",
+      "title": "Découvrez notre formation sur Power BI #data #powerbi",
+      "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
+      "url": "https://www.youtube.com/watch?v=5XRR3C0nQLg",
+      "source": "OpenClassrooms en Français",
+      "publishedAt": "2026-07-21T05:30:15Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Z1Y41sOVWyQ",
-      "thumbnail": "https://i.ytimg.com/vi/Z1Y41sOVWyQ/hqdefault.jpg"
+      "videoId": "5XRR3C0nQLg",
+      "thumbnail": "https://i.ytimg.com/vi/5XRR3C0nQLg/hqdefault.jpg"
     },
     {
-      "title": "Claude Cowork, d'Anthropic, se tourne vers le cloud alors que les données montrent que 90 % des sessions ne sont pas consacrées au codage",
-      "description": "Claude Cowork se tourne vers le Web et le mobile, et de nouvelles données montrent que son utilisation s'étend bien au-delà du codage et du développement logiciel. Peut-il remplacer OpenClaw ?",
-      "url": "https://www.zdnet.fr/actualites/claude-cowork-danthropic-se-tourne-vers-le-cloud-alors-que-les-donnees-montrent-que-90-des-sessions-ne-sont-pas-consacrees-au-codage-499502.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-08-10T08:51:09Z",
+      "title": "Comment créer une pyramide des âges sur Power BI ?",
+      "description": "Retrouvez la vidéo juste ici : https://www.youtube.com/watch?v=v0Z8TMkAbaE Testez votre niveau sur PowerBI et recevez des ...",
+      "url": "https://www.youtube.com/watch?v=rDVtYMoa_Ok",
+      "source": "Morpheus Formation | Excel, Power BI, Data",
+      "publishedAt": "2026-08-04T16:30:12Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "rDVtYMoa_Ok",
+      "thumbnail": "https://i.ytimg.com/vi/rDVtYMoa_Ok/hqdefault.jpg"
     },
     {
       "title": "Comment créer une base de données avec le langage SQL ?",
@@ -206,23 +182,11 @@
       "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
-      "title": "Héritons-nous des traumatismes de nos parents ? Pas exactement",
-      "description": "Nous n’héritons pas des souvenirs traumatiques de nos ancêtres, nous disent les données scientifiques. Mais l’épigénétique ou le contexte de la grossesse pourraient influencer notre sensibilité au str...",
-      "url": "https://theconversation.com/heritons-nous-des-traumatismes-de-nos-parents-pas-exactement-289107",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-08-09T07:35:40Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L'IA a créé son premier virus artificiel fonctionnel qui n'existe pas dans la nature !",
-      "description": "Des chercheurs ont utilisé une IA pour imaginer et construire des virus entièrement nouveaux, sans équivalents dans la nature. C'est une première qui oscille entre la promesse d'une médecine réinventé...",
-      "url": "https://www.generation-nt.com/actualites/intelligence-artificielle-conception-virus-2079549",
-      "source": "Génération NT",
-      "publishedAt": "2026-08-09T14:30:01Z",
+      "title": "FrenchNews-7 — corpus annoté de presse française",
+      "description": "**FrenchNews-7** est un jeu de données de référence pour la **classification par rubriques\nrédactionnelles d'articles de presse française**. Il recense **87 637 articles annotés**,\npubliés par **13 éd...",
+      "url": "https://www.data.gouv.fr/datasets/frenchnews-7-corpus-annote-de-presse-francaise",
+      "source": "Gouv.fr",
+      "publishedAt": "2026-08-10T17:38:54Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +206,71 @@
       "thumbnail": "https://i.ytimg.com/vi/2sunLXT-XgM/hqdefault.jpg"
     },
     {
-      "title": "Les nouvelles aides auditives ReSound Sensia™ mettent en avant la voix que vous souhaitez entendre, pas seulement la plus forte",
-      "description": "De manière automatique, précise et fiable. BALLERUP, Danemark, 10 août 2026 /PRNewswire/ -- GN, leader mondial des technologies auditives, annonce ReSound Sensia™, une nouvelle gamme d'appareils audit...",
-      "url": "https://www.prnewswire.com/news-releases/les-nouvelles-aides-auditives-resound-sensia-mettent-en-avant-la-voix-que-vous-souhaitez-entendre-pas-seulement-la-plus-forte-302846616.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-08-10T07:00:00Z",
+      "title": "Pendant les vagues de chaleur, pourquoi faut-il être particulièrement vigilant avec les intoxications alimentaires ?",
+      "description": "À partir de données madrilènes, des chercheurs espagnols ont estimé le risque accru d’hospitalisations pour intoxication alimentaire, lors des canicules, au-delà de certaines températures.",
+      "url": "https://theconversation.com/pendant-les-vagues-de-chaleur-pourquoi-faut-il-etre-particulierement-vigilant-avec-les-intoxications-alimentaires-288986",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-08-11T08:38:27Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Il coûte 2 000 € mais on se l’arrache quand même : le nouveau smartphone pliant de Samsung bat un record et se vend mieux que prévu. Voici les 2 détails qui font toute la différence",
+      "description": "Le Galaxy Z Fold8 se vend si bien que Samsung serait obligé de commander de nouvelles unités par rapport à ce qui était prévu pour satisfaire la demande.",
+      "url": "https://www.presse-citron.net/nouveau-smartphone-pliant-de-samsung-bat-un-record-et-se-vend-mieux-que-prevu/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-08-11T08:26:49Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple Reference Image : iOS 27 va identifier les photos prises par l’iPhone",
+      "description": "Apple développe « Apple Reference Image », un système de provenance destiné à prouver qu’une photo a bien été prise par un iPhone plutôt…\nLire la suite…\nFacebook · X · iAddict\nL’article Apple Referenc...",
+      "url": "https://iphoneaddict.fr/post/news-433201-apple-reference-image-ios-27-identifier-photos-prises-liphone",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-08-11T08:40:08Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Des chercheurs ont utilisé l’IA pour créer un nouveau virus, «sans danger» pour l’Homme",
+      "description": "Des scientifiques de l'université de Stanford ont reconnu avoir utilisé des modèles d'intelligence artificielle pour créer des virus synthétiques.",
+      "url": "https://www.journaldugeek.com/2026/08/10/chercheurs-ia-virus-homme/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-08-10T10:00:04Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Course à l’IA en Chine : une menace pour le plus grand marché mondial de l’emploi",
+      "description": "Face au vieillissement accéléré de sa population et au recul de sa main-d’œuvre, la Chine fait le pari massif de l’intelligence artificielle et de la robotisation pour préserver sa puissance industrie...",
+      "url": "https://atlantico.fr/article/decryptage/course-ia-en-chine-une-menace-pour-le-plus-grand-marche-mondial-emploi-economie-travail-generation-jeunes-diplomes-intelligence-artificielle-Jean-Baptiste-Monnier-Kimberley-Bort-Julien-Pillot",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-08-11T07:55:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Test du robot tondeuse Mova ViAX 250 sans fil et sans abonnement",
+      "description": "L’ère des câbles périphériques enterrés dans nos jardins semble toucher à sa fin. Avec l’arrivée de solutions sans fil comme la Mova ViAX 250, l’entretien des pelouses gagne en simplicité et en techno...",
+      "url": "https://www.lalibre.be/lifestyle/magazine/2026/08/10/test-du-robot-tondeuse-mova-viax-250-sans-fil-et-sans-abonnement-WJIREQ3DXZC5HE7KSZFZBVBQSE/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-08-10T15:11:43Z",
       "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "OpenAI suspend une partie du développement d’Astra face à des risques cyber inédits",
-      "description": "Alors que les capacités cyber des modèles d’IA progressent rapidement, cette pause marque l’une des premières fois qu’un laboratoire de pointe ralentit volontairement le développement d’un de ses modè...",
-      "url": "https://www.zdnet.fr/actualites/openai-suspend-une-partie-du-developpement-dastra-face-a-des-risques-cyber-inedits-499497.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-08-10T08:51:09Z",
+      "title": "- TECNO EllaClaw & CAMON 50 Ultra 5G : Une IA qui Agit, Le Premium qui S'affine",
+      "description": "TECNO EllaClaw : Une IA qui agit, pas seulement qui parle. L&#039;IA est désormais omniprésente dans les smartphones. TECNO incarne cette vision à travers son concep...",
+      "url": "https://www.camer.be/94307/11:1/cameroun-tecno-ellaclaw-camon-50-ultra-5g-une-ia-qui-agit-le-premium-qui-saffine.html",
+      "source": "Camer.be",
+      "publishedAt": "2026-08-11T00:04:30Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,35 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "\"On plante des arbres gratuitement chez vous\" : cette association récolte des fonds pour \"faire grandir la forêt\" en milieu urbain",
-      "description": "En Ardèche, autour d'Annonay, six hommes ont créé l'association \"SylvAsso\". Elle vise à planter des arbres gratuitement chez les particuliers et les professionnels. L'association a besoin de fonds pou...",
-      "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/ardeche/on-plante-des-arbres-gratuitement-chez-vous-cette-association-recolte-des-fonds-pour-faire-grandir-la-foret-en-milieu-urbain-3398923.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-08-10T05:10:02Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ce motif rend vos vêtements ou votre voiture indétectables par les caméras de surveillance IA",
-      "description": "Un expert en cybersécurité est parvenu à créer des motifs capables d’empêcher la reconnaissance faciale ou la lecture d’une plaque d’immatriculation par les caméras de surveillance IA. Nous n’en somme...",
-      "url": "https://www.phonandroid.com/ce-motif-rend-vos-vetements-ou-votre-voiture-indetectables-par-les-cameras-de-surveillance-ia.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-08-10T08:25:24Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Faut-il s’inquiéter des IA qui “s’échappent” et redouter un scénario à la Terminator ?",
-      "description": "Les IA qui semblent s’échapper de leur environnement de test peuvent inquiéter, et certains éléments sont interpellants. Mais pas de là à prêter une conscience à ces agents. ...",
-      "url": "https://www.lalibre.be/economie/entreprises-startup/2026/08/10/faut-il-sinquieter-des-ia-qui-sechappent-et-redouter-un-scenario-a-la-terminator-QOR7ZGRQOZHNHBZRJDVCVJ3IA4/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-08-10T07:32:32Z",
+      "title": "« Pas de précipitation » Le phénomène venu de Chine qui a mis une claque à tout le monde refuse d'utiliser l'IA pour sa suite... grâce à Christopher Nolan",
+      "description": "Le co-fondateur du studio chinois Game Science prend la parole sur l'IA pour le futur jeu Black Myth Zhong Kui, évoquant le modèle de Christopher Nolan pour justifier qu'il n'en a pas besoin.",
+      "url": "https://www.gameblog.fr/jeu-video/ed/news/black-myth-zhong-kui-pas-ia-christopher-nolan-720758",
+      "source": "Gameblog",
+      "publishedAt": "2026-08-11T08:35:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
