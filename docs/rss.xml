@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 12 Aug 2026 09:15:07 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 09:16:08 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,12 +21,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>C’est moins cher qu’un iPhone : voici combien le premier appareil dédié à ChatGPT devrait coûter</title>
-            <link>https://www.journaldugeek.com/2026/08/11/cest-moins-cher-quun-iphone-voici-combien-le-premier-appareil-dedie-a-chatgpt-devrait-couter/</link>
-            <description><![CDATA[OpenAI ne se contentera pas de proposer des modèles d’IA. Et, d’après un article de Bloomberg, son premier appareil serait une enceinte connectée dédiée à l’IA de ChatGPT, qui aurait la même forme qu’...]]></description>
-            <pubDate>Tue, 11 Aug 2026 08:31:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/08/11/cest-moins-cher-quun-iphone-voici-combien-le-premier-appareil-dedie-a-chatgpt-devrait-couter/</guid>
-            <source>Journal du geek</source>
+            <title>ChatGPT débarque sur Linux, avec Codex et ChatGPT Work</title>
+            <link>https://www.blogdumoderateur.com/chatgpt-debarque-sur-linux/</link>
+            <description><![CDATA[OpenAI propose désormais une application desktop ChatGPT pour Linux, disponible en préversion sur Ubuntu, Debian et Fedora.]]></description>
+            <pubDate>Wed, 12 Aug 2026 08:38:07 -0000</pubDate>
+            <guid isPermaLink="true">https://www.blogdumoderateur.com/chatgpt-debarque-sur-linux/</guid>
+            <source>Blogdumoderateur.com</source>
         </item>
         <item>
             <title>NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)</title>
@@ -77,20 +77,20 @@
             <source>How AI Works?</source>
         </item>
         <item>
-            <title>SQL Full Course 2026 [FREE] | SQL Tutorial For Beginners | SQL Training For Beginners | Simplilearn</title>
-            <link>https://www.youtube.com/watch?v=GSONaKKZozU</link>
-            <description><![CDATA[Micrososft Azure - Data Analyst Course ...]]></description>
-            <pubDate>Wed, 08 Jul 2026 15:30:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=GSONaKKZozU</guid>
-            <source>Simplilearn</source>
-        </item>
-        <item>
             <title>Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet</title>
             <link>https://www.youtube.com/watch?v=x7Nh0RKEoxg</link>
             <description><![CDATA[Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...]]></description>
             <pubDate>Fri, 31 Jul 2026 17:56:47 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=x7Nh0RKEoxg</guid>
             <source>Data & Dash Consulting</source>
+        </item>
+        <item>
+            <title>Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp;amp; Claude Cowork</title>
+            <link>https://www.youtube.com/watch?v=NURD13ukpQI</link>
+            <description><![CDATA[Bienvenue dans le Jour 1 de cette formation complète consacrée à l'analyse des données avec Claude AI. Dans cette première ...]]></description>
+            <pubDate>Mon, 13 Jul 2026 15:17:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=NURD13ukpQI</guid>
+            <source>Oscar Aksanti</source>
         </item>
         <item>
             <title>Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant</title>
@@ -101,20 +101,20 @@
             <source>Ceemtic Analytics</source>
         </item>
         <item>
+            <title>Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)</title>
+            <link>https://www.youtube.com/watch?v=2A5rNESVS9w</link>
+            <description><![CDATA[Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...]]></description>
+            <pubDate>Sun, 14 Jun 2026 14:37:38 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=2A5rNESVS9w</guid>
+            <source>AMVOULA Naïsia </source>
+        </item>
+        <item>
             <title>Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data</title>
             <link>https://www.youtube.com/watch?v=IwQvKri768w</link>
             <description><![CDATA[Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data Timeline 00:00 Introduction ...]]></description>
             <pubDate>Tue, 07 Jul 2026 15:00:26 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=IwQvKri768w</guid>
             <source>Mikail Altundas</source>
-        </item>
-        <item>
-            <title>Découvrez notre formation sur Power BI #data #powerbi</title>
-            <link>https://www.youtube.com/watch?v=5XRR3C0nQLg</link>
-            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
-            <pubDate>Tue, 21 Jul 2026 05:30:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=5XRR3C0nQLg</guid>
-            <source>OpenClassrooms en Français</source>
         </item>
         <item>
             <title>Comment créer une pyramide des âges sur Power BI ?</title>
@@ -133,14 +133,38 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>FrenchNews-7 — corpus annoté de presse française</title>
-            <link>https://www.data.gouv.fr/datasets/frenchnews-7-corpus-annote-de-presse-francaise</link>
-            <description><![CDATA[**FrenchNews-7** est un jeu de données de référence pour la **classification par rubriques
-rédactionnelles d'articles de presse française**. Il recense **87 637 articles annotés**,
-publiés par **13 éd...]]></description>
-            <pubDate>Mon, 10 Aug 2026 17:38:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/frenchnews-7-corpus-annote-de-presse-francaise</guid>
+            <title>Projet SUMAC - 1 : observations brutes</title>
+            <link>https://www.data.gouv.fr/datasets/projet-sumac-1-observations-brutes-1</link>
+            <description><![CDATA[Les métadonnées des observations brutes collectées dans le cadre de l’acquisition aérienne digitale de données relatives aux Macreuses noires et autres oiseaux côtiers dans le Parc naturel marin de l’...]]></description>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/projet-sumac-1-observations-brutes-1</guid>
             <source>Gouv.fr</source>
+        </item>
+        <item>
+            <title>Programme de la fête de la science 2026 en Occitanie</title>
+            <link>https://www.data.gouv.fr/datasets/programme-de-la-fete-de-la-science-2026-en-occitanie</link>
+            <description><![CDATA[Ce jeu de données présente l'ensemble des événements organisés partout en Occitanie pour la Fête de la science 2026 qui aura lieu du **2 au 12 octobre** : animations, expositions, débats et d'initiati...]]></description>
+            <pubDate>Tue, 11 Aug 2026 14:30:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/programme-de-la-fete-de-la-science-2026-en-occitanie</guid>
+            <source>Gouv.fr</source>
+        </item>
+        <item>
+            <title>Projet SUMAC - 4 : densités moyennes estimées par krigeage</title>
+            <link>https://www.data.gouv.fr/datasets/projet-sumac-4-densites-moyennes-estimees-par-krigeage</link>
+            <description><![CDATA[Les métadonnées des densités relatives estimées par krigeage sont présentées ci-dessous. 
+
+Le krigeage est une méthode d'interpolation spatiale qui permet d'estimer la distribution d’une variable dans...]]></description>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/projet-sumac-4-densites-moyennes-estimees-par-krigeage</guid>
+            <source>Gouv.fr</source>
+        </item>
+        <item>
+            <title>Face aux IA, Apple dégaine son arme secrète pour authentifier les photos</title>
+            <link>https://www.generation-nt.com/actualites/apple-iphone-photo-authentification-ia-ios-27-2079698</link>
+            <description><![CDATA[Découvert dans la bêta d’iOS 27, le système « Apple Reference Image » permettra de prouver l'origine d'une photo prise avec un iPhone. En activant un mode dédié, les clichés embarqueront des données d...]]></description>
+            <pubDate>Wed, 12 Aug 2026 09:10:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/apple-iphone-photo-authentification-ia-ios-27-2079698</guid>
+            <source>Génération NT</source>
         </item>
         <item>
             <title>Data Analyst avec Python | Introduction complète à Python | Tutoriel complet</title>
@@ -149,33 +173,6 @@ publiés par **13 éd...]]></description>
             <pubDate>Sun, 28 Jun 2026 16:00:20 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=2sunLXT-XgM</guid>
             <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>Pendant les vagues de chaleur, pourquoi faut-il être particulièrement vigilant avec les intoxications alimentaires ?</title>
-            <link>https://theconversation.com/pendant-les-vagues-de-chaleur-pourquoi-faut-il-etre-particulierement-vigilant-avec-les-intoxications-alimentaires-288986</link>
-            <description><![CDATA[À partir de données madrilènes, des chercheurs espagnols ont estimé le risque accru d’hospitalisations pour intoxication alimentaire, lors des canicules, au-delà de certaines températures.]]></description>
-            <pubDate>Tue, 11 Aug 2026 08:38:27 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/pendant-les-vagues-de-chaleur-pourquoi-faut-il-etre-particulierement-vigilant-avec-les-intoxications-alimentaires-288986</guid>
-            <source>The Conversation Africa</source>
-        </item>
-        <item>
-            <title>Il coûte 2 000 € mais on se l’arrache quand même : le nouveau smartphone pliant de Samsung bat un record et se vend mieux que prévu. Voici les 2 détails qui font toute la différence</title>
-            <link>https://www.presse-citron.net/nouveau-smartphone-pliant-de-samsung-bat-un-record-et-se-vend-mieux-que-prevu/</link>
-            <description><![CDATA[Le Galaxy Z Fold8 se vend si bien que Samsung serait obligé de commander de nouvelles unités par rapport à ce qui était prévu pour satisfaire la demande.]]></description>
-            <pubDate>Tue, 11 Aug 2026 08:26:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/nouveau-smartphone-pliant-de-samsung-bat-un-record-et-se-vend-mieux-que-prevu/</guid>
-            <source>Presse-citron</source>
-        </item>
-        <item>
-            <title>Apple Reference Image : iOS 27 va identifier les photos prises par l’iPhone</title>
-            <link>https://iphoneaddict.fr/post/news-433201-apple-reference-image-ios-27-identifier-photos-prises-liphone</link>
-            <description><![CDATA[Apple développe « Apple Reference Image », un système de provenance destiné à prouver qu’une photo a bien été prise par un iPhone plutôt…
-Lire la suite…
-Facebook · X · iAddict
-L’article Apple Referenc...]]></description>
-            <pubDate>Tue, 11 Aug 2026 08:40:08 -0000</pubDate>
-            <guid isPermaLink="true">https://iphoneaddict.fr/post/news-433201-apple-reference-image-ios-27-identifier-photos-prises-liphone</guid>
-            <source>Iphoneaddict.fr</source>
         </item>
     </channel>
 </rss>
