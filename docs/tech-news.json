@@ -1,30 +1,6 @@
 {
-  "lastUpdate": "2026-08-13T09:16:08.748066",
+  "lastUpdate": "2026-08-14T09:10:45.455646",
   "articles": [
-    {
-      "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
-      "description": "Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...",
-      "url": "https://www.youtube.com/watch?v=0EsKXRhOYxM",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-06-22T15:04:54Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "0EsKXRhOYxM",
-      "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
-    },
-    {
-      "title": "ChatGPT débarque sur Linux, avec Codex et ChatGPT Work",
-      "description": "OpenAI propose désormais une application desktop ChatGPT pour Linux, disponible en préversion sur Ubuntu, Debian et Fedora.",
-      "url": "https://www.blogdumoderateur.com/chatgpt-debarque-sur-linux/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-08-12T08:38:07Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)",
       "description": "Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...",
@@ -38,16 +14,16 @@
       "thumbnail": "https://i.ytimg.com/vi/3J5VPpX2Jww/hqdefault.jpg"
     },
     {
-      "title": "Nvidia et Wall Street créent un fonds de 500 milliards de dollars pour financer l'infrastructure IA",
-      "description": "Pour soutenir le coût colossal du déploiement de l'intelligence artificielle, Nvidia s'associe à six géants de la finance mondiale. L'objectif de cette alliance à 500 milliards de dollars : transforme...",
-      "url": "https://www.zdnet.fr/actualites/nvidia-et-wall-street-creent-un-fonds-de-500-milliards-de-dollars-pour-financer-linfrastructure-ia-499697.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-08-11T07:08:20Z",
+      "title": "Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning",
+      "description": "Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...",
+      "url": "https://www.youtube.com/watch?v=PY_wRwL3Q0E",
+      "source": "Rafa Explique",
+      "publishedAt": "2026-07-15T16:07:36Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "PY_wRwL3Q0E",
+      "thumbnail": "https://i.ytimg.com/vi/PY_wRwL3Q0E/hqdefault.jpg"
     },
     {
       "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
@@ -122,6 +98,30 @@
       "thumbnail": "https://i.ytimg.com/vi/NURD13ukpQI/hqdefault.jpg"
     },
     {
+      "title": "Le codage des données UTF-8 #informatique #données #data #codage",
+      "description": "Le codage des données UTF-8 #informatique #données #data #codage Pourquoi certains sites affichent-ils des caractères ...",
+      "url": "https://www.youtube.com/watch?v=syxw4SZor-s",
+      "source": "Informatique ISTA",
+      "publishedAt": "2026-07-02T11:00:18Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "syxw4SZor-s",
+      "thumbnail": "https://i.ytimg.com/vi/syxw4SZor-s/hqdefault.jpg"
+    },
+    {
+      "title": "Une IA inspirée du cerveau sait planifier sans tout recalculer",
+      "description": "Une équipe internationale a développé un modèle d’intelligence artificielle capable de planifier des actions sans explorer systématiquement toutes les solutions possibles. Inspiré de mécanismes associ...",
+      "url": "https://www.techno-science.net/fr/actualites/ia-cerveau-planification-sans-recalcul-29153",
+      "source": "Techno-science.net",
+      "publishedAt": "2026-08-13T07:00:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant",
       "description": "Formation SQL Débutant avec PostgreSQL et VS Code | Vidéo 1 : Introduction à SQL Bienvenue dans cette première vidéo de ...",
       "url": "https://www.youtube.com/watch?v=3AUqD4ZwGts",
@@ -134,16 +134,16 @@
       "thumbnail": "https://i.ytimg.com/vi/3AUqD4ZwGts/hqdefault.jpg"
     },
     {
-      "title": "Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)",
-      "description": "Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...",
-      "url": "https://www.youtube.com/watch?v=2A5rNESVS9w",
-      "source": "AMVOULA Naïsia ",
-      "publishedAt": "2026-06-14T14:37:38Z",
+      "title": "Power BI – Les Fondamentaux de l’Analyse de Données",
+      "description": "Lien ci-dessous de la formation complète: https://www.udemy.com/course/power-bi-les-fondamentaux-de-lanalyse-de-donnees/ ...",
+      "url": "https://www.youtube.com/watch?v=ehS30jop0RE",
+      "source": "Formations",
+      "publishedAt": "2026-07-14T13:56:17Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "2A5rNESVS9w",
-      "thumbnail": "https://i.ytimg.com/vi/2A5rNESVS9w/hqdefault.jpg"
+      "videoId": "ehS30jop0RE",
+      "thumbnail": "https://i.ytimg.com/vi/ehS30jop0RE/hqdefault.jpg"
     },
     {
       "title": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data",
@@ -158,16 +158,28 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
-      "title": "Comment créer une pyramide des âges sur Power BI ?",
-      "description": "Retrouvez la vidéo juste ici : https://www.youtube.com/watch?v=v0Z8TMkAbaE Testez votre niveau sur PowerBI et recevez des ...",
-      "url": "https://www.youtube.com/watch?v=rDVtYMoa_Ok",
-      "source": "Morpheus Formation | Excel, Power BI, Data",
-      "publishedAt": "2026-08-04T16:30:12Z",
+      "title": "Découvrez notre formation sur Power BI #data #powerbi",
+      "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
+      "url": "https://www.youtube.com/watch?v=5XRR3C0nQLg",
+      "source": "OpenClassrooms en Français",
+      "publishedAt": "2026-07-21T05:30:15Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "rDVtYMoa_Ok",
-      "thumbnail": "https://i.ytimg.com/vi/rDVtYMoa_Ok/hqdefault.jpg"
+      "videoId": "5XRR3C0nQLg",
+      "thumbnail": "https://i.ytimg.com/vi/5XRR3C0nQLg/hqdefault.jpg"
+    },
+    {
+      "title": "Quantinuum et Oracle s'associent pour accélérer l'adoption de l'informatique quantique hybride sur Oracle Cloud Infrastructure",
+      "description": "Helios, l'ordinateur quantique le plus avancé de Quantinuum, sera déployé dans un centre de données IA OCI situé aux États-Unis, afin de permettre l'exécution de charges de travail hybrides combinant ...",
+      "url": "https://www.prnewswire.com/news-releases/quantinuum-et-oracle-sassocient-pour-accelerer-ladoption-de-linformatique-quantique-hybride-sur-oracle-cloud-infrastructure-302849739.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-08-12T13:10:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Comment créer une base de données avec le langage SQL ?",
@@ -182,54 +194,6 @@
       "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
-      "title": "Projet SUMAC - 1 : observations brutes",
-      "description": "Les métadonnées des observations brutes collectées dans le cadre de l’acquisition aérienne digitale de données relatives aux Macreuses noires et autres oiseaux côtiers dans le Parc naturel marin de l’...",
-      "url": "https://www.data.gouv.fr/datasets/projet-sumac-1-observations-brutes-1",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-08-12T00:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Programme de la fête de la science 2026 en Occitanie",
-      "description": "Ce jeu de données présente l'ensemble des événements organisés partout en Occitanie pour la Fête de la science 2026 qui aura lieu du **2 au 12 octobre** : animations, expositions, débats et d'initiati...",
-      "url": "https://www.data.gouv.fr/datasets/programme-de-la-fete-de-la-science-2026-en-occitanie",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-08-11T14:30:13Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Projet SUMAC - 4 : densités moyennes estimées par krigeage",
-      "description": "Les métadonnées des densités relatives estimées par krigeage sont présentées ci-dessous. \n\nLe krigeage est une méthode d'interpolation spatiale qui permet d'estimer la distribution d’une variable dans...",
-      "url": "https://www.data.gouv.fr/datasets/projet-sumac-4-densites-moyennes-estimees-par-krigeage",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-08-12T00:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Face aux IA, Apple dégaine son arme secrète pour authentifier les photos",
-      "description": "Découvert dans la bêta d’iOS 27, le système « Apple Reference Image » permettra de prouver l'origine d'une photo prise avec un iPhone. En activant un mode dédié, les clichés embarqueront des données d...",
-      "url": "https://www.generation-nt.com/actualites/apple-iphone-photo-authentification-ia-ios-27-2079698",
-      "source": "Génération NT",
-      "publishedAt": "2026-08-12T09:10:01Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Data Analyst avec Python | Introduction complète à Python | Tutoriel complet",
       "description": "Maîtrise Python pour la DATA : https://store.ledecodeur.fr/formation-python Mes ressources : https://linktr.ee/ledecodeur Liens ...",
       "url": "https://www.youtube.com/watch?v=2sunLXT-XgM",
@@ -242,11 +206,35 @@
       "thumbnail": "https://i.ytimg.com/vi/2sunLXT-XgM/hqdefault.jpg"
     },
     {
-      "title": "iOS 27 tease davantage d’IA avec un abonnement iCloud+ plus cher",
-      "description": "La bêta 5 d’iOS 27 confirme que l’accès à certaines fonctions d’intelligence artificielle en lien avec Apple Intelligence dépend directement du forfait iCloud+ souscrit…\nLire la suite…\nFacebook · X · ...",
-      "url": "https://iphoneaddict.fr/post/news-433286-ios-27-tease-davantage-dia-abonnement-icloud-plus-cher",
-      "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-08-12T07:19:44Z",
+      "title": "Cours complet DBT (databuildtool) | Projet ELT complet",
+      "description": "Maîtrise les compétences DATA essentielles : https://store.ledecodeur.fr/ Télécharge dbt : https://www.getdbt.com/ Rejoins moi sur ...",
+      "url": "https://www.youtube.com/watch?v=NT9WII_rHdE",
+      "source": "Le Decodeur",
+      "publishedAt": "2026-06-21T14:04:06Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "NT9WII_rHdE",
+      "thumbnail": "https://i.ytimg.com/vi/NT9WII_rHdE/hqdefault.jpg"
+    },
+    {
+      "title": "Python pour la data : Le guide du débutant",
+      "description": "La vidéo intitulée \"Python : Le guide du débutant\" est une présentation visuelle conçue pour vous introduire aux fondements de ...",
+      "url": "https://www.youtube.com/watch?v=s6yhACGTANI",
+      "source": "Eco_sta_tech",
+      "publishedAt": "2026-06-30T07:58:21Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "s6yhACGTANI",
+      "thumbnail": "https://i.ytimg.com/vi/s6yhACGTANI/hqdefault.jpg"
+    },
+    {
+      "title": "Pudu Robotics lance le PUDU ET1, un robot laveur-sécheur compact doté d'une IA native, destiné aux petits espaces commerciaux",
+      "description": "SHENZHEN, Chine, 12 août 2026 /PRNewswire/ -- Pudu Robotics, leader mondial de la robotique de service commerciale, a lancé le PUDU ET1, un robot laveur-sécheur compact doté d'une intelligence artific...",
+      "url": "https://www.prnewswire.com/news-releases/pudu-robotics-lance-le-pudu-et1-un-robot-laveur-secheur-compact-dote-dune-ia-native-destine-aux-petits-espaces-commerciaux-302850060.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-08-12T19:10:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Spotify ne veut plus mettre en avant les « artistes IA » : voici ce qui va changer",
-      "description": "Spotify veut aider ses utilisateurs à distinguer les artistes humains des créations générées par intelligence artificielle. Pour ce faire, la plateforme de streaming musical va déployer un badge desti...",
-      "url": "https://www.frandroid.com/services/streaming-musical/3209465_spotify-ne-veut-plus-mettre-en-avant-les-artistes-ia-voici-ce-qui-va-changer",
-      "source": "Frandroid",
-      "publishedAt": "2026-08-12T07:39:59Z",
+      "title": "SpaceXAI frappe fort avec Grok 4.6, aussi performant que ses rivaux mais deux fois moins cher",
+      "description": "SpaceXAI, l'entreprise d'intelligence artificielle d'Elon Musk, présente son nouveau modèle Grok 4.6, qui affiche des résultats proches de ceux d'Anthropic et d'OpenAI, tout en proposant une tarificat...",
+      "url": "https://www.tomshardware.fr/spacexai-frappe-fort-avec-grok-4-6-aussi-performant-que-ses-rivaux-mais-deux-fois-moins-cher/",
+      "source": "Tomshardware.fr",
+      "publishedAt": "2026-08-13T06:23:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,23 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Via ses résumés IA, Google a un \"droit de vie ou de mort\" sur les médias, condamne le directeur général de \"La Dépêche\"",
-      "description": "L'Alliance de la presse d'information générale a saisi l'Autorité de la concurrence pour dénoncer le déploiement par Google de ces résumés.",
-      "url": "https://www.franceinfo.fr/internet/google/via-ses-resumes-ia-google-a-un-droit-de-vie-ou-de-mort-sur-les-medias-condamne-le-directeur-general-de-la-depeche_8144249.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-08-12T07:34:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L'IA a déjà changé les règles du piratage. L'Europe est-elle prête ?",
-      "description": "Les cybercriminels frappent désormais avant même la publication des failles grâce à l'IA. Trop lente, l'Europe doit-elle céder aux outils étrangers ou créer son IA souveraine ? Découvrez les enjeux.",
-      "url": "https://www.journaldunet.com/cybersecurite/1553617-l-ia-a-deja-change-les-regles-du-piratage-l-europe-est-elle-prete/",
+      "title": "L'IA ne va pas supprimer les emplois, mais façonner à nouveau l'économie",
+      "description": "Le récent Baromètre mondial de l'emploi dans le domaine de l'IA 2026 de PwC a révélé que l'Intelligence artificielle (IA) divise le marché du travail mondial en deux voies distinctes.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1553639-l-ia-ne-va-pas-supprimer-les-emplois-mais-faconner-a-nouveau-l-economie/",
       "source": "JDN",
-      "publishedAt": "2026-08-12T07:37:51Z",
+      "publishedAt": "2026-08-13T08:22:34Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,12 +266,24 @@
       "thumbnail": ""
     },
     {
-      "title": "CATL vs BYD : le démontage de la Xiaomi SU7 révèle ce qui sépare les deux géants",
-      "description": "Des experts indépendants ont démonté la batterie de la Xiaomi SU7, fournie par le leader mondial CATL. L’occasion de voir les différences avec la technologie du géant de la voiture électrique, BYD.",
-      "url": "https://www.frandroid.com/marques/xiaomi/3209459_catl-vs-byd-le-demontage-de-la-xiaomi-su7-revele-ce-qui-separe-les-deux-geants",
-      "source": "Frandroid",
-      "publishedAt": "2026-08-12T08:48:15Z",
-      "category": "innovation",
+      "title": "Retour d’expérience : comment grâce à « Record a skill » de Claude, j'ai réduit mes recherches de plusieurs heures à 30 minutes",
+      "description": "J'ai utilisé l’outil d’intelligence artificielle Cowork d’Anthropic pour automatiser un flux de travail, et le résultat s'est avéré remarquablement efficace, mais cela a mis en évidence quatre inconvé...",
+      "url": "https://www.zdnet.fr/pratique/retour-dexperience-comment-grace-a-record-a-skill-de-claude-jai-reduit-mes-recherches-de-plusieurs-heures-a-30-minutes-499770.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-08-13T08:08:18Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Apple négocie avec les médias pour alimenter Siri AI en contenu",
+      "description": "Apple discute avec plusieurs médias pour intégrer leurs contenus à Siri AI. Le budget pour ces accords pourrait atteindre neuf chiffres selon le Wall…\nLire la suite…\nFacebook · X · iAddict\nL’article A...",
+      "url": "https://iphoneaddict.fr/post/news-433378-apple-negocie-medias-alimenter-siri-ai-contenu",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-08-13T08:25:38Z",
+      "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",

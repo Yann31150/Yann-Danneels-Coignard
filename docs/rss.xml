@@ -5,29 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 13 Aug 2026 09:16:08 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 09:10:45 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)</title>
-            <link>https://www.youtube.com/watch?v=0EsKXRhOYxM</link>
-            <description><![CDATA[Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...]]></description>
-            <pubDate>Mon, 22 Jun 2026 15:04:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=0EsKXRhOYxM</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>ChatGPT débarque sur Linux, avec Codex et ChatGPT Work</title>
-            <link>https://www.blogdumoderateur.com/chatgpt-debarque-sur-linux/</link>
-            <description><![CDATA[OpenAI propose désormais une application desktop ChatGPT pour Linux, disponible en préversion sur Ubuntu, Debian et Fedora.]]></description>
-            <pubDate>Wed, 12 Aug 2026 08:38:07 -0000</pubDate>
-            <guid isPermaLink="true">https://www.blogdumoderateur.com/chatgpt-debarque-sur-linux/</guid>
-            <source>Blogdumoderateur.com</source>
-        </item>
         <item>
             <title>NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)</title>
             <link>https://www.youtube.com/watch?v=3J5VPpX2Jww</link>
@@ -37,12 +21,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Nvidia et Wall Street créent un fonds de 500 milliards de dollars pour financer l'infrastructure IA</title>
-            <link>https://www.zdnet.fr/actualites/nvidia-et-wall-street-creent-un-fonds-de-500-milliards-de-dollars-pour-financer-linfrastructure-ia-499697.htm</link>
-            <description><![CDATA[Pour soutenir le coût colossal du déploiement de l'intelligence artificielle, Nvidia s'associe à six géants de la finance mondiale. L'objectif de cette alliance à 500 milliards de dollars : transforme...]]></description>
-            <pubDate>Tue, 11 Aug 2026 07:08:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/nvidia-et-wall-street-creent-un-fonds-de-500-milliards-de-dollars-pour-financer-linfrastructure-ia-499697.htm</guid>
-            <source>ZDNet France</source>
+            <title>Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning</title>
+            <link>https://www.youtube.com/watch?v=PY_wRwL3Q0E</link>
+            <description><![CDATA[Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...]]></description>
+            <pubDate>Wed, 15 Jul 2026 16:07:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=PY_wRwL3Q0E</guid>
+            <source>Rafa Explique</source>
         </item>
         <item>
             <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
@@ -93,6 +77,22 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
+            <title>Le codage des données UTF-8 #informatique #données #data #codage</title>
+            <link>https://www.youtube.com/watch?v=syxw4SZor-s</link>
+            <description><![CDATA[Le codage des données UTF-8 #informatique #données #data #codage Pourquoi certains sites affichent-ils des caractères ...]]></description>
+            <pubDate>Thu, 02 Jul 2026 11:00:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=syxw4SZor-s</guid>
+            <source>Informatique ISTA</source>
+        </item>
+        <item>
+            <title>Une IA inspirée du cerveau sait planifier sans tout recalculer</title>
+            <link>https://www.techno-science.net/fr/actualites/ia-cerveau-planification-sans-recalcul-29153</link>
+            <description><![CDATA[Une équipe internationale a développé un modèle d’intelligence artificielle capable de planifier des actions sans explorer systématiquement toutes les solutions possibles. Inspiré de mécanismes associ...]]></description>
+            <pubDate>Thu, 13 Aug 2026 07:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.techno-science.net/fr/actualites/ia-cerveau-planification-sans-recalcul-29153</guid>
+            <source>Techno-science.net</source>
+        </item>
+        <item>
             <title>Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant</title>
             <link>https://www.youtube.com/watch?v=3AUqD4ZwGts</link>
             <description><![CDATA[Formation SQL Débutant avec PostgreSQL et VS Code | Vidéo 1 : Introduction à SQL Bienvenue dans cette première vidéo de ...]]></description>
@@ -101,12 +101,12 @@
             <source>Ceemtic Analytics</source>
         </item>
         <item>
-            <title>Comment créer un Dataset réaliste pour vos projets Data ? (Excel, Power BI, SQL)</title>
-            <link>https://www.youtube.com/watch?v=2A5rNESVS9w</link>
-            <description><![CDATA[Dans cette vidéo, je vous montre pas à pas comment générer un jeu de données (dataset) 100 % réaliste pour vos projets ...]]></description>
-            <pubDate>Sun, 14 Jun 2026 14:37:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2A5rNESVS9w</guid>
-            <source>AMVOULA Naïsia </source>
+            <title>Power BI – Les Fondamentaux de l’Analyse de Données</title>
+            <link>https://www.youtube.com/watch?v=ehS30jop0RE</link>
+            <description><![CDATA[Lien ci-dessous de la formation complète: https://www.udemy.com/course/power-bi-les-fondamentaux-de-lanalyse-de-donnees/ ...]]></description>
+            <pubDate>Tue, 14 Jul 2026 13:56:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ehS30jop0RE</guid>
+            <source>Formations</source>
         </item>
         <item>
             <title>Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data</title>
@@ -117,12 +117,20 @@
             <source>Mikail Altundas</source>
         </item>
         <item>
-            <title>Comment créer une pyramide des âges sur Power BI ?</title>
-            <link>https://www.youtube.com/watch?v=rDVtYMoa_Ok</link>
-            <description><![CDATA[Retrouvez la vidéo juste ici : https://www.youtube.com/watch?v=v0Z8TMkAbaE Testez votre niveau sur PowerBI et recevez des ...]]></description>
-            <pubDate>Tue, 04 Aug 2026 16:30:12 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=rDVtYMoa_Ok</guid>
-            <source>Morpheus Formation | Excel, Power BI, Data</source>
+            <title>Découvrez notre formation sur Power BI #data #powerbi</title>
+            <link>https://www.youtube.com/watch?v=5XRR3C0nQLg</link>
+            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
+            <pubDate>Tue, 21 Jul 2026 05:30:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=5XRR3C0nQLg</guid>
+            <source>OpenClassrooms en Français</source>
+        </item>
+        <item>
+            <title>Quantinuum et Oracle s'associent pour accélérer l'adoption de l'informatique quantique hybride sur Oracle Cloud Infrastructure</title>
+            <link>https://www.prnewswire.com/news-releases/quantinuum-et-oracle-sassocient-pour-accelerer-ladoption-de-linformatique-quantique-hybride-sur-oracle-cloud-infrastructure-302849739.html</link>
+            <description><![CDATA[Helios, l'ordinateur quantique le plus avancé de Quantinuum, sera déployé dans un centre de données IA OCI situé aux États-Unis, afin de permettre l'exécution de charges de travail hybrides combinant ...]]></description>
+            <pubDate>Wed, 12 Aug 2026 13:10:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/quantinuum-et-oracle-sassocient-pour-accelerer-ladoption-de-linformatique-quantique-hybride-sur-oracle-cloud-infrastructure-302849739.html</guid>
+            <source>PRNewswire</source>
         </item>
         <item>
             <title>Comment créer une base de données avec le langage SQL ?</title>
@@ -133,46 +141,36 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Projet SUMAC - 1 : observations brutes</title>
-            <link>https://www.data.gouv.fr/datasets/projet-sumac-1-observations-brutes-1</link>
-            <description><![CDATA[Les métadonnées des observations brutes collectées dans le cadre de l’acquisition aérienne digitale de données relatives aux Macreuses noires et autres oiseaux côtiers dans le Parc naturel marin de l’...]]></description>
-            <pubDate>Wed, 12 Aug 2026 00:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/projet-sumac-1-observations-brutes-1</guid>
-            <source>Gouv.fr</source>
-        </item>
-        <item>
-            <title>Programme de la fête de la science 2026 en Occitanie</title>
-            <link>https://www.data.gouv.fr/datasets/programme-de-la-fete-de-la-science-2026-en-occitanie</link>
-            <description><![CDATA[Ce jeu de données présente l'ensemble des événements organisés partout en Occitanie pour la Fête de la science 2026 qui aura lieu du **2 au 12 octobre** : animations, expositions, débats et d'initiati...]]></description>
-            <pubDate>Tue, 11 Aug 2026 14:30:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/programme-de-la-fete-de-la-science-2026-en-occitanie</guid>
-            <source>Gouv.fr</source>
-        </item>
-        <item>
-            <title>Projet SUMAC - 4 : densités moyennes estimées par krigeage</title>
-            <link>https://www.data.gouv.fr/datasets/projet-sumac-4-densites-moyennes-estimees-par-krigeage</link>
-            <description><![CDATA[Les métadonnées des densités relatives estimées par krigeage sont présentées ci-dessous. 
-
-Le krigeage est une méthode d'interpolation spatiale qui permet d'estimer la distribution d’une variable dans...]]></description>
-            <pubDate>Wed, 12 Aug 2026 00:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/projet-sumac-4-densites-moyennes-estimees-par-krigeage</guid>
-            <source>Gouv.fr</source>
-        </item>
-        <item>
-            <title>Face aux IA, Apple dégaine son arme secrète pour authentifier les photos</title>
-            <link>https://www.generation-nt.com/actualites/apple-iphone-photo-authentification-ia-ios-27-2079698</link>
-            <description><![CDATA[Découvert dans la bêta d’iOS 27, le système « Apple Reference Image » permettra de prouver l'origine d'une photo prise avec un iPhone. En activant un mode dédié, les clichés embarqueront des données d...]]></description>
-            <pubDate>Wed, 12 Aug 2026 09:10:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/apple-iphone-photo-authentification-ia-ios-27-2079698</guid>
-            <source>Génération NT</source>
-        </item>
-        <item>
             <title>Data Analyst avec Python | Introduction complète à Python | Tutoriel complet</title>
             <link>https://www.youtube.com/watch?v=2sunLXT-XgM</link>
             <description><![CDATA[Maîtrise Python pour la DATA : https://store.ledecodeur.fr/formation-python Mes ressources : https://linktr.ee/ledecodeur Liens ...]]></description>
             <pubDate>Sun, 28 Jun 2026 16:00:20 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=2sunLXT-XgM</guid>
             <source>Le Decodeur</source>
+        </item>
+        <item>
+            <title>Cours complet DBT (databuildtool) | Projet ELT complet</title>
+            <link>https://www.youtube.com/watch?v=NT9WII_rHdE</link>
+            <description><![CDATA[Maîtrise les compétences DATA essentielles : https://store.ledecodeur.fr/ Télécharge dbt : https://www.getdbt.com/ Rejoins moi sur ...]]></description>
+            <pubDate>Sun, 21 Jun 2026 14:04:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=NT9WII_rHdE</guid>
+            <source>Le Decodeur</source>
+        </item>
+        <item>
+            <title>Python pour la data : Le guide du débutant</title>
+            <link>https://www.youtube.com/watch?v=s6yhACGTANI</link>
+            <description><![CDATA[La vidéo intitulée "Python : Le guide du débutant" est une présentation visuelle conçue pour vous introduire aux fondements de ...]]></description>
+            <pubDate>Tue, 30 Jun 2026 07:58:21 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=s6yhACGTANI</guid>
+            <source>Eco_sta_tech</source>
+        </item>
+        <item>
+            <title>Pudu Robotics lance le PUDU ET1, un robot laveur-sécheur compact doté d'une IA native, destiné aux petits espaces commerciaux</title>
+            <link>https://www.prnewswire.com/news-releases/pudu-robotics-lance-le-pudu-et1-un-robot-laveur-secheur-compact-dote-dune-ia-native-destine-aux-petits-espaces-commerciaux-302850060.html</link>
+            <description><![CDATA[SHENZHEN, Chine, 12 août 2026 /PRNewswire/ -- Pudu Robotics, leader mondial de la robotique de service commerciale, a lancé le PUDU ET1, un robot laveur-sécheur compact doté d'une intelligence artific...]]></description>
+            <pubDate>Wed, 12 Aug 2026 19:10:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/pudu-robotics-lance-le-pudu-et1-un-robot-laveur-secheur-compact-dote-dune-ia-native-destine-aux-petits-espaces-commerciaux-302850060.html</guid>
+            <source>PRNewswire</source>
         </item>
     </channel>
 </rss>
