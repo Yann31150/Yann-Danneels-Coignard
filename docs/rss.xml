@@ -5,13 +5,21 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 14 Aug 2026 09:10:45 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 08:33:29 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)</title>
+            <link>https://www.youtube.com/watch?v=0EsKXRhOYxM</link>
+            <description><![CDATA[Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...]]></description>
+            <pubDate>Mon, 22 Jun 2026 15:04:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=0EsKXRhOYxM</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
         <item>
             <title>NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)</title>
             <link>https://www.youtube.com/watch?v=3J5VPpX2Jww</link>
@@ -21,12 +29,15 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning</title>
-            <link>https://www.youtube.com/watch?v=PY_wRwL3Q0E</link>
-            <description><![CDATA[Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...]]></description>
-            <pubDate>Wed, 15 Jul 2026 16:07:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=PY_wRwL3Q0E</guid>
-            <source>Rafa Explique</source>
+            <title>Apple entraîne son propre modèle d’IA pour la Chine avec Alibaba</title>
+            <link>https://iphoneaddict.fr/post/news-433445-apple-entraine-propre-modele-dia-chine-alibaba</link>
+            <description><![CDATA[Apple entraîne son propre grand modèle de langage (LLM) pour la Chine, en partenariat avec Alibaba. Cette manœuvre fait d’Apple le premier groupe étranger…
+Lire la suite…
+Facebook · X · iAddict
+L’arti...]]></description>
+            <pubDate>Fri, 14 Aug 2026 06:11:28 -0000</pubDate>
+            <guid isPermaLink="true">https://iphoneaddict.fr/post/news-433445-apple-entraine-propre-modele-dia-chine-alibaba</guid>
+            <source>Iphoneaddict.fr</source>
         </item>
         <item>
             <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
@@ -61,6 +72,14 @@
             <source>How AI Works?</source>
         </item>
         <item>
+            <title>8,6 milliards de profils pour simuler l’humanité : la nouvelle matrice IA, super outil ou méga illusion ?</title>
+            <link>https://atlantico.fr/article/decryptage/8-6-milliards-de-profils-pour-simuler-lhumanite-la-nouvelle-matrice-ia-super-outil-ou-mega-illusion-donnees-nouvelles-technologies-controle-social-intelligence-artificielle-Laurence-Devillers</link>
+            <description><![CDATA[Et si l’intelligence artificielle pouvait simuler les réactions de milliards d’humains face à un prix, un message ou une interface ? MatrAIx revendique 8,3 milliards de profils construits à partir de ...]]></description>
+            <pubDate>Fri, 14 Aug 2026 08:31:00 -0000</pubDate>
+            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/8-6-milliards-de-profils-pour-simuler-lhumanite-la-nouvelle-matrice-ia-super-outil-ou-mega-illusion-donnees-nouvelles-technologies-controle-social-intelligence-artificielle-Laurence-Devillers</guid>
+            <source>Atlantico.fr</source>
+        </item>
+        <item>
             <title>Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet</title>
             <link>https://www.youtube.com/watch?v=x7Nh0RKEoxg</link>
             <description><![CDATA[Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...]]></description>
@@ -77,36 +96,12 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Le codage des données UTF-8 #informatique #données #data #codage</title>
-            <link>https://www.youtube.com/watch?v=syxw4SZor-s</link>
-            <description><![CDATA[Le codage des données UTF-8 #informatique #données #data #codage Pourquoi certains sites affichent-ils des caractères ...]]></description>
-            <pubDate>Thu, 02 Jul 2026 11:00:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=syxw4SZor-s</guid>
-            <source>Informatique ISTA</source>
-        </item>
-        <item>
-            <title>Une IA inspirée du cerveau sait planifier sans tout recalculer</title>
-            <link>https://www.techno-science.net/fr/actualites/ia-cerveau-planification-sans-recalcul-29153</link>
-            <description><![CDATA[Une équipe internationale a développé un modèle d’intelligence artificielle capable de planifier des actions sans explorer systématiquement toutes les solutions possibles. Inspiré de mécanismes associ...]]></description>
-            <pubDate>Thu, 13 Aug 2026 07:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.techno-science.net/fr/actualites/ia-cerveau-planification-sans-recalcul-29153</guid>
-            <source>Techno-science.net</source>
-        </item>
-        <item>
             <title>Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant</title>
             <link>https://www.youtube.com/watch?v=3AUqD4ZwGts</link>
             <description><![CDATA[Formation SQL Débutant avec PostgreSQL et VS Code | Vidéo 1 : Introduction à SQL Bienvenue dans cette première vidéo de ...]]></description>
             <pubDate>Tue, 30 Jun 2026 21:01:55 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=3AUqD4ZwGts</guid>
             <source>Ceemtic Analytics</source>
-        </item>
-        <item>
-            <title>Power BI – Les Fondamentaux de l’Analyse de Données</title>
-            <link>https://www.youtube.com/watch?v=ehS30jop0RE</link>
-            <description><![CDATA[Lien ci-dessous de la formation complète: https://www.udemy.com/course/power-bi-les-fondamentaux-de-lanalyse-de-donnees/ ...]]></description>
-            <pubDate>Tue, 14 Jul 2026 13:56:17 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ehS30jop0RE</guid>
-            <source>Formations</source>
         </item>
         <item>
             <title>Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data</title>
@@ -125,11 +120,11 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Quantinuum et Oracle s'associent pour accélérer l'adoption de l'informatique quantique hybride sur Oracle Cloud Infrastructure</title>
-            <link>https://www.prnewswire.com/news-releases/quantinuum-et-oracle-sassocient-pour-accelerer-ladoption-de-linformatique-quantique-hybride-sur-oracle-cloud-infrastructure-302849739.html</link>
-            <description><![CDATA[Helios, l'ordinateur quantique le plus avancé de Quantinuum, sera déployé dans un centre de données IA OCI situé aux États-Unis, afin de permettre l'exécution de charges de travail hybrides combinant ...]]></description>
-            <pubDate>Wed, 12 Aug 2026 13:10:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/quantinuum-et-oracle-sassocient-pour-accelerer-ladoption-de-linformatique-quantique-hybride-sur-oracle-cloud-infrastructure-302849739.html</guid>
+            <title>Stanbic IBTC Bank renforce ses capacités de services bancaires transactionnels grâce à la mise à niveau vers la version 9.0 de FinnAxia® de Nucleus Software</title>
+            <link>https://www.prnewswire.com/news-releases/stanbic-ibtc-bank-renforce-ses-capacites-de-services-bancaires-transactionnels-grace-a-la-mise-a-niveau-vers-la-version-9-0-de-finnaxia-de-nucleus-software-302851664.html</link>
+            <description><![CDATA[LAGOS, Nigeria, 14 août 2026 /PRNewswire/ -- Stanbic IBTC Bank, membre du Standard Bank Group, et Nucleus Software, l'un des principaux fournisseurs de solutions de crédit et de services bancaires tra...]]></description>
+            <pubDate>Fri, 14 Aug 2026 06:56:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/stanbic-ibtc-bank-renforce-ses-capacites-de-services-bancaires-transactionnels-grace-a-la-mise-a-niveau-vers-la-version-9-0-de-finnaxia-de-nucleus-software-302851664.html</guid>
             <source>PRNewswire</source>
         </item>
         <item>
@@ -141,36 +136,44 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
+            <title>RingConn fait progresser la recherche sur les objets de santé connectés avec une nouvelle étude parue dans Nature Portfolio Journal npj Digital Medicine</title>
+            <link>https://www.prnewswire.com/news-releases/ringconn-fait-progresser-la-recherche-sur-les-objets-de-sante-connectes-avec-une-nouvelle-etude-parue-dans-nature-portfolio-journal-npj-digital-medicine-302850762.html</link>
+            <description><![CDATA[L'étude intitulée « Large-scale bilateral cardiovascular monitoring via wearable rings » analyse 97 559 échantillons valides de bagues PPG provenant de 1 810 participants, fournissant de nouvelles per...]]></description>
+            <pubDate>Thu, 13 Aug 2026 10:38:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/ringconn-fait-progresser-la-recherche-sur-les-objets-de-sante-connectes-avec-une-nouvelle-etude-parue-dans-nature-portfolio-journal-npj-digital-medicine-302850762.html</guid>
+            <source>PRNewswire</source>
+        </item>
+        <item>
+            <title>Ewan McGregor fait encore du forcing pour Obi-Wan et ça devient ridicule</title>
+            <link>https://www.numerama.com/tech/2310969-ewan-mcgregor-fait-encore-du-forcing-pour-obi-wan-et-ca-devient-ridicule.html</link>
+            <description><![CDATA[Sur le tapis rouge de son dernier film, l'acteur britannique Ewan McGregor a de nouveau interpellé directement la firme aux grandes oreilles pour réclamer une suite aux aventures de son maître Jedi Ob...]]></description>
+            <pubDate>Thu, 13 Aug 2026 12:09:25 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/tech/2310969-ewan-mcgregor-fait-encore-du-forcing-pour-obi-wan-et-ca-devient-ridicule.html</guid>
+            <source>Numerama</source>
+        </item>
+        <item>
+            <title>TDAH : 6 croyances très répandues que les scientifiques démontent une par une</title>
+            <link>https://www.futura-sciences.com/sciences/actualites/series-ete-tdah-6-croyances-tres-repandues-scientifiques-demontent-136224/</link>
+            <description><![CDATA[« Ce n’est pas un vrai trouble », « c’est à la mode », « c’est le manque d’éducation », « les médicaments rendent accros »… Autour du TDAH, les idées reçues circulent plus vite que les données scienti...]]></description>
+            <pubDate>Thu, 13 Aug 2026 13:01:23 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/series-ete-tdah-6-croyances-tres-repandues-scientifiques-demontent-136224/</guid>
+            <source>Futura</source>
+        </item>
+        <item>
+            <title>Photo de l’éclipse : on a percé à jour la petite triche du Xiaomi 17 Ultra qui confond la Lune et le Soleil</title>
+            <link>https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil</link>
+            <description><![CDATA[Quand nous avons photographié l'éclipse du 12 août avec le Xiaomi 17 Ultra, ce dernier a confondu la Lune et le Soleil. Cela s'explique par une astuce connue des smartphones, mais qui a bien raté ici.]]></description>
+            <pubDate>Fri, 14 Aug 2026 05:02:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil</guid>
+            <source>Frandroid</source>
+        </item>
+        <item>
             <title>Data Analyst avec Python | Introduction complète à Python | Tutoriel complet</title>
             <link>https://www.youtube.com/watch?v=2sunLXT-XgM</link>
             <description><![CDATA[Maîtrise Python pour la DATA : https://store.ledecodeur.fr/formation-python Mes ressources : https://linktr.ee/ledecodeur Liens ...]]></description>
             <pubDate>Sun, 28 Jun 2026 16:00:20 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=2sunLXT-XgM</guid>
             <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>Cours complet DBT (databuildtool) | Projet ELT complet</title>
-            <link>https://www.youtube.com/watch?v=NT9WII_rHdE</link>
-            <description><![CDATA[Maîtrise les compétences DATA essentielles : https://store.ledecodeur.fr/ Télécharge dbt : https://www.getdbt.com/ Rejoins moi sur ...]]></description>
-            <pubDate>Sun, 21 Jun 2026 14:04:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=NT9WII_rHdE</guid>
-            <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>Python pour la data : Le guide du débutant</title>
-            <link>https://www.youtube.com/watch?v=s6yhACGTANI</link>
-            <description><![CDATA[La vidéo intitulée "Python : Le guide du débutant" est une présentation visuelle conçue pour vous introduire aux fondements de ...]]></description>
-            <pubDate>Tue, 30 Jun 2026 07:58:21 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=s6yhACGTANI</guid>
-            <source>Eco_sta_tech</source>
-        </item>
-        <item>
-            <title>Pudu Robotics lance le PUDU ET1, un robot laveur-sécheur compact doté d'une IA native, destiné aux petits espaces commerciaux</title>
-            <link>https://www.prnewswire.com/news-releases/pudu-robotics-lance-le-pudu-et1-un-robot-laveur-secheur-compact-dote-dune-ia-native-destine-aux-petits-espaces-commerciaux-302850060.html</link>
-            <description><![CDATA[SHENZHEN, Chine, 12 août 2026 /PRNewswire/ -- Pudu Robotics, leader mondial de la robotique de service commerciale, a lancé le PUDU ET1, un robot laveur-sécheur compact doté d'une intelligence artific...]]></description>
-            <pubDate>Wed, 12 Aug 2026 19:10:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/pudu-robotics-lance-le-pudu-et1-un-robot-laveur-secheur-compact-dote-dune-ia-native-destine-aux-petits-espaces-commerciaux-302850060.html</guid>
-            <source>PRNewswire</source>
         </item>
     </channel>
 </rss>

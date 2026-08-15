@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-08-14T09:10:45.455646",
+  "lastUpdate": "2026-08-15T08:33:29.950229",
   "articles": [
+    {
+      "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
+      "description": "Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...",
+      "url": "https://www.youtube.com/watch?v=0EsKXRhOYxM",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-06-22T15:04:54Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "0EsKXRhOYxM",
+      "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
+    },
     {
       "title": "NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)",
       "description": "Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...",
@@ -14,16 +26,16 @@
       "thumbnail": "https://i.ytimg.com/vi/3J5VPpX2Jww/hqdefault.jpg"
     },
     {
-      "title": "Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning",
-      "description": "Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...",
-      "url": "https://www.youtube.com/watch?v=PY_wRwL3Q0E",
-      "source": "Rafa Explique",
-      "publishedAt": "2026-07-15T16:07:36Z",
+      "title": "Apple entraîne son propre modèle d’IA pour la Chine avec Alibaba",
+      "description": "Apple entraîne son propre grand modèle de langage (LLM) pour la Chine, en partenariat avec Alibaba. Cette manœuvre fait d’Apple le premier groupe étranger…\nLire la suite…\nFacebook · X · iAddict\nL’arti...",
+      "url": "https://iphoneaddict.fr/post/news-433445-apple-entraine-propre-modele-dia-chine-alibaba",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-08-14T06:11:28Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "PY_wRwL3Q0E",
-      "thumbnail": "https://i.ytimg.com/vi/PY_wRwL3Q0E/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
@@ -74,6 +86,18 @@
       "thumbnail": "https://i.ytimg.com/vi/ktL8oV26XYg/hqdefault.jpg"
     },
     {
+      "title": "8,6 milliards de profils pour simuler l’humanité : la nouvelle matrice IA, super outil ou méga illusion ?",
+      "description": "Et si l’intelligence artificielle pouvait simuler les réactions de milliards d’humains face à un prix, un message ou une interface ? MatrAIx revendique 8,3 milliards de profils construits à partir de ...",
+      "url": "https://atlantico.fr/article/decryptage/8-6-milliards-de-profils-pour-simuler-lhumanite-la-nouvelle-matrice-ia-super-outil-ou-mega-illusion-donnees-nouvelles-technologies-controle-social-intelligence-artificielle-Laurence-Devillers",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-08-14T08:31:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet",
       "description": "Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...",
       "url": "https://www.youtube.com/watch?v=x7Nh0RKEoxg",
@@ -98,30 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/NURD13ukpQI/hqdefault.jpg"
     },
     {
-      "title": "Le codage des données UTF-8 #informatique #données #data #codage",
-      "description": "Le codage des données UTF-8 #informatique #données #data #codage Pourquoi certains sites affichent-ils des caractères ...",
-      "url": "https://www.youtube.com/watch?v=syxw4SZor-s",
-      "source": "Informatique ISTA",
-      "publishedAt": "2026-07-02T11:00:18Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "syxw4SZor-s",
-      "thumbnail": "https://i.ytimg.com/vi/syxw4SZor-s/hqdefault.jpg"
-    },
-    {
-      "title": "Une IA inspirée du cerveau sait planifier sans tout recalculer",
-      "description": "Une équipe internationale a développé un modèle d’intelligence artificielle capable de planifier des actions sans explorer systématiquement toutes les solutions possibles. Inspiré de mécanismes associ...",
-      "url": "https://www.techno-science.net/fr/actualites/ia-cerveau-planification-sans-recalcul-29153",
-      "source": "Techno-science.net",
-      "publishedAt": "2026-08-13T07:00:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant",
       "description": "Formation SQL Débutant avec PostgreSQL et VS Code | Vidéo 1 : Introduction à SQL Bienvenue dans cette première vidéo de ...",
       "url": "https://www.youtube.com/watch?v=3AUqD4ZwGts",
@@ -132,18 +132,6 @@
       "isYouTube": true,
       "videoId": "3AUqD4ZwGts",
       "thumbnail": "https://i.ytimg.com/vi/3AUqD4ZwGts/hqdefault.jpg"
-    },
-    {
-      "title": "Power BI – Les Fondamentaux de l’Analyse de Données",
-      "description": "Lien ci-dessous de la formation complète: https://www.udemy.com/course/power-bi-les-fondamentaux-de-lanalyse-de-donnees/ ...",
-      "url": "https://www.youtube.com/watch?v=ehS30jop0RE",
-      "source": "Formations",
-      "publishedAt": "2026-07-14T13:56:17Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ehS30jop0RE",
-      "thumbnail": "https://i.ytimg.com/vi/ehS30jop0RE/hqdefault.jpg"
     },
     {
       "title": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data",
@@ -170,11 +158,11 @@
       "thumbnail": "https://i.ytimg.com/vi/5XRR3C0nQLg/hqdefault.jpg"
     },
     {
-      "title": "Quantinuum et Oracle s'associent pour accélérer l'adoption de l'informatique quantique hybride sur Oracle Cloud Infrastructure",
-      "description": "Helios, l'ordinateur quantique le plus avancé de Quantinuum, sera déployé dans un centre de données IA OCI situé aux États-Unis, afin de permettre l'exécution de charges de travail hybrides combinant ...",
-      "url": "https://www.prnewswire.com/news-releases/quantinuum-et-oracle-sassocient-pour-accelerer-ladoption-de-linformatique-quantique-hybride-sur-oracle-cloud-infrastructure-302849739.html",
+      "title": "Stanbic IBTC Bank renforce ses capacités de services bancaires transactionnels grâce à la mise à niveau vers la version 9.0 de FinnAxia® de Nucleus Software",
+      "description": "LAGOS, Nigeria, 14 août 2026 /PRNewswire/ -- Stanbic IBTC Bank, membre du Standard Bank Group, et Nucleus Software, l'un des principaux fournisseurs de solutions de crédit et de services bancaires tra...",
+      "url": "https://www.prnewswire.com/news-releases/stanbic-ibtc-bank-renforce-ses-capacites-de-services-bancaires-transactionnels-grace-a-la-mise-a-niveau-vers-la-version-9-0-de-finnaxia-de-nucleus-software-302851664.html",
       "source": "PRNewswire",
-      "publishedAt": "2026-08-12T13:10:00Z",
+      "publishedAt": "2026-08-14T06:56:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -194,6 +182,54 @@
       "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
+      "title": "RingConn fait progresser la recherche sur les objets de santé connectés avec une nouvelle étude parue dans Nature Portfolio Journal npj Digital Medicine",
+      "description": "L'étude intitulée « Large-scale bilateral cardiovascular monitoring via wearable rings » analyse 97 559 échantillons valides de bagues PPG provenant de 1 810 participants, fournissant de nouvelles per...",
+      "url": "https://www.prnewswire.com/news-releases/ringconn-fait-progresser-la-recherche-sur-les-objets-de-sante-connectes-avec-une-nouvelle-etude-parue-dans-nature-portfolio-journal-npj-digital-medicine-302850762.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-08-13T10:38:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ewan McGregor fait encore du forcing pour Obi-Wan et ça devient ridicule",
+      "description": "Sur le tapis rouge de son dernier film, l'acteur britannique Ewan McGregor a de nouveau interpellé directement la firme aux grandes oreilles pour réclamer une suite aux aventures de son maître Jedi Ob...",
+      "url": "https://www.numerama.com/tech/2310969-ewan-mcgregor-fait-encore-du-forcing-pour-obi-wan-et-ca-devient-ridicule.html",
+      "source": "Numerama",
+      "publishedAt": "2026-08-13T12:09:25Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "TDAH : 6 croyances très répandues que les scientifiques démontent une par une",
+      "description": "« Ce n’est pas un vrai trouble », « c’est à la mode », « c’est le manque d’éducation », « les médicaments rendent accros »… Autour du TDAH, les idées reçues circulent plus vite que les données scienti...",
+      "url": "https://www.futura-sciences.com/sciences/actualites/series-ete-tdah-6-croyances-tres-repandues-scientifiques-demontent-136224/",
+      "source": "Futura",
+      "publishedAt": "2026-08-13T13:01:23Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Photo de l’éclipse : on a percé à jour la petite triche du Xiaomi 17 Ultra qui confond la Lune et le Soleil",
+      "description": "Quand nous avons photographié l'éclipse du 12 août avec le Xiaomi 17 Ultra, ce dernier a confondu la Lune et le Soleil. Cela s'explique par une astuce connue des smartphones, mais qui a bien raté ici.",
+      "url": "https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil",
+      "source": "Frandroid",
+      "publishedAt": "2026-08-14T05:02:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Data Analyst avec Python | Introduction complète à Python | Tutoriel complet",
       "description": "Maîtrise Python pour la DATA : https://store.ledecodeur.fr/formation-python Mes ressources : https://linktr.ee/ledecodeur Liens ...",
       "url": "https://www.youtube.com/watch?v=2sunLXT-XgM",
@@ -206,35 +242,11 @@
       "thumbnail": "https://i.ytimg.com/vi/2sunLXT-XgM/hqdefault.jpg"
     },
     {
-      "title": "Cours complet DBT (databuildtool) | Projet ELT complet",
-      "description": "Maîtrise les compétences DATA essentielles : https://store.ledecodeur.fr/ Télécharge dbt : https://www.getdbt.com/ Rejoins moi sur ...",
-      "url": "https://www.youtube.com/watch?v=NT9WII_rHdE",
-      "source": "Le Decodeur",
-      "publishedAt": "2026-06-21T14:04:06Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "NT9WII_rHdE",
-      "thumbnail": "https://i.ytimg.com/vi/NT9WII_rHdE/hqdefault.jpg"
-    },
-    {
-      "title": "Python pour la data : Le guide du débutant",
-      "description": "La vidéo intitulée \"Python : Le guide du débutant\" est une présentation visuelle conçue pour vous introduire aux fondements de ...",
-      "url": "https://www.youtube.com/watch?v=s6yhACGTANI",
-      "source": "Eco_sta_tech",
-      "publishedAt": "2026-06-30T07:58:21Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "s6yhACGTANI",
-      "thumbnail": "https://i.ytimg.com/vi/s6yhACGTANI/hqdefault.jpg"
-    },
-    {
-      "title": "Pudu Robotics lance le PUDU ET1, un robot laveur-sécheur compact doté d'une IA native, destiné aux petits espaces commerciaux",
-      "description": "SHENZHEN, Chine, 12 août 2026 /PRNewswire/ -- Pudu Robotics, leader mondial de la robotique de service commerciale, a lancé le PUDU ET1, un robot laveur-sécheur compact doté d'une intelligence artific...",
-      "url": "https://www.prnewswire.com/news-releases/pudu-robotics-lance-le-pudu-et1-un-robot-laveur-secheur-compact-dote-dune-ia-native-destine-aux-petits-espaces-commerciaux-302850060.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-08-12T19:10:00Z",
+      "title": "SpaceX en pleine reconversion : cette nouvelle activité dépassera Starlink et les fusées dès septembre, d’après Elon Musk",
+      "description": "Selon Elon Musk, les revenus générés par l’intelligence artificielle chez SpaceX dépasseront les revenus des autres activités de l’entreprise dès le mois de septembre. En plus de proposer les modèles ...",
+      "url": "https://www.presse-citron.net/spacex-reconversion-nouvelle-activite-depassera-starlink-fusees/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-08-14T06:04:31Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "SpaceXAI frappe fort avec Grok 4.6, aussi performant que ses rivaux mais deux fois moins cher",
-      "description": "SpaceXAI, l'entreprise d'intelligence artificielle d'Elon Musk, présente son nouveau modèle Grok 4.6, qui affiche des résultats proches de ceux d'Anthropic et d'OpenAI, tout en proposant une tarificat...",
-      "url": "https://www.tomshardware.fr/spacexai-frappe-fort-avec-grok-4-6-aussi-performant-que-ses-rivaux-mais-deux-fois-moins-cher/",
-      "source": "Tomshardware.fr",
-      "publishedAt": "2026-08-13T06:23:00Z",
+      "title": "Adobe Creative Cloud : comment les agents IA Firefly d'Adobe font gagner un temps précieux aux créatifs",
+      "description": "Adobe franchit une nouvelle étape dans l'intégration totale de l'intelligence artificielle dans le Creative Cloud. Avec ses agents Firefly spécialisés, Photoshop, Premiere ou encore Illustrator automa...",
+      "url": "https://www.futura-sciences.com/tech/actualites/creation-graphique-adobe-creative-cloud-agents-ia-firefly-adobe-font-gagner-temps-precieux-creatifs-136507/",
+      "source": "Futura",
+      "publishedAt": "2026-08-14T08:30:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "L'IA ne va pas supprimer les emplois, mais façonner à nouveau l'économie",
-      "description": "Le récent Baromètre mondial de l'emploi dans le domaine de l'IA 2026 de PwC a révélé que l'Intelligence artificielle (IA) divise le marché du travail mondial en deux voies distinctes.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1553639-l-ia-ne-va-pas-supprimer-les-emplois-mais-faconner-a-nouveau-l-economie/",
-      "source": "JDN",
-      "publishedAt": "2026-08-13T08:22:34Z",
+      "title": "Microsoft Clarity : nouvel indicateur pour mesurer si le scraping des IA vous rapporte du trafic",
+      "description": "Ce qu'il faut retenir : Clarity introduit une carte \"AI Scrape-to-Referral Ratio\" qui compare, en un seul indicateur, l'activité de scraping des IA et le trafic de référencement qu'elles génèrent réel...",
+      "url": "https://www.abondance.com/20260814-2761447-microsoft-clarity-nouvel-indicateur-ratio-scraping-ia-trafic.html",
+      "source": "Abondance.com",
+      "publishedAt": "2026-08-14T08:28:56Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Retour d’expérience : comment grâce à « Record a skill » de Claude, j'ai réduit mes recherches de plusieurs heures à 30 minutes",
-      "description": "J'ai utilisé l’outil d’intelligence artificielle Cowork d’Anthropic pour automatiser un flux de travail, et le résultat s'est avéré remarquablement efficace, mais cela a mis en évidence quatre inconvé...",
-      "url": "https://www.zdnet.fr/pratique/retour-dexperience-comment-grace-a-record-a-skill-de-claude-jai-reduit-mes-recherches-de-plusieurs-heures-a-30-minutes-499770.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-08-13T08:08:18Z",
+      "title": "JCB Hydromax atteint 653 km/h et établit un nouveau record FIA à l’hydrogène",
+      "description": "Le JCB Hydromax a atteint 406,320 mph, soit 653,909 km/h, sur le lac salé de Bonneville, dans l’Utah. La performance constitue un nouveau record mondial provisoire de vitesse pour un véhicule à moteur...",
+      "url": "https://www.leblogauto.com/ecologie/hydrogene/jcb-hydromax-atteint-653-km-h-et-etablit-un-nouveau-record-fia-a-lhydrogene/",
+      "source": "Leblogauto.com",
+      "publishedAt": "2026-08-14T07:22:48Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Apple négocie avec les médias pour alimenter Siri AI en contenu",
-      "description": "Apple discute avec plusieurs médias pour intégrer leurs contenus à Siri AI. Le budget pour ces accords pourrait atteindre neuf chiffres selon le Wall…\nLire la suite…\nFacebook · X · iAddict\nL’article A...",
-      "url": "https://iphoneaddict.fr/post/news-433378-apple-negocie-medias-alimenter-siri-ai-contenu",
-      "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-08-13T08:25:38Z",
+      "title": "WhatsApp peut utiliser l’IA pour détecter les messages d’arnaque maintenant",
+      "description": "Meta dote sa messagerie WhatsApp d’un système IA censé détecter si un message est en réalité une tentative de vous escroquer. Optionnelle, la fonctionnalité est en cours de test. Avec...",
+      "url": "https://www.phonandroid.com/whatsapp-peut-utiliser-lia-pour-detecter-les-messages-darnaque-maintenant.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-08-14T07:54:39Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
