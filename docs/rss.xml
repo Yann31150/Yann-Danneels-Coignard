@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 15 Aug 2026 08:33:29 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 08:33:22 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)</title>
-            <link>https://www.youtube.com/watch?v=0EsKXRhOYxM</link>
-            <description><![CDATA[Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...]]></description>
-            <pubDate>Mon, 22 Jun 2026 15:04:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=0EsKXRhOYxM</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
         <item>
             <title>NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)</title>
             <link>https://www.youtube.com/watch?v=3J5VPpX2Jww</link>
@@ -29,15 +21,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Apple entraîne son propre modèle d’IA pour la Chine avec Alibaba</title>
-            <link>https://iphoneaddict.fr/post/news-433445-apple-entraine-propre-modele-dia-chine-alibaba</link>
-            <description><![CDATA[Apple entraîne son propre grand modèle de langage (LLM) pour la Chine, en partenariat avec Alibaba. Cette manœuvre fait d’Apple le premier groupe étranger…
-Lire la suite…
-Facebook · X · iAddict
-L’arti...]]></description>
-            <pubDate>Fri, 14 Aug 2026 06:11:28 -0000</pubDate>
-            <guid isPermaLink="true">https://iphoneaddict.fr/post/news-433445-apple-entraine-propre-modele-dia-chine-alibaba</guid>
-            <source>Iphoneaddict.fr</source>
+            <title>Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning</title>
+            <link>https://www.youtube.com/watch?v=PY_wRwL3Q0E</link>
+            <description><![CDATA[Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...]]></description>
+            <pubDate>Wed, 15 Jul 2026 16:07:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=PY_wRwL3Q0E</guid>
+            <source>Rafa Explique</source>
         </item>
         <item>
             <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
@@ -64,20 +53,20 @@ L’arti...]]></description>
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
+            <title>"Tatouage numérique" : Bruxelles impose un filigrane invisible pour repérer les contenus générés par intelligence artificielle</title>
+            <link>https://www.lexpress.fr/economie/high-tech/tatouage-numerique-bruxelles-impose-un-filigrane-invisible-pour-reperer-les-contenus-generes-par-W56OKO7BV5HSHDYMCTNGPDCGLE/</link>
+            <description><![CDATA[Bruxelles veut rendre les contenus générés par l’intelligence artificielle plus faciles à repérer. Une petite révolution de transparence, avec quelques astérisques techniques.]]></description>
+            <pubDate>Fri, 14 Aug 2026 16:18:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lexpress.fr/economie/high-tech/tatouage-numerique-bruxelles-impose-un-filigrane-invisible-pour-reperer-les-contenus-generes-par-W56OKO7BV5HSHDYMCTNGPDCGLE/</guid>
+            <source>L'Express</source>
+        </item>
+        <item>
             <title>Comment ChatGPT sait ce que les mots veulent dire (Embeddings)</title>
             <link>https://www.youtube.com/watch?v=ktL8oV26XYg</link>
             <description><![CDATA[Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...]]></description>
             <pubDate>Thu, 18 Jun 2026 08:01:19 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=ktL8oV26XYg</guid>
             <source>How AI Works?</source>
-        </item>
-        <item>
-            <title>8,6 milliards de profils pour simuler l’humanité : la nouvelle matrice IA, super outil ou méga illusion ?</title>
-            <link>https://atlantico.fr/article/decryptage/8-6-milliards-de-profils-pour-simuler-lhumanite-la-nouvelle-matrice-ia-super-outil-ou-mega-illusion-donnees-nouvelles-technologies-controle-social-intelligence-artificielle-Laurence-Devillers</link>
-            <description><![CDATA[Et si l’intelligence artificielle pouvait simuler les réactions de milliards d’humains face à un prix, un message ou une interface ? MatrAIx revendique 8,3 milliards de profils construits à partir de ...]]></description>
-            <pubDate>Fri, 14 Aug 2026 08:31:00 -0000</pubDate>
-            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/8-6-milliards-de-profils-pour-simuler-lhumanite-la-nouvelle-matrice-ia-super-outil-ou-mega-illusion-donnees-nouvelles-technologies-controle-social-intelligence-artificielle-Laurence-Devillers</guid>
-            <source>Atlantico.fr</source>
         </item>
         <item>
             <title>Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet</title>
@@ -94,6 +83,14 @@ L’arti...]]></description>
             <pubDate>Mon, 13 Jul 2026 15:17:51 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=NURD13ukpQI</guid>
             <source>Oscar Aksanti</source>
+        </item>
+        <item>
+            <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
+            <link>https://www.youtube.com/watch?v=IanWrDWQy0s</link>
+            <description><![CDATA[Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...]]></description>
+            <pubDate>Sat, 20 Jun 2026 17:56:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=IanWrDWQy0s</guid>
+            <source>Seif BOUGUERRA</source>
         </item>
         <item>
             <title>Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant</title>
@@ -120,12 +117,12 @@ L’arti...]]></description>
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Stanbic IBTC Bank renforce ses capacités de services bancaires transactionnels grâce à la mise à niveau vers la version 9.0 de FinnAxia® de Nucleus Software</title>
-            <link>https://www.prnewswire.com/news-releases/stanbic-ibtc-bank-renforce-ses-capacites-de-services-bancaires-transactionnels-grace-a-la-mise-a-niveau-vers-la-version-9-0-de-finnaxia-de-nucleus-software-302851664.html</link>
-            <description><![CDATA[LAGOS, Nigeria, 14 août 2026 /PRNewswire/ -- Stanbic IBTC Bank, membre du Standard Bank Group, et Nucleus Software, l'un des principaux fournisseurs de solutions de crédit et de services bancaires tra...]]></description>
-            <pubDate>Fri, 14 Aug 2026 06:56:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/stanbic-ibtc-bank-renforce-ses-capacites-de-services-bancaires-transactionnels-grace-a-la-mise-a-niveau-vers-la-version-9-0-de-finnaxia-de-nucleus-software-302851664.html</guid>
-            <source>PRNewswire</source>
+            <title>eSIM de données : est-il possible de partager la connexion avec un autre appareil (hotspot) ?</title>
+            <link>https://www.futura-sciences.com/planete/questions-reponses/voyage-esim-donnees-il-possible-partager-connexion-autre-appareil-hotspot-25878/</link>
+            <description><![CDATA[Les eSIM de données sont devenues une solution particulièrement pratique pour accéder à Internet lors d'un voyage, sans avoir à changer de carte SIM physique. Elles permettent généralement d'acheter u...]]></description>
+            <pubDate>Sat, 15 Aug 2026 08:00:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/planete/questions-reponses/voyage-esim-donnees-il-possible-partager-connexion-autre-appareil-hotspot-25878/</guid>
+            <source>Futura</source>
         </item>
         <item>
             <title>Comment créer une base de données avec le langage SQL ?</title>
@@ -136,36 +133,12 @@ L’arti...]]></description>
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>RingConn fait progresser la recherche sur les objets de santé connectés avec une nouvelle étude parue dans Nature Portfolio Journal npj Digital Medicine</title>
-            <link>https://www.prnewswire.com/news-releases/ringconn-fait-progresser-la-recherche-sur-les-objets-de-sante-connectes-avec-une-nouvelle-etude-parue-dans-nature-portfolio-journal-npj-digital-medicine-302850762.html</link>
-            <description><![CDATA[L'étude intitulée « Large-scale bilateral cardiovascular monitoring via wearable rings » analyse 97 559 échantillons valides de bagues PPG provenant de 1 810 participants, fournissant de nouvelles per...]]></description>
-            <pubDate>Thu, 13 Aug 2026 10:38:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/ringconn-fait-progresser-la-recherche-sur-les-objets-de-sante-connectes-avec-une-nouvelle-etude-parue-dans-nature-portfolio-journal-npj-digital-medicine-302850762.html</guid>
-            <source>PRNewswire</source>
-        </item>
-        <item>
-            <title>Ewan McGregor fait encore du forcing pour Obi-Wan et ça devient ridicule</title>
-            <link>https://www.numerama.com/tech/2310969-ewan-mcgregor-fait-encore-du-forcing-pour-obi-wan-et-ca-devient-ridicule.html</link>
-            <description><![CDATA[Sur le tapis rouge de son dernier film, l'acteur britannique Ewan McGregor a de nouveau interpellé directement la firme aux grandes oreilles pour réclamer une suite aux aventures de son maître Jedi Ob...]]></description>
-            <pubDate>Thu, 13 Aug 2026 12:09:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/tech/2310969-ewan-mcgregor-fait-encore-du-forcing-pour-obi-wan-et-ca-devient-ridicule.html</guid>
-            <source>Numerama</source>
-        </item>
-        <item>
-            <title>TDAH : 6 croyances très répandues que les scientifiques démontent une par une</title>
-            <link>https://www.futura-sciences.com/sciences/actualites/series-ete-tdah-6-croyances-tres-repandues-scientifiques-demontent-136224/</link>
-            <description><![CDATA[« Ce n’est pas un vrai trouble », « c’est à la mode », « c’est le manque d’éducation », « les médicaments rendent accros »… Autour du TDAH, les idées reçues circulent plus vite que les données scienti...]]></description>
-            <pubDate>Thu, 13 Aug 2026 13:01:23 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/series-ete-tdah-6-croyances-tres-repandues-scientifiques-demontent-136224/</guid>
-            <source>Futura</source>
-        </item>
-        <item>
-            <title>Photo de l’éclipse : on a percé à jour la petite triche du Xiaomi 17 Ultra qui confond la Lune et le Soleil</title>
-            <link>https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil</link>
-            <description><![CDATA[Quand nous avons photographié l'éclipse du 12 août avec le Xiaomi 17 Ultra, ce dernier a confondu la Lune et le Soleil. Cela s'explique par une astuce connue des smartphones, mais qui a bien raté ici.]]></description>
-            <pubDate>Fri, 14 Aug 2026 05:02:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil</guid>
-            <source>Frandroid</source>
+            <title>Actualité : J’ai testé cet étrange gadget qui analyse mon sommeil… sans que je n'aie rien à porter au lit</title>
+            <link>https://www.lesnumeriques.com/divers-sante/j-ai-teste-cet-etrange-gadget-qui-analyse-mon-sommeil-sans-que-je-n-aie-rien-a-porter-au-lit-n260208.html</link>
+            <description><![CDATA[J’ai testé pendant un mois le Sleepal, une lampe de chevet capable d’analyser votre sommeil sans montre, bague ou bracelet connecté. Précision, richesse des données, confort d’utilisation : voici ce q...]]></description>
+            <pubDate>Sat, 15 Aug 2026 05:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/divers-sante/j-ai-teste-cet-etrange-gadget-qui-analyse-mon-sommeil-sans-que-je-n-aie-rien-a-porter-au-lit-n260208.html</guid>
+            <source>Les Numériques</source>
         </item>
         <item>
             <title>Data Analyst avec Python | Introduction complète à Python | Tutoriel complet</title>
@@ -174,6 +147,30 @@ L’arti...]]></description>
             <pubDate>Sun, 28 Jun 2026 16:00:20 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=2sunLXT-XgM</guid>
             <source>Le Decodeur</source>
+        </item>
+        <item>
+            <title>Devenir Data Analyst avec des ressources gratuites 📚✅ #data #gratuit #tuto</title>
+            <link>https://www.youtube.com/watch?v=-Oba6X3lIxg</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 08 Jul 2026 12:39:10 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=-Oba6X3lIxg</guid>
+            <source>Le Decodeur</source>
+        </item>
+        <item>
+            <title>Radinus : tenir sa comptabilité personnelle sous Linux</title>
+            <link>https://linuxfr.org/news/radinus-tenir-sa-comptabilite-personnelle-sous-linux</link>
+            <description><![CDATA[L’actualité du logiciel libre et des sujets voisins (DIY, Open Hardware, Open Data, les Communs, etc.), sur un site francophone contributif géré par une équipe bénévole par et pour des libristes entho...]]></description>
+            <pubDate>Sat, 15 Aug 2026 07:13:06 -0000</pubDate>
+            <guid isPermaLink="true">https://linuxfr.org/news/radinus-tenir-sa-comptabilite-personnelle-sous-linux</guid>
+            <source>Linuxfr.org</source>
+        </item>
+        <item>
+            <title>Liens vagabonds : sommes-nous fatigués d’être visibles ?</title>
+            <link>https://www.meta-media.fr/2026/08/15/liens-vagabonds-sommes-nous-fatigues-detre-visibles.html</link>
+            <description><![CDATA[Les plateformes ont transformé la visibilité en capital, puis en norme sociale. Aujourd’hui, une partie des utilisateurs cherche à sortir de cette économie de l’exposition. Plus on est visible, plus o...]]></description>
+            <pubDate>Sat, 15 Aug 2026 07:35:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.meta-media.fr/2026/08/15/liens-vagabonds-sommes-nous-fatigues-detre-visibles.html</guid>
+            <source>Meta-media.fr</source>
         </item>
     </channel>
 </rss>
