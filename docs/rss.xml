@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 16 Aug 2026 08:33:22 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 08:48:14 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,28 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
+            <title>NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)</title>
+            <link>https://www.youtube.com/watch?v=0EsKXRhOYxM</link>
+            <description><![CDATA[Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...]]></description>
+            <pubDate>Mon, 22 Jun 2026 15:04:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=0EsKXRhOYxM</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
             <title>NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)</title>
             <link>https://www.youtube.com/watch?v=3J5VPpX2Jww</link>
             <description><![CDATA[Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...]]></description>
             <pubDate>Wed, 24 Jun 2026 14:33:27 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=3J5VPpX2Jww</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Elle a confié son emploi du temps à ChatGPT pendant une semaine : voici la surprenante conclusion qu'elle en tire</title>
+            <link>https://www.futura-sciences.com/tech/actualites/chatgpt-elle-confie-son-emploi-temps-chatgpt-pendant-semaine-voici-surprenante-conclusion-quelle-tire-w2t8-136863/</link>
+            <description><![CDATA[« J'ai confié mon agenda entier à une IA pendant une semaine. Le mercredi après-midi, j'ai failli tout plaquer ». Voici pourquoi ce retour d'expérience, aussi court soit-il, révèle quelque chose d'ess...]]></description>
+            <pubDate>Sun, 16 Aug 2026 07:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/chatgpt-elle-confie-son-emploi-temps-chatgpt-pendant-semaine-voici-surprenante-conclusion-quelle-tire-w2t8-136863/</guid>
+            <source>Futura</source>
         </item>
         <item>
             <title>Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning</title>
@@ -51,22 +67,6 @@
             <pubDate>Mon, 20 Jul 2026 08:19:53 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=LKtwwn-W6iM</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>"Tatouage numérique" : Bruxelles impose un filigrane invisible pour repérer les contenus générés par intelligence artificielle</title>
-            <link>https://www.lexpress.fr/economie/high-tech/tatouage-numerique-bruxelles-impose-un-filigrane-invisible-pour-reperer-les-contenus-generes-par-W56OKO7BV5HSHDYMCTNGPDCGLE/</link>
-            <description><![CDATA[Bruxelles veut rendre les contenus générés par l’intelligence artificielle plus faciles à repérer. Une petite révolution de transparence, avec quelques astérisques techniques.]]></description>
-            <pubDate>Fri, 14 Aug 2026 16:18:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lexpress.fr/economie/high-tech/tatouage-numerique-bruxelles-impose-un-filigrane-invisible-pour-reperer-les-contenus-generes-par-W56OKO7BV5HSHDYMCTNGPDCGLE/</guid>
-            <source>L'Express</source>
-        </item>
-        <item>
-            <title>Comment ChatGPT sait ce que les mots veulent dire (Embeddings)</title>
-            <link>https://www.youtube.com/watch?v=ktL8oV26XYg</link>
-            <description><![CDATA[Comment l'AI comprend-elle le sens des mots alors qu'elle ne voit que des nombres ? La réponse est les embeddings, l'idée de ...]]></description>
-            <pubDate>Thu, 18 Jun 2026 08:01:19 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ktL8oV26XYg</guid>
-            <source>How AI Works?</source>
         </item>
         <item>
             <title>Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet</title>
@@ -117,28 +117,20 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>eSIM de données : est-il possible de partager la connexion avec un autre appareil (hotspot) ?</title>
-            <link>https://www.futura-sciences.com/planete/questions-reponses/voyage-esim-donnees-il-possible-partager-connexion-autre-appareil-hotspot-25878/</link>
-            <description><![CDATA[Les eSIM de données sont devenues une solution particulièrement pratique pour accéder à Internet lors d'un voyage, sans avoir à changer de carte SIM physique. Elles permettent généralement d'acheter u...]]></description>
-            <pubDate>Sat, 15 Aug 2026 08:00:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/planete/questions-reponses/voyage-esim-donnees-il-possible-partager-connexion-autre-appareil-hotspot-25878/</guid>
-            <source>Futura</source>
+            <title>Et si manger du fromage était finalement bon pour la santé ? Les explications du Pr Antoine Flahault</title>
+            <link>https://www.lexpress.fr/sciences-sante/et-si-manger-du-fromage-etait-finalement-bon-pour-la-sante-les-explications-du-pr-antoine-flahault-5HSZRUKXVJCR3MBPYRV3GW5GZY/</link>
+            <description><![CDATA[Camembert, Comté et autre reblochon ont longtemps été vilipendés par les nutritionnistes. Mais de nouvelles données les innocentent, et mieux encore, dévoilent leurs bienfaits potentiels. Notre chroni...]]></description>
+            <pubDate>Sat, 15 Aug 2026 09:29:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lexpress.fr/sciences-sante/et-si-manger-du-fromage-etait-finalement-bon-pour-la-sante-les-explications-du-pr-antoine-flahault-5HSZRUKXVJCR3MBPYRV3GW5GZY/</guid>
+            <source>L'Express</source>
         </item>
         <item>
-            <title>Comment créer une base de données avec le langage SQL ?</title>
-            <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
-            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
-            <pubDate>Wed, 01 Jul 2026 04:00:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=19JD2vconJ0</guid>
-            <source>OpenClassrooms en Français</source>
-        </item>
-        <item>
-            <title>Actualité : J’ai testé cet étrange gadget qui analyse mon sommeil… sans que je n'aie rien à porter au lit</title>
-            <link>https://www.lesnumeriques.com/divers-sante/j-ai-teste-cet-etrange-gadget-qui-analyse-mon-sommeil-sans-que-je-n-aie-rien-a-porter-au-lit-n260208.html</link>
-            <description><![CDATA[J’ai testé pendant un mois le Sleepal, une lampe de chevet capable d’analyser votre sommeil sans montre, bague ou bracelet connecté. Précision, richesse des données, confort d’utilisation : voici ce q...]]></description>
-            <pubDate>Sat, 15 Aug 2026 05:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/divers-sante/j-ai-teste-cet-etrange-gadget-qui-analyse-mon-sommeil-sans-que-je-n-aie-rien-a-porter-au-lit-n260208.html</guid>
-            <source>Les Numériques</source>
+            <title>Nombre de pas par jour, sommeil, fréquence cardiaque... Ces Français devenus accros aux objets connectés pour surveiller leur santé</title>
+            <link>https://www.lefigaro.fr/secteur/high-tech/nombre-de-pas-par-jour-sommeil-frequence-cardiaque-ces-francais-devenus-accros-aux-objets-connectes-pour-surveiller-leur-sante-20260815</link>
+            <description><![CDATA[De la montre qui compte les pas à la bague qui analyse la sueur, les objets connectés permettent de mesurer toujours plus précisément les performances du corps. Si ces données séduisent un nombre croi...]]></description>
+            <pubDate>Sat, 15 Aug 2026 15:41:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lefigaro.fr/secteur/high-tech/nombre-de-pas-par-jour-sommeil-frequence-cardiaque-ces-francais-devenus-accros-aux-objets-connectes-pour-surveiller-leur-sante-20260815</guid>
+            <source>Lefigaro.fr</source>
         </item>
         <item>
             <title>Data Analyst avec Python | Introduction complète à Python | Tutoriel complet</title>
@@ -157,20 +149,28 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Radinus : tenir sa comptabilité personnelle sous Linux</title>
-            <link>https://linuxfr.org/news/radinus-tenir-sa-comptabilite-personnelle-sous-linux</link>
-            <description><![CDATA[L’actualité du logiciel libre et des sujets voisins (DIY, Open Hardware, Open Data, les Communs, etc.), sur un site francophone contributif géré par une équipe bénévole par et pour des libristes entho...]]></description>
-            <pubDate>Sat, 15 Aug 2026 07:13:06 -0000</pubDate>
-            <guid isPermaLink="true">https://linuxfr.org/news/radinus-tenir-sa-comptabilite-personnelle-sous-linux</guid>
-            <source>Linuxfr.org</source>
+            <title>DESI Legacy : la plus grande carte 2D de l'Univers jamais créée est désormais publique</title>
+            <link>https://www.generation-nt.com/actualites/desi-legacy-carte-univers-observation-astronomique-2079670</link>
+            <description><![CDATA[L'astronomie vient de basculer dans une nouvelle dimension. Une équipe internationale a mis en ligne la carte 2D la plus détaillée de l'univers, une toile cosmique tissée à partir de plus d'une décenn...]]></description>
+            <pubDate>Sat, 15 Aug 2026 15:30:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/desi-legacy-carte-univers-observation-astronomique-2079670</guid>
+            <source>Génération NT</source>
         </item>
         <item>
-            <title>Liens vagabonds : sommes-nous fatigués d’être visibles ?</title>
-            <link>https://www.meta-media.fr/2026/08/15/liens-vagabonds-sommes-nous-fatigues-detre-visibles.html</link>
-            <description><![CDATA[Les plateformes ont transformé la visibilité en capital, puis en norme sociale. Aujourd’hui, une partie des utilisateurs cherche à sortir de cette économie de l’exposition. Plus on est visible, plus o...]]></description>
-            <pubDate>Sat, 15 Aug 2026 07:35:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.meta-media.fr/2026/08/15/liens-vagabonds-sommes-nous-fatigues-detre-visibles.html</guid>
-            <source>Meta-media.fr</source>
+            <title>Python pour la data : Le guide du débutant</title>
+            <link>https://www.youtube.com/watch?v=s6yhACGTANI</link>
+            <description><![CDATA[La vidéo intitulée "Python : Le guide du débutant" est une présentation visuelle conçue pour vous introduire aux fondements de ...]]></description>
+            <pubDate>Tue, 30 Jun 2026 07:58:21 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=s6yhACGTANI</guid>
+            <source>Eco_sta_tech</source>
+        </item>
+        <item>
+            <title>Des images d'animaux générées par l'intelligence artificielle menacent faune et humains</title>
+            <link>https://www.franceinfo.fr/culture/des-images-d-animaux-generees-par-l-intelligence-artificielle-menacent-faune-et-humains_8149631.html</link>
+            <description><![CDATA[Si l'objectif semble être de faire sourire plutôt que de désinformer sciemment, les spécialistes préviennent que ces représentations très réalistes risquent de donner une vision erronée de la vie sauv...]]></description>
+            <pubDate>Sun, 16 Aug 2026 08:26:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/culture/des-images-d-animaux-generees-par-l-intelligence-artificielle-menacent-faune-et-humains_8149631.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
     </channel>
 </rss>
