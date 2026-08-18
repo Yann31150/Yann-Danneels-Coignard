@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 17 Aug 2026 08:48:14 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 08:41:02 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -29,12 +29,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Elle a confié son emploi du temps à ChatGPT pendant une semaine : voici la surprenante conclusion qu'elle en tire</title>
-            <link>https://www.futura-sciences.com/tech/actualites/chatgpt-elle-confie-son-emploi-temps-chatgpt-pendant-semaine-voici-surprenante-conclusion-quelle-tire-w2t8-136863/</link>
-            <description><![CDATA[« J'ai confié mon agenda entier à une IA pendant une semaine. Le mercredi après-midi, j'ai failli tout plaquer ». Voici pourquoi ce retour d'expérience, aussi court soit-il, révèle quelque chose d'ess...]]></description>
-            <pubDate>Sun, 16 Aug 2026 07:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/chatgpt-elle-confie-son-emploi-temps-chatgpt-pendant-semaine-voici-surprenante-conclusion-quelle-tire-w2t8-136863/</guid>
-            <source>Futura</source>
+            <title>Actualité : L'IA pourra guérir la plupart des maladies humaines d'ici 5 à 10 ans, affirme le fondateur de Claude</title>
+            <link>https://www.lesnumeriques.com/intelligence-artificielle/l-ia-pourra-guerir-la-plupart-des-maladies-humaines-d-ici-5-a-10-ans-affirme-le-fondateur-de-claude-n260487.html</link>
+            <description><![CDATA[Le patron de la start-up américaine qui développe Claude, l’un des grands rivaux de ChatGPT, affirme que l’intelligence artificielle pourrait aider à traiter ou prévenir la plupart des maladies humain...]]></description>
+            <pubDate>Mon, 17 Aug 2026 06:31:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/l-ia-pourra-guerir-la-plupart-des-maladies-humaines-d-ici-5-a-10-ans-affirme-le-fondateur-de-claude-n260487.html</guid>
+            <source>Les Numériques</source>
         </item>
         <item>
             <title>Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning</title>
@@ -85,12 +85,12 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Le SQL qu&amp;#39;on attend VRAIMENT de toi en data commence ici</title>
-            <link>https://www.youtube.com/watch?v=IanWrDWQy0s</link>
-            <description><![CDATA[Apprends le SQL de zéro sur des VRAIES données — pas des tables d'école. Dans cette playlist, tu pars de rien et tu finis par ...]]></description>
-            <pubDate>Sat, 20 Jun 2026 17:56:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=IanWrDWQy0s</guid>
-            <source>Seif BOUGUERRA</source>
+            <title>FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL</title>
+            <link>https://www.youtube.com/watch?v=Lp9R5PlZeRg</link>
+            <description><![CDATA[FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...]]></description>
+            <pubDate>Mon, 10 Aug 2026 22:57:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Lp9R5PlZeRg</guid>
+            <source>Ceemtic Analytics</source>
         </item>
         <item>
             <title>Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant</title>
@@ -109,28 +109,36 @@
             <source>Mikail Altundas</source>
         </item>
         <item>
-            <title>Découvrez notre formation sur Power BI #data #powerbi</title>
-            <link>https://www.youtube.com/watch?v=5XRR3C0nQLg</link>
+            <title>Comment créer une pyramide des âges sur Power BI ?</title>
+            <link>https://www.youtube.com/watch?v=rDVtYMoa_Ok</link>
+            <description><![CDATA[Retrouvez la vidéo juste ici : https://www.youtube.com/watch?v=v0Z8TMkAbaE Testez votre niveau sur PowerBI et recevez des ...]]></description>
+            <pubDate>Tue, 04 Aug 2026 16:30:12 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=rDVtYMoa_Ok</guid>
+            <source>Morpheus Formation | Excel, Power BI, Data</source>
+        </item>
+        <item>
+            <title>Comment créer une base de données avec le langage SQL ?</title>
+            <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
             <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
-            <pubDate>Tue, 21 Jul 2026 05:30:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=5XRR3C0nQLg</guid>
+            <pubDate>Wed, 01 Jul 2026 04:00:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=19JD2vconJ0</guid>
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Et si manger du fromage était finalement bon pour la santé ? Les explications du Pr Antoine Flahault</title>
-            <link>https://www.lexpress.fr/sciences-sante/et-si-manger-du-fromage-etait-finalement-bon-pour-la-sante-les-explications-du-pr-antoine-flahault-5HSZRUKXVJCR3MBPYRV3GW5GZY/</link>
-            <description><![CDATA[Camembert, Comté et autre reblochon ont longtemps été vilipendés par les nutritionnistes. Mais de nouvelles données les innocentent, et mieux encore, dévoilent leurs bienfaits potentiels. Notre chroni...]]></description>
-            <pubDate>Sat, 15 Aug 2026 09:29:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lexpress.fr/sciences-sante/et-si-manger-du-fromage-etait-finalement-bon-pour-la-sante-les-explications-du-pr-antoine-flahault-5HSZRUKXVJCR3MBPYRV3GW5GZY/</guid>
-            <source>L'Express</source>
+            <title>Google laisse fuiter un bracelet Fitbit inconnu dans ses publicités pour les Pixel 11</title>
+            <link>https://www.frandroid.com/marques/google/3213407_google-laisse-fuiter-un-bracelet-fitbit-inconnu-dans-ses-publicites-pour-les-pixel-11</link>
+            <description><![CDATA[Des captures de publicités Google pour les Pixel 11 laissent apparaître un bracelet connecté que la marque n'a jamais présenté. Fitbit Charge 7 en approche, ou simple image générée par IA ?]]></description>
+            <pubDate>Mon, 17 Aug 2026 08:33:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/marques/google/3213407_google-laisse-fuiter-un-bracelet-fitbit-inconnu-dans-ses-publicites-pour-les-pixel-11</guid>
+            <source>Frandroid</source>
         </item>
         <item>
-            <title>Nombre de pas par jour, sommeil, fréquence cardiaque... Ces Français devenus accros aux objets connectés pour surveiller leur santé</title>
-            <link>https://www.lefigaro.fr/secteur/high-tech/nombre-de-pas-par-jour-sommeil-frequence-cardiaque-ces-francais-devenus-accros-aux-objets-connectes-pour-surveiller-leur-sante-20260815</link>
-            <description><![CDATA[De la montre qui compte les pas à la bague qui analyse la sueur, les objets connectés permettent de mesurer toujours plus précisément les performances du corps. Si ces données séduisent un nombre croi...]]></description>
-            <pubDate>Sat, 15 Aug 2026 15:41:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lefigaro.fr/secteur/high-tech/nombre-de-pas-par-jour-sommeil-frequence-cardiaque-ces-francais-devenus-accros-aux-objets-connectes-pour-surveiller-leur-sante-20260815</guid>
-            <source>Lefigaro.fr</source>
+            <title>Android pratique : l’assistant Dicio se présente comme une alternative open source des solutions IA de Google</title>
+            <link>https://www.zdnet.fr/pratique/android-pratique-lassistant-dicio-se-presente-comme-une-alternative-open-source-des-solutions-ia-de-google-499986.htm</link>
+            <description><![CDATA[Alors qu’Assistant s’apprête à disparaître, remplacé par Gemini, cette application, qui préserve vos données privées, constitue une option intéressante. Malgré, toutefois, quelques bémols.]]></description>
+            <pubDate>Mon, 17 Aug 2026 08:08:28 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/pratique/android-pratique-lassistant-dicio-se-presente-comme-une-alternative-open-source-des-solutions-ia-de-google-499986.htm</guid>
+            <source>ZDNet France</source>
         </item>
         <item>
             <title>Data Analyst avec Python | Introduction complète à Python | Tutoriel complet</title>
@@ -149,12 +157,13 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>DESI Legacy : la plus grande carte 2D de l'Univers jamais créée est désormais publique</title>
-            <link>https://www.generation-nt.com/actualites/desi-legacy-carte-univers-observation-astronomique-2079670</link>
-            <description><![CDATA[L'astronomie vient de basculer dans une nouvelle dimension. Une équipe internationale a mis en ligne la carte 2D la plus détaillée de l'univers, une toile cosmique tissée à partir de plus d'une décenn...]]></description>
-            <pubDate>Sat, 15 Aug 2026 15:30:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/desi-legacy-carte-univers-observation-astronomique-2079670</guid>
-            <source>Génération NT</source>
+            <title>Panorama du foncier économique régional_2023</title>
+            <link>https://www.data.gouv.fr/datasets/panorama-du-foncier-economique-regional</link>
+            <description><![CDATA[En Provence-Alpes-Côte d’Azur, le foncier économique représente un défi stratégique, marqué par une offre limitée de terrains commercialisables et des coûts d’acquisition élevés. 
+Face à cet enjeu, la...]]></description>
+            <pubDate>Mon, 17 Aug 2026 00:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/panorama-du-foncier-economique-regional</guid>
+            <source>Gouv.fr</source>
         </item>
         <item>
             <title>Python pour la data : Le guide du débutant</title>
@@ -163,14 +172,6 @@
             <pubDate>Tue, 30 Jun 2026 07:58:21 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=s6yhACGTANI</guid>
             <source>Eco_sta_tech</source>
-        </item>
-        <item>
-            <title>Des images d'animaux générées par l'intelligence artificielle menacent faune et humains</title>
-            <link>https://www.franceinfo.fr/culture/des-images-d-animaux-generees-par-l-intelligence-artificielle-menacent-faune-et-humains_8149631.html</link>
-            <description><![CDATA[Si l'objectif semble être de faire sourire plutôt que de désinformer sciemment, les spécialistes préviennent que ces représentations très réalistes risquent de donner une vision erronée de la vie sauv...]]></description>
-            <pubDate>Sun, 16 Aug 2026 08:26:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/culture/des-images-d-animaux-generees-par-l-intelligence-artificielle-menacent-faune-et-humains_8149631.html</guid>
-            <source>Franceinfo.fr</source>
         </item>
     </channel>
 </rss>
