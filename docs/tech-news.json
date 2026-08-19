@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-18T08:41:02.817761",
+  "lastUpdate": "2026-08-19T08:41:32.925537",
   "articles": [
     {
       "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
@@ -38,18 +38,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning",
-      "description": "Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...",
-      "url": "https://www.youtube.com/watch?v=PY_wRwL3Q0E",
-      "source": "Rafa Explique",
-      "publishedAt": "2026-07-15T16:07:36Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "PY_wRwL3Q0E",
-      "thumbnail": "https://i.ytimg.com/vi/PY_wRwL3Q0E/hqdefault.jpg"
-    },
-    {
       "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
       "description": "Vous souhaitez maîtriser Microsoft Power BI et apprendre à créer vos rapports pas à pas ? Microsoft Power BI est aujourd'hui l'un ...",
       "url": "https://www.youtube.com/watch?v=9R-humPn-eo",
@@ -86,6 +74,18 @@
       "thumbnail": "https://i.ytimg.com/vi/LKtwwn-W6iM/hqdefault.jpg"
     },
     {
+      "title": "L’intelligence artificielle génère une crise de confiance majeure dans le monde professionnel",
+      "description": "La prolifération massive de contenus générés par intelligence artificielle transforme radicalement notre rapport à l’information professionnelle. Ce phénomène, désormais qualifié de slop, ne se limite...",
+      "url": "https://www.fredzone.org/lintelligence-artificielle-genere-une-crise-de-confiance-majeure-dans-le-monde-professionnel/",
+      "source": "FREDZONE",
+      "publishedAt": "2026-08-17T16:00:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet",
       "description": "Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...",
       "url": "https://www.youtube.com/watch?v=x7Nh0RKEoxg",
@@ -110,16 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/NURD13ukpQI/hqdefault.jpg"
     },
     {
-      "title": "FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL",
-      "description": "FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...",
-      "url": "https://www.youtube.com/watch?v=Lp9R5PlZeRg",
-      "source": "Ceemtic Analytics",
-      "publishedAt": "2026-08-10T22:57:33Z",
+      "title": "Le codage des données UTF-8 #informatique #données #data #codage",
+      "description": "Le codage des données UTF-8 #informatique #données #data #codage Pourquoi certains sites affichent-ils des caractères ...",
+      "url": "https://www.youtube.com/watch?v=syxw4SZor-s",
+      "source": "Informatique ISTA",
+      "publishedAt": "2026-07-02T11:00:18Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Lp9R5PlZeRg",
-      "thumbnail": "https://i.ytimg.com/vi/Lp9R5PlZeRg/hqdefault.jpg"
+      "videoId": "syxw4SZor-s",
+      "thumbnail": "https://i.ytimg.com/vi/syxw4SZor-s/hqdefault.jpg"
     },
     {
       "title": "Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant",
@@ -146,16 +146,28 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
-      "title": "Comment créer une pyramide des âges sur Power BI ?",
-      "description": "Retrouvez la vidéo juste ici : https://www.youtube.com/watch?v=v0Z8TMkAbaE Testez votre niveau sur PowerBI et recevez des ...",
-      "url": "https://www.youtube.com/watch?v=rDVtYMoa_Ok",
-      "source": "Morpheus Formation | Excel, Power BI, Data",
-      "publishedAt": "2026-08-04T16:30:12Z",
+      "title": "Comment analyser vos données avec Claude Code | Formation Complète Claude pour Data Analyst de A à Z",
+      "description": "Bienvenue dans cette formation complète consacrée à l'analyse des données avec Claude. Vous comprendrez ce qu'est Claude ...",
+      "url": "https://www.youtube.com/watch?v=Z1Y41sOVWyQ",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-07-21T15:59:13Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "rDVtYMoa_Ok",
-      "thumbnail": "https://i.ytimg.com/vi/rDVtYMoa_Ok/hqdefault.jpg"
+      "videoId": "Z1Y41sOVWyQ",
+      "thumbnail": "https://i.ytimg.com/vi/Z1Y41sOVWyQ/hqdefault.jpg"
+    },
+    {
+      "title": "Les fluids de refroidissement Castrol ON PG25 ont été validés pour les infrastructures d'usines d'IA et de centres de données conformes aux exigences de NVIDIA",
+      "description": "La validation a consisté à examiner les performances techniques des produits et la compatibilité des matériaux, ainsi que la résilience de l'activité et de la chaîne d'approvisionnement mondiale de Ca...",
+      "url": "https://www.prnewswire.com/news-releases/les-fluids-de-refroidissement-castrol-on-pg25-ont-ete-valides-pour-les-infrastructures-dusines-dia-et-de-centres-de-donnees-conformes-aux-exigences-de-nvidia-302853846.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-08-18T07:57:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Comment créer une base de données avec le langage SQL ?",
@@ -170,11 +182,11 @@
       "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
-      "title": "Google laisse fuiter un bracelet Fitbit inconnu dans ses publicités pour les Pixel 11",
-      "description": "Des captures de publicités Google pour les Pixel 11 laissent apparaître un bracelet connecté que la marque n'a jamais présenté. Fitbit Charge 7 en approche, ou simple image générée par IA ?",
-      "url": "https://www.frandroid.com/marques/google/3213407_google-laisse-fuiter-un-bracelet-fitbit-inconnu-dans-ses-publicites-pour-les-pixel-11",
-      "source": "Frandroid",
-      "publishedAt": "2026-08-17T08:33:13Z",
+      "title": "Google Workspace autorise Gemini à accéder aux données de votre entreprise par défaut : comment désactiver cette fonctionnalité ?",
+      "description": "Dans Google Workspace, Gemini a accès par défaut à Gmail, Docs, Agenda, Chat et bien d'autres services. Voici pourquoi cela est important et comment les administrateurs peuvent désactiver cette foncti...",
+      "url": "https://www.zdnet.fr/pratique/google-workspace-autorise-gemini-a-acceder-aux-donnees-de-votre-entreprise-par-defaut-comment-desactiver-cette-fonctionnalite-500111.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-08-18T03:08:59Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -182,11 +194,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Android pratique : l’assistant Dicio se présente comme une alternative open source des solutions IA de Google",
-      "description": "Alors qu’Assistant s’apprête à disparaître, remplacé par Gemini, cette application, qui préserve vos données privées, constitue une option intéressante. Malgré, toutefois, quelques bémols.",
-      "url": "https://www.zdnet.fr/pratique/android-pratique-lassistant-dicio-se-presente-comme-une-alternative-open-source-des-solutions-ia-de-google-499986.htm",
+      "title": "Quelles sont les meilleures caméras de télésurveillance extérieure sans fil en 2026 ?",
+      "description": "L'équipement de vidéoprotection professionnelle en extérieur exige un arbitrage entre couverture optique, souveraineté des données et facilité de déploiement réseau. Voici notre sélection.",
+      "url": "https://www.zdnet.fr/selection-expert-zdnet-france/quelles-sont-les-meilleures-cameras-de-telesurveillance-exterieure-sans-fil-en-2026-500135.htm",
       "source": "ZDNet France",
-      "publishedAt": "2026-08-17T08:08:28Z",
+      "publishedAt": "2026-08-18T04:08:09Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,18 +230,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-Oba6X3lIxg/hqdefault.jpg"
     },
     {
-      "title": "Panorama du foncier économique régional_2023",
-      "description": "En Provence-Alpes-Côte d’Azur, le foncier économique représente un défi stratégique, marqué par une offre limitée de terrains commercialisables et des coûts d’acquisition élevés. \nFace à cet enjeu, la...",
-      "url": "https://www.data.gouv.fr/datasets/panorama-du-foncier-economique-regional",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-08-17T00:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Python pour la data : Le guide du débutant",
       "description": "La vidéo intitulée \"Python : Le guide du débutant\" est une présentation visuelle conçue pour vous introduire aux fondements de ...",
       "url": "https://www.youtube.com/watch?v=s6yhACGTANI",
@@ -242,11 +242,11 @@
       "thumbnail": "https://i.ytimg.com/vi/s6yhACGTANI/hqdefault.jpg"
     },
     {
-      "title": "Des images d'animaux générées par l'intelligence artificielle menacent faune et humains",
-      "description": "Si l'objectif semble être de faire sourire plutôt que de désinformer sciemment, les spécialistes préviennent que ces représentations très réalistes risquent de donner une vision erronée de la vie sauv...",
-      "url": "https://www.franceinfo.fr/culture/des-images-d-animaux-generees-par-l-intelligence-artificielle-menacent-faune-et-humains_8149631.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-08-16T08:26:15Z",
+      "title": "Anthropic face à la défiance croissante envers l’IA",
+      "description": "Le patron d’Anthropic rejette l’idée d’un discours trop alarmiste sur l’IA. Pour lui, le vrai problème est ailleurs, et il vise juste.",
+      "url": "https://www.begeek.fr/anthropic-face-a-la-defiance-croissante-envers-lia-438716",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-08-18T06:00:55Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,52 +254,52 @@
       "thumbnail": ""
     },
     {
-      "title": "Au Brésil, des médecins générés par IA pour arnaquer les personnes âgées sur les réseaux",
-      "description": "Des avatars de médecins générés par intelligence artificielle tentent par tous les moyens d’attirer l’attention d’un public âgé, dans l’objectif de vendre de faux livres de recettes et des comprimés a...",
-      "url": "https://www.courrierinternational.com/video/video-au-bresil-des-medecins-generes-par-ia-pour-arnaquer-les-personnes-agees-sur-les-reseaux_259549",
-      "source": "Courrier International",
-      "publishedAt": "2026-08-17T08:19:54Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Des IA contournent leur sécurité, voici ce qu'elles veulent vraiment : la réponse du chercheur Jean-Claude Heudin",
-      "description": "Les gros titres évoquant des IA qui deviennent « incontrôlables » et « s’échappent » de leur environnement frappent indéniablement l’imagination. Depuis des années, la littérature, le cinéma et les sé...",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-ia-contournent-leur-securite-voici-ce-quelles-veulent-vraiment-reponse-chercheur-jean-claude-heudin-136961/",
-      "source": "Futura",
-      "publishedAt": "2026-08-16T10:15:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "ATLANT 3D lance la NANOFABRICATOR® PRO : La première et unique plateforme physique au monde dédiée à la découverte de matériaux grâce à l'IA",
-      "description": "COPENHAGUE, Danemark, 17 août 2026 /PRNewswire/ -- ATLANT 3D a annoncé aujourd'hui le lancement de NANOFABRICATOR® PRO, la première et unique plateforme physique au monde dédiée à la découverte de mat...",
-      "url": "https://www.prnewswire.com/news-releases/atlant-3d-lance-la-nanofabricator-pro--la-premiere-et-unique-plateforme-physique-au-monde-dediee-a-la-decouverte-de-materiaux-grace-a-lia-302851747.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-08-17T08:00:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Les cyberattaques basées sur l'IA sont l'avenir : 43 % des entreprises en ont déjà été victimes",
-      "description": "Une étude de CDW révèle que l'IA est à l'origine de nouvelles menaces liées au hameçonnage et aux logiciels malveillants. Mais les entreprises sont-elles suffisamment nombreuses à utiliser elles aussi...",
-      "url": "https://www.zdnet.fr/actualites/les-cyberattaques-basees-sur-lia-sont-lavenir-43-des-entreprises-en-ont-deja-ete-victimes-500080.htm",
+      "title": "Foncier, électricité, puces : Nvidia structure le plus grand data center IA des États-Unis pour OpenAI",
+      "description": "Nvidia devient lui-même investisseur dans les infrastructures qui alimentent la demande pour ses propres produits.",
+      "url": "https://www.zdnet.fr/actualites/foncier-electricite-puces-nvidia-structure-le-plus-grand-data-center-ia-des-etats-unis-pour-openai-500096.htm",
       "source": "ZDNet France",
-      "publishedAt": "2026-08-17T08:08:13Z",
+      "publishedAt": "2026-08-18T08:36:11Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "Top 20 des modèles d’IA les plus performants en août 2026 : le classement complet",
+      "description": "Anthropic concerne une longueur d'avance sur ses concurrents au sein de la Text Arena. Les modèles Claude excellent dans les tâches text-to-text, au sein d'un classement repensé.",
+      "url": "https://www.blogdumoderateur.com/top-20-modeles-ia-performants-aout-2026/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-08-18T08:32:05Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Code : le guide complet pour les non-devs (2026)",
+      "description": "Mes skills Claude Code https://shubham-sharma.fr/ressources/claude-code-skills-pack/ Claude Code vous semble trop technique ...",
+      "url": "https://www.youtube.com/watch?v=_pW-kUBo7AU",
+      "source": "Shubham SHARMA",
+      "publishedAt": "2026-07-10T17:28:31Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "_pW-kUBo7AU",
+      "thumbnail": "https://i.ytimg.com/vi/_pW-kUBo7AU/hqdefault.jpg"
+    },
+    {
+      "title": "Trahie ! Le PDG lit ses pensées, dénonce les manigances du méchant et la gâte comme une princesse !",
+      "description": "IL EST INTERDIT AUX MINEURS DE SUIVRE❗❗❗ IL EST INTERDIT AUX MINEURS DE REGARDER❗❗❗ [DÉCLARATION ...",
+      "url": "https://www.youtube.com/watch?v=pgqXyF1-UCM",
+      "source": "Théâtre romantique français",
+      "publishedAt": "2026-08-18T14:15:16Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "pgqXyF1-UCM",
+      "thumbnail": "https://i.ytimg.com/vi/pgqXyF1-UCM/hqdefault.jpg"
     }
   ]
 }
