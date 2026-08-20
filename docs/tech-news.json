@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "2026-08-19T08:41:32.925537",
+  "lastUpdate": "2026-08-20T08:42:47.147682",
   "articles": [
     {
-      "title": "NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)",
-      "description": "Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...",
-      "url": "https://www.youtube.com/watch?v=0EsKXRhOYxM",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-06-22T15:04:54Z",
+      "title": "Intelligence artificielle. “ChatGPT for Teens” : OpenAI lance une version de son IA destinée aux 13-17 ans",
+      "description": "OpenAI a commencé ce mardi à déployer une version de ChatGPT réservée aux adolescents, appliquée par défaut aux 13-17 ans avec des garde-fous renforcés.",
+      "url": "https://www.ledauphine.com/science-et-technologie/2026/08/18/chatgpt-for-teens-openai-lance-une-version-de-son-ia-destinee-aux-13-17-ans",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-08-18T18:09:00Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "0EsKXRhOYxM",
-      "thumbnail": "https://i.ytimg.com/vi/0EsKXRhOYxM/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)",
@@ -26,16 +26,16 @@
       "thumbnail": "https://i.ytimg.com/vi/3J5VPpX2Jww/hqdefault.jpg"
     },
     {
-      "title": "Actualité : L'IA pourra guérir la plupart des maladies humaines d'ici 5 à 10 ans, affirme le fondateur de Claude",
-      "description": "Le patron de la start-up américaine qui développe Claude, l’un des grands rivaux de ChatGPT, affirme que l’intelligence artificielle pourrait aider à traiter ou prévenir la plupart des maladies humain...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/l-ia-pourra-guerir-la-plupart-des-maladies-humaines-d-ici-5-a-10-ans-affirme-le-fondateur-de-claude-n260487.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-08-17T06:31:00Z",
+      "title": "Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning",
+      "description": "Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...",
+      "url": "https://www.youtube.com/watch?v=PY_wRwL3Q0E",
+      "source": "Rafa Explique",
+      "publishedAt": "2026-07-15T16:07:36Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "PY_wRwL3Q0E",
+      "thumbnail": "https://i.ytimg.com/vi/PY_wRwL3Q0E/hqdefault.jpg"
     },
     {
       "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
@@ -74,18 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/LKtwwn-W6iM/hqdefault.jpg"
     },
     {
-      "title": "L’intelligence artificielle génère une crise de confiance majeure dans le monde professionnel",
-      "description": "La prolifération massive de contenus générés par intelligence artificielle transforme radicalement notre rapport à l’information professionnelle. Ce phénomène, désormais qualifié de slop, ne se limite...",
-      "url": "https://www.fredzone.org/lintelligence-artificielle-genere-une-crise-de-confiance-majeure-dans-le-monde-professionnel/",
-      "source": "FREDZONE",
-      "publishedAt": "2026-08-17T16:00:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet",
       "description": "Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...",
       "url": "https://www.youtube.com/watch?v=x7Nh0RKEoxg",
@@ -122,6 +110,18 @@
       "thumbnail": "https://i.ytimg.com/vi/syxw4SZor-s/hqdefault.jpg"
     },
     {
+      "title": "FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL",
+      "description": "FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...",
+      "url": "https://www.youtube.com/watch?v=Lp9R5PlZeRg",
+      "source": "Ceemtic Analytics",
+      "publishedAt": "2026-08-10T22:57:33Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Lp9R5PlZeRg",
+      "thumbnail": "https://i.ytimg.com/vi/Lp9R5PlZeRg/hqdefault.jpg"
+    },
+    {
       "title": "Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant",
       "description": "Formation SQL Débutant avec PostgreSQL et VS Code | Vidéo 1 : Introduction à SQL Bienvenue dans cette première vidéo de ...",
       "url": "https://www.youtube.com/watch?v=3AUqD4ZwGts",
@@ -146,23 +146,35 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
-      "title": "Comment analyser vos données avec Claude Code | Formation Complète Claude pour Data Analyst de A à Z",
-      "description": "Bienvenue dans cette formation complète consacrée à l'analyse des données avec Claude. Vous comprendrez ce qu'est Claude ...",
-      "url": "https://www.youtube.com/watch?v=Z1Y41sOVWyQ",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-07-21T15:59:13Z",
+      "title": "Comment créer une pyramide des âges sur Power BI ?",
+      "description": "Retrouvez la vidéo juste ici : https://www.youtube.com/watch?v=v0Z8TMkAbaE Testez votre niveau sur PowerBI et recevez des ...",
+      "url": "https://www.youtube.com/watch?v=rDVtYMoa_Ok",
+      "source": "Morpheus Formation | Excel, Power BI, Data",
+      "publishedAt": "2026-08-04T16:30:12Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Z1Y41sOVWyQ",
-      "thumbnail": "https://i.ytimg.com/vi/Z1Y41sOVWyQ/hqdefault.jpg"
+      "videoId": "rDVtYMoa_Ok",
+      "thumbnail": "https://i.ytimg.com/vi/rDVtYMoa_Ok/hqdefault.jpg"
     },
     {
-      "title": "Les fluids de refroidissement Castrol ON PG25 ont été validés pour les infrastructures d'usines d'IA et de centres de données conformes aux exigences de NVIDIA",
-      "description": "La validation a consisté à examiner les performances techniques des produits et la compatibilité des matériaux, ainsi que la résilience de l'activité et de la chaîne d'approvisionnement mondiale de Ca...",
-      "url": "https://www.prnewswire.com/news-releases/les-fluids-de-refroidissement-castrol-on-pg25-ont-ete-valides-pour-les-infrastructures-dusines-dia-et-de-centres-de-donnees-conformes-aux-exigences-de-nvidia-302853846.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-08-18T07:57:00Z",
+      "title": "Le ministère des Comptes publics présente ses \"excuses\" après le piratage des données du fisc et annonce des mesures d'urgence",
+      "description": "Après une série de fuites de données au fisc, le gouvernement reconnaît des faiblesses et dévoile un plan d'action immédiat.",
+      "url": "https://www.journaldunet.com/business/action-publique/1553819-le-ministere-des-comptes-publics-presente-ses-excuses-apres-le-piratage-du-site-des-impots-et-annonce-des-mesures-d-urgence/",
+      "source": "JDN",
+      "publishedAt": "2026-08-19T07:18:24Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "« Attirer les utilisateurs. Collecter leurs données. Dissimuler la vérité au grand public » : Meta fait face à un procès qui pourrait ruiner l’entreprise.",
+      "description": "Aux États-Unis vient de s’ouvrir une saga judiciaire qui pourrait bien avoir des conséquences désastreuses pour Mark Zuckerberg et sa firme. Plusieurs États accusent Facebook et Instagram d’être inten...",
+      "url": "https://www.frandroid.com/marques/meta/3215723_attirer-les-utilisateurs-collecter-leurs-donnees-dissimuler-la-verite-au-grand-public-meta-fait-face-a-un-proces-qui-pourrait-ruiner-lentreprise",
+      "source": "Frandroid",
+      "publishedAt": "2026-08-19T08:22:58Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -182,11 +194,11 @@
       "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
-      "title": "Google Workspace autorise Gemini à accéder aux données de votre entreprise par défaut : comment désactiver cette fonctionnalité ?",
-      "description": "Dans Google Workspace, Gemini a accès par défaut à Gmail, Docs, Agenda, Chat et bien d'autres services. Voici pourquoi cela est important et comment les administrateurs peuvent désactiver cette foncti...",
-      "url": "https://www.zdnet.fr/pratique/google-workspace-autorise-gemini-a-acceder-aux-donnees-de-votre-entreprise-par-defaut-comment-desactiver-cette-fonctionnalite-500111.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-08-18T03:08:59Z",
+      "title": "Piratage du fisc : \"Ce que l'on peut espérer, c'est que ce soit une sorte d'électrochoc\", souligne Benoît Grünemwald, expert en cybersécurité",
+      "description": "Benoît Grünemwald revient dans \"La Matinale\" du 19 août sur le vol de données de 700 000 contribuables, espérant que \"l'État prenne encore plus en considération la sécurité\" après cet événement, et \"p...",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-du-fisc-ce-que-l-on-peut-esperer-c-est-que-ce-soit-une-sorte-d-electrochoc-souligne-benoit-grunemwald-expert-en-cybersecurite_8153246.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-08-19T07:33:46Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -194,11 +206,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Quelles sont les meilleures caméras de télésurveillance extérieure sans fil en 2026 ?",
-      "description": "L'équipement de vidéoprotection professionnelle en extérieur exige un arbitrage entre couverture optique, souveraineté des données et facilité de déploiement réseau. Voici notre sélection.",
-      "url": "https://www.zdnet.fr/selection-expert-zdnet-france/quelles-sont-les-meilleures-cameras-de-telesurveillance-exterieure-sans-fil-en-2026-500135.htm",
+      "title": "ZDNET Morning 19/08/2026 : Transferts d'argent sur TikTok, Fuite de données à l'Éducation nationale, Recycler un ancien smartphone Android en serveur domestique,...",
+      "description": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
+      "url": "https://www.zdnet.fr/actualites/zdnet-morning-19-08-2026-transferts-dargent-sur-tiktok-fuite-de-donnees-a-leducation-nationale-recycler-un-ancien-smartphone-android-en-serveur-domestique-500159.htm",
       "source": "ZDNet France",
-      "publishedAt": "2026-08-18T04:08:09Z",
+      "publishedAt": "2026-08-19T08:40:34Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,23 +242,11 @@
       "thumbnail": "https://i.ytimg.com/vi/-Oba6X3lIxg/hqdefault.jpg"
     },
     {
-      "title": "Python pour la data : Le guide du débutant",
-      "description": "La vidéo intitulée \"Python : Le guide du débutant\" est une présentation visuelle conçue pour vous introduire aux fondements de ...",
-      "url": "https://www.youtube.com/watch?v=s6yhACGTANI",
-      "source": "Eco_sta_tech",
-      "publishedAt": "2026-06-30T07:58:21Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "s6yhACGTANI",
-      "thumbnail": "https://i.ytimg.com/vi/s6yhACGTANI/hqdefault.jpg"
-    },
-    {
-      "title": "Anthropic face à la défiance croissante envers l’IA",
-      "description": "Le patron d’Anthropic rejette l’idée d’un discours trop alarmiste sur l’IA. Pour lui, le vrai problème est ailleurs, et il vise juste.",
-      "url": "https://www.begeek.fr/anthropic-face-a-la-defiance-croissante-envers-lia-438716",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-08-18T06:00:55Z",
+      "title": "Apple retire une application qui dénude, mise en avant dans des pubs de Meta",
+      "description": "Apple a retiré de l’App Store Kromix, une application de retouche d’images par intelligence artificielle qui dénude pour générer des deepfakes sexuels de femmes…\nLire la suite…\nFacebook · X · iAddict\n...",
+      "url": "https://iphoneaddict.fr/post/news-433629-apple-retire-application-denude-mise-pubs-meta",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-08-18T20:02:07Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Foncier, électricité, puces : Nvidia structure le plus grand data center IA des États-Unis pour OpenAI",
-      "description": "Nvidia devient lui-même investisseur dans les infrastructures qui alimentent la demande pour ses propres produits.",
-      "url": "https://www.zdnet.fr/actualites/foncier-electricite-puces-nvidia-structure-le-plus-grand-data-center-ia-des-etats-unis-pour-openai-500096.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-08-18T08:36:11Z",
+      "title": "L'Europe ne peut pas \"se permettre\" de manquer la révolution de l'IA, estime Christine Lagarde",
+      "description": "La présidente de la Banque centrale européenne a appelé mercredi le Vieux continent à ne pas manquer la révolution en cours de l'intelligence artificielle, une technologie brassant des investissements...",
+      "url": "https://www.lalibre.be/international/europe/2026/08/19/leurope-ne-peut-pas-se-permettre-de-manquer-la-revolution-de-lia-estime-christine-lagarde-MRF45MORLZF6BMCZ2KJB25GAFE/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-08-19T08:33:39Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Neuf experts d'Ocean Tomo figurent dans le classement IAM Strategy 300 de 2026 des plus grands stratèges mondiaux en propriété intellectuelle",
+      "description": "Cette reconnaissance s'étend à tous les aspects de l'activité d'Ocean Tomo, reflétant l'approche intégrée de la société en matière de propriété intellectuelle et d'actifs IA émergents. NEW YORK, 19 ao...",
+      "url": "https://www.prnewswire.com/news-releases/neuf-experts-docean-tomo-figurent-dans-le-classement-iam-strategy-300-de-2026-des-plus-grands-strateges-mondiaux-en-propriete-intellectuelle-302854613.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-08-19T06:07:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,40 +278,28 @@
       "thumbnail": ""
     },
     {
-      "title": "Top 20 des modèles d’IA les plus performants en août 2026 : le classement complet",
-      "description": "Anthropic concerne une longueur d'avance sur ses concurrents au sein de la Text Arena. Les modèles Claude excellent dans les tâches text-to-text, au sein d'un classement repensé.",
-      "url": "https://www.blogdumoderateur.com/top-20-modeles-ia-performants-aout-2026/",
+      "title": "Moqué pour son animation « pire que l’IA », ce film chinois est devenu un énorme carton",
+      "description": "Réalisé artisanalement par deux personnes, le film d’animation chinois Niu Lai a d’abord été moqué pour sa qualité « pire que l’IA ». Devenu viral, il a finalement vu ses recettes bondir. Si vous trou...",
+      "url": "https://www.numerama.com/pop-culture/2313787-moque-pour-son-animation-pire-que-lia-ce-film-chinois-est-devenu-un-enorme-carton.html",
+      "source": "Numerama",
+      "publishedAt": "2026-08-19T08:20:54Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Gemini : le guide pour comprendre tous les outils, modèles et fonctionnalités",
+      "description": "Google a fait de Gemini la couche IA de tout son écosystème. On fait le point sur les outils, les modèles et les fonctionnalités qui le composent.",
+      "url": "https://www.blogdumoderateur.com/gemini-guide-comprendre-outils-modeles-fonctionnalites/",
       "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-08-18T08:32:05Z",
+      "publishedAt": "2026-08-19T05:00:18Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
-    },
-    {
-      "title": "Claude Code : le guide complet pour les non-devs (2026)",
-      "description": "Mes skills Claude Code https://shubham-sharma.fr/ressources/claude-code-skills-pack/ Claude Code vous semble trop technique ...",
-      "url": "https://www.youtube.com/watch?v=_pW-kUBo7AU",
-      "source": "Shubham SHARMA",
-      "publishedAt": "2026-07-10T17:28:31Z",
-      "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "_pW-kUBo7AU",
-      "thumbnail": "https://i.ytimg.com/vi/_pW-kUBo7AU/hqdefault.jpg"
-    },
-    {
-      "title": "Trahie ! Le PDG lit ses pensées, dénonce les manigances du méchant et la gâte comme une princesse !",
-      "description": "IL EST INTERDIT AUX MINEURS DE SUIVRE❗❗❗ IL EST INTERDIT AUX MINEURS DE REGARDER❗❗❗ [DÉCLARATION ...",
-      "url": "https://www.youtube.com/watch?v=pgqXyF1-UCM",
-      "source": "Théâtre romantique français",
-      "publishedAt": "2026-08-18T14:15:16Z",
-      "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "pgqXyF1-UCM",
-      "thumbnail": "https://i.ytimg.com/vi/pgqXyF1-UCM/hqdefault.jpg"
     }
   ]
 }

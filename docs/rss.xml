@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 19 Aug 2026 08:41:32 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 08:42:47 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>NLP – Sentence transformers sous Julia (Transformers.jl / Hugging Face)</title>
-            <link>https://www.youtube.com/watch?v=0EsKXRhOYxM</link>
-            <description><![CDATA[Machine learning. Data science. NLP (natural language processing). Text Mining. Utilisation d'un modèle « sentence transformers ...]]></description>
-            <pubDate>Mon, 22 Jun 2026 15:04:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=0EsKXRhOYxM</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>Intelligence artificielle. “ChatGPT for Teens” : OpenAI lance une version de son IA destinée aux 13-17 ans</title>
+            <link>https://www.ledauphine.com/science-et-technologie/2026/08/18/chatgpt-for-teens-openai-lance-une-version-de-son-ia-destinee-aux-13-17-ans</link>
+            <description><![CDATA[OpenAI a commencé ce mardi à déployer une version de ChatGPT réservée aux adolescents, appliquée par défaut aux 13-17 ans avec des garde-fous renforcés.]]></description>
+            <pubDate>Tue, 18 Aug 2026 18:09:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.ledauphine.com/science-et-technologie/2026/08/18/chatgpt-for-teens-openai-lance-une-version-de-son-ia-destinee-aux-13-17-ans</guid>
+            <source>Le Dauphiné Libéré</source>
         </item>
         <item>
             <title>NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)</title>
@@ -29,12 +29,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Actualité : L'IA pourra guérir la plupart des maladies humaines d'ici 5 à 10 ans, affirme le fondateur de Claude</title>
-            <link>https://www.lesnumeriques.com/intelligence-artificielle/l-ia-pourra-guerir-la-plupart-des-maladies-humaines-d-ici-5-a-10-ans-affirme-le-fondateur-de-claude-n260487.html</link>
-            <description><![CDATA[Le patron de la start-up américaine qui développe Claude, l’un des grands rivaux de ChatGPT, affirme que l’intelligence artificielle pourrait aider à traiter ou prévenir la plupart des maladies humain...]]></description>
-            <pubDate>Mon, 17 Aug 2026 06:31:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/l-ia-pourra-guerir-la-plupart-des-maladies-humaines-d-ici-5-a-10-ans-affirme-le-fondateur-de-claude-n260487.html</guid>
-            <source>Les Numériques</source>
+            <title>Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning</title>
+            <link>https://www.youtube.com/watch?v=PY_wRwL3Q0E</link>
+            <description><![CDATA[Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...]]></description>
+            <pubDate>Wed, 15 Jul 2026 16:07:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=PY_wRwL3Q0E</guid>
+            <source>Rafa Explique</source>
         </item>
         <item>
             <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
@@ -61,14 +61,6 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>L’intelligence artificielle génère une crise de confiance majeure dans le monde professionnel</title>
-            <link>https://www.fredzone.org/lintelligence-artificielle-genere-une-crise-de-confiance-majeure-dans-le-monde-professionnel/</link>
-            <description><![CDATA[La prolifération massive de contenus générés par intelligence artificielle transforme radicalement notre rapport à l’information professionnelle. Ce phénomène, désormais qualifié de slop, ne se limite...]]></description>
-            <pubDate>Mon, 17 Aug 2026 16:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.fredzone.org/lintelligence-artificielle-genere-une-crise-de-confiance-majeure-dans-le-monde-professionnel/</guid>
-            <source>FREDZONE</source>
-        </item>
-        <item>
             <title>Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet</title>
             <link>https://www.youtube.com/watch?v=x7Nh0RKEoxg</link>
             <description><![CDATA[Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...]]></description>
@@ -93,6 +85,14 @@
             <source>Informatique ISTA</source>
         </item>
         <item>
+            <title>FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL</title>
+            <link>https://www.youtube.com/watch?v=Lp9R5PlZeRg</link>
+            <description><![CDATA[FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...]]></description>
+            <pubDate>Mon, 10 Aug 2026 22:57:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Lp9R5PlZeRg</guid>
+            <source>Ceemtic Analytics</source>
+        </item>
+        <item>
             <title>Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant</title>
             <link>https://www.youtube.com/watch?v=3AUqD4ZwGts</link>
             <description><![CDATA[Formation SQL Débutant avec PostgreSQL et VS Code | Vidéo 1 : Introduction à SQL Bienvenue dans cette première vidéo de ...]]></description>
@@ -109,20 +109,28 @@
             <source>Mikail Altundas</source>
         </item>
         <item>
-            <title>Comment analyser vos données avec Claude Code | Formation Complète Claude pour Data Analyst de A à Z</title>
-            <link>https://www.youtube.com/watch?v=Z1Y41sOVWyQ</link>
-            <description><![CDATA[Bienvenue dans cette formation complète consacrée à l'analyse des données avec Claude. Vous comprendrez ce qu'est Claude ...]]></description>
-            <pubDate>Tue, 21 Jul 2026 15:59:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z1Y41sOVWyQ</guid>
-            <source>Oscar Aksanti</source>
+            <title>Comment créer une pyramide des âges sur Power BI ?</title>
+            <link>https://www.youtube.com/watch?v=rDVtYMoa_Ok</link>
+            <description><![CDATA[Retrouvez la vidéo juste ici : https://www.youtube.com/watch?v=v0Z8TMkAbaE Testez votre niveau sur PowerBI et recevez des ...]]></description>
+            <pubDate>Tue, 04 Aug 2026 16:30:12 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=rDVtYMoa_Ok</guid>
+            <source>Morpheus Formation | Excel, Power BI, Data</source>
         </item>
         <item>
-            <title>Les fluids de refroidissement Castrol ON PG25 ont été validés pour les infrastructures d'usines d'IA et de centres de données conformes aux exigences de NVIDIA</title>
-            <link>https://www.prnewswire.com/news-releases/les-fluids-de-refroidissement-castrol-on-pg25-ont-ete-valides-pour-les-infrastructures-dusines-dia-et-de-centres-de-donnees-conformes-aux-exigences-de-nvidia-302853846.html</link>
-            <description><![CDATA[La validation a consisté à examiner les performances techniques des produits et la compatibilité des matériaux, ainsi que la résilience de l'activité et de la chaîne d'approvisionnement mondiale de Ca...]]></description>
-            <pubDate>Tue, 18 Aug 2026 07:57:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/les-fluids-de-refroidissement-castrol-on-pg25-ont-ete-valides-pour-les-infrastructures-dusines-dia-et-de-centres-de-donnees-conformes-aux-exigences-de-nvidia-302853846.html</guid>
-            <source>PRNewswire</source>
+            <title>Le ministère des Comptes publics présente ses "excuses" après le piratage des données du fisc et annonce des mesures d'urgence</title>
+            <link>https://www.journaldunet.com/business/action-publique/1553819-le-ministere-des-comptes-publics-presente-ses-excuses-apres-le-piratage-du-site-des-impots-et-annonce-des-mesures-d-urgence/</link>
+            <description><![CDATA[Après une série de fuites de données au fisc, le gouvernement reconnaît des faiblesses et dévoile un plan d'action immédiat.]]></description>
+            <pubDate>Wed, 19 Aug 2026 07:18:24 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/business/action-publique/1553819-le-ministere-des-comptes-publics-presente-ses-excuses-apres-le-piratage-du-site-des-impots-et-annonce-des-mesures-d-urgence/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
+            <title>« Attirer les utilisateurs. Collecter leurs données. Dissimuler la vérité au grand public » : Meta fait face à un procès qui pourrait ruiner l’entreprise.</title>
+            <link>https://www.frandroid.com/marques/meta/3215723_attirer-les-utilisateurs-collecter-leurs-donnees-dissimuler-la-verite-au-grand-public-meta-fait-face-a-un-proces-qui-pourrait-ruiner-lentreprise</link>
+            <description><![CDATA[Aux États-Unis vient de s’ouvrir une saga judiciaire qui pourrait bien avoir des conséquences désastreuses pour Mark Zuckerberg et sa firme. Plusieurs États accusent Facebook et Instagram d’être inten...]]></description>
+            <pubDate>Wed, 19 Aug 2026 08:22:58 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/marques/meta/3215723_attirer-les-utilisateurs-collecter-leurs-donnees-dissimuler-la-verite-au-grand-public-meta-fait-face-a-un-proces-qui-pourrait-ruiner-lentreprise</guid>
+            <source>Frandroid</source>
         </item>
         <item>
             <title>Comment créer une base de données avec le langage SQL ?</title>
@@ -133,19 +141,19 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Google Workspace autorise Gemini à accéder aux données de votre entreprise par défaut : comment désactiver cette fonctionnalité ?</title>
-            <link>https://www.zdnet.fr/pratique/google-workspace-autorise-gemini-a-acceder-aux-donnees-de-votre-entreprise-par-defaut-comment-desactiver-cette-fonctionnalite-500111.htm</link>
-            <description><![CDATA[Dans Google Workspace, Gemini a accès par défaut à Gmail, Docs, Agenda, Chat et bien d'autres services. Voici pourquoi cela est important et comment les administrateurs peuvent désactiver cette foncti...]]></description>
-            <pubDate>Tue, 18 Aug 2026 03:08:59 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/pratique/google-workspace-autorise-gemini-a-acceder-aux-donnees-de-votre-entreprise-par-defaut-comment-desactiver-cette-fonctionnalite-500111.htm</guid>
-            <source>ZDNet France</source>
+            <title>Piratage du fisc : "Ce que l'on peut espérer, c'est que ce soit une sorte d'électrochoc", souligne Benoît Grünemwald, expert en cybersécurité</title>
+            <link>https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-du-fisc-ce-que-l-on-peut-esperer-c-est-que-ce-soit-une-sorte-d-electrochoc-souligne-benoit-grunemwald-expert-en-cybersecurite_8153246.html</link>
+            <description><![CDATA[Benoît Grünemwald revient dans "La Matinale" du 19 août sur le vol de données de 700 000 contribuables, espérant que "l'État prenne encore plus en considération la sécurité" après cet événement, et "p...]]></description>
+            <pubDate>Wed, 19 Aug 2026 07:33:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-du-fisc-ce-que-l-on-peut-esperer-c-est-que-ce-soit-une-sorte-d-electrochoc-souligne-benoit-grunemwald-expert-en-cybersecurite_8153246.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
         <item>
-            <title>Quelles sont les meilleures caméras de télésurveillance extérieure sans fil en 2026 ?</title>
-            <link>https://www.zdnet.fr/selection-expert-zdnet-france/quelles-sont-les-meilleures-cameras-de-telesurveillance-exterieure-sans-fil-en-2026-500135.htm</link>
-            <description><![CDATA[L'équipement de vidéoprotection professionnelle en extérieur exige un arbitrage entre couverture optique, souveraineté des données et facilité de déploiement réseau. Voici notre sélection.]]></description>
-            <pubDate>Tue, 18 Aug 2026 04:08:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/selection-expert-zdnet-france/quelles-sont-les-meilleures-cameras-de-telesurveillance-exterieure-sans-fil-en-2026-500135.htm</guid>
+            <title>ZDNET Morning 19/08/2026 : Transferts d'argent sur TikTok, Fuite de données à l'Éducation nationale, Recycler un ancien smartphone Android en serveur domestique,...</title>
+            <link>https://www.zdnet.fr/actualites/zdnet-morning-19-08-2026-transferts-dargent-sur-tiktok-fuite-de-donnees-a-leducation-nationale-recycler-un-ancien-smartphone-android-en-serveur-domestique-500159.htm</link>
+            <description><![CDATA[Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.]]></description>
+            <pubDate>Wed, 19 Aug 2026 08:40:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/zdnet-morning-19-08-2026-transferts-dargent-sur-tiktok-fuite-de-donnees-a-leducation-nationale-recycler-un-ancien-smartphone-android-en-serveur-domestique-500159.htm</guid>
             <source>ZDNet France</source>
         </item>
         <item>
@@ -163,14 +171,6 @@
             <pubDate>Wed, 08 Jul 2026 12:39:10 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=-Oba6X3lIxg</guid>
             <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>Python pour la data : Le guide du débutant</title>
-            <link>https://www.youtube.com/watch?v=s6yhACGTANI</link>
-            <description><![CDATA[La vidéo intitulée "Python : Le guide du débutant" est une présentation visuelle conçue pour vous introduire aux fondements de ...]]></description>
-            <pubDate>Tue, 30 Jun 2026 07:58:21 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=s6yhACGTANI</guid>
-            <source>Eco_sta_tech</source>
         </item>
     </channel>
 </rss>
