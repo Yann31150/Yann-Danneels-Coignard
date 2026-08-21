@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 20 Aug 2026 08:42:47 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 08:45:25 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Intelligence artificielle. “ChatGPT for Teens” : OpenAI lance une version de son IA destinée aux 13-17 ans</title>
-            <link>https://www.ledauphine.com/science-et-technologie/2026/08/18/chatgpt-for-teens-openai-lance-une-version-de-son-ia-destinee-aux-13-17-ans</link>
-            <description><![CDATA[OpenAI a commencé ce mardi à déployer une version de ChatGPT réservée aux adolescents, appliquée par défaut aux 13-17 ans avec des garde-fous renforcés.]]></description>
-            <pubDate>Tue, 18 Aug 2026 18:09:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.ledauphine.com/science-et-technologie/2026/08/18/chatgpt-for-teens-openai-lance-une-version-de-son-ia-destinee-aux-13-17-ans</guid>
-            <source>Le Dauphiné Libéré</source>
-        </item>
         <item>
             <title>NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)</title>
             <link>https://www.youtube.com/watch?v=3J5VPpX2Jww</link>
@@ -29,12 +21,20 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning</title>
-            <link>https://www.youtube.com/watch?v=PY_wRwL3Q0E</link>
-            <description><![CDATA[Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...]]></description>
-            <pubDate>Wed, 15 Jul 2026 16:07:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=PY_wRwL3Q0E</guid>
-            <source>Rafa Explique</source>
+            <title>Meta AI lance son assistant en bêta sur macOS, et rejoint ainsi ses camarades</title>
+            <link>https://www.macg.co/intelligence-artificielle/2026/08/meta-ai-lance-son-assistant-en-beta-sur-macos-et-rejoint-ainsi-ses-camarades-310461</link>
+            <description><![CDATA[Alors que ChatGPT, Claude, Perplexity, mais aussi d’autres comme Gemini tentent l’aventure de l’app Mac mêlant intelligence artificielle et assistant personnel sur ordinateur, voilà qu’un nouvel arriv...]]></description>
+            <pubDate>Wed, 19 Aug 2026 19:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.macg.co/intelligence-artificielle/2026/08/meta-ai-lance-son-assistant-en-beta-sur-macos-et-rejoint-ainsi-ses-camarades-310461</guid>
+            <source>MacGeneration</source>
+        </item>
+        <item>
+            <title>Meta lance son assistant IA sur Mac, avec un focus marketing et publicité</title>
+            <link>https://www.zdnet.fr/actualites/meta-lance-son-assistant-ia-sur-mac-avec-un-focus-marketing-et-publicite-500254.htm</link>
+            <description><![CDATA[L’arrivée sur desktop intervient alors que Meta AI reste en retrait face à ChatGPT et Claude, dont les applications Mac permettent déjà de contrôler directement l’ordinateur plutôt que de simplement e...]]></description>
+            <pubDate>Thu, 20 Aug 2026 08:40:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/meta-lance-son-assistant-ia-sur-mac-avec-un-focus-marketing-et-publicite-500254.htm</guid>
+            <source>ZDNet France</source>
         </item>
         <item>
             <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
@@ -77,12 +77,12 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
-            <title>Le codage des données UTF-8 #informatique #données #data #codage</title>
-            <link>https://www.youtube.com/watch?v=syxw4SZor-s</link>
-            <description><![CDATA[Le codage des données UTF-8 #informatique #données #data #codage Pourquoi certains sites affichent-ils des caractères ...]]></description>
-            <pubDate>Thu, 02 Jul 2026 11:00:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=syxw4SZor-s</guid>
-            <source>Informatique ISTA</source>
+            <title>Configurer MySQL ou PostgreSQL dans .env | Chapitre 01 · Laravel 13</title>
+            <link>https://www.youtube.com/watch?v=oV_0oQSyJ2Y</link>
+            <description><![CDATA[Configurer MySQL ou PostgreSQL dans .env avec Laravel 13, expliqué pas à pas en français. L'objectif est de renseigner hôte, ...]]></description>
+            <pubDate>Wed, 05 Aug 2026 18:15:12 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=oV_0oQSyJ2Y</guid>
+            <source>Laravel Full</source>
         </item>
         <item>
             <title>FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL</title>
@@ -109,28 +109,12 @@
             <source>Mikail Altundas</source>
         </item>
         <item>
-            <title>Comment créer une pyramide des âges sur Power BI ?</title>
-            <link>https://www.youtube.com/watch?v=rDVtYMoa_Ok</link>
-            <description><![CDATA[Retrouvez la vidéo juste ici : https://www.youtube.com/watch?v=v0Z8TMkAbaE Testez votre niveau sur PowerBI et recevez des ...]]></description>
-            <pubDate>Tue, 04 Aug 2026 16:30:12 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=rDVtYMoa_Ok</guid>
-            <source>Morpheus Formation | Excel, Power BI, Data</source>
-        </item>
-        <item>
-            <title>Le ministère des Comptes publics présente ses "excuses" après le piratage des données du fisc et annonce des mesures d'urgence</title>
-            <link>https://www.journaldunet.com/business/action-publique/1553819-le-ministere-des-comptes-publics-presente-ses-excuses-apres-le-piratage-du-site-des-impots-et-annonce-des-mesures-d-urgence/</link>
-            <description><![CDATA[Après une série de fuites de données au fisc, le gouvernement reconnaît des faiblesses et dévoile un plan d'action immédiat.]]></description>
-            <pubDate>Wed, 19 Aug 2026 07:18:24 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/business/action-publique/1553819-le-ministere-des-comptes-publics-presente-ses-excuses-apres-le-piratage-du-site-des-impots-et-annonce-des-mesures-d-urgence/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
-            <title>« Attirer les utilisateurs. Collecter leurs données. Dissimuler la vérité au grand public » : Meta fait face à un procès qui pourrait ruiner l’entreprise.</title>
-            <link>https://www.frandroid.com/marques/meta/3215723_attirer-les-utilisateurs-collecter-leurs-donnees-dissimuler-la-verite-au-grand-public-meta-fait-face-a-un-proces-qui-pourrait-ruiner-lentreprise</link>
-            <description><![CDATA[Aux États-Unis vient de s’ouvrir une saga judiciaire qui pourrait bien avoir des conséquences désastreuses pour Mark Zuckerberg et sa firme. Plusieurs États accusent Facebook et Instagram d’être inten...]]></description>
-            <pubDate>Wed, 19 Aug 2026 08:22:58 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/marques/meta/3215723_attirer-les-utilisateurs-collecter-leurs-donnees-dissimuler-la-verite-au-grand-public-meta-fait-face-a-un-proces-qui-pourrait-ruiner-lentreprise</guid>
-            <source>Frandroid</source>
+            <title>Meta AI lance une app macOS et se connecte à Facebook et Instagram</title>
+            <link>https://www.blogdumoderateur.com/meta-ai-lance-app-macos-connecte-facebook-instagram/</link>
+            <description><![CDATA[L'assistant de Meta dispose désormais d'une application macOS, avec partage de fenêtre et dictée système. En parallèle, il se connecte aux données des comptes professionnels sur le web, sur mobile et ...]]></description>
+            <pubDate>Thu, 20 Aug 2026 08:36:07 -0000</pubDate>
+            <guid isPermaLink="true">https://www.blogdumoderateur.com/meta-ai-lance-app-macos-connecte-facebook-instagram/</guid>
+            <source>Blogdumoderateur.com</source>
         </item>
         <item>
             <title>Comment créer une base de données avec le langage SQL ?</title>
@@ -141,20 +125,12 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Piratage du fisc : "Ce que l'on peut espérer, c'est que ce soit une sorte d'électrochoc", souligne Benoît Grünemwald, expert en cybersécurité</title>
-            <link>https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-du-fisc-ce-que-l-on-peut-esperer-c-est-que-ce-soit-une-sorte-d-electrochoc-souligne-benoit-grunemwald-expert-en-cybersecurite_8153246.html</link>
-            <description><![CDATA[Benoît Grünemwald revient dans "La Matinale" du 19 août sur le vol de données de 700 000 contribuables, espérant que "l'État prenne encore plus en considération la sécurité" après cet événement, et "p...]]></description>
-            <pubDate>Wed, 19 Aug 2026 07:33:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/piratage-du-fisc-ce-que-l-on-peut-esperer-c-est-que-ce-soit-une-sorte-d-electrochoc-souligne-benoit-grunemwald-expert-en-cybersecurite_8153246.html</guid>
-            <source>Franceinfo.fr</source>
-        </item>
-        <item>
-            <title>ZDNET Morning 19/08/2026 : Transferts d'argent sur TikTok, Fuite de données à l'Éducation nationale, Recycler un ancien smartphone Android en serveur domestique,...</title>
-            <link>https://www.zdnet.fr/actualites/zdnet-morning-19-08-2026-transferts-dargent-sur-tiktok-fuite-de-donnees-a-leducation-nationale-recycler-un-ancien-smartphone-android-en-serveur-domestique-500159.htm</link>
-            <description><![CDATA[Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.]]></description>
-            <pubDate>Wed, 19 Aug 2026 08:40:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/zdnet-morning-19-08-2026-transferts-dargent-sur-tiktok-fuite-de-donnees-a-leducation-nationale-recycler-un-ancien-smartphone-android-en-serveur-domestique-500159.htm</guid>
-            <source>ZDNet France</source>
+            <title>Lucid annonce Munsterhuis Autobedrijven comme son premier partenaire commercial aux Pays-Bas</title>
+            <link>https://www.prnewswire.com/news-releases/lucid-annonce-munsterhuis-autobedrijven-comme-son-premier-partenaire-commercial-aux-pays-bas-302855163.html</link>
+            <description><![CDATA[Ce partenariat renforce la présence de Lucid, en venant compléter le Lucid Studio et le Centre de services déjà implantés à Hilversum, et en élargissant l'accès des clients à l'échelle nationale. Muns...]]></description>
+            <pubDate>Thu, 20 Aug 2026 08:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/lucid-annonce-munsterhuis-autobedrijven-comme-son-premier-partenaire-commercial-aux-pays-bas-302855163.html</guid>
+            <source>PRNewswire</source>
         </item>
         <item>
             <title>Data Analyst avec Python | Introduction complète à Python | Tutoriel complet</title>
@@ -171,6 +147,30 @@
             <pubDate>Wed, 08 Jul 2026 12:39:10 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=-Oba6X3lIxg</guid>
             <source>Le Decodeur</source>
+        </item>
+        <item>
+            <title>Python pour la data : Le guide du débutant</title>
+            <link>https://www.youtube.com/watch?v=s6yhACGTANI</link>
+            <description><![CDATA[La vidéo intitulée "Python : Le guide du débutant" est une présentation visuelle conçue pour vous introduire aux fondements de ...]]></description>
+            <pubDate>Tue, 30 Jun 2026 07:58:21 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=s6yhACGTANI</guid>
+            <source>Eco_sta_tech</source>
+        </item>
+        <item>
+            <title>L’IA pourra-t-elle vraiment guérir toutes les maladies d’ici 10 ans ?</title>
+            <link>https://www.journaldugeek.com/2026/08/19/lia-pourra-t-elle-vraiment-guerir-toutes-les-maladies-dici-10-ans/</link>
+            <description><![CDATA[Le patron d'Anthropic s'avance un peu beaucoup sur l'évolution de l'intelligence artificielle dans la médecine.]]></description>
+            <pubDate>Wed, 19 Aug 2026 12:01:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/08/19/lia-pourra-t-elle-vraiment-guerir-toutes-les-maladies-dici-10-ans/</guid>
+            <source>Journal du geek</source>
+        </item>
+        <item>
+            <title>Siri AI sur Apple TV : la confirmation que l'Europe n'aura peut-être pas</title>
+            <link>https://www.generation-nt.com/actualites/apple-tv-4k-siri-ai-europe-dma-blocage-2079981</link>
+            <description><![CDATA[La dernière version de tvOS, le système d'exploitation de l'Apple TV, contient des références explicites à Siri AI. Cette découverte technique confirme l'intégration prochaine de l'assistant dopé à l'...]]></description>
+            <pubDate>Wed, 19 Aug 2026 18:50:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/apple-tv-4k-siri-ai-europe-dma-blocage-2079981</guid>
+            <source>Génération NT</source>
         </item>
     </channel>
 </rss>
