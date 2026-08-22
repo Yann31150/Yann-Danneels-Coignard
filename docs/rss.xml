@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 21 Aug 2026 08:45:25 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 08:34:11 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,20 +21,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Meta AI lance son assistant en bêta sur macOS, et rejoint ainsi ses camarades</title>
-            <link>https://www.macg.co/intelligence-artificielle/2026/08/meta-ai-lance-son-assistant-en-beta-sur-macos-et-rejoint-ainsi-ses-camarades-310461</link>
-            <description><![CDATA[Alors que ChatGPT, Claude, Perplexity, mais aussi d’autres comme Gemini tentent l’aventure de l’app Mac mêlant intelligence artificielle et assistant personnel sur ordinateur, voilà qu’un nouvel arriv...]]></description>
-            <pubDate>Wed, 19 Aug 2026 19:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.macg.co/intelligence-artificielle/2026/08/meta-ai-lance-son-assistant-en-beta-sur-macos-et-rejoint-ainsi-ses-camarades-310461</guid>
-            <source>MacGeneration</source>
-        </item>
-        <item>
-            <title>Meta lance son assistant IA sur Mac, avec un focus marketing et publicité</title>
-            <link>https://www.zdnet.fr/actualites/meta-lance-son-assistant-ia-sur-mac-avec-un-focus-marketing-et-publicite-500254.htm</link>
-            <description><![CDATA[L’arrivée sur desktop intervient alors que Meta AI reste en retrait face à ChatGPT et Claude, dont les applications Mac permettent déjà de contrôler directement l’ordinateur plutôt que de simplement e...]]></description>
-            <pubDate>Thu, 20 Aug 2026 08:40:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/meta-lance-son-assistant-ia-sur-mac-avec-un-focus-marketing-et-publicite-500254.htm</guid>
-            <source>ZDNet France</source>
+            <title>Slack Code : un canal collaboratif pour orchestrer le travail des agents IA en équipe</title>
+            <link>https://www.blogdumoderateur.com/slack-code-canal-collaboratif-orchestrer-travail-agents-ia-equipe/</link>
+            <description><![CDATA[Mentionner Claude, Devin, Vercel, Copilot ou, bientôt, ChatGPT dans Slack ouvre désormais un canal dédié, visible par toute l'équipe, où il est possible de collaborer avec des agents IA sur des tâches...]]></description>
+            <pubDate>Fri, 21 Aug 2026 08:23:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.blogdumoderateur.com/slack-code-canal-collaboratif-orchestrer-travail-agents-ia-equipe/</guid>
+            <source>Blogdumoderateur.com</source>
         </item>
         <item>
             <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
@@ -93,6 +85,14 @@
             <source>Ceemtic Analytics</source>
         </item>
         <item>
+            <title>Python &amp;amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python</title>
+            <link>https://www.youtube.com/watch?v=1o308cqkEXc</link>
+            <description><![CDATA[Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...]]></description>
+            <pubDate>Thu, 20 Aug 2026 23:58:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1o308cqkEXc</guid>
+            <source>Mausse Institut</source>
+        </item>
+        <item>
             <title>Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant</title>
             <link>https://www.youtube.com/watch?v=3AUqD4ZwGts</link>
             <description><![CDATA[Formation SQL Débutant avec PostgreSQL et VS Code | Vidéo 1 : Introduction à SQL Bienvenue dans cette première vidéo de ...]]></description>
@@ -109,12 +109,12 @@
             <source>Mikail Altundas</source>
         </item>
         <item>
-            <title>Meta AI lance une app macOS et se connecte à Facebook et Instagram</title>
-            <link>https://www.blogdumoderateur.com/meta-ai-lance-app-macos-connecte-facebook-instagram/</link>
-            <description><![CDATA[L'assistant de Meta dispose désormais d'une application macOS, avec partage de fenêtre et dictée système. En parallèle, il se connecte aux données des comptes professionnels sur le web, sur mobile et ...]]></description>
-            <pubDate>Thu, 20 Aug 2026 08:36:07 -0000</pubDate>
-            <guid isPermaLink="true">https://www.blogdumoderateur.com/meta-ai-lance-app-macos-connecte-facebook-instagram/</guid>
-            <source>Blogdumoderateur.com</source>
+            <title>Découvrez notre formation sur Power BI #data #powerbi</title>
+            <link>https://www.youtube.com/watch?v=5XRR3C0nQLg</link>
+            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
+            <pubDate>Tue, 21 Jul 2026 05:30:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=5XRR3C0nQLg</guid>
+            <source>OpenClassrooms en Français</source>
         </item>
         <item>
             <title>Comment créer une base de données avec le langage SQL ?</title>
@@ -125,12 +125,20 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Lucid annonce Munsterhuis Autobedrijven comme son premier partenaire commercial aux Pays-Bas</title>
-            <link>https://www.prnewswire.com/news-releases/lucid-annonce-munsterhuis-autobedrijven-comme-son-premier-partenaire-commercial-aux-pays-bas-302855163.html</link>
-            <description><![CDATA[Ce partenariat renforce la présence de Lucid, en venant compléter le Lucid Studio et le Centre de services déjà implantés à Hilversum, et en élargissant l'accès des clients à l'échelle nationale. Muns...]]></description>
-            <pubDate>Thu, 20 Aug 2026 08:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/lucid-annonce-munsterhuis-autobedrijven-comme-son-premier-partenaire-commercial-aux-pays-bas-302855163.html</guid>
-            <source>PRNewswire</source>
+            <title>ENQUETE FRANCEINFO. "Des jeunes qui répondent à un effet de meute" : plongée dans la nébuleuse des "lookups", ces moteurs de recherche où finissent les données piratées</title>
+            <link>https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/enquete-franceinfo-des-jeunes-qui-repondent-a-un-effet-de-meute-plongee-dans-la-nebuleuse-des-lookups-ces-moteurs-de-recherche-ou-finissent-les-donnees-piratees_8153933.html</link>
+            <description><![CDATA[Ces outils permettent de consulter des données personnelles volées au cours de cyberattaques. Illégaux et montés par des individus en quête de notoriété, de challenge ou d'argent, ils prolifèrent sur ...]]></description>
+            <pubDate>Fri, 21 Aug 2026 04:00:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/enquete-franceinfo-des-jeunes-qui-repondent-a-un-effet-de-meute-plongee-dans-la-nebuleuse-des-lookups-ces-moteurs-de-recherche-ou-finissent-les-donnees-piratees_8153933.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
+            <title>Chute d'Evergrande : désigné « entièrement responsable », son fondateur Xu Jiayin est condamné à la prison à vie par la justice chinoise</title>
+            <link>https://www.challenges.fr/immobilier/chute-devergrande-designe-entierement-responsable-son-fondateur-xu-jiayin-est-condamne-a-la-prison-a-vie-par-la-justice-chinoise_645281</link>
+            <description><![CDATA[La justice chinoise a condamné ce jeudi 20 août le fondateur d’Evergrande, une entreprise qui était autrefois le premier promoteur immobilier de Chine, à la prison à vie. Plus de 2 milliards d’euros d...]]></description>
+            <pubDate>Thu, 20 Aug 2026 14:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.challenges.fr/immobilier/chute-devergrande-designe-entierement-responsable-son-fondateur-xu-jiayin-est-condamne-a-la-prison-a-vie-par-la-justice-chinoise_645281</guid>
+            <source>Challenges</source>
         </item>
         <item>
             <title>Data Analyst avec Python | Introduction complète à Python | Tutoriel complet</title>
@@ -149,28 +157,20 @@
             <source>Le Decodeur</source>
         </item>
         <item>
+            <title>L’OLED pourrait bientôt devenir plus lumineux et moins énergivore chez LG</title>
+            <link>https://www.begeek.fr/loled-pourrait-bientot-devenir-plus-lumineux-et-moins-energivore-chez-lg-438906</link>
+            <description><![CDATA[Avec sa techno FLiPP, LG promet des dalles OLED plus lumineuses, plus durables et moins coûteuses à produire. Du TV au casque VR, ça change l’équation.]]></description>
+            <pubDate>Fri, 21 Aug 2026 08:00:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.begeek.fr/loled-pourrait-bientot-devenir-plus-lumineux-et-moins-energivore-chez-lg-438906</guid>
+            <source>Begeek.fr</source>
+        </item>
+        <item>
             <title>Python pour la data : Le guide du débutant</title>
             <link>https://www.youtube.com/watch?v=s6yhACGTANI</link>
             <description><![CDATA[La vidéo intitulée "Python : Le guide du débutant" est une présentation visuelle conçue pour vous introduire aux fondements de ...]]></description>
             <pubDate>Tue, 30 Jun 2026 07:58:21 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=s6yhACGTANI</guid>
             <source>Eco_sta_tech</source>
-        </item>
-        <item>
-            <title>L’IA pourra-t-elle vraiment guérir toutes les maladies d’ici 10 ans ?</title>
-            <link>https://www.journaldugeek.com/2026/08/19/lia-pourra-t-elle-vraiment-guerir-toutes-les-maladies-dici-10-ans/</link>
-            <description><![CDATA[Le patron d'Anthropic s'avance un peu beaucoup sur l'évolution de l'intelligence artificielle dans la médecine.]]></description>
-            <pubDate>Wed, 19 Aug 2026 12:01:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/08/19/lia-pourra-t-elle-vraiment-guerir-toutes-les-maladies-dici-10-ans/</guid>
-            <source>Journal du geek</source>
-        </item>
-        <item>
-            <title>Siri AI sur Apple TV : la confirmation que l'Europe n'aura peut-être pas</title>
-            <link>https://www.generation-nt.com/actualites/apple-tv-4k-siri-ai-europe-dma-blocage-2079981</link>
-            <description><![CDATA[La dernière version de tvOS, le système d'exploitation de l'Apple TV, contient des références explicites à Siri AI. Cette découverte technique confirme l'intégration prochaine de l'assistant dopé à l'...]]></description>
-            <pubDate>Wed, 19 Aug 2026 18:50:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/apple-tv-4k-siri-ai-europe-dma-blocage-2079981</guid>
-            <source>Génération NT</source>
         </item>
     </channel>
 </rss>

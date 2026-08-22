@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-21T08:45:25.334496",
+  "lastUpdate": "2026-08-22T08:34:11.617798",
   "articles": [
     {
       "title": "NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)",
@@ -14,23 +14,11 @@
       "thumbnail": "https://i.ytimg.com/vi/3J5VPpX2Jww/hqdefault.jpg"
     },
     {
-      "title": "Meta AI lance son assistant en bêta sur macOS, et rejoint ainsi ses camarades",
-      "description": "Alors que ChatGPT, Claude, Perplexity, mais aussi d’autres comme Gemini tentent l’aventure de l’app Mac mêlant intelligence artificielle et assistant personnel sur ordinateur, voilà qu’un nouvel arriv...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/08/meta-ai-lance-son-assistant-en-beta-sur-macos-et-rejoint-ainsi-ses-camarades-310461",
-      "source": "MacGeneration",
-      "publishedAt": "2026-08-19T19:00:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Meta lance son assistant IA sur Mac, avec un focus marketing et publicité",
-      "description": "L’arrivée sur desktop intervient alors que Meta AI reste en retrait face à ChatGPT et Claude, dont les applications Mac permettent déjà de contrôler directement l’ordinateur plutôt que de simplement e...",
-      "url": "https://www.zdnet.fr/actualites/meta-lance-son-assistant-ia-sur-mac-avec-un-focus-marketing-et-publicite-500254.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-08-20T08:40:00Z",
+      "title": "Slack Code : un canal collaboratif pour orchestrer le travail des agents IA en équipe",
+      "description": "Mentionner Claude, Devin, Vercel, Copilot ou, bientôt, ChatGPT dans Slack ouvre désormais un canal dédié, visible par toute l'équipe, où il est possible de collaborer avec des agents IA sur des tâches...",
+      "url": "https://www.blogdumoderateur.com/slack-code-canal-collaboratif-orchestrer-travail-agents-ia-equipe/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-08-21T08:23:31Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -122,6 +110,18 @@
       "thumbnail": "https://i.ytimg.com/vi/Lp9R5PlZeRg/hqdefault.jpg"
     },
     {
+      "title": "Python &amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python",
+      "description": "Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...",
+      "url": "https://www.youtube.com/watch?v=1o308cqkEXc",
+      "source": "Mausse Institut",
+      "publishedAt": "2026-08-20T23:58:11Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1o308cqkEXc",
+      "thumbnail": "https://i.ytimg.com/vi/1o308cqkEXc/hqdefault.jpg"
+    },
+    {
       "title": "Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant",
       "description": "Formation SQL Débutant avec PostgreSQL et VS Code | Vidéo 1 : Introduction à SQL Bienvenue dans cette première vidéo de ...",
       "url": "https://www.youtube.com/watch?v=3AUqD4ZwGts",
@@ -146,16 +146,16 @@
       "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
-      "title": "Meta AI lance une app macOS et se connecte à Facebook et Instagram",
-      "description": "L'assistant de Meta dispose désormais d'une application macOS, avec partage de fenêtre et dictée système. En parallèle, il se connecte aux données des comptes professionnels sur le web, sur mobile et ...",
-      "url": "https://www.blogdumoderateur.com/meta-ai-lance-app-macos-connecte-facebook-instagram/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-08-20T08:36:07Z",
+      "title": "Découvrez notre formation sur Power BI #data #powerbi",
+      "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
+      "url": "https://www.youtube.com/watch?v=5XRR3C0nQLg",
+      "source": "OpenClassrooms en Français",
+      "publishedAt": "2026-07-21T05:30:15Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "5XRR3C0nQLg",
+      "thumbnail": "https://i.ytimg.com/vi/5XRR3C0nQLg/hqdefault.jpg"
     },
     {
       "title": "Comment créer une base de données avec le langage SQL ?",
@@ -170,11 +170,23 @@
       "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
-      "title": "Lucid annonce Munsterhuis Autobedrijven comme son premier partenaire commercial aux Pays-Bas",
-      "description": "Ce partenariat renforce la présence de Lucid, en venant compléter le Lucid Studio et le Centre de services déjà implantés à Hilversum, et en élargissant l'accès des clients à l'échelle nationale. Muns...",
-      "url": "https://www.prnewswire.com/news-releases/lucid-annonce-munsterhuis-autobedrijven-comme-son-premier-partenaire-commercial-aux-pays-bas-302855163.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-08-20T08:00:00Z",
+      "title": "ENQUETE FRANCEINFO. \"Des jeunes qui répondent à un effet de meute\" : plongée dans la nébuleuse des \"lookups\", ces moteurs de recherche où finissent les données piratées",
+      "description": "Ces outils permettent de consulter des données personnelles volées au cours de cyberattaques. Illégaux et montés par des individus en quête de notoriété, de challenge ou d'argent, ils prolifèrent sur ...",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/enquete-franceinfo-des-jeunes-qui-repondent-a-un-effet-de-meute-plongee-dans-la-nebuleuse-des-lookups-ces-moteurs-de-recherche-ou-finissent-les-donnees-piratees_8153933.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-08-21T04:00:26Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chute d'Evergrande : désigné « entièrement responsable », son fondateur Xu Jiayin est condamné à la prison à vie par la justice chinoise",
+      "description": "La justice chinoise a condamné ce jeudi 20 août le fondateur d’Evergrande, une entreprise qui était autrefois le premier promoteur immobilier de Chine, à la prison à vie. Plus de 2 milliards d’euros d...",
+      "url": "https://www.challenges.fr/immobilier/chute-devergrande-designe-entierement-responsable-son-fondateur-xu-jiayin-est-condamne-a-la-prison-a-vie-par-la-justice-chinoise_645281",
+      "source": "Challenges",
+      "publishedAt": "2026-08-20T14:30:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,6 +218,18 @@
       "thumbnail": "https://i.ytimg.com/vi/-Oba6X3lIxg/hqdefault.jpg"
     },
     {
+      "title": "L’OLED pourrait bientôt devenir plus lumineux et moins énergivore chez LG",
+      "description": "Avec sa techno FLiPP, LG promet des dalles OLED plus lumineuses, plus durables et moins coûteuses à produire. Du TV au casque VR, ça change l’équation.",
+      "url": "https://www.begeek.fr/loled-pourrait-bientot-devenir-plus-lumineux-et-moins-energivore-chez-lg-438906",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-08-21T08:00:36Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Python pour la data : Le guide du débutant",
       "description": "La vidéo intitulée \"Python : Le guide du débutant\" est une présentation visuelle conçue pour vous introduire aux fondements de ...",
       "url": "https://www.youtube.com/watch?v=s6yhACGTANI",
@@ -218,11 +242,11 @@
       "thumbnail": "https://i.ytimg.com/vi/s6yhACGTANI/hqdefault.jpg"
     },
     {
-      "title": "L’IA pourra-t-elle vraiment guérir toutes les maladies d’ici 10 ans ?",
-      "description": "Le patron d'Anthropic s'avance un peu beaucoup sur l'évolution de l'intelligence artificielle dans la médecine.",
-      "url": "https://www.journaldugeek.com/2026/08/19/lia-pourra-t-elle-vraiment-guerir-toutes-les-maladies-dici-10-ans/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-08-19T12:01:51Z",
+      "title": "Apple Music va signaler les musiques générées par IA",
+      "description": "Apple Music prépare un système d’étiquetage pour signaler les musiques générées par intelligence artificielle. La plateforme de streaming a prévenu que ce type de…\nLire la suite…\nFacebook · X · iAddic...",
+      "url": "https://iphoneaddict.fr/post/news-433765-apple-music-signaler-musiques-generees-ia",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-08-21T07:40:15Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Siri AI sur Apple TV : la confirmation que l'Europe n'aura peut-être pas",
-      "description": "La dernière version de tvOS, le système d'exploitation de l'Apple TV, contient des références explicites à Siri AI. Cette découverte technique confirme l'intégration prochaine de l'assistant dopé à l'...",
-      "url": "https://www.generation-nt.com/actualites/apple-tv-4k-siri-ai-europe-dma-blocage-2079981",
-      "source": "Génération NT",
-      "publishedAt": "2026-08-19T18:50:01Z",
+      "title": "Économie. Les entreprises face à la fraude avec l'IA : « Il y a une nécessaire prise de conscience »",
+      "description": "Pour les experts-comptables, les fraudes générées par l’intelligence artificielle sont un sujet de préoccupation qui ne date pas d’aujourd’hui. La prise de conscience est cependant nécessaire.",
+      "url": "https://www.ledauphine.com/economie/2026/08/21/les-entreprises-face-a-la-fraude-avec-l-ia-il-y-a-une-necessaire-prise-de-conscience",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-08-21T05:05:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,35 +266,35 @@
       "thumbnail": ""
     },
     {
-      "title": "Gemini : le guide pour comprendre tous les outils, modèles et fonctionnalités",
-      "description": "Google a fait de Gemini la couche IA de tout son écosystème. On fait le point sur les outils, les modèles et les fonctionnalités qui le composent.",
-      "url": "https://www.blogdumoderateur.com/gemini-guide-comprendre-outils-modeles-fonctionnalites/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-08-19T05:00:18Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cadillac XT5 PHEV : l’IA s’invite à bord en Chine",
-      "description": "Cadillac dévoile en Chine le XT5 PHEV, avec 155 km d’autonomie électrique, transmission intégrale et IA Momenta R7. Cadillac renforce son offre en Chine avec le XT5 PHEV, un crossover hybride recharge...",
-      "url": "https://www.leblogauto.com/actualites/cadillac-xt5-phev-lia-sinvite-a-bord-en-chine/",
-      "source": "Leblogauto.com",
-      "publishedAt": "2026-08-20T06:26:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Confidentialité : voici un classement des meilleures et des pires IA, et Vibe (Mistral AI) ne s'en sort pas si mal",
-      "description": "Les chercheurs d'Incogni analysent 13 plateformes d'IA et les risques potentiels que chacune d'entre elles fait peser sur votre vie privée. Plus la plateforme est importante, plus le risque est élevé ...",
-      "url": "https://www.zdnet.fr/actualites/confidentialite-voici-un-classement-des-meilleures-et-des-pires-ia-et-vibe-mistral-ai-ne-sen-sort-pas-si-mal-500310.htm",
+      "title": "Apple Music encadre l'IA générative : vers une nouvelle norme de transparence",
+      "description": "Apple Music, d'ici la fin de l'année, imposera un étiquetage visible pour toute musique générée par intelligence artificielle.",
+      "url": "https://www.zdnet.fr/actualites/apple-music-encadre-lia-generative-vers-une-nouvelle-norme-de-transparence-500390.htm",
       "source": "ZDNet France",
-      "publishedAt": "2026-08-20T07:08:47Z",
+      "publishedAt": "2026-08-21T08:08:49Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Terence Tao, le Mozart des maths modernes, brandit un mème pour expliquer le souci des maths à l’ère de l’IA",
+      "description": "Alors que les géants de la tech célèbrent chaque prouesse algorithmique comme une victoire historique, le mathématicien Terence Tao utilise l'ironie d'un mème pour recadrer le débat : générer une démo...",
+      "url": "https://www.numerama.com/tech/2314973-terence-tao-le-mozart-des-maths-modernes-brandit-un-meme-pour-expliquer-le-souci-des-maths-a-lere-de-lia.html",
+      "source": "Numerama",
+      "publishedAt": "2026-08-20T14:40:02Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Pourquoi le remplacement du personnel par l'IA se retourne contre les entreprises – et 5 façons dont les dirigeants avisés créent une véritable valeur ajoutée",
+      "description": "Les trois quarts des entreprises ont constaté que les licenciements liés à l'IA coûtaient plus cher que ce qu'ils permettaient d'économiser, et pas moins de neuf entreprises sur dix y réfléchiraient à...",
+      "url": "https://www.zdnet.fr/actualites/pourquoi-le-remplacement-du-personnel-par-lia-se-retourne-contre-les-entreprises-et-5-facons-dont-les-dirigeants-avises-creent-une-veritable-valeur-ajoutee-500376.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-08-21T07:08:51Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
