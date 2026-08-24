@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-23T08:34:37.741249",
+  "lastUpdate": "2026-08-24T08:52:33.497041",
   "articles": [
     {
       "title": "ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)",
@@ -14,28 +14,28 @@
       "thumbnail": "https://i.ytimg.com/vi/rx7F_9Vm35Y/hqdefault.jpg"
     },
     {
-      "title": "NLP – Analyse des sentiments sous Julia (VaderSentiment.jl, TextModels.jl)",
-      "description": "Data science. Machine learning. NLP (natural language processing). Text Mining. Utilisation des solutions clés en main pour ...",
-      "url": "https://www.youtube.com/watch?v=3J5VPpX2Jww",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-06-24T14:33:27Z",
+      "title": "🤖 Comment Utiliser ChatGPT ? Tutoriel Complet pour Débutants (2026)",
+      "description": "Vous souhaitez apprendre à utiliser ChatGPT, mais vous ne savez pas par où commencer ? Cette vidéo est faite pour vous !",
+      "url": "https://www.youtube.com/watch?v=VC_RjT5CpF8",
+      "source": "IA CREATIVE",
+      "publishedAt": "2026-07-30T12:30:10Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "3J5VPpX2Jww",
-      "thumbnail": "https://i.ytimg.com/vi/3J5VPpX2Jww/hqdefault.jpg"
+      "videoId": "VC_RjT5CpF8",
+      "thumbnail": "https://i.ytimg.com/vi/VC_RjT5CpF8/hqdefault.jpg"
     },
     {
-      "title": "Personne ne réalise ce que le nouveau ChatGPT peut faire",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4xxCk9x Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=4km3oLGe-iQ",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2026-08-09T15:00:37Z",
+      "title": "Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker",
+      "description": "Machine learning. Data science. MLOps. Création d'une image docker encapsulant une base de données multi-tables (SQLite, ...",
+      "url": "https://www.youtube.com/watch?v=dIuLrxn3ViE",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-07-30T15:41:54Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "4km3oLGe-iQ",
-      "thumbnail": "https://i.ytimg.com/vi/4km3oLGe-iQ/hqdefault.jpg"
+      "videoId": "dIuLrxn3ViE",
+      "thumbnail": "https://i.ytimg.com/vi/dIuLrxn3ViE/hqdefault.jpg"
     },
     {
       "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
@@ -86,6 +86,18 @@
       "thumbnail": "https://i.ytimg.com/vi/LKtwwn-W6iM/hqdefault.jpg"
     },
     {
+      "title": "Intelligence artificielle générale : le délire complotiste de la tech",
+      "description": "« Le mythe de l’intelligence artificielle générale ressemble beaucoup à une théorie du complot et c’est peut-être la plus importante de notre époque »",
+      "url": "https://framablog.org/2026/08/23/intelligence-artificielle-generale-le-delire-complotiste-de-la-tech/",
+      "source": "Framablog.org",
+      "publishedAt": "2026-08-23T08:00:24Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet",
       "description": "Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...",
       "url": "https://www.youtube.com/watch?v=x7Nh0RKEoxg",
@@ -98,28 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/x7Nh0RKEoxg/hqdefault.jpg"
     },
     {
-      "title": "Configurer MySQL ou PostgreSQL dans .env | Chapitre 01 · Laravel 13",
-      "description": "Configurer MySQL ou PostgreSQL dans .env avec Laravel 13, expliqué pas à pas en français. L'objectif est de renseigner hôte, ...",
-      "url": "https://www.youtube.com/watch?v=oV_0oQSyJ2Y",
-      "source": "Laravel Full",
-      "publishedAt": "2026-08-05T18:15:12Z",
+      "title": "Le codage des données UTF-8 #informatique #données #data #codage",
+      "description": "Le codage des données UTF-8 #informatique #données #data #codage Pourquoi certains sites affichent-ils des caractères ...",
+      "url": "https://www.youtube.com/watch?v=syxw4SZor-s",
+      "source": "Informatique ISTA",
+      "publishedAt": "2026-07-02T11:00:18Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "oV_0oQSyJ2Y",
-      "thumbnail": "https://i.ytimg.com/vi/oV_0oQSyJ2Y/hqdefault.jpg"
-    },
-    {
-      "title": "FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL",
-      "description": "FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...",
-      "url": "https://www.youtube.com/watch?v=Lp9R5PlZeRg",
-      "source": "Ceemtic Analytics",
-      "publishedAt": "2026-08-10T22:57:33Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Lp9R5PlZeRg",
-      "thumbnail": "https://i.ytimg.com/vi/Lp9R5PlZeRg/hqdefault.jpg"
+      "videoId": "syxw4SZor-s",
+      "thumbnail": "https://i.ytimg.com/vi/syxw4SZor-s/hqdefault.jpg"
     },
     {
       "title": "Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant",
@@ -134,6 +134,18 @@
       "thumbnail": "https://i.ytimg.com/vi/3AUqD4ZwGts/hqdefault.jpg"
     },
     {
+      "title": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data",
+      "description": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data Timeline 00:00 Introduction ...",
+      "url": "https://www.youtube.com/watch?v=IwQvKri768w",
+      "source": "Mikail Altundas",
+      "publishedAt": "2026-07-07T15:00:26Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "IwQvKri768w",
+      "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
+    },
+    {
       "title": "Langage DAX : le cours complet de A à Z | Formation Power BI",
       "description": "Dans cette vidéo, je propose un cours complet sur DAX, langage intégré à EXCEL & Power BI, pour le calcul de colonnes ou de ...",
       "url": "https://www.youtube.com/watch?v=7SV9kNRvdmU",
@@ -146,18 +158,6 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
-      "title": "Découvrez notre formation sur Power BI #data #powerbi",
-      "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
-      "url": "https://www.youtube.com/watch?v=5XRR3C0nQLg",
-      "source": "OpenClassrooms en Français",
-      "publishedAt": "2026-07-21T05:30:15Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "5XRR3C0nQLg",
-      "thumbnail": "https://i.ytimg.com/vi/5XRR3C0nQLg/hqdefault.jpg"
-    },
-    {
       "title": "Comment créer une base de données avec le langage SQL ?",
       "description": "Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.",
       "url": "https://www.youtube.com/watch?v=19JD2vconJ0",
@@ -168,6 +168,30 @@
       "isYouTube": true,
       "videoId": "19JD2vconJ0",
       "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
+    },
+    {
+      "title": "Cette IA apprend comment vos yeux lisent pour adapter chaque texte à votre cerveau !",
+      "description": "En Finlande, des chercheurs ont mis au point un modèle capable de reproduire les stratégies de lecture humaines et d’imaginer des contenus numériques personnalisés selon les capacités et les habitudes...",
+      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-cette-ia-apprend-vos-yeux-lisent-adapter-chaque-texte-votre-cerveau-136945/",
+      "source": "Futura",
+      "publishedAt": "2026-08-22T10:18:53Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "IA : la fin programmée des prompts, vraiment ?",
+      "description": "À mesure que les modèles deviennent plus puissants, plus contextuels et plus autonomes, le prompt semble progressivement appartenir au passé. Mais la disparition des recettes de « prompt engineering »...",
+      "url": "https://atlantico.fr/article/decryptage/ia-la-fin-programmee-des-prompts-vraiment-sam-altman-openai-intelligence-artificielle-Martin-Pavanello-Frederic-Mouffle",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-08-23T07:17:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Data Analyst avec Python | Introduction complète à Python | Tutoriel complet",
@@ -194,11 +218,11 @@
       "thumbnail": "https://i.ytimg.com/vi/-Oba6X3lIxg/hqdefault.jpg"
     },
     {
-      "title": "mindlab 4.0.1",
-      "description": "Data science toolbox",
-      "url": "https://pypi.org/project/mindlab/4.0.1/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-08-21T10:39:14Z",
+      "title": "\"La data ne doit pas dicter notre comportement\" : dans le trail et l'ultra-trail, le fragile équilibre de performer entre statistiques et sensation physique",
+      "description": "Dans le monde du trail et de l'ultra-trail, les montres connectées et l'analyse des données sont devenues des outils clés pour la performance. Mais cette quête de la statistique parfaite présente des ...",
+      "url": "https://france3-regions.franceinfo.fr/la-data-ne-doit-pas-dicter-notre-comportement-dans-le-trail-et-l-ultra-trail-le-fragile-equilibre-de-performer-entre-statistiques-et-sensation-physique-3404149.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-08-23T04:00:08Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,11 +230,11 @@
       "thumbnail": ""
     },
     {
-      "title": "\"GTA VI\": silencieux sur les fuites du jeu, Take-Two se démène pour en identifier l'origine",
-      "description": "L'éditeur de \"GTA VI\", muet depuis le début des fuites mardi dévoilant le contenu du jeu vidéo le plus attendu de l'année, a obtenu vendredi de la justice américaine le droit d'exiger de Microsoft et ...",
-      "url": "https://www.dhnet.be/medias/jeux-video/2026/08/22/gta-vi-silencieux-sur-les-fuites-du-jeu-take-two-se-demene-pour-en-identifier-lorigine-E2LTEESJ7NEB3JEVE6N7RELD5Y/",
-      "source": "dh.be",
-      "publishedAt": "2026-08-22T06:20:59Z",
+      "title": "Les meilleurs écouteurs sans fil avec réduction de bruit (ANC) pour les pros en 2026",
+      "description": "Le passage massif au travail hybride et à la mobilité impose aux DSI et aux\ncollaborateurs d'opter pour des équipements audio fiables, endurants et performants. Voici notre sélection.",
+      "url": "https://www.zdnet.fr/selection-expert-zdnet-france/les-meilleurs-ecouteurs-sans-fil-avec-reduction-de-bruit-anc-pour-les-pros-en-2026-500374.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-08-23T04:08:43Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,83 +242,59 @@
       "thumbnail": ""
     },
     {
-      "title": "Google Photos va simplifier la recherche de vos souvenirs avec une nouvelle carte interactive",
-      "description": "Google s'apprête à enrichir son application Photos avec une fonctionnalité très attendue. Une vue cartographique intégrée à l'outil de recherche « Demander à Photos » permettra bientôt de visualiser s...",
-      "url": "https://www.generation-nt.com/actualites/google-photos-recherche-carte-ia-demander-2080048",
-      "source": "Génération NT",
-      "publishedAt": "2026-08-21T19:10:01Z",
-      "category": "data",
+      "title": "Une IA conçoit 16 virus tueurs de bactéries",
+      "description": "Une intelligence artificielle a permis de concevoir des virus capables d’infecter des bactéries et de se multiplier. Parmi près de 300 génomes fabriqués puis testés, 16 ont donné des virus fonctionnel...",
+      "url": "https://www.techno-science.net/fr/actualites/ia-concoit-virus-tueurs-bacteries-29219",
+      "source": "Techno-science.net",
+      "publishedAt": "2026-08-23T04:00:00Z",
+      "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Python pour la data : Le guide du débutant",
-      "description": "La vidéo intitulée \"Python : Le guide du débutant\" est une présentation visuelle conçue pour vous introduire aux fondements de ...",
-      "url": "https://www.youtube.com/watch?v=s6yhACGTANI",
-      "source": "Eco_sta_tech",
-      "publishedAt": "2026-06-30T07:58:21Z",
-      "category": "data",
+      "title": "Des études alertent sur une conséquence inquiétante liée à l’intelligence artificielle",
+      "description": "L’IA s’impose dans les salles de classe et les universités, notamment pour rédiger les devoirs. Mais des chercheurs alertent sur une conséquence moins visible. ...",
+      "url": "https://www.lalibre.be/belgique/societe/2026/08/23/des-etudes-alertent-sur-une-consequence-inquietante-liee-a-lintelligence-artificielle-CQBP7PAJTJGXHBCQ4AI3DO4GMA/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-08-23T06:07:54Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Code : le guide complet pour les non-devs (2026)",
+      "description": "Mes skills Claude Code https://shubham-sharma.fr/ressources/claude-code-skills-pack/ Claude Code vous semble trop technique ...",
+      "url": "https://www.youtube.com/watch?v=_pW-kUBo7AU",
+      "source": "Shubham SHARMA",
+      "publishedAt": "2026-07-10T17:28:31Z",
+      "category": "tech",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "s6yhACGTANI",
-      "thumbnail": "https://i.ytimg.com/vi/s6yhACGTANI/hqdefault.jpg"
+      "videoId": "_pW-kUBo7AU",
+      "thumbnail": "https://i.ytimg.com/vi/_pW-kUBo7AU/hqdefault.jpg"
     },
     {
-      "title": "Un adolescent proche de la mouvance néo-nazie arrêté au Canada alors qu'il planifiait une attaque contre une école avec une IA",
-      "description": "Cet adolescent aurait eu recours à l'intelligence artificielle afin de planifier cette attaque et aurait formulé des menaces spécifiques visant les communautés musulmane, haïtienne et LGBT+.",
-      "url": "https://www.bfmtv.com/international/amerique-nord/un-adolescent-proche-de-la-mouvance-neo-nazie-arrete-au-canada-alors-qu-il-planifiait-une-attaque-contre-une-ecole-avec-une-ia_AN-202608220051.html",
+      "title": "Le réseau Truth Social vend aux banques et aux traders un accès instantané aux publications de Trump",
+      "description": "Cette information intervient alors que Trump fait l’objet d’une enquête pour avoir fait la promotion, sur son réseau Truth Social, d’entreprises dans lesquelles il a acquis des actions. Source : Sharo...",
+      "url": "https://www.les-crises.fr/le-reseau-truth-social-vend-aux-banques-et-aux-traders-un-acces-instantane-aux-publications-de-trump/",
+      "source": "Les-crises.fr",
+      "publishedAt": "2026-08-22T04:55:32Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "\"Si mauvais qu'il en devient génial\": c'est quoi \"Niu Lai\", ce film à petit budget qui cartonne au box-office en Chine",
+      "description": "Devenu viral sur les réseaux sociaux en raison de ses étranges graphismes 3D, moqués par les internautes, ce film à petit budget imaginé par une mère et son fils, bénéficie malgré tout d'un bouche-à-o...",
+      "url": "https://www.bfmtv.com/culture/cinema-series/si-mauvais-qu-il-en-devient-genial-c-est-quoi-niu-lai-ce-film-a-petit-budget-qui-cartonne-au-box-office-en-chine_AD-202608220035.html",
       "source": "BFMTV",
-      "publishedAt": "2026-08-22T04:36:41Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Aux États-Unis, le boom de l’IA est en train de creuser les inégalités",
-      "description": "Pendant que l’inflation réduit le pouvoir d’achat de nombreux ménages, l’engouement pour l’intelligence artificielle est en train d’enrichir encore davantage les couches les plus aisées de la populati...",
-      "url": "https://www.courrierinternational.com/article/tech-aux-etats-unis-le-boom-de-l-ia-est-en-train-de-creuser-les-inegalites_262156",
-      "source": "Courrier International",
-      "publishedAt": "2026-08-21T16:00:55Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L'IA, cette révolution que personne n'a votée… mais que tout le monde est sommé d'adopter",
-      "description": "L’intelligence artificielle s’impose à une vitesse spectaculaire dans les entreprises comme dans la vie quotidienne. Mais entre inquiétudes environnementales, hausse des coûts et crainte d’une technol...",
-      "url": "https://atlantico.fr/article/decryptage/l-ia-cette-revolution-que-personne-n-a-votee-mais-que-tout-le-monde-est-somme-d-adopter",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-08-22T06:47:55Z",
-      "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "La Chine dévoile un robot-cheval tout-terrain que deux personnes peuvent réellement chevaucher sur 40 km !",
-      "description": "Après les robots-chiens, voici venu le temps des robots-chevaux. Présenté à Pékin, le Qiji X1 reprend le principe du quadrupède, mais dans un format nettement plus imposant. Doté d’une intelligence ar...",
-      "url": "https://www.futura-sciences.com/tech/actualites/robotique-chine-devoile-robot-cheval-tout-terrain-deux-personnes-peuvent-reellement-chevaucher-40-km-137229/",
-      "source": "Futura",
-      "publishedAt": "2026-08-21T15:03:52Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le dernier secret du Zodiac : l’IA a-t-elle identifié le plus célèbre tueur en série d’Amérique ?",
-      "description": "Depuis presque soixante ans, le tueur en série Zodiac hante l’imaginaire californien. Malgré des milliers de suspects et des décennies d’enquête, son identité n’a jamais été établie. Aujourd’hui, un e...",
-      "url": "https://www.courrierinternational.com/long-format/enquete-le-dernier-secret-du-zodiac-l-ia-a-t-elle-identifie-le-plus-celebre-tueur-en-serie-d-amerique_245757_1",
-      "source": "Courrier International",
-      "publishedAt": "2026-08-21T08:42:31Z",
+      "publishedAt": "2026-08-22T05:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
