@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 24 Aug 2026 08:52:33 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 08:48:35 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,12 +21,12 @@
             <source>Elliott Pierret</source>
         </item>
         <item>
-            <title>🤖 Comment Utiliser ChatGPT ? Tutoriel Complet pour Débutants (2026)</title>
-            <link>https://www.youtube.com/watch?v=VC_RjT5CpF8</link>
-            <description><![CDATA[Vous souhaitez apprendre à utiliser ChatGPT, mais vous ne savez pas par où commencer ? Cette vidéo est faite pour vous !]]></description>
-            <pubDate>Thu, 30 Jul 2026 12:30:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=VC_RjT5CpF8</guid>
-            <source>IA CREATIVE</source>
+            <title>Personne ne réalise ce que le nouveau ChatGPT peut faire</title>
+            <link>https://www.youtube.com/watch?v=4km3oLGe-iQ</link>
+            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4xxCk9x Rejoins ma communauté ...]]></description>
+            <pubDate>Sun, 09 Aug 2026 15:00:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=4km3oLGe-iQ</guid>
+            <source>Yassine Sdiri</source>
         </item>
         <item>
             <title>Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker</title>
@@ -69,14 +69,6 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Intelligence artificielle générale : le délire complotiste de la tech</title>
-            <link>https://framablog.org/2026/08/23/intelligence-artificielle-generale-le-delire-complotiste-de-la-tech/</link>
-            <description><![CDATA[« Le mythe de l’intelligence artificielle générale ressemble beaucoup à une théorie du complot et c’est peut-être la plus importante de notre époque »]]></description>
-            <pubDate>Sun, 23 Aug 2026 08:00:24 -0000</pubDate>
-            <guid isPermaLink="true">https://framablog.org/2026/08/23/intelligence-artificielle-generale-le-delire-complotiste-de-la-tech/</guid>
-            <source>Framablog.org</source>
-        </item>
-        <item>
             <title>Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet</title>
             <link>https://www.youtube.com/watch?v=x7Nh0RKEoxg</link>
             <description><![CDATA[Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...]]></description>
@@ -85,12 +77,20 @@
             <source>Data & Dash Consulting</source>
         </item>
         <item>
-            <title>Le codage des données UTF-8 #informatique #données #data #codage</title>
-            <link>https://www.youtube.com/watch?v=syxw4SZor-s</link>
-            <description><![CDATA[Le codage des données UTF-8 #informatique #données #data #codage Pourquoi certains sites affichent-ils des caractères ...]]></description>
-            <pubDate>Thu, 02 Jul 2026 11:00:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=syxw4SZor-s</guid>
-            <source>Informatique ISTA</source>
+            <title>FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL</title>
+            <link>https://www.youtube.com/watch?v=Lp9R5PlZeRg</link>
+            <description><![CDATA[FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...]]></description>
+            <pubDate>Mon, 10 Aug 2026 22:57:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Lp9R5PlZeRg</guid>
+            <source>Ceemtic Analytics</source>
+        </item>
+        <item>
+            <title>Python &amp;amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python</title>
+            <link>https://www.youtube.com/watch?v=1o308cqkEXc</link>
+            <description><![CDATA[Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...]]></description>
+            <pubDate>Thu, 20 Aug 2026 23:58:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1o308cqkEXc</guid>
+            <source>Mausse Institut</source>
         </item>
         <item>
             <title>Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant</title>
@@ -125,20 +125,36 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Cette IA apprend comment vos yeux lisent pour adapter chaque texte à votre cerveau !</title>
-            <link>https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-cette-ia-apprend-vos-yeux-lisent-adapter-chaque-texte-votre-cerveau-136945/</link>
-            <description><![CDATA[En Finlande, des chercheurs ont mis au point un modèle capable de reproduire les stratégies de lecture humaines et d’imaginer des contenus numériques personnalisés selon les capacités et les habitudes...]]></description>
-            <pubDate>Sat, 22 Aug 2026 10:18:53 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-cette-ia-apprend-vos-yeux-lisent-adapter-chaque-texte-votre-cerveau-136945/</guid>
-            <source>Futura</source>
+            <title>Feux de forêt détectés par satellite et témoins vérifiés (kanari)</title>
+            <link>https://www.data.gouv.fr/datasets/feux-de-foret-detectes-par-satellite-et-temoins-verifies-kanari</link>
+            <description><![CDATA[kanari est une carte mondiale, gratuite et indépendante, des départs de feu en temps quasi réel. Ce jeu de données est son archive des feux de forêt significatifs depuis le 3 août 2026 : feux détectés...]]></description>
+            <pubDate>Mon, 24 Aug 2026 08:45:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/feux-de-foret-detectes-par-satellite-et-temoins-verifies-kanari</guid>
+            <source>Gouv.fr</source>
         </item>
         <item>
-            <title>IA : la fin programmée des prompts, vraiment ?</title>
-            <link>https://atlantico.fr/article/decryptage/ia-la-fin-programmee-des-prompts-vraiment-sam-altman-openai-intelligence-artificielle-Martin-Pavanello-Frederic-Mouffle</link>
-            <description><![CDATA[À mesure que les modèles deviennent plus puissants, plus contextuels et plus autonomes, le prompt semble progressivement appartenir au passé. Mais la disparition des recettes de « prompt engineering »...]]></description>
-            <pubDate>Sun, 23 Aug 2026 07:17:00 -0000</pubDate>
-            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/ia-la-fin-programmee-des-prompts-vraiment-sam-altman-openai-intelligence-artificielle-Martin-Pavanello-Frederic-Mouffle</guid>
-            <source>Atlantico.fr</source>
+            <title>On vous explique pourquoi la route maritime de l'Arctique intéresse de plus en plus la marine marchande pour relier l'Asie et l'Europe</title>
+            <link>https://www.franceinfo.fr/economie/commerce/on-vous-explique-pourquoi-la-route-maritime-de-l-arctique-interesse-de-plus-en-plus-la-marine-marchande-pour-relier-l-asie-et-l-europe_8158421.html</link>
+            <description><![CDATA[Une semaine après le départ d'un navire chinois, un porte-conteneurs sud-coréen a largué les amarres samedi. Avec le blocage du détroit d'Ormuz, les compagnies asiatiques testent la viabilité de cette...]]></description>
+            <pubDate>Sun, 23 Aug 2026 17:14:24 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/economie/commerce/on-vous-explique-pourquoi-la-route-maritime-de-l-arctique-interesse-de-plus-en-plus-la-marine-marchande-pour-relier-l-asie-et-l-europe_8158421.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
+            <title>Wide-View OLED : l’écran de votre Galaxy Fold est moins lumineux au centre que sur les côté ? Samsung a déjà la solution</title>
+            <link>https://www.frandroid.com/marques/samsung/3219473_wide-view-oled-lecran-de-votre-galaxy-fold-est-moins-lumineux-au-centre-que-sur-les-cote-samsung-a-deja-la-solution</link>
+            <description><![CDATA[Samsung Display a dévoilé une nouvelle technologie baptisée Wide-View OLED. Cette dernière permet aux dalles pliantes de profiter d'une luminance bien plus uniforme, remédiant ainsi au problème de fai...]]></description>
+            <pubDate>Mon, 24 Aug 2026 08:04:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/marques/samsung/3219473_wide-view-oled-lecran-de-votre-galaxy-fold-est-moins-lumineux-au-centre-que-sur-les-cote-samsung-a-deja-la-solution</guid>
+            <source>Frandroid</source>
+        </item>
+        <item>
+            <title>Quand l'IA générative crée la vie : la percée de Stanford dans la synthèse de virus inédits</title>
+            <link>https://www.zdnet.fr/actualites/quand-lia-generative-cree-la-vie-la-percee-de-stanford-dans-la-synthese-de-virus-inedits-500496.htm</link>
+            <description><![CDATA[Des chercheurs de l'Université de Stanford ont synthétisé pour la première fois des virus fonctionnels et inédits à l'IA. Cette avancée pour la biologie ouvre des perspectives médicales, mais soulève ...]]></description>
+            <pubDate>Mon, 24 Aug 2026 08:08:20 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/quand-lia-generative-cree-la-vie-la-percee-de-stanford-dans-la-synthese-de-virus-inedits-500496.htm</guid>
+            <source>ZDNet France</source>
         </item>
         <item>
             <title>Data Analyst avec Python | Introduction complète à Python | Tutoriel complet</title>
@@ -155,23 +171,6 @@
             <pubDate>Wed, 08 Jul 2026 12:39:10 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=-Oba6X3lIxg</guid>
             <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>"La data ne doit pas dicter notre comportement" : dans le trail et l'ultra-trail, le fragile équilibre de performer entre statistiques et sensation physique</title>
-            <link>https://france3-regions.franceinfo.fr/la-data-ne-doit-pas-dicter-notre-comportement-dans-le-trail-et-l-ultra-trail-le-fragile-equilibre-de-performer-entre-statistiques-et-sensation-physique-3404149.html</link>
-            <description><![CDATA[Dans le monde du trail et de l'ultra-trail, les montres connectées et l'analyse des données sont devenues des outils clés pour la performance. Mais cette quête de la statistique parfaite présente des ...]]></description>
-            <pubDate>Sun, 23 Aug 2026 04:00:08 -0000</pubDate>
-            <guid isPermaLink="true">https://france3-regions.franceinfo.fr/la-data-ne-doit-pas-dicter-notre-comportement-dans-le-trail-et-l-ultra-trail-le-fragile-equilibre-de-performer-entre-statistiques-et-sensation-physique-3404149.html</guid>
-            <source>Franceinfo.fr</source>
-        </item>
-        <item>
-            <title>Les meilleurs écouteurs sans fil avec réduction de bruit (ANC) pour les pros en 2026</title>
-            <link>https://www.zdnet.fr/selection-expert-zdnet-france/les-meilleurs-ecouteurs-sans-fil-avec-reduction-de-bruit-anc-pour-les-pros-en-2026-500374.htm</link>
-            <description><![CDATA[Le passage massif au travail hybride et à la mobilité impose aux DSI et aux
-collaborateurs d'opter pour des équipements audio fiables, endurants et performants. Voici notre sélection.]]></description>
-            <pubDate>Sun, 23 Aug 2026 04:08:43 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/selection-expert-zdnet-france/les-meilleurs-ecouteurs-sans-fil-avec-reduction-de-bruit-anc-pour-les-pros-en-2026-500374.htm</guid>
-            <source>ZDNet France</source>
         </item>
     </channel>
 </rss>
