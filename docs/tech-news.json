@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-25T08:48:35.238780",
+  "lastUpdate": "2026-08-26T08:49:12.506863",
   "articles": [
     {
       "title": "ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)",
@@ -14,6 +14,18 @@
       "thumbnail": "https://i.ytimg.com/vi/rx7F_9Vm35Y/hqdefault.jpg"
     },
     {
+      "title": "L’ère des agents autonomes d’OpenAI conquiert les bureaux",
+      "description": "Déléguer les clés de son existence numérique à une intelligence artificielle soulève de nombreuses interrogations. Pourtant, la firme de San Francisco pousse exactement cette logique avec le déploieme...",
+      "url": "https://www.fredzone.org/lere-des-agents-autonomes-dopenai-conquiert-les-bureaux/",
+      "source": "FREDZONE",
+      "publishedAt": "2026-08-24T20:00:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Personne ne réalise ce que le nouveau ChatGPT peut faire",
       "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4xxCk9x Rejoins ma communauté ...",
       "url": "https://www.youtube.com/watch?v=4km3oLGe-iQ",
@@ -24,6 +36,18 @@
       "isYouTube": true,
       "videoId": "4km3oLGe-iQ",
       "thumbnail": "https://i.ytimg.com/vi/4km3oLGe-iQ/hqdefault.jpg"
+    },
+    {
+      "title": "geo ET INFLUENCE : ce que L’histoire des réseaux sociaux peut (et devrait) nous enseigner",
+      "description": "Par Alban Renard, Head of Expertises & Innovation chez CyberCité. Les usages de recherche ne sont pas simplement en train de basculer de Google vers ChatGPT. Ils passent progressivement d’une logique ...",
+      "url": "https://www.frenchweb.fr/geo-et-influence-ce-que-lhistoire-des-reseaux-sociaux-peut-et-devrait-nous-enseigner/463031",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-08-25T04:20:22Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker",
@@ -86,40 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/LKtwwn-W6iM/hqdefault.jpg"
     },
     {
-      "title": "Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet",
-      "description": "Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...",
-      "url": "https://www.youtube.com/watch?v=x7Nh0RKEoxg",
-      "source": "Data & Dash Consulting",
-      "publishedAt": "2026-07-31T17:56:47Z",
+      "title": "Cours complet sur Power BI pour débutant",
+      "description": "Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...",
+      "url": "https://www.youtube.com/watch?v=uJeUP8Z9LsQ",
+      "source": "Jeune Financier Africain ",
+      "publishedAt": "2026-08-25T17:46:11Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "x7Nh0RKEoxg",
-      "thumbnail": "https://i.ytimg.com/vi/x7Nh0RKEoxg/hqdefault.jpg"
-    },
-    {
-      "title": "FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL",
-      "description": "FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...",
-      "url": "https://www.youtube.com/watch?v=Lp9R5PlZeRg",
-      "source": "Ceemtic Analytics",
-      "publishedAt": "2026-08-10T22:57:33Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Lp9R5PlZeRg",
-      "thumbnail": "https://i.ytimg.com/vi/Lp9R5PlZeRg/hqdefault.jpg"
-    },
-    {
-      "title": "Python &amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python",
-      "description": "Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...",
-      "url": "https://www.youtube.com/watch?v=1o308cqkEXc",
-      "source": "Mausse Institut",
-      "publishedAt": "2026-08-20T23:58:11Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1o308cqkEXc",
-      "thumbnail": "https://i.ytimg.com/vi/1o308cqkEXc/hqdefault.jpg"
+      "videoId": "uJeUP8Z9LsQ",
+      "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
     },
     {
       "title": "Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant",
@@ -132,18 +132,6 @@
       "isYouTube": true,
       "videoId": "3AUqD4ZwGts",
       "thumbnail": "https://i.ytimg.com/vi/3AUqD4ZwGts/hqdefault.jpg"
-    },
-    {
-      "title": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data",
-      "description": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data Timeline 00:00 Introduction ...",
-      "url": "https://www.youtube.com/watch?v=IwQvKri768w",
-      "source": "Mikail Altundas",
-      "publishedAt": "2026-07-07T15:00:26Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "IwQvKri768w",
-      "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
       "title": "Langage DAX : le cours complet de A à Z | Formation Power BI",
@@ -170,35 +158,11 @@
       "thumbnail": "https://i.ytimg.com/vi/19JD2vconJ0/hqdefault.jpg"
     },
     {
-      "title": "Feux de forêt détectés par satellite et témoins vérifiés (kanari)",
-      "description": "kanari est une carte mondiale, gratuite et indépendante, des départs de feu en temps quasi réel. Ce jeu de données est son archive des feux de forêt significatifs depuis le 3 août 2026 : feux détectés...",
-      "url": "https://www.data.gouv.fr/datasets/feux-de-foret-detectes-par-satellite-et-temoins-verifies-kanari",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-08-24T08:45:37Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "On vous explique pourquoi la route maritime de l'Arctique intéresse de plus en plus la marine marchande pour relier l'Asie et l'Europe",
-      "description": "Une semaine après le départ d'un navire chinois, un porte-conteneurs sud-coréen a largué les amarres samedi. Avec le blocage du détroit d'Ormuz, les compagnies asiatiques testent la viabilité de cette...",
-      "url": "https://www.franceinfo.fr/economie/commerce/on-vous-explique-pourquoi-la-route-maritime-de-l-arctique-interesse-de-plus-en-plus-la-marine-marchande-pour-relier-l-asie-et-l-europe_8158421.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-08-23T17:14:24Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Wide-View OLED : l’écran de votre Galaxy Fold est moins lumineux au centre que sur les côté ? Samsung a déjà la solution",
-      "description": "Samsung Display a dévoilé une nouvelle technologie baptisée Wide-View OLED. Cette dernière permet aux dalles pliantes de profiter d'une luminance bien plus uniforme, remédiant ainsi au problème de fai...",
-      "url": "https://www.frandroid.com/marques/samsung/3219473_wide-view-oled-lecran-de-votre-galaxy-fold-est-moins-lumineux-au-centre-que-sur-les-cote-samsung-a-deja-la-solution",
-      "source": "Frandroid",
-      "publishedAt": "2026-08-24T08:04:15Z",
+      "title": "Starcloud lève 250 millions : la nouvelle bulle spéculative se gonfle en orbite basse",
+      "description": "La nouvelle ruée vers l'or n'est plus terrestre, elle se joue à des centaines de kilomètres au-dessus de nos têtes. Dans ce Far West orbital, une startup vient de recevoir un nouveau baril de poudre p...",
+      "url": "https://www.generation-nt.com/actualites/starcloud-datacenter-espace-intelligence-artificielle-financement-2080105",
+      "source": "Génération NT",
+      "publishedAt": "2026-08-25T06:20:02Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -211,6 +175,18 @@
       "url": "https://www.zdnet.fr/actualites/quand-lia-generative-cree-la-vie-la-percee-de-stanford-dans-la-synthese-de-virus-inedits-500496.htm",
       "source": "ZDNet France",
       "publishedAt": "2026-08-24T08:08:20Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Une solution « low-tech » d'autrefois pourrait bien être votre meilleure défense contre les deepfakes d'IA",
+      "description": "L'usurpation d'identité assistée par l'IA devient si sophistiquée qu'il n'est plus possible d'en détecter les signes avant-coureurs ; c'est pourquoi les experts recommandent d'y faire face en adoptant...",
+      "url": "https://www.zdnet.fr/actualites/une-solution-low-tech-dautrefois-pourrait-bien-etre-votre-meilleure-defense-contre-les-deepfakes-dia-500584.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-08-25T08:08:49Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,6 +218,30 @@
       "thumbnail": "https://i.ytimg.com/vi/-Oba6X3lIxg/hqdefault.jpg"
     },
     {
+      "title": "Cette découverte révèle un angle mort inquiétant dans la surveillance du Soleil",
+      "description": "Une éjection de masse coronale émise par le Soleil en décembre 2024 a été reconstruite à partir des relevés d’un ensemble inédit de dix-sept sondes. Les données dessinent une structure...",
+      "url": "https://www.phonandroid.com/cette-decouverte-revele-un-angle-mort-inquietant-dans-la-surveillance-du-soleil.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-08-24T09:12:29Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Santé. Ce geste du quotidien réduirait de 39 % le risque de mourir d’une maladie cardiovasculaire",
+      "description": "Une étude menée par des chercheurs de l’University of East Anglia et du Norfolk and Norwich University Hospital, au Royaume-Uni, suggère qu’une habitude aussi simple que monter les escaliers au quotid...",
+      "url": "https://www.leprogres.fr/magazine-sante/2026/08/25/ce-geste-du-quotidien-reduirait-de-39-le-risque-de-mourir-d-une-maladie-cardiovasculaire",
+      "source": "Le Progrès",
+      "publishedAt": "2026-08-25T05:00:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "ChatGPT Work : le GUIDE complet qui change tout dans votre façon d&#39;utiliser ChatGPT",
       "description": "ChatGPT vient de franchir une étape énorme : il ne se contente plus de répondre à vos questions, il devient un véritable agent ...",
       "url": "https://www.youtube.com/watch?v=1KkVMLpz5MY",
@@ -254,11 +254,11 @@
       "thumbnail": "https://i.ytimg.com/vi/1KkVMLpz5MY/hqdefault.jpg"
     },
     {
-      "title": "Face aux modèles chinois, les entreprises américaines sont contraintes de baisser les prix",
-      "description": "La pression des modèles semi-ouverts, surtout chinois, se fait de plus en plus sentir sur les entreprises américaines du secteur. OpenAI continue de réduire le prix de ses meilleures IA et après avoir...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/08/face-aux-modeles-chinois-les-entreprises-americaines-sont-contraintes-de-baisser-les-prix-310543",
-      "source": "MacGeneration",
-      "publishedAt": "2026-08-24T08:45:04Z",
+      "title": "Comment un drone russe entièrement piloté par l'IA a tué trois Ukrainiens",
+      "description": "En Ukraine, un drone russe entièrement piloté par l'intelligence artificielle aurait frappé de manière autonome une station-service à Zaporijia, le 6 juillet, tuant trois Ukrainiens. Cela pourrait êtr...",
+      "url": "https://www.lexpress.fr/monde/europe/comment-un-drone-russe-entierement-pilote-par-lia-a-tue-trois-ukrainiens-2XWRCOHGKNBFPHJ4QKJHROFDQ4/",
+      "source": "L'Express",
+      "publishedAt": "2026-08-25T06:36:34Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "IA : les 10 générateurs d’images les plus performants en août 2026",
-      "description": "Arena distingue désormais génération et édition d'images. GPT Image 2 s'impose sur les deux classements, mais ses poursuivants ne sont pas les mêmes.",
-      "url": "https://www.blogdumoderateur.com/ia-10-generateurs-images-performants-aout-2026/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-08-24T07:52:35Z",
+      "title": "IBM intègre Arm dans ses prochains mainframes pour muscler l’IA et le cloud",
+      "description": "IBM entend répondre à l’essor rapide des logiciels cloud natifs et d’intelligence artificielle bâtis sur Arm, sans contraindre les entreprises à migrer leurs charges critiques hors de leurs systèmes m...",
+      "url": "https://www.zdnet.fr/actualites/ibm-integre-arm-dans-ses-prochains-mainframes-pour-muscler-lia-et-le-cloud-500510.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-08-25T08:05:46Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Nvidia va augmenter de plus de 15% le prix de ses serveurs IA : le piège se referme",
-      "description": "Le géant des puces graphiques met un coup de pression sur l'ensemble de l'écosystème technologique. Une onde de choc tarifaire qui révèle les tensions extrêmes pesant sur la chaîne d'approvisionnement...",
-      "url": "https://www.generation-nt.com/actualites/nvidia-serveurs-intelligence-artificielle-augmentation-prix-2080065",
-      "source": "Génération NT",
-      "publishedAt": "2026-08-24T05:30:01Z",
+      "title": "ZDNET Morning 25/08/2026 : Des virus viables conçus grâce à l'IA générative, Datacenter IA : 3 000 milliards de dette, Amende de 825 M€ pour Uber,...",
+      "description": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
+      "url": "https://www.zdnet.fr/actualites/zdnet-morning-25-08-2026-des-virus-viables-concus-grace-a-lia-generative-datacenter-ia-3-000-milliards-de-dette-amende-de-825-me-pour-uber-500523.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-08-25T07:55:52Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Après le SaaS, STRIPE veut aider les opérateurs IA à facturer leurs offres",
-      "description": "En rachetant OpenRouter, une plateforme donnant accès à plus de 400 modèles d’IA, Stripe ne se contente plus d’encaisser les revenus de ses clients. Le groupe remonte vers leurs coûts de production, m...",
-      "url": "https://www.frenchweb.fr/apres-le-saas-stripe-veut-aider-les-operateurs-ia-a-facturer-leurs-offres/463022",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-08-24T07:01:31Z",
+      "title": "Premières images de l’intérieur des serveurs IA d’Apple pour le Private Cloud Compute",
+      "description": "Pour la première fois, des images permettent d’observer en détail l’architecture interne d’un serveur IA conçu par Apple. Publiées sur X par le compte…\nLire la suite…\nFacebook · X · iAddict\nL’article ...",
+      "url": "https://iphoneaddict.fr/post/news-433973-premieres-images-linterieur-serveurs-ia-dapple-private-cloud-compute",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-08-25T08:20:38Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
