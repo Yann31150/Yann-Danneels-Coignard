@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 26 Aug 2026 08:49:12 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 18:58:30 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,14 +21,6 @@
             <source>Elliott Pierret</source>
         </item>
         <item>
-            <title>L’ère des agents autonomes d’OpenAI conquiert les bureaux</title>
-            <link>https://www.fredzone.org/lere-des-agents-autonomes-dopenai-conquiert-les-bureaux/</link>
-            <description><![CDATA[Déléguer les clés de son existence numérique à une intelligence artificielle soulève de nombreuses interrogations. Pourtant, la firme de San Francisco pousse exactement cette logique avec le déploieme...]]></description>
-            <pubDate>Mon, 24 Aug 2026 20:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.fredzone.org/lere-des-agents-autonomes-dopenai-conquiert-les-bureaux/</guid>
-            <source>FREDZONE</source>
-        </item>
-        <item>
             <title>Personne ne réalise ce que le nouveau ChatGPT peut faire</title>
             <link>https://www.youtube.com/watch?v=4km3oLGe-iQ</link>
             <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4xxCk9x Rejoins ma communauté ...]]></description>
@@ -37,12 +29,28 @@
             <source>Yassine Sdiri</source>
         </item>
         <item>
-            <title>geo ET INFLUENCE : ce que L’histoire des réseaux sociaux peut (et devrait) nous enseigner</title>
-            <link>https://www.frenchweb.fr/geo-et-influence-ce-que-lhistoire-des-reseaux-sociaux-peut-et-devrait-nous-enseigner/463031</link>
-            <description><![CDATA[Par Alban Renard, Head of Expertises &amp; Innovation chez CyberCité. Les usages de recherche ne sont pas simplement en train de basculer de Google vers ChatGPT. Ils passent progressivement d’une logique ...]]></description>
-            <pubDate>Tue, 25 Aug 2026 04:20:22 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frenchweb.fr/geo-et-influence-ce-que-lhistoire-des-reseaux-sociaux-peut-et-devrait-nous-enseigner/463031</guid>
-            <source>Frenchweb.fr</source>
+            <title>« Je lui dis de ne pas abuser, mais si ça l’aide… » : le dilemme des parents face à l’utilisation de l’IA par leurs enfants</title>
+            <link>https://www.nouvelobs.com/societe/20260826.OBS117696/je-lui-dis-de-ne-pas-abuser-mais-si-ca-l-aide-le-dilemme-des-parents-face-a-l-utilisation-de-l-ia-par-leurs-enfants.html</link>
+            <description><![CDATA[Faut-il encourager, cadrer ou interdire ? Et si mon enfant s’aide de ChatGPT pour ses devoirs, est-ce de la triche ? Pas facile d’être parent quand une technologie s’impose dans nos vies en un temps r...]]></description>
+            <pubDate>Wed, 26 Aug 2026 18:30:07 -0000</pubDate>
+            <guid isPermaLink="true">https://www.nouvelobs.com/societe/20260826.OBS117696/je-lui-dis-de-ne-pas-abuser-mais-si-ca-l-aide-le-dilemme-des-parents-face-a-l-utilisation-de-l-ia-par-leurs-enfants.html</guid>
+            <source>L'Obs</source>
+        </item>
+        <item>
+            <title>Machine Learning Full Course 2026 | Machine Learning Full Course for Beginners | Simplilearn</title>
+            <link>https://www.youtube.com/watch?v=SruoM1J41fA</link>
+            <description><![CDATA[Michigan Engineering Professional Certificate in AI and Machine Learning ...]]></description>
+            <pubDate>Wed, 19 Aug 2026 14:30:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=SruoM1J41fA</guid>
+            <source>Simplilearn</source>
+        </item>
+        <item>
+            <title>Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning</title>
+            <link>https://www.youtube.com/watch?v=PY_wRwL3Q0E</link>
+            <description><![CDATA[Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...]]></description>
+            <pubDate>Wed, 15 Jul 2026 16:07:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=PY_wRwL3Q0E</guid>
+            <source>Rafa Explique</source>
         </item>
         <item>
             <title>Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker</title>
@@ -85,20 +93,20 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Cours complet sur Power BI pour débutant</title>
-            <link>https://www.youtube.com/watch?v=uJeUP8Z9LsQ</link>
-            <description><![CDATA[Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...]]></description>
-            <pubDate>Tue, 25 Aug 2026 17:46:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=uJeUP8Z9LsQ</guid>
-            <source>Jeune Financier Africain </source>
-        </item>
-        <item>
             <title>Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant</title>
             <link>https://www.youtube.com/watch?v=3AUqD4ZwGts</link>
             <description><![CDATA[Formation SQL Débutant avec PostgreSQL et VS Code | Vidéo 1 : Introduction à SQL Bienvenue dans cette première vidéo de ...]]></description>
             <pubDate>Tue, 30 Jun 2026 21:01:55 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=3AUqD4ZwGts</guid>
             <source>Ceemtic Analytics</source>
+        </item>
+        <item>
+            <title>Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data</title>
+            <link>https://www.youtube.com/watch?v=IwQvKri768w</link>
+            <description><![CDATA[Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data Timeline 00:00 Introduction ...]]></description>
+            <pubDate>Tue, 07 Jul 2026 15:00:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=IwQvKri768w</guid>
+            <source>Mikail Altundas</source>
         </item>
         <item>
             <title>Langage DAX : le cours complet de A à Z | Formation Power BI</title>
@@ -109,12 +117,36 @@
             <source>Le Decodeur</source>
         </item>
         <item>
+            <title>Découvrez notre formation sur Power BI #data #powerbi</title>
+            <link>https://www.youtube.com/watch?v=5XRR3C0nQLg</link>
+            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
+            <pubDate>Tue, 21 Jul 2026 05:30:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=5XRR3C0nQLg</guid>
+            <source>OpenClassrooms en Français</source>
+        </item>
+        <item>
             <title>Comment créer une base de données avec le langage SQL ?</title>
             <link>https://www.youtube.com/watch?v=19JD2vconJ0</link>
             <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
             <pubDate>Wed, 01 Jul 2026 04:00:13 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=19JD2vconJ0</guid>
             <source>OpenClassrooms en Français</source>
+        </item>
+        <item>
+            <title>Cellebrite met ses capacités de renseignement sur le champ de bataille au service des forces armées avec le lancement du Portable Tactical Extraction Kit (C-TEK)</title>
+            <link>https://www.prnewswire.com/news-releases/cellebrite-met-ses-capacites-de-renseignement-sur-le-champ-de-bataille-au-service-des-forces-armees-avec-le-lancement-du-portable-tactical-extraction-kit-c-tek-302860904.html</link>
+            <description><![CDATA[S'appuyant sur les capacités médico-légales numériques de Cellebrite, le C-TEK aide les équipes déployées sur le terrain à trier rapidement les données issues de téléphones, de cartes SIM, de drones e...]]></description>
+            <pubDate>Wed, 26 Aug 2026 18:47:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/cellebrite-met-ses-capacites-de-renseignement-sur-le-champ-de-bataille-au-service-des-forces-armees-avec-le-lancement-du-portable-tactical-extraction-kit-c-tek-302860904.html</guid>
+            <source>PRNewswire</source>
+        </item>
+        <item>
+            <title>Nettoyage et préparation de jeux de données (Pyhton, Excel, Copilote)</title>
+            <link>https://www.youtube.com/watch?v=OrI-pLVY96Q</link>
+            <description><![CDATA[Dans ce tutoriel complet, apprenez à automatiser le nettoyage et la préparation de vos jeux de données géographiques en ...]]></description>
+            <pubDate>Thu, 27 Aug 2026 17:15:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=OrI-pLVY96Q</guid>
+            <source>GOJAMBAR</source>
         </item>
         <item>
             <title>Starcloud lève 250 millions : la nouvelle bulle spéculative se gonfle en orbite basse</title>
@@ -125,51 +157,19 @@
             <source>Génération NT</source>
         </item>
         <item>
-            <title>Quand l'IA générative crée la vie : la percée de Stanford dans la synthèse de virus inédits</title>
-            <link>https://www.zdnet.fr/actualites/quand-lia-generative-cree-la-vie-la-percee-de-stanford-dans-la-synthese-de-virus-inedits-500496.htm</link>
-            <description><![CDATA[Des chercheurs de l'Université de Stanford ont synthétisé pour la première fois des virus fonctionnels et inédits à l'IA. Cette avancée pour la biologie ouvre des perspectives médicales, mais soulève ...]]></description>
-            <pubDate>Mon, 24 Aug 2026 08:08:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/quand-lia-generative-cree-la-vie-la-percee-de-stanford-dans-la-synthese-de-virus-inedits-500496.htm</guid>
-            <source>ZDNet France</source>
+            <title>ARCSPACE lève plus de 2 millions d’euros pour faire passer les satellites du jetable au réparable</title>
+            <link>https://www.frenchweb.fr/arcspace-leve-plus-de-2-millions-deuros-pour-faire-passer-les-satellites-du-jetable-au-reparable/463048</link>
+            <description><![CDATA[La startup parisienne ARCSPACE vient d’annoncer avoir levé plus de 2 millions d’euros pour qualifier en vol une technologie de soudage et de découpe par faisceau d’électrons destinée aux opérations en...]]></description>
+            <pubDate>Wed, 26 Aug 2026 07:25:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frenchweb.fr/arcspace-leve-plus-de-2-millions-deuros-pour-faire-passer-les-satellites-du-jetable-au-reparable/463048</guid>
+            <source>Frenchweb.fr</source>
         </item>
         <item>
-            <title>Une solution « low-tech » d'autrefois pourrait bien être votre meilleure défense contre les deepfakes d'IA</title>
-            <link>https://www.zdnet.fr/actualites/une-solution-low-tech-dautrefois-pourrait-bien-etre-votre-meilleure-defense-contre-les-deepfakes-dia-500584.htm</link>
-            <description><![CDATA[L'usurpation d'identité assistée par l'IA devient si sophistiquée qu'il n'est plus possible d'en détecter les signes avant-coureurs ; c'est pourquoi les experts recommandent d'y faire face en adoptant...]]></description>
-            <pubDate>Tue, 25 Aug 2026 08:08:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/une-solution-low-tech-dautrefois-pourrait-bien-etre-votre-meilleure-defense-contre-les-deepfakes-dia-500584.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
-            <title>Data Analyst avec Python | Introduction complète à Python | Tutoriel complet</title>
-            <link>https://www.youtube.com/watch?v=2sunLXT-XgM</link>
-            <description><![CDATA[Maîtrise Python pour la DATA : https://store.ledecodeur.fr/formation-python Mes ressources : https://linktr.ee/ledecodeur Liens ...]]></description>
-            <pubDate>Sun, 28 Jun 2026 16:00:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=2sunLXT-XgM</guid>
-            <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>Devenir Data Analyst avec des ressources gratuites 📚✅ #data #gratuit #tuto</title>
-            <link>https://www.youtube.com/watch?v=-Oba6X3lIxg</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Wed, 08 Jul 2026 12:39:10 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=-Oba6X3lIxg</guid>
-            <source>Le Decodeur</source>
-        </item>
-        <item>
-            <title>Cette découverte révèle un angle mort inquiétant dans la surveillance du Soleil</title>
-            <link>https://www.phonandroid.com/cette-decouverte-revele-un-angle-mort-inquietant-dans-la-surveillance-du-soleil.html</link>
-            <description><![CDATA[Une éjection de masse coronale émise par le Soleil en décembre 2024 a été reconstruite à partir des relevés d’un ensemble inédit de dix-sept sondes. Les données dessinent une structure...]]></description>
-            <pubDate>Mon, 24 Aug 2026 09:12:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.phonandroid.com/cette-decouverte-revele-un-angle-mort-inquietant-dans-la-surveillance-du-soleil.html</guid>
-            <source>Phonandroid</source>
-        </item>
-        <item>
-            <title>Santé. Ce geste du quotidien réduirait de 39 % le risque de mourir d’une maladie cardiovasculaire</title>
-            <link>https://www.leprogres.fr/magazine-sante/2026/08/25/ce-geste-du-quotidien-reduirait-de-39-le-risque-de-mourir-d-une-maladie-cardiovasculaire</link>
-            <description><![CDATA[Une étude menée par des chercheurs de l’University of East Anglia et du Norfolk and Norwich University Hospital, au Royaume-Uni, suggère qu’une habitude aussi simple que monter les escaliers au quotid...]]></description>
-            <pubDate>Tue, 25 Aug 2026 05:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.leprogres.fr/magazine-sante/2026/08/25/ce-geste-du-quotidien-reduirait-de-39-le-risque-de-mourir-d-une-maladie-cardiovasculaire</guid>
+            <title>Métropole de Lyon. Traitement innovant contre le cancer : une biotech lyonnaise fait appel au grand public</title>
+            <link>https://www.leprogres.fr/economie/2026/08/07/traitement-innovant-contre-le-cancer-une-biotech-lyonnaise-fait-appel-au-grand-public</link>
+            <description><![CDATA[L’ambition de Kairos discovery est de développer une nouvelle thérapie ciblée contre certains cancers. Pour poursuivre son travail, elle a besoin de financements et fait appel au grand public pour « s...]]></description>
+            <pubDate>Wed, 26 Aug 2026 16:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.leprogres.fr/economie/2026/08/07/traitement-innovant-contre-le-cancer-une-biotech-lyonnaise-fait-appel-au-grand-public</guid>
             <source>Le Progrès</source>
         </item>
     </channel>
