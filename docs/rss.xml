@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 27 Aug 2026 18:58:30 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 20:05:37 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -29,12 +29,12 @@
             <source>Yassine Sdiri</source>
         </item>
         <item>
-            <title>« Je lui dis de ne pas abuser, mais si ça l’aide… » : le dilemme des parents face à l’utilisation de l’IA par leurs enfants</title>
-            <link>https://www.nouvelobs.com/societe/20260826.OBS117696/je-lui-dis-de-ne-pas-abuser-mais-si-ca-l-aide-le-dilemme-des-parents-face-a-l-utilisation-de-l-ia-par-leurs-enfants.html</link>
-            <description><![CDATA[Faut-il encourager, cadrer ou interdire ? Et si mon enfant s’aide de ChatGPT pour ses devoirs, est-ce de la triche ? Pas facile d’être parent quand une technologie s’impose dans nos vies en un temps r...]]></description>
-            <pubDate>Wed, 26 Aug 2026 18:30:07 -0000</pubDate>
-            <guid isPermaLink="true">https://www.nouvelobs.com/societe/20260826.OBS117696/je-lui-dis-de-ne-pas-abuser-mais-si-ca-l-aide-le-dilemme-des-parents-face-a-l-utilisation-de-l-ia-par-leurs-enfants.html</guid>
-            <source>L'Obs</source>
+            <title>Top 7 des agrégateurs d’IA : les meilleures plateformes pour utiliser plusieurs modèles IA</title>
+            <link>https://www.aruco.com/intelligence-artificielle/top-plateformes-multi-ia/</link>
+            <description><![CDATA[ChatGPT, Claude, Gemini, Grok, Mistral, Perplexity… À mesure que les modèles d’IA se multiplient, les utilisateurs doivent souvent jongler entre plusieurs interfaces et abonnements pour profiter de le...]]></description>
+            <pubDate>Thu, 27 Aug 2026 17:45:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.aruco.com/intelligence-artificielle/top-plateformes-multi-ia/</guid>
+            <source>Aruco.com</source>
         </item>
         <item>
             <title>Machine Learning Full Course 2026 | Machine Learning Full Course for Beginners | Simplilearn</title>
@@ -51,14 +51,6 @@
             <pubDate>Wed, 15 Jul 2026 16:07:36 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=PY_wRwL3Q0E</guid>
             <source>Rafa Explique</source>
-        </item>
-        <item>
-            <title>Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker</title>
-            <link>https://www.youtube.com/watch?v=dIuLrxn3ViE</link>
-            <description><![CDATA[Machine learning. Data science. MLOps. Création d'une image docker encapsulant une base de données multi-tables (SQLite, ...]]></description>
-            <pubDate>Thu, 30 Jul 2026 15:41:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=dIuLrxn3ViE</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
             <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
@@ -93,12 +85,28 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
+            <title>Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet</title>
+            <link>https://www.youtube.com/watch?v=x7Nh0RKEoxg</link>
+            <description><![CDATA[Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...]]></description>
+            <pubDate>Fri, 31 Jul 2026 17:56:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=x7Nh0RKEoxg</guid>
+            <source>Data & Dash Consulting</source>
+        </item>
+        <item>
             <title>Apprendre SQL de Zéro avec PostgreSQL et VS Code  Cours Complet pour Débutant</title>
             <link>https://www.youtube.com/watch?v=3AUqD4ZwGts</link>
             <description><![CDATA[Formation SQL Débutant avec PostgreSQL et VS Code | Vidéo 1 : Introduction à SQL Bienvenue dans cette première vidéo de ...]]></description>
             <pubDate>Tue, 30 Jun 2026 21:01:55 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=3AUqD4ZwGts</guid>
             <source>Ceemtic Analytics</source>
+        </item>
+        <item>
+            <title>Actualité : Lidl investit 5,6 milliards d'euros dans l'IA pour la souveraineté européenne contre les États-Unis</title>
+            <link>https://www.lesnumeriques.com/intelligence-artificielle/lidl-investit-5-6-milliards-d-euros-dans-l-ia-pour-la-souverainete-europeenne-contre-les-etats-unis-n261013.html</link>
+            <description><![CDATA[Quand on parle de Lidl, on pense tout naturellement aux courses pas chères. Mais le roi du low cost a d'autres ambitions et investit 5,6 milliards d'euros dans un projet pour le moins ambitieux : un c...]]></description>
+            <pubDate>Thu, 27 Aug 2026 19:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/lidl-investit-5-6-milliards-d-euros-dans-l-ia-pour-la-souverainete-europeenne-contre-les-etats-unis-n261013.html</guid>
+            <source>Les Numériques</source>
         </item>
         <item>
             <title>Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data</title>
@@ -109,6 +117,14 @@
             <source>Mikail Altundas</source>
         </item>
         <item>
+            <title>Comment créer un tableau de bord RH sur Power BI ?</title>
+            <link>https://www.youtube.com/watch?v=v0Z8TMkAbaE</link>
+            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
+            <pubDate>Thu, 16 Jul 2026 09:00:04 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=v0Z8TMkAbaE</guid>
+            <source>Morpheus Formation | Excel, Power BI, Data</source>
+        </item>
+        <item>
             <title>Langage DAX : le cours complet de A à Z | Formation Power BI</title>
             <link>https://www.youtube.com/watch?v=7SV9kNRvdmU</link>
             <description><![CDATA[Dans cette vidéo, je propose un cours complet sur DAX, langage intégré à EXCEL &amp; Power BI, pour le calcul de colonnes ou de ...]]></description>
@@ -117,12 +133,12 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Découvrez notre formation sur Power BI #data #powerbi</title>
-            <link>https://www.youtube.com/watch?v=5XRR3C0nQLg</link>
-            <description><![CDATA[Pour en savoir plus sur l'alternance OpenClassrooms, c'est ici : oc.info/4t3tMFN.]]></description>
-            <pubDate>Tue, 21 Jul 2026 05:30:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=5XRR3C0nQLg</guid>
-            <source>OpenClassrooms en Français</source>
+            <title>Chaleur de récupération, géothermie, biomasse : comment un réseau peut cumuler plusieurs sources d'énergie ?</title>
+            <link>https://www.futura-sciences.com/maison/questions-reponses/chauffage-chaleur-recuperation-geothermie-biomasse-reseau-peut-cumuler-plusieurs-sources-energie-25917/</link>
+            <description><![CDATA[De plus en plus de réseaux de chaleur combinent plusieurs énergies locales, comme la géothermie, la chaleur récupérée sur une usine voisine ou le bois plutôt que de dépendre d'une seule source. Une or...]]></description>
+            <pubDate>Thu, 27 Aug 2026 15:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/maison/questions-reponses/chauffage-chaleur-recuperation-geothermie-biomasse-reseau-peut-cumuler-plusieurs-sources-energie-25917/</guid>
+            <source>Futura</source>
         </item>
         <item>
             <title>Comment créer une base de données avec le langage SQL ?</title>
@@ -133,12 +149,12 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>Cellebrite met ses capacités de renseignement sur le champ de bataille au service des forces armées avec le lancement du Portable Tactical Extraction Kit (C-TEK)</title>
-            <link>https://www.prnewswire.com/news-releases/cellebrite-met-ses-capacites-de-renseignement-sur-le-champ-de-bataille-au-service-des-forces-armees-avec-le-lancement-du-portable-tactical-extraction-kit-c-tek-302860904.html</link>
-            <description><![CDATA[S'appuyant sur les capacités médico-légales numériques de Cellebrite, le C-TEK aide les équipes déployées sur le terrain à trier rapidement les données issues de téléphones, de cartes SIM, de drones e...]]></description>
-            <pubDate>Wed, 26 Aug 2026 18:47:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/cellebrite-met-ses-capacites-de-renseignement-sur-le-champ-de-bataille-au-service-des-forces-armees-avec-le-lancement-du-portable-tactical-extraction-kit-c-tek-302860904.html</guid>
-            <source>PRNewswire</source>
+            <title>La marque Carhartt au cœur d’un immense chantage : les données de 13 millions de clients jetées dans la nature</title>
+            <link>https://www.numerama.com/cyberguerre/2319807-la-marque-carhartt-au-coeur-dun-immense-chantage-les-donnees-de-13-millions-de-clients-jetees-dans-la-nature.html</link>
+            <description><![CDATA[Le groupe d'extorsion ShinyHunters a mis en ligne des données volées à la marque de vêtements américaine, après l'échec d'une tentative de rançon de 3,3 millions de dollars. Carhartt rejoint la longue...]]></description>
+            <pubDate>Thu, 27 Aug 2026 14:39:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/cyberguerre/2319807-la-marque-carhartt-au-coeur-dun-immense-chantage-les-donnees-de-13-millions-de-clients-jetees-dans-la-nature.html</guid>
+            <source>Numerama</source>
         </item>
         <item>
             <title>Nettoyage et préparation de jeux de données (Pyhton, Excel, Copilote)</title>
@@ -149,28 +165,12 @@
             <source>GOJAMBAR</source>
         </item>
         <item>
-            <title>Starcloud lève 250 millions : la nouvelle bulle spéculative se gonfle en orbite basse</title>
-            <link>https://www.generation-nt.com/actualites/starcloud-datacenter-espace-intelligence-artificielle-financement-2080105</link>
-            <description><![CDATA[La nouvelle ruée vers l'or n'est plus terrestre, elle se joue à des centaines de kilomètres au-dessus de nos têtes. Dans ce Far West orbital, une startup vient de recevoir un nouveau baril de poudre p...]]></description>
-            <pubDate>Tue, 25 Aug 2026 06:20:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/starcloud-datacenter-espace-intelligence-artificielle-financement-2080105</guid>
-            <source>Génération NT</source>
-        </item>
-        <item>
-            <title>ARCSPACE lève plus de 2 millions d’euros pour faire passer les satellites du jetable au réparable</title>
-            <link>https://www.frenchweb.fr/arcspace-leve-plus-de-2-millions-deuros-pour-faire-passer-les-satellites-du-jetable-au-reparable/463048</link>
-            <description><![CDATA[La startup parisienne ARCSPACE vient d’annoncer avoir levé plus de 2 millions d’euros pour qualifier en vol une technologie de soudage et de découpe par faisceau d’électrons destinée aux opérations en...]]></description>
-            <pubDate>Wed, 26 Aug 2026 07:25:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frenchweb.fr/arcspace-leve-plus-de-2-millions-deuros-pour-faire-passer-les-satellites-du-jetable-au-reparable/463048</guid>
-            <source>Frenchweb.fr</source>
-        </item>
-        <item>
-            <title>Métropole de Lyon. Traitement innovant contre le cancer : une biotech lyonnaise fait appel au grand public</title>
-            <link>https://www.leprogres.fr/economie/2026/08/07/traitement-innovant-contre-le-cancer-une-biotech-lyonnaise-fait-appel-au-grand-public</link>
-            <description><![CDATA[L’ambition de Kairos discovery est de développer une nouvelle thérapie ciblée contre certains cancers. Pour poursuivre son travail, elle a besoin de financements et fait appel au grand public pour « s...]]></description>
-            <pubDate>Wed, 26 Aug 2026 16:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.leprogres.fr/economie/2026/08/07/traitement-innovant-contre-le-cancer-une-biotech-lyonnaise-fait-appel-au-grand-public</guid>
-            <source>Le Progrès</source>
+            <title>Expulsions locatives et loyers impayés en France (2019–2025)</title>
+            <link>https://www.data.gouv.fr/datasets/expulsions-locatives-et-loyers-impayes-en-france-2019-2025</link>
+            <description><![CDATA[Ce jeu de données rassemble les principaux indicateurs officiels sur les expulsions locatives et les loyers impayés en France : la série annuelle des expulsions réalisées avec le concours de la force ...]]></description>
+            <pubDate>Thu, 27 Aug 2026 13:06:04 -0000</pubDate>
+            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/expulsions-locatives-et-loyers-impayes-en-france-2019-2025</guid>
+            <source>Gouv.fr</source>
         </item>
     </channel>
 </rss>
