@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 28 Aug 2026 20:05:37 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 13:43:12 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,6 +21,14 @@
             <source>Elliott Pierret</source>
         </item>
         <item>
+            <title>« Interdire l'IA » : des développeurs de logiciels libres rejettent l'intelligence artificielle</title>
+            <link>https://basta.media/interdire-IA-LLM-des-developpeurs-de-logiciels-libres-rejettent-intelligence-artificielle-Debian</link>
+            <description><![CDATA[La vaste communauté de développeurs de logiciels libres de Debian a discuté pendant l'été d'interdire le code produit avec des LLM. Pour certains, il faut bannir l'IA. Pour d'autres, l'IA est certes n...]]></description>
+            <pubDate>Fri, 28 Aug 2026 05:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://basta.media/interdire-IA-LLM-des-developpeurs-de-logiciels-libres-rejettent-intelligence-artificielle-Debian</guid>
+            <source>Basta.media</source>
+        </item>
+        <item>
             <title>Personne ne réalise ce que le nouveau ChatGPT peut faire</title>
             <link>https://www.youtube.com/watch?v=4km3oLGe-iQ</link>
             <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4xxCk9x Rejoins ma communauté ...]]></description>
@@ -29,12 +37,12 @@
             <source>Yassine Sdiri</source>
         </item>
         <item>
-            <title>Top 7 des agrégateurs d’IA : les meilleures plateformes pour utiliser plusieurs modèles IA</title>
-            <link>https://www.aruco.com/intelligence-artificielle/top-plateformes-multi-ia/</link>
-            <description><![CDATA[ChatGPT, Claude, Gemini, Grok, Mistral, Perplexity… À mesure que les modèles d’IA se multiplient, les utilisateurs doivent souvent jongler entre plusieurs interfaces et abonnements pour profiter de le...]]></description>
-            <pubDate>Thu, 27 Aug 2026 17:45:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.aruco.com/intelligence-artificielle/top-plateformes-multi-ia/</guid>
-            <source>Aruco.com</source>
+            <title>Actualité : ChatGPT, Claude, Gemini : avez-vous vraiment besoin de payer pour une IA ?</title>
+            <link>https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-claude-gemini-avez-vous-vraiment-besoin-de-payer-pour-une-ia-n261046.html</link>
+            <description><![CDATA[ChatGPT, Claude ou Gemini sont de plus en plus généreux sans abonnement : les offres payantes deviennent-elles inutiles ? Texte, code, data, image ou vidéo, selon les usages, la gratuité peut être lar...]]></description>
+            <pubDate>Fri, 28 Aug 2026 13:07:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-claude-gemini-avez-vous-vraiment-besoin-de-payer-pour-une-ia-n261046.html</guid>
+            <source>Les Numériques</source>
         </item>
         <item>
             <title>Machine Learning Full Course 2026 | Machine Learning Full Course for Beginners | Simplilearn</title>
@@ -43,14 +51,6 @@
             <pubDate>Wed, 19 Aug 2026 14:30:16 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=SruoM1J41fA</guid>
             <source>Simplilearn</source>
-        </item>
-        <item>
-            <title>Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning</title>
-            <link>https://www.youtube.com/watch?v=PY_wRwL3Q0E</link>
-            <description><![CDATA[Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...]]></description>
-            <pubDate>Wed, 15 Jul 2026 16:07:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=PY_wRwL3Q0E</guid>
-            <source>Rafa Explique</source>
         </item>
         <item>
             <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
@@ -101,14 +101,6 @@
             <source>Ceemtic Analytics</source>
         </item>
         <item>
-            <title>Actualité : Lidl investit 5,6 milliards d'euros dans l'IA pour la souveraineté européenne contre les États-Unis</title>
-            <link>https://www.lesnumeriques.com/intelligence-artificielle/lidl-investit-5-6-milliards-d-euros-dans-l-ia-pour-la-souverainete-europeenne-contre-les-etats-unis-n261013.html</link>
-            <description><![CDATA[Quand on parle de Lidl, on pense tout naturellement aux courses pas chères. Mais le roi du low cost a d'autres ambitions et investit 5,6 milliards d'euros dans un projet pour le moins ambitieux : un c...]]></description>
-            <pubDate>Thu, 27 Aug 2026 19:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/lidl-investit-5-6-milliards-d-euros-dans-l-ia-pour-la-souverainete-europeenne-contre-les-etats-unis-n261013.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
             <title>Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data</title>
             <link>https://www.youtube.com/watch?v=IwQvKri768w</link>
             <description><![CDATA[Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data Timeline 00:00 Introduction ...]]></description>
@@ -125,6 +117,14 @@
             <source>Morpheus Formation | Excel, Power BI, Data</source>
         </item>
         <item>
+            <title>Comment analyser vos données avec Claude Code | Formation Complète Claude pour Data Analyst de A à Z</title>
+            <link>https://www.youtube.com/watch?v=Z1Y41sOVWyQ</link>
+            <description><![CDATA[Bienvenue dans cette formation complète consacrée à l'analyse des données avec Claude. Vous comprendrez ce qu'est Claude ...]]></description>
+            <pubDate>Tue, 21 Jul 2026 15:59:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z1Y41sOVWyQ</guid>
+            <source>Oscar Aksanti</source>
+        </item>
+        <item>
             <title>Langage DAX : le cours complet de A à Z | Formation Power BI</title>
             <link>https://www.youtube.com/watch?v=7SV9kNRvdmU</link>
             <description><![CDATA[Dans cette vidéo, je propose un cours complet sur DAX, langage intégré à EXCEL &amp; Power BI, pour le calcul de colonnes ou de ...]]></description>
@@ -133,12 +133,20 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Chaleur de récupération, géothermie, biomasse : comment un réseau peut cumuler plusieurs sources d'énergie ?</title>
-            <link>https://www.futura-sciences.com/maison/questions-reponses/chauffage-chaleur-recuperation-geothermie-biomasse-reseau-peut-cumuler-plusieurs-sources-energie-25917/</link>
-            <description><![CDATA[De plus en plus de réseaux de chaleur combinent plusieurs énergies locales, comme la géothermie, la chaleur récupérée sur une usine voisine ou le bois plutôt que de dépendre d'une seule source. Une or...]]></description>
-            <pubDate>Thu, 27 Aug 2026 15:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/maison/questions-reponses/chauffage-chaleur-recuperation-geothermie-biomasse-reseau-peut-cumuler-plusieurs-sources-energie-25917/</guid>
-            <source>Futura</source>
+            <title>Luxshare Precision prévoit une hausse de son bénéfice net de 15 à 25 % au cours des neuf premiers mois de 2026</title>
+            <link>https://www.prnewswire.com/news-releases/luxshare-precision-prevoit-une-hausse-de-son-benefice-net-de-15-a-25--au-cours-des-neuf-premiers-mois-de-2026-302862727.html</link>
+            <description><![CDATA[Les perspectives de croissance sont favorisées par la poursuite de la mise en œuvre de nos stratégies dans les secteurs de l'électronique grand public, des infrastructures de centres de données dédiée...]]></description>
+            <pubDate>Fri, 28 Aug 2026 13:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/luxshare-precision-prevoit-une-hausse-de-son-benefice-net-de-15-a-25--au-cours-des-neuf-premiers-mois-de-2026-302862727.html</guid>
+            <source>PRNewswire</source>
+        </item>
+        <item>
+            <title>Ces sept smartphones sont les seuls à pouvoir faire tourner la nouvelle IA de Google</title>
+            <link>https://www.phonandroid.com/ces-sept-smartphones-sont-les-seuls-a-pouvoir-faire-tourner-la-nouvelle-ia-de-google.html</link>
+            <description><![CDATA[Pour accéder aux outils d’IA conçus par Google, la mouture d’Android présente sur le mobile compte désormais beaucoup moins. Les possibilités offertes reposent surtout sur ses composants internes. Une...]]></description>
+            <pubDate>Fri, 28 Aug 2026 13:41:04 -0000</pubDate>
+            <guid isPermaLink="true">https://www.phonandroid.com/ces-sept-smartphones-sont-les-seuls-a-pouvoir-faire-tourner-la-nouvelle-ia-de-google.html</guid>
+            <source>Phonandroid</source>
         </item>
         <item>
             <title>Comment créer une base de données avec le langage SQL ?</title>
@@ -149,14 +157,6 @@
             <source>OpenClassrooms en Français</source>
         </item>
         <item>
-            <title>La marque Carhartt au cœur d’un immense chantage : les données de 13 millions de clients jetées dans la nature</title>
-            <link>https://www.numerama.com/cyberguerre/2319807-la-marque-carhartt-au-coeur-dun-immense-chantage-les-donnees-de-13-millions-de-clients-jetees-dans-la-nature.html</link>
-            <description><![CDATA[Le groupe d'extorsion ShinyHunters a mis en ligne des données volées à la marque de vêtements américaine, après l'échec d'une tentative de rançon de 3,3 millions de dollars. Carhartt rejoint la longue...]]></description>
-            <pubDate>Thu, 27 Aug 2026 14:39:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/cyberguerre/2319807-la-marque-carhartt-au-coeur-dun-immense-chantage-les-donnees-de-13-millions-de-clients-jetees-dans-la-nature.html</guid>
-            <source>Numerama</source>
-        </item>
-        <item>
             <title>Nettoyage et préparation de jeux de données (Pyhton, Excel, Copilote)</title>
             <link>https://www.youtube.com/watch?v=OrI-pLVY96Q</link>
             <description><![CDATA[Dans ce tutoriel complet, apprenez à automatiser le nettoyage et la préparation de vos jeux de données géographiques en ...]]></description>
@@ -165,12 +165,12 @@
             <source>GOJAMBAR</source>
         </item>
         <item>
-            <title>Expulsions locatives et loyers impayés en France (2019–2025)</title>
-            <link>https://www.data.gouv.fr/datasets/expulsions-locatives-et-loyers-impayes-en-france-2019-2025</link>
-            <description><![CDATA[Ce jeu de données rassemble les principaux indicateurs officiels sur les expulsions locatives et les loyers impayés en France : la série annuelle des expulsions réalisées avec le concours de la force ...]]></description>
-            <pubDate>Thu, 27 Aug 2026 13:06:04 -0000</pubDate>
-            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/expulsions-locatives-et-loyers-impayes-en-france-2019-2025</guid>
-            <source>Gouv.fr</source>
+            <title>Introduction | SQL - EP1</title>
+            <link>https://www.youtube.com/watch?v=QXaOjeucWgI</link>
+            <description><![CDATA[Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...]]></description>
+            <pubDate>Fri, 28 Aug 2026 18:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=QXaOjeucWgI</guid>
+            <source>EvoluNoob</source>
         </item>
     </channel>
 </rss>
