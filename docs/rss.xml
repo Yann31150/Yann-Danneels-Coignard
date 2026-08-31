@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 30 Aug 2026 13:41:09 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 15:59:40 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -19,14 +19,6 @@
             <pubDate>Sun, 12 Jul 2026 16:00:41 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=rx7F_9Vm35Y</guid>
             <source>Elliott Pierret</source>
-        </item>
-        <item>
-            <title>IA et éducation : le piège des devoirs faits par ChatGPT, par Franck Ramus</title>
-            <link>https://www.lexpress.fr/sciences-sante/ia-et-education-le-piege-des-devoirs-faits-par-chatgpt-par-franck-ramus-CEEHXOQ7EJC3BF6P5URX2E3T2E/</link>
-            <description><![CDATA[S’ils délèguent leurs devoirs à la maison à l’intelligence artificielle, les élèves risquent de ne plus rien apprendre. Mais un meilleur usage offre d’autres possibilités.]]></description>
-            <pubDate>Sat, 29 Aug 2026 09:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lexpress.fr/sciences-sante/ia-et-education-le-piege-des-devoirs-faits-par-chatgpt-par-franck-ramus-CEEHXOQ7EJC3BF6P5URX2E3T2E/</guid>
-            <source>L'Express</source>
         </item>
         <item>
             <title>Personne ne réalise ce que le nouveau ChatGPT peut faire</title>
@@ -93,6 +85,14 @@
             <source>Jeune Financier Africain </source>
         </item>
         <item>
+            <title>Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet</title>
+            <link>https://www.youtube.com/watch?v=x7Nh0RKEoxg</link>
+            <description><![CDATA[Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...]]></description>
+            <pubDate>Fri, 31 Jul 2026 17:56:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=x7Nh0RKEoxg</guid>
+            <source>Data & Dash Consulting</source>
+        </item>
+        <item>
             <title>Comment créer un tableau de bord RH sur Power BI ?</title>
             <link>https://www.youtube.com/watch?v=v0Z8TMkAbaE</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
@@ -117,12 +117,20 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Ces sept smartphones sont les seuls à pouvoir faire tourner la nouvelle IA de Google</title>
-            <link>https://www.phonandroid.com/ces-sept-smartphones-sont-les-seuls-a-pouvoir-faire-tourner-la-nouvelle-ia-de-google.html</link>
-            <description><![CDATA[Pour accéder aux outils d’IA conçus par Google, la mouture d’Android présente sur le mobile compte désormais beaucoup moins. Les possibilités offertes reposent surtout sur ses composants internes. Une...]]></description>
-            <pubDate>Fri, 28 Aug 2026 13:41:04 -0000</pubDate>
-            <guid isPermaLink="true">https://www.phonandroid.com/ces-sept-smartphones-sont-les-seuls-a-pouvoir-faire-tourner-la-nouvelle-ia-de-google.html</guid>
-            <source>Phonandroid</source>
+            <title>Ce centre de données fait travailler des neurones humains</title>
+            <link>https://www.journaldugeek.com/2026/08/30/ce-centre-de-donnees-fait-travailler-des-neurones-humains/</link>
+            <description><![CDATA[Au lieu de s’appuyer uniquement sur des puces en silicium, le prototype de centre de données biologique de Cortical Labs à Singapour utilise des neurones humains cultivés en laboratoire pour traiter d...]]></description>
+            <pubDate>Sun, 30 Aug 2026 09:02:04 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/08/30/ce-centre-de-donnees-fait-travailler-des-neurones-humains/</guid>
+            <source>Journal du geek</source>
+        </item>
+        <item>
+            <title>Link Building Africa et la bataille des résultats - 237online.com</title>
+            <link>https://www.237online.com/link-building-africa-bataille-resultats/</link>
+            <description><![CDATA[Link building Africa : médias locaux, crédibilité éditoriale et règles de Google redessinent la visibilité des entreprises sur le continent africain.]]></description>
+            <pubDate>Sun, 30 Aug 2026 01:07:30 -0000</pubDate>
+            <guid isPermaLink="true">https://www.237online.com/link-building-africa-bataille-resultats/</guid>
+            <source>237online.com</source>
         </item>
         <item>
             <title>Nettoyage et préparation de jeux de données (Pyhton, Excel, Copilote)</title>
@@ -133,6 +141,14 @@
             <source>GOJAMBAR</source>
         </item>
         <item>
+            <title>Billet. Vers l’infini et au-delà !</title>
+            <link>https://www.ledauphine.com/societe/2026/08/30/vers-l-infini-et-au-dela</link>
+            <description><![CDATA[Génial ou mégalo, Elon Musk est un personnage ambivalent qui fascine autant qu’il inquiète.]]></description>
+            <pubDate>Sun, 30 Aug 2026 04:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.ledauphine.com/societe/2026/08/30/vers-l-infini-et-au-dela</guid>
+            <source>Le Dauphiné Libéré</source>
+        </item>
+        <item>
             <title>Introduction | SQL - EP1</title>
             <link>https://www.youtube.com/watch?v=QXaOjeucWgI</link>
             <description><![CDATA[Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...]]></description>
@@ -141,36 +157,20 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Ces narvals ont plongé là où aucun navire ne pouvait aller et révélé ce qui atteint les glaciers du Groenland</title>
-            <link>https://www.futura-sciences.com/planete/actualites/arctique-ces-narvals-ont-plonge-aucun-navire-ne-pouvait-aller-revele-ce-atteint-glaciers-groenland-137330/</link>
-            <description><![CDATA[Ils sont capables de plonger là où les navires ne peuvent aller. Équipés de capteurs, six narvals se sont transformés en océanographes malgré eux et ont ainsi permis d’explorer les profondeurs des fjo...]]></description>
-            <pubDate>Sat, 29 Aug 2026 09:08:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/planete/actualites/arctique-ces-narvals-ont-plonge-aucun-navire-ne-pouvait-aller-revele-ce-atteint-glaciers-groenland-137330/</guid>
-            <source>Futura</source>
+            <title>Willylancien, Xania Monet… Ces faux artistes, générés par IA sont des vraies stars de la musique</title>
+            <link>https://www.huffingtonpost.fr/culture/video/willylancien-xania-monet-ces-faux-artistes-generes-par-ia-sont-des-vraies-stars-de-la-musique_313768.html</link>
+            <description><![CDATA[À l’ère de l’intelligence artificielle, de nouvelles stars de la musique émergent… alors qu’elles ne sont pas humaines.]]></description>
+            <pubDate>Sun, 30 Aug 2026 09:27:07 -0000</pubDate>
+            <guid isPermaLink="true">https://www.huffingtonpost.fr/culture/video/willylancien-xania-monet-ces-faux-artistes-generes-par-ia-sont-des-vraies-stars-de-la-musique_313768.html</guid>
+            <source>Le HuffPost</source>
         </item>
         <item>
-            <title>Télécharger Sniffnet pour Windows, Mac, Web, Linux - Telecharger.com</title>
-            <link>https://www.01net.com/telecharger/securite/outils/sniffnet.html</link>
-            <description><![CDATA[Sniffnet est un logiciel open source de surveillance du trafic réseau. Il permet d'analyser en temps réel les connexions internet, les échanges de données et l'activité du réseau à travers…]]></description>
-            <pubDate>Sat, 29 Aug 2026 10:45:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.01net.com/telecharger/securite/outils/sniffnet.html</guid>
-            <source>01net.com</source>
-        </item>
-        <item>
-            <title>À Singapour, de vrais neurones humains cultivés en labo font tourner l’IA</title>
-            <link>https://www.numerama.com/tech/2320745-a-singapour-de-vrais-neurones-humains-cultives-en-labo-font-tourner-lia.html</link>
-            <description><![CDATA[À Singapour, un rack de serveurs calcule désormais avec de vrais neurones humains cultivés en laboratoire, et non avec des puces en silicium. Derrière ce prototype, un pari : alléger la facture énergé...]]></description>
-            <pubDate>Fri, 28 Aug 2026 16:01:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/tech/2320745-a-singapour-de-vrais-neurones-humains-cultives-en-labo-font-tourner-lia.html</guid>
-            <source>Numerama</source>
-        </item>
-        <item>
-            <title>À Singapour, un rack de serveurs fonctionne avec 16 millions de neurones humains cultivés en labo</title>
-            <link>https://www.numerama.com/tech/2320745-a-singapour-un-rack-de-serveurs-fonctionne-avec-16-millions-de-neurones-humains-cultives-en-labo.html</link>
-            <description><![CDATA[À Singapour, un rack de serveurs calcule désormais avec de vrais neurones humains cultivés en laboratoire, et non avec des puces en silicium. Derrière ce prototype, un pari : alléger la facture énergé...]]></description>
-            <pubDate>Fri, 28 Aug 2026 16:01:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/tech/2320745-a-singapour-un-rack-de-serveurs-fonctionne-avec-16-millions-de-neurones-humains-cultives-en-labo.html</guid>
-            <source>Numerama</source>
+            <title>L’intelligence artificielle selon MC Solaar</title>
+            <link>https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/l-intelligence-artificielle-selon-mc-solaar_8083994.html</link>
+            <description><![CDATA[Pendant tous les week-ends de cet été, nous écoutons dans cette chronique des chansons qui s’inspirent de l’actualité et de l’air du temps de ces quelques dernières années. Aujourd’hui, "IA" de MC Sol...]]></description>
+            <pubDate>Sun, 30 Aug 2026 08:00:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/l-intelligence-artificielle-selon-mc-solaar_8083994.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
     </channel>
 </rss>

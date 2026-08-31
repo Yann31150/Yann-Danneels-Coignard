@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-30T13:41:09.646966",
+  "lastUpdate": "2026-08-31T15:59:40.988653",
   "articles": [
     {
       "title": "ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)",
@@ -12,18 +12,6 @@
       "isYouTube": true,
       "videoId": "rx7F_9Vm35Y",
       "thumbnail": "https://i.ytimg.com/vi/rx7F_9Vm35Y/hqdefault.jpg"
-    },
-    {
-      "title": "IA et éducation : le piège des devoirs faits par ChatGPT, par Franck Ramus",
-      "description": "S’ils délèguent leurs devoirs à la maison à l’intelligence artificielle, les élèves risquent de ne plus rien apprendre. Mais un meilleur usage offre d’autres possibilités.",
-      "url": "https://www.lexpress.fr/sciences-sante/ia-et-education-le-piege-des-devoirs-faits-par-chatgpt-par-franck-ramus-CEEHXOQ7EJC3BF6P5URX2E3T2E/",
-      "source": "L'Express",
-      "publishedAt": "2026-08-29T09:30:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Personne ne réalise ce que le nouveau ChatGPT peut faire",
@@ -122,6 +110,18 @@
       "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
     },
     {
+      "title": "Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet",
+      "description": "Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...",
+      "url": "https://www.youtube.com/watch?v=x7Nh0RKEoxg",
+      "source": "Data & Dash Consulting",
+      "publishedAt": "2026-07-31T17:56:47Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "x7Nh0RKEoxg",
+      "thumbnail": "https://i.ytimg.com/vi/x7Nh0RKEoxg/hqdefault.jpg"
+    },
+    {
       "title": "Comment créer un tableau de bord RH sur Power BI ?",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=v0Z8TMkAbaE",
@@ -158,11 +158,23 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
-      "title": "Ces sept smartphones sont les seuls à pouvoir faire tourner la nouvelle IA de Google",
-      "description": "Pour accéder aux outils d’IA conçus par Google, la mouture d’Android présente sur le mobile compte désormais beaucoup moins. Les possibilités offertes reposent surtout sur ses composants internes. Une...",
-      "url": "https://www.phonandroid.com/ces-sept-smartphones-sont-les-seuls-a-pouvoir-faire-tourner-la-nouvelle-ia-de-google.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-08-28T13:41:04Z",
+      "title": "Ce centre de données fait travailler des neurones humains",
+      "description": "Au lieu de s’appuyer uniquement sur des puces en silicium, le prototype de centre de données biologique de Cortical Labs à Singapour utilise des neurones humains cultivés en laboratoire pour traiter d...",
+      "url": "https://www.journaldugeek.com/2026/08/30/ce-centre-de-donnees-fait-travailler-des-neurones-humains/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-08-30T09:02:04Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Link Building Africa et la bataille des résultats - 237online.com",
+      "description": "Link building Africa : médias locaux, crédibilité éditoriale et règles de Google redessinent la visibilité des entreprises sur le continent africain.",
+      "url": "https://www.237online.com/link-building-africa-bataille-resultats/",
+      "source": "237online.com",
+      "publishedAt": "2026-08-30T01:07:30Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -182,6 +194,18 @@
       "thumbnail": "https://i.ytimg.com/vi/OrI-pLVY96Q/hqdefault.jpg"
     },
     {
+      "title": "Billet. Vers l’infini et au-delà !",
+      "description": "Génial ou mégalo, Elon Musk est un personnage ambivalent qui fascine autant qu’il inquiète.",
+      "url": "https://www.ledauphine.com/societe/2026/08/30/vers-l-infini-et-au-dela",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-08-30T04:00:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Introduction | SQL - EP1",
       "description": "Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...",
       "url": "https://www.youtube.com/watch?v=QXaOjeucWgI",
@@ -194,35 +218,35 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Ces narvals ont plongé là où aucun navire ne pouvait aller et révélé ce qui atteint les glaciers du Groenland",
-      "description": "Ils sont capables de plonger là où les navires ne peuvent aller. Équipés de capteurs, six narvals se sont transformés en océanographes malgré eux et ont ainsi permis d’explorer les profondeurs des fjo...",
-      "url": "https://www.futura-sciences.com/planete/actualites/arctique-ces-narvals-ont-plonge-aucun-navire-ne-pouvait-aller-revele-ce-atteint-glaciers-groenland-137330/",
-      "source": "Futura",
-      "publishedAt": "2026-08-29T09:08:47Z",
-      "category": "data",
+      "title": "Willylancien, Xania Monet… Ces faux artistes, générés par IA sont des vraies stars de la musique",
+      "description": "À l’ère de l’intelligence artificielle, de nouvelles stars de la musique émergent… alors qu’elles ne sont pas humaines.",
+      "url": "https://www.huffingtonpost.fr/culture/video/willylancien-xania-monet-ces-faux-artistes-generes-par-ia-sont-des-vraies-stars-de-la-musique_313768.html",
+      "source": "Le HuffPost",
+      "publishedAt": "2026-08-30T09:27:07Z",
+      "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Télécharger Sniffnet pour Windows, Mac, Web, Linux - Telecharger.com",
-      "description": "Sniffnet est un logiciel open source de surveillance du trafic réseau. Il permet d'analyser en temps réel les connexions internet, les échanges de données et l'activité du réseau à travers…",
-      "url": "https://www.01net.com/telecharger/securite/outils/sniffnet.html",
-      "source": "01net.com",
-      "publishedAt": "2026-08-29T10:45:56Z",
-      "category": "data",
+      "title": "L’intelligence artificielle selon MC Solaar",
+      "description": "Pendant tous les week-ends de cet été, nous écoutons dans cette chronique des chansons qui s’inspirent de l’actualité et de l’air du temps de ces quelques dernières années. Aujourd’hui, \"IA\" de MC Sol...",
+      "url": "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/l-intelligence-artificielle-selon-mc-solaar_8083994.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-08-30T08:00:02Z",
+      "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "À Singapour, de vrais neurones humains cultivés en labo font tourner l’IA",
-      "description": "À Singapour, un rack de serveurs calcule désormais avec de vrais neurones humains cultivés en laboratoire, et non avec des puces en silicium. Derrière ce prototype, un pari : alléger la facture énergé...",
-      "url": "https://www.numerama.com/tech/2320745-a-singapour-de-vrais-neurones-humains-cultives-en-labo-font-tourner-lia.html",
+      "title": "Avez-vous démissionné sans le savoir ?",
+      "description": "Le meat proxy s'invite dans les débats autour de l'usage de l'IA dans un environnement professionnel. Si vous passez votre journée à copier/coller du texte qui vient d'une intelligence artificielle sa...",
+      "url": "https://www.numerama.com/tech/2320593-avez-vous-demissionne-sans-le-savoir.html",
       "source": "Numerama",
-      "publishedAt": "2026-08-28T16:01:00Z",
+      "publishedAt": "2026-08-30T08:33:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,47 +254,23 @@
       "thumbnail": ""
     },
     {
-      "title": "À Singapour, un rack de serveurs fonctionne avec 16 millions de neurones humains cultivés en labo",
-      "description": "À Singapour, un rack de serveurs calcule désormais avec de vrais neurones humains cultivés en laboratoire, et non avec des puces en silicium. Derrière ce prototype, un pari : alléger la facture énergé...",
-      "url": "https://www.numerama.com/tech/2320745-a-singapour-un-rack-de-serveurs-fonctionne-avec-16-millions-de-neurones-humains-cultives-en-labo.html",
-      "source": "Numerama",
-      "publishedAt": "2026-08-28T16:01:00Z",
-      "category": "tech",
+      "title": "Présidentielle 2027 : ce que les candidats ont réellement compris de la puissance technologique",
+      "description": "À La REF, grande messe annuelle du MEDEF, principale organisation patronale française, l’intelligence artificielle et l’innovation n’ont pas bénéficié d’une séquence dédiée lors du débat réunissant se...",
+      "url": "https://www.frenchweb.fr/presidentielle-2027-ce-que-les-candidats-ont-reellement-compris-de-la-puissance-technologique/463107",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-08-30T11:13:49Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Native, un nouveau challenger pour l’IA locale sur Mac",
-      "description": "Quand on veut exécuter un modèle d’IA sur son Mac, ce ne sont pas les logiciels qui manquent. Outre LM Studio et Ollama qui se sont imposés comme les principales solutions, il existe une myriade d’app...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/08/native-un-nouveau-challenger-pour-lia-locale-sur-mac-310709",
-      "source": "MacGeneration",
-      "publishedAt": "2026-08-28T15:29:45Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "\"Les modèles de Runway seront extrêmement utiles en robotique\"",
-      "description": "Après avoir ouvert un hub de recherche à Paris, Runway accélère son virage vers les world models. Son cofondateur et co-CEO Anastasis Germanidis détaille au JDN sa stratégie pour étendre l'IA vidéo à ...",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1554053-les-modeles-de-runway-seront-extremement-utiles-en-robotique/",
-      "source": "JDN",
-      "publishedAt": "2026-08-28T12:15:04Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "XRing O3 : la nouvelle puce maison de Xiaomi qui veut jouer dans la cour des très grands",
-      "description": "Xiaomi a présenté le XRing O3, son nouveau processeur développé conçu en interne. La puce a tout pour impressionner : beaucoup de puissance, un GPU très moderne, de l’IA intégrée et de la mémoire très...",
-      "url": "https://www.journaldugeek.com/2026/08/29/xring-o3-la-nouvelle-puce-maison-de-xiaomi-qui-veut-jouer-dans-la-cour-des-tres-grands/",
+      "title": "IA générative : impossible de savoir quelle image a vraiment servi de modèle",
+      "description": "Peut-on retrouver précisément quelle image d’entraînement a poussé une IA à générer tel visage, tel paysage ou telle œuvre ? Des chercheurs ont tenté de le mesurer. Leur conclusion : plus les modèles ...",
+      "url": "https://www.journaldugeek.com/2026/08/29/ia-generative-impossible-de-savoir-quelle-image-a-vraiment-servi-de-modele/",
       "source": "Journal du geek",
-      "publishedAt": "2026-08-29T09:02:50Z",
+      "publishedAt": "2026-08-29T15:00:16Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
