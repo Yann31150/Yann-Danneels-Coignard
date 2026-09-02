@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-01T13:18:10.631728",
+  "lastUpdate": "2026-09-02T12:39:15.731901",
   "articles": [
     {
       "title": "ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)",
@@ -24,6 +24,18 @@
       "isYouTube": true,
       "videoId": "4km3oLGe-iQ",
       "thumbnail": "https://i.ytimg.com/vi/4km3oLGe-iQ/hqdefault.jpg"
+    },
+    {
+      "title": "L'IA vous aide à ne plus jamais décevoir, c'est exactement pour ça que vous êtes seul",
+      "description": "Une génération qui séduit et flirte grâce à un talentueux souffleur nommé ChatGPT. Puis vient le premier rdv amoureux. Mais en face à face, le souffleur n'est plus là...",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1554199-l-ia-vous-aide-a-ne-plus-jamais-decevoir-c-est-exactement-pour-ca-que-vous-etes-seul/",
+      "source": "JDN",
+      "publishedAt": "2026-09-01T11:56:01Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning",
@@ -98,28 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/LKtwwn-W6iM/hqdefault.jpg"
     },
     {
-      "title": "Cours complet sur Power BI pour débutant",
-      "description": "Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...",
-      "url": "https://www.youtube.com/watch?v=uJeUP8Z9LsQ",
-      "source": "Jeune Financier Africain ",
-      "publishedAt": "2026-08-25T17:46:11Z",
+      "title": "Machine Learning Tutorial for Beginners",
+      "description": "In this beginner friendly machine learning crash course, we will go over the theory and coding for all the required machine ...",
+      "url": "https://www.youtube.com/watch?v=SkvBO4ROl3Q",
+      "source": "codebasics",
+      "publishedAt": "2026-08-14T15:44:05Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "uJeUP8Z9LsQ",
-      "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
-    },
-    {
-      "title": "Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet",
-      "description": "Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...",
-      "url": "https://www.youtube.com/watch?v=x7Nh0RKEoxg",
-      "source": "Data & Dash Consulting",
-      "publishedAt": "2026-07-31T17:56:47Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "x7Nh0RKEoxg",
-      "thumbnail": "https://i.ytimg.com/vi/x7Nh0RKEoxg/hqdefault.jpg"
+      "videoId": "SkvBO4ROl3Q",
+      "thumbnail": "https://i.ytimg.com/vi/SkvBO4ROl3Q/hqdefault.jpg"
     },
     {
       "title": "Comment créer un tableau de bord RH sur Power BI ?",
@@ -158,18 +158,6 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
-      "title": "Ce centre de données fait travailler des neurones humains",
-      "description": "Au lieu de s’appuyer uniquement sur des puces en silicium, le prototype de centre de données biologique de Cortical Labs à Singapour utilise des neurones humains cultivés en laboratoire pour traiter d...",
-      "url": "https://www.journaldugeek.com/2026/08/30/ce-centre-de-donnees-fait-travailler-des-neurones-humains/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-08-30T09:02:04Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Nettoyage et préparation de jeux de données (Pyhton, Excel, Copilote)",
       "description": "Dans ce tutoriel complet, apprenez à automatiser le nettoyage et la préparation de vos jeux de données géographiques en ...",
       "url": "https://www.youtube.com/watch?v=OrI-pLVY96Q",
@@ -182,11 +170,35 @@
       "thumbnail": "https://i.ytimg.com/vi/OrI-pLVY96Q/hqdefault.jpg"
     },
     {
-      "title": "Les bagues connectées Oura ont-elles  « autant de chances d'être exactes que de faire pile ou face » ?",
-      "description": "Dans le cadre d'une action en justice, des plaignants affirment que les mécanismes de suivi du sommeil d'Oura présentent « des déductions erronées fondées sur l'IA comme des données scientifiques fiab...",
-      "url": "https://www.zdnet.fr/actualites/les-bagues-connectees-oura-ont-elles-autant-de-chances-detre-exactes-que-de-faire-pile-ou-face-500881.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-08-31T01:08:05Z",
+      "title": "« Ces découvertes que l’on ne peut même pas encore prévoir », avec le directeur scientifique adjoint de la mission Roman",
+      "description": "Lancé avec succès ce dimanche, le télescope spatial Nancy Grace Roman de la Nasa file désormais vers le point de Lagrange L2, où il opérera. Sa mission : révolutionner la chasse aux exoplanètes. Grâce...",
+      "url": "https://www.futura-sciences.com/sciences/actualites/telescope-spatial-nancy-grace-roman-ces-decouvertes-on-ne-peut-meme-pas-encore-prevoir-directeur-scientifique-adjoint-mission-roman-137422/",
+      "source": "Futura",
+      "publishedAt": "2026-08-31T19:17:29Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "IA en entreprise : l'adoption a eu lieu, la gouvernance doit suivre",
+      "description": "L'IA s'est imposée dans les entreprises avant que les règles ne suivent. Le défi n'est plus de favoriser son adoption, mais de maîtriser les usages, les données, les coûts et les dépendances.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1553907-ia-en-entreprise-l-adoption-a-eu-lieu-la-gouvernance-doit-suivre/",
+      "source": "JDN",
+      "publishedAt": "2026-09-01T12:08:34Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L'IA ne rendra pas toutes les grandes organisations innovantes mais leur donnera la capacité d'innover à une échelle sans précédent",
+      "description": "L'IA ne transforme pas seulement la façon de coder : elle impose de repenser le développement logiciel pour combiner agents autonomes, contrôle, sécurité et jugement humain.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1553845-l-ia-ne-rendra-pas-toutes-les-grandes-organisations-innovantes-mais-leur-donnera-la-capacite-d-innover-a-une-echelle-sans-precedent/",
+      "source": "JDN",
+      "publishedAt": "2026-09-01T12:09:26Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,11 +218,11 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Et si le microbiote intestinal jouait un rôle clé dans la maladie de Parkinson ?",
-      "description": "La maladie de Parkinson, qui affecte près de 10 millions de personnes dans le monde, pourrait trouver un traitement inattendu grâce à une découverte récente. Des chercheurs ont établi un lien entre le...",
-      "url": "https://www.futura-sciences.com/sante/actualites/parkinson-si-microbiote-intestinal-jouait-role-cle-maladie-parkinson-w2t8-137069/",
-      "source": "Futura",
-      "publishedAt": "2026-08-31T06:00:00Z",
+      "title": "Bonne nouvelle pour la Renault 4 électrique : la batterie et le moteur de la R5 la moins chère bientôt disponible",
+      "description": "La Renault 5 E-Tech Five à moins de 25 000 euros vient de recevoir des améliorations techniques avec une nouvelle batterie LFP plus économique et un nouveau moteur plus sobre. Des évolutions qui arriv...",
+      "url": "https://www.frandroid.com/marques/renault/3228581_bonne-nouvelle-pour-la-renault-4-electrique-la-batterie-et-le-moteur-de-la-r5-la-moins-chere-bientot-disponible",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-01T12:18:09Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,47 +230,11 @@
       "thumbnail": ""
     },
     {
-      "title": "L’Europe se dote d’un supercalculateur IA auprès de Bull : LUMI-AI",
-      "description": "L’UE, au travers d’EuroHPC JU, complète le parc européen d’AI Factories. LUMI-AI est ainsi le sixième contrat d’acquisition d’un supercalculateur optimisé pour l’intelligence artificielle. Fourni par ...",
-      "url": "https://www.zdnet.fr/actualites/leurope-se-dote-dun-supercalculateur-ia-aupres-de-bull-lumi-ai-500899.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-08-31T05:08:13Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Pédocriminalité : cette plainte pourrait forcer Elon Musk à détruire Grok",
-      "description": "Une victime accuse xAI d'avoir nourri son intelligence artificielle avec les images de son propre calvaire. Une première judiciaire, qui ne vise plus les garde-fous du chatbot, mais le cœur même du mo...",
-      "url": "https://www.journaldugeek.com/2026/08/31/pedocriminalite-cette-plainte-pourrait-forcer-elon-musk-a-detruire-grok/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-08-31T09:32:53Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Apple prépare des lunettes intelligentes sans écran pour 2027",
-      "description": "Apple lancera ses premières lunettes connectées dotées d'intelligence artificielle en 2027. Dépourvu d'écran, ce modèle inédit mise exclusivement sur l'analyse visuelle et vocale via des caméras embar...",
-      "url": "https://www.generation-nt.com/actualites/apple-prepare-lunettes-intelligentes-sans-ecran-2027-2080345",
-      "source": "Génération NT",
-      "publishedAt": "2026-08-31T11:45:01Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft admet que son IA maison peut rogner vos FPS sur Windows 11, mais vous pouvez désactiver Phi Silica",
-      "description": "Microsoft reconnaît que son intelligence artificielle maison peut se battre avec vos jeux pour le même processeur graphique. L'aveu est planqué dans une note technique, et il vise pile les PC dépourvu...",
-      "url": "https://www.frandroid.com/marques/microsoft/3227113_microsoft-admet-que-son-ia-maison-peut-rogner-vos-fps-sur-windows-11-vous-pouvez-desactiver-phi-silica",
+      "title": "Pourquoi OpenAI et Anthropic assèchent les stocks de Mac mini et Studio — Frandroid",
+      "description": "OpenAI et Anthropic achètent des dizaines de milliers de Mac mini et Mac Studio pour entraîner leurs IA. Le petit ordinateur de bureau d'Apple se retrouve serveur d'entraînement, sur un terrain qu'on ...",
+      "url": "https://www.frandroid.com/marques/apple/3226951_pourquoi-openai-et-anthropic-assechent-les-stocks-de-mac-mini-et-studio",
       "source": "Frandroid",
-      "publishedAt": "2026-08-31T12:54:55Z",
+      "publishedAt": "2026-08-31T11:34:11Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +242,47 @@
       "thumbnail": ""
     },
     {
-      "title": "L’intelligence artificielle selon MC Solaar",
-      "description": "Pendant tous les week-ends de cet été, nous écoutons dans cette chronique des chansons qui s’inspirent de l’actualité et de l’air du temps de ces quelques dernières années. Aujourd’hui, \"IA\" de MC Sol...",
-      "url": "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/l-intelligence-artificielle-selon-mc-solaar_8083994.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-08-30T08:00:02Z",
+      "title": "Formations IA : pourquoi vendre la peur de l'AI Act dessert l'acculturation qu'il faudrait construire",
+      "description": "Beaucoup de formations IA vendent aujourd'hui la peur de l'amende AI Act pour créer l'urgence. Cette stratégie commerciale abîme l'acculturation qu'elle prétend construire.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1553937-formations-ia-pourquoi-vendre-la-peur-de-l-ai-act-dessert-l-acculturation-qu-il-faudrait-construire/",
+      "source": "JDN",
+      "publishedAt": "2026-09-01T12:08:23Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Revolut lance son IA spéciale banque et finance en France : conseils, économie, assistance, elle vous simplifie la vie",
+      "description": "Revolut lance AIR (AI by Revolut), un assistant IA intégré à l'app qui permet de gérer ses finances par conversation. Analyse de dépenses, blocage de carte, suivi d'investissements, gestion d'abonneme...",
+      "url": "https://www.presse-citron.net/revolut-lance-son-ia-speciale-banque-et-finance-en-france-conseils-economie-assistance-elle-vous-simplifie-la-vie/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-09-01T09:51:56Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "IA générative : depuis le 2 août, vous pouvez porter plainte contre votre fournisseur de modèle.... Encore faut-il avoir gardé les traces",
+      "description": "Un guichet européen, passé inaperçu, permet désormais de se plaindre de son fournisseur de modèle d'IA. Il ne servira qu'à ceux qui ont archivé demandes et relances.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1553835-ia-generative-depuis-le-2-aout-vous-pouvez-porter-plainte-contre-votre-fournisseur-de-modele-encore-faut-il-avoir-garde-les-traces/",
+      "source": "JDN",
+      "publishedAt": "2026-09-01T12:09:55Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L'IA n'a pas besoin d'avoir toujours raison pour affaiblir le jugement des entreprises",
+      "description": "L'IA ne fragilise pas les entreprises parce qu'elle se trompe. Le risque commence lorsqu'elle devient assez fiable pour que l'on cesse progressivement de reconstruire, vérifier et contredire.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1554227-l-ia-n-a-pas-besoin-d-avoir-toujours-raison-pour-affaiblir-le-jugement-des-entreprises/",
+      "source": "JDN",
+      "publishedAt": "2026-09-01T11:55:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 01 Sep 2026 13:18:10 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 12:39:15 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -27,6 +27,14 @@
             <pubDate>Sun, 09 Aug 2026 15:00:37 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=4km3oLGe-iQ</guid>
             <source>Yassine Sdiri</source>
+        </item>
+        <item>
+            <title>L'IA vous aide à ne plus jamais décevoir, c'est exactement pour ça que vous êtes seul</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1554199-l-ia-vous-aide-a-ne-plus-jamais-decevoir-c-est-exactement-pour-ca-que-vous-etes-seul/</link>
+            <description><![CDATA[Une génération qui séduit et flirte grâce à un talentueux souffleur nommé ChatGPT. Puis vient le premier rdv amoureux. Mais en face à face, le souffleur n'est plus là...]]></description>
+            <pubDate>Tue, 01 Sep 2026 11:56:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1554199-l-ia-vous-aide-a-ne-plus-jamais-decevoir-c-est-exactement-pour-ca-que-vous-etes-seul/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning</title>
@@ -77,20 +85,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Cours complet sur Power BI pour débutant</title>
-            <link>https://www.youtube.com/watch?v=uJeUP8Z9LsQ</link>
-            <description><![CDATA[Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...]]></description>
-            <pubDate>Tue, 25 Aug 2026 17:46:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=uJeUP8Z9LsQ</guid>
-            <source>Jeune Financier Africain </source>
-        </item>
-        <item>
-            <title>Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet</title>
-            <link>https://www.youtube.com/watch?v=x7Nh0RKEoxg</link>
-            <description><![CDATA[Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...]]></description>
-            <pubDate>Fri, 31 Jul 2026 17:56:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=x7Nh0RKEoxg</guid>
-            <source>Data & Dash Consulting</source>
+            <title>Machine Learning Tutorial for Beginners</title>
+            <link>https://www.youtube.com/watch?v=SkvBO4ROl3Q</link>
+            <description><![CDATA[In this beginner friendly machine learning crash course, we will go over the theory and coding for all the required machine ...]]></description>
+            <pubDate>Fri, 14 Aug 2026 15:44:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=SkvBO4ROl3Q</guid>
+            <source>codebasics</source>
         </item>
         <item>
             <title>Comment créer un tableau de bord RH sur Power BI ?</title>
@@ -117,14 +117,6 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Ce centre de données fait travailler des neurones humains</title>
-            <link>https://www.journaldugeek.com/2026/08/30/ce-centre-de-donnees-fait-travailler-des-neurones-humains/</link>
-            <description><![CDATA[Au lieu de s’appuyer uniquement sur des puces en silicium, le prototype de centre de données biologique de Cortical Labs à Singapour utilise des neurones humains cultivés en laboratoire pour traiter d...]]></description>
-            <pubDate>Sun, 30 Aug 2026 09:02:04 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/08/30/ce-centre-de-donnees-fait-travailler-des-neurones-humains/</guid>
-            <source>Journal du geek</source>
-        </item>
-        <item>
             <title>Nettoyage et préparation de jeux de données (Pyhton, Excel, Copilote)</title>
             <link>https://www.youtube.com/watch?v=OrI-pLVY96Q</link>
             <description><![CDATA[Dans ce tutoriel complet, apprenez à automatiser le nettoyage et la préparation de vos jeux de données géographiques en ...]]></description>
@@ -133,12 +125,28 @@
             <source>GOJAMBAR</source>
         </item>
         <item>
-            <title>Les bagues connectées Oura ont-elles  « autant de chances d'être exactes que de faire pile ou face » ?</title>
-            <link>https://www.zdnet.fr/actualites/les-bagues-connectees-oura-ont-elles-autant-de-chances-detre-exactes-que-de-faire-pile-ou-face-500881.htm</link>
-            <description><![CDATA[Dans le cadre d'une action en justice, des plaignants affirment que les mécanismes de suivi du sommeil d'Oura présentent « des déductions erronées fondées sur l'IA comme des données scientifiques fiab...]]></description>
-            <pubDate>Mon, 31 Aug 2026 01:08:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/les-bagues-connectees-oura-ont-elles-autant-de-chances-detre-exactes-que-de-faire-pile-ou-face-500881.htm</guid>
-            <source>ZDNet France</source>
+            <title>« Ces découvertes que l’on ne peut même pas encore prévoir », avec le directeur scientifique adjoint de la mission Roman</title>
+            <link>https://www.futura-sciences.com/sciences/actualites/telescope-spatial-nancy-grace-roman-ces-decouvertes-on-ne-peut-meme-pas-encore-prevoir-directeur-scientifique-adjoint-mission-roman-137422/</link>
+            <description><![CDATA[Lancé avec succès ce dimanche, le télescope spatial Nancy Grace Roman de la Nasa file désormais vers le point de Lagrange L2, où il opérera. Sa mission : révolutionner la chasse aux exoplanètes. Grâce...]]></description>
+            <pubDate>Mon, 31 Aug 2026 19:17:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/telescope-spatial-nancy-grace-roman-ces-decouvertes-on-ne-peut-meme-pas-encore-prevoir-directeur-scientifique-adjoint-mission-roman-137422/</guid>
+            <source>Futura</source>
+        </item>
+        <item>
+            <title>IA en entreprise : l'adoption a eu lieu, la gouvernance doit suivre</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1553907-ia-en-entreprise-l-adoption-a-eu-lieu-la-gouvernance-doit-suivre/</link>
+            <description><![CDATA[L'IA s'est imposée dans les entreprises avant que les règles ne suivent. Le défi n'est plus de favoriser son adoption, mais de maîtriser les usages, les données, les coûts et les dépendances.]]></description>
+            <pubDate>Tue, 01 Sep 2026 12:08:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1553907-ia-en-entreprise-l-adoption-a-eu-lieu-la-gouvernance-doit-suivre/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
+            <title>L'IA ne rendra pas toutes les grandes organisations innovantes mais leur donnera la capacité d'innover à une échelle sans précédent</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1553845-l-ia-ne-rendra-pas-toutes-les-grandes-organisations-innovantes-mais-leur-donnera-la-capacite-d-innover-a-une-echelle-sans-precedent/</link>
+            <description><![CDATA[L'IA ne transforme pas seulement la façon de coder : elle impose de repenser le développement logiciel pour combiner agents autonomes, contrôle, sécurité et jugement humain.]]></description>
+            <pubDate>Tue, 01 Sep 2026 12:09:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1553845-l-ia-ne-rendra-pas-toutes-les-grandes-organisations-innovantes-mais-leur-donnera-la-capacite-d-innover-a-une-echelle-sans-precedent/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -149,28 +157,20 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Et si le microbiote intestinal jouait un rôle clé dans la maladie de Parkinson ?</title>
-            <link>https://www.futura-sciences.com/sante/actualites/parkinson-si-microbiote-intestinal-jouait-role-cle-maladie-parkinson-w2t8-137069/</link>
-            <description><![CDATA[La maladie de Parkinson, qui affecte près de 10 millions de personnes dans le monde, pourrait trouver un traitement inattendu grâce à une découverte récente. Des chercheurs ont établi un lien entre le...]]></description>
-            <pubDate>Mon, 31 Aug 2026 06:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/sante/actualites/parkinson-si-microbiote-intestinal-jouait-role-cle-maladie-parkinson-w2t8-137069/</guid>
-            <source>Futura</source>
+            <title>Bonne nouvelle pour la Renault 4 électrique : la batterie et le moteur de la R5 la moins chère bientôt disponible</title>
+            <link>https://www.frandroid.com/marques/renault/3228581_bonne-nouvelle-pour-la-renault-4-electrique-la-batterie-et-le-moteur-de-la-r5-la-moins-chere-bientot-disponible</link>
+            <description><![CDATA[La Renault 5 E-Tech Five à moins de 25 000 euros vient de recevoir des améliorations techniques avec une nouvelle batterie LFP plus économique et un nouveau moteur plus sobre. Des évolutions qui arriv...]]></description>
+            <pubDate>Tue, 01 Sep 2026 12:18:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/marques/renault/3228581_bonne-nouvelle-pour-la-renault-4-electrique-la-batterie-et-le-moteur-de-la-r5-la-moins-chere-bientot-disponible</guid>
+            <source>Frandroid</source>
         </item>
         <item>
-            <title>L’Europe se dote d’un supercalculateur IA auprès de Bull : LUMI-AI</title>
-            <link>https://www.zdnet.fr/actualites/leurope-se-dote-dun-supercalculateur-ia-aupres-de-bull-lumi-ai-500899.htm</link>
-            <description><![CDATA[L’UE, au travers d’EuroHPC JU, complète le parc européen d’AI Factories. LUMI-AI est ainsi le sixième contrat d’acquisition d’un supercalculateur optimisé pour l’intelligence artificielle. Fourni par ...]]></description>
-            <pubDate>Mon, 31 Aug 2026 05:08:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/leurope-se-dote-dun-supercalculateur-ia-aupres-de-bull-lumi-ai-500899.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
-            <title>Pédocriminalité : cette plainte pourrait forcer Elon Musk à détruire Grok</title>
-            <link>https://www.journaldugeek.com/2026/08/31/pedocriminalite-cette-plainte-pourrait-forcer-elon-musk-a-detruire-grok/</link>
-            <description><![CDATA[Une victime accuse xAI d'avoir nourri son intelligence artificielle avec les images de son propre calvaire. Une première judiciaire, qui ne vise plus les garde-fous du chatbot, mais le cœur même du mo...]]></description>
-            <pubDate>Mon, 31 Aug 2026 09:32:53 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/08/31/pedocriminalite-cette-plainte-pourrait-forcer-elon-musk-a-detruire-grok/</guid>
-            <source>Journal du geek</source>
+            <title>Pourquoi OpenAI et Anthropic assèchent les stocks de Mac mini et Studio — Frandroid</title>
+            <link>https://www.frandroid.com/marques/apple/3226951_pourquoi-openai-et-anthropic-assechent-les-stocks-de-mac-mini-et-studio</link>
+            <description><![CDATA[OpenAI et Anthropic achètent des dizaines de milliers de Mac mini et Mac Studio pour entraîner leurs IA. Le petit ordinateur de bureau d'Apple se retrouve serveur d'entraînement, sur un terrain qu'on ...]]></description>
+            <pubDate>Mon, 31 Aug 2026 11:34:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/marques/apple/3226951_pourquoi-openai-et-anthropic-assechent-les-stocks-de-mac-mini-et-studio</guid>
+            <source>Frandroid</source>
         </item>
     </channel>
 </rss>
