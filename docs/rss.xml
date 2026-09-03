@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 02 Sep 2026 12:39:15 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 12:42:10 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -19,6 +19,14 @@
             <pubDate>Sun, 12 Jul 2026 16:00:41 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=rx7F_9Vm35Y</guid>
             <source>Elliott Pierret</source>
+        </item>
+        <item>
+            <title>ChatGPT Work : le tutoriel complet pour déléguer ton travail à l&amp;#39;IA (guide débutant)</title>
+            <link>https://www.youtube.com/watch?v=pbWVTztZ7b8</link>
+            <description><![CDATA[Le guide gratuit "Gagne ta première journée avec ChatGPT Work" https://alegriagroup.lovable.app/?src=lm_chatgpt_work ...]]></description>
+            <pubDate>Thu, 13 Aug 2026 07:49:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=pbWVTztZ7b8</guid>
+            <source>Alegria Group</source>
         </item>
         <item>
             <title>Personne ne réalise ce que le nouveau ChatGPT peut faire</title>
@@ -35,14 +43,6 @@
             <pubDate>Tue, 01 Sep 2026 11:56:01 -0000</pubDate>
             <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1554199-l-ia-vous-aide-a-ne-plus-jamais-decevoir-c-est-exactement-pour-ca-que-vous-etes-seul/</guid>
             <source>JDN</source>
-        </item>
-        <item>
-            <title>Leçon 1 - Neurone biologique vs neurone artificiel - Cours Complet de Deep Learning</title>
-            <link>https://www.youtube.com/watch?v=PY_wRwL3Q0E</link>
-            <description><![CDATA[Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...]]></description>
-            <pubDate>Wed, 15 Jul 2026 16:07:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=PY_wRwL3Q0E</guid>
-            <source>Rafa Explique</source>
         </item>
         <item>
             <title>Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker</title>
@@ -117,36 +117,20 @@
             <source>Le Decodeur</source>
         </item>
         <item>
+            <title>Organiser une équipe de développement à l’ère de l’IA - Part II.2</title>
+            <link>https://blog.octo.com/organiser-une-equipe-de-developpement-a-l'ere-de-l'ia-part-ii.2</link>
+            <description><![CDATA[Le Domain-Driven Design structure le domaine métier en identifiant ses concepts, son langage ubiquitaire et les responsabilités qui organisent le système. Mais un logiciel ne se contente pas de représ...]]></description>
+            <pubDate>Wed, 02 Sep 2026 08:41:10 -0000</pubDate>
+            <guid isPermaLink="true">https://blog.octo.com/organiser-une-equipe-de-developpement-a-l'ere-de-l'ia-part-ii.2</guid>
+            <source>Octo.com</source>
+        </item>
+        <item>
             <title>Nettoyage et préparation de jeux de données (Pyhton, Excel, Copilote)</title>
             <link>https://www.youtube.com/watch?v=OrI-pLVY96Q</link>
             <description><![CDATA[Dans ce tutoriel complet, apprenez à automatiser le nettoyage et la préparation de vos jeux de données géographiques en ...]]></description>
             <pubDate>Thu, 27 Aug 2026 17:15:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=OrI-pLVY96Q</guid>
             <source>GOJAMBAR</source>
-        </item>
-        <item>
-            <title>« Ces découvertes que l’on ne peut même pas encore prévoir », avec le directeur scientifique adjoint de la mission Roman</title>
-            <link>https://www.futura-sciences.com/sciences/actualites/telescope-spatial-nancy-grace-roman-ces-decouvertes-on-ne-peut-meme-pas-encore-prevoir-directeur-scientifique-adjoint-mission-roman-137422/</link>
-            <description><![CDATA[Lancé avec succès ce dimanche, le télescope spatial Nancy Grace Roman de la Nasa file désormais vers le point de Lagrange L2, où il opérera. Sa mission : révolutionner la chasse aux exoplanètes. Grâce...]]></description>
-            <pubDate>Mon, 31 Aug 2026 19:17:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/telescope-spatial-nancy-grace-roman-ces-decouvertes-on-ne-peut-meme-pas-encore-prevoir-directeur-scientifique-adjoint-mission-roman-137422/</guid>
-            <source>Futura</source>
-        </item>
-        <item>
-            <title>IA en entreprise : l'adoption a eu lieu, la gouvernance doit suivre</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1553907-ia-en-entreprise-l-adoption-a-eu-lieu-la-gouvernance-doit-suivre/</link>
-            <description><![CDATA[L'IA s'est imposée dans les entreprises avant que les règles ne suivent. Le défi n'est plus de favoriser son adoption, mais de maîtriser les usages, les données, les coûts et les dépendances.]]></description>
-            <pubDate>Tue, 01 Sep 2026 12:08:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1553907-ia-en-entreprise-l-adoption-a-eu-lieu-la-gouvernance-doit-suivre/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
-            <title>L'IA ne rendra pas toutes les grandes organisations innovantes mais leur donnera la capacité d'innover à une échelle sans précédent</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1553845-l-ia-ne-rendra-pas-toutes-les-grandes-organisations-innovantes-mais-leur-donnera-la-capacite-d-innover-a-une-echelle-sans-precedent/</link>
-            <description><![CDATA[L'IA ne transforme pas seulement la façon de coder : elle impose de repenser le développement logiciel pour combiner agents autonomes, contrôle, sécurité et jugement humain.]]></description>
-            <pubDate>Tue, 01 Sep 2026 12:09:26 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1553845-l-ia-ne-rendra-pas-toutes-les-grandes-organisations-innovantes-mais-leur-donnera-la-capacite-d-innover-a-une-echelle-sans-precedent/</guid>
-            <source>JDN</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -157,20 +141,36 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Bonne nouvelle pour la Renault 4 électrique : la batterie et le moteur de la R5 la moins chère bientôt disponible</title>
-            <link>https://www.frandroid.com/marques/renault/3228581_bonne-nouvelle-pour-la-renault-4-electrique-la-batterie-et-le-moteur-de-la-r5-la-moins-chere-bientot-disponible</link>
-            <description><![CDATA[La Renault 5 E-Tech Five à moins de 25 000 euros vient de recevoir des améliorations techniques avec une nouvelle batterie LFP plus économique et un nouveau moteur plus sobre. Des évolutions qui arriv...]]></description>
-            <pubDate>Tue, 01 Sep 2026 12:18:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/marques/renault/3228581_bonne-nouvelle-pour-la-renault-4-electrique-la-batterie-et-le-moteur-de-la-r5-la-moins-chere-bientot-disponible</guid>
+            <title>Instagram prend une mesure pour limiter l’influence des comptes IA</title>
+            <link>https://www.frandroid.com/marques/meta/3229695_instagram-prend-une-mesure-pour-limiter-linfluence-des-comptes-ia</link>
+            <description><![CDATA[Les progrès en matière d’intelligence artificielle permettent aujourd’hui de générer des profils sur les réseaux sociaux suffisamment réalistes pour tromper les utilisateurs. Une tendance qui n’est pa...]]></description>
+            <pubDate>Wed, 02 Sep 2026 08:30:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/marques/meta/3229695_instagram-prend-une-mesure-pour-limiter-linfluence-des-comptes-ia</guid>
             <source>Frandroid</source>
         </item>
         <item>
-            <title>Pourquoi OpenAI et Anthropic assèchent les stocks de Mac mini et Studio — Frandroid</title>
-            <link>https://www.frandroid.com/marques/apple/3226951_pourquoi-openai-et-anthropic-assechent-les-stocks-de-mac-mini-et-studio</link>
-            <description><![CDATA[OpenAI et Anthropic achètent des dizaines de milliers de Mac mini et Mac Studio pour entraîner leurs IA. Le petit ordinateur de bureau d'Apple se retrouve serveur d'entraînement, sur un terrain qu'on ...]]></description>
-            <pubDate>Mon, 31 Aug 2026 11:34:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/marques/apple/3226951_pourquoi-openai-et-anthropic-assechent-les-stocks-de-mac-mini-et-studio</guid>
+            <title>Acheter le Mac mini M6 pour l’IA locale : pourquoi c’est souvent une mauvaise idée</title>
+            <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/3230033_acheter-le-mac-mini-m6-pour-lia-locale-pourquoi-cest-souvent-une-mauvaise-idee</link>
+            <description><![CDATA[Apple présente son Mac mini M6 comme une petite machine à intelligence artificielle, avec des chiffres flatteurs à l'appui. On a vérifié ce qu'il fait vraiment tourner : pour la plupart des acheteurs ...]]></description>
+            <pubDate>Wed, 02 Sep 2026 09:39:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/culture-tech/intelligence-artificielle/3230033_acheter-le-mac-mini-m6-pour-lia-locale-pourquoi-cest-souvent-une-mauvaise-idee</guid>
             <source>Frandroid</source>
+        </item>
+        <item>
+            <title>Cette IA fouille des milliers d’articles pour trouver et résoudre des problèmes mathématiques</title>
+            <link>https://www.techno-science.net/fr/actualites/ia-decouverte-problemes-mathematiques-conjectures-29278</link>
+            <description><![CDATA[Une intelligence artificielle a parcouru des milliers d’articles de mathématiques, puis retenu 77 résultats assez prometteurs pour être examinés par des chercheurs. Le système, nommé FAR, ne reçoit pa...]]></description>
+            <pubDate>Wed, 02 Sep 2026 07:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.techno-science.net/fr/actualites/ia-decouverte-problemes-mathematiques-conjectures-29278</guid>
+            <source>Techno-science.net</source>
+        </item>
+        <item>
+            <title>Le SEPEM Toulouse réunira plus de 250 exposants autour des investissements industriels</title>
+            <link>https://www.lejournaldesentreprises.com/article/le-sepem-toulouse-reunira-plus-de-250-exposants-autour-des-investissements-industriels-2147342</link>
+            <description><![CDATA[Le salon professionnel SEPEM Toulouse revient du 22 au 24 septembre au MEETT pour une septième édition réunissant plus de 250 exposants, dont 30 % d’acteurs régionaux. Investissement, recrutement, aut...]]></description>
+            <pubDate>Wed, 02 Sep 2026 09:18:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/article/le-sepem-toulouse-reunira-plus-de-250-exposants-autour-des-investissements-industriels-2147342</guid>
+            <source>Le Journal des Entreprises</source>
         </item>
     </channel>
 </rss>
