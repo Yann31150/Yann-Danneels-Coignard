@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-03T12:42:10.657525",
+  "lastUpdate": "2026-09-04T12:35:56.334327",
   "articles": [
     {
       "title": "ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)",
@@ -36,18 +36,6 @@
       "isYouTube": true,
       "videoId": "4km3oLGe-iQ",
       "thumbnail": "https://i.ytimg.com/vi/4km3oLGe-iQ/hqdefault.jpg"
-    },
-    {
-      "title": "L'IA vous aide à ne plus jamais décevoir, c'est exactement pour ça que vous êtes seul",
-      "description": "Une génération qui séduit et flirte grâce à un talentueux souffleur nommé ChatGPT. Puis vient le premier rdv amoureux. Mais en face à face, le souffleur n'est plus là...",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1554199-l-ia-vous-aide-a-ne-plus-jamais-decevoir-c-est-exactement-pour-ca-que-vous-etes-seul/",
-      "source": "JDN",
-      "publishedAt": "2026-09-01T11:56:01Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker",
@@ -110,16 +98,28 @@
       "thumbnail": "https://i.ytimg.com/vi/LKtwwn-W6iM/hqdefault.jpg"
     },
     {
-      "title": "Machine Learning Tutorial for Beginners",
-      "description": "In this beginner friendly machine learning crash course, we will go over the theory and coding for all the required machine ...",
-      "url": "https://www.youtube.com/watch?v=SkvBO4ROl3Q",
-      "source": "codebasics",
-      "publishedAt": "2026-08-14T15:44:05Z",
+      "title": "Cours complet sur Power BI pour débutant",
+      "description": "Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...",
+      "url": "https://www.youtube.com/watch?v=uJeUP8Z9LsQ",
+      "source": "Jeune Financier Africain ",
+      "publishedAt": "2026-08-25T17:46:11Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "SkvBO4ROl3Q",
-      "thumbnail": "https://i.ytimg.com/vi/SkvBO4ROl3Q/hqdefault.jpg"
+      "videoId": "uJeUP8Z9LsQ",
+      "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
+    },
+    {
+      "title": "Google Vids peut maintenant transformer des documents en vidéos",
+      "description": "Google Vids franchit une nouvelle étape dans la génération de vidéos par intelligence artificielle. L’outil de Google est désormais capable de partir d’un document texte pour générer une vidéo.",
+      "url": "https://www.frandroid.com/marques/google/3231585_google-vids-peut-maintenant-transformer-des-documents-en-videos",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-03T08:30:05Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Comment créer un tableau de bord RH sur Power BI ?",
@@ -134,18 +134,6 @@
       "thumbnail": "https://i.ytimg.com/vi/v0Z8TMkAbaE/hqdefault.jpg"
     },
     {
-      "title": "Comment analyser vos données avec Claude Code | Formation Complète Claude pour Data Analyst de A à Z",
-      "description": "Bienvenue dans cette formation complète consacrée à l'analyse des données avec Claude. Vous comprendrez ce qu'est Claude ...",
-      "url": "https://www.youtube.com/watch?v=Z1Y41sOVWyQ",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-07-21T15:59:13Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Z1Y41sOVWyQ",
-      "thumbnail": "https://i.ytimg.com/vi/Z1Y41sOVWyQ/hqdefault.jpg"
-    },
-    {
       "title": "Langage DAX : le cours complet de A à Z | Formation Power BI",
       "description": "Dans cette vidéo, je propose un cours complet sur DAX, langage intégré à EXCEL & Power BI, pour le calcul de colonnes ou de ...",
       "url": "https://www.youtube.com/watch?v=7SV9kNRvdmU",
@@ -158,11 +146,11 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
-      "title": "Organiser une équipe de développement à l’ère de l’IA - Part II.2",
-      "description": "Le Domain-Driven Design structure le domaine métier en identifiant ses concepts, son langage ubiquitaire et les responsabilités qui organisent le système. Mais un logiciel ne se contente pas de représ...",
-      "url": "https://blog.octo.com/organiser-une-equipe-de-developpement-a-l'ere-de-l'ia-part-ii.2",
-      "source": "Octo.com",
-      "publishedAt": "2026-09-02T08:41:10Z",
+      "title": "Philips : AmbiScape, la nouvelle évolution d’Ambilight, repousse encore les frontières de l’immersion",
+      "description": "Ambilight est la technologie phare de Philips : elle offre aux utilisateurs une expérience visuelle plus immersive en repoussant les frontières de l’image au-delà du téléviseur, que vous suiviez un...",
+      "url": "https://www.phonandroid.com/philips-ambiscape-la-nouvelle-evolution-dambilight-repousse-encore-les-frontieres-de-limmersion.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-09-03T12:35:12Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -182,6 +170,30 @@
       "thumbnail": "https://i.ytimg.com/vi/OrI-pLVY96Q/hqdefault.jpg"
     },
     {
+      "title": "Elon Musk vient d’admettre ce que personne ne voulait dire tout haut : l’IA pourrait bientôt manquer d’électricité, et sa solution est radicale",
+      "description": "SpaceX construit une usine dont l’activité n’a, en apparence, pas grand-chose à voir avec les fusées. Au Texas, l’entreprise d’Elon Musk prépare une fonderie destinée à produire des pales et des aubes...",
+      "url": "https://www.journaldugeek.com/2026/09/03/elon-musk-vient-dadmettre-ce-que-personne-ne-voulait-dire-tout-haut-lia-pourrait-bientot-manquer-delectricite-et-sa-solution-est-radicale/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-09-03T11:37:34Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "HiKOKI Europe dévoile sa nouvelle génération de cloueuses sans fil, conçues pour offrir des performances exceptionnelles et alliant la légèreté des outils à gaz à la vitesse des outils pneumatiques",
+      "description": "Cette plateforme de fixation de nouvelle génération allie une puissance d'entraînement constante, une grande mobilité sur chantier, une conception légère et une vitesse de déclenchement pneumatique, p...",
+      "url": "https://www.prnewswire.com/news-releases/hikoki-europe-devoile-sa-nouvelle-generation-de-cloueuses-sans-fil-concues-pour-offrir-des-performances-exceptionnelles-et-alliant-la-legerete-des-outils-a-gaz-a-la-vitesse-des-outils-pneumatiques-302868909.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-03T10:36:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Introduction | SQL - EP1",
       "description": "Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...",
       "url": "https://www.youtube.com/watch?v=QXaOjeucWgI",
@@ -194,59 +206,83 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Instagram prend une mesure pour limiter l’influence des comptes IA",
-      "description": "Les progrès en matière d’intelligence artificielle permettent aujourd’hui de générer des profils sur les réseaux sociaux suffisamment réalistes pour tromper les utilisateurs. Une tendance qui n’est pa...",
-      "url": "https://www.frandroid.com/marques/meta/3229695_instagram-prend-une-mesure-pour-limiter-linfluence-des-comptes-ia",
+      "title": "VIDEO. L'acétamipride provoque-t-il des cancers ? \"Complément d'enquête\" fait le point sur un argument phare des opposants à la loi Duplomb",
+      "description": "Dans la mobilisation contre la loi Duplomb, un argument a fait mouche : l’acétamipride serait cancérogène. Une partie de la classe politique s'en est emparée, mais cette accusation est-elle fondée ? C...",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-l-acetamipride-provoque-t-il-des-cancers-complement-d-enquete-fait-le-point-sur-un-argument-phare-des-opposants-a-la-loi-duplomb_8173394.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-09-03T12:20:09Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Actualité : Robot-tondeuse Mammotion Luba 4 AWD : 4 caméras, un LiDAR et jusqu'à 12 000 m²",
+      "description": "À l'IFA 2026, Mammotion présente le Luba 4 AWD, un robot-tondeuse destiné aux terrains mesurant jusqu'à 12 000 m². Il combine quatre caméras, un LiDAR et la technologie NetRTK, accompagnés d'un nouvel...",
+      "url": "https://www.lesnumeriques.com/robot-tondeuse/robot-tondeuse-mammotion-luba-4-awd-4-cameras-un-lidar-et-jusqu-a-12-000-m2-n260800.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-09-03T11:55:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic lance « Check Files » pour savoir si un fichier a été généré par Claude",
+      "description": "Pour garantir un usage transparent de l’intelligence artificielle, Anthropic marche dans les pas de Google. La firme à l’origine de l’assistant Claude dévoile « Check Files », un nouvel outil de vérif...",
+      "url": "https://www.frandroid.com/culture-tech/3231531_anthropic-lance-check-files-pour-savoir-si-un-fichier-a-ete-genere-par-claude",
       "source": "Frandroid",
-      "publishedAt": "2026-09-02T08:30:31Z",
-      "category": "tech",
+      "publishedAt": "2026-09-03T07:36:24Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Acheter le Mac mini M6 pour l’IA locale : pourquoi c’est souvent une mauvaise idée",
-      "description": "Apple présente son Mac mini M6 comme une petite machine à intelligence artificielle, avec des chiffres flatteurs à l'appui. On a vérifié ce qu'il fait vraiment tourner : pour la plupart des acheteurs ...",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3230033_acheter-le-mac-mini-m6-pour-lia-locale-pourquoi-cest-souvent-une-mauvaise-idee",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-02T09:39:46Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cette IA fouille des milliers d’articles pour trouver et résoudre des problèmes mathématiques",
-      "description": "Une intelligence artificielle a parcouru des milliers d’articles de mathématiques, puis retenu 77 résultats assez prometteurs pour être examinés par des chercheurs. Le système, nommé FAR, ne reçoit pa...",
-      "url": "https://www.techno-science.net/fr/actualites/ia-decouverte-problemes-mathematiques-conjectures-29278",
-      "source": "Techno-science.net",
-      "publishedAt": "2026-09-02T07:00:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le SEPEM Toulouse réunira plus de 250 exposants autour des investissements industriels",
-      "description": "Le salon professionnel SEPEM Toulouse revient du 22 au 24 septembre au MEETT pour une septième édition réunissant plus de 250 exposants, dont 30 % d’acteurs régionaux. Investissement, recrutement, aut...",
-      "url": "https://www.lejournaldesentreprises.com/article/le-sepem-toulouse-reunira-plus-de-250-exposants-autour-des-investissements-industriels-2147342",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-09-02T09:18:42Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cornerstone Robotics annonce un partenariat stratégique avec Medtronic pour étendre l'accès mondial à la chirurgie assistée par robot",
-      "description": "HONG KONG, 2 septembre 2026 /PRNewswire/ -- Cornerstone Robotics, une entreprise innovante spécialisée dans la robotique chirurgicale, fondée et dont le siège social est situé à Hong Kong, a annoncé a...",
-      "url": "https://www.prnewswire.com/news-releases/cornerstone-robotics-annonce-un-partenariat-strategique-avec-medtronic-pour-etendre-lacces-mondial-a-la-chirurgie-assistee-par-robot-302867465.html",
+      "title": "Datamaran change d'image de marque et passe de la gestion des enjeux ESG à la gouvernance d'entreprise",
+      "description": "Datamaran dévoile une nouvelle identité de marque, qui reflète son évolution vers une plateforme de gouvernance d'entreprise basée sur l'intelligence artificielle. NEW YORK et LONDRES, 3 septembre 202...",
+      "url": "https://www.prnewswire.com/news-releases/datamaran-change-dimage-de-marque-et-passe-de-la-gestion-des-enjeux-esg-a-la-gouvernance-dentreprise-302866282.html",
       "source": "PRNewswire",
-      "publishedAt": "2026-09-02T07:34:00Z",
+      "publishedAt": "2026-09-03T11:00:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "DJI redéfinit l'expérience de nettoyage intelligent haut de gamme avec le lancement mondial de la gamme ROMO 2",
+      "description": "Un robot aspirateur-laveur doté d'une intelligence de nettoyage par IA de nouvelle génération, d'une station de base autonettoyante avancée et d'un bras robotique oscillant ultra-large. SHENZHEN, Chin...",
+      "url": "https://www.prnewswire.com/news-releases/dji-redefinit-lexperience-de-nettoyage-intelligent-haut-de-gamme-avec-le-lancement-mondial-de-la-gamme-romo-2-302868547.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-03T12:00:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Code : le guide complet pour les non-devs (2026)",
+      "description": "Mes skills Claude Code https://shubham-sharma.fr/ressources/claude-code-skills-pack/ Claude Code vous semble trop technique ...",
+      "url": "https://www.youtube.com/watch?v=_pW-kUBo7AU",
+      "source": "Shubham SHARMA",
+      "publishedAt": "2026-07-10T17:28:31Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "_pW-kUBo7AU",
+      "thumbnail": "https://i.ytimg.com/vi/_pW-kUBo7AU/hqdefault.jpg"
+    },
+    {
+      "title": "Cette peluche dopée à l’IA qui enregistre tout veut devenir la star de vos enfants, et ce n’est que le début",
+      "description": "Un chat tout doux, une enceinte sans fil et un chatbot dans le ventre. Avec ELO Cat, Lexibook confirme que la peluche IA sera LE cadeau de Noël 2026.",
+      "url": "https://www.journaldugeek.com/2026/09/02/cette-peluche-dopee-a-lia-qui-enregistre-tout-veut-devenir-la-star-de-vos-enfants-et-ce-nest-que-le-debut/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-09-02T17:30:53Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

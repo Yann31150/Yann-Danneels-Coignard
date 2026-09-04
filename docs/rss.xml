@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 03 Sep 2026 12:42:10 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 12:35:56 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -35,14 +35,6 @@
             <pubDate>Sun, 09 Aug 2026 15:00:37 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=4km3oLGe-iQ</guid>
             <source>Yassine Sdiri</source>
-        </item>
-        <item>
-            <title>L'IA vous aide à ne plus jamais décevoir, c'est exactement pour ça que vous êtes seul</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1554199-l-ia-vous-aide-a-ne-plus-jamais-decevoir-c-est-exactement-pour-ca-que-vous-etes-seul/</link>
-            <description><![CDATA[Une génération qui séduit et flirte grâce à un talentueux souffleur nommé ChatGPT. Puis vient le premier rdv amoureux. Mais en face à face, le souffleur n'est plus là...]]></description>
-            <pubDate>Tue, 01 Sep 2026 11:56:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1554199-l-ia-vous-aide-a-ne-plus-jamais-decevoir-c-est-exactement-pour-ca-que-vous-etes-seul/</guid>
-            <source>JDN</source>
         </item>
         <item>
             <title>Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker</title>
@@ -85,12 +77,20 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Machine Learning Tutorial for Beginners</title>
-            <link>https://www.youtube.com/watch?v=SkvBO4ROl3Q</link>
-            <description><![CDATA[In this beginner friendly machine learning crash course, we will go over the theory and coding for all the required machine ...]]></description>
-            <pubDate>Fri, 14 Aug 2026 15:44:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=SkvBO4ROl3Q</guid>
-            <source>codebasics</source>
+            <title>Cours complet sur Power BI pour débutant</title>
+            <link>https://www.youtube.com/watch?v=uJeUP8Z9LsQ</link>
+            <description><![CDATA[Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...]]></description>
+            <pubDate>Tue, 25 Aug 2026 17:46:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=uJeUP8Z9LsQ</guid>
+            <source>Jeune Financier Africain </source>
+        </item>
+        <item>
+            <title>Google Vids peut maintenant transformer des documents en vidéos</title>
+            <link>https://www.frandroid.com/marques/google/3231585_google-vids-peut-maintenant-transformer-des-documents-en-videos</link>
+            <description><![CDATA[Google Vids franchit une nouvelle étape dans la génération de vidéos par intelligence artificielle. L’outil de Google est désormais capable de partir d’un document texte pour générer une vidéo.]]></description>
+            <pubDate>Thu, 03 Sep 2026 08:30:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/marques/google/3231585_google-vids-peut-maintenant-transformer-des-documents-en-videos</guid>
+            <source>Frandroid</source>
         </item>
         <item>
             <title>Comment créer un tableau de bord RH sur Power BI ?</title>
@@ -101,14 +101,6 @@
             <source>Morpheus Formation | Excel, Power BI, Data</source>
         </item>
         <item>
-            <title>Comment analyser vos données avec Claude Code | Formation Complète Claude pour Data Analyst de A à Z</title>
-            <link>https://www.youtube.com/watch?v=Z1Y41sOVWyQ</link>
-            <description><![CDATA[Bienvenue dans cette formation complète consacrée à l'analyse des données avec Claude. Vous comprendrez ce qu'est Claude ...]]></description>
-            <pubDate>Tue, 21 Jul 2026 15:59:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z1Y41sOVWyQ</guid>
-            <source>Oscar Aksanti</source>
-        </item>
-        <item>
             <title>Langage DAX : le cours complet de A à Z | Formation Power BI</title>
             <link>https://www.youtube.com/watch?v=7SV9kNRvdmU</link>
             <description><![CDATA[Dans cette vidéo, je propose un cours complet sur DAX, langage intégré à EXCEL &amp; Power BI, pour le calcul de colonnes ou de ...]]></description>
@@ -117,12 +109,12 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Organiser une équipe de développement à l’ère de l’IA - Part II.2</title>
-            <link>https://blog.octo.com/organiser-une-equipe-de-developpement-a-l'ere-de-l'ia-part-ii.2</link>
-            <description><![CDATA[Le Domain-Driven Design structure le domaine métier en identifiant ses concepts, son langage ubiquitaire et les responsabilités qui organisent le système. Mais un logiciel ne se contente pas de représ...]]></description>
-            <pubDate>Wed, 02 Sep 2026 08:41:10 -0000</pubDate>
-            <guid isPermaLink="true">https://blog.octo.com/organiser-une-equipe-de-developpement-a-l'ere-de-l'ia-part-ii.2</guid>
-            <source>Octo.com</source>
+            <title>Philips : AmbiScape, la nouvelle évolution d’Ambilight, repousse encore les frontières de l’immersion</title>
+            <link>https://www.phonandroid.com/philips-ambiscape-la-nouvelle-evolution-dambilight-repousse-encore-les-frontieres-de-limmersion.html</link>
+            <description><![CDATA[Ambilight est la technologie phare de Philips : elle offre aux utilisateurs une expérience visuelle plus immersive en repoussant les frontières de l’image au-delà du téléviseur, que vous suiviez un...]]></description>
+            <pubDate>Thu, 03 Sep 2026 12:35:12 -0000</pubDate>
+            <guid isPermaLink="true">https://www.phonandroid.com/philips-ambiscape-la-nouvelle-evolution-dambilight-repousse-encore-les-frontieres-de-limmersion.html</guid>
+            <source>Phonandroid</source>
         </item>
         <item>
             <title>Nettoyage et préparation de jeux de données (Pyhton, Excel, Copilote)</title>
@@ -133,6 +125,22 @@
             <source>GOJAMBAR</source>
         </item>
         <item>
+            <title>Elon Musk vient d’admettre ce que personne ne voulait dire tout haut : l’IA pourrait bientôt manquer d’électricité, et sa solution est radicale</title>
+            <link>https://www.journaldugeek.com/2026/09/03/elon-musk-vient-dadmettre-ce-que-personne-ne-voulait-dire-tout-haut-lia-pourrait-bientot-manquer-delectricite-et-sa-solution-est-radicale/</link>
+            <description><![CDATA[SpaceX construit une usine dont l’activité n’a, en apparence, pas grand-chose à voir avec les fusées. Au Texas, l’entreprise d’Elon Musk prépare une fonderie destinée à produire des pales et des aubes...]]></description>
+            <pubDate>Thu, 03 Sep 2026 11:37:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/09/03/elon-musk-vient-dadmettre-ce-que-personne-ne-voulait-dire-tout-haut-lia-pourrait-bientot-manquer-delectricite-et-sa-solution-est-radicale/</guid>
+            <source>Journal du geek</source>
+        </item>
+        <item>
+            <title>HiKOKI Europe dévoile sa nouvelle génération de cloueuses sans fil, conçues pour offrir des performances exceptionnelles et alliant la légèreté des outils à gaz à la vitesse des outils pneumatiques</title>
+            <link>https://www.prnewswire.com/news-releases/hikoki-europe-devoile-sa-nouvelle-generation-de-cloueuses-sans-fil-concues-pour-offrir-des-performances-exceptionnelles-et-alliant-la-legerete-des-outils-a-gaz-a-la-vitesse-des-outils-pneumatiques-302868909.html</link>
+            <description><![CDATA[Cette plateforme de fixation de nouvelle génération allie une puissance d'entraînement constante, une grande mobilité sur chantier, une conception légère et une vitesse de déclenchement pneumatique, p...]]></description>
+            <pubDate>Thu, 03 Sep 2026 10:36:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/hikoki-europe-devoile-sa-nouvelle-generation-de-cloueuses-sans-fil-concues-pour-offrir-des-performances-exceptionnelles-et-alliant-la-legerete-des-outils-a-gaz-a-la-vitesse-des-outils-pneumatiques-302868909.html</guid>
+            <source>PRNewswire</source>
+        </item>
+        <item>
             <title>Introduction | SQL - EP1</title>
             <link>https://www.youtube.com/watch?v=QXaOjeucWgI</link>
             <description><![CDATA[Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...]]></description>
@@ -141,36 +149,28 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Instagram prend une mesure pour limiter l’influence des comptes IA</title>
-            <link>https://www.frandroid.com/marques/meta/3229695_instagram-prend-une-mesure-pour-limiter-linfluence-des-comptes-ia</link>
-            <description><![CDATA[Les progrès en matière d’intelligence artificielle permettent aujourd’hui de générer des profils sur les réseaux sociaux suffisamment réalistes pour tromper les utilisateurs. Une tendance qui n’est pa...]]></description>
-            <pubDate>Wed, 02 Sep 2026 08:30:31 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/marques/meta/3229695_instagram-prend-une-mesure-pour-limiter-linfluence-des-comptes-ia</guid>
+            <title>VIDEO. L'acétamipride provoque-t-il des cancers ? "Complément d'enquête" fait le point sur un argument phare des opposants à la loi Duplomb</title>
+            <link>https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-l-acetamipride-provoque-t-il-des-cancers-complement-d-enquete-fait-le-point-sur-un-argument-phare-des-opposants-a-la-loi-duplomb_8173394.html</link>
+            <description><![CDATA[Dans la mobilisation contre la loi Duplomb, un argument a fait mouche : l’acétamipride serait cancérogène. Une partie de la classe politique s'en est emparée, mais cette accusation est-elle fondée ? C...]]></description>
+            <pubDate>Thu, 03 Sep 2026 12:20:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-l-acetamipride-provoque-t-il-des-cancers-complement-d-enquete-fait-le-point-sur-un-argument-phare-des-opposants-a-la-loi-duplomb_8173394.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
+            <title>Actualité : Robot-tondeuse Mammotion Luba 4 AWD : 4 caméras, un LiDAR et jusqu'à 12 000 m²</title>
+            <link>https://www.lesnumeriques.com/robot-tondeuse/robot-tondeuse-mammotion-luba-4-awd-4-cameras-un-lidar-et-jusqu-a-12-000-m2-n260800.html</link>
+            <description><![CDATA[À l'IFA 2026, Mammotion présente le Luba 4 AWD, un robot-tondeuse destiné aux terrains mesurant jusqu'à 12 000 m². Il combine quatre caméras, un LiDAR et la technologie NetRTK, accompagnés d'un nouvel...]]></description>
+            <pubDate>Thu, 03 Sep 2026 11:55:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/robot-tondeuse/robot-tondeuse-mammotion-luba-4-awd-4-cameras-un-lidar-et-jusqu-a-12-000-m2-n260800.html</guid>
+            <source>Les Numériques</source>
+        </item>
+        <item>
+            <title>Anthropic lance « Check Files » pour savoir si un fichier a été généré par Claude</title>
+            <link>https://www.frandroid.com/culture-tech/3231531_anthropic-lance-check-files-pour-savoir-si-un-fichier-a-ete-genere-par-claude</link>
+            <description><![CDATA[Pour garantir un usage transparent de l’intelligence artificielle, Anthropic marche dans les pas de Google. La firme à l’origine de l’assistant Claude dévoile « Check Files », un nouvel outil de vérif...]]></description>
+            <pubDate>Thu, 03 Sep 2026 07:36:24 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/culture-tech/3231531_anthropic-lance-check-files-pour-savoir-si-un-fichier-a-ete-genere-par-claude</guid>
             <source>Frandroid</source>
-        </item>
-        <item>
-            <title>Acheter le Mac mini M6 pour l’IA locale : pourquoi c’est souvent une mauvaise idée</title>
-            <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/3230033_acheter-le-mac-mini-m6-pour-lia-locale-pourquoi-cest-souvent-une-mauvaise-idee</link>
-            <description><![CDATA[Apple présente son Mac mini M6 comme une petite machine à intelligence artificielle, avec des chiffres flatteurs à l'appui. On a vérifié ce qu'il fait vraiment tourner : pour la plupart des acheteurs ...]]></description>
-            <pubDate>Wed, 02 Sep 2026 09:39:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/culture-tech/intelligence-artificielle/3230033_acheter-le-mac-mini-m6-pour-lia-locale-pourquoi-cest-souvent-une-mauvaise-idee</guid>
-            <source>Frandroid</source>
-        </item>
-        <item>
-            <title>Cette IA fouille des milliers d’articles pour trouver et résoudre des problèmes mathématiques</title>
-            <link>https://www.techno-science.net/fr/actualites/ia-decouverte-problemes-mathematiques-conjectures-29278</link>
-            <description><![CDATA[Une intelligence artificielle a parcouru des milliers d’articles de mathématiques, puis retenu 77 résultats assez prometteurs pour être examinés par des chercheurs. Le système, nommé FAR, ne reçoit pa...]]></description>
-            <pubDate>Wed, 02 Sep 2026 07:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.techno-science.net/fr/actualites/ia-decouverte-problemes-mathematiques-conjectures-29278</guid>
-            <source>Techno-science.net</source>
-        </item>
-        <item>
-            <title>Le SEPEM Toulouse réunira plus de 250 exposants autour des investissements industriels</title>
-            <link>https://www.lejournaldesentreprises.com/article/le-sepem-toulouse-reunira-plus-de-250-exposants-autour-des-investissements-industriels-2147342</link>
-            <description><![CDATA[Le salon professionnel SEPEM Toulouse revient du 22 au 24 septembre au MEETT pour une septième édition réunissant plus de 250 exposants, dont 30 % d’acteurs régionaux. Investissement, recrutement, aut...]]></description>
-            <pubDate>Wed, 02 Sep 2026 09:18:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/article/le-sepem-toulouse-reunira-plus-de-250-exposants-autour-des-investissements-industriels-2147342</guid>
-            <source>Le Journal des Entreprises</source>
         </item>
     </channel>
 </rss>
