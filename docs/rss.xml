@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 05 Sep 2026 11:44:21 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 12:01:58 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,36 +21,12 @@
             <source>Elliott Pierret</source>
         </item>
         <item>
-            <title>ChatGPT vient de franchir un point de non-retour : GPT-6 Astra peut tout faire à votre place sur un ordinateur, selon OpenAI</title>
-            <link>https://www.presse-citron.net/chatgpt-gpt-6-astra-peut-tout-faire-a-votre-place/</link>
-            <description><![CDATA[OpenAI lance son nouveau modèle GPT-6 Astra pour ChatGPT. Le président et cofondateur de l’entreprise, Greg Brockman, pense que celle-ci a finalement réussi à développer une AGI (ou intelligence artif...]]></description>
-            <pubDate>Fri, 04 Sep 2026 11:04:07 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/chatgpt-gpt-6-astra-peut-tout-faire-a-votre-place/</guid>
-            <source>Presse-citron</source>
-        </item>
-        <item>
-            <title>ChatGPT Work : le tutoriel complet pour déléguer ton travail à l&amp;#39;IA (guide débutant)</title>
-            <link>https://www.youtube.com/watch?v=pbWVTztZ7b8</link>
-            <description><![CDATA[Le guide gratuit "Gagne ta première journée avec ChatGPT Work" https://alegriagroup.lovable.app/?src=lm_chatgpt_work ...]]></description>
-            <pubDate>Thu, 13 Aug 2026 07:49:37 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=pbWVTztZ7b8</guid>
-            <source>Alegria Group</source>
-        </item>
-        <item>
-            <title>IA pratique : comment débuter avec ChatGPT Work</title>
-            <link>https://www.zdnet.fr/pratique/ia-pratique-comment-debuter-avec-chatgpt-work-501171.htm</link>
-            <description><![CDATA[Vous souhaitez en savoir plus sur le fonctionnement du service d’OpenAI chargé de vous assister dans l’exécution de divers tâches sur votre ordinateur ? Découvrez alors comment cette intelligence arti...]]></description>
-            <pubDate>Fri, 04 Sep 2026 08:09:14 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/pratique/ia-pratique-comment-debuter-avec-chatgpt-work-501171.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
-            <title>ChienGPT lance ChienGPT Opel Astra, son premier modèle d’IA capable de se pirater tout seul</title>
-            <link>https://linuxfr.org/users/dovik/journaux/chiengpt-lance-chiengpt-opel-astra-son-premier-modele-d-ia-capable-de-se-pirater-tout-seul</link>
-            <description><![CDATA[ChienGPT lance ChienGPT Opel Astra, son premier modèle d’IA capable de se pirater tout seul]]></description>
-            <pubDate>Fri, 04 Sep 2026 10:55:25 -0000</pubDate>
-            <guid isPermaLink="true">https://linuxfr.org/users/dovik/journaux/chiengpt-lance-chiengpt-opel-astra-son-premier-modele-d-ia-capable-de-se-pirater-tout-seul</guid>
-            <source>Linuxfr.org</source>
+            <title>Glossaire IA : Comprendre l’intelligence artificielle, un mot à la fois</title>
+            <link>https://blog.octo.com/octo-glossaire-ia--comprendre-l'intelligence-artificielle-un-mot-a-la-fois-1</link>
+            <description><![CDATA[Un glossaire IA pour comprendre simplement les termes clés de l’intelligence artificielle, des LLM aux agents en passant par le RAG.]]></description>
+            <pubDate>Fri, 04 Sep 2026 12:57:10 -0000</pubDate>
+            <guid isPermaLink="true">https://blog.octo.com/octo-glossaire-ia--comprendre-l'intelligence-artificielle-un-mot-a-la-fois-1</guid>
+            <source>Octo.com</source>
         </item>
         <item>
             <title>Personne ne réalise ce que le nouveau ChatGPT peut faire</title>
@@ -61,20 +37,20 @@
             <source>Yassine Sdiri</source>
         </item>
         <item>
-            <title>GPT-6, Fable 5.1 : comment lire les benchmarks de Claude et GPT sans se faire avoir</title>
-            <link>https://www.frandroid.com/culture-tech/intelligence-artificielle/3233155_gpt-6-fable-5-1-comment-lire-les-benchmarks-de-claude-et-gpt-sans-se-faire-avoir</link>
-            <description><![CDATA[Anthropic a sorti Claude Fable 5.1 ce 1er septembre, OpenAI a répliqué avec GPT-6 Astra deux jours plus tard, et chacun s'est proclamé meilleur modèle du monde, tableau de chiffres à l'appui. Derrière...]]></description>
-            <pubDate>Fri, 04 Sep 2026 05:18:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/culture-tech/intelligence-artificielle/3233155_gpt-6-fable-5-1-comment-lire-les-benchmarks-de-claude-et-gpt-sans-se-faire-avoir</guid>
-            <source>Frandroid</source>
+            <title>Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker</title>
+            <link>https://www.youtube.com/watch?v=dIuLrxn3ViE</link>
+            <description><![CDATA[Machine learning. Data science. MLOps. Création d'une image docker encapsulant une base de données multi-tables (SQLite, ...]]></description>
+            <pubDate>Thu, 30 Jul 2026 15:41:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=dIuLrxn3ViE</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Actualité : Après la panne, OpenAI lance GPT-6 Astra : “le modèle le plus intelligent et aligné au monde” avant la vraie AGI</title>
-            <link>https://www.lesnumeriques.com/intelligence-artificielle/apres-la-panne-openai-lance-gpt-6-astra-le-modele-le-plus-intelligent-et-aligne-au-monde-avant-la-vraie-agi-n261359.html</link>
-            <description><![CDATA[OpenAI vient de dévoiler GPT-6 Astra, présenté comme une avancée majeure allant au-delà des modèles d’Anthropic. Plus autonome, cette IA franchit un cap critique en cybersécurité, tout en s’approchant...]]></description>
-            <pubDate>Fri, 04 Sep 2026 06:35:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/apres-la-panne-openai-lance-gpt-6-astra-le-modele-le-plus-intelligent-et-aligne-au-monde-avant-la-vraie-agi-n261359.html</guid>
-            <source>Les Numériques</source>
+            <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
+            <link>https://www.youtube.com/watch?v=9R-humPn-eo</link>
+            <description><![CDATA[Vous souhaitez maîtriser Microsoft Power BI et apprendre à créer vos rapports pas à pas ? Microsoft Power BI est aujourd'hui l'un ...]]></description>
+            <pubDate>Sun, 26 Jul 2026 15:00:27 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=9R-humPn-eo</guid>
+            <source>JUFIP</source>
         </item>
         <item>
             <title>Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction</title>
@@ -93,20 +69,36 @@
             <source>Rafa Explique</source>
         </item>
         <item>
-            <title>BUUU Group Limited signe un accord définitif en vue d'acquérir une participation majoritaire dans Brightray Science Inc. et de lever plus de 60 millions de dollars américains par le biais de placements privés, faisant ainsi de la fourniture de centres de données dotés d'une IA industrialisée son principal moteur de croissance</title>
-            <link>https://www.prnewswire.com/news-releases/buuu-group-limited-signe-un-accord-definitif-en-vue-dacquerir-une-participation-majoritaire-dans-brightray-science-inc-et-de-lever-plus-de-60-millions-de-dollars-americains-par-le-biais-de-placements-prives-faisant-ainsi-de-la--302869763.html</link>
-            <description><![CDATA[Délai de livraison de six à neuf mois – soit la moitié du délai habituel ; 70 MW en service à Johor, en Malaisie ; un portefeuille de projets qui devrait atteindre environ 2 GW. BUUU procède actuellem...]]></description>
-            <pubDate>Fri, 04 Sep 2026 02:51:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/buuu-group-limited-signe-un-accord-definitif-en-vue-dacquerir-une-participation-majoritaire-dans-brightray-science-inc-et-de-lever-plus-de-60-millions-de-dollars-americains-par-le-biais-de-placements-prives-faisant-ainsi-de-la--302869763.html</guid>
-            <source>PRNewswire</source>
+            <title>JAX Automatic Differentiation – Régression simple, descente de gradient (Python)</title>
+            <link>https://www.youtube.com/watch?v=LKtwwn-W6iM</link>
+            <description><![CDATA[Machine learning. Data science. JAX est une bibliothèque de calcul numérique « à la Numpy » permettant de manipuler les ...]]></description>
+            <pubDate>Mon, 20 Jul 2026 08:19:53 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=LKtwwn-W6iM</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data</title>
-            <link>https://www.youtube.com/watch?v=IwQvKri768w</link>
-            <description><![CDATA[Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data Timeline 00:00 Introduction ...]]></description>
-            <pubDate>Tue, 07 Jul 2026 15:00:26 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=IwQvKri768w</guid>
-            <source>Mikail Altundas</source>
+            <title>Machine Learning vs Deep Learning : Elle explique en détails</title>
+            <link>https://www.youtube.com/watch?v=Ys1DwlL0yJs</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 24 Aug 2026 13:00:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Ys1DwlL0yJs</guid>
+            <source>Horizon IA</source>
+        </item>
+        <item>
+            <title>Cours complet sur Power BI pour débutant</title>
+            <link>https://www.youtube.com/watch?v=uJeUP8Z9LsQ</link>
+            <description><![CDATA[Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...]]></description>
+            <pubDate>Tue, 25 Aug 2026 17:46:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=uJeUP8Z9LsQ</guid>
+            <source>Jeune Financier Africain </source>
+        </item>
+        <item>
+            <title>Bitbybit Studio : 25 millions de lignes revendiquées</title>
+            <link>https://www.zataz.com/bitbybit-studio-25-millions-de-lignes-revendiquees/</link>
+            <description><![CDATA[Bitbybit Studio visé par une fuite revendiquée de 25 millions de lignes mêlant données personnelles et messages IA.]]></description>
+            <pubDate>Sat, 05 Sep 2026 08:36:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zataz.com/bitbybit-studio-25-millions-de-lignes-revendiquees/</guid>
+            <source>Zataz.com</source>
         </item>
         <item>
             <title>Comment créer un tableau de bord RH sur Power BI ?</title>
@@ -125,6 +117,22 @@
             <source>Le Decodeur</source>
         </item>
         <item>
+            <title>Avec la hausse du prix des carburants, une voiture essence coûte désormais trois fois plus cher chaque mois qu'un véhicule électrique</title>
+            <link>https://www.franceinfo.fr/economie/automobile/essence/les-automobilistes-qui-roulent-a-l-essence-payent-desormais-chaque-mois-le-triple-de-ce-que-payent-ceux-qui-roulent-a-l-electrique_8178377.html</link>
+            <description><![CDATA[Selon la plateforme Roole Data, spécialiste de l'exploitation des données publiques concernant l'automobile, le coût mensuel du carburant pour une voiture à essence a bondi de 25 euros au cours du pre...]]></description>
+            <pubDate>Sat, 05 Sep 2026 05:51:27 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/economie/automobile/essence/les-automobilistes-qui-roulent-a-l-essence-payent-desormais-chaque-mois-le-triple-de-ce-que-payent-ceux-qui-roulent-a-l-electrique_8178377.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
+            <title>Comment le Soleil propulse-t-il le vent solaire à des vitesses supersoniques ?</title>
+            <link>https://www.generation-nt.com/actualites/soleil-vent-solaire-solar-orbiter-champ-magnetique-2080409</link>
+            <description><![CDATA[Basée sur les données de la sonde Solar Orbiter, une étude offre une vue inédite de la nappe de courant héliosphérique. Les chercheurs ont découvert une variation de composition chimique qui pourrait ...]]></description>
+            <pubDate>Sat, 05 Sep 2026 06:10:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/soleil-vent-solaire-solar-orbiter-champ-magnetique-2080409</guid>
+            <source>Génération NT</source>
+        </item>
+        <item>
             <title>Nettoyage et préparation de jeux de données (Pyhton, Excel, Copilote)</title>
             <link>https://www.youtube.com/watch?v=OrI-pLVY96Q</link>
             <description><![CDATA[Dans ce tutoriel complet, apprenez à automatiser le nettoyage et la préparation de vos jeux de données géographiques en ...]]></description>
@@ -141,20 +149,12 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Aqara mise sur l’éclairage connecté et l’intelligence pour l’IFA 2026</title>
-            <link>https://www.frandroid.com/produits-android/maison-connectee/3229531_aqara-mise-sur-leclairage-connecte-et-lintelligence-spatiale-pour-lifa-2026</link>
-            <description><![CDATA[Aqara présente à Berlin une nouvelle série de luminaires intérieurs et extérieurs, ainsi qu'une plateforme communautaire baptisée Aqara Builder, avec l'ambition de faire dialoguer chaque source lumine...]]></description>
-            <pubDate>Fri, 04 Sep 2026 07:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/produits-android/maison-connectee/3229531_aqara-mise-sur-leclairage-connecte-et-lintelligence-spatiale-pour-lifa-2026</guid>
-            <source>Frandroid</source>
-        </item>
-        <item>
-            <title>SEO Square 2026 : la 11e édition se tiendra les 13 et 14 octobre</title>
-            <link>https://www.journaldunet.com/seo/1554413-seo-square-2026-la-11e-edition-les-13-et-14-octobre/</link>
-            <description><![CDATA[Entièrement en ligne et gratuit, le SEO Square réunira plus de 5 000 professionnels du marketing digital autour d'une thématique centrale : piloter sa visibilité à l'ère des moteurs IA. Le JDN est par...]]></description>
-            <pubDate>Fri, 04 Sep 2026 10:08:50 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/seo/1554413-seo-square-2026-la-11e-edition-les-13-et-14-octobre/</guid>
-            <source>JDN</source>
+            <title>CareCloud : 3,75 millions de victimes après une cyberattaque</title>
+            <link>https://www.zataz.com/carecloud-375-millions-de-victimes-apres-une-cyberattaque/</link>
+            <description><![CDATA[CareCloud confirme le vol de données médicales et personnelles concernant plus de 3,75 millions de personnes.]]></description>
+            <pubDate>Sat, 05 Sep 2026 08:02:20 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zataz.com/carecloud-375-millions-de-victimes-apres-une-cyberattaque/</guid>
+            <source>Zataz.com</source>
         </item>
         <item>
             <title>Actualité : Montres connectées : l’énorme erreur sur vos calories brûlées, une donnée en manque de fiabilité, peu importe la marque</title>
@@ -165,12 +165,12 @@
             <source>Les Numériques</source>
         </item>
         <item>
-            <title>PAIR de Nvidia pour un cluster d'IA domestique et personnel</title>
-            <link>https://www.generation-nt.com/actualites/nvidia-pair-ia-locale-cluster-gpu-2080654</link>
-            <description><![CDATA[Nvidia introduit PAIR (Personal AI Router), une solution open source qui connecte plusieurs ordinateurs sur un réseau local pour distribuer les tâches d'inférence IA.]]></description>
-            <pubDate>Fri, 04 Sep 2026 09:50:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/nvidia-pair-ia-locale-cluster-gpu-2080654</guid>
-            <source>Génération NT</source>
+            <title>Paris. « 18 flashs en 4 minutes 39 » : un radar suspendu après de « grosses difficultés techniques » et un tollé</title>
+            <link>https://www.ledauphine.com/transport/2026/09/04/18-flashs-en-4-minutes-39-un-radar-suspendu-apres-de-grosses-difficultes-techniques-et-un-tolle</link>
+            <description><![CDATA[L'association 40 millions d'automobilistes avait réclamé jeudi la suspension de ce radar de chantier réglé à 30 km/h sur le périphérique parisien. Les amendes vont être annulées.]]></description>
+            <pubDate>Fri, 04 Sep 2026 17:15:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.ledauphine.com/transport/2026/09/04/18-flashs-en-4-minutes-39-un-radar-suspendu-apres-de-grosses-difficultes-techniques-et-un-tolle</guid>
+            <source>Le Dauphiné Libéré</source>
         </item>
     </channel>
 </rss>

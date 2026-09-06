@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-05T11:44:21.106717",
+  "lastUpdate": "2026-09-06T12:01:58.548955",
   "articles": [
     {
       "title": "ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)",
@@ -14,47 +14,11 @@
       "thumbnail": "https://i.ytimg.com/vi/rx7F_9Vm35Y/hqdefault.jpg"
     },
     {
-      "title": "ChatGPT vient de franchir un point de non-retour : GPT-6 Astra peut tout faire à votre place sur un ordinateur, selon OpenAI",
-      "description": "OpenAI lance son nouveau modèle GPT-6 Astra pour ChatGPT. Le président et cofondateur de l’entreprise, Greg Brockman, pense que celle-ci a finalement réussi à développer une AGI (ou intelligence artif...",
-      "url": "https://www.presse-citron.net/chatgpt-gpt-6-astra-peut-tout-faire-a-votre-place/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-09-04T11:04:07Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "ChatGPT Work : le tutoriel complet pour déléguer ton travail à l&#39;IA (guide débutant)",
-      "description": "Le guide gratuit \"Gagne ta première journée avec ChatGPT Work\" https://alegriagroup.lovable.app/?src=lm_chatgpt_work ...",
-      "url": "https://www.youtube.com/watch?v=pbWVTztZ7b8",
-      "source": "Alegria Group",
-      "publishedAt": "2026-08-13T07:49:37Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "pbWVTztZ7b8",
-      "thumbnail": "https://i.ytimg.com/vi/pbWVTztZ7b8/hqdefault.jpg"
-    },
-    {
-      "title": "IA pratique : comment débuter avec ChatGPT Work",
-      "description": "Vous souhaitez en savoir plus sur le fonctionnement du service d’OpenAI chargé de vous assister dans l’exécution de divers tâches sur votre ordinateur ? Découvrez alors comment cette intelligence arti...",
-      "url": "https://www.zdnet.fr/pratique/ia-pratique-comment-debuter-avec-chatgpt-work-501171.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-09-04T08:09:14Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "ChienGPT lance ChienGPT Opel Astra, son premier modèle d’IA capable de se pirater tout seul",
-      "description": "ChienGPT lance ChienGPT Opel Astra, son premier modèle d’IA capable de se pirater tout seul",
-      "url": "https://linuxfr.org/users/dovik/journaux/chiengpt-lance-chiengpt-opel-astra-son-premier-modele-d-ia-capable-de-se-pirater-tout-seul",
-      "source": "Linuxfr.org",
-      "publishedAt": "2026-09-04T10:55:25Z",
+      "title": "Glossaire IA : Comprendre l’intelligence artificielle, un mot à la fois",
+      "description": "Un glossaire IA pour comprendre simplement les termes clés de l’intelligence artificielle, des LLM aux agents en passant par le RAG.",
+      "url": "https://blog.octo.com/octo-glossaire-ia--comprendre-l'intelligence-artificielle-un-mot-a-la-fois-1",
+      "source": "Octo.com",
+      "publishedAt": "2026-09-04T12:57:10Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -74,28 +38,28 @@
       "thumbnail": "https://i.ytimg.com/vi/4km3oLGe-iQ/hqdefault.jpg"
     },
     {
-      "title": "GPT-6, Fable 5.1 : comment lire les benchmarks de Claude et GPT sans se faire avoir",
-      "description": "Anthropic a sorti Claude Fable 5.1 ce 1er septembre, OpenAI a répliqué avec GPT-6 Astra deux jours plus tard, et chacun s'est proclamé meilleur modèle du monde, tableau de chiffres à l'appui. Derrière...",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3233155_gpt-6-fable-5-1-comment-lire-les-benchmarks-de-claude-et-gpt-sans-se-faire-avoir",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-04T05:18:36Z",
+      "title": "Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker",
+      "description": "Machine learning. Data science. MLOps. Création d'une image docker encapsulant une base de données multi-tables (SQLite, ...",
+      "url": "https://www.youtube.com/watch?v=dIuLrxn3ViE",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-07-30T15:41:54Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "dIuLrxn3ViE",
+      "thumbnail": "https://i.ytimg.com/vi/dIuLrxn3ViE/hqdefault.jpg"
     },
     {
-      "title": "Actualité : Après la panne, OpenAI lance GPT-6 Astra : “le modèle le plus intelligent et aligné au monde” avant la vraie AGI",
-      "description": "OpenAI vient de dévoiler GPT-6 Astra, présenté comme une avancée majeure allant au-delà des modèles d’Anthropic. Plus autonome, cette IA franchit un cap critique en cybersécurité, tout en s’approchant...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/apres-la-panne-openai-lance-gpt-6-astra-le-modele-le-plus-intelligent-et-aligne-au-monde-avant-la-vraie-agi-n261359.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-09-04T06:35:00Z",
+      "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
+      "description": "Vous souhaitez maîtriser Microsoft Power BI et apprendre à créer vos rapports pas à pas ? Microsoft Power BI est aujourd'hui l'un ...",
+      "url": "https://www.youtube.com/watch?v=9R-humPn-eo",
+      "source": "JUFIP",
+      "publishedAt": "2026-07-26T15:00:27Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "9R-humPn-eo",
+      "thumbnail": "https://i.ytimg.com/vi/9R-humPn-eo/hqdefault.jpg"
     },
     {
       "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction",
@@ -122,28 +86,52 @@
       "thumbnail": "https://i.ytimg.com/vi/M0HnsiK4hgo/hqdefault.jpg"
     },
     {
-      "title": "BUUU Group Limited signe un accord définitif en vue d'acquérir une participation majoritaire dans Brightray Science Inc. et de lever plus de 60 millions de dollars américains par le biais de placements privés, faisant ainsi de la fourniture de centres de données dotés d'une IA industrialisée son principal moteur de croissance",
-      "description": "Délai de livraison de six à neuf mois – soit la moitié du délai habituel ; 70 MW en service à Johor, en Malaisie ; un portefeuille de projets qui devrait atteindre environ 2 GW. BUUU procède actuellem...",
-      "url": "https://www.prnewswire.com/news-releases/buuu-group-limited-signe-un-accord-definitif-en-vue-dacquerir-une-participation-majoritaire-dans-brightray-science-inc-et-de-lever-plus-de-60-millions-de-dollars-americains-par-le-biais-de-placements-prives-faisant-ainsi-de-la--302869763.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-09-04T02:51:00Z",
+      "title": "JAX Automatic Differentiation – Régression simple, descente de gradient (Python)",
+      "description": "Machine learning. Data science. JAX est une bibliothèque de calcul numérique « à la Numpy » permettant de manipuler les ...",
+      "url": "https://www.youtube.com/watch?v=LKtwwn-W6iM",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-07-20T08:19:53Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "LKtwwn-W6iM",
+      "thumbnail": "https://i.ytimg.com/vi/LKtwwn-W6iM/hqdefault.jpg"
+    },
+    {
+      "title": "Machine Learning vs Deep Learning : Elle explique en détails",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Ys1DwlL0yJs",
+      "source": "Horizon IA",
+      "publishedAt": "2026-08-24T13:00:54Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Ys1DwlL0yJs",
+      "thumbnail": "https://i.ytimg.com/vi/Ys1DwlL0yJs/hqdefault.jpg"
+    },
+    {
+      "title": "Cours complet sur Power BI pour débutant",
+      "description": "Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...",
+      "url": "https://www.youtube.com/watch?v=uJeUP8Z9LsQ",
+      "source": "Jeune Financier Africain ",
+      "publishedAt": "2026-08-25T17:46:11Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "uJeUP8Z9LsQ",
+      "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
+    },
+    {
+      "title": "Bitbybit Studio : 25 millions de lignes revendiquées",
+      "description": "Bitbybit Studio visé par une fuite revendiquée de 25 millions de lignes mêlant données personnelles et messages IA.",
+      "url": "https://www.zataz.com/bitbybit-studio-25-millions-de-lignes-revendiquees/",
+      "source": "Zataz.com",
+      "publishedAt": "2026-09-05T08:36:17Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
-    },
-    {
-      "title": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data",
-      "description": "Benjamin Ejzenberg : Le futur de Power BI, les certifications, les nouveaux enjeux des métiers data Timeline 00:00 Introduction ...",
-      "url": "https://www.youtube.com/watch?v=IwQvKri768w",
-      "source": "Mikail Altundas",
-      "publishedAt": "2026-07-07T15:00:26Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "IwQvKri768w",
-      "thumbnail": "https://i.ytimg.com/vi/IwQvKri768w/hqdefault.jpg"
     },
     {
       "title": "Comment créer un tableau de bord RH sur Power BI ?",
@@ -170,6 +158,30 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
+      "title": "Avec la hausse du prix des carburants, une voiture essence coûte désormais trois fois plus cher chaque mois qu'un véhicule électrique",
+      "description": "Selon la plateforme Roole Data, spécialiste de l'exploitation des données publiques concernant l'automobile, le coût mensuel du carburant pour une voiture à essence a bondi de 25 euros au cours du pre...",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/les-automobilistes-qui-roulent-a-l-essence-payent-desormais-chaque-mois-le-triple-de-ce-que-payent-ceux-qui-roulent-a-l-electrique_8178377.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-09-05T05:51:27Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comment le Soleil propulse-t-il le vent solaire à des vitesses supersoniques ?",
+      "description": "Basée sur les données de la sonde Solar Orbiter, une étude offre une vue inédite de la nappe de courant héliosphérique. Les chercheurs ont découvert une variation de composition chimique qui pourrait ...",
+      "url": "https://www.generation-nt.com/actualites/soleil-vent-solaire-solar-orbiter-champ-magnetique-2080409",
+      "source": "Génération NT",
+      "publishedAt": "2026-09-05T06:10:01Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Nettoyage et préparation de jeux de données (Pyhton, Excel, Copilote)",
       "description": "Dans ce tutoriel complet, apprenez à automatiser le nettoyage et la préparation de vos jeux de données géographiques en ...",
       "url": "https://www.youtube.com/watch?v=OrI-pLVY96Q",
@@ -194,23 +206,11 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Aqara mise sur l’éclairage connecté et l’intelligence pour l’IFA 2026",
-      "description": "Aqara présente à Berlin une nouvelle série de luminaires intérieurs et extérieurs, ainsi qu'une plateforme communautaire baptisée Aqara Builder, avec l'ambition de faire dialoguer chaque source lumine...",
-      "url": "https://www.frandroid.com/produits-android/maison-connectee/3229531_aqara-mise-sur-leclairage-connecte-et-lintelligence-spatiale-pour-lifa-2026",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-04T07:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "SEO Square 2026 : la 11e édition se tiendra les 13 et 14 octobre",
-      "description": "Entièrement en ligne et gratuit, le SEO Square réunira plus de 5 000 professionnels du marketing digital autour d'une thématique centrale : piloter sa visibilité à l'ère des moteurs IA. Le JDN est par...",
-      "url": "https://www.journaldunet.com/seo/1554413-seo-square-2026-la-11e-edition-les-13-et-14-octobre/",
-      "source": "JDN",
-      "publishedAt": "2026-09-04T10:08:50Z",
+      "title": "CareCloud : 3,75 millions de victimes après une cyberattaque",
+      "description": "CareCloud confirme le vol de données médicales et personnelles concernant plus de 3,75 millions de personnes.",
+      "url": "https://www.zataz.com/carecloud-375-millions-de-victimes-apres-une-cyberattaque/",
+      "source": "Zataz.com",
+      "publishedAt": "2026-09-05T08:02:20Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +230,23 @@
       "thumbnail": ""
     },
     {
-      "title": "PAIR de Nvidia pour un cluster d'IA domestique et personnel",
-      "description": "Nvidia introduit PAIR (Personal AI Router), une solution open source qui connecte plusieurs ordinateurs sur un réseau local pour distribuer les tâches d'inférence IA.",
-      "url": "https://www.generation-nt.com/actualites/nvidia-pair-ia-locale-cluster-gpu-2080654",
-      "source": "Génération NT",
-      "publishedAt": "2026-09-04T09:50:01Z",
+      "title": "Paris. « 18 flashs en 4 minutes 39 » : un radar suspendu après de « grosses difficultés techniques » et un tollé",
+      "description": "L'association 40 millions d'automobilistes avait réclamé jeudi la suspension de ce radar de chantier réglé à 30 km/h sur le périphérique parisien. Les amendes vont être annulées.",
+      "url": "https://www.ledauphine.com/transport/2026/09/04/18-flashs-en-4-minutes-39-un-radar-suspendu-apres-de-grosses-difficultes-techniques-et-un-tolle",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-09-04T17:15:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L’IA Claude devient disponible sur Apple CarPlay",
+      "description": "Anthropic a mis à jour l’application iPhone de son intelligence artificielle Claude afin d’ajouter le support d’Apple CarPlay. Il est ainsi possible d’accéder au…\nLire la suite…\nFacebook · X · iAddict...",
+      "url": "https://iphoneaddict.fr/post/news-434726-lia-claude-devient-disponible-apple-carplay",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-09-05T06:00:08Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,52 +254,52 @@
       "thumbnail": ""
     },
     {
-      "title": "Claude Code : le guide complet pour les non-devs (2026)",
-      "description": "Mes skills Claude Code https://shubham-sharma.fr/ressources/claude-code-skills-pack/ Claude Code vous semble trop technique ...",
-      "url": "https://www.youtube.com/watch?v=_pW-kUBo7AU",
-      "source": "Shubham SHARMA",
-      "publishedAt": "2026-07-10T17:28:31Z",
+      "title": "Moches et pas chères, d’où vient cette épidémie d’affiches générées par intelligence artificielle ?",
+      "description": "Elles pullulent depuis cet été : les affiches générées par IA sont de plus en plus utilisées par les petites entreprises ou les associations, malgré les critiques sur une qualité artistique médiocre",
+      "url": "https://www.20minutes.fr/high-tech/by-the-web/4242299-20260905-moches-cheres-vient-epidemie-affiches-generees-intelligence-artificielle",
+      "source": "20 Minutes",
+      "publishedAt": "2026-09-05T08:02:36Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Caméra de surveillance Apple : une IA qui surveille sans tout enregistrer, et un abonnement en vue pour 2027",
+      "description": "Selon Mark Gurman qui relaye cette rumeur depuis plusieurs mois, Apple travaillerait sur un dispositif de sécurité domestique associant caméra et intelligence artificielle, dont le lancement serait es...",
+      "url": "https://www.igen.fr/domotique/2026/09/camera-de-securite-apple-une-ia-qui-surveille-sans-tout-enregistrer-et-un-abonnement-en-vue-pour-2027-157837",
+      "source": "iGeneration",
+      "publishedAt": "2026-09-05T11:23:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "La pénurie de RAM devient folle : ces barrettes DDR5 ne contiennent… aucune mémoire",
+      "description": "Face à l’actuelle pénurie de RAM, certains fabricants proposent des solutions plutôt originales. Ces derniers vous vendent en effet des kits de mémoire DDR5… totalement factices. L’explosion de l’inte...",
+      "url": "https://www.phonandroid.com/la-penurie-de-ram-devient-folle-ces-barrettes-ddr5-ne-contiennent-aucune-memoire.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-09-05T11:23:46Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comprendre les RAG – De la Théorie au Code en 1H",
+      "description": "Dans cette vidéo, on va parler de RAG, pour Retrieval-Augmented Generation, et voir comment donner à un LLM accès à des ...",
+      "url": "https://www.youtube.com/watch?v=jM3lgl2SsY8",
+      "source": "obarrene",
+      "publishedAt": "2026-08-13T18:24:09Z",
       "category": "tech",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "_pW-kUBo7AU",
-      "thumbnail": "https://i.ytimg.com/vi/_pW-kUBo7AU/hqdefault.jpg"
-    },
-    {
-      "title": "Actualité : Caméras de surveillance : Reolink mise sur trois objectifs et une IA qui reste à la maison",
-      "description": "Reolink profite de l’IFA 2026 pour décliner sa caméra à triple objectif dans une version alimentée par batterie et panneau solaire. La marque fait aussi évoluer son IA locale afin de reconnaître des s...",
-      "url": "https://www.lesnumeriques.com/objet-connecte/cameras-de-surveillance-reolink-mise-sur-trois-objectifs-et-une-ia-qui-reste-a-la-maison-n261146.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-09-04T07:00:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "40 000 zones RGB Mini LED et ajout d’une couleur Cyan: Hisense officialise sa TV la plus poussée",
-      "description": "À l'occasion de l'IFA 2026, Hisense confirme le déploiement commercial de sa série UXS, une nouvelle génération de téléviseurs inaugurant la technologie RGB-C, déjà présentée en janvier dernier lors d...",
-      "url": "https://www.frandroid.com/marques/hisense/3230395_hisense-devoile-la-serie-uxs-sa-nouvelle-generation-de-televiseurs-rgb-c-le-retroeclairage-rgb-mini-led-avec-du-cyan-a-lifa-2026",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-04T08:02:00Z",
-      "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Créer un site web pour les humains et un autre pour les agents IA, une fausse bonne idée... pour le moment",
-      "description": "Le journal The Economist a mis place un site markdown pour les IA. Pourtant, privilégier l'optimisation d'un site unique reste l'option recommandée par beaucoup.",
-      "url": "https://www.journaldunet.com/seo/1554295-creer-un-site-web-pour-les-humains-et-un-autre-pour-les-agents-ia-ca-vaut-le-coup/",
-      "source": "JDN",
-      "publishedAt": "2026-09-04T10:34:34Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "videoId": "jM3lgl2SsY8",
+      "thumbnail": "https://i.ytimg.com/vi/jM3lgl2SsY8/hqdefault.jpg"
     }
   ]
 }
