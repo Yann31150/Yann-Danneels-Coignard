@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-06T12:01:58.548955",
+  "lastUpdate": "2026-09-07T14:06:15.518996",
   "articles": [
     {
       "title": "ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)",
@@ -14,16 +14,16 @@
       "thumbnail": "https://i.ytimg.com/vi/rx7F_9Vm35Y/hqdefault.jpg"
     },
     {
-      "title": "Glossaire IA : Comprendre l’intelligence artificielle, un mot à la fois",
-      "description": "Un glossaire IA pour comprendre simplement les termes clés de l’intelligence artificielle, des LLM aux agents en passant par le RAG.",
-      "url": "https://blog.octo.com/octo-glossaire-ia--comprendre-l'intelligence-artificielle-un-mot-a-la-fois-1",
-      "source": "Octo.com",
-      "publishedAt": "2026-09-04T12:57:10Z",
+      "title": "ChatGPT Work : le tutoriel complet pour déléguer ton travail à l&#39;IA (guide débutant)",
+      "description": "Le guide gratuit \"Gagne ta première journée avec ChatGPT Work\" https://alegriagroup.lovable.app/?src=lm_chatgpt_work ...",
+      "url": "https://www.youtube.com/watch?v=pbWVTztZ7b8",
+      "source": "Alegria Group",
+      "publishedAt": "2026-08-13T07:49:37Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "pbWVTztZ7b8",
+      "thumbnail": "https://i.ytimg.com/vi/pbWVTztZ7b8/hqdefault.jpg"
     },
     {
       "title": "Personne ne réalise ce que le nouveau ChatGPT peut faire",
@@ -38,6 +38,18 @@
       "thumbnail": "https://i.ytimg.com/vi/4km3oLGe-iQ/hqdefault.jpg"
     },
     {
+      "title": "L’IA que ChatGPT nous a fait oublier",
+      "description": "Après quelques années passées à nous émerveiller devant des machines qui ont appris à nous parler, il serait donc bon de nous rappeler toutes celles qui avaient déjà appris à écouter les machines… ...",
+      "url": "https://www.lalibre.be/economie/digital/2026/09/05/lia-que-chatgpt-nous-a-fait-oublier-W4ZECZ5SAFEOBBGSVVL7RSPYC4/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-09-05T14:03:03Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker",
       "description": "Machine learning. Data science. MLOps. Création d'une image docker encapsulant une base de données multi-tables (SQLite, ...",
       "url": "https://www.youtube.com/watch?v=dIuLrxn3ViE",
@@ -50,16 +62,16 @@
       "thumbnail": "https://i.ytimg.com/vi/dIuLrxn3ViE/hqdefault.jpg"
     },
     {
-      "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
-      "description": "Vous souhaitez maîtriser Microsoft Power BI et apprendre à créer vos rapports pas à pas ? Microsoft Power BI est aujourd'hui l'un ...",
-      "url": "https://www.youtube.com/watch?v=9R-humPn-eo",
-      "source": "JUFIP",
-      "publishedAt": "2026-07-26T15:00:27Z",
+      "title": "Le langage ultime existe-t-il ? Il pourrait transformer notre intelligence et celle des IA",
+      "description": "Le succès des IA génératives est basé sur les grands modèles de langage (Large Language Models). Le langage étant le support de la pensée humaine, son influence sur le niveau d’intelligence semble une...",
+      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-langage-ultime-existe-t-il-il-pourrait-transformer-notre-intelligence-celle-ia-137486/",
+      "source": "Futura",
+      "publishedAt": "2026-09-06T10:17:47Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "9R-humPn-eo",
-      "thumbnail": "https://i.ytimg.com/vi/9R-humPn-eo/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction",
@@ -72,18 +84,6 @@
       "isYouTube": true,
       "videoId": "DATnpGoGhM8",
       "thumbnail": "https://i.ytimg.com/vi/DATnpGoGhM8/hqdefault.jpg"
-    },
-    {
-      "title": "Leçon 5 - Descente de gradient - Cours Complet de Deep Learning",
-      "description": "Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...",
-      "url": "https://www.youtube.com/watch?v=M0HnsiK4hgo",
-      "source": "Rafa Explique",
-      "publishedAt": "2026-07-15T16:14:00Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "M0HnsiK4hgo",
-      "thumbnail": "https://i.ytimg.com/vi/M0HnsiK4hgo/hqdefault.jpg"
     },
     {
       "title": "JAX Automatic Differentiation – Régression simple, descente de gradient (Python)",
@@ -122,18 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
     },
     {
-      "title": "Bitbybit Studio : 25 millions de lignes revendiquées",
-      "description": "Bitbybit Studio visé par une fuite revendiquée de 25 millions de lignes mêlant données personnelles et messages IA.",
-      "url": "https://www.zataz.com/bitbybit-studio-25-millions-de-lignes-revendiquees/",
-      "source": "Zataz.com",
-      "publishedAt": "2026-09-05T08:36:17Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Comment créer un tableau de bord RH sur Power BI ?",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=v0Z8TMkAbaE",
@@ -158,23 +146,11 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
-      "title": "Avec la hausse du prix des carburants, une voiture essence coûte désormais trois fois plus cher chaque mois qu'un véhicule électrique",
-      "description": "Selon la plateforme Roole Data, spécialiste de l'exploitation des données publiques concernant l'automobile, le coût mensuel du carburant pour une voiture à essence a bondi de 25 euros au cours du pre...",
-      "url": "https://www.franceinfo.fr/economie/automobile/essence/les-automobilistes-qui-roulent-a-l-essence-payent-desormais-chaque-mois-le-triple-de-ce-que-payent-ceux-qui-roulent-a-l-electrique_8178377.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-09-05T05:51:27Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comment le Soleil propulse-t-il le vent solaire à des vitesses supersoniques ?",
-      "description": "Basée sur les données de la sonde Solar Orbiter, une étude offre une vue inédite de la nappe de courant héliosphérique. Les chercheurs ont découvert une variation de composition chimique qui pourrait ...",
-      "url": "https://www.generation-nt.com/actualites/soleil-vent-solaire-solar-orbiter-champ-magnetique-2080409",
-      "source": "Génération NT",
-      "publishedAt": "2026-09-05T06:10:01Z",
+      "title": "Des peuples ancestraux d’Alaska et d’Australie s’associent pour suivre les puffins durant leur migration",
+      "description": "Un projet de recherche combinant analyse scientifique, écologie, et savoirs ancestraux permet de récolter des données sur les étapes, mais aussi l’écosystème global, des puffins à bec grêle durant leu...",
+      "url": "https://www.courrierinternational.com/article/environnement-des-peuples-ancestraux-d-alaska-et-d-australie-s-associent-pour-suivre-les-puffins-durant-leur-migration_244875",
+      "source": "Courrier International",
+      "publishedAt": "2026-09-06T09:40:11Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -194,6 +170,18 @@
       "thumbnail": "https://i.ytimg.com/vi/OrI-pLVY96Q/hqdefault.jpg"
     },
     {
+      "title": "Un canon à micro-ondes pour protéger les futurs data centers en orbite des satellites espions",
+      "description": "Une startup polonaise veut équiper des satellites de stockage de données d'un canon à micro-ondes censé griller l'électronique des engins qui s'en approchent de trop près.",
+      "url": "https://www.numerama.com/tech/2322197-des-data-centers-dans-lespace-seront-proteges-par-des-armes-a-micro-ondes-pour-griller-les-satellites-trop-curieux.html",
+      "source": "Numerama",
+      "publishedAt": "2026-09-06T13:02:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Introduction | SQL - EP1",
       "description": "Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...",
       "url": "https://www.youtube.com/watch?v=QXaOjeucWgI",
@@ -206,84 +194,24 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "CareCloud : 3,75 millions de victimes après une cyberattaque",
-      "description": "CareCloud confirme le vol de données médicales et personnelles concernant plus de 3,75 millions de personnes.",
-      "url": "https://www.zataz.com/carecloud-375-millions-de-victimes-apres-une-cyberattaque/",
-      "source": "Zataz.com",
-      "publishedAt": "2026-09-05T08:02:20Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Actualité : Montres connectées : l’énorme erreur sur vos calories brûlées, une donnée en manque de fiabilité, peu importe la marque",
-      "description": "Vous regardez souvent les calories affichées par votre montre connectée après le sport, idéale pour se fixer un objectif ? Mauvaise nouvelle : une nouvelle étude scientifique démontre que ces chiffres...",
-      "url": "https://www.lesnumeriques.com/montre-connectee/montres-connectees-l-enorme-erreur-sur-vos-calories-brulees-une-donnee-en-manque-de-fiabilite-peu-importe-la-marque-n261371.html",
+      "title": "Actualité : Les chauffages et purificateurs Dreo affichent la qualité de l'air en couleurs",
+      "description": "À l'IFA 2026, Dreo présente le purificateur 530S, un futur système chargé de coordonner ses appareils et deux technologies de chauffage. Une offensive hivernale où l'intelligence artificielle est, ell...",
+      "url": "https://www.lesnumeriques.com/divers-electromenager/les-chauffages-et-purificateurs-dreo-affichent-la-qualite-de-l-air-en-couleurs-n261383.html",
       "source": "Les Numériques",
-      "publishedAt": "2026-09-04T10:42:00Z",
-      "category": "data",
+      "publishedAt": "2026-09-06T11:13:00Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Paris. « 18 flashs en 4 minutes 39 » : un radar suspendu après de « grosses difficultés techniques » et un tollé",
-      "description": "L'association 40 millions d'automobilistes avait réclamé jeudi la suspension de ce radar de chantier réglé à 30 km/h sur le périphérique parisien. Les amendes vont être annulées.",
-      "url": "https://www.ledauphine.com/transport/2026/09/04/18-flashs-en-4-minutes-39-un-radar-suspendu-apres-de-grosses-difficultes-techniques-et-un-tolle",
-      "source": "Le Dauphiné Libéré",
-      "publishedAt": "2026-09-04T17:15:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L’IA Claude devient disponible sur Apple CarPlay",
-      "description": "Anthropic a mis à jour l’application iPhone de son intelligence artificielle Claude afin d’ajouter le support d’Apple CarPlay. Il est ainsi possible d’accéder au…\nLire la suite…\nFacebook · X · iAddict...",
-      "url": "https://iphoneaddict.fr/post/news-434726-lia-claude-devient-disponible-apple-carplay",
-      "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-09-05T06:00:08Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Moches et pas chères, d’où vient cette épidémie d’affiches générées par intelligence artificielle ?",
-      "description": "Elles pullulent depuis cet été : les affiches générées par IA sont de plus en plus utilisées par les petites entreprises ou les associations, malgré les critiques sur une qualité artistique médiocre",
-      "url": "https://www.20minutes.fr/high-tech/by-the-web/4242299-20260905-moches-cheres-vient-epidemie-affiches-generees-intelligence-artificielle",
-      "source": "20 Minutes",
-      "publishedAt": "2026-09-05T08:02:36Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Caméra de surveillance Apple : une IA qui surveille sans tout enregistrer, et un abonnement en vue pour 2027",
-      "description": "Selon Mark Gurman qui relaye cette rumeur depuis plusieurs mois, Apple travaillerait sur un dispositif de sécurité domestique associant caméra et intelligence artificielle, dont le lancement serait es...",
-      "url": "https://www.igen.fr/domotique/2026/09/camera-de-securite-apple-une-ia-qui-surveille-sans-tout-enregistrer-et-un-abonnement-en-vue-pour-2027-157837",
-      "source": "iGeneration",
-      "publishedAt": "2026-09-05T11:23:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "La pénurie de RAM devient folle : ces barrettes DDR5 ne contiennent… aucune mémoire",
-      "description": "Face à l’actuelle pénurie de RAM, certains fabricants proposent des solutions plutôt originales. Ces derniers vous vendent en effet des kits de mémoire DDR5… totalement factices. L’explosion de l’inte...",
-      "url": "https://www.phonandroid.com/la-penurie-de-ram-devient-folle-ces-barrettes-ddr5-ne-contiennent-aucune-memoire.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-09-05T11:23:46Z",
-      "category": "tech",
+      "title": "Révolutionnaire ? Dyson lance une brosse à dents qui filme votre bouche dans les moindres détails : “Cela ne remplace pas une visite chez le dentiste”",
+      "description": "Avec une caméra et un jet de bain de bouche piloté par intelligence artificielle, Dyson veut réunir brossage et nettoyage interdentaire. Une innovation spectaculaire, vendue 479 euros, dont l’efficaci...",
+      "url": "https://www.dhnet.be/conso/consommation/2026/09/06/revolutionnaire-dyson-lance-une-brosse-a-dents-qui-filme-votre-bouche-dans-les-moindres-details-cela-ne-remplace-pas-une-visite-chez-le-dentiste-NHWQ2SLNRNDLLHHYLLJAYBZSKM/",
+      "source": "dh.be",
+      "publishedAt": "2026-09-06T11:35:21Z",
+      "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
@@ -300,6 +228,30 @@
       "isYouTube": true,
       "videoId": "jM3lgl2SsY8",
       "thumbnail": "https://i.ytimg.com/vi/jM3lgl2SsY8/hqdefault.jpg"
+    },
+    {
+      "title": "Médias : les 10 choses à retenir de l’été 2026",
+      "description": "Entre l’onde de choc des AI Overviews qui assèchent le trafic web, l’avènement d’un monde post-littéraire et d’une écriture formatée à l’IA, le déclin mesurable de la parole et la grande fatigue face ...",
+      "url": "https://www.meta-media.fr/2026/09/05/medias-les-10-choses-a-retenir-de-lete-2026.html",
+      "source": "Meta-media.fr",
+      "publishedAt": "2026-09-05T06:39:56Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Xavier Niel l’a recrutée sur LinkedIn : Aude Durand, la stratège qui pilote l’offensive IA d’Iliad",
+      "description": "40 DE MOINS DE 40 ANS. À seulement 34 ans, Aude Durand est devenue l’un des visages de la transformation du groupe de télécoms Iliad et conduit la stratégie IA du groupe. Elle appartient à cette génér...",
+      "url": "https://www.challenges.fr/entreprise/telecoms/xavier-niel-la-recrutee-sur-linkedin-aude-durand-la-stratege-qui-pilote-loffensive-ia-diliad_645539",
+      "source": "Challenges",
+      "publishedAt": "2026-09-06T07:00:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }

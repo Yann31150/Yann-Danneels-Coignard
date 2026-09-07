@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 06 Sep 2026 12:01:58 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 14:06:15 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,12 +21,12 @@
             <source>Elliott Pierret</source>
         </item>
         <item>
-            <title>Glossaire IA : Comprendre l’intelligence artificielle, un mot à la fois</title>
-            <link>https://blog.octo.com/octo-glossaire-ia--comprendre-l'intelligence-artificielle-un-mot-a-la-fois-1</link>
-            <description><![CDATA[Un glossaire IA pour comprendre simplement les termes clés de l’intelligence artificielle, des LLM aux agents en passant par le RAG.]]></description>
-            <pubDate>Fri, 04 Sep 2026 12:57:10 -0000</pubDate>
-            <guid isPermaLink="true">https://blog.octo.com/octo-glossaire-ia--comprendre-l'intelligence-artificielle-un-mot-a-la-fois-1</guid>
-            <source>Octo.com</source>
+            <title>ChatGPT Work : le tutoriel complet pour déléguer ton travail à l&amp;#39;IA (guide débutant)</title>
+            <link>https://www.youtube.com/watch?v=pbWVTztZ7b8</link>
+            <description><![CDATA[Le guide gratuit "Gagne ta première journée avec ChatGPT Work" https://alegriagroup.lovable.app/?src=lm_chatgpt_work ...]]></description>
+            <pubDate>Thu, 13 Aug 2026 07:49:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=pbWVTztZ7b8</guid>
+            <source>Alegria Group</source>
         </item>
         <item>
             <title>Personne ne réalise ce que le nouveau ChatGPT peut faire</title>
@@ -37,6 +37,14 @@
             <source>Yassine Sdiri</source>
         </item>
         <item>
+            <title>L’IA que ChatGPT nous a fait oublier</title>
+            <link>https://www.lalibre.be/economie/digital/2026/09/05/lia-que-chatgpt-nous-a-fait-oublier-W4ZECZ5SAFEOBBGSVVL7RSPYC4/</link>
+            <description><![CDATA[Après quelques années passées à nous émerveiller devant des machines qui ont appris à nous parler, il serait donc bon de nous rappeler toutes celles qui avaient déjà appris à écouter les machines… ...]]></description>
+            <pubDate>Sat, 05 Sep 2026 14:03:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lalibre.be/economie/digital/2026/09/05/lia-que-chatgpt-nous-a-fait-oublier-W4ZECZ5SAFEOBBGSVVL7RSPYC4/</guid>
+            <source>Lalibre.be</source>
+        </item>
+        <item>
             <title>Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker</title>
             <link>https://www.youtube.com/watch?v=dIuLrxn3ViE</link>
             <description><![CDATA[Machine learning. Data science. MLOps. Création d'une image docker encapsulant une base de données multi-tables (SQLite, ...]]></description>
@@ -45,12 +53,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
-            <link>https://www.youtube.com/watch?v=9R-humPn-eo</link>
-            <description><![CDATA[Vous souhaitez maîtriser Microsoft Power BI et apprendre à créer vos rapports pas à pas ? Microsoft Power BI est aujourd'hui l'un ...]]></description>
-            <pubDate>Sun, 26 Jul 2026 15:00:27 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=9R-humPn-eo</guid>
-            <source>JUFIP</source>
+            <title>Le langage ultime existe-t-il ? Il pourrait transformer notre intelligence et celle des IA</title>
+            <link>https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-langage-ultime-existe-t-il-il-pourrait-transformer-notre-intelligence-celle-ia-137486/</link>
+            <description><![CDATA[Le succès des IA génératives est basé sur les grands modèles de langage (Large Language Models). Le langage étant le support de la pensée humaine, son influence sur le niveau d’intelligence semble une...]]></description>
+            <pubDate>Sun, 06 Sep 2026 10:17:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-langage-ultime-existe-t-il-il-pourrait-transformer-notre-intelligence-celle-ia-137486/</guid>
+            <source>Futura</source>
         </item>
         <item>
             <title>Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction</title>
@@ -59,14 +67,6 @@
             <pubDate>Wed, 29 Jul 2026 23:31:41 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=DATnpGoGhM8</guid>
             <source>Stanford Online</source>
-        </item>
-        <item>
-            <title>Leçon 5 - Descente de gradient - Cours Complet de Deep Learning</title>
-            <link>https://www.youtube.com/watch?v=M0HnsiK4hgo</link>
-            <description><![CDATA[Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...]]></description>
-            <pubDate>Wed, 15 Jul 2026 16:14:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=M0HnsiK4hgo</guid>
-            <source>Rafa Explique</source>
         </item>
         <item>
             <title>JAX Automatic Differentiation – Régression simple, descente de gradient (Python)</title>
@@ -93,14 +93,6 @@
             <source>Jeune Financier Africain </source>
         </item>
         <item>
-            <title>Bitbybit Studio : 25 millions de lignes revendiquées</title>
-            <link>https://www.zataz.com/bitbybit-studio-25-millions-de-lignes-revendiquees/</link>
-            <description><![CDATA[Bitbybit Studio visé par une fuite revendiquée de 25 millions de lignes mêlant données personnelles et messages IA.]]></description>
-            <pubDate>Sat, 05 Sep 2026 08:36:17 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zataz.com/bitbybit-studio-25-millions-de-lignes-revendiquees/</guid>
-            <source>Zataz.com</source>
-        </item>
-        <item>
             <title>Comment créer un tableau de bord RH sur Power BI ?</title>
             <link>https://www.youtube.com/watch?v=v0Z8TMkAbaE</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
@@ -117,20 +109,12 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Avec la hausse du prix des carburants, une voiture essence coûte désormais trois fois plus cher chaque mois qu'un véhicule électrique</title>
-            <link>https://www.franceinfo.fr/economie/automobile/essence/les-automobilistes-qui-roulent-a-l-essence-payent-desormais-chaque-mois-le-triple-de-ce-que-payent-ceux-qui-roulent-a-l-electrique_8178377.html</link>
-            <description><![CDATA[Selon la plateforme Roole Data, spécialiste de l'exploitation des données publiques concernant l'automobile, le coût mensuel du carburant pour une voiture à essence a bondi de 25 euros au cours du pre...]]></description>
-            <pubDate>Sat, 05 Sep 2026 05:51:27 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/economie/automobile/essence/les-automobilistes-qui-roulent-a-l-essence-payent-desormais-chaque-mois-le-triple-de-ce-que-payent-ceux-qui-roulent-a-l-electrique_8178377.html</guid>
-            <source>Franceinfo.fr</source>
-        </item>
-        <item>
-            <title>Comment le Soleil propulse-t-il le vent solaire à des vitesses supersoniques ?</title>
-            <link>https://www.generation-nt.com/actualites/soleil-vent-solaire-solar-orbiter-champ-magnetique-2080409</link>
-            <description><![CDATA[Basée sur les données de la sonde Solar Orbiter, une étude offre une vue inédite de la nappe de courant héliosphérique. Les chercheurs ont découvert une variation de composition chimique qui pourrait ...]]></description>
-            <pubDate>Sat, 05 Sep 2026 06:10:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/soleil-vent-solaire-solar-orbiter-champ-magnetique-2080409</guid>
-            <source>Génération NT</source>
+            <title>Des peuples ancestraux d’Alaska et d’Australie s’associent pour suivre les puffins durant leur migration</title>
+            <link>https://www.courrierinternational.com/article/environnement-des-peuples-ancestraux-d-alaska-et-d-australie-s-associent-pour-suivre-les-puffins-durant-leur-migration_244875</link>
+            <description><![CDATA[Un projet de recherche combinant analyse scientifique, écologie, et savoirs ancestraux permet de récolter des données sur les étapes, mais aussi l’écosystème global, des puffins à bec grêle durant leu...]]></description>
+            <pubDate>Sun, 06 Sep 2026 09:40:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.courrierinternational.com/article/environnement-des-peuples-ancestraux-d-alaska-et-d-australie-s-associent-pour-suivre-les-puffins-durant-leur-migration_244875</guid>
+            <source>Courrier International</source>
         </item>
         <item>
             <title>Nettoyage et préparation de jeux de données (Pyhton, Excel, Copilote)</title>
@@ -141,6 +125,14 @@
             <source>GOJAMBAR</source>
         </item>
         <item>
+            <title>Un canon à micro-ondes pour protéger les futurs data centers en orbite des satellites espions</title>
+            <link>https://www.numerama.com/tech/2322197-des-data-centers-dans-lespace-seront-proteges-par-des-armes-a-micro-ondes-pour-griller-les-satellites-trop-curieux.html</link>
+            <description><![CDATA[Une startup polonaise veut équiper des satellites de stockage de données d'un canon à micro-ondes censé griller l'électronique des engins qui s'en approchent de trop près.]]></description>
+            <pubDate>Sun, 06 Sep 2026 13:02:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/tech/2322197-des-data-centers-dans-lespace-seront-proteges-par-des-armes-a-micro-ondes-pour-griller-les-satellites-trop-curieux.html</guid>
+            <source>Numerama</source>
+        </item>
+        <item>
             <title>Introduction | SQL - EP1</title>
             <link>https://www.youtube.com/watch?v=QXaOjeucWgI</link>
             <description><![CDATA[Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...]]></description>
@@ -149,28 +141,36 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>CareCloud : 3,75 millions de victimes après une cyberattaque</title>
-            <link>https://www.zataz.com/carecloud-375-millions-de-victimes-apres-une-cyberattaque/</link>
-            <description><![CDATA[CareCloud confirme le vol de données médicales et personnelles concernant plus de 3,75 millions de personnes.]]></description>
-            <pubDate>Sat, 05 Sep 2026 08:02:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zataz.com/carecloud-375-millions-de-victimes-apres-une-cyberattaque/</guid>
-            <source>Zataz.com</source>
-        </item>
-        <item>
-            <title>Actualité : Montres connectées : l’énorme erreur sur vos calories brûlées, une donnée en manque de fiabilité, peu importe la marque</title>
-            <link>https://www.lesnumeriques.com/montre-connectee/montres-connectees-l-enorme-erreur-sur-vos-calories-brulees-une-donnee-en-manque-de-fiabilite-peu-importe-la-marque-n261371.html</link>
-            <description><![CDATA[Vous regardez souvent les calories affichées par votre montre connectée après le sport, idéale pour se fixer un objectif ? Mauvaise nouvelle : une nouvelle étude scientifique démontre que ces chiffres...]]></description>
-            <pubDate>Fri, 04 Sep 2026 10:42:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/montre-connectee/montres-connectees-l-enorme-erreur-sur-vos-calories-brulees-une-donnee-en-manque-de-fiabilite-peu-importe-la-marque-n261371.html</guid>
+            <title>Actualité : Les chauffages et purificateurs Dreo affichent la qualité de l'air en couleurs</title>
+            <link>https://www.lesnumeriques.com/divers-electromenager/les-chauffages-et-purificateurs-dreo-affichent-la-qualite-de-l-air-en-couleurs-n261383.html</link>
+            <description><![CDATA[À l'IFA 2026, Dreo présente le purificateur 530S, un futur système chargé de coordonner ses appareils et deux technologies de chauffage. Une offensive hivernale où l'intelligence artificielle est, ell...]]></description>
+            <pubDate>Sun, 06 Sep 2026 11:13:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/divers-electromenager/les-chauffages-et-purificateurs-dreo-affichent-la-qualite-de-l-air-en-couleurs-n261383.html</guid>
             <source>Les Numériques</source>
         </item>
         <item>
-            <title>Paris. « 18 flashs en 4 minutes 39 » : un radar suspendu après de « grosses difficultés techniques » et un tollé</title>
-            <link>https://www.ledauphine.com/transport/2026/09/04/18-flashs-en-4-minutes-39-un-radar-suspendu-apres-de-grosses-difficultes-techniques-et-un-tolle</link>
-            <description><![CDATA[L'association 40 millions d'automobilistes avait réclamé jeudi la suspension de ce radar de chantier réglé à 30 km/h sur le périphérique parisien. Les amendes vont être annulées.]]></description>
-            <pubDate>Fri, 04 Sep 2026 17:15:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.ledauphine.com/transport/2026/09/04/18-flashs-en-4-minutes-39-un-radar-suspendu-apres-de-grosses-difficultes-techniques-et-un-tolle</guid>
-            <source>Le Dauphiné Libéré</source>
+            <title>Révolutionnaire ? Dyson lance une brosse à dents qui filme votre bouche dans les moindres détails : “Cela ne remplace pas une visite chez le dentiste”</title>
+            <link>https://www.dhnet.be/conso/consommation/2026/09/06/revolutionnaire-dyson-lance-une-brosse-a-dents-qui-filme-votre-bouche-dans-les-moindres-details-cela-ne-remplace-pas-une-visite-chez-le-dentiste-NHWQ2SLNRNDLLHHYLLJAYBZSKM/</link>
+            <description><![CDATA[Avec une caméra et un jet de bain de bouche piloté par intelligence artificielle, Dyson veut réunir brossage et nettoyage interdentaire. Une innovation spectaculaire, vendue 479 euros, dont l’efficaci...]]></description>
+            <pubDate>Sun, 06 Sep 2026 11:35:21 -0000</pubDate>
+            <guid isPermaLink="true">https://www.dhnet.be/conso/consommation/2026/09/06/revolutionnaire-dyson-lance-une-brosse-a-dents-qui-filme-votre-bouche-dans-les-moindres-details-cela-ne-remplace-pas-une-visite-chez-le-dentiste-NHWQ2SLNRNDLLHHYLLJAYBZSKM/</guid>
+            <source>dh.be</source>
+        </item>
+        <item>
+            <title>Comprendre les RAG – De la Théorie au Code en 1H</title>
+            <link>https://www.youtube.com/watch?v=jM3lgl2SsY8</link>
+            <description><![CDATA[Dans cette vidéo, on va parler de RAG, pour Retrieval-Augmented Generation, et voir comment donner à un LLM accès à des ...]]></description>
+            <pubDate>Thu, 13 Aug 2026 18:24:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=jM3lgl2SsY8</guid>
+            <source>obarrene</source>
+        </item>
+        <item>
+            <title>Médias : les 10 choses à retenir de l’été 2026</title>
+            <link>https://www.meta-media.fr/2026/09/05/medias-les-10-choses-a-retenir-de-lete-2026.html</link>
+            <description><![CDATA[Entre l’onde de choc des AI Overviews qui assèchent le trafic web, l’avènement d’un monde post-littéraire et d’une écriture formatée à l’IA, le déclin mesurable de la parole et la grande fatigue face ...]]></description>
+            <pubDate>Sat, 05 Sep 2026 06:39:56 -0000</pubDate>
+            <guid isPermaLink="true">https://www.meta-media.fr/2026/09/05/medias-les-10-choses-a-retenir-de-lete-2026.html</guid>
+            <source>Meta-media.fr</source>
         </item>
     </channel>
 </rss>
