@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-07T14:06:15.518996",
+  "lastUpdate": "2026-09-08T12:43:41.964585",
   "articles": [
     {
       "title": "ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)",
@@ -38,11 +38,11 @@
       "thumbnail": "https://i.ytimg.com/vi/4km3oLGe-iQ/hqdefault.jpg"
     },
     {
-      "title": "L’IA que ChatGPT nous a fait oublier",
-      "description": "Après quelques années passées à nous émerveiller devant des machines qui ont appris à nous parler, il serait donc bon de nous rappeler toutes celles qui avaient déjà appris à écouter les machines… ...",
-      "url": "https://www.lalibre.be/economie/digital/2026/09/05/lia-que-chatgpt-nous-a-fait-oublier-W4ZECZ5SAFEOBBGSVVL7RSPYC4/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-09-05T14:03:03Z",
+      "title": "Étrange coïncidence : pourquoi ChatGPT, Claude et Grok sont-ils tombés en panne en même temps ?",
+      "description": "La panne brutale d’un chatbot, ça arrive, ça ne prévient pas. En revanche, cela surprend et questionne lorsque trois IA, indépendantes les unes des autres, tombent en panne en même temps. C’est ce qui...",
+      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-etrange-coincidence-chatgpt-claude-grok-sont-ils-tombes-panne-meme-temps-137572/",
+      "source": "Futura",
+      "publishedAt": "2026-09-07T12:41:39Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -62,11 +62,11 @@
       "thumbnail": "https://i.ytimg.com/vi/dIuLrxn3ViE/hqdefault.jpg"
     },
     {
-      "title": "Le langage ultime existe-t-il ? Il pourrait transformer notre intelligence et celle des IA",
-      "description": "Le succès des IA génératives est basé sur les grands modèles de langage (Large Language Models). Le langage étant le support de la pensée humaine, son influence sur le niveau d’intelligence semble une...",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-langage-ultime-existe-t-il-il-pourrait-transformer-notre-intelligence-celle-ia-137486/",
-      "source": "Futura",
-      "publishedAt": "2026-09-06T10:17:47Z",
+      "title": "UST et Italdesign associent design, ingénierie et intelligence artificielle pour façonner l'avenir de la mobilité",
+      "description": "UST acquiert une participation majoritaire dans Italdesign afin d'allier l'héritage emblématique d'Italdesign en matière de design et d'ingénierie aux capacités d'UST dans les domaines de l'intelligen...",
+      "url": "https://www.prnewswire.com/news-releases/ust-et-italdesign-associent-design-ingenierie-et-intelligence-artificielle-pour-faconner-lavenir-de-la-mobilite-302871229.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-07T09:30:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -86,16 +86,28 @@
       "thumbnail": "https://i.ytimg.com/vi/DATnpGoGhM8/hqdefault.jpg"
     },
     {
-      "title": "JAX Automatic Differentiation – Régression simple, descente de gradient (Python)",
-      "description": "Machine learning. Data science. JAX est une bibliothèque de calcul numérique « à la Numpy » permettant de manipuler les ...",
-      "url": "https://www.youtube.com/watch?v=LKtwwn-W6iM",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-07-20T08:19:53Z",
+      "title": "Leçon 5 - Descente de gradient - Cours Complet de Deep Learning",
+      "description": "Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...",
+      "url": "https://www.youtube.com/watch?v=M0HnsiK4hgo",
+      "source": "Rafa Explique",
+      "publishedAt": "2026-07-15T16:14:00Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "LKtwwn-W6iM",
-      "thumbnail": "https://i.ytimg.com/vi/LKtwwn-W6iM/hqdefault.jpg"
+      "videoId": "M0HnsiK4hgo",
+      "thumbnail": "https://i.ytimg.com/vi/M0HnsiK4hgo/hqdefault.jpg"
+    },
+    {
+      "title": "Machine Learning: Como as Máquinas APRENDEM Sozinhas? 🤖 Entenda de Uma Vez!",
+      "description": "Você sabe o que é Machine Learning e como uma máquina consegue “aprender”? Neste vídeo da PowerSystem, você vai ...",
+      "url": "https://www.youtube.com/watch?v=1AqvTMEDypo",
+      "source": "POWER SYSTEM TI",
+      "publishedAt": "2026-08-28T15:30:25Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1AqvTMEDypo",
+      "thumbnail": "https://i.ytimg.com/vi/1AqvTMEDypo/hqdefault.jpg"
     },
     {
       "title": "Machine Learning vs Deep Learning : Elle explique en détails",
@@ -108,18 +120,6 @@
       "isYouTube": true,
       "videoId": "Ys1DwlL0yJs",
       "thumbnail": "https://i.ytimg.com/vi/Ys1DwlL0yJs/hqdefault.jpg"
-    },
-    {
-      "title": "Cours complet sur Power BI pour débutant",
-      "description": "Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...",
-      "url": "https://www.youtube.com/watch?v=uJeUP8Z9LsQ",
-      "source": "Jeune Financier Africain ",
-      "publishedAt": "2026-08-25T17:46:11Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "uJeUP8Z9LsQ",
-      "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
     },
     {
       "title": "Comment créer un tableau de bord RH sur Power BI ?",
@@ -146,18 +146,6 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
-      "title": "Des peuples ancestraux d’Alaska et d’Australie s’associent pour suivre les puffins durant leur migration",
-      "description": "Un projet de recherche combinant analyse scientifique, écologie, et savoirs ancestraux permet de récolter des données sur les étapes, mais aussi l’écosystème global, des puffins à bec grêle durant leu...",
-      "url": "https://www.courrierinternational.com/article/environnement-des-peuples-ancestraux-d-alaska-et-d-australie-s-associent-pour-suivre-les-puffins-durant-leur-migration_244875",
-      "source": "Courrier International",
-      "publishedAt": "2026-09-06T09:40:11Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Nettoyage et préparation de jeux de données (Pyhton, Excel, Copilote)",
       "description": "Dans ce tutoriel complet, apprenez à automatiser le nettoyage et la préparation de vos jeux de données géographiques en ...",
       "url": "https://www.youtube.com/watch?v=OrI-pLVY96Q",
@@ -170,11 +158,11 @@
       "thumbnail": "https://i.ytimg.com/vi/OrI-pLVY96Q/hqdefault.jpg"
     },
     {
-      "title": "Un canon à micro-ondes pour protéger les futurs data centers en orbite des satellites espions",
-      "description": "Une startup polonaise veut équiper des satellites de stockage de données d'un canon à micro-ondes censé griller l'électronique des engins qui s'en approchent de trop près.",
-      "url": "https://www.numerama.com/tech/2322197-des-data-centers-dans-lespace-seront-proteges-par-des-armes-a-micro-ondes-pour-griller-les-satellites-trop-curieux.html",
-      "source": "Numerama",
-      "publishedAt": "2026-09-06T13:02:00Z",
+      "title": "Gmail : voilà l'ampleur de ce que l’IA de Google scanne désormais par défaut dans vos mails et pièces jointes",
+      "description": "Gmail analyse les e-mails et leurs pièces jointes pour lutter contre le spam, le phishing ou proposer des fonctionnalités intelligentes. Avec l’essor de Gemini, la question de la confidentialité prend...",
+      "url": "https://atlantico.fr/article/rdv/gmail-voila-ampleur-de-ce-que-ia-de-google-scanne-desormais-par-defaut-dans-vos-mails-et-pieces-jointes-intelligence-artificielle-donnees-personnelles-banque-sante-impots-entreprises-phishing-cyberattaques-piratage-Frederic-Mouffle",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-09-07T08:56:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -194,11 +182,35 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Actualité : Les chauffages et purificateurs Dreo affichent la qualité de l'air en couleurs",
-      "description": "À l'IFA 2026, Dreo présente le purificateur 530S, un futur système chargé de coordonner ses appareils et deux technologies de chauffage. Une offensive hivernale où l'intelligence artificielle est, ell...",
-      "url": "https://www.lesnumeriques.com/divers-electromenager/les-chauffages-et-purificateurs-dreo-affichent-la-qualite-de-l-air-en-couleurs-n261383.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-09-06T11:13:00Z",
+      "title": "Pourquoi les données sur la fraude sont un moteur de croissance pour les annonceurs",
+      "description": "ROI, ROAS, CPA : ces indicateurs ne valent que s'ils reflètent le comportement authentique des utilisateurs.",
+      "url": "https://www.journaldunet.com/adtech/1554239-pourquoi-les-donnees-sur-la-fraude-sont-un-moteur-de-croissance-pour-les-annonceurs/",
+      "source": "JDN",
+      "publishedAt": "2026-09-07T11:31:59Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Des robots plus rapides qu'Usain Bolt ? Parfait pour le champ de bataille, ironise la Chine",
+      "description": "Derrière les images virales de robots trébuchant aux World Humanoid Robot Games de Pékin se cache une réalité bien plus menaçante. La Chine n'organise pas un simple spectacle technologique, elle prépa...",
+      "url": "https://www.generation-nt.com/actualites/robot-developpement-competence-militaire-2080719",
+      "source": "Génération NT",
+      "publishedAt": "2026-09-07T08:20:01Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Aussi utile que dangereuse : la sécurité de l’IA se décide entre Washington et Pékin (en oubliant la France et l’Europe)",
+      "description": "Les États-Unis et la Chine, qui dominent le marché de l’intelligence artificielle, prévoiraient des discussions sur la sécurité de cette technologie, alors que les incidents se multiplient. Washington...",
+      "url": "https://www.presse-citron.net/aussi-utile-que-dangereuse-la-securite-de-lia-se-decide-entre-washington-et-pekin-en-oubliant-la-france-et-leurope/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-09-07T11:31:34Z",
       "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,35 +218,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Révolutionnaire ? Dyson lance une brosse à dents qui filme votre bouche dans les moindres détails : “Cela ne remplace pas une visite chez le dentiste”",
-      "description": "Avec une caméra et un jet de bain de bouche piloté par intelligence artificielle, Dyson veut réunir brossage et nettoyage interdentaire. Une innovation spectaculaire, vendue 479 euros, dont l’efficaci...",
-      "url": "https://www.dhnet.be/conso/consommation/2026/09/06/revolutionnaire-dyson-lance-une-brosse-a-dents-qui-filme-votre-bouche-dans-les-moindres-details-cela-ne-remplace-pas-une-visite-chez-le-dentiste-NHWQ2SLNRNDLLHHYLLJAYBZSKM/",
-      "source": "dh.be",
-      "publishedAt": "2026-09-06T11:35:21Z",
-      "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comprendre les RAG – De la Théorie au Code en 1H",
-      "description": "Dans cette vidéo, on va parler de RAG, pour Retrieval-Augmented Generation, et voir comment donner à un LLM accès à des ...",
-      "url": "https://www.youtube.com/watch?v=jM3lgl2SsY8",
-      "source": "obarrene",
-      "publishedAt": "2026-08-13T18:24:09Z",
+      "title": "Argent. Un premier paiement par IA : à quoi ça sert, quels risques... cinq questions pour comprendre",
+      "description": "Revolut et Visa ont annoncé ce lundi avoir réalisé, en France, une première transaction initiée par un agent d’intelligence artificielle. Une expérimentation qui ouvre la voie à une nouvelle étape du ...",
+      "url": "https://www.ledauphine.com/science-et-technologie/2026/09/07/un-premier-paiement-par-ia-a-quoi-ca-sert-quels-risques-cinq-questions-pour-comprendre",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-09-07T10:43:00Z",
       "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "jM3lgl2SsY8",
-      "thumbnail": "https://i.ytimg.com/vi/jM3lgl2SsY8/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "Médias : les 10 choses à retenir de l’été 2026",
-      "description": "Entre l’onde de choc des AI Overviews qui assèchent le trafic web, l’avènement d’un monde post-littéraire et d’une écriture formatée à l’IA, le déclin mesurable de la parole et la grande fatigue face ...",
-      "url": "https://www.meta-media.fr/2026/09/05/medias-les-10-choses-a-retenir-de-lete-2026.html",
-      "source": "Meta-media.fr",
-      "publishedAt": "2026-09-05T06:39:56Z",
+      "title": "Un problème avec votre iPhone ? Le nouveau chatbot de l’app Assistance Apple tente de vous dépanner",
+      "description": "En cas de pépin avec votre iPhone ou votre Mac, l’application Assistance Apple dispose d’une nouvelle corde à son arc. En plus de donner accès à la documentation d’Apple, elle intègre désormais un cha...",
+      "url": "https://www.igen.fr/app-store/2026/09/un-probleme-avec-votre-iphone-le-nouveau-chatbot-de-lapp-assistance-apple-tente-de-vous-depanner-157855",
+      "source": "iGeneration",
+      "publishedAt": "2026-09-07T11:17:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -247,6 +247,18 @@
       "url": "https://www.challenges.fr/entreprise/telecoms/xavier-niel-la-recrutee-sur-linkedin-aude-durand-la-stratege-qui-pilote-loffensive-ia-diliad_645539",
       "source": "Challenges",
       "publishedAt": "2026-09-06T07:00:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Xiaomi 18 Fold : les détails techniques les plus marquants",
+      "description": "Le Xiaomi 18 Fold a été officiellement présenté en Chine. Le smartphone pliable au format passeport a quelques beaux atouts à mettre en avant. Xiaomi 18",
+      "url": "https://www.frandroid.com/marques/xiaomi/3236359_xiaomi-18-fold-les-details-techniques-les-plus-marquants",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-07T12:06:34Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

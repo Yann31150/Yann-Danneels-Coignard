@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 07 Sep 2026 14:06:15 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 12:43:41 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -37,12 +37,12 @@
             <source>Yassine Sdiri</source>
         </item>
         <item>
-            <title>L’IA que ChatGPT nous a fait oublier</title>
-            <link>https://www.lalibre.be/economie/digital/2026/09/05/lia-que-chatgpt-nous-a-fait-oublier-W4ZECZ5SAFEOBBGSVVL7RSPYC4/</link>
-            <description><![CDATA[Après quelques années passées à nous émerveiller devant des machines qui ont appris à nous parler, il serait donc bon de nous rappeler toutes celles qui avaient déjà appris à écouter les machines… ...]]></description>
-            <pubDate>Sat, 05 Sep 2026 14:03:03 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lalibre.be/economie/digital/2026/09/05/lia-que-chatgpt-nous-a-fait-oublier-W4ZECZ5SAFEOBBGSVVL7RSPYC4/</guid>
-            <source>Lalibre.be</source>
+            <title>Étrange coïncidence : pourquoi ChatGPT, Claude et Grok sont-ils tombés en panne en même temps ?</title>
+            <link>https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-etrange-coincidence-chatgpt-claude-grok-sont-ils-tombes-panne-meme-temps-137572/</link>
+            <description><![CDATA[La panne brutale d’un chatbot, ça arrive, ça ne prévient pas. En revanche, cela surprend et questionne lorsque trois IA, indépendantes les unes des autres, tombent en panne en même temps. C’est ce qui...]]></description>
+            <pubDate>Mon, 07 Sep 2026 12:41:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-etrange-coincidence-chatgpt-claude-grok-sont-ils-tombes-panne-meme-temps-137572/</guid>
+            <source>Futura</source>
         </item>
         <item>
             <title>Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker</title>
@@ -53,12 +53,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Le langage ultime existe-t-il ? Il pourrait transformer notre intelligence et celle des IA</title>
-            <link>https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-langage-ultime-existe-t-il-il-pourrait-transformer-notre-intelligence-celle-ia-137486/</link>
-            <description><![CDATA[Le succès des IA génératives est basé sur les grands modèles de langage (Large Language Models). Le langage étant le support de la pensée humaine, son influence sur le niveau d’intelligence semble une...]]></description>
-            <pubDate>Sun, 06 Sep 2026 10:17:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-langage-ultime-existe-t-il-il-pourrait-transformer-notre-intelligence-celle-ia-137486/</guid>
-            <source>Futura</source>
+            <title>UST et Italdesign associent design, ingénierie et intelligence artificielle pour façonner l'avenir de la mobilité</title>
+            <link>https://www.prnewswire.com/news-releases/ust-et-italdesign-associent-design-ingenierie-et-intelligence-artificielle-pour-faconner-lavenir-de-la-mobilite-302871229.html</link>
+            <description><![CDATA[UST acquiert une participation majoritaire dans Italdesign afin d'allier l'héritage emblématique d'Italdesign en matière de design et d'ingénierie aux capacités d'UST dans les domaines de l'intelligen...]]></description>
+            <pubDate>Mon, 07 Sep 2026 09:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/ust-et-italdesign-associent-design-ingenierie-et-intelligence-artificielle-pour-faconner-lavenir-de-la-mobilite-302871229.html</guid>
+            <source>PRNewswire</source>
         </item>
         <item>
             <title>Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction</title>
@@ -69,12 +69,20 @@
             <source>Stanford Online</source>
         </item>
         <item>
-            <title>JAX Automatic Differentiation – Régression simple, descente de gradient (Python)</title>
-            <link>https://www.youtube.com/watch?v=LKtwwn-W6iM</link>
-            <description><![CDATA[Machine learning. Data science. JAX est une bibliothèque de calcul numérique « à la Numpy » permettant de manipuler les ...]]></description>
-            <pubDate>Mon, 20 Jul 2026 08:19:53 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=LKtwwn-W6iM</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
+            <title>Leçon 5 - Descente de gradient - Cours Complet de Deep Learning</title>
+            <link>https://www.youtube.com/watch?v=M0HnsiK4hgo</link>
+            <description><![CDATA[Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...]]></description>
+            <pubDate>Wed, 15 Jul 2026 16:14:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=M0HnsiK4hgo</guid>
+            <source>Rafa Explique</source>
+        </item>
+        <item>
+            <title>Machine Learning: Como as Máquinas APRENDEM Sozinhas? 🤖 Entenda de Uma Vez!</title>
+            <link>https://www.youtube.com/watch?v=1AqvTMEDypo</link>
+            <description><![CDATA[Você sabe o que é Machine Learning e como uma máquina consegue “aprender”? Neste vídeo da PowerSystem, você vai ...]]></description>
+            <pubDate>Fri, 28 Aug 2026 15:30:25 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1AqvTMEDypo</guid>
+            <source>POWER SYSTEM TI</source>
         </item>
         <item>
             <title>Machine Learning vs Deep Learning : Elle explique en détails</title>
@@ -83,14 +91,6 @@
             <pubDate>Mon, 24 Aug 2026 13:00:54 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Ys1DwlL0yJs</guid>
             <source>Horizon IA</source>
-        </item>
-        <item>
-            <title>Cours complet sur Power BI pour débutant</title>
-            <link>https://www.youtube.com/watch?v=uJeUP8Z9LsQ</link>
-            <description><![CDATA[Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...]]></description>
-            <pubDate>Tue, 25 Aug 2026 17:46:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=uJeUP8Z9LsQ</guid>
-            <source>Jeune Financier Africain </source>
         </item>
         <item>
             <title>Comment créer un tableau de bord RH sur Power BI ?</title>
@@ -109,14 +109,6 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Des peuples ancestraux d’Alaska et d’Australie s’associent pour suivre les puffins durant leur migration</title>
-            <link>https://www.courrierinternational.com/article/environnement-des-peuples-ancestraux-d-alaska-et-d-australie-s-associent-pour-suivre-les-puffins-durant-leur-migration_244875</link>
-            <description><![CDATA[Un projet de recherche combinant analyse scientifique, écologie, et savoirs ancestraux permet de récolter des données sur les étapes, mais aussi l’écosystème global, des puffins à bec grêle durant leu...]]></description>
-            <pubDate>Sun, 06 Sep 2026 09:40:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.courrierinternational.com/article/environnement-des-peuples-ancestraux-d-alaska-et-d-australie-s-associent-pour-suivre-les-puffins-durant-leur-migration_244875</guid>
-            <source>Courrier International</source>
-        </item>
-        <item>
             <title>Nettoyage et préparation de jeux de données (Pyhton, Excel, Copilote)</title>
             <link>https://www.youtube.com/watch?v=OrI-pLVY96Q</link>
             <description><![CDATA[Dans ce tutoriel complet, apprenez à automatiser le nettoyage et la préparation de vos jeux de données géographiques en ...]]></description>
@@ -125,12 +117,12 @@
             <source>GOJAMBAR</source>
         </item>
         <item>
-            <title>Un canon à micro-ondes pour protéger les futurs data centers en orbite des satellites espions</title>
-            <link>https://www.numerama.com/tech/2322197-des-data-centers-dans-lespace-seront-proteges-par-des-armes-a-micro-ondes-pour-griller-les-satellites-trop-curieux.html</link>
-            <description><![CDATA[Une startup polonaise veut équiper des satellites de stockage de données d'un canon à micro-ondes censé griller l'électronique des engins qui s'en approchent de trop près.]]></description>
-            <pubDate>Sun, 06 Sep 2026 13:02:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/tech/2322197-des-data-centers-dans-lespace-seront-proteges-par-des-armes-a-micro-ondes-pour-griller-les-satellites-trop-curieux.html</guid>
-            <source>Numerama</source>
+            <title>Gmail : voilà l'ampleur de ce que l’IA de Google scanne désormais par défaut dans vos mails et pièces jointes</title>
+            <link>https://atlantico.fr/article/rdv/gmail-voila-ampleur-de-ce-que-ia-de-google-scanne-desormais-par-defaut-dans-vos-mails-et-pieces-jointes-intelligence-artificielle-donnees-personnelles-banque-sante-impots-entreprises-phishing-cyberattaques-piratage-Frederic-Mouffle</link>
+            <description><![CDATA[Gmail analyse les e-mails et leurs pièces jointes pour lutter contre le spam, le phishing ou proposer des fonctionnalités intelligentes. Avec l’essor de Gemini, la question de la confidentialité prend...]]></description>
+            <pubDate>Mon, 07 Sep 2026 08:56:00 -0000</pubDate>
+            <guid isPermaLink="true">https://atlantico.fr/article/rdv/gmail-voila-ampleur-de-ce-que-ia-de-google-scanne-desormais-par-defaut-dans-vos-mails-et-pieces-jointes-intelligence-artificielle-donnees-personnelles-banque-sante-impots-entreprises-phishing-cyberattaques-piratage-Frederic-Mouffle</guid>
+            <source>Atlantico.fr</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -141,36 +133,44 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Actualité : Les chauffages et purificateurs Dreo affichent la qualité de l'air en couleurs</title>
-            <link>https://www.lesnumeriques.com/divers-electromenager/les-chauffages-et-purificateurs-dreo-affichent-la-qualite-de-l-air-en-couleurs-n261383.html</link>
-            <description><![CDATA[À l'IFA 2026, Dreo présente le purificateur 530S, un futur système chargé de coordonner ses appareils et deux technologies de chauffage. Une offensive hivernale où l'intelligence artificielle est, ell...]]></description>
-            <pubDate>Sun, 06 Sep 2026 11:13:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/divers-electromenager/les-chauffages-et-purificateurs-dreo-affichent-la-qualite-de-l-air-en-couleurs-n261383.html</guid>
-            <source>Les Numériques</source>
+            <title>Pourquoi les données sur la fraude sont un moteur de croissance pour les annonceurs</title>
+            <link>https://www.journaldunet.com/adtech/1554239-pourquoi-les-donnees-sur-la-fraude-sont-un-moteur-de-croissance-pour-les-annonceurs/</link>
+            <description><![CDATA[ROI, ROAS, CPA : ces indicateurs ne valent que s'ils reflètent le comportement authentique des utilisateurs.]]></description>
+            <pubDate>Mon, 07 Sep 2026 11:31:59 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/adtech/1554239-pourquoi-les-donnees-sur-la-fraude-sont-un-moteur-de-croissance-pour-les-annonceurs/</guid>
+            <source>JDN</source>
         </item>
         <item>
-            <title>Révolutionnaire ? Dyson lance une brosse à dents qui filme votre bouche dans les moindres détails : “Cela ne remplace pas une visite chez le dentiste”</title>
-            <link>https://www.dhnet.be/conso/consommation/2026/09/06/revolutionnaire-dyson-lance-une-brosse-a-dents-qui-filme-votre-bouche-dans-les-moindres-details-cela-ne-remplace-pas-une-visite-chez-le-dentiste-NHWQ2SLNRNDLLHHYLLJAYBZSKM/</link>
-            <description><![CDATA[Avec une caméra et un jet de bain de bouche piloté par intelligence artificielle, Dyson veut réunir brossage et nettoyage interdentaire. Une innovation spectaculaire, vendue 479 euros, dont l’efficaci...]]></description>
-            <pubDate>Sun, 06 Sep 2026 11:35:21 -0000</pubDate>
-            <guid isPermaLink="true">https://www.dhnet.be/conso/consommation/2026/09/06/revolutionnaire-dyson-lance-une-brosse-a-dents-qui-filme-votre-bouche-dans-les-moindres-details-cela-ne-remplace-pas-une-visite-chez-le-dentiste-NHWQ2SLNRNDLLHHYLLJAYBZSKM/</guid>
-            <source>dh.be</source>
+            <title>Des robots plus rapides qu'Usain Bolt ? Parfait pour le champ de bataille, ironise la Chine</title>
+            <link>https://www.generation-nt.com/actualites/robot-developpement-competence-militaire-2080719</link>
+            <description><![CDATA[Derrière les images virales de robots trébuchant aux World Humanoid Robot Games de Pékin se cache une réalité bien plus menaçante. La Chine n'organise pas un simple spectacle technologique, elle prépa...]]></description>
+            <pubDate>Mon, 07 Sep 2026 08:20:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/robot-developpement-competence-militaire-2080719</guid>
+            <source>Génération NT</source>
         </item>
         <item>
-            <title>Comprendre les RAG – De la Théorie au Code en 1H</title>
-            <link>https://www.youtube.com/watch?v=jM3lgl2SsY8</link>
-            <description><![CDATA[Dans cette vidéo, on va parler de RAG, pour Retrieval-Augmented Generation, et voir comment donner à un LLM accès à des ...]]></description>
-            <pubDate>Thu, 13 Aug 2026 18:24:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=jM3lgl2SsY8</guid>
-            <source>obarrene</source>
+            <title>Aussi utile que dangereuse : la sécurité de l’IA se décide entre Washington et Pékin (en oubliant la France et l’Europe)</title>
+            <link>https://www.presse-citron.net/aussi-utile-que-dangereuse-la-securite-de-lia-se-decide-entre-washington-et-pekin-en-oubliant-la-france-et-leurope/</link>
+            <description><![CDATA[Les États-Unis et la Chine, qui dominent le marché de l’intelligence artificielle, prévoiraient des discussions sur la sécurité de cette technologie, alors que les incidents se multiplient. Washington...]]></description>
+            <pubDate>Mon, 07 Sep 2026 11:31:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/aussi-utile-que-dangereuse-la-securite-de-lia-se-decide-entre-washington-et-pekin-en-oubliant-la-france-et-leurope/</guid>
+            <source>Presse-citron</source>
         </item>
         <item>
-            <title>Médias : les 10 choses à retenir de l’été 2026</title>
-            <link>https://www.meta-media.fr/2026/09/05/medias-les-10-choses-a-retenir-de-lete-2026.html</link>
-            <description><![CDATA[Entre l’onde de choc des AI Overviews qui assèchent le trafic web, l’avènement d’un monde post-littéraire et d’une écriture formatée à l’IA, le déclin mesurable de la parole et la grande fatigue face ...]]></description>
-            <pubDate>Sat, 05 Sep 2026 06:39:56 -0000</pubDate>
-            <guid isPermaLink="true">https://www.meta-media.fr/2026/09/05/medias-les-10-choses-a-retenir-de-lete-2026.html</guid>
-            <source>Meta-media.fr</source>
+            <title>Argent. Un premier paiement par IA : à quoi ça sert, quels risques... cinq questions pour comprendre</title>
+            <link>https://www.ledauphine.com/science-et-technologie/2026/09/07/un-premier-paiement-par-ia-a-quoi-ca-sert-quels-risques-cinq-questions-pour-comprendre</link>
+            <description><![CDATA[Revolut et Visa ont annoncé ce lundi avoir réalisé, en France, une première transaction initiée par un agent d’intelligence artificielle. Une expérimentation qui ouvre la voie à une nouvelle étape du ...]]></description>
+            <pubDate>Mon, 07 Sep 2026 10:43:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.ledauphine.com/science-et-technologie/2026/09/07/un-premier-paiement-par-ia-a-quoi-ca-sert-quels-risques-cinq-questions-pour-comprendre</guid>
+            <source>Le Dauphiné Libéré</source>
+        </item>
+        <item>
+            <title>Un problème avec votre iPhone ? Le nouveau chatbot de l’app Assistance Apple tente de vous dépanner</title>
+            <link>https://www.igen.fr/app-store/2026/09/un-probleme-avec-votre-iphone-le-nouveau-chatbot-de-lapp-assistance-apple-tente-de-vous-depanner-157855</link>
+            <description><![CDATA[En cas de pépin avec votre iPhone ou votre Mac, l’application Assistance Apple dispose d’une nouvelle corde à son arc. En plus de donner accès à la documentation d’Apple, elle intègre désormais un cha...]]></description>
+            <pubDate>Mon, 07 Sep 2026 11:17:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.igen.fr/app-store/2026/09/un-probleme-avec-votre-iphone-le-nouveau-chatbot-de-lapp-assistance-apple-tente-de-vous-depanner-157855</guid>
+            <source>iGeneration</source>
         </item>
     </channel>
 </rss>
