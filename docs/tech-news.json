@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-08T12:43:41.964585",
+  "lastUpdate": "2026-09-09T12:49:42.796366",
   "articles": [
     {
       "title": "ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)",
@@ -38,18 +38,6 @@
       "thumbnail": "https://i.ytimg.com/vi/4km3oLGe-iQ/hqdefault.jpg"
     },
     {
-      "title": "Étrange coïncidence : pourquoi ChatGPT, Claude et Grok sont-ils tombés en panne en même temps ?",
-      "description": "La panne brutale d’un chatbot, ça arrive, ça ne prévient pas. En revanche, cela surprend et questionne lorsque trois IA, indépendantes les unes des autres, tombent en panne en même temps. C’est ce qui...",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-etrange-coincidence-chatgpt-claude-grok-sont-ils-tombes-panne-meme-temps-137572/",
-      "source": "Futura",
-      "publishedAt": "2026-09-07T12:41:39Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker",
       "description": "Machine learning. Data science. MLOps. Création d'une image docker encapsulant une base de données multi-tables (SQLite, ...",
       "url": "https://www.youtube.com/watch?v=dIuLrxn3ViE",
@@ -60,18 +48,6 @@
       "isYouTube": true,
       "videoId": "dIuLrxn3ViE",
       "thumbnail": "https://i.ytimg.com/vi/dIuLrxn3ViE/hqdefault.jpg"
-    },
-    {
-      "title": "UST et Italdesign associent design, ingénierie et intelligence artificielle pour façonner l'avenir de la mobilité",
-      "description": "UST acquiert une participation majoritaire dans Italdesign afin d'allier l'héritage emblématique d'Italdesign en matière de design et d'ingénierie aux capacités d'UST dans les domaines de l'intelligen...",
-      "url": "https://www.prnewswire.com/news-releases/ust-et-italdesign-associent-design-ingenierie-et-intelligence-artificielle-pour-faconner-lavenir-de-la-mobilite-302871229.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-09-07T09:30:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction",
@@ -86,28 +62,28 @@
       "thumbnail": "https://i.ytimg.com/vi/DATnpGoGhM8/hqdefault.jpg"
     },
     {
-      "title": "Leçon 5 - Descente de gradient - Cours Complet de Deep Learning",
-      "description": "Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...",
-      "url": "https://www.youtube.com/watch?v=M0HnsiK4hgo",
-      "source": "Rafa Explique",
-      "publishedAt": "2026-07-15T16:14:00Z",
+      "title": "JAX Automatic Differentiation – Régression simple, descente de gradient (Python)",
+      "description": "Machine learning. Data science. JAX est une bibliothèque de calcul numérique « à la Numpy » permettant de manipuler les ...",
+      "url": "https://www.youtube.com/watch?v=LKtwwn-W6iM",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-07-20T08:19:53Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "M0HnsiK4hgo",
-      "thumbnail": "https://i.ytimg.com/vi/M0HnsiK4hgo/hqdefault.jpg"
+      "videoId": "LKtwwn-W6iM",
+      "thumbnail": "https://i.ytimg.com/vi/LKtwwn-W6iM/hqdefault.jpg"
     },
     {
-      "title": "Machine Learning: Como as Máquinas APRENDEM Sozinhas? 🤖 Entenda de Uma Vez!",
-      "description": "Você sabe o que é Machine Learning e como uma máquina consegue “aprender”? Neste vídeo da PowerSystem, você vai ...",
-      "url": "https://www.youtube.com/watch?v=1AqvTMEDypo",
-      "source": "POWER SYSTEM TI",
-      "publishedAt": "2026-08-28T15:30:25Z",
+      "title": "GPT-6 Astra ouvre l'ère des IA capables d'apprendre nos métiers",
+      "description": "GPT-6 Astra marque le passage des IA conversationnelles aux agents capables d'exécuter des workflows professionnels complets. Un tournant pour les métiers ?",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1554489-gpt-6-astra-ouvre-l-ere-des-ia-capables-d-apprendre-nos-metiers/",
+      "source": "JDN",
+      "publishedAt": "2026-09-08T09:16:49Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1AqvTMEDypo",
-      "thumbnail": "https://i.ytimg.com/vi/1AqvTMEDypo/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Machine Learning vs Deep Learning : Elle explique en détails",
@@ -122,6 +98,42 @@
       "thumbnail": "https://i.ytimg.com/vi/Ys1DwlL0yJs/hqdefault.jpg"
     },
     {
+      "title": "Cours complet sur Power BI pour débutant",
+      "description": "Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...",
+      "url": "https://www.youtube.com/watch?v=uJeUP8Z9LsQ",
+      "source": "Jeune Financier Africain ",
+      "publishedAt": "2026-08-25T17:46:11Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "uJeUP8Z9LsQ",
+      "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
+    },
+    {
+      "title": "Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp; Claude Cowork",
+      "description": "Bienvenue dans le Jour 1 de cette formation complète consacrée à l'analyse des données avec Claude AI. Dans cette première ...",
+      "url": "https://www.youtube.com/watch?v=NURD13ukpQI",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-07-13T15:17:51Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "NURD13ukpQI",
+      "thumbnail": "https://i.ytimg.com/vi/NURD13ukpQI/hqdefault.jpg"
+    },
+    {
+      "title": "Bouygues Telecom : un forfait \"Mega BiG\" 250 Go à prix spécial pour les moins de 26 ans",
+      "description": "Vous avez moins de 26 ans et recherchez un forfait mobile sans engagement adapté aux usages intensifs et aux voyages internationaux ? Le forfait Mega BiG de Bouygues Telecom vous est dédié, avec 250 G...",
+      "url": "https://www.generation-nt.com/actualites/forfait-mobile-bouygues-telecom-mega-big-250-go-5g-moins-26-ans-international-voyage-europe-usa-canada-maroc-tunisie-suisse-2080761",
+      "source": "Génération NT",
+      "publishedAt": "2026-09-08T09:30:01Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Comment créer un tableau de bord RH sur Power BI ?",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=v0Z8TMkAbaE",
@@ -132,6 +144,18 @@
       "isYouTube": true,
       "videoId": "v0Z8TMkAbaE",
       "thumbnail": "https://i.ytimg.com/vi/v0Z8TMkAbaE/hqdefault.jpg"
+    },
+    {
+      "title": "Comment analyser vos données avec Claude Code | Formation Complète Claude pour Data Analyst de A à Z",
+      "description": "Bienvenue dans cette formation complète consacrée à l'analyse des données avec Claude. Vous comprendrez ce qu'est Claude ...",
+      "url": "https://www.youtube.com/watch?v=Z1Y41sOVWyQ",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-07-21T15:59:13Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Z1Y41sOVWyQ",
+      "thumbnail": "https://i.ytimg.com/vi/Z1Y41sOVWyQ/hqdefault.jpg"
     },
     {
       "title": "Langage DAX : le cours complet de A à Z | Formation Power BI",
@@ -158,11 +182,23 @@
       "thumbnail": "https://i.ytimg.com/vi/OrI-pLVY96Q/hqdefault.jpg"
     },
     {
-      "title": "Gmail : voilà l'ampleur de ce que l’IA de Google scanne désormais par défaut dans vos mails et pièces jointes",
-      "description": "Gmail analyse les e-mails et leurs pièces jointes pour lutter contre le spam, le phishing ou proposer des fonctionnalités intelligentes. Avec l’essor de Gemini, la question de la confidentialité prend...",
-      "url": "https://atlantico.fr/article/rdv/gmail-voila-ampleur-de-ce-que-ia-de-google-scanne-desormais-par-defaut-dans-vos-mails-et-pieces-jointes-intelligence-artificielle-donnees-personnelles-banque-sante-impots-entreprises-phishing-cyberattaques-piratage-Frederic-Mouffle",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-09-07T08:56:00Z",
+      "title": "L’érosion des fleuves arctiques bouleverse la science",
+      "description": "Les scientifiques doivent suivre les données, même lorsque celles-ci contredisent leurs certitudes absolues. Des chercheurs canadiens viennent d’en faire l’expérience directe en étudiant la dynamique ...",
+      "url": "https://www.fredzone.org/lerosion-des-fleuves-arctiques-bouleverse-la-science/",
+      "source": "FREDZONE",
+      "publishedAt": "2026-09-07T17:00:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Distraction passive, impact des chatbots : sous l’effondrement des scores, ce que révèle l’étude PISA 2025 sur l’IA et le numérique",
+      "description": "Le 8 septembre 2026, l'OCDE a publié son enquête PISA 2025. On y trouve notamment un tableau statistique inédit, le premier à mesurer l'usage scolaire de l'IA générative. 760 000 élèves, répartis dans...",
+      "url": "https://www.numerama.com/politique/2327619-distraction-passive-impact-des-chatbots-sous-leffondrement-des-scores-ce-que-revele-letude-pisa-2025-sur-lia-et-le-numerique.html",
+      "source": "Numerama",
+      "publishedAt": "2026-09-08T12:35:35Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -182,47 +218,47 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Pourquoi les données sur la fraude sont un moteur de croissance pour les annonceurs",
-      "description": "ROI, ROAS, CPA : ces indicateurs ne valent que s'ils reflètent le comportement authentique des utilisateurs.",
-      "url": "https://www.journaldunet.com/adtech/1554239-pourquoi-les-donnees-sur-la-fraude-sont-un-moteur-de-croissance-pour-les-annonceurs/",
+      "title": "Créé par l’IA, ce médicament pourrait inverser le vieillissement",
+      "description": "Des chercheurs ont constaté qu’un médicament par forcément prévu pour ça à l’origine avait un effet positif sur l’âge biologique des patients. Autrement dit : le traitement semble inverser le...",
+      "url": "https://www.phonandroid.com/cree-par-lia-ce-medicament-pourrait-inverser-le-vieillissement.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-09-08T10:11:16Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Un mathématicien accuse OpenAI d’avoir tenté de lui voler sa découverte sur un problème à un million de dollars",
+      "description": "Un mathématicien dit avoir approché la résolution d'un problème à un million de dollars avec l'aide de l'IA, celui concernant les fameuses équations de Navier-Stokes. Mais dans l'affaire, il pense que...",
+      "url": "https://www.numerama.com/tech/2327463-un-mathematicien-accuse-openai-davoir-tente-de-lui-voler-sa-decouverte-sur-un-probleme-a-un-million-de-dollars.html",
+      "source": "Numerama",
+      "publishedAt": "2026-09-08T11:20:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Actualité : Withings BeamO analyse désormais les bruits du cœur et des poumons grâce à l'IA",
+      "description": "Avec StethO Sense, Withings permet à son appareil de santé BeamO de faire analyser par une intelligence artificielle certains bruits cardiaques et pulmonaires. Nous avons assisté à une démonstration s...",
+      "url": "https://www.lesnumeriques.com/objet-connecte/withings-beamo-analyse-desormais-les-bruits-du-coeur-et-des-poumons-grace-a-l-ia-n261540.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-09-08T12:24:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Avec l'IA, le métier de veilleur a d'ores et déjà changé de dimension",
+      "description": "Désormais incontournable au sein des métiers de la veille, l'intelligence artificielle automatise les tâches répétitives et sécurise l'exploitation des connaissances grâce au RAG.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1554343-avec-l-ia-le-metier-de-veilleur-a-d-ores-et-deja-change-de-dimension/",
       "source": "JDN",
-      "publishedAt": "2026-09-07T11:31:59Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Des robots plus rapides qu'Usain Bolt ? Parfait pour le champ de bataille, ironise la Chine",
-      "description": "Derrière les images virales de robots trébuchant aux World Humanoid Robot Games de Pékin se cache une réalité bien plus menaçante. La Chine n'organise pas un simple spectacle technologique, elle prépa...",
-      "url": "https://www.generation-nt.com/actualites/robot-developpement-competence-militaire-2080719",
-      "source": "Génération NT",
-      "publishedAt": "2026-09-07T08:20:01Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Aussi utile que dangereuse : la sécurité de l’IA se décide entre Washington et Pékin (en oubliant la France et l’Europe)",
-      "description": "Les États-Unis et la Chine, qui dominent le marché de l’intelligence artificielle, prévoiraient des discussions sur la sécurité de cette technologie, alors que les incidents se multiplient. Washington...",
-      "url": "https://www.presse-citron.net/aussi-utile-que-dangereuse-la-securite-de-lia-se-decide-entre-washington-et-pekin-en-oubliant-la-france-et-leurope/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-09-07T11:31:34Z",
-      "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Argent. Un premier paiement par IA : à quoi ça sert, quels risques... cinq questions pour comprendre",
-      "description": "Revolut et Visa ont annoncé ce lundi avoir réalisé, en France, une première transaction initiée par un agent d’intelligence artificielle. Une expérimentation qui ouvre la voie à une nouvelle étape du ...",
-      "url": "https://www.ledauphine.com/science-et-technologie/2026/09/07/un-premier-paiement-par-ia-a-quoi-ca-sert-quels-risques-cinq-questions-pour-comprendre",
-      "source": "Le Dauphiné Libéré",
-      "publishedAt": "2026-09-07T10:43:00Z",
+      "publishedAt": "2026-09-08T09:22:45Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Un problème avec votre iPhone ? Le nouveau chatbot de l’app Assistance Apple tente de vous dépanner",
-      "description": "En cas de pépin avec votre iPhone ou votre Mac, l’application Assistance Apple dispose d’une nouvelle corde à son arc. En plus de donner accès à la documentation d’Apple, elle intègre désormais un cha...",
-      "url": "https://www.igen.fr/app-store/2026/09/un-probleme-avec-votre-iphone-le-nouveau-chatbot-de-lapp-assistance-apple-tente-de-vous-depanner-157855",
-      "source": "iGeneration",
-      "publishedAt": "2026-09-07T11:17:00Z",
+      "title": "CYBER DECEPTION : face aux agents IA offensifs, la cybersécurité apprend à mentir",
+      "description": "Pendant des décennies, la cybersécurité a cherché à identifier les attaquants, bloquer leurs mouvements et protéger les actifs critiques. L’arrivée de l’intelligence artificielle offensive pourrait pr...",
+      "url": "https://www.frenchweb.fr/cyber-deception-face-aux-agents-ia-offensifs-la-cybersecurite-apprend-a-mentir/462943",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-09-08T10:17:52Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,23 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Xavier Niel l’a recrutée sur LinkedIn : Aude Durand, la stratège qui pilote l’offensive IA d’Iliad",
-      "description": "40 DE MOINS DE 40 ANS. À seulement 34 ans, Aude Durand est devenue l’un des visages de la transformation du groupe de télécoms Iliad et conduit la stratégie IA du groupe. Elle appartient à cette génér...",
-      "url": "https://www.challenges.fr/entreprise/telecoms/xavier-niel-la-recrutee-sur-linkedin-aude-durand-la-stratege-qui-pilote-loffensive-ia-diliad_645539",
-      "source": "Challenges",
-      "publishedAt": "2026-09-06T07:00:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Xiaomi 18 Fold : les détails techniques les plus marquants",
-      "description": "Le Xiaomi 18 Fold a été officiellement présenté en Chine. Le smartphone pliable au format passeport a quelques beaux atouts à mettre en avant. Xiaomi 18",
-      "url": "https://www.frandroid.com/marques/xiaomi/3236359_xiaomi-18-fold-les-details-techniques-les-plus-marquants",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-07T12:06:34Z",
+      "title": "Une inconnue voilée devient malgré elle une star du web et se retrouve au cœur d’une bataille politique",
+      "description": "Une simple photo d'illustration s'est transformée en champ de bataille numérique. Celle d'une jeune femme voilée, saluée comme une icône de mode avant d'être détournée par un élu RN à l'aide de l'inte...",
+      "url": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/une-inconnue-voilee-devient-malgre-elle-une-star-du-web-et-se-retrouve-au-c-ur-d-une-bataille-politique_8160185.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-09-08T09:31:28Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

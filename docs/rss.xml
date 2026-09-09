@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 08 Sep 2026 12:43:41 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 12:49:42 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -37,28 +37,12 @@
             <source>Yassine Sdiri</source>
         </item>
         <item>
-            <title>Étrange coïncidence : pourquoi ChatGPT, Claude et Grok sont-ils tombés en panne en même temps ?</title>
-            <link>https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-etrange-coincidence-chatgpt-claude-grok-sont-ils-tombes-panne-meme-temps-137572/</link>
-            <description><![CDATA[La panne brutale d’un chatbot, ça arrive, ça ne prévient pas. En revanche, cela surprend et questionne lorsque trois IA, indépendantes les unes des autres, tombent en panne en même temps. C’est ce qui...]]></description>
-            <pubDate>Mon, 07 Sep 2026 12:41:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-etrange-coincidence-chatgpt-claude-grok-sont-ils-tombes-panne-meme-temps-137572/</guid>
-            <source>Futura</source>
-        </item>
-        <item>
             <title>Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker</title>
             <link>https://www.youtube.com/watch?v=dIuLrxn3ViE</link>
             <description><![CDATA[Machine learning. Data science. MLOps. Création d'une image docker encapsulant une base de données multi-tables (SQLite, ...]]></description>
             <pubDate>Thu, 30 Jul 2026 15:41:54 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=dIuLrxn3ViE</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>UST et Italdesign associent design, ingénierie et intelligence artificielle pour façonner l'avenir de la mobilité</title>
-            <link>https://www.prnewswire.com/news-releases/ust-et-italdesign-associent-design-ingenierie-et-intelligence-artificielle-pour-faconner-lavenir-de-la-mobilite-302871229.html</link>
-            <description><![CDATA[UST acquiert une participation majoritaire dans Italdesign afin d'allier l'héritage emblématique d'Italdesign en matière de design et d'ingénierie aux capacités d'UST dans les domaines de l'intelligen...]]></description>
-            <pubDate>Mon, 07 Sep 2026 09:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/ust-et-italdesign-associent-design-ingenierie-et-intelligence-artificielle-pour-faconner-lavenir-de-la-mobilite-302871229.html</guid>
-            <source>PRNewswire</source>
         </item>
         <item>
             <title>Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction</title>
@@ -69,20 +53,20 @@
             <source>Stanford Online</source>
         </item>
         <item>
-            <title>Leçon 5 - Descente de gradient - Cours Complet de Deep Learning</title>
-            <link>https://www.youtube.com/watch?v=M0HnsiK4hgo</link>
-            <description><![CDATA[Bienvenue dans cette formation complète en Deep Learning en français ! Dans cette série, vous apprendrez pas à pas à maîtriser ...]]></description>
-            <pubDate>Wed, 15 Jul 2026 16:14:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=M0HnsiK4hgo</guid>
-            <source>Rafa Explique</source>
+            <title>JAX Automatic Differentiation – Régression simple, descente de gradient (Python)</title>
+            <link>https://www.youtube.com/watch?v=LKtwwn-W6iM</link>
+            <description><![CDATA[Machine learning. Data science. JAX est une bibliothèque de calcul numérique « à la Numpy » permettant de manipuler les ...]]></description>
+            <pubDate>Mon, 20 Jul 2026 08:19:53 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=LKtwwn-W6iM</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Machine Learning: Como as Máquinas APRENDEM Sozinhas? 🤖 Entenda de Uma Vez!</title>
-            <link>https://www.youtube.com/watch?v=1AqvTMEDypo</link>
-            <description><![CDATA[Você sabe o que é Machine Learning e como uma máquina consegue “aprender”? Neste vídeo da PowerSystem, você vai ...]]></description>
-            <pubDate>Fri, 28 Aug 2026 15:30:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1AqvTMEDypo</guid>
-            <source>POWER SYSTEM TI</source>
+            <title>GPT-6 Astra ouvre l'ère des IA capables d'apprendre nos métiers</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1554489-gpt-6-astra-ouvre-l-ere-des-ia-capables-d-apprendre-nos-metiers/</link>
+            <description><![CDATA[GPT-6 Astra marque le passage des IA conversationnelles aux agents capables d'exécuter des workflows professionnels complets. Un tournant pour les métiers ?]]></description>
+            <pubDate>Tue, 08 Sep 2026 09:16:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1554489-gpt-6-astra-ouvre-l-ere-des-ia-capables-d-apprendre-nos-metiers/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Machine Learning vs Deep Learning : Elle explique en détails</title>
@@ -93,12 +77,44 @@
             <source>Horizon IA</source>
         </item>
         <item>
+            <title>Cours complet sur Power BI pour débutant</title>
+            <link>https://www.youtube.com/watch?v=uJeUP8Z9LsQ</link>
+            <description><![CDATA[Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...]]></description>
+            <pubDate>Tue, 25 Aug 2026 17:46:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=uJeUP8Z9LsQ</guid>
+            <source>Jeune Financier Africain </source>
+        </item>
+        <item>
+            <title>Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp;amp; Claude Cowork</title>
+            <link>https://www.youtube.com/watch?v=NURD13ukpQI</link>
+            <description><![CDATA[Bienvenue dans le Jour 1 de cette formation complète consacrée à l'analyse des données avec Claude AI. Dans cette première ...]]></description>
+            <pubDate>Mon, 13 Jul 2026 15:17:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=NURD13ukpQI</guid>
+            <source>Oscar Aksanti</source>
+        </item>
+        <item>
+            <title>Bouygues Telecom : un forfait "Mega BiG" 250 Go à prix spécial pour les moins de 26 ans</title>
+            <link>https://www.generation-nt.com/actualites/forfait-mobile-bouygues-telecom-mega-big-250-go-5g-moins-26-ans-international-voyage-europe-usa-canada-maroc-tunisie-suisse-2080761</link>
+            <description><![CDATA[Vous avez moins de 26 ans et recherchez un forfait mobile sans engagement adapté aux usages intensifs et aux voyages internationaux ? Le forfait Mega BiG de Bouygues Telecom vous est dédié, avec 250 G...]]></description>
+            <pubDate>Tue, 08 Sep 2026 09:30:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/forfait-mobile-bouygues-telecom-mega-big-250-go-5g-moins-26-ans-international-voyage-europe-usa-canada-maroc-tunisie-suisse-2080761</guid>
+            <source>Génération NT</source>
+        </item>
+        <item>
             <title>Comment créer un tableau de bord RH sur Power BI ?</title>
             <link>https://www.youtube.com/watch?v=v0Z8TMkAbaE</link>
             <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
             <pubDate>Thu, 16 Jul 2026 09:00:04 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=v0Z8TMkAbaE</guid>
             <source>Morpheus Formation | Excel, Power BI, Data</source>
+        </item>
+        <item>
+            <title>Comment analyser vos données avec Claude Code | Formation Complète Claude pour Data Analyst de A à Z</title>
+            <link>https://www.youtube.com/watch?v=Z1Y41sOVWyQ</link>
+            <description><![CDATA[Bienvenue dans cette formation complète consacrée à l'analyse des données avec Claude. Vous comprendrez ce qu'est Claude ...]]></description>
+            <pubDate>Tue, 21 Jul 2026 15:59:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Z1Y41sOVWyQ</guid>
+            <source>Oscar Aksanti</source>
         </item>
         <item>
             <title>Langage DAX : le cours complet de A à Z | Formation Power BI</title>
@@ -117,12 +133,20 @@
             <source>GOJAMBAR</source>
         </item>
         <item>
-            <title>Gmail : voilà l'ampleur de ce que l’IA de Google scanne désormais par défaut dans vos mails et pièces jointes</title>
-            <link>https://atlantico.fr/article/rdv/gmail-voila-ampleur-de-ce-que-ia-de-google-scanne-desormais-par-defaut-dans-vos-mails-et-pieces-jointes-intelligence-artificielle-donnees-personnelles-banque-sante-impots-entreprises-phishing-cyberattaques-piratage-Frederic-Mouffle</link>
-            <description><![CDATA[Gmail analyse les e-mails et leurs pièces jointes pour lutter contre le spam, le phishing ou proposer des fonctionnalités intelligentes. Avec l’essor de Gemini, la question de la confidentialité prend...]]></description>
-            <pubDate>Mon, 07 Sep 2026 08:56:00 -0000</pubDate>
-            <guid isPermaLink="true">https://atlantico.fr/article/rdv/gmail-voila-ampleur-de-ce-que-ia-de-google-scanne-desormais-par-defaut-dans-vos-mails-et-pieces-jointes-intelligence-artificielle-donnees-personnelles-banque-sante-impots-entreprises-phishing-cyberattaques-piratage-Frederic-Mouffle</guid>
-            <source>Atlantico.fr</source>
+            <title>L’érosion des fleuves arctiques bouleverse la science</title>
+            <link>https://www.fredzone.org/lerosion-des-fleuves-arctiques-bouleverse-la-science/</link>
+            <description><![CDATA[Les scientifiques doivent suivre les données, même lorsque celles-ci contredisent leurs certitudes absolues. Des chercheurs canadiens viennent d’en faire l’expérience directe en étudiant la dynamique ...]]></description>
+            <pubDate>Mon, 07 Sep 2026 17:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.fredzone.org/lerosion-des-fleuves-arctiques-bouleverse-la-science/</guid>
+            <source>FREDZONE</source>
+        </item>
+        <item>
+            <title>Distraction passive, impact des chatbots : sous l’effondrement des scores, ce que révèle l’étude PISA 2025 sur l’IA et le numérique</title>
+            <link>https://www.numerama.com/politique/2327619-distraction-passive-impact-des-chatbots-sous-leffondrement-des-scores-ce-que-revele-letude-pisa-2025-sur-lia-et-le-numerique.html</link>
+            <description><![CDATA[Le 8 septembre 2026, l'OCDE a publié son enquête PISA 2025. On y trouve notamment un tableau statistique inédit, le premier à mesurer l'usage scolaire de l'IA générative. 760 000 élèves, répartis dans...]]></description>
+            <pubDate>Tue, 08 Sep 2026 12:35:35 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/politique/2327619-distraction-passive-impact-des-chatbots-sous-leffondrement-des-scores-ce-que-revele-letude-pisa-2025-sur-lia-et-le-numerique.html</guid>
+            <source>Numerama</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -133,44 +157,20 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Pourquoi les données sur la fraude sont un moteur de croissance pour les annonceurs</title>
-            <link>https://www.journaldunet.com/adtech/1554239-pourquoi-les-donnees-sur-la-fraude-sont-un-moteur-de-croissance-pour-les-annonceurs/</link>
-            <description><![CDATA[ROI, ROAS, CPA : ces indicateurs ne valent que s'ils reflètent le comportement authentique des utilisateurs.]]></description>
-            <pubDate>Mon, 07 Sep 2026 11:31:59 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/adtech/1554239-pourquoi-les-donnees-sur-la-fraude-sont-un-moteur-de-croissance-pour-les-annonceurs/</guid>
-            <source>JDN</source>
+            <title>Créé par l’IA, ce médicament pourrait inverser le vieillissement</title>
+            <link>https://www.phonandroid.com/cree-par-lia-ce-medicament-pourrait-inverser-le-vieillissement.html</link>
+            <description><![CDATA[Des chercheurs ont constaté qu’un médicament par forcément prévu pour ça à l’origine avait un effet positif sur l’âge biologique des patients. Autrement dit : le traitement semble inverser le...]]></description>
+            <pubDate>Tue, 08 Sep 2026 10:11:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.phonandroid.com/cree-par-lia-ce-medicament-pourrait-inverser-le-vieillissement.html</guid>
+            <source>Phonandroid</source>
         </item>
         <item>
-            <title>Des robots plus rapides qu'Usain Bolt ? Parfait pour le champ de bataille, ironise la Chine</title>
-            <link>https://www.generation-nt.com/actualites/robot-developpement-competence-militaire-2080719</link>
-            <description><![CDATA[Derrière les images virales de robots trébuchant aux World Humanoid Robot Games de Pékin se cache une réalité bien plus menaçante. La Chine n'organise pas un simple spectacle technologique, elle prépa...]]></description>
-            <pubDate>Mon, 07 Sep 2026 08:20:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/robot-developpement-competence-militaire-2080719</guid>
-            <source>Génération NT</source>
-        </item>
-        <item>
-            <title>Aussi utile que dangereuse : la sécurité de l’IA se décide entre Washington et Pékin (en oubliant la France et l’Europe)</title>
-            <link>https://www.presse-citron.net/aussi-utile-que-dangereuse-la-securite-de-lia-se-decide-entre-washington-et-pekin-en-oubliant-la-france-et-leurope/</link>
-            <description><![CDATA[Les États-Unis et la Chine, qui dominent le marché de l’intelligence artificielle, prévoiraient des discussions sur la sécurité de cette technologie, alors que les incidents se multiplient. Washington...]]></description>
-            <pubDate>Mon, 07 Sep 2026 11:31:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/aussi-utile-que-dangereuse-la-securite-de-lia-se-decide-entre-washington-et-pekin-en-oubliant-la-france-et-leurope/</guid>
-            <source>Presse-citron</source>
-        </item>
-        <item>
-            <title>Argent. Un premier paiement par IA : à quoi ça sert, quels risques... cinq questions pour comprendre</title>
-            <link>https://www.ledauphine.com/science-et-technologie/2026/09/07/un-premier-paiement-par-ia-a-quoi-ca-sert-quels-risques-cinq-questions-pour-comprendre</link>
-            <description><![CDATA[Revolut et Visa ont annoncé ce lundi avoir réalisé, en France, une première transaction initiée par un agent d’intelligence artificielle. Une expérimentation qui ouvre la voie à une nouvelle étape du ...]]></description>
-            <pubDate>Mon, 07 Sep 2026 10:43:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.ledauphine.com/science-et-technologie/2026/09/07/un-premier-paiement-par-ia-a-quoi-ca-sert-quels-risques-cinq-questions-pour-comprendre</guid>
-            <source>Le Dauphiné Libéré</source>
-        </item>
-        <item>
-            <title>Un problème avec votre iPhone ? Le nouveau chatbot de l’app Assistance Apple tente de vous dépanner</title>
-            <link>https://www.igen.fr/app-store/2026/09/un-probleme-avec-votre-iphone-le-nouveau-chatbot-de-lapp-assistance-apple-tente-de-vous-depanner-157855</link>
-            <description><![CDATA[En cas de pépin avec votre iPhone ou votre Mac, l’application Assistance Apple dispose d’une nouvelle corde à son arc. En plus de donner accès à la documentation d’Apple, elle intègre désormais un cha...]]></description>
-            <pubDate>Mon, 07 Sep 2026 11:17:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.igen.fr/app-store/2026/09/un-probleme-avec-votre-iphone-le-nouveau-chatbot-de-lapp-assistance-apple-tente-de-vous-depanner-157855</guid>
-            <source>iGeneration</source>
+            <title>Un mathématicien accuse OpenAI d’avoir tenté de lui voler sa découverte sur un problème à un million de dollars</title>
+            <link>https://www.numerama.com/tech/2327463-un-mathematicien-accuse-openai-davoir-tente-de-lui-voler-sa-decouverte-sur-un-probleme-a-un-million-de-dollars.html</link>
+            <description><![CDATA[Un mathématicien dit avoir approché la résolution d'un problème à un million de dollars avec l'aide de l'IA, celui concernant les fameuses équations de Navier-Stokes. Mais dans l'affaire, il pense que...]]></description>
+            <pubDate>Tue, 08 Sep 2026 11:20:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/tech/2327463-un-mathematicien-accuse-openai-davoir-tente-de-lui-voler-sa-decouverte-sur-un-probleme-a-un-million-de-dollars.html</guid>
+            <source>Numerama</source>
         </item>
     </channel>
 </rss>
