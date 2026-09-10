@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-09T12:49:42.796366",
+  "lastUpdate": "2026-09-10T12:47:39.503562",
   "articles": [
     {
       "title": "ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)",
@@ -38,6 +38,18 @@
       "thumbnail": "https://i.ytimg.com/vi/4km3oLGe-iQ/hqdefault.jpg"
     },
     {
+      "title": "OpenAI accusé d’avoir téléchargé des milliers de livres piratés pour entraîner ChatGPT",
+      "description": "Les auteurs continuent de batailler contre l'IA.",
+      "url": "https://www.presse-citron.net/openai-accuse-davoir-telecharge-des-milliers-de-livres-pirates-pour-entrainer-chatgpt/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-09-09T12:27:53Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker",
       "description": "Machine learning. Data science. MLOps. Création d'une image docker encapsulant une base de données multi-tables (SQLite, ...",
       "url": "https://www.youtube.com/watch?v=dIuLrxn3ViE",
@@ -48,18 +60,6 @@
       "isYouTube": true,
       "videoId": "dIuLrxn3ViE",
       "thumbnail": "https://i.ytimg.com/vi/dIuLrxn3ViE/hqdefault.jpg"
-    },
-    {
-      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction",
-      "description": "For more information about Stanford's Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai For ...",
-      "url": "https://www.youtube.com/watch?v=DATnpGoGhM8",
-      "source": "Stanford Online",
-      "publishedAt": "2026-07-29T23:31:41Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "DATnpGoGhM8",
-      "thumbnail": "https://i.ytimg.com/vi/DATnpGoGhM8/hqdefault.jpg"
     },
     {
       "title": "JAX Automatic Differentiation – Régression simple, descente de gradient (Python)",
@@ -74,16 +74,28 @@
       "thumbnail": "https://i.ytimg.com/vi/LKtwwn-W6iM/hqdefault.jpg"
     },
     {
-      "title": "GPT-6 Astra ouvre l'ère des IA capables d'apprendre nos métiers",
-      "description": "GPT-6 Astra marque le passage des IA conversationnelles aux agents capables d'exécuter des workflows professionnels complets. Un tournant pour les métiers ?",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1554489-gpt-6-astra-ouvre-l-ere-des-ia-capables-d-apprendre-nos-metiers/",
-      "source": "JDN",
-      "publishedAt": "2026-09-08T09:16:49Z",
+      "title": "Machine Learning: Como as Máquinas APRENDEM Sozinhas? 🤖 Entenda de Uma Vez!",
+      "description": "Você sabe o que é Machine Learning e como uma máquina consegue “aprender”? Neste vídeo da PowerSystem, você vai ...",
+      "url": "https://www.youtube.com/watch?v=1AqvTMEDypo",
+      "source": "POWER SYSTEM TI",
+      "publishedAt": "2026-08-28T15:30:25Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1AqvTMEDypo",
+      "thumbnail": "https://i.ytimg.com/vi/1AqvTMEDypo/hqdefault.jpg"
+    },
+    {
+      "title": "Hands-On Machine Learning in 29 Minutes | Crack ML Internships Full Guide",
+      "description": "You downloaded Hands-On Machine Learning, read about 40 pages, and it's been sitting there ever since. This video teaches the ...",
+      "url": "https://www.youtube.com/watch?v=fUhjbemxIx0",
+      "source": "Sreemanti Dey",
+      "publishedAt": "2026-08-16T11:03:05Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "fUhjbemxIx0",
+      "thumbnail": "https://i.ytimg.com/vi/fUhjbemxIx0/hqdefault.jpg"
     },
     {
       "title": "Machine Learning vs Deep Learning : Elle explique en détails",
@@ -110,30 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
     },
     {
-      "title": "Comment Analyser les Données avec Claude AI : Découverte de Claude AI, Claude Code &amp; Claude Cowork",
-      "description": "Bienvenue dans le Jour 1 de cette formation complète consacrée à l'analyse des données avec Claude AI. Dans cette première ...",
-      "url": "https://www.youtube.com/watch?v=NURD13ukpQI",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-07-13T15:17:51Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "NURD13ukpQI",
-      "thumbnail": "https://i.ytimg.com/vi/NURD13ukpQI/hqdefault.jpg"
-    },
-    {
-      "title": "Bouygues Telecom : un forfait \"Mega BiG\" 250 Go à prix spécial pour les moins de 26 ans",
-      "description": "Vous avez moins de 26 ans et recherchez un forfait mobile sans engagement adapté aux usages intensifs et aux voyages internationaux ? Le forfait Mega BiG de Bouygues Telecom vous est dédié, avec 250 G...",
-      "url": "https://www.generation-nt.com/actualites/forfait-mobile-bouygues-telecom-mega-big-250-go-5g-moins-26-ans-international-voyage-europe-usa-canada-maroc-tunisie-suisse-2080761",
-      "source": "Génération NT",
-      "publishedAt": "2026-09-08T09:30:01Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Comment créer un tableau de bord RH sur Power BI ?",
       "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
       "url": "https://www.youtube.com/watch?v=v0Z8TMkAbaE",
@@ -144,18 +132,6 @@
       "isYouTube": true,
       "videoId": "v0Z8TMkAbaE",
       "thumbnail": "https://i.ytimg.com/vi/v0Z8TMkAbaE/hqdefault.jpg"
-    },
-    {
-      "title": "Comment analyser vos données avec Claude Code | Formation Complète Claude pour Data Analyst de A à Z",
-      "description": "Bienvenue dans cette formation complète consacrée à l'analyse des données avec Claude. Vous comprendrez ce qu'est Claude ...",
-      "url": "https://www.youtube.com/watch?v=Z1Y41sOVWyQ",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-07-21T15:59:13Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Z1Y41sOVWyQ",
-      "thumbnail": "https://i.ytimg.com/vi/Z1Y41sOVWyQ/hqdefault.jpg"
     },
     {
       "title": "Langage DAX : le cours complet de A à Z | Formation Power BI",
@@ -170,6 +146,18 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
+      "title": "IA : quelles règles pour encadrer les usages en entreprise ?",
+      "description": "Pour une PME, une politique IA efficace peut tenir en quelques règles simples. A condition de couvrir les données, les outils, les droits et la responsabilité.",
+      "url": "https://www.itespresso.fr/ia-quelles-regles-pour-encadrer-les-usages-en-entreprise-280516.html",
+      "source": "Itespresso.fr",
+      "publishedAt": "2026-09-09T09:15:44Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Nettoyage et préparation de jeux de données (Pyhton, Excel, Copilote)",
       "description": "Dans ce tutoriel complet, apprenez à automatiser le nettoyage et la préparation de vos jeux de données géographiques en ...",
       "url": "https://www.youtube.com/watch?v=OrI-pLVY96Q",
@@ -182,11 +170,11 @@
       "thumbnail": "https://i.ytimg.com/vi/OrI-pLVY96Q/hqdefault.jpg"
     },
     {
-      "title": "L’érosion des fleuves arctiques bouleverse la science",
-      "description": "Les scientifiques doivent suivre les données, même lorsque celles-ci contredisent leurs certitudes absolues. Des chercheurs canadiens viennent d’en faire l’expérience directe en étudiant la dynamique ...",
-      "url": "https://www.fredzone.org/lerosion-des-fleuves-arctiques-bouleverse-la-science/",
-      "source": "FREDZONE",
-      "publishedAt": "2026-09-07T17:00:00Z",
+      "title": "« Les panneaux solaires polluent » : l’ADEME tord le cou à ce mythe en France",
+      "description": "Le solaire français est encore plus vert qu’on ne le pensait. De nouvelles données viennent de revoir fortement à la baisse son empreinte carbone. Selon de nouvelles données de l’ADEME, l’électricité ...",
+      "url": "https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3239461_les-panneaux-solaires-polluent-lademe-tord-le-cou-a-ce-mythe-en-france",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-09T08:26:44Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -194,11 +182,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Distraction passive, impact des chatbots : sous l’effondrement des scores, ce que révèle l’étude PISA 2025 sur l’IA et le numérique",
-      "description": "Le 8 septembre 2026, l'OCDE a publié son enquête PISA 2025. On y trouve notamment un tableau statistique inédit, le premier à mesurer l'usage scolaire de l'IA générative. 760 000 élèves, répartis dans...",
-      "url": "https://www.numerama.com/politique/2327619-distraction-passive-impact-des-chatbots-sous-leffondrement-des-scores-ce-que-revele-letude-pisa-2025-sur-lia-et-le-numerique.html",
-      "source": "Numerama",
-      "publishedAt": "2026-09-08T12:35:35Z",
+      "title": "WATOO lance depuis Bordeaux un simulateur 3D pour le solaire résidentiel",
+      "description": "La start-up bordelaise WATOO lance un simulateur gratuit destiné aux particuliers pour évaluer le potentiel photovoltaïque de leur toiture à partir de données 3D. L’entreprise, qui revendique un dével...",
+      "url": "https://www.lejournaldesentreprises.com/article/watoo-lance-depuis-bordeaux-un-simulateur-3d-pour-le-solaire-residentiel-2147445",
+      "source": "Le Journal des Entreprises",
+      "publishedAt": "2026-09-09T12:09:07Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L'IA ne transforme pas seulement le travail : elle transforme nos comportements",
+      "description": "L'IA ne transforme pas seulement nos méthodes de travail : elle modifie progressivement notre rapport à l'effort, à la connaissance, aux relations humaines et à la responsabilité.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1554607-l-ia-ne-transforme-pas-seulement-le-travail-elle-transforme-nos-comportements/",
+      "source": "JDN",
+      "publishedAt": "2026-09-09T08:10:06Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,11 +218,11 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Créé par l’IA, ce médicament pourrait inverser le vieillissement",
-      "description": "Des chercheurs ont constaté qu’un médicament par forcément prévu pour ça à l’origine avait un effet positif sur l’âge biologique des patients. Autrement dit : le traitement semble inverser le...",
-      "url": "https://www.phonandroid.com/cree-par-lia-ce-medicament-pourrait-inverser-le-vieillissement.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-09-08T10:11:16Z",
+      "title": "Vous avez un téléviseur LG chez vous, vous êtes probablement espionné",
+      "description": "Votre téléviseur LG écoute vos conversations, scanne votre réseau Wi-Fi et peut même revendre vos données à votre insu, selon une nouvelle enquête. Elle fait froid dans le dos.",
+      "url": "https://www.presse-citron.net/vous-avez-un-televiseur-lg-chez-vous-vous-etes-probablement-espionne/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-09-09T10:30:08Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,35 +230,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Un mathématicien accuse OpenAI d’avoir tenté de lui voler sa découverte sur un problème à un million de dollars",
-      "description": "Un mathématicien dit avoir approché la résolution d'un problème à un million de dollars avec l'aide de l'IA, celui concernant les fameuses équations de Navier-Stokes. Mais dans l'affaire, il pense que...",
-      "url": "https://www.numerama.com/tech/2327463-un-mathematicien-accuse-openai-davoir-tente-de-lui-voler-sa-decouverte-sur-un-probleme-a-un-million-de-dollars.html",
-      "source": "Numerama",
-      "publishedAt": "2026-09-08T11:20:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Actualité : Withings BeamO analyse désormais les bruits du cœur et des poumons grâce à l'IA",
-      "description": "Avec StethO Sense, Withings permet à son appareil de santé BeamO de faire analyser par une intelligence artificielle certains bruits cardiaques et pulmonaires. Nous avons assisté à une démonstration s...",
-      "url": "https://www.lesnumeriques.com/objet-connecte/withings-beamo-analyse-desormais-les-bruits-du-coeur-et-des-poumons-grace-a-l-ia-n261540.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-09-08T12:24:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Avec l'IA, le métier de veilleur a d'ores et déjà changé de dimension",
-      "description": "Désormais incontournable au sein des métiers de la veille, l'intelligence artificielle automatise les tâches répétitives et sécurise l'exploitation des connaissances grâce au RAG.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1554343-avec-l-ia-le-metier-de-veilleur-a-d-ores-et-deja-change-de-dimension/",
-      "source": "JDN",
-      "publishedAt": "2026-09-08T09:22:45Z",
+      "title": "« Les gens qui construisent l&#8217;IA croient sincèrement qu&#8217;elle pourrait tous nous tuer d&#8217;ici la fin de la décennie »",
+      "description": "Un chercheur en intelligence artificielle, parti d'OpenAI pour rejoindre Anthropic, qu'il jugeait plus prudent, a décidé de quitter l'industrie, accusant les deux laboratoires américains de \"jouer ave...",
+      "url": "https://www.konbini.com/internet/les-gens-qui-construisent-lia-croient-sincerement-quelle-pourrait-tous-nous-tuer-dici-la-fin-de-la-decennie/",
+      "source": "Konbini France",
+      "publishedAt": "2026-09-09T07:28:54Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +254,35 @@
       "thumbnail": ""
     },
     {
-      "title": "Une inconnue voilée devient malgré elle une star du web et se retrouve au cœur d’une bataille politique",
-      "description": "Une simple photo d'illustration s'est transformée en champ de bataille numérique. Celle d'une jeune femme voilée, saluée comme une icône de mode avant d'être détournée par un élu RN à l'aide de l'inte...",
-      "url": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/une-inconnue-voilee-devient-malgre-elle-une-star-du-web-et-se-retrouve-au-c-ur-d-une-bataille-politique_8160185.html",
+      "title": "« Ils jouent avec nos vies » : pourquoi un chercheur en IA claque la porte d'Anthropic",
+      "description": "Jacob Coxon évoluait jusqu'ici dans l'anonymat des laboratoires de recherche en intelligence artificielle. En l'espace d'une nuit, ce mathématicien britannique de 27 ans a mis la Silicon Valley face à...",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/09/ils-jouent-avec-nos-vies-pourquoi-un-chercheur-en-ia-claque-la-porte-danthropic-310935",
+      "source": "MacGeneration",
+      "publishedAt": "2026-09-09T07:14:46Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "\"Elles jouent avec nos vies\" : Anthropic et OpenAI \"croient sincèrement\" que l'IA \"pourrait tous nous tuer\", attaque un chercheur en IA",
+      "description": "Anthropic et sa rivale OpenAI \"foncent tout droit vers une superintelligence capable de s'améliorer elle-même\", dénonce Jacob Coxon, passé par les deux startup américaines.",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/elles-jouent-avec-nos-vies-anthropic-et-openai-croient-sincerement-que-l-ia-pourrait-tous-nous-tuer-attaque-un-chercheur-en-ia_8184491.html",
       "source": "Franceinfo.fr",
-      "publishedAt": "2026-09-08T09:31:28Z",
+      "publishedAt": "2026-09-09T10:05:24Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta vient de lancer l’agent IA pour tous : Muse AI gère les tâches du quotidien à votre place, mais à une condition",
+      "description": "Meta lance Muse AI, un agent IA capable d'automatiser les tâches du quotidien et dont l'utilisation ne requiert aucune connaissance technique.",
+      "url": "https://www.presse-citron.net/meta-agent-ia-muse-ai-taches-quotidien/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-09-09T11:26:55Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
