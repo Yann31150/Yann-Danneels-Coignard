@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 10 Sep 2026 12:47:39 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 12:42:17 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp;amp; GPT-5.6)</title>
-            <link>https://www.youtube.com/watch?v=rx7F_9Vm35Y</link>
-            <description><![CDATA[OpenAI vient de lancer ChatGPT Work et GPT-5.6, et ChatGPT n'a plus rien à voir avec ce que tu connaissais. C'est la plus ...]]></description>
-            <pubDate>Sun, 12 Jul 2026 16:00:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=rx7F_9Vm35Y</guid>
-            <source>Elliott Pierret</source>
-        </item>
         <item>
             <title>ChatGPT Work : le tutoriel complet pour déléguer ton travail à l&amp;#39;IA (guide débutant)</title>
             <link>https://www.youtube.com/watch?v=pbWVTztZ7b8</link>
@@ -35,14 +27,6 @@
             <pubDate>Sun, 09 Aug 2026 15:00:37 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=4km3oLGe-iQ</guid>
             <source>Yassine Sdiri</source>
-        </item>
-        <item>
-            <title>OpenAI accusé d’avoir téléchargé des milliers de livres piratés pour entraîner ChatGPT</title>
-            <link>https://www.presse-citron.net/openai-accuse-davoir-telecharge-des-milliers-de-livres-pirates-pour-entrainer-chatgpt/</link>
-            <description><![CDATA[Les auteurs continuent de batailler contre l'IA.]]></description>
-            <pubDate>Wed, 09 Sep 2026 12:27:53 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/openai-accuse-davoir-telecharge-des-milliers-de-livres-pirates-pour-entrainer-chatgpt/</guid>
-            <source>Presse-citron</source>
         </item>
         <item>
             <title>Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker</title>
@@ -61,22 +45,6 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Machine Learning: Como as Máquinas APRENDEM Sozinhas? 🤖 Entenda de Uma Vez!</title>
-            <link>https://www.youtube.com/watch?v=1AqvTMEDypo</link>
-            <description><![CDATA[Você sabe o que é Machine Learning e como uma máquina consegue “aprender”? Neste vídeo da PowerSystem, você vai ...]]></description>
-            <pubDate>Fri, 28 Aug 2026 15:30:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1AqvTMEDypo</guid>
-            <source>POWER SYSTEM TI</source>
-        </item>
-        <item>
-            <title>Hands-On Machine Learning in 29 Minutes | Crack ML Internships Full Guide</title>
-            <link>https://www.youtube.com/watch?v=fUhjbemxIx0</link>
-            <description><![CDATA[You downloaded Hands-On Machine Learning, read about 40 pages, and it's been sitting there ever since. This video teaches the ...]]></description>
-            <pubDate>Sun, 16 Aug 2026 11:03:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=fUhjbemxIx0</guid>
-            <source>Sreemanti Dey</source>
-        </item>
-        <item>
             <title>Machine Learning vs Deep Learning : Elle explique en détails</title>
             <link>https://www.youtube.com/watch?v=Ys1DwlL0yJs</link>
             <description><![CDATA[]]></description>
@@ -91,6 +59,38 @@
             <pubDate>Tue, 25 Aug 2026 17:46:11 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=uJeUP8Z9LsQ</guid>
             <source>Jeune Financier Africain </source>
+        </item>
+        <item>
+            <title>Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10</title>
+            <link>https://www.youtube.com/watch?v=jp6vn3Hp_zc</link>
+            <description><![CDATA[COMPILATION — Chapitre 6/10 de la formation Data &amp; Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.]]></description>
+            <pubDate>Mon, 07 Sep 2026 11:00:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=jp6vn3Hp_zc</guid>
+            <source>IA Futura</source>
+        </item>
+        <item>
+            <title>FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL</title>
+            <link>https://www.youtube.com/watch?v=Lp9R5PlZeRg</link>
+            <description><![CDATA[FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...]]></description>
+            <pubDate>Mon, 10 Aug 2026 22:57:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Lp9R5PlZeRg</guid>
+            <source>Ceemtic Analytics</source>
+        </item>
+        <item>
+            <title>Python &amp;amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python</title>
+            <link>https://www.youtube.com/watch?v=1o308cqkEXc</link>
+            <description><![CDATA[Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...]]></description>
+            <pubDate>Thu, 20 Aug 2026 23:58:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1o308cqkEXc</guid>
+            <source>Mausse Institut</source>
+        </item>
+        <item>
+            <title>Visualisation de données — cours complet 1h42 (débutant, sans code) · Chapitre 2/10</title>
+            <link>https://www.youtube.com/watch?v=0RCs3npgogY</link>
+            <description><![CDATA[COMPILATION — Chapitre 2/10 de la formation Data &amp; Machine Learning, d'un seul tenant (1h42). 100 % GRATUIT. ⚠️ Aucun ...]]></description>
+            <pubDate>Thu, 03 Sep 2026 09:58:25 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=0RCs3npgogY</guid>
+            <source>IA Futura</source>
         </item>
         <item>
             <title>Comment créer un tableau de bord RH sur Power BI ?</title>
@@ -109,36 +109,20 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>IA : quelles règles pour encadrer les usages en entreprise ?</title>
-            <link>https://www.itespresso.fr/ia-quelles-regles-pour-encadrer-les-usages-en-entreprise-280516.html</link>
-            <description><![CDATA[Pour une PME, une politique IA efficace peut tenir en quelques règles simples. A condition de couvrir les données, les outils, les droits et la responsabilité.]]></description>
-            <pubDate>Wed, 09 Sep 2026 09:15:44 -0000</pubDate>
-            <guid isPermaLink="true">https://www.itespresso.fr/ia-quelles-regles-pour-encadrer-les-usages-en-entreprise-280516.html</guid>
-            <source>Itespresso.fr</source>
+            <title>"L’argent n’est pas illimité", pourquoi l'Arabie saoudite devrait réduire ses énormes dépenses dans le football</title>
+            <link>https://rmcsport.bfmtv.com/football/saudi-pro-league/l-argent-n-est-pas-illimite-pourquoi-l-arabie-saoudite-devrait-reduire-ses-enormes-depenses-dans-le-football_AN-202609100430.html</link>
+            <description><![CDATA[A l’instar de son circuit de golf dissident, placé en faillite, ou du déplacement des Jeux asiatique d’hiver, l’Arabie saoudite a réduit la voilure sur le sport dans un contexte géopolitique tendu par...]]></description>
+            <pubDate>Thu, 10 Sep 2026 09:53:23 -0000</pubDate>
+            <guid isPermaLink="true">https://rmcsport.bfmtv.com/football/saudi-pro-league/l-argent-n-est-pas-illimite-pourquoi-l-arabie-saoudite-devrait-reduire-ses-enormes-depenses-dans-le-football_AN-202609100430.html</guid>
+            <source>BFMTV</source>
         </item>
         <item>
-            <title>Nettoyage et préparation de jeux de données (Pyhton, Excel, Copilote)</title>
-            <link>https://www.youtube.com/watch?v=OrI-pLVY96Q</link>
-            <description><![CDATA[Dans ce tutoriel complet, apprenez à automatiser le nettoyage et la préparation de vos jeux de données géographiques en ...]]></description>
-            <pubDate>Thu, 27 Aug 2026 17:15:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=OrI-pLVY96Q</guid>
-            <source>GOJAMBAR</source>
-        </item>
-        <item>
-            <title>« Les panneaux solaires polluent » : l’ADEME tord le cou à ce mythe en France</title>
-            <link>https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3239461_les-panneaux-solaires-polluent-lademe-tord-le-cou-a-ce-mythe-en-france</link>
-            <description><![CDATA[Le solaire français est encore plus vert qu’on ne le pensait. De nouvelles données viennent de revoir fortement à la baisse son empreinte carbone. Selon de nouvelles données de l’ADEME, l’électricité ...]]></description>
-            <pubDate>Wed, 09 Sep 2026 08:26:44 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3239461_les-panneaux-solaires-polluent-lademe-tord-le-cou-a-ce-mythe-en-france</guid>
-            <source>Frandroid</source>
-        </item>
-        <item>
-            <title>WATOO lance depuis Bordeaux un simulateur 3D pour le solaire résidentiel</title>
-            <link>https://www.lejournaldesentreprises.com/article/watoo-lance-depuis-bordeaux-un-simulateur-3d-pour-le-solaire-residentiel-2147445</link>
-            <description><![CDATA[La start-up bordelaise WATOO lance un simulateur gratuit destiné aux particuliers pour évaluer le potentiel photovoltaïque de leur toiture à partir de données 3D. L’entreprise, qui revendique un dével...]]></description>
-            <pubDate>Wed, 09 Sep 2026 12:09:07 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/article/watoo-lance-depuis-bordeaux-un-simulateur-3d-pour-le-solaire-residentiel-2147445</guid>
-            <source>Le Journal des Entreprises</source>
+            <title>SDM Assistance et le décalaminage : l’art de faire respirer les moteurs grâce à l’hydrogène</title>
+            <link>https://www.turbo.fr/actualite-automobile/sdm-assistance-et-le-decalaminage-lart-de-faire-respirer-les-moteurs-grace-lhydrogene-203551</link>
+            <description><![CDATA[Au cœur des enjeux environnementaux et de la durabilité automobile, SDM Assistance réinvente l'entretien des motorisations thermiques. À Gennevilliers, son fondateur Abdel Bourouba déploie une technol...]]></description>
+            <pubDate>Thu, 10 Sep 2026 12:26:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.turbo.fr/actualite-automobile/sdm-assistance-et-le-decalaminage-lart-de-faire-respirer-les-moteurs-grace-lhydrogene-203551</guid>
+            <source>Turbo.fr</source>
         </item>
         <item>
             <title>L'IA ne transforme pas seulement le travail : elle transforme nos comportements</title>
@@ -149,6 +133,14 @@
             <source>JDN</source>
         </item>
         <item>
+            <title>Le changement climatique amplifie le phénomène El Niño à des niveaux sans précédent</title>
+            <link>https://dailygeekshow.com/?p=1015334</link>
+            <description><![CDATA[L’analyse de coraux aux Galápagos indique que la variabilité du phénomène El Niño a augmenté significativement au cours des 40 dernières années, parallèlement à la hausse rapide des températures mondi...]]></description>
+            <pubDate>Thu, 10 Sep 2026 06:17:00 -0000</pubDate>
+            <guid isPermaLink="true">https://dailygeekshow.com/?p=1015334</guid>
+            <source>Daily Geek Show</source>
+        </item>
+        <item>
             <title>Introduction | SQL - EP1</title>
             <link>https://www.youtube.com/watch?v=QXaOjeucWgI</link>
             <description><![CDATA[Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...]]></description>
@@ -157,20 +149,28 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Vous avez un téléviseur LG chez vous, vous êtes probablement espionné</title>
-            <link>https://www.presse-citron.net/vous-avez-un-televiseur-lg-chez-vous-vous-etes-probablement-espionne/</link>
-            <description><![CDATA[Votre téléviseur LG écoute vos conversations, scanne votre réseau Wi-Fi et peut même revendre vos données à votre insu, selon une nouvelle enquête. Elle fait froid dans le dos.]]></description>
-            <pubDate>Wed, 09 Sep 2026 10:30:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/vous-avez-un-televiseur-lg-chez-vous-vous-etes-probablement-espionne/</guid>
-            <source>Presse-citron</source>
+            <title>Cycle de vente : comment le gérer sans multiplier les outils</title>
+            <link>https://www.blogdumoderateur.com/cycle-vente-sans-multiplier-outils/</link>
+            <description><![CDATA[Décryptage avec Initiative CRM de l'importance d'avoir un outil complet pour bien gérer votre cycle de vente, de la prospection à la facturation.]]></description>
+            <pubDate>Thu, 10 Sep 2026 09:26:48 -0000</pubDate>
+            <guid isPermaLink="true">https://www.blogdumoderateur.com/cycle-vente-sans-multiplier-outils/</guid>
+            <source>Blogdumoderateur.com</source>
         </item>
         <item>
-            <title>« Les gens qui construisent l&amp;#8217;IA croient sincèrement qu&amp;#8217;elle pourrait tous nous tuer d&amp;#8217;ici la fin de la décennie »</title>
-            <link>https://www.konbini.com/internet/les-gens-qui-construisent-lia-croient-sincerement-quelle-pourrait-tous-nous-tuer-dici-la-fin-de-la-decennie/</link>
-            <description><![CDATA[Un chercheur en intelligence artificielle, parti d'OpenAI pour rejoindre Anthropic, qu'il jugeait plus prudent, a décidé de quitter l'industrie, accusant les deux laboratoires américains de "jouer ave...]]></description>
-            <pubDate>Wed, 09 Sep 2026 07:28:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.konbini.com/internet/les-gens-qui-construisent-lia-croient-sincerement-quelle-pourrait-tous-nous-tuer-dici-la-fin-de-la-decennie/</guid>
-            <source>Konbini France</source>
+            <title>Digital, marketing, tech : combien vont gagner les professionnels en 2027 ?</title>
+            <link>https://www.blogdumoderateur.com/salaires-digital-marketing-tech-2027/</link>
+            <description><![CDATA[Michael Page publie la nouvelle édition de son étude de rémunérations avec les grilles 2027 pour le digital, le marketing et la tech, où la maîtrise de l'IA commence déjà à peser sur les rémunérations...]]></description>
+            <pubDate>Thu, 10 Sep 2026 09:36:21 -0000</pubDate>
+            <guid isPermaLink="true">https://www.blogdumoderateur.com/salaires-digital-marketing-tech-2027/</guid>
+            <source>Blogdumoderateur.com</source>
+        </item>
+        <item>
+            <title>Comment utiliser ChatGPT comme un expert en 2026 (Guide complet)</title>
+            <link>https://www.youtube.com/watch?v=cRJe55peOcE</link>
+            <description><![CDATA[Essayer ChatGPT : https://chatgpt.com Utilisez-vous toujours ChatGPT comme une simple barre de recherche ? La plupart des ...]]></description>
+            <pubDate>Sat, 15 Aug 2026 15:00:32 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=cRJe55peOcE</guid>
+            <source>Santrel Français</source>
         </item>
     </channel>
 </rss>

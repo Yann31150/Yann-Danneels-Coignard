@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-09-10T12:47:39.503562",
+  "lastUpdate": "2026-09-11T12:42:17.193847",
   "articles": [
-    {
-      "title": "ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)",
-      "description": "OpenAI vient de lancer ChatGPT Work et GPT-5.6, et ChatGPT n'a plus rien à voir avec ce que tu connaissais. C'est la plus ...",
-      "url": "https://www.youtube.com/watch?v=rx7F_9Vm35Y",
-      "source": "Elliott Pierret",
-      "publishedAt": "2026-07-12T16:00:41Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "rx7F_9Vm35Y",
-      "thumbnail": "https://i.ytimg.com/vi/rx7F_9Vm35Y/hqdefault.jpg"
-    },
     {
       "title": "ChatGPT Work : le tutoriel complet pour déléguer ton travail à l&#39;IA (guide débutant)",
       "description": "Le guide gratuit \"Gagne ta première journée avec ChatGPT Work\" https://alegriagroup.lovable.app/?src=lm_chatgpt_work ...",
@@ -36,18 +24,6 @@
       "isYouTube": true,
       "videoId": "4km3oLGe-iQ",
       "thumbnail": "https://i.ytimg.com/vi/4km3oLGe-iQ/hqdefault.jpg"
-    },
-    {
-      "title": "OpenAI accusé d’avoir téléchargé des milliers de livres piratés pour entraîner ChatGPT",
-      "description": "Les auteurs continuent de batailler contre l'IA.",
-      "url": "https://www.presse-citron.net/openai-accuse-davoir-telecharge-des-milliers-de-livres-pirates-pour-entrainer-chatgpt/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-09-09T12:27:53Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker",
@@ -74,30 +50,6 @@
       "thumbnail": "https://i.ytimg.com/vi/LKtwwn-W6iM/hqdefault.jpg"
     },
     {
-      "title": "Machine Learning: Como as Máquinas APRENDEM Sozinhas? 🤖 Entenda de Uma Vez!",
-      "description": "Você sabe o que é Machine Learning e como uma máquina consegue “aprender”? Neste vídeo da PowerSystem, você vai ...",
-      "url": "https://www.youtube.com/watch?v=1AqvTMEDypo",
-      "source": "POWER SYSTEM TI",
-      "publishedAt": "2026-08-28T15:30:25Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1AqvTMEDypo",
-      "thumbnail": "https://i.ytimg.com/vi/1AqvTMEDypo/hqdefault.jpg"
-    },
-    {
-      "title": "Hands-On Machine Learning in 29 Minutes | Crack ML Internships Full Guide",
-      "description": "You downloaded Hands-On Machine Learning, read about 40 pages, and it's been sitting there ever since. This video teaches the ...",
-      "url": "https://www.youtube.com/watch?v=fUhjbemxIx0",
-      "source": "Sreemanti Dey",
-      "publishedAt": "2026-08-16T11:03:05Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "fUhjbemxIx0",
-      "thumbnail": "https://i.ytimg.com/vi/fUhjbemxIx0/hqdefault.jpg"
-    },
-    {
       "title": "Machine Learning vs Deep Learning : Elle explique en détails",
       "description": "",
       "url": "https://www.youtube.com/watch?v=Ys1DwlL0yJs",
@@ -120,6 +72,54 @@
       "isYouTube": true,
       "videoId": "uJeUP8Z9LsQ",
       "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
+    },
+    {
+      "title": "Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10",
+      "description": "COMPILATION — Chapitre 6/10 de la formation Data & Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.",
+      "url": "https://www.youtube.com/watch?v=jp6vn3Hp_zc",
+      "source": "IA Futura",
+      "publishedAt": "2026-09-07T11:00:18Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "jp6vn3Hp_zc",
+      "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
+    },
+    {
+      "title": "FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL",
+      "description": "FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...",
+      "url": "https://www.youtube.com/watch?v=Lp9R5PlZeRg",
+      "source": "Ceemtic Analytics",
+      "publishedAt": "2026-08-10T22:57:33Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Lp9R5PlZeRg",
+      "thumbnail": "https://i.ytimg.com/vi/Lp9R5PlZeRg/hqdefault.jpg"
+    },
+    {
+      "title": "Python &amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python",
+      "description": "Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...",
+      "url": "https://www.youtube.com/watch?v=1o308cqkEXc",
+      "source": "Mausse Institut",
+      "publishedAt": "2026-08-20T23:58:11Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1o308cqkEXc",
+      "thumbnail": "https://i.ytimg.com/vi/1o308cqkEXc/hqdefault.jpg"
+    },
+    {
+      "title": "Visualisation de données — cours complet 1h42 (débutant, sans code) · Chapitre 2/10",
+      "description": "COMPILATION — Chapitre 2/10 de la formation Data & Machine Learning, d'un seul tenant (1h42). 100 % GRATUIT. ⚠️ Aucun ...",
+      "url": "https://www.youtube.com/watch?v=0RCs3npgogY",
+      "source": "IA Futura",
+      "publishedAt": "2026-09-03T09:58:25Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "0RCs3npgogY",
+      "thumbnail": "https://i.ytimg.com/vi/0RCs3npgogY/hqdefault.jpg"
     },
     {
       "title": "Comment créer un tableau de bord RH sur Power BI ?",
@@ -146,11 +146,11 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
-      "title": "IA : quelles règles pour encadrer les usages en entreprise ?",
-      "description": "Pour une PME, une politique IA efficace peut tenir en quelques règles simples. A condition de couvrir les données, les outils, les droits et la responsabilité.",
-      "url": "https://www.itespresso.fr/ia-quelles-regles-pour-encadrer-les-usages-en-entreprise-280516.html",
-      "source": "Itespresso.fr",
-      "publishedAt": "2026-09-09T09:15:44Z",
+      "title": "\"L’argent n’est pas illimité\", pourquoi l'Arabie saoudite devrait réduire ses énormes dépenses dans le football",
+      "description": "A l’instar de son circuit de golf dissident, placé en faillite, ou du déplacement des Jeux asiatique d’hiver, l’Arabie saoudite a réduit la voilure sur le sport dans un contexte géopolitique tendu par...",
+      "url": "https://rmcsport.bfmtv.com/football/saudi-pro-league/l-argent-n-est-pas-illimite-pourquoi-l-arabie-saoudite-devrait-reduire-ses-enormes-depenses-dans-le-football_AN-202609100430.html",
+      "source": "BFMTV",
+      "publishedAt": "2026-09-10T09:53:23Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -158,35 +158,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Nettoyage et préparation de jeux de données (Pyhton, Excel, Copilote)",
-      "description": "Dans ce tutoriel complet, apprenez à automatiser le nettoyage et la préparation de vos jeux de données géographiques en ...",
-      "url": "https://www.youtube.com/watch?v=OrI-pLVY96Q",
-      "source": "GOJAMBAR",
-      "publishedAt": "2026-08-27T17:15:06Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "OrI-pLVY96Q",
-      "thumbnail": "https://i.ytimg.com/vi/OrI-pLVY96Q/hqdefault.jpg"
-    },
-    {
-      "title": "« Les panneaux solaires polluent » : l’ADEME tord le cou à ce mythe en France",
-      "description": "Le solaire français est encore plus vert qu’on ne le pensait. De nouvelles données viennent de revoir fortement à la baisse son empreinte carbone. Selon de nouvelles données de l’ADEME, l’électricité ...",
-      "url": "https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3239461_les-panneaux-solaires-polluent-lademe-tord-le-cou-a-ce-mythe-en-france",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-09T08:26:44Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "WATOO lance depuis Bordeaux un simulateur 3D pour le solaire résidentiel",
-      "description": "La start-up bordelaise WATOO lance un simulateur gratuit destiné aux particuliers pour évaluer le potentiel photovoltaïque de leur toiture à partir de données 3D. L’entreprise, qui revendique un dével...",
-      "url": "https://www.lejournaldesentreprises.com/article/watoo-lance-depuis-bordeaux-un-simulateur-3d-pour-le-solaire-residentiel-2147445",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-09-09T12:09:07Z",
+      "title": "SDM Assistance et le décalaminage : l’art de faire respirer les moteurs grâce à l’hydrogène",
+      "description": "Au cœur des enjeux environnementaux et de la durabilité automobile, SDM Assistance réinvente l'entretien des motorisations thermiques. À Gennevilliers, son fondateur Abdel Bourouba déploie une technol...",
+      "url": "https://www.turbo.fr/actualite-automobile/sdm-assistance-et-le-decalaminage-lart-de-faire-respirer-les-moteurs-grace-lhydrogene-203551",
+      "source": "Turbo.fr",
+      "publishedAt": "2026-09-10T12:26:17Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,6 +182,18 @@
       "thumbnail": ""
     },
     {
+      "title": "Le changement climatique amplifie le phénomène El Niño à des niveaux sans précédent",
+      "description": "L’analyse de coraux aux Galápagos indique que la variabilité du phénomène El Niño a augmenté significativement au cours des 40 dernières années, parallèlement à la hausse rapide des températures mondi...",
+      "url": "https://dailygeekshow.com/?p=1015334",
+      "source": "Daily Geek Show",
+      "publishedAt": "2026-09-10T06:17:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Introduction | SQL - EP1",
       "description": "Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...",
       "url": "https://www.youtube.com/watch?v=QXaOjeucWgI",
@@ -218,11 +206,11 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Vous avez un téléviseur LG chez vous, vous êtes probablement espionné",
-      "description": "Votre téléviseur LG écoute vos conversations, scanne votre réseau Wi-Fi et peut même revendre vos données à votre insu, selon une nouvelle enquête. Elle fait froid dans le dos.",
-      "url": "https://www.presse-citron.net/vous-avez-un-televiseur-lg-chez-vous-vous-etes-probablement-espionne/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-09-09T10:30:08Z",
+      "title": "Cycle de vente : comment le gérer sans multiplier les outils",
+      "description": "Décryptage avec Initiative CRM de l'importance d'avoir un outil complet pour bien gérer votre cycle de vente, de la prospection à la facturation.",
+      "url": "https://www.blogdumoderateur.com/cycle-vente-sans-multiplier-outils/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-09-10T09:26:48Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +218,35 @@
       "thumbnail": ""
     },
     {
-      "title": "« Les gens qui construisent l&#8217;IA croient sincèrement qu&#8217;elle pourrait tous nous tuer d&#8217;ici la fin de la décennie »",
-      "description": "Un chercheur en intelligence artificielle, parti d'OpenAI pour rejoindre Anthropic, qu'il jugeait plus prudent, a décidé de quitter l'industrie, accusant les deux laboratoires américains de \"jouer ave...",
-      "url": "https://www.konbini.com/internet/les-gens-qui-construisent-lia-croient-sincerement-quelle-pourrait-tous-nous-tuer-dici-la-fin-de-la-decennie/",
-      "source": "Konbini France",
-      "publishedAt": "2026-09-09T07:28:54Z",
+      "title": "Digital, marketing, tech : combien vont gagner les professionnels en 2027 ?",
+      "description": "Michael Page publie la nouvelle édition de son étude de rémunérations avec les grilles 2027 pour le digital, le marketing et la tech, où la maîtrise de l'IA commence déjà à peser sur les rémunérations...",
+      "url": "https://www.blogdumoderateur.com/salaires-digital-marketing-tech-2027/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-09-10T09:36:21Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comment utiliser ChatGPT comme un expert en 2026 (Guide complet)",
+      "description": "Essayer ChatGPT : https://chatgpt.com Utilisez-vous toujours ChatGPT comme une simple barre de recherche ? La plupart des ...",
+      "url": "https://www.youtube.com/watch?v=cRJe55peOcE",
+      "source": "Santrel Français",
+      "publishedAt": "2026-08-15T15:00:32Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "cRJe55peOcE",
+      "thumbnail": "https://i.ytimg.com/vi/cRJe55peOcE/hqdefault.jpg"
+    },
+    {
+      "title": "« Un risque existentiel »… Pourquoi certains spécialistes veulent stopper les progrès de l’IA",
+      "description": "Ceux qui travaillent au plus proche de l’intelligence artificielle sont les plus à même de s’en inquiéter. Mercredi, un employé d’Anthropic, passé également par OpenAI, a démissionné et fortement aler...",
+      "url": "https://www.20minutes.fr/societe/4243808-20260910-risque-existentiel-pourquoi-certains-specialistes-veulent-stopper-progres-ia",
+      "source": "20 Minutes",
+      "publishedAt": "2026-09-10T10:04:44Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,47 +254,35 @@
       "thumbnail": ""
     },
     {
-      "title": "CYBER DECEPTION : face aux agents IA offensifs, la cybersécurité apprend à mentir",
-      "description": "Pendant des décennies, la cybersécurité a cherché à identifier les attaquants, bloquer leurs mouvements et protéger les actifs critiques. L’arrivée de l’intelligence artificielle offensive pourrait pr...",
-      "url": "https://www.frenchweb.fr/cyber-deception-face-aux-agents-ia-offensifs-la-cybersecurite-apprend-a-mentir/462943",
+      "title": "Le boom de l’IA pourrait faire le bonheur des assureurs, pour une raison que personne n’attendait",
+      "description": "À travers le monde, les data centers conçus pour l’intelligence artificielle se multiplient à toute allure. Pour les assureurs, le marché potentiel atteint désormais des dizaines de milliards de dolla...",
+      "url": "https://www.phonandroid.com/le-boom-de-lia-pourrait-faire-le-bonheur-des-assureurs-pour-une-raison-que-personne-nattendait.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-09-10T10:51:58Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Le Premier ministre néerlandais délègue sa communication à une IA",
+      "description": "“De Volkskrant” a analysé une grande quantité de messages postés par le Premier ministre, Rob Jetten, sur ses réseaux sociaux. Il en ressort qu’au moins 30 % sont rédigés par une intelligence artifici...",
+      "url": "https://www.courrierinternational.com/une/une-du-jour-le-premier-ministre-neerlandais-delegue-sa-communication-a-une-ia_269654",
+      "source": "Courrier International",
+      "publishedAt": "2026-09-10T11:46:02Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "ED.AI lève 5 millions d’euros pour transformer chaque copie en plan de remédiation",
+      "description": "Ed.ai lève 5 millions d’euros auprès de Bpifrance, La Poste Ventures et 50 Partners. La startup lyonnaise ne cherche pas seulement à réduire le temps consacré à la correction : sa plateforme analyse l...",
+      "url": "https://www.frenchweb.fr/ed-ai-leve-5-millions-deuros-pour-transformer-chaque-copie-en-plan-de-remediation/463368",
       "source": "Frenchweb.fr",
-      "publishedAt": "2026-09-08T10:17:52Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "« Ils jouent avec nos vies » : pourquoi un chercheur en IA claque la porte d'Anthropic",
-      "description": "Jacob Coxon évoluait jusqu'ici dans l'anonymat des laboratoires de recherche en intelligence artificielle. En l'espace d'une nuit, ce mathématicien britannique de 27 ans a mis la Silicon Valley face à...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/09/ils-jouent-avec-nos-vies-pourquoi-un-chercheur-en-ia-claque-la-porte-danthropic-310935",
-      "source": "MacGeneration",
-      "publishedAt": "2026-09-09T07:14:46Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "\"Elles jouent avec nos vies\" : Anthropic et OpenAI \"croient sincèrement\" que l'IA \"pourrait tous nous tuer\", attaque un chercheur en IA",
-      "description": "Anthropic et sa rivale OpenAI \"foncent tout droit vers une superintelligence capable de s'améliorer elle-même\", dénonce Jacob Coxon, passé par les deux startup américaines.",
-      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/elles-jouent-avec-nos-vies-anthropic-et-openai-croient-sincerement-que-l-ia-pourrait-tous-nous-tuer-attaque-un-chercheur-en-ia_8184491.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-09-09T10:05:24Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Meta vient de lancer l’agent IA pour tous : Muse AI gère les tâches du quotidien à votre place, mais à une condition",
-      "description": "Meta lance Muse AI, un agent IA capable d'automatiser les tâches du quotidien et dont l'utilisation ne requiert aucune connaissance technique.",
-      "url": "https://www.presse-citron.net/meta-agent-ia-muse-ai-taches-quotidien/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-09-09T11:26:55Z",
+      "publishedAt": "2026-09-10T11:05:25Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
