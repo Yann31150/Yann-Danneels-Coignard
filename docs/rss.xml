@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 11 Sep 2026 12:42:17 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 12:02:24 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,6 +21,14 @@
             <source>Alegria Group</source>
         </item>
         <item>
+            <title>Sonos 27 : les enceintes s’ouvrent à ChatGPT et Claude, adieu la numérotation classique</title>
+            <link>https://www.frandroid.com/marques/sonos/3244227_sonos-27-les-enceintes-souvrent-a-chatgpt-et-claude-adieu-la-numerotation-classique</link>
+            <description><![CDATA[Sonos abandonne sa numérotation traditionnelle et bascule directement sur Sonos 27, une plateforme logicielle qui ouvre pour la première fois son écosystème aux assistants d'intelligence artificielle ...]]></description>
+            <pubDate>Fri, 11 Sep 2026 08:40:53 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/marques/sonos/3244227_sonos-27-les-enceintes-souvrent-a-chatgpt-et-claude-adieu-la-numerotation-classique</guid>
+            <source>Frandroid</source>
+        </item>
+        <item>
             <title>Personne ne réalise ce que le nouveau ChatGPT peut faire</title>
             <link>https://www.youtube.com/watch?v=4km3oLGe-iQ</link>
             <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4xxCk9x Rejoins ma communauté ...]]></description>
@@ -29,12 +37,36 @@
             <source>Yassine Sdiri</source>
         </item>
         <item>
+            <title>ChatGPT Work ! Exemples d&amp;#39;utilisation avancés ! (tuto simple)</title>
+            <link>https://www.youtube.com/watch?v=hgXyqiGs8KM</link>
+            <description><![CDATA[Pour faire suite à ma première vidéo de présentation de ChatGPT Work, voici une deuxième partie consacrée à des exemples ...]]></description>
+            <pubDate>Tue, 21 Jul 2026 10:00:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=hgXyqiGs8KM</guid>
+            <source>PH FORMATION</source>
+        </item>
+        <item>
             <title>Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker</title>
             <link>https://www.youtube.com/watch?v=dIuLrxn3ViE</link>
             <description><![CDATA[Machine learning. Data science. MLOps. Création d'une image docker encapsulant une base de données multi-tables (SQLite, ...]]></description>
             <pubDate>Thu, 30 Jul 2026 15:41:54 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=dIuLrxn3ViE</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊</title>
+            <link>https://www.youtube.com/watch?v=9R-humPn-eo</link>
+            <description><![CDATA[Vous souhaitez maîtriser Microsoft Power BI et apprendre à créer vos rapports pas à pas ? Microsoft Power BI est aujourd'hui l'un ...]]></description>
+            <pubDate>Sun, 26 Jul 2026 15:00:27 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=9R-humPn-eo</guid>
+            <source>JUFIP</source>
+        </item>
+        <item>
+            <title>Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction</title>
+            <link>https://www.youtube.com/watch?v=DATnpGoGhM8</link>
+            <description><![CDATA[For more information about Stanford's Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai For ...]]></description>
+            <pubDate>Wed, 29 Jul 2026 23:31:41 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=DATnpGoGhM8</guid>
+            <source>Stanford Online</source>
         </item>
         <item>
             <title>JAX Automatic Differentiation – Régression simple, descente de gradient (Python)</title>
@@ -61,36 +93,12 @@
             <source>Jeune Financier Africain </source>
         </item>
         <item>
-            <title>Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10</title>
-            <link>https://www.youtube.com/watch?v=jp6vn3Hp_zc</link>
-            <description><![CDATA[COMPILATION — Chapitre 6/10 de la formation Data &amp; Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.]]></description>
-            <pubDate>Mon, 07 Sep 2026 11:00:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=jp6vn3Hp_zc</guid>
-            <source>IA Futura</source>
-        </item>
-        <item>
-            <title>FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL</title>
-            <link>https://www.youtube.com/watch?v=Lp9R5PlZeRg</link>
-            <description><![CDATA[FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...]]></description>
-            <pubDate>Mon, 10 Aug 2026 22:57:33 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Lp9R5PlZeRg</guid>
-            <source>Ceemtic Analytics</source>
-        </item>
-        <item>
-            <title>Python &amp;amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python</title>
-            <link>https://www.youtube.com/watch?v=1o308cqkEXc</link>
-            <description><![CDATA[Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...]]></description>
-            <pubDate>Thu, 20 Aug 2026 23:58:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1o308cqkEXc</guid>
-            <source>Mausse Institut</source>
-        </item>
-        <item>
-            <title>Visualisation de données — cours complet 1h42 (débutant, sans code) · Chapitre 2/10</title>
-            <link>https://www.youtube.com/watch?v=0RCs3npgogY</link>
-            <description><![CDATA[COMPILATION — Chapitre 2/10 de la formation Data &amp; Machine Learning, d'un seul tenant (1h42). 100 % GRATUIT. ⚠️ Aucun ...]]></description>
-            <pubDate>Thu, 03 Sep 2026 09:58:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=0RCs3npgogY</guid>
-            <source>IA Futura</source>
+            <title>Actualité : Les biologistes sautent de joie : l'Union européenne teste des robots pour nettoyer les déchets au fond des mers</title>
+            <link>https://www.lesnumeriques.com/concept/les-biologistes-sautent-de-joie-l-union-europeenne-teste-des-robots-pour-nettoyer-les-dechets-au-fond-des-mers-n261672.html</link>
+            <description><![CDATA[SeaClear2.0, c'est le nom d'un ambitieux projet qui souhaite prévenir et remédier aux déchets qui détruisent les mers et les océans. Les essais, basés sur la robotique autonome et le machine learning,...]]></description>
+            <pubDate>Thu, 10 Sep 2026 15:28:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/concept/les-biologistes-sautent-de-joie-l-union-europeenne-teste-des-robots-pour-nettoyer-les-dechets-au-fond-des-mers-n261672.html</guid>
+            <source>Les Numériques</source>
         </item>
         <item>
             <title>Comment créer un tableau de bord RH sur Power BI ?</title>
@@ -109,36 +117,20 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>"L’argent n’est pas illimité", pourquoi l'Arabie saoudite devrait réduire ses énormes dépenses dans le football</title>
-            <link>https://rmcsport.bfmtv.com/football/saudi-pro-league/l-argent-n-est-pas-illimite-pourquoi-l-arabie-saoudite-devrait-reduire-ses-enormes-depenses-dans-le-football_AN-202609100430.html</link>
-            <description><![CDATA[A l’instar de son circuit de golf dissident, placé en faillite, ou du déplacement des Jeux asiatique d’hiver, l’Arabie saoudite a réduit la voilure sur le sport dans un contexte géopolitique tendu par...]]></description>
-            <pubDate>Thu, 10 Sep 2026 09:53:23 -0000</pubDate>
-            <guid isPermaLink="true">https://rmcsport.bfmtv.com/football/saudi-pro-league/l-argent-n-est-pas-illimite-pourquoi-l-arabie-saoudite-devrait-reduire-ses-enormes-depenses-dans-le-football_AN-202609100430.html</guid>
-            <source>BFMTV</source>
+            <title>Netlinking : où concentrer votre budget face à vos concurrents ? Le livre blanc pour vous décider !</title>
+            <link>https://www.abondance.com/20260911-2906249-budget-netlinking-livre-blanc-develink.html</link>
+            <description><![CDATA[Un budget de liens souvent réparti au hasard Combien de liens ? Vers quelle page ? Pour quel montant ? Le netlinking se décide encore trop souvent à l'intuition, faute d'une donnée qui relie l'effort ...]]></description>
+            <pubDate>Fri, 11 Sep 2026 11:54:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.abondance.com/20260911-2906249-budget-netlinking-livre-blanc-develink.html</guid>
+            <source>Abondance.com</source>
         </item>
         <item>
-            <title>SDM Assistance et le décalaminage : l’art de faire respirer les moteurs grâce à l’hydrogène</title>
-            <link>https://www.turbo.fr/actualite-automobile/sdm-assistance-et-le-decalaminage-lart-de-faire-respirer-les-moteurs-grace-lhydrogene-203551</link>
-            <description><![CDATA[Au cœur des enjeux environnementaux et de la durabilité automobile, SDM Assistance réinvente l'entretien des motorisations thermiques. À Gennevilliers, son fondateur Abdel Bourouba déploie une technol...]]></description>
-            <pubDate>Thu, 10 Sep 2026 12:26:17 -0000</pubDate>
-            <guid isPermaLink="true">https://www.turbo.fr/actualite-automobile/sdm-assistance-et-le-decalaminage-lart-de-faire-respirer-les-moteurs-grace-lhydrogene-203551</guid>
-            <source>Turbo.fr</source>
-        </item>
-        <item>
-            <title>L'IA ne transforme pas seulement le travail : elle transforme nos comportements</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1554607-l-ia-ne-transforme-pas-seulement-le-travail-elle-transforme-nos-comportements/</link>
-            <description><![CDATA[L'IA ne transforme pas seulement nos méthodes de travail : elle modifie progressivement notre rapport à l'effort, à la connaissance, aux relations humaines et à la responsabilité.]]></description>
-            <pubDate>Wed, 09 Sep 2026 08:10:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1554607-l-ia-ne-transforme-pas-seulement-le-travail-elle-transforme-nos-comportements/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
-            <title>Le changement climatique amplifie le phénomène El Niño à des niveaux sans précédent</title>
-            <link>https://dailygeekshow.com/?p=1015334</link>
-            <description><![CDATA[L’analyse de coraux aux Galápagos indique que la variabilité du phénomène El Niño a augmenté significativement au cours des 40 dernières années, parallèlement à la hausse rapide des températures mondi...]]></description>
-            <pubDate>Thu, 10 Sep 2026 06:17:00 -0000</pubDate>
-            <guid isPermaLink="true">https://dailygeekshow.com/?p=1015334</guid>
-            <source>Daily Geek Show</source>
+            <title>La NASA et IBM lancent une IA open source pour décoder la Lune !</title>
+            <link>https://www.generation-nt.com/actualites/ibm-nasa-intelligence-artificielle-open-source-analyse-lune-2080958</link>
+            <description><![CDATA[Les secrets de la Lune, enfouis sous des décennies de données brutes, ont un nouveau détective. Un détective qui ne dort jamais et analyse des millions d'images à une vitesse vertigineuse.]]></description>
+            <pubDate>Thu, 10 Sep 2026 13:20:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/ibm-nasa-intelligence-artificielle-open-source-analyse-lune-2080958</guid>
+            <source>Génération NT</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -149,12 +141,12 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Cycle de vente : comment le gérer sans multiplier les outils</title>
-            <link>https://www.blogdumoderateur.com/cycle-vente-sans-multiplier-outils/</link>
-            <description><![CDATA[Décryptage avec Initiative CRM de l'importance d'avoir un outil complet pour bien gérer votre cycle de vente, de la prospection à la facturation.]]></description>
-            <pubDate>Thu, 10 Sep 2026 09:26:48 -0000</pubDate>
-            <guid isPermaLink="true">https://www.blogdumoderateur.com/cycle-vente-sans-multiplier-outils/</guid>
-            <source>Blogdumoderateur.com</source>
+            <title>Souveraineté numérique : et si la vraie question n'était pas le cloud, mais les données ?</title>
+            <link>https://www.journaldunet.com/cybersecurite/1554757-souverainete-numerique-et-si-la-vraie-question-n-etait-pas-le-cloud-mais-les-donnees/</link>
+            <description><![CDATA[L'Europe dépend du cloud, mais la souveraineté n'est plus une idéologie : c'est la maîtrise de la donnée. Séparer l'application de sa protection est la clé pour garder le contrôle face aux risques.]]></description>
+            <pubDate>Fri, 11 Sep 2026 10:10:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/cybersecurite/1554757-souverainete-numerique-et-si-la-vraie-question-n-etait-pas-le-cloud-mais-les-donnees/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Digital, marketing, tech : combien vont gagner les professionnels en 2027 ?</title>
@@ -165,12 +157,20 @@
             <source>Blogdumoderateur.com</source>
         </item>
         <item>
-            <title>Comment utiliser ChatGPT comme un expert en 2026 (Guide complet)</title>
-            <link>https://www.youtube.com/watch?v=cRJe55peOcE</link>
-            <description><![CDATA[Essayer ChatGPT : https://chatgpt.com Utilisez-vous toujours ChatGPT comme une simple barre de recherche ? La plupart des ...]]></description>
-            <pubDate>Sat, 15 Aug 2026 15:00:32 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=cRJe55peOcE</guid>
-            <source>Santrel Français</source>
+            <title>F3D et Silex présentés au prochain webinaire de la série "Open Source by OW2"</title>
+            <link>https://linuxfr.org/news/f3d-et-silex-presentes-au-prochain-webinaire-de-la-serie-open-source-by-ow2</link>
+            <description><![CDATA[L’actualité du logiciel libre et des sujets voisins (DIY, Open Hardware, Open Data, les Communs, etc.), sur un site francophone contributif géré par une équipe bénévole par et pour des libristes entho...]]></description>
+            <pubDate>Thu, 10 Sep 2026 16:34:02 -0000</pubDate>
+            <guid isPermaLink="true">https://linuxfr.org/news/f3d-et-silex-presentes-au-prochain-webinaire-de-la-serie-open-source-by-ow2</guid>
+            <source>Linuxfr.org</source>
+        </item>
+        <item>
+            <title>Fréquentation record dans les trains : l’incroyable engouement qui met le réseau au défi</title>
+            <link>https://www.challenges.fr/entreprise/transports/frequentation-record-dans-les-trains-lincroyable-engouement-qui-met-le-reseau-au-defi_645700</link>
+            <description><![CDATA[Le train n’a jamais autant attiré les Français, dont les habitudes de voyage évoluent au profit du ferroviaire, y compris pour les longues distances. Une dynamique notamment portée par les 18-24 ans.]]></description>
+            <pubDate>Fri, 11 Sep 2026 10:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.challenges.fr/entreprise/transports/frequentation-record-dans-les-trains-lincroyable-engouement-qui-met-le-reseau-au-defi_645700</guid>
+            <source>Challenges</source>
         </item>
     </channel>
 </rss>
