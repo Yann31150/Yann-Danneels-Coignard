@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-12T12:02:24.397839",
+  "lastUpdate": "2026-09-13T13:12:15.623792",
   "articles": [
     {
       "title": "ChatGPT Work : le tutoriel complet pour déléguer ton travail à l&#39;IA (guide débutant)",
@@ -14,18 +14,6 @@
       "thumbnail": "https://i.ytimg.com/vi/pbWVTztZ7b8/hqdefault.jpg"
     },
     {
-      "title": "Sonos 27 : les enceintes s’ouvrent à ChatGPT et Claude, adieu la numérotation classique",
-      "description": "Sonos abandonne sa numérotation traditionnelle et bascule directement sur Sonos 27, une plateforme logicielle qui ouvre pour la première fois son écosystème aux assistants d'intelligence artificielle ...",
-      "url": "https://www.frandroid.com/marques/sonos/3244227_sonos-27-les-enceintes-souvrent-a-chatgpt-et-claude-adieu-la-numerotation-classique",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-11T08:40:53Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Personne ne réalise ce que le nouveau ChatGPT peut faire",
       "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4xxCk9x Rejoins ma communauté ...",
       "url": "https://www.youtube.com/watch?v=4km3oLGe-iQ",
@@ -38,16 +26,16 @@
       "thumbnail": "https://i.ytimg.com/vi/4km3oLGe-iQ/hqdefault.jpg"
     },
     {
-      "title": "ChatGPT Work ! Exemples d&#39;utilisation avancés ! (tuto simple)",
-      "description": "Pour faire suite à ma première vidéo de présentation de ChatGPT Work, voici une deuxième partie consacrée à des exemples ...",
-      "url": "https://www.youtube.com/watch?v=hgXyqiGs8KM",
-      "source": "PH FORMATION",
-      "publishedAt": "2026-07-21T10:00:13Z",
+      "title": "Cette tendance photo années 80 envahit les réseaux sociaux : voici comment la réaliser en 2 minutes avec votre téléphone",
+      "description": "Coiffure volumineuse, lumière chaude, grain d'époque : ChatGPT vous propulse tout droit dans les années 80, sans écrire une seule ligne. Quelques clics suffisent pour voir votre visage traverser le te...",
+      "url": "https://www.gameblog.fr/trends/cette-tendance-photo-annees-80-envahit-les-reseaux-sociaux-voici-comment-la-realiser-en-2-minutes-avec-votre-telephone-722751",
+      "source": "Gameblog",
+      "publishedAt": "2026-09-12T05:30:38Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "hgXyqiGs8KM",
-      "thumbnail": "https://i.ytimg.com/vi/hgXyqiGs8KM/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker",
@@ -60,18 +48,6 @@
       "isYouTube": true,
       "videoId": "dIuLrxn3ViE",
       "thumbnail": "https://i.ytimg.com/vi/dIuLrxn3ViE/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
-      "description": "Vous souhaitez maîtriser Microsoft Power BI et apprendre à créer vos rapports pas à pas ? Microsoft Power BI est aujourd'hui l'un ...",
-      "url": "https://www.youtube.com/watch?v=9R-humPn-eo",
-      "source": "JUFIP",
-      "publishedAt": "2026-07-26T15:00:27Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "9R-humPn-eo",
-      "thumbnail": "https://i.ytimg.com/vi/9R-humPn-eo/hqdefault.jpg"
     },
     {
       "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction",
@@ -122,16 +98,28 @@
       "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
     },
     {
-      "title": "Actualité : Les biologistes sautent de joie : l'Union européenne teste des robots pour nettoyer les déchets au fond des mers",
-      "description": "SeaClear2.0, c'est le nom d'un ambitieux projet qui souhaite prévenir et remédier aux déchets qui détruisent les mers et les océans. Les essais, basés sur la robotique autonome et le machine learning,...",
-      "url": "https://www.lesnumeriques.com/concept/les-biologistes-sautent-de-joie-l-union-europeenne-teste-des-robots-pour-nettoyer-les-dechets-au-fond-des-mers-n261672.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-09-10T15:28:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "title": "FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL",
+      "description": "FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...",
+      "url": "https://www.youtube.com/watch?v=Lp9R5PlZeRg",
+      "source": "Ceemtic Analytics",
+      "publishedAt": "2026-08-10T22:57:33Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Lp9R5PlZeRg",
+      "thumbnail": "https://i.ytimg.com/vi/Lp9R5PlZeRg/hqdefault.jpg"
+    },
+    {
+      "title": "Python &amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python",
+      "description": "Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...",
+      "url": "https://www.youtube.com/watch?v=1o308cqkEXc",
+      "source": "Mausse Institut",
+      "publishedAt": "2026-08-20T23:58:11Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1o308cqkEXc",
+      "thumbnail": "https://i.ytimg.com/vi/1o308cqkEXc/hqdefault.jpg"
     },
     {
       "title": "Comment créer un tableau de bord RH sur Power BI ?",
@@ -158,23 +146,11 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
-      "title": "Netlinking : où concentrer votre budget face à vos concurrents ? Le livre blanc pour vous décider !",
-      "description": "Un budget de liens souvent réparti au hasard Combien de liens ? Vers quelle page ? Pour quel montant ? Le netlinking se décide encore trop souvent à l'intuition, faute d'une donnée qui relie l'effort ...",
-      "url": "https://www.abondance.com/20260911-2906249-budget-netlinking-livre-blanc-develink.html",
-      "source": "Abondance.com",
-      "publishedAt": "2026-09-11T11:54:31Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "La NASA et IBM lancent une IA open source pour décoder la Lune !",
-      "description": "Les secrets de la Lune, enfouis sous des décennies de données brutes, ont un nouveau détective. Un détective qui ne dort jamais et analyse des millions d'images à une vitesse vertigineuse.",
-      "url": "https://www.generation-nt.com/actualites/ibm-nasa-intelligence-artificielle-open-source-analyse-lune-2080958",
-      "source": "Génération NT",
-      "publishedAt": "2026-09-10T13:20:01Z",
+      "title": "Cancer de la prostate : voici combien de fois éjaculer chaque mois selon cette étude",
+      "description": "L’idée qu’une activité éjaculatoire régulière pourrait protéger la prostate circule depuis plus d’un demi-siècle. Des cohortes américaines confortent cette hypothèse ; une méta-analyse chinoise la nua...",
+      "url": "https://www.futura-sciences.com/sante/questions-reponses/cancer-prostate-cancer-prostate-voici-fois-ejaculer-chaque-mois-selon-cette-etude-w2t8-25955/",
+      "source": "Futura",
+      "publishedAt": "2026-09-12T07:00:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -194,11 +170,11 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Souveraineté numérique : et si la vraie question n'était pas le cloud, mais les données ?",
-      "description": "L'Europe dépend du cloud, mais la souveraineté n'est plus une idéologie : c'est la maîtrise de la donnée. Séparer l'application de sa protection est la clé pour garder le contrôle face aux risques.",
-      "url": "https://www.journaldunet.com/cybersecurite/1554757-souverainete-numerique-et-si-la-vraie-question-n-etait-pas-le-cloud-mais-les-donnees/",
-      "source": "JDN",
-      "publishedAt": "2026-09-11T10:10:05Z",
+      "title": "Test Samsung Galaxy Z Fold8 : ce nouveau format est-il plus qu’une belle surprise ?",
+      "description": "Fin juillet 2026, Samsung annonçait l’arrivée de trois nouveaux smartphones pliants, dont le Galaxy Z Fold8. Ce dernier se démarque grâce à son nouveau format d’écran, aussi bien externe qu’interne......",
+      "url": "https://www.phonandroid.com/test-samsung-galaxy-z-fold8.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-09-12T08:00:10Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,100 +182,100 @@
       "thumbnail": ""
     },
     {
-      "title": "Digital, marketing, tech : combien vont gagner les professionnels en 2027 ?",
-      "description": "Michael Page publie la nouvelle édition de son étude de rémunérations avec les grilles 2027 pour le digital, le marketing et la tech, où la maîtrise de l'IA commence déjà à peser sur les rémunérations...",
-      "url": "https://www.blogdumoderateur.com/salaires-digital-marketing-tech-2027/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-09-10T09:36:21Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "F3D et Silex présentés au prochain webinaire de la série \"Open Source by OW2\"",
-      "description": "L’actualité du logiciel libre et des sujets voisins (DIY, Open Hardware, Open Data, les Communs, etc.), sur un site francophone contributif géré par une équipe bénévole par et pour des libristes entho...",
-      "url": "https://linuxfr.org/news/f3d-et-silex-presentes-au-prochain-webinaire-de-la-serie-open-source-by-ow2",
-      "source": "Linuxfr.org",
-      "publishedAt": "2026-09-10T16:34:02Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fréquentation record dans les trains : l’incroyable engouement qui met le réseau au défi",
-      "description": "Le train n’a jamais autant attiré les Français, dont les habitudes de voyage évoluent au profit du ferroviaire, y compris pour les longues distances. Une dynamique notamment portée par les 18-24 ans.",
-      "url": "https://www.challenges.fr/entreprise/transports/frequentation-record-dans-les-trains-lincroyable-engouement-qui-met-le-reseau-au-defi_645700",
-      "source": "Challenges",
-      "publishedAt": "2026-09-11T10:30:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bon, l&#8217;IA, elle pourrait vraiment tous nous zigouiller ?",
-      "description": "Les alertes de chercheurs en intelligence artificielle, selon lesquels des formes avancées de l'IA pourraient anéantir l'humanité, suscitent des questions quant au développement de systèmes \"superinte...",
-      "url": "https://www.konbini.com/internet/bon-lia-elle-pourrait-vraiment-tous-nous-zigouiller/",
-      "source": "Konbini France",
-      "publishedAt": "2026-09-11T11:54:01Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L’intelligence artificielle en quête de récit",
-      "description": "À mesure que les effets concrets de l’IA se manifestent, plusieurs récits se mettent en place. La question est centrale, car l’adoption d’une technologie dépend aussi de l’adhésion au récit dominant q...",
-      "url": "https://theconversation.com/lintelligence-artificielle-en-quete-de-recit-290957",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-09-10T14:59:27Z",
-      "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "IONOS Plus : une base web simple pour publier un portfolio ou une page projet",
-      "description": "Publier un portfolio professionnel ou une page dédiée à un projet personnel ne devrait pas transformer la soirée en séance de bricolage technique. C'est justement l'angle choisi par IONOS avec sa form...",
-      "url": "https://www.futura-sciences.com/conso/bons-plans/guides-tech-ionos-plus-base-web-simple-publier-portfolio-page-projet-11207/",
-      "source": "Futura",
-      "publishedAt": "2026-09-11T10:50:18Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Allocations familiales : le dispositif wallon est pertinent mais peut être amélioré selon un groupe d’experts",
-      "description": "Des experts chargés d’évaluer le modèle wallon d’allocations familiales ainsi que le financement des frais de gestion des caisses d’allocations familiales a récemment rendu ses conclusions. La pertine...",
-      "url": "https://www.lavenir.net/actu/belgique/2026/09/11/allocations-familiales-le-dispositif-wallon-est-pertinent-mais-peut-etre-ameliore-selon-un-groupe-dexperts-JJMI6ZFTWVEUJFYJHIFZ5VLXFA/",
-      "source": "Lavenir.net",
-      "publishedAt": "2026-09-11T12:01:49Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L’IA conçoit des puces que personne ne comprend, mais qui surpassent tout",
-      "description": "Ces travaux fascinants dessinent les contours d'un futur où les humains pourront s'appuyer sur des modèles IA pour découvrir de nouvelles approches de design révolutionnaires, avec tout ce que cela im...",
-      "url": "https://www.journaldugeek.com/2026/09/10/lia-concoit-des-puces-que-personne-ne-comprend-mais-qui-surpassent-tout/",
+      "title": "Luna Pro : Insta360 et Leica mettent le paquet dans une caméra de poche",
+      "description": "Insta360 ajoute une nouvelle caméra stabilisée à sa gamme Luna, toujours conçue avec Leica. La Luna Pro mise sur un capteur de 1 pouce, de la vidéo 8K Dolby Vision, un écran OLED détachable et… une bo...",
+      "url": "https://www.journaldugeek.com/2026/09/12/luna-pro-insta360-et-leica-mettent-le-paquet-dans-une-camera-de-poche/",
       "source": "Journal du geek",
-      "publishedAt": "2026-09-10T14:46:38Z",
-      "category": "innovation",
+      "publishedAt": "2026-09-12T09:02:28Z",
+      "category": "data",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "Derrière les concerts de Céline Dion, une machine bien huilée qui devrait rapporter des centaines de millions, mais faire aussi quelques victimes",
+      "description": "La résidence de la star canadienne, qui débute ce samedi 12 septembre à Nanterre, pourrait générer des centaines de millions d’euros. Produits dérivés, partenariats et tourisme dopent les retombées de...",
+      "url": "https://www.lalibre.be/culture/musique/2026/09/12/derriere-les-concerts-de-celine-dion-une-machine-bien-huilee-qui-devrait-rapporter-des-centaines-de-millions-mais-faire-aussi-quelques-victimes-DKV4L6KX6FDMVDVHHFDEITFCDE/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-09-12T10:58:07Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Samsung participe aussi aux French Days : le top 11 des meilleures affaires sur la tech du géant sud-coréen",
+      "description": "Si Samsung est aussi connue, c'est parce que ses produits sont omniprésents dans la tech. Le géant coréen fabrique aussi bien des smartphones et des montres connectées que des TV, des frigos, des aspi...",
+      "url": "https://www.frandroid.com/bons-plans/3243261_samsung-participe-aussi-aux-french-days-le-top-11-des-meilleures-affaires-sur-la-tech-du-geant-sud-coreen",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-12T11:26:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Universal Music se lance à son tour dans l’IA, vous allez pouvoir remixer vos chansons préférées",
+      "description": "Universal Music Group accueille l’intelligence artificielle à bras ouverts. Le géant musical va vous permettre de générer des remixes, mashups et autres modifications de chansons à base d’IA. L’indust...",
+      "url": "https://www.phonandroid.com/universal-music-se-lance-a-son-tour-dans-lia-vous-allez-pouvoir-remixer-vos-chansons-preferees.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-09-12T08:43:04Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L’ONU inquiète des progrès fulgurants de l’IA, « un risque existentiel pour l’humanité »",
+      "description": "À Genève, Volker Türk, Haut-Commissaire de l’ONU aux droits de l’homme, a appelé les États et les entreprises technologiques à mieux encadrer l’intelligence artificielle avancée. Le sujet n’est pas no...",
+      "url": "https://www.journaldugeek.com/2026/09/12/lonu-inquiete-des-progres-fulgurants-de-lia-un-risque-existentiel-pour-lhumanite/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-09-12T10:00:25Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Analyse : avec l’iPhone Duo, Apple doit prouver que le pliable est un usage, pas un luxe",
+      "description": "Présenté le 9 septembre, l’iPhone Duo est le premier iPhone pliable et le modèle le plus cher jamais commercialisé par Apple. Son écran intérieur…\nLire la suite…\nFacebook · X · iAddict\nL’article Analy...",
+      "url": "https://iphoneaddict.fr/post/news-435286-analyse-iphone-duo-pliable-usage-luxe",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-09-12T10:12:27Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comprendre les RAG – De la Théorie au Code en 1H",
+      "description": "Dans cette vidéo, on va parler de RAG, pour Retrieval-Augmented Generation, et voir comment donner à un LLM accès à des ...",
+      "url": "https://www.youtube.com/watch?v=jM3lgl2SsY8",
+      "source": "obarrene",
+      "publishedAt": "2026-08-13T18:24:09Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "jM3lgl2SsY8",
+      "thumbnail": "https://i.ytimg.com/vi/jM3lgl2SsY8/hqdefault.jpg"
+    },
+    {
+      "title": "Power Pivot sur Excel : le tuto complet de A à Z | Formation",
+      "description": "Dans cette vidéo, je propose un cours complet sur Power Pivot, moteur de modélisation intégré à EXCEL pour croiser des ...",
+      "url": "https://www.youtube.com/watch?v=I552U7K3qLM",
+      "source": "Le Decodeur",
+      "publishedAt": "2026-08-02T15:40:51Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "I552U7K3qLM",
+      "thumbnail": "https://i.ytimg.com/vi/I552U7K3qLM/hqdefault.jpg"
     }
   ]
 }
