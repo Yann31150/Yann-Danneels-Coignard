@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 15 Sep 2026 13:18:59 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 13:16:47 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,20 +21,20 @@
             <source>Alegria Group</source>
         </item>
         <item>
-            <title>Plus risqué que l’arme nucléaire, selon Elon Musk : l’IA fait peur aux patrons de Claude, ChatGPT et Grok. Mais Donald Trump balaie leur appel au “ralentissement” d’un revers de la main</title>
-            <link>https://www.presse-citron.net/risque-arme-nucleaire-elon-musk-ia-peur-claude-chatgpt-grok-donald-trump/</link>
-            <description><![CDATA[Les patrons d’Anthropic, OpenAI et SpaceXAI pensent que le développement de l’IA doit être ralenti pour avoir le temps de gérer les risques de sécurité associés aux nouvelles fonctionnalités qui arriv...]]></description>
-            <pubDate>Mon, 14 Sep 2026 11:03:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/risque-arme-nucleaire-elon-musk-ia-peur-claude-chatgpt-grok-donald-trump/</guid>
-            <source>Presse-citron</source>
-        </item>
-        <item>
             <title>Personne ne réalise ce que le nouveau ChatGPT peut faire</title>
             <link>https://www.youtube.com/watch?v=4km3oLGe-iQ</link>
             <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4xxCk9x Rejoins ma communauté ...]]></description>
             <pubDate>Sun, 09 Aug 2026 15:00:37 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=4km3oLGe-iQ</guid>
             <source>Yassine Sdiri</source>
+        </item>
+        <item>
+            <title>J’ai Trouvé le Système ULTIME pour Utiliser l’IA GRATUITEMENT</title>
+            <link>https://www.youtube.com/watch?v=8NewbH_MQ6M</link>
+            <description><![CDATA[Vous voulez accéder à ChatGPT, Claude, Gemini, DeepSeek, Grok et bien d'autres modèles d'IA depuis une seule plateforme ?]]></description>
+            <pubDate>Sat, 12 Sep 2026 16:00:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=8NewbH_MQ6M</guid>
+            <source>Parlons Cyber</source>
         </item>
         <item>
             <title>Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker</title>
@@ -69,20 +69,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Machine Learning: Como as Máquinas APRENDEM Sozinhas? 🤖 Entenda de Uma Vez!</title>
-            <link>https://www.youtube.com/watch?v=1AqvTMEDypo</link>
-            <description><![CDATA[Você sabe o que é Machine Learning e como uma máquina consegue “aprender”? Neste vídeo da PowerSystem, você vai ...]]></description>
-            <pubDate>Fri, 28 Aug 2026 15:30:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1AqvTMEDypo</guid>
-            <source>POWER SYSTEM TI</source>
-        </item>
-        <item>
-            <title>La Chine propose la création d'une "zone d'intelligence artificielle open source" pour les Brics</title>
-            <link>https://www.journaldunet.com/business/1554795-la-chine-propose-la-creation-d-une-zone-d-intelligence-artificielle-a-code-source-ouvert-pour-les-brics/</link>
-            <description><![CDATA[Pékin veut fédérer les onze membres du bloc autour d'une coopération technologique en intelligence artificielle open source, en opposition aux modèles occidentaux.]]></description>
-            <pubDate>Mon, 14 Sep 2026 09:31:37 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/business/1554795-la-chine-propose-la-creation-d-une-zone-d-intelligence-artificielle-a-code-source-ouvert-pour-les-brics/</guid>
-            <source>JDN</source>
+            <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
+            <link>https://www.youtube.com/watch?v=NdS8xLrZd_k</link>
+            <description><![CDATA[Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...]]></description>
+            <pubDate>Mon, 14 Sep 2026 20:06:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=NdS8xLrZd_k</guid>
+            <source>contact omnicirelpc</source>
         </item>
         <item>
             <title>Cours complet sur Power BI pour débutant</title>
@@ -91,6 +83,14 @@
             <pubDate>Tue, 25 Aug 2026 17:46:11 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=uJeUP8Z9LsQ</guid>
             <source>Jeune Financier Africain </source>
+        </item>
+        <item>
+            <title>Projeto Completo de Machine Learning para Investimentos</title>
+            <link>https://www.youtube.com/watch?v=3eY4OYAhlPk</link>
+            <description><![CDATA[Aprenda Machine Learning na Prática com um Projeto de Investimentos! Conheça nosso Minicurso de Python, Automação e ...]]></description>
+            <pubDate>Mon, 31 Aug 2026 15:00:10 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=3eY4OYAhlPk</guid>
+            <source>Eficiência Programada</source>
         </item>
         <item>
             <title>Langage DAX : le cours complet de A à Z | Formation Power BI</title>
@@ -109,14 +109,6 @@
             <source>Blogdumoderateur.com</source>
         </item>
         <item>
-            <title>- L'Afrique ne paiera plus la « prime africaine »</title>
-            <link>https://www.camer.be/94740/12:1/lafrique-ne-paiera-plus-la-prime-africaine.html</link>
-            <description><![CDATA[L&amp;#039;Afrique perd 74,5 milliards $/an à cause des notations biaisées. L&amp;#039;AfCRA, le PAPSS et la dédollarisation dessinent une riposte concrète. Des notations de cré....]]></description>
-            <pubDate>Mon, 14 Sep 2026 11:22:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.camer.be/94740/12:1/lafrique-ne-paiera-plus-la-prime-africaine.html</guid>
-            <source>Camer.be</source>
-        </item>
-        <item>
             <title>Introduction | SQL - EP1</title>
             <link>https://www.youtube.com/watch?v=QXaOjeucWgI</link>
             <description><![CDATA[Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...]]></description>
@@ -125,28 +117,36 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>La Sibérie, nouvel eldorado russe des data centers</title>
-            <link>https://www.courrierinternational.com/grand-format/carte-la-siberie-nouvel-eldorado-russe-des-data-centers_244533</link>
-            <description><![CDATA[Jusqu’à présent, les centres de données russes étaient concentrés dans l’ouest de la Russie. Mais Moscou mise désormais sur les régions orientales du pays pour en implanter de nouveaux. Car les tempér...]]></description>
-            <pubDate>Sun, 13 Sep 2026 15:30:12 -0000</pubDate>
-            <guid isPermaLink="true">https://www.courrierinternational.com/grand-format/carte-la-siberie-nouvel-eldorado-russe-des-data-centers_244533</guid>
-            <source>Courrier International</source>
+            <title>Apprendre à lire : ce que les données de 9 000 enseignants et 130 000 élèves révèlent des méthodes et de leur efficacité</title>
+            <link>https://theconversation.com/apprendre-a-lire-ce-que-les-donnees-de-9-000-enseignants-et-130-000-eleves-revelent-des-methodes-et-de-leur-efficacite-291310</link>
+            <description><![CDATA[Alors que la dernière enquête PISA sur le niveau des élèves note un net décrochage dans la compréhension de l’écrit, des études offrent des pistes pour améliorer l’enseignement de la lecture.]]></description>
+            <pubDate>Mon, 14 Sep 2026 14:23:28 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/apprendre-a-lire-ce-que-les-donnees-de-9-000-enseignants-et-130-000-eleves-revelent-des-methodes-et-de-leur-efficacite-291310</guid>
+            <source>The Conversation Africa</source>
         </item>
         <item>
-            <title>Chris Wade, CTO de Cellebrite, prend la tête de Cellebrite Labs pour renforcer la recherche dans le domaine des appareils mobiles</title>
-            <link>https://www.prnewswire.com/news-releases/chris-wade-cto-de-cellebrite-prend-la-tete-de-cellebrite-labs-pour-renforcer-la-recherche-dans-le-domaine-des-appareils-mobiles-302877200.html</link>
-            <description><![CDATA[Cette initiative stratégique renforce la technologie phare de Cellebrite en matière d'accès, d'extraction et de décodage, alors que Cellebrite Labs rejoint l'Innovation Hub de Wade TYSONS CORNER, Virg...]]></description>
-            <pubDate>Mon, 14 Sep 2026 13:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/chris-wade-cto-de-cellebrite-prend-la-tete-de-cellebrite-labs-pour-renforcer-la-recherche-dans-le-domaine-des-appareils-mobiles-302877200.html</guid>
-            <source>PRNewswire</source>
+            <title>Hartmann Tresore accompagne les entreprises dans la sécurisation de leurs documents sensibles</title>
+            <link>https://www.challenges.fr/partenaires/hartmann-tresore-accompagne-les-entreprises-dans-la-securisation-de-leurs-documents-sensibles_645656</link>
+            <description><![CDATA[À l’aube de la rentrée, les entreprises se retrouvent face à une obligation légale et stratégique : protéger leurs documents clients, brevets, données sensibles et matériels de valeur. Dans un context...]]></description>
+            <pubDate>Tue, 15 Sep 2026 08:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.challenges.fr/partenaires/hartmann-tresore-accompagne-les-entreprises-dans-la-securisation-de-leurs-documents-sensibles_645656</guid>
+            <source>Challenges</source>
         </item>
         <item>
-            <title>Faire cotiser l’IA pour financer nos retraites</title>
-            <link>https://www.nouvelobs.com/opinions/20260914.OBS118225/faire-cotiser-l-ia-pour-financer-nos-retraites.html</link>
-            <description><![CDATA[Si l’intelligence artificielle remplace une partie du travail humain, elle réduit aussi les cotisations qui financent nos retraites. D’où l’idée d’un « dividende IA » pour compenser ce manque à gagner...]]></description>
-            <pubDate>Mon, 14 Sep 2026 13:08:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.nouvelobs.com/opinions/20260914.OBS118225/faire-cotiser-l-ia-pour-financer-nos-retraites.html</guid>
-            <source>L'Obs</source>
+            <title>États-Unis : des armes en orbite, première étape concrète du Golden Dome de Trump</title>
+            <link>https://www.numerama.com/tech/2333177-etats-unis-des-armes-en-orbite-premiere-etape-concrete-du-golden-dome-de-trump.html</link>
+            <description><![CDATA[Depuis maintenant des années, Donald Trump évoque la construction d'un « Golden Dome », un ensemble de systèmes de protection anti-missiles avec un volet spatial encore mal défini. Les prémices appara...]]></description>
+            <pubDate>Tue, 15 Sep 2026 08:40:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/tech/2333177-etats-unis-des-armes-en-orbite-premiere-etape-concrete-du-golden-dome-de-trump.html</guid>
+            <source>Numerama</source>
+        </item>
+        <item>
+            <title>PHOTOS - Nouveau Renault Niagara : design tranchant et intelligence artificielle pour le pick-up remplaçant l’Alaskan</title>
+            <link>https://www.turbo.fr/renault/photos/photos-nouveau-renault-niagara-design-tranchant-et-intelligence-artificielle-pour-le-pick-remplacant-lalaskan</link>
+            <description><![CDATA[Renault dévoile le Niagara. Basé sur le SUV Boréal, ce pick-up à la silhouette moderne remplace indirectement l’Alaskan et sera vendu en Amérique latine. La marque promet un intérieur ultra connecté e...]]></description>
+            <pubDate>Tue, 15 Sep 2026 11:00:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.turbo.fr/renault/photos/photos-nouveau-renault-niagara-design-tranchant-et-intelligence-artificielle-pour-le-pick-remplacant-lalaskan</guid>
+            <source>Turbo.fr</source>
         </item>
         <item>
             <title>Sécuriser ses agents IA : guide de défense en profondeur pour vos systèmes de production</title>
@@ -157,20 +157,20 @@
             <source>Octo.com</source>
         </item>
         <item>
-            <title>ACTO figure dans le Top 50™ des fournisseurs de technologies pharmaceutiques établi par Everest Group pour 2026</title>
-            <link>https://www.prnewswire.com/news-releases/acto-figure-dans-le-top-50-des-fournisseurs-de-technologies-pharmaceutiques-etabli-par-everest-group-pour-2026-302876894.html</link>
-            <description><![CDATA[Cette distinction souligne le rôle de premier plan joué par ACTO dans l'excellence opérationnelle basée sur l'IA et dans le domaine de l'IA agentique spécialement conçue pour les sciences de la vie TO...]]></description>
-            <pubDate>Mon, 14 Sep 2026 12:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/acto-figure-dans-le-top-50-des-fournisseurs-de-technologies-pharmaceutiques-etabli-par-everest-group-pour-2026-302876894.html</guid>
-            <source>PRNewswire</source>
+            <title>L'IA en coulisses, l'humain aux commandes : plaidoyer pour une autre transformation technologique</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1554811-l-ia-en-coulisses-l-humain-aux-commandes-plaidoyer-pour-une-autre-transformation-technologique/</link>
+            <description><![CDATA[À l'heure où l'IA générative et les agents promettent de transformer tous les métiers, cette tribune de Kiloutou défend une conviction à contre-courant : la technologie ne doit pas remplacer l'humain.]]></description>
+            <pubDate>Tue, 15 Sep 2026 08:28:24 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1554811-l-ia-en-coulisses-l-humain-aux-commandes-plaidoyer-pour-une-autre-transformation-technologique/</guid>
+            <source>JDN</source>
         </item>
         <item>
-            <title>Power Pivot sur Excel : le tuto complet de A à Z | Formation</title>
-            <link>https://www.youtube.com/watch?v=I552U7K3qLM</link>
-            <description><![CDATA[Dans cette vidéo, je propose un cours complet sur Power Pivot, moteur de modélisation intégré à EXCEL pour croiser des ...]]></description>
-            <pubDate>Sun, 02 Aug 2026 15:40:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=I552U7K3qLM</guid>
-            <source>Le Decodeur</source>
+            <title>L’intelligence artificielle pourrait-elle vraiment nous tuer ?</title>
+            <link>https://www.lalibre.be/debats/opinions/2026/09/14/lintelligence-artificielle-pourrait-elle-vraiment-nous-tuer-VXJEOYSN6VGGDPP2GJTKKZHV6U/</link>
+            <description><![CDATA[Banques, hôpitaux, centrales électriques, armées : notre monde entier est connecté. L’autonomie croissante des intelligences artificielles donne une portée inédite aux risques liés à cette interconnex...]]></description>
+            <pubDate>Mon, 14 Sep 2026 13:54:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lalibre.be/debats/opinions/2026/09/14/lintelligence-artificielle-pourrait-elle-vraiment-nous-tuer-VXJEOYSN6VGGDPP2GJTKKZHV6U/</guid>
+            <source>Lalibre.be</source>
         </item>
     </channel>
 </rss>
