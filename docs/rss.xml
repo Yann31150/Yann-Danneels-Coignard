@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 17 Sep 2026 13:13:42 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 12:48:56 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,28 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>ChatGPT Work : le tutoriel complet pour déléguer ton travail à l&amp;#39;IA (guide débutant)</title>
-            <link>https://www.youtube.com/watch?v=pbWVTztZ7b8</link>
-            <description><![CDATA[Le guide gratuit "Gagne ta première journée avec ChatGPT Work" https://alegriagroup.lovable.app/?src=lm_chatgpt_work ...]]></description>
-            <pubDate>Thu, 13 Aug 2026 07:49:37 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=pbWVTztZ7b8</guid>
-            <source>Alegria Group</source>
-        </item>
-        <item>
             <title>IA, Machine Learning e Deep Learning: qual é a diferença?</title>
             <link>https://www.youtube.com/watch?v=XTmj6NxHHwM</link>
             <description><![CDATA[Inteligência Artificial, Machine Learning e Deep Learning são a mesma coisa? Neste vídeo da Luanalytics, você vai entender de ...]]></description>
             <pubDate>Wed, 19 Aug 2026 22:01:29 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=XTmj6NxHHwM</guid>
             <source>Luanalytics</source>
-        </item>
-        <item>
-            <title>Personne ne réalise ce que le nouveau ChatGPT peut faire</title>
-            <link>https://www.youtube.com/watch?v=4km3oLGe-iQ</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4xxCk9x Rejoins ma communauté ...]]></description>
-            <pubDate>Sun, 09 Aug 2026 15:00:37 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=4km3oLGe-iQ</guid>
-            <source>Yassine Sdiri</source>
         </item>
         <item>
             <title>Un grand nombre d'intervenants humains lisent vos conversations avec ChatGPT</title>
@@ -69,14 +53,6 @@
             <source>Stanford Online</source>
         </item>
         <item>
-            <title>JAX Automatic Differentiation – Régression simple, descente de gradient (Python)</title>
-            <link>https://www.youtube.com/watch?v=LKtwwn-W6iM</link>
-            <description><![CDATA[Machine learning. Data science. JAX est une bibliothèque de calcul numérique « à la Numpy » permettant de manipuler les ...]]></description>
-            <pubDate>Mon, 20 Jul 2026 08:19:53 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=LKtwwn-W6iM</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
             <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
             <link>https://www.youtube.com/watch?v=NdS8xLrZd_k</link>
             <description><![CDATA[Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...]]></description>
@@ -93,6 +69,30 @@
             <source>Jeune Financier Africain </source>
         </item>
         <item>
+            <title>Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10</title>
+            <link>https://www.youtube.com/watch?v=jp6vn3Hp_zc</link>
+            <description><![CDATA[COMPILATION — Chapitre 6/10 de la formation Data &amp; Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.]]></description>
+            <pubDate>Mon, 07 Sep 2026 11:00:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=jp6vn3Hp_zc</guid>
+            <source>IA Futura</source>
+        </item>
+        <item>
+            <title>Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet</title>
+            <link>https://www.youtube.com/watch?v=x7Nh0RKEoxg</link>
+            <description><![CDATA[Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...]]></description>
+            <pubDate>Fri, 31 Jul 2026 17:56:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=x7Nh0RKEoxg</guid>
+            <source>Data & Dash Consulting</source>
+        </item>
+        <item>
+            <title>FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL</title>
+            <link>https://www.youtube.com/watch?v=Lp9R5PlZeRg</link>
+            <description><![CDATA[FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...]]></description>
+            <pubDate>Mon, 10 Aug 2026 22:57:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Lp9R5PlZeRg</guid>
+            <source>Ceemtic Analytics</source>
+        </item>
+        <item>
             <title>Langage DAX : le cours complet de A à Z | Formation Power BI</title>
             <link>https://www.youtube.com/watch?v=7SV9kNRvdmU</link>
             <description><![CDATA[Dans cette vidéo, je propose un cours complet sur DAX, langage intégré à EXCEL &amp; Power BI, pour le calcul de colonnes ou de ...]]></description>
@@ -101,20 +101,36 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Carburants d'aviation durables : le problème n'est pas la demande, mais la façon dont nous la comptabilisons</title>
-            <link>https://www.journaldunet.com/management/direction-generale/1554771-carburants-d-aviation-durables-le-probleme-n-est-pas-la-demande-mais-la-facon-dont-nous-la-comptabilisons/</link>
-            <description><![CDATA[La demande pour les carburants d'aviation durables (SAF) existe. Mais les règles actuelles de comptabilisation carbone freinent encore la capacité des entreprises à contribuer à leur financement.]]></description>
-            <pubDate>Wed, 16 Sep 2026 12:53:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/management/direction-generale/1554771-carburants-d-aviation-durables-le-probleme-n-est-pas-la-demande-mais-la-facon-dont-nous-la-comptabilisons/</guid>
-            <source>JDN</source>
+            <title>L’État publie son premier guide officiel d’usage de l’IA pour ses agents</title>
+            <link>https://www.abondance.com/20260917-2942416-etat-publication-guide-officiel-usage-ia.html</link>
+            <description><![CDATA[Ce qu'il faut retenir : Ce guide interministériel fixe 5 principes fondamentaux d'usage de l'IA : responsabilité de l'agent, choix de l'outil selon la sensibilité des données, transparence, sobriété e...]]></description>
+            <pubDate>Thu, 17 Sep 2026 06:50:59 -0000</pubDate>
+            <guid isPermaLink="true">https://www.abondance.com/20260917-2942416-etat-publication-guide-officiel-usage-ia.html</guid>
+            <source>Abondance.com</source>
         </item>
         <item>
-            <title>Présidentielle 2027 : ce que contiennent vraiment les programmes IA des candidats (et leurs angles morts)</title>
-            <link>https://www.zdnet.fr/actualites/presidentielle-2027-ce-que-contiennent-vraiment-les-programmes-ia-des-candidats-et-leurs-angles-morts-503639.htm</link>
-            <description><![CDATA[Entre investissements colossaux, automatisation des services publics et régulation des Big Tech, les candidats dévoilent des stratégies diamétralement opposées. Analyse.]]></description>
-            <pubDate>Wed, 16 Sep 2026 08:09:53 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/presidentielle-2027-ce-que-contiennent-vraiment-les-programmes-ia-des-candidats-et-leurs-angles-morts-503639.htm</guid>
-            <source>ZDNet France</source>
+            <title>Froid, électricité, proximité de la Chine... La Sibérie, nouvel eldorado des data centers russes</title>
+            <link>https://www.franceinfo.fr/replay-radio/le-monde-et-vous/froid-electricite-proximite-de-la-chine-la-siberie-nouvel-eldorado-des-data-centers-russes_8191940.html</link>
+            <description><![CDATA[Avec son climat glacial, ses importantes ressources énergétiques et sa situation géographique proche de la Chine, la Sibérie attire les projets russes de centres de données. Un déplacement vers l'Est ...]]></description>
+            <pubDate>Thu, 17 Sep 2026 06:20:27 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/le-monde-et-vous/froid-electricite-proximite-de-la-chine-la-siberie-nouvel-eldorado-des-data-centers-russes_8191940.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
+            <title>Skyhawk Therapeutics annonce les résultats finaux à quinze mois de l'essai clinique de phase 1/2 du SKY-0515 chez des patients atteints de la maladie de Huntington</title>
+            <link>https://www.prnewswire.com/news-releases/skyhawk-therapeutics-annonce-les-resultats-finaux-a-quinze-mois-de-lessai-clinique-de-phase-12-du-sky-0515-chez-des-patients-atteints-de-la-maladie-de-huntington-302882023.html</link>
+            <description><![CDATA[L'ensemble de données portant sur une période de quinze mois correspond à l'analyse finale de l'étude de phase 1/2 Au point d'évaluation principal du 15ᵉ mois, les patients traités par SKY-0515 présen...]]></description>
+            <pubDate>Thu, 17 Sep 2026 12:07:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/skyhawk-therapeutics-annonce-les-resultats-finaux-a-quinze-mois-de-lessai-clinique-de-phase-12-du-sky-0515-chez-des-patients-atteints-de-la-maladie-de-huntington-302882023.html</guid>
+            <source>PRNewswire</source>
+        </item>
+        <item>
+            <title>Dans la course à l'IA, nous avons choisi d'être le hérisson : avancer avec méthode, responsabilité et sens, plutôt qu'à toute vitesse</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1554937-dans-la-course-a-l-ia-nous-avons-choisi-d-etre-le-herisson-avancer-avec-methode-responsabilite-et-sens-plutot-qu-a-toute-vitesse/</link>
+            <description><![CDATA[Ne pas céder à la folie tendancielle qui accompagne le développement de l'IA et à la tentation d'aller vite pour ne pas sembler distancé. Observer, réfléchir, et se poser les bonnes questions.]]></description>
+            <pubDate>Thu, 17 Sep 2026 09:06:23 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1554937-dans-la-course-a-l-ia-nous-avons-choisi-d-etre-le-herisson-avancer-avec-methode-responsabilite-et-sens-plutot-qu-a-toute-vitesse/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -125,52 +141,36 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>UVSQ-SAT NG : un laboratoire du New Space académique à la française</title>
-            <link>https://www.futura-sciences.com/sciences/actualites/observation-terre-uvsq-sat-ng-laboratoire-new-space-academique-francaise-137331/</link>
-            <description><![CDATA[Mis en orbite en mars 2025, UVSQ-SAT NG a été développé au Latmos (Laboratoire Atmosphères et Observations spatiales – CNRS, Sorbonne Université, UVSQ), avec de nombreux partenaires académiques et ind...]]></description>
-            <pubDate>Wed, 16 Sep 2026 08:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/observation-terre-uvsq-sat-ng-laboratoire-new-space-academique-francaise-137331/</guid>
-            <source>Futura</source>
+            <title>Coupe du monde à Wavre : le bilan touristique pour les commerçants et l'Horeca se fait attendre</title>
+            <link>https://www.dhnet.be/regions/brabant/2026/09/17/coupe-du-monde-a-wavre-le-bilan-touristique-pour-les-commercants-et-lhoreca-se-fait-attendre-OLCSH22MQFHTZMRMAS7EJPDVOE/</link>
+            <description><![CDATA[Plus de 110 000 spectateurs ont assisté au Mondial de hockey à Wavre. Cela a généré 3 000 nuitées. ...]]></description>
+            <pubDate>Thu, 17 Sep 2026 09:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.dhnet.be/regions/brabant/2026/09/17/coupe-du-monde-a-wavre-le-bilan-touristique-pour-les-commercants-et-lhoreca-se-fait-attendre-OLCSH22MQFHTZMRMAS7EJPDVOE/</guid>
+            <source>dh.be</source>
         </item>
         <item>
-            <title>Actualité : Quand arrive le nouveau Siri en France ? L’astuce pour le tester avant tout le monde sur iPhone</title>
-            <link>https://www.lesnumeriques.com/telephone-portable/quand-arrive-le-nouveau-siri-en-france-l-astuce-pour-le-tester-avant-tout-le-monde-sur-iphone-n261913.html</link>
-            <description><![CDATA[Le nouveau Siri dopé à l’IA n’a toujours pas de date de sortie pour la France, mais les précédentes habitudes d’Apple pourraient nous donner un indice sur son lancement. Et pour les plus impatients, u...]]></description>
-            <pubDate>Wed, 16 Sep 2026 11:19:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/telephone-portable/quand-arrive-le-nouveau-siri-en-france-l-astuce-pour-le-tester-avant-tout-le-monde-sur-iphone-n261913.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
-            <title>IA industrielle : TotalEnergies pivote avec un méga-contrat Mistral AI</title>
-            <link>https://www.zdnet.fr/actualites/ia-industrielle-totalenergies-pivote-avec-un-mega-contrat-mistral-ai-503636.htm</link>
-            <description><![CDATA[Huit ans après ses premières expérimentations de machine learning avec l'américain Google Cloud, TotalEnergies opère un virage. Le géant énergétique investit 100 millions d'euros sur trois ans avec le...]]></description>
-            <pubDate>Wed, 16 Sep 2026 06:09:27 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/ia-industrielle-totalenergies-pivote-avec-un-mega-contrat-mistral-ai-503636.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
-            <title>« Chaque acteur malveillant dispose désormais des capacités d’un État » : comment l’IA change la cybercriminalité</title>
-            <link>https://www.futura-sciences.com/tech/actualites/cybersecurite-chaque-acteur-malveillant-dispose-desormais-capacites-etat-ia-change-cybercriminalite-137758/</link>
-            <description><![CDATA[L’intelligence artificielle ne se contente plus d’assister les hackers, elle leur permet désormais d’automatiser une grande partie de leurs attaques. Une évolution qui change profondément le rapport d...]]></description>
-            <pubDate>Tue, 15 Sep 2026 18:17:44 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/cybersecurite-chaque-acteur-malveillant-dispose-desormais-capacites-etat-ia-change-cybercriminalite-137758/</guid>
-            <source>Futura</source>
-        </item>
-        <item>
-            <title>Le marché et les tribunaux suffiront : Mark Zuckerberg s’oppose fermement aux appels à ralentir l’IA</title>
-            <link>https://www.numerama.com/tech/2333867-le-marche-et-les-tribunaux-suffiront-mark-zuckerberg-soppose-fermement-aux-appels-a-ralentir-lia.html</link>
-            <description><![CDATA[Le patron de Meta n'a aucune intention de lever le pied sur l'intelligence artificielle. Alors qu'une partie de la Silicon Valley réclame un coup de frein, Mark Zuckerberg répond que le marché et les ...]]></description>
-            <pubDate>Wed, 16 Sep 2026 09:49:32 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/tech/2333867-le-marche-et-les-tribunaux-suffiront-mark-zuckerberg-soppose-fermement-aux-appels-a-ralentir-lia.html</guid>
+            <title>Film Portal : J.J. Abrams bientôt doublé ? Le réalisateur de Backrooms s’affiche chez Valve une 2e fois</title>
+            <link>https://www.numerama.com/pop-culture/2334587-film-portal-le-realisateur-de-backrooms-est-chez-valve-que-se-passe-t-il.html</link>
+            <description><![CDATA[Il aura suffi d'une simple story sur Instagram depuis les locaux de Valve pour enflammer toute la communauté geek. Kane Parsons, le réalisateur de 21 ans qui a pulvérisé le box-office mondial avec Bac...]]></description>
+            <pubDate>Thu, 17 Sep 2026 10:51:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/pop-culture/2334587-film-portal-le-realisateur-de-backrooms-est-chez-valve-que-se-passe-t-il.html</guid>
             <source>Numerama</source>
         </item>
         <item>
-            <title>☀️ Une IA détecte des régions actives du Soleil avant leur apparition</title>
-            <link>https://www.techno-science.net/fr/actualites/ia-detecte-regions-actives-soleil-29316</link>
-            <description><![CDATA[Une intelligence artificielle peut repérer jusqu’à 12 heures à l’avance certaines régions actives du Soleil sans manifestation encore visible à sa surface. Ces régions correspondent à de fortes concen...]]></description>
-            <pubDate>Wed, 16 Sep 2026 11:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.techno-science.net/fr/actualites/ia-detecte-regions-actives-soleil-29316</guid>
-            <source>Techno-science.net</source>
+            <title>Souveraineté quantique : Alice &amp; Bob et le CEA ripostent à CUDA-Q de Nvidia pour piloter les supercalculateurs</title>
+            <link>https://www.generation-nt.com/actualites/alice-bob-cea-informatique-quantique-hpc-supercalculateur-logiciel-qaptiva-2081365</link>
+            <description><![CDATA[La course à la suprématie quantique n'est pas qu'une affaire de matériel. La France l'a bien compris et vient de poser une brique logicielle essentielle en créant un pont entre le présent des supercal...]]></description>
+            <pubDate>Thu, 17 Sep 2026 12:45:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/alice-bob-cea-informatique-quantique-hpc-supercalculateur-logiciel-qaptiva-2081365</guid>
+            <source>Génération NT</source>
+        </item>
+        <item>
+            <title>Lidl lance des livraisons avec un camion sans humain à bord : impossible même d’y installer un chauffeur</title>
+            <link>https://www.futura-sciences.com/tech/actualites/camion-autonome-lidl-lance-livraisons-camion-humain-bord-impossible-meme-y-installer-chauffeur-137784/</link>
+            <description><![CDATA[Ni volant, ni siège, ni même cabine : Lidl expérimente en Allemagne un camion électrique réellement autonome, sans conducteur pour superviser la conduite. Une prouesse technologique qui pose aussi la ...]]></description>
+            <pubDate>Thu, 17 Sep 2026 11:47:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/camion-autonome-lidl-lance-livraisons-camion-humain-bord-impossible-meme-y-installer-chauffeur-137784/</guid>
+            <source>Futura</source>
         </item>
     </channel>
 </rss>
