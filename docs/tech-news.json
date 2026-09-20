@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-19T12:21:59.539788",
+  "lastUpdate": "2026-09-20T12:57:13.662253",
   "articles": [
     {
       "title": "IA, Machine Learning e Deep Learning: qual é a diferença?",
@@ -14,16 +14,52 @@
       "thumbnail": "https://i.ytimg.com/vi/XTmj6NxHHwM/hqdefault.jpg"
     },
     {
-      "title": "Comment ChatGPT “pense”-t-il ?",
-      "description": "On parle souvent de l’intelligence artificielle comme d’une “boîte noire” dont personne ne comprend le fonctionnement. Mais de plus en plus de chercheurs se tournent vers des techniques de rétro-ingén...",
-      "url": "https://www.courrierinternational.com/article/dans-nos-archives-comment-chatgpt-pense-t-il_218841_1",
-      "source": "Courrier International",
-      "publishedAt": "2026-09-18T07:59:29Z",
+      "title": "Formation Power BI #4 — Power Query : nettoyer et préparer les données",
+      "description": "Des données brutes aux données prêtes : l'atelier où se gagne la fiabilité du rapport Formation Power BI par Bitdyne.",
+      "url": "https://www.youtube.com/watch?v=_PyXjVZsbN8",
+      "source": "Bitdyne",
+      "publishedAt": "2026-09-10T23:58:06Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "_PyXjVZsbN8",
+      "thumbnail": "https://i.ytimg.com/vi/_PyXjVZsbN8/hqdefault.jpg"
+    },
+    {
+      "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
+      "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
+      "url": "https://www.youtube.com/watch?v=nNo2tnuYXDo",
+      "source": "Bitdyne",
+      "publishedAt": "2026-09-10T23:53:20Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "nNo2tnuYXDo",
+      "thumbnail": "https://i.ytimg.com/vi/nNo2tnuYXDo/hqdefault.jpg"
+    },
+    {
+      "title": "Arrêtez de payer ChatGPT: cette IA locale est gratuite &amp; illimité",
+      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4rigRiT Rejoins ma communauté ...",
+      "url": "https://www.youtube.com/watch?v=AaLTIk_Nc4k",
+      "source": "Yassine Sdiri",
+      "publishedAt": "2026-09-16T15:00:11Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "AaLTIk_Nc4k",
+      "thumbnail": "https://i.ytimg.com/vi/AaLTIk_Nc4k/hqdefault.jpg"
+    },
+    {
+      "title": "Explorer et préparer ses données avec pandas (data science)",
+      "description": "Troisième épisode de la Formation Machine learning & data science de Bitdyne, pour consultants au Maroc. La préparation des ...",
+      "url": "https://www.youtube.com/watch?v=J3YIeIEeIl8",
+      "source": "Bitdyne",
+      "publishedAt": "2026-09-08T22:24:34Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "J3YIeIEeIl8",
+      "thumbnail": "https://i.ytimg.com/vi/J3YIeIEeIl8/hqdefault.jpg"
     },
     {
       "title": "Comment l'IA pédagogique bouscule le marché de la formation professionnelle",
@@ -38,28 +74,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Combo sous Julia : BD (SQLite) + Web App (Genie Framework) +Docker",
-      "description": "Machine learning. Data science. MLOps. Création d'une image docker encapsulant une base de données multi-tables (SQLite, ...",
-      "url": "https://www.youtube.com/watch?v=dIuLrxn3ViE",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-07-30T15:41:54Z",
+      "title": "Formation Power BI #5 — Le modèle de données et le schéma en étoile",
+      "description": "Faits, dimensions, relations : la charpente qui rend tous les calculs justes Formation Power BI par Bitdyne. Cas concrets ...",
+      "url": "https://www.youtube.com/watch?v=_HMCrW-g-I4",
+      "source": "Bitdyne",
+      "publishedAt": "2026-09-10T23:59:23Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "dIuLrxn3ViE",
-      "thumbnail": "https://i.ytimg.com/vi/dIuLrxn3ViE/hqdefault.jpg"
-    },
-    {
-      "title": "Microsoft Power BI : Apprenez à créer vos rapports pas à pas ! 📊",
-      "description": "Vous souhaitez maîtriser Microsoft Power BI et apprendre à créer vos rapports pas à pas ? Microsoft Power BI est aujourd'hui l'un ...",
-      "url": "https://www.youtube.com/watch?v=9R-humPn-eo",
-      "source": "JUFIP",
-      "publishedAt": "2026-07-26T15:00:27Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "9R-humPn-eo",
-      "thumbnail": "https://i.ytimg.com/vi/9R-humPn-eo/hqdefault.jpg"
+      "videoId": "_HMCrW-g-I4",
+      "thumbnail": "https://i.ytimg.com/vi/_HMCrW-g-I4/hqdefault.jpg"
     },
     {
       "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction",
@@ -98,28 +122,16 @@
       "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
     },
     {
-      "title": "Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10",
-      "description": "COMPILATION — Chapitre 6/10 de la formation Data & Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.",
-      "url": "https://www.youtube.com/watch?v=jp6vn3Hp_zc",
-      "source": "IA Futura",
-      "publishedAt": "2026-09-07T11:00:18Z",
-      "category": "ai",
+      "title": "Python : introduction à pandas pour l&#39;analyse de données",
+      "description": "Seizième épisode de la Formation Python Bitdyne : découvrir pandas. Le DataFrame, filtrer des lignes, regrouper et agréger ...",
+      "url": "https://www.youtube.com/watch?v=cIfEIoT3MCc",
+      "source": "Bitdyne",
+      "publishedAt": "2026-09-02T04:02:19Z",
+      "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "jp6vn3Hp_zc",
-      "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
-    },
-    {
-      "title": "Un Creeper ruine la partie de minecraft de GPT-6, l'IA finit en dépression dans un champ de patates",
-      "description": "Un agent autonome de dernière génération, GPT-6 a passé 141 heures à accomplir des exploits sur un jeu bac à sable, surpassant tous les tests précédents. Mais après avoir perdu son précieux équipement...",
-      "url": "https://www.generation-nt.com/actualites/creeper-ruine-partie-gpt-6-depression-patates-2081395",
-      "source": "Génération NT",
-      "publishedAt": "2026-09-18T11:15:01Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "videoId": "cIfEIoT3MCc",
+      "thumbnail": "https://i.ytimg.com/vi/cIfEIoT3MCc/hqdefault.jpg"
     },
     {
       "title": "Langage DAX : le cours complet de A à Z | Formation Power BI",
@@ -134,11 +146,11 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
-      "title": "L’État publie son premier guide officiel d’usage de l’IA pour ses agents",
-      "description": "Ce qu'il faut retenir : Ce guide interministériel fixe 5 principes fondamentaux d'usage de l'IA : responsabilité de l'agent, choix de l'outil selon la sensibilité des données, transparence, sobriété e...",
-      "url": "https://www.abondance.com/20260917-2942416-etat-publication-guide-officiel-usage-ia.html",
-      "source": "Abondance.com",
-      "publishedAt": "2026-09-17T06:50:59Z",
+      "title": "Une entreprise biotech virtuelle mise sur 37 000 agents IA pour accélérer la recherche de médicaments",
+      "description": "Imaginez une entreprise pharmaceutique sans laboratoires, sans éprouvettes et sans masse salariale. Juste du code et une ambition folle. C'est le projet spectaculaire mené par des chercheurs de Stanfo...",
+      "url": "https://www.generation-nt.com/actualites/biotech-intelligence-artificielle-agent-ia-decouverte-medicament-stanford-2081451",
+      "source": "Génération NT",
+      "publishedAt": "2026-09-18T17:30:01Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -146,23 +158,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Test de niveau Power BI : 30 questions pour se situer 🔥",
-      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
-      "url": "https://www.youtube.com/watch?v=31eK0Sk330A",
-      "source": "Morpheus Formation | Excel, Power BI, Data",
-      "publishedAt": "2026-08-27T07:27:34Z",
+      "title": "Comprendre l&#39;informatique #10 — Les bases de données et SQL",
+      "description": "Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...",
+      "url": "https://www.youtube.com/watch?v=Ne5LQuLVmfE",
+      "source": "Bitdyne",
+      "publishedAt": "2026-09-02T03:04:52Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "31eK0Sk330A",
-      "thumbnail": "https://i.ytimg.com/vi/31eK0Sk330A/hqdefault.jpg"
+      "videoId": "Ne5LQuLVmfE",
+      "thumbnail": "https://i.ytimg.com/vi/Ne5LQuLVmfE/hqdefault.jpg"
     },
     {
-      "title": "Amazon abandonne les données détruites dans un centre au Moyen-Orient",
-      "description": "Amazon capitule définitivement sur la récupération des données stockées dans ses installations de Bahreïn et des Émirats arabes unis, lourdement endommagées par les récents conflits entre l'Iran et le...",
-      "url": "https://www.generation-nt.com/actualites/amazon-abandonne-donnees-detruites-2081398",
-      "source": "Génération NT",
-      "publishedAt": "2026-09-18T12:10:01Z",
+      "title": "Plafonds de taille des PDF sur les portails administratifs, d'emploi et d'études (2026)",
+      "description": "Quelle taille maximale un PDF peut-il faire avant d'être refusé par un portail ? Ce jeu de données recense le plafond publié pour l'envoi d'un PDF sur 162 portails publics et privés dans six pays (Fra...",
+      "url": "https://www.data.gouv.fr/datasets/plafonds-de-taille-des-pdf-sur-les-portails-administratifs-demploi-et-detudes-2026",
+      "source": "Gouv.fr",
+      "publishedAt": "2026-09-19T12:53:35Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -170,23 +182,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Froid, électricité, proximité de la Chine... La Sibérie, nouvel eldorado des data centers russes",
-      "description": "Avec son climat glacial, ses importantes ressources énergétiques et sa situation géographique proche de la Chine, la Sibérie attire les projets russes de centres de données. Un déplacement vers l'Est ...",
-      "url": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/froid-electricite-proximite-de-la-chine-la-siberie-nouvel-eldorado-des-data-centers-russes_8191940.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-09-17T06:20:27Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Calibre lance le livre dont vous êtes le héros, généré par IA",
-      "description": "Calibre 9.15 embarque un jeu d'aventure narratif piloté par une IA, qu'il faut aller activer soi-même dans les préférences. On décrit un monde en quelques lignes, le logiciel en tire un décor et des p...",
-      "url": "https://korben.info/calibre-9-15-jeu-aventure-ia.html",
-      "source": "Korben.info",
-      "publishedAt": "2026-09-18T10:21:37Z",
+      "title": "Ethnoguessr : Quel est ce « jeu » à la méthode scientifique douteuse, hérité de l’anthropologie racialiste ?",
+      "description": "Deviner l’origine géographique ou l’ethnie d’individus à partir de visages : voilà un nouveau « jeu » bien curieux. Derrière son interface récréative se cache une absence totale de méthodologie scient...",
+      "url": "https://www.20minutes.fr/societe/4246506-20260919-ethnoguessr-jeu-methode-scientifique-douteuse-herite-anthropologie-racialiste",
+      "source": "20 Minutes",
+      "publishedAt": "2026-09-19T08:32:36Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,42 +206,6 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Repérer la marque automobile au système de navigation le plus fluide : 6 démonstrations en concession",
-      "description": "Un système de navigation ne se juge pas sur une fiche technique. Le nombre d'écrans, la diagonale des dalles ou la définition annoncée ne disent rien du temps que mettra la carte à s'afficher un matin...",
-      "url": "https://www.lesnumeriques.com/traceurs-gps/reperer-la-marque-automobile-au-systeme-de-navigation-le-plus-fluide-6-demonstrations-en-concession-na262029.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-09-18T07:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Narvik : « Face à l’IA, l’expert-comptable redevient humain »",
-      "description": "Entretien avec Eugène Mouchet, co-fondateur du cabinet d’expertise-comptable Narvik",
-      "url": "https://www.challenges.fr/partenaires/narvik-face-a-lia-lexpert-comptable-redevient-humain_645868",
-      "source": "Challenges",
-      "publishedAt": "2026-09-18T08:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Acheter à Waterloo quand on y a grandi : les pistes de la commune pour aider les jeunes à rester malgré les prix de l’immobilier",
-      "description": "Le dossier de La Libre immo | Petites maisons à rénover, logements à loyer modéré et projets avec l’ancienne régie foncière provinciale : Waterloo dispose de quelques moyens pour faciliter l’accès au ...",
-      "url": "https://www.lalibre.be/economie/immo/2026/09/18/acheter-a-waterloo-quand-on-y-a-grandi-les-pistes-de-la-commune-pour-aider-les-jeunes-a-rester-malgre-les-prix-de-limmobilier-UKT7KMONBFALHLYU7WZ4DBI63E/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-09-18T08:22:10Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Avec “GuérillIA”, Christophe Payet propose un manuel de résistance érudit pour reprendre le contrôle de l’IA",
       "description": "Le journaliste, qui publie “GuérillIA – Mener la bataille culturelle de l’intelligence artificielle”, nous enjoint à reprendre le contrôle de l’IA pour ne pas la laisser entre les mains des géants de ...",
       "url": "https://www.lesinrocks.com/livres/avec-guerillia-christophe-payet-propose-un-manuel-de-resistance-erudit-pour-reprendre-le-controle-de-lia-702750-18-09-2026/",
@@ -254,47 +218,47 @@
       "thumbnail": ""
     },
     {
+      "title": "Intelligence artificielle : Google fait face à un nouvel incident inattendu, \"Gemini a deviné des identifiants\"",
+      "description": "Lors d’un test, Gemini a accédé à trois systèmes informatiques extérieurs après avoir deviné des identifiants, avant d’interrompre lui-même ses intrusions. ...",
+      "url": "https://www.lalibre.be/economie/digital/2026/09/19/intelligence-artificielle-google-fait-face-a-un-nouvel-incident-inattendu-gemini-a-devine-des-identifiants-I3EZAYQCPBCQ5OMASFTNU4JTNA/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-09-19T10:16:09Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Vers une recherche artificielle ? Le recours croissant à l’IA dans la production scientifique soulève des questions fondamentales",
+      "description": "Ces questions restent encore, à ce jour, largement sans réponse. Il s’agit de déterminer jusqu’où nous sommes prêts à déléguer à l’intelligence artificielle ce qui constitue le cœur même du métier : q...",
+      "url": "https://www.lalibre.be/economie/decideurs-chroniqueurs/2026/09/19/vers-une-recherche-artificielle-le-recours-croissant-a-lia-dans-la-production-scientifique-souleve-des-questions-fondamentales-27SHBDL2AZBGBGFAZ3N3DADMEI/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-09-19T11:00:46Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta One : Meta met Instagram, Facebook, WhatsApp et son IA dans un même abonnement",
+      "description": "Meta rassemble une partie des fonctions payantes de ses applications sous une nouvelle bannière : Meta One. Plusieurs formules sont proposées, avec davantage d’outils de personnalisation et un accès é...",
+      "url": "https://www.journaldugeek.com/2026/09/19/meta-one-meta-met-instagram-facebook-whatsapp-et-son-ia-dans-un-meme-abonnement/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-09-19T12:01:27Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Micron déploie un module mémoire DDR5 massif de 512 Go pour les datacenters",
       "description": "Micron annonce la création de la toute première barrette mémoire RDIMM (Registered Dual Inline Memory Module) de 512 Go, propulsée à 9200 MT/s. Conçu pour les lourdes charges d'intelligence artificiel...",
       "url": "https://www.generation-nt.com/actualites/micron-deploie-module-memoire-datacenter-2081394",
       "source": "Génération NT",
       "publishedAt": "2026-09-18T09:00:01Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Intel face à une demande explosive : le géant peut-il encore suivre ?",
-      "description": "Le PDG d'Intel, Lip-Bu Tan, l'affirme : l'entreprise ne parvient à satisfaire que 50% de la demande en CPU, submergée par le raz-de-marée de l'intelligence artificielle. Une pénurie qui cache en réali...",
-      "url": "https://www.generation-nt.com/actualites/intel-14a-gravure-processeurs-production-demande-2081399",
-      "source": "Génération NT",
-      "publishedAt": "2026-09-18T12:20:01Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "EUROPE, NEXT WEEK : de Paris à Berlin, l’IA quitte la scène pour entrer dans les métiers",
-      "description": "Vingt-deux rendez-vous, dix-huit villes, dix pays. Cette semaine, l’innovation européenne ne cherchera pas seulement à produire de nouveaux modèles, mais à les faire travailler. À Paris, l’IA entrera ...",
-      "url": "https://www.frenchweb.fr/europe-next-week-de-paris-a-berlin-lia-quitte-la-scene-pour-entrer-dans-les-metiers/463502",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-09-18T09:35:55Z",
-      "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Huawei Cloud Stack : Tout pour l'IA, vers une nouvelle ère de l'intelligence",
-      "description": "SHANGHAI, 18 septembre 2026 /PRNewswire/ -- Lors du salon HUAWEI CONNECT 2026, le Huawei Cloud Stack Summit, placé sous le thème « Le cloud hybride agentique : vers une nouvelle ère de l'intelligence ...",
-      "url": "https://www.prnewswire.com/news-releases/huawei-cloud-stack--tout-pour-lia-vers-une-nouvelle-ere-de-lintelligence-302883205.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-09-18T11:43:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
