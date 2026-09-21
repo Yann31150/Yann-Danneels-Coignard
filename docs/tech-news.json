@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-20T12:57:13.662253",
+  "lastUpdate": "2026-09-21T14:57:31.708371",
   "articles": [
     {
       "title": "IA, Machine Learning e Deep Learning: qual é a diferença?",
@@ -14,18 +14,6 @@
       "thumbnail": "https://i.ytimg.com/vi/XTmj6NxHHwM/hqdefault.jpg"
     },
     {
-      "title": "Formation Power BI #4 — Power Query : nettoyer et préparer les données",
-      "description": "Des données brutes aux données prêtes : l'atelier où se gagne la fiabilité du rapport Formation Power BI par Bitdyne.",
-      "url": "https://www.youtube.com/watch?v=_PyXjVZsbN8",
-      "source": "Bitdyne",
-      "publishedAt": "2026-09-10T23:58:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "_PyXjVZsbN8",
-      "thumbnail": "https://i.ytimg.com/vi/_PyXjVZsbN8/hqdefault.jpg"
-    },
-    {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
       "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
       "url": "https://www.youtube.com/watch?v=nNo2tnuYXDo",
@@ -38,18 +26,6 @@
       "thumbnail": "https://i.ytimg.com/vi/nNo2tnuYXDo/hqdefault.jpg"
     },
     {
-      "title": "Arrêtez de payer ChatGPT: cette IA locale est gratuite &amp; illimité",
-      "description": "Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4rigRiT Rejoins ma communauté ...",
-      "url": "https://www.youtube.com/watch?v=AaLTIk_Nc4k",
-      "source": "Yassine Sdiri",
-      "publishedAt": "2026-09-16T15:00:11Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "AaLTIk_Nc4k",
-      "thumbnail": "https://i.ytimg.com/vi/AaLTIk_Nc4k/hqdefault.jpg"
-    },
-    {
       "title": "Explorer et préparer ses données avec pandas (data science)",
       "description": "Troisième épisode de la Formation Machine learning & data science de Bitdyne, pour consultants au Maroc. La préparation des ...",
       "url": "https://www.youtube.com/watch?v=J3YIeIEeIl8",
@@ -60,18 +36,6 @@
       "isYouTube": true,
       "videoId": "J3YIeIEeIl8",
       "thumbnail": "https://i.ytimg.com/vi/J3YIeIEeIl8/hqdefault.jpg"
-    },
-    {
-      "title": "Comment l'IA pédagogique bouscule le marché de la formation professionnelle",
-      "description": "De nouvelles plateformes proposent de transformer la base de connaissances d'une organisation en parcours pédagogiques personnalisés et interactifs. Tour d'horizon de ces éditeurs qui donnent un série...",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1554805-comment-l-ia-pedagogique-bouscule-la-formation-professionnelle/",
-      "source": "JDN",
-      "publishedAt": "2026-09-18T09:57:17Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Formation Power BI #5 — Le modèle de données et le schéma en étoile",
@@ -122,6 +86,54 @@
       "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
     },
     {
+      "title": "Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10",
+      "description": "COMPILATION — Chapitre 6/10 de la formation Data & Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.",
+      "url": "https://www.youtube.com/watch?v=jp6vn3Hp_zc",
+      "source": "IA Futura",
+      "publishedAt": "2026-09-07T11:00:18Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "jp6vn3Hp_zc",
+      "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
+    },
+    {
+      "title": "Intelligence Artificielle - 3 Astuces En 60 Secondes — Le Guide Express — le guide express",
+      "description": "Intelligence Artificielle - 3 astuces puissantes en 60 secondes! ABONNE-TOI pour plus de contenu! #intelligence#artificielle ...",
+      "url": "https://www.youtube.com/watch?v=4TCPIJf5-yY",
+      "source": "contact omnicirelpc",
+      "publishedAt": "2026-09-07T19:17:39Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "4TCPIJf5-yY",
+      "thumbnail": "https://i.ytimg.com/vi/4TCPIJf5-yY/hqdefault.jpg"
+    },
+    {
+      "title": "Dates et texte en SQL : strftime, julianday, concaténation et fonctions de chaînes",
+      "description": "Huitième épisode de la Formation SQL Bitdyne. Les données réelles sont pleines de dates et de texte. On apprend à extraire ...",
+      "url": "https://www.youtube.com/watch?v=1N8MS9tnkNQ",
+      "source": "Bitdyne",
+      "publishedAt": "2026-09-08T15:26:45Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1N8MS9tnkNQ",
+      "thumbnail": "https://i.ytimg.com/vi/1N8MS9tnkNQ/hqdefault.jpg"
+    },
+    {
+      "title": "Formation Power BI #9 — Construire un tableau de bord",
+      "description": "Mise en page, filtres et récit : assembler le tableau de bord achats de bout en bout Formation Power BI par Bitdyne. Cas concrets ...",
+      "url": "https://www.youtube.com/watch?v=gHC1DJeQVt4",
+      "source": "Bitdyne",
+      "publishedAt": "2026-09-11T00:04:33Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "gHC1DJeQVt4",
+      "thumbnail": "https://i.ytimg.com/vi/gHC1DJeQVt4/hqdefault.jpg"
+    },
+    {
       "title": "Python : introduction à pandas pour l&#39;analyse de données",
       "description": "Seizième épisode de la Formation Python Bitdyne : découvrir pandas. Le DataFrame, filtrer des lignes, regrouper et agréger ...",
       "url": "https://www.youtube.com/watch?v=cIfEIoT3MCc",
@@ -146,18 +158,6 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
-      "title": "Une entreprise biotech virtuelle mise sur 37 000 agents IA pour accélérer la recherche de médicaments",
-      "description": "Imaginez une entreprise pharmaceutique sans laboratoires, sans éprouvettes et sans masse salariale. Juste du code et une ambition folle. C'est le projet spectaculaire mené par des chercheurs de Stanfo...",
-      "url": "https://www.generation-nt.com/actualites/biotech-intelligence-artificielle-agent-ia-decouverte-medicament-stanford-2081451",
-      "source": "Génération NT",
-      "publishedAt": "2026-09-18T17:30:01Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Comprendre l&#39;informatique #10 — Les bases de données et SQL",
       "description": "Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...",
       "url": "https://www.youtube.com/watch?v=Ne5LQuLVmfE",
@@ -170,11 +170,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Ne5LQuLVmfE/hqdefault.jpg"
     },
     {
-      "title": "Plafonds de taille des PDF sur les portails administratifs, d'emploi et d'études (2026)",
-      "description": "Quelle taille maximale un PDF peut-il faire avant d'être refusé par un portail ? Ce jeu de données recense le plafond publié pour l'envoi d'un PDF sur 162 portails publics et privés dans six pays (Fra...",
-      "url": "https://www.data.gouv.fr/datasets/plafonds-de-taille-des-pdf-sur-les-portails-administratifs-demploi-et-detudes-2026",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-09-19T12:53:35Z",
+      "title": "Ethnoguessr : Quel est ce « jeu » à la méthode scientifique douteuse, hérité de l’anthropologie racialiste ?",
+      "description": "Deviner l’origine géographique ou l’ethnie d’individus à partir de visages : voilà un nouveau « jeu » bien curieux. Derrière son interface récréative se cache une absence totale de méthodologie scient...",
+      "url": "https://www.20minutes.fr/societe/4246506-20260919-ethnoguessr-jeu-methode-scientifique-douteuse-herite-anthropologie-racialiste",
+      "source": "20 Minutes",
+      "publishedAt": "2026-09-19T08:32:36Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -182,11 +182,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Ethnoguessr : Quel est ce « jeu » à la méthode scientifique douteuse, hérité de l’anthropologie racialiste ?",
-      "description": "Deviner l’origine géographique ou l’ethnie d’individus à partir de visages : voilà un nouveau « jeu » bien curieux. Derrière son interface récréative se cache une absence totale de méthodologie scient...",
-      "url": "https://www.20minutes.fr/societe/4246506-20260919-ethnoguessr-jeu-methode-scientifique-douteuse-herite-anthropologie-racialiste",
-      "source": "20 Minutes",
-      "publishedAt": "2026-09-19T08:32:36Z",
+      "title": "Gemini a piraté trois entreprises lors d’un test mais Google minimise l’incident",
+      "description": "Lors d'un exercice destiné à évaluer ses capacités en cybersécurité, un modèle Gemini s'est introduit en mai dernier dans les systèmes de trois entreprises bien. Google a confirmé les faits vendredi, ...",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/09/gemini-pirate-trois-entreprises-lors-dun-test-mais-google-minimise-lincident-311149",
+      "source": "MacGeneration",
+      "publishedAt": "2026-09-20T11:04:32Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,23 +206,47 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Avec “GuérillIA”, Christophe Payet propose un manuel de résistance érudit pour reprendre le contrôle de l’IA",
-      "description": "Le journaliste, qui publie “GuérillIA – Mener la bataille culturelle de l’intelligence artificielle”, nous enjoint à reprendre le contrôle de l’IA pour ne pas la laisser entre les mains des géants de ...",
-      "url": "https://www.lesinrocks.com/livres/avec-guerillia-christophe-payet-propose-un-manuel-de-resistance-erudit-pour-reprendre-le-controle-de-lia-702750-18-09-2026/",
-      "source": "Les Inrocks",
-      "publishedAt": "2026-09-18T09:49:52Z",
-      "category": "tech",
+      "title": "Cette puce redonne la vue à des patients atteints d’une grave pathologie : tout juste approuvée par l’Europe, elle sera bientôt commercialisée",
+      "description": "Elle mesure à peine 2 millimètres de côté et se glisse facilement sous la rétine : la puce PRIMA, développée pour restaurer la vision des patients atteints de DMLA, vient d'obtenir le feu vert des aut...",
+      "url": "https://www.presse-citron.net/puce-redonne-vue-patients-atteints-grave-pathologie-approuvee-leurope-bientot-commercialisee/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-09-19T18:03:20Z",
+      "category": "data",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Intelligence artificielle : Google fait face à un nouvel incident inattendu, \"Gemini a deviné des identifiants\"",
-      "description": "Lors d’un test, Gemini a accédé à trois systèmes informatiques extérieurs après avoir deviné des identifiants, avant d’interrompre lui-même ses intrusions. ...",
-      "url": "https://www.lalibre.be/economie/digital/2026/09/19/intelligence-artificielle-google-fait-face-a-un-nouvel-incident-inattendu-gemini-a-devine-des-identifiants-I3EZAYQCPBCQ5OMASFTNU4JTNA/",
+      "title": "El Niño bat record sur record depuis plus de 1000 ans",
+      "description": "Les coraux des Galápagos révèlent un changement récent d’El Niño qui ne ressemble à rien de retrouvé durant le millénaire précédant l’industrialisation. El Niño correspond à un réchauffement périodiqu...",
+      "url": "https://www.techno-science.net/fr/actualites/el-nino-records-coraux-galapagos-29384",
+      "source": "Techno-science.net",
+      "publishedAt": "2026-09-20T04:00:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Les scientifiques sont unanimes : voici le mode de chauffage le plus économique et efficace",
+      "description": "Une étude approfondie menée par l’Université Technique de Munich a tranché le débat sur le choix du meilleur système de chauffage. Les chercheurs ont analysé 13 systèmes différents en prenant en compt...",
+      "url": "https://www.presse-citron.net/les-scientifiques-sont-unanimes-voici-le-mode-de-chauffage-le-plus-economique-et-efficace/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-09-20T13:12:16Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Intelligence artificielle: après l’ivresse, l’heure du contrôle",
+      "description": "Une chronique signée Roald Sieberath, entrepreneur (Accelerate. AI), investisseur pour Noshaq, professeur invité à l’UCLouvain et l’UNamur. ...",
+      "url": "https://www.lalibre.be/economie/decideurs-chroniqueurs/2026/09/20/intelligence-artificielle-apres-livresse-lheure-du-controle-MR2S22MESNELBAHM3XXJV7CQDM/",
       "source": "Lalibre.be",
-      "publishedAt": "2026-09-19T10:16:09Z",
+      "publishedAt": "2026-09-20T10:01:27Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Vers une recherche artificielle ? Le recours croissant à l’IA dans la production scientifique soulève des questions fondamentales",
-      "description": "Ces questions restent encore, à ce jour, largement sans réponse. Il s’agit de déterminer jusqu’où nous sommes prêts à déléguer à l’intelligence artificielle ce qui constitue le cœur même du métier : q...",
-      "url": "https://www.lalibre.be/economie/decideurs-chroniqueurs/2026/09/19/vers-une-recherche-artificielle-le-recours-croissant-a-lia-dans-la-production-scientifique-souleve-des-questions-fondamentales-27SHBDL2AZBGBGFAZ3N3DADMEI/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-09-19T11:00:46Z",
+      "title": "« Vrai Kintsugi » : des IA ont commencé à parler entre elles dans un langage que les humains ne comprennent plus vraiment",
+      "description": "Et si les intelligences artificielles finissaient par parler entre elles dans une langue que nous ne comprenons plus ? Une expérience menée avec plusieurs grands modèles d’IA montre que des agents aut...",
+      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-vrai-kintsugi-ia-ont-commence-parler-elles-langage-humains-ne-comprennent-plus-vraiment-137824/",
+      "source": "Futura",
+      "publishedAt": "2026-09-19T14:07:56Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Meta One : Meta met Instagram, Facebook, WhatsApp et son IA dans un même abonnement",
-      "description": "Meta rassemble une partie des fonctions payantes de ses applications sous une nouvelle bannière : Meta One. Plusieurs formules sont proposées, avec davantage d’outils de personnalisation et un accès é...",
-      "url": "https://www.journaldugeek.com/2026/09/19/meta-one-meta-met-instagram-facebook-whatsapp-et-son-ia-dans-un-meme-abonnement/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-09-19T12:01:27Z",
+      "title": "Ils prédisent l’apocalypse par l’IA, c’est quoi les AI doomers ?",
+      "description": "Né dans la culture meme d'internet, le terme « AI doomer » désigne aujourd'hui un véritable courant de pensée, porté jusque dans les plus grands laboratoires d'IA.",
+      "url": "https://www.numerama.com/tech/2335869-ils-predisent-lapocalypse-par-lia-cest-quoi-les-ai-doomers.html",
+      "source": "Numerama",
+      "publishedAt": "2026-09-19T16:32:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Micron déploie un module mémoire DDR5 massif de 512 Go pour les datacenters",
-      "description": "Micron annonce la création de la toute première barrette mémoire RDIMM (Registered Dual Inline Memory Module) de 512 Go, propulsée à 9200 MT/s. Conçu pour les lourdes charges d'intelligence artificiel...",
-      "url": "https://www.generation-nt.com/actualites/micron-deploie-module-memoire-datacenter-2081394",
-      "source": "Génération NT",
-      "publishedAt": "2026-09-18T09:00:01Z",
+      "title": "Peut-on vraiment rendre une IA parfaitement sûre ? Asimov avait déjà compris pourquoi c’est impossible",
+      "description": "Les médias se font caisse de résonance sur le danger imminent d’une fin possible de l’humanité causée par les IA. En plus des interviews alarmistes d’un ancien employé d’Anthropic, Goeffrey Hinton, su...",
+      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-peut-on-vraiment-rendre-ia-parfaitement-sure-asimov-avait-deja-compris-cest-impossible-137779/",
+      "source": "Futura",
+      "publishedAt": "2026-09-20T10:23:52Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "J’ai testé le Google Pixel 11 Pro Fold : trop sous-estimé",
+      "description": "Dévoilé début août, le Pixel 11 Pro Fold est l’un des rares smartphones pliants n’adoptant pas le format passeport cette année. Pire, il ressemble comme deux gouttes d’eau à son prédécesseur. Google a...",
+      "url": "https://www.presse-citron.net/test-google-pixel-11-pro-fold/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-09-19T15:54:51Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

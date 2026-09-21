@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 20 Sep 2026 12:57:13 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 14:57:31 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,14 +21,6 @@
             <source>Luanalytics</source>
         </item>
         <item>
-            <title>Formation Power BI #4 — Power Query : nettoyer et préparer les données</title>
-            <link>https://www.youtube.com/watch?v=_PyXjVZsbN8</link>
-            <description><![CDATA[Des données brutes aux données prêtes : l'atelier où se gagne la fiabilité du rapport Formation Power BI par Bitdyne.]]></description>
-            <pubDate>Thu, 10 Sep 2026 23:58:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=_PyXjVZsbN8</guid>
-            <source>Bitdyne</source>
-        </item>
-        <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
             <link>https://www.youtube.com/watch?v=nNo2tnuYXDo</link>
             <description><![CDATA[Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.]]></description>
@@ -37,28 +29,12 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>Arrêtez de payer ChatGPT: cette IA locale est gratuite &amp;amp; illimité</title>
-            <link>https://www.youtube.com/watch?v=AaLTIk_Nc4k</link>
-            <description><![CDATA[Nous aidons les entrepreneurs à maîtriser l'IA et l'intégrer chez leurs clients: https://bit.ly/4rigRiT Rejoins ma communauté ...]]></description>
-            <pubDate>Wed, 16 Sep 2026 15:00:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=AaLTIk_Nc4k</guid>
-            <source>Yassine Sdiri</source>
-        </item>
-        <item>
             <title>Explorer et préparer ses données avec pandas (data science)</title>
             <link>https://www.youtube.com/watch?v=J3YIeIEeIl8</link>
             <description><![CDATA[Troisième épisode de la Formation Machine learning &amp; data science de Bitdyne, pour consultants au Maroc. La préparation des ...]]></description>
             <pubDate>Tue, 08 Sep 2026 22:24:34 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=J3YIeIEeIl8</guid>
             <source>Bitdyne</source>
-        </item>
-        <item>
-            <title>Comment l'IA pédagogique bouscule le marché de la formation professionnelle</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1554805-comment-l-ia-pedagogique-bouscule-la-formation-professionnelle/</link>
-            <description><![CDATA[De nouvelles plateformes proposent de transformer la base de connaissances d'une organisation en parcours pédagogiques personnalisés et interactifs. Tour d'horizon de ces éditeurs qui donnent un série...]]></description>
-            <pubDate>Fri, 18 Sep 2026 09:57:17 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1554805-comment-l-ia-pedagogique-bouscule-la-formation-professionnelle/</guid>
-            <source>JDN</source>
         </item>
         <item>
             <title>Formation Power BI #5 — Le modèle de données et le schéma en étoile</title>
@@ -93,6 +69,38 @@
             <source>Jeune Financier Africain </source>
         </item>
         <item>
+            <title>Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10</title>
+            <link>https://www.youtube.com/watch?v=jp6vn3Hp_zc</link>
+            <description><![CDATA[COMPILATION — Chapitre 6/10 de la formation Data &amp; Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.]]></description>
+            <pubDate>Mon, 07 Sep 2026 11:00:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=jp6vn3Hp_zc</guid>
+            <source>IA Futura</source>
+        </item>
+        <item>
+            <title>Intelligence Artificielle - 3 Astuces En 60 Secondes — Le Guide Express — le guide express</title>
+            <link>https://www.youtube.com/watch?v=4TCPIJf5-yY</link>
+            <description><![CDATA[Intelligence Artificielle - 3 astuces puissantes en 60 secondes! ABONNE-TOI pour plus de contenu! #intelligence#artificielle ...]]></description>
+            <pubDate>Mon, 07 Sep 2026 19:17:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=4TCPIJf5-yY</guid>
+            <source>contact omnicirelpc</source>
+        </item>
+        <item>
+            <title>Dates et texte en SQL : strftime, julianday, concaténation et fonctions de chaînes</title>
+            <link>https://www.youtube.com/watch?v=1N8MS9tnkNQ</link>
+            <description><![CDATA[Huitième épisode de la Formation SQL Bitdyne. Les données réelles sont pleines de dates et de texte. On apprend à extraire ...]]></description>
+            <pubDate>Tue, 08 Sep 2026 15:26:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1N8MS9tnkNQ</guid>
+            <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>Formation Power BI #9 — Construire un tableau de bord</title>
+            <link>https://www.youtube.com/watch?v=gHC1DJeQVt4</link>
+            <description><![CDATA[Mise en page, filtres et récit : assembler le tableau de bord achats de bout en bout Formation Power BI par Bitdyne. Cas concrets ...]]></description>
+            <pubDate>Fri, 11 Sep 2026 00:04:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=gHC1DJeQVt4</guid>
+            <source>Bitdyne</source>
+        </item>
+        <item>
             <title>Python : introduction à pandas pour l&amp;#39;analyse de données</title>
             <link>https://www.youtube.com/watch?v=cIfEIoT3MCc</link>
             <description><![CDATA[Seizième épisode de la Formation Python Bitdyne : découvrir pandas. Le DataFrame, filtrer des lignes, regrouper et agréger ...]]></description>
@@ -109,28 +117,12 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Une entreprise biotech virtuelle mise sur 37 000 agents IA pour accélérer la recherche de médicaments</title>
-            <link>https://www.generation-nt.com/actualites/biotech-intelligence-artificielle-agent-ia-decouverte-medicament-stanford-2081451</link>
-            <description><![CDATA[Imaginez une entreprise pharmaceutique sans laboratoires, sans éprouvettes et sans masse salariale. Juste du code et une ambition folle. C'est le projet spectaculaire mené par des chercheurs de Stanfo...]]></description>
-            <pubDate>Fri, 18 Sep 2026 17:30:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/biotech-intelligence-artificielle-agent-ia-decouverte-medicament-stanford-2081451</guid>
-            <source>Génération NT</source>
-        </item>
-        <item>
             <title>Comprendre l&amp;#39;informatique #10 — Les bases de données et SQL</title>
             <link>https://www.youtube.com/watch?v=Ne5LQuLVmfE</link>
             <description><![CDATA[Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...]]></description>
             <pubDate>Wed, 02 Sep 2026 03:04:52 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Ne5LQuLVmfE</guid>
             <source>Bitdyne</source>
-        </item>
-        <item>
-            <title>Plafonds de taille des PDF sur les portails administratifs, d'emploi et d'études (2026)</title>
-            <link>https://www.data.gouv.fr/datasets/plafonds-de-taille-des-pdf-sur-les-portails-administratifs-demploi-et-detudes-2026</link>
-            <description><![CDATA[Quelle taille maximale un PDF peut-il faire avant d'être refusé par un portail ? Ce jeu de données recense le plafond publié pour l'envoi d'un PDF sur 162 portails publics et privés dans six pays (Fra...]]></description>
-            <pubDate>Sat, 19 Sep 2026 12:53:35 -0000</pubDate>
-            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/plafonds-de-taille-des-pdf-sur-les-portails-administratifs-demploi-et-detudes-2026</guid>
-            <source>Gouv.fr</source>
         </item>
         <item>
             <title>Ethnoguessr : Quel est ce « jeu » à la méthode scientifique douteuse, hérité de l’anthropologie racialiste ?</title>
@@ -141,6 +133,14 @@
             <source>20 Minutes</source>
         </item>
         <item>
+            <title>Gemini a piraté trois entreprises lors d’un test mais Google minimise l’incident</title>
+            <link>https://www.macg.co/intelligence-artificielle/2026/09/gemini-pirate-trois-entreprises-lors-dun-test-mais-google-minimise-lincident-311149</link>
+            <description><![CDATA[Lors d'un exercice destiné à évaluer ses capacités en cybersécurité, un modèle Gemini s'est introduit en mai dernier dans les systèmes de trois entreprises bien. Google a confirmé les faits vendredi, ...]]></description>
+            <pubDate>Sun, 20 Sep 2026 11:04:32 -0000</pubDate>
+            <guid isPermaLink="true">https://www.macg.co/intelligence-artificielle/2026/09/gemini-pirate-trois-entreprises-lors-dun-test-mais-google-minimise-lincident-311149</guid>
+            <source>MacGeneration</source>
+        </item>
+        <item>
             <title>Introduction | SQL - EP1</title>
             <link>https://www.youtube.com/watch?v=QXaOjeucWgI</link>
             <description><![CDATA[Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...]]></description>
@@ -149,28 +149,28 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Avec “GuérillIA”, Christophe Payet propose un manuel de résistance érudit pour reprendre le contrôle de l’IA</title>
-            <link>https://www.lesinrocks.com/livres/avec-guerillia-christophe-payet-propose-un-manuel-de-resistance-erudit-pour-reprendre-le-controle-de-lia-702750-18-09-2026/</link>
-            <description><![CDATA[Le journaliste, qui publie “GuérillIA – Mener la bataille culturelle de l’intelligence artificielle”, nous enjoint à reprendre le contrôle de l’IA pour ne pas la laisser entre les mains des géants de ...]]></description>
-            <pubDate>Fri, 18 Sep 2026 09:49:52 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesinrocks.com/livres/avec-guerillia-christophe-payet-propose-un-manuel-de-resistance-erudit-pour-reprendre-le-controle-de-lia-702750-18-09-2026/</guid>
-            <source>Les Inrocks</source>
+            <title>Cette puce redonne la vue à des patients atteints d’une grave pathologie : tout juste approuvée par l’Europe, elle sera bientôt commercialisée</title>
+            <link>https://www.presse-citron.net/puce-redonne-vue-patients-atteints-grave-pathologie-approuvee-leurope-bientot-commercialisee/</link>
+            <description><![CDATA[Elle mesure à peine 2 millimètres de côté et se glisse facilement sous la rétine : la puce PRIMA, développée pour restaurer la vision des patients atteints de DMLA, vient d'obtenir le feu vert des aut...]]></description>
+            <pubDate>Sat, 19 Sep 2026 18:03:20 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/puce-redonne-vue-patients-atteints-grave-pathologie-approuvee-leurope-bientot-commercialisee/</guid>
+            <source>Presse-citron</source>
         </item>
         <item>
-            <title>Intelligence artificielle : Google fait face à un nouvel incident inattendu, "Gemini a deviné des identifiants"</title>
-            <link>https://www.lalibre.be/economie/digital/2026/09/19/intelligence-artificielle-google-fait-face-a-un-nouvel-incident-inattendu-gemini-a-devine-des-identifiants-I3EZAYQCPBCQ5OMASFTNU4JTNA/</link>
-            <description><![CDATA[Lors d’un test, Gemini a accédé à trois systèmes informatiques extérieurs après avoir deviné des identifiants, avant d’interrompre lui-même ses intrusions. ...]]></description>
-            <pubDate>Sat, 19 Sep 2026 10:16:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lalibre.be/economie/digital/2026/09/19/intelligence-artificielle-google-fait-face-a-un-nouvel-incident-inattendu-gemini-a-devine-des-identifiants-I3EZAYQCPBCQ5OMASFTNU4JTNA/</guid>
-            <source>Lalibre.be</source>
+            <title>El Niño bat record sur record depuis plus de 1000 ans</title>
+            <link>https://www.techno-science.net/fr/actualites/el-nino-records-coraux-galapagos-29384</link>
+            <description><![CDATA[Les coraux des Galápagos révèlent un changement récent d’El Niño qui ne ressemble à rien de retrouvé durant le millénaire précédant l’industrialisation. El Niño correspond à un réchauffement périodiqu...]]></description>
+            <pubDate>Sun, 20 Sep 2026 04:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.techno-science.net/fr/actualites/el-nino-records-coraux-galapagos-29384</guid>
+            <source>Techno-science.net</source>
         </item>
         <item>
-            <title>Vers une recherche artificielle ? Le recours croissant à l’IA dans la production scientifique soulève des questions fondamentales</title>
-            <link>https://www.lalibre.be/economie/decideurs-chroniqueurs/2026/09/19/vers-une-recherche-artificielle-le-recours-croissant-a-lia-dans-la-production-scientifique-souleve-des-questions-fondamentales-27SHBDL2AZBGBGFAZ3N3DADMEI/</link>
-            <description><![CDATA[Ces questions restent encore, à ce jour, largement sans réponse. Il s’agit de déterminer jusqu’où nous sommes prêts à déléguer à l’intelligence artificielle ce qui constitue le cœur même du métier : q...]]></description>
-            <pubDate>Sat, 19 Sep 2026 11:00:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lalibre.be/economie/decideurs-chroniqueurs/2026/09/19/vers-une-recherche-artificielle-le-recours-croissant-a-lia-dans-la-production-scientifique-souleve-des-questions-fondamentales-27SHBDL2AZBGBGFAZ3N3DADMEI/</guid>
-            <source>Lalibre.be</source>
+            <title>Les scientifiques sont unanimes : voici le mode de chauffage le plus économique et efficace</title>
+            <link>https://www.presse-citron.net/les-scientifiques-sont-unanimes-voici-le-mode-de-chauffage-le-plus-economique-et-efficace/</link>
+            <description><![CDATA[Une étude approfondie menée par l’Université Technique de Munich a tranché le débat sur le choix du meilleur système de chauffage. Les chercheurs ont analysé 13 systèmes différents en prenant en compt...]]></description>
+            <pubDate>Sun, 20 Sep 2026 13:12:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/les-scientifiques-sont-unanimes-voici-le-mode-de-chauffage-le-plus-economique-et-efficace/</guid>
+            <source>Presse-citron</source>
         </item>
     </channel>
 </rss>
