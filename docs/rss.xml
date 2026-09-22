@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 21 Sep 2026 14:57:31 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 13:14:07 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -37,6 +37,14 @@
             <source>Bitdyne</source>
         </item>
         <item>
+            <title>L'intelligence artificielle peut-elle nous aider à restaurer la confiance dans la science ?</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1555129-l-intelligence-artificielle-peut-elle-nous-aider-a-restaurer-la-confiance-dans-la-science/</link>
+            <description><![CDATA[L'intelligence artificielle est régulièrement présentée comme une menace pour la fiabilité de l'information scientifique. Mais une publication récente dans Nature ouvre une perspective presque inverse]]></description>
+            <pubDate>Mon, 21 Sep 2026 09:17:28 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1555129-l-intelligence-artificielle-peut-elle-nous-aider-a-restaurer-la-confiance-dans-la-science/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
             <title>Formation Power BI #5 — Le modèle de données et le schéma en étoile</title>
             <link>https://www.youtube.com/watch?v=_HMCrW-g-I4</link>
             <description><![CDATA[Faits, dimensions, relations : la charpente qui rend tous les calculs justes Formation Power BI par Bitdyne. Cas concrets ...]]></description>
@@ -53,6 +61,14 @@
             <source>Stanford Online</source>
         </item>
         <item>
+            <title>Le parrain français de l’IA rejoint Cellular Intelligence, une startup qui veut révolutionner la médecine avec ses modèles</title>
+            <link>https://www.presse-citron.net/parrain-francais-ia-rejoint-cellular-intelligence/</link>
+            <description><![CDATA[Yann Le Cun, l’un des parrains de l’intelligence artificielle, rejoint le conseil scientifique de l’entreprise Cellular Intelligence. Il s’agit d’une entreprise très prometteuse qui développe une nouv...]]></description>
+            <pubDate>Mon, 21 Sep 2026 12:01:20 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/parrain-francais-ia-rejoint-cellular-intelligence/</guid>
+            <source>Presse-citron</source>
+        </item>
+        <item>
             <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
             <link>https://www.youtube.com/watch?v=NdS8xLrZd_k</link>
             <description><![CDATA[Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...]]></description>
@@ -61,36 +77,20 @@
             <source>contact omnicirelpc</source>
         </item>
         <item>
+            <title>IA ou le syndrome de la tomate parfaite</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1555157-ia-ou-le-syndrome-de-la-tomate-parfaite/</link>
+            <description><![CDATA[L'intelligence artificielle commence à transformer le management. Mais son développement pourrait nous conduire à redécouvrir la valeur de ce qui ne se calcule pas : l'expérience et le goût du réel.]]></description>
+            <pubDate>Mon, 21 Sep 2026 09:14:57 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1555157-ia-ou-le-syndrome-de-la-tomate-parfaite/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
             <title>Cours complet sur Power BI pour débutant</title>
             <link>https://www.youtube.com/watch?v=uJeUP8Z9LsQ</link>
             <description><![CDATA[Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...]]></description>
             <pubDate>Tue, 25 Aug 2026 17:46:11 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=uJeUP8Z9LsQ</guid>
             <source>Jeune Financier Africain </source>
-        </item>
-        <item>
-            <title>Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10</title>
-            <link>https://www.youtube.com/watch?v=jp6vn3Hp_zc</link>
-            <description><![CDATA[COMPILATION — Chapitre 6/10 de la formation Data &amp; Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.]]></description>
-            <pubDate>Mon, 07 Sep 2026 11:00:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=jp6vn3Hp_zc</guid>
-            <source>IA Futura</source>
-        </item>
-        <item>
-            <title>Intelligence Artificielle - 3 Astuces En 60 Secondes — Le Guide Express — le guide express</title>
-            <link>https://www.youtube.com/watch?v=4TCPIJf5-yY</link>
-            <description><![CDATA[Intelligence Artificielle - 3 astuces puissantes en 60 secondes! ABONNE-TOI pour plus de contenu! #intelligence#artificielle ...]]></description>
-            <pubDate>Mon, 07 Sep 2026 19:17:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=4TCPIJf5-yY</guid>
-            <source>contact omnicirelpc</source>
-        </item>
-        <item>
-            <title>Dates et texte en SQL : strftime, julianday, concaténation et fonctions de chaînes</title>
-            <link>https://www.youtube.com/watch?v=1N8MS9tnkNQ</link>
-            <description><![CDATA[Huitième épisode de la Formation SQL Bitdyne. Les données réelles sont pleines de dates et de texte. On apprend à extraire ...]]></description>
-            <pubDate>Tue, 08 Sep 2026 15:26:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1N8MS9tnkNQ</guid>
-            <source>Bitdyne</source>
         </item>
         <item>
             <title>Formation Power BI #9 — Construire un tableau de bord</title>
@@ -117,28 +117,28 @@
             <source>Le Decodeur</source>
         </item>
         <item>
+            <title>En Éthiopie, une autre science de la course de fond</title>
+            <link>https://www.courrierinternational.com/article/analyse-en-ethiopie-une-autre-science-de-la-course-de-fond_244451</link>
+            <description><![CDATA[Une méthode moderne d’entraînement implique-t-elle forcément suivi individuel et analyse de données ? Les coureurs de fond et de demi-fond occidentaux en sont persuadés. Mais ils se font régulièrement...]]></description>
+            <pubDate>Sun, 20 Sep 2026 15:39:44 -0000</pubDate>
+            <guid isPermaLink="true">https://www.courrierinternational.com/article/analyse-en-ethiopie-une-autre-science-de-la-course-de-fond_244451</guid>
+            <source>Courrier International</source>
+        </item>
+        <item>
+            <title>Anthropic fait sortir l’IA des écrans avec son propre laboratoire de biologie</title>
+            <link>https://www.zdnet.fr/actualites/anthropic-fait-sortir-lia-des-ecrans-avec-son-propre-laboratoire-de-biologie-503866.htm</link>
+            <description><![CDATA[Anthropic exploite un laboratoire de biologie pour tester en conditions réelles ses recherches assistées par IA, tout en explorant l’automatisation des expériences grâce à des robots pilotés par Claud...]]></description>
+            <pubDate>Mon, 21 Sep 2026 05:25:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/anthropic-fait-sortir-lia-des-ecrans-avec-son-propre-laboratoire-de-biologie-503866.htm</guid>
+            <source>ZDNet France</source>
+        </item>
+        <item>
             <title>Comprendre l&amp;#39;informatique #10 — Les bases de données et SQL</title>
             <link>https://www.youtube.com/watch?v=Ne5LQuLVmfE</link>
             <description><![CDATA[Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...]]></description>
             <pubDate>Wed, 02 Sep 2026 03:04:52 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Ne5LQuLVmfE</guid>
             <source>Bitdyne</source>
-        </item>
-        <item>
-            <title>Ethnoguessr : Quel est ce « jeu » à la méthode scientifique douteuse, hérité de l’anthropologie racialiste ?</title>
-            <link>https://www.20minutes.fr/societe/4246506-20260919-ethnoguessr-jeu-methode-scientifique-douteuse-herite-anthropologie-racialiste</link>
-            <description><![CDATA[Deviner l’origine géographique ou l’ethnie d’individus à partir de visages : voilà un nouveau « jeu » bien curieux. Derrière son interface récréative se cache une absence totale de méthodologie scient...]]></description>
-            <pubDate>Sat, 19 Sep 2026 08:32:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.20minutes.fr/societe/4246506-20260919-ethnoguessr-jeu-methode-scientifique-douteuse-herite-anthropologie-racialiste</guid>
-            <source>20 Minutes</source>
-        </item>
-        <item>
-            <title>Gemini a piraté trois entreprises lors d’un test mais Google minimise l’incident</title>
-            <link>https://www.macg.co/intelligence-artificielle/2026/09/gemini-pirate-trois-entreprises-lors-dun-test-mais-google-minimise-lincident-311149</link>
-            <description><![CDATA[Lors d'un exercice destiné à évaluer ses capacités en cybersécurité, un modèle Gemini s'est introduit en mai dernier dans les systèmes de trois entreprises bien. Google a confirmé les faits vendredi, ...]]></description>
-            <pubDate>Sun, 20 Sep 2026 11:04:32 -0000</pubDate>
-            <guid isPermaLink="true">https://www.macg.co/intelligence-artificielle/2026/09/gemini-pirate-trois-entreprises-lors-dun-test-mais-google-minimise-lincident-311149</guid>
-            <source>MacGeneration</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -149,14 +149,6 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Cette puce redonne la vue à des patients atteints d’une grave pathologie : tout juste approuvée par l’Europe, elle sera bientôt commercialisée</title>
-            <link>https://www.presse-citron.net/puce-redonne-vue-patients-atteints-grave-pathologie-approuvee-leurope-bientot-commercialisee/</link>
-            <description><![CDATA[Elle mesure à peine 2 millimètres de côté et se glisse facilement sous la rétine : la puce PRIMA, développée pour restaurer la vision des patients atteints de DMLA, vient d'obtenir le feu vert des aut...]]></description>
-            <pubDate>Sat, 19 Sep 2026 18:03:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/puce-redonne-vue-patients-atteints-grave-pathologie-approuvee-leurope-bientot-commercialisee/</guid>
-            <source>Presse-citron</source>
-        </item>
-        <item>
             <title>El Niño bat record sur record depuis plus de 1000 ans</title>
             <link>https://www.techno-science.net/fr/actualites/el-nino-records-coraux-galapagos-29384</link>
             <description><![CDATA[Les coraux des Galápagos révèlent un changement récent d’El Niño qui ne ressemble à rien de retrouvé durant le millénaire précédant l’industrialisation. El Niño correspond à un réchauffement périodiqu...]]></description>
@@ -165,12 +157,20 @@
             <source>Techno-science.net</source>
         </item>
         <item>
-            <title>Les scientifiques sont unanimes : voici le mode de chauffage le plus économique et efficace</title>
-            <link>https://www.presse-citron.net/les-scientifiques-sont-unanimes-voici-le-mode-de-chauffage-le-plus-economique-et-efficace/</link>
-            <description><![CDATA[Une étude approfondie menée par l’Université Technique de Munich a tranché le débat sur le choix du meilleur système de chauffage. Les chercheurs ont analysé 13 systèmes différents en prenant en compt...]]></description>
-            <pubDate>Sun, 20 Sep 2026 13:12:16 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/les-scientifiques-sont-unanimes-voici-le-mode-de-chauffage-le-plus-economique-et-efficace/</guid>
-            <source>Presse-citron</source>
+            <title>INDY, TIIME ou ABBY : quelle plateforme choisir pour sa facturation électronique quand on est indépendant ?</title>
+            <link>https://www.frenchweb.fr/indy-tiime-ou-abby-quelle-plateforme-choisir-pour-sa-facturation-electronique-quand-on-est-independant/463550</link>
+            <description><![CDATA[Si la facture électronique n’est que la porte d’entrée, derrière le choix d’une plateforme agréée se joue désormais une part croissante de la gestion de l’indépendant : devis, encaissements, relances,...]]></description>
+            <pubDate>Mon, 21 Sep 2026 11:04:35 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frenchweb.fr/indy-tiime-ou-abby-quelle-plateforme-choisir-pour-sa-facturation-electronique-quand-on-est-independant/463550</guid>
+            <source>Frenchweb.fr</source>
+        </item>
+        <item>
+            <title>Automobile. « Un accès direct et gratuit » : les radios veulent un équipement adapté à l'écoute dans toutes les voitures</title>
+            <link>https://www.ledauphine.com/societe/2026/09/21/un-acces-direct-et-gratuit-les-radios-veulent-un-equipement-adapte-a-l-ecoute-dans-toutes-les-voitures</link>
+            <description><![CDATA[Selon ces radios, certains constructeurs ne proposent plus systématiquement l'accès à la radio dans l'équipement multimédia de leurs véhicules.]]></description>
+            <pubDate>Mon, 21 Sep 2026 12:56:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.ledauphine.com/societe/2026/09/21/un-acces-direct-et-gratuit-les-radios-veulent-un-equipement-adapte-a-l-ecoute-dans-toutes-les-voitures</guid>
+            <source>Le Dauphiné Libéré</source>
         </item>
     </channel>
 </rss>

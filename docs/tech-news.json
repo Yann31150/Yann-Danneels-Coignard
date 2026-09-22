@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-21T14:57:31.708371",
+  "lastUpdate": "2026-09-22T13:14:07.349420",
   "articles": [
     {
       "title": "IA, Machine Learning e Deep Learning: qual é a diferença?",
@@ -38,6 +38,18 @@
       "thumbnail": "https://i.ytimg.com/vi/J3YIeIEeIl8/hqdefault.jpg"
     },
     {
+      "title": "L'intelligence artificielle peut-elle nous aider à restaurer la confiance dans la science ?",
+      "description": "L'intelligence artificielle est régulièrement présentée comme une menace pour la fiabilité de l'information scientifique. Mais une publication récente dans Nature ouvre une perspective presque inverse",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1555129-l-intelligence-artificielle-peut-elle-nous-aider-a-restaurer-la-confiance-dans-la-science/",
+      "source": "JDN",
+      "publishedAt": "2026-09-21T09:17:28Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Formation Power BI #5 — Le modèle de données et le schéma en étoile",
       "description": "Faits, dimensions, relations : la charpente qui rend tous les calculs justes Formation Power BI par Bitdyne. Cas concrets ...",
       "url": "https://www.youtube.com/watch?v=_HMCrW-g-I4",
@@ -62,6 +74,18 @@
       "thumbnail": "https://i.ytimg.com/vi/DATnpGoGhM8/hqdefault.jpg"
     },
     {
+      "title": "Le parrain français de l’IA rejoint Cellular Intelligence, une startup qui veut révolutionner la médecine avec ses modèles",
+      "description": "Yann Le Cun, l’un des parrains de l’intelligence artificielle, rejoint le conseil scientifique de l’entreprise Cellular Intelligence. Il s’agit d’une entreprise très prometteuse qui développe une nouv...",
+      "url": "https://www.presse-citron.net/parrain-francais-ia-rejoint-cellular-intelligence/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-09-21T12:01:20Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "URGENT : Machine Learning, Ia, — analyse rapide",
       "description": "Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...",
       "url": "https://www.youtube.com/watch?v=NdS8xLrZd_k",
@@ -74,6 +98,18 @@
       "thumbnail": "https://i.ytimg.com/vi/NdS8xLrZd_k/hqdefault.jpg"
     },
     {
+      "title": "IA ou le syndrome de la tomate parfaite",
+      "description": "L'intelligence artificielle commence à transformer le management. Mais son développement pourrait nous conduire à redécouvrir la valeur de ce qui ne se calcule pas : l'expérience et le goût du réel.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1555157-ia-ou-le-syndrome-de-la-tomate-parfaite/",
+      "source": "JDN",
+      "publishedAt": "2026-09-21T09:14:57Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Cours complet sur Power BI pour débutant",
       "description": "Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...",
       "url": "https://www.youtube.com/watch?v=uJeUP8Z9LsQ",
@@ -84,42 +120,6 @@
       "isYouTube": true,
       "videoId": "uJeUP8Z9LsQ",
       "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
-    },
-    {
-      "title": "Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10",
-      "description": "COMPILATION — Chapitre 6/10 de la formation Data & Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.",
-      "url": "https://www.youtube.com/watch?v=jp6vn3Hp_zc",
-      "source": "IA Futura",
-      "publishedAt": "2026-09-07T11:00:18Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "jp6vn3Hp_zc",
-      "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
-    },
-    {
-      "title": "Intelligence Artificielle - 3 Astuces En 60 Secondes — Le Guide Express — le guide express",
-      "description": "Intelligence Artificielle - 3 astuces puissantes en 60 secondes! ABONNE-TOI pour plus de contenu! #intelligence#artificielle ...",
-      "url": "https://www.youtube.com/watch?v=4TCPIJf5-yY",
-      "source": "contact omnicirelpc",
-      "publishedAt": "2026-09-07T19:17:39Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "4TCPIJf5-yY",
-      "thumbnail": "https://i.ytimg.com/vi/4TCPIJf5-yY/hqdefault.jpg"
-    },
-    {
-      "title": "Dates et texte en SQL : strftime, julianday, concaténation et fonctions de chaînes",
-      "description": "Huitième épisode de la Formation SQL Bitdyne. Les données réelles sont pleines de dates et de texte. On apprend à extraire ...",
-      "url": "https://www.youtube.com/watch?v=1N8MS9tnkNQ",
-      "source": "Bitdyne",
-      "publishedAt": "2026-09-08T15:26:45Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1N8MS9tnkNQ",
-      "thumbnail": "https://i.ytimg.com/vi/1N8MS9tnkNQ/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI #9 — Construire un tableau de bord",
@@ -158,6 +158,30 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
+      "title": "En Éthiopie, une autre science de la course de fond",
+      "description": "Une méthode moderne d’entraînement implique-t-elle forcément suivi individuel et analyse de données ? Les coureurs de fond et de demi-fond occidentaux en sont persuadés. Mais ils se font régulièrement...",
+      "url": "https://www.courrierinternational.com/article/analyse-en-ethiopie-une-autre-science-de-la-course-de-fond_244451",
+      "source": "Courrier International",
+      "publishedAt": "2026-09-20T15:39:44Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic fait sortir l’IA des écrans avec son propre laboratoire de biologie",
+      "description": "Anthropic exploite un laboratoire de biologie pour tester en conditions réelles ses recherches assistées par IA, tout en explorant l’automatisation des expériences grâce à des robots pilotés par Claud...",
+      "url": "https://www.zdnet.fr/actualites/anthropic-fait-sortir-lia-des-ecrans-avec-son-propre-laboratoire-de-biologie-503866.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-09-21T05:25:49Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Comprendre l&#39;informatique #10 — Les bases de données et SQL",
       "description": "Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...",
       "url": "https://www.youtube.com/watch?v=Ne5LQuLVmfE",
@@ -168,30 +192,6 @@
       "isYouTube": true,
       "videoId": "Ne5LQuLVmfE",
       "thumbnail": "https://i.ytimg.com/vi/Ne5LQuLVmfE/hqdefault.jpg"
-    },
-    {
-      "title": "Ethnoguessr : Quel est ce « jeu » à la méthode scientifique douteuse, hérité de l’anthropologie racialiste ?",
-      "description": "Deviner l’origine géographique ou l’ethnie d’individus à partir de visages : voilà un nouveau « jeu » bien curieux. Derrière son interface récréative se cache une absence totale de méthodologie scient...",
-      "url": "https://www.20minutes.fr/societe/4246506-20260919-ethnoguessr-jeu-methode-scientifique-douteuse-herite-anthropologie-racialiste",
-      "source": "20 Minutes",
-      "publishedAt": "2026-09-19T08:32:36Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Gemini a piraté trois entreprises lors d’un test mais Google minimise l’incident",
-      "description": "Lors d'un exercice destiné à évaluer ses capacités en cybersécurité, un modèle Gemini s'est introduit en mai dernier dans les systèmes de trois entreprises bien. Google a confirmé les faits vendredi, ...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/09/gemini-pirate-trois-entreprises-lors-dun-test-mais-google-minimise-lincident-311149",
-      "source": "MacGeneration",
-      "publishedAt": "2026-09-20T11:04:32Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -206,18 +206,6 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Cette puce redonne la vue à des patients atteints d’une grave pathologie : tout juste approuvée par l’Europe, elle sera bientôt commercialisée",
-      "description": "Elle mesure à peine 2 millimètres de côté et se glisse facilement sous la rétine : la puce PRIMA, développée pour restaurer la vision des patients atteints de DMLA, vient d'obtenir le feu vert des aut...",
-      "url": "https://www.presse-citron.net/puce-redonne-vue-patients-atteints-grave-pathologie-approuvee-leurope-bientot-commercialisee/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-09-19T18:03:20Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "El Niño bat record sur record depuis plus de 1000 ans",
       "description": "Les coraux des Galápagos révèlent un changement récent d’El Niño qui ne ressemble à rien de retrouvé durant le millénaire précédant l’industrialisation. El Niño correspond à un réchauffement périodiqu...",
       "url": "https://www.techno-science.net/fr/actualites/el-nino-records-coraux-galapagos-29384",
@@ -230,11 +218,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Les scientifiques sont unanimes : voici le mode de chauffage le plus économique et efficace",
-      "description": "Une étude approfondie menée par l’Université Technique de Munich a tranché le débat sur le choix du meilleur système de chauffage. Les chercheurs ont analysé 13 systèmes différents en prenant en compt...",
-      "url": "https://www.presse-citron.net/les-scientifiques-sont-unanimes-voici-le-mode-de-chauffage-le-plus-economique-et-efficace/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-09-20T13:12:16Z",
+      "title": "INDY, TIIME ou ABBY : quelle plateforme choisir pour sa facturation électronique quand on est indépendant ?",
+      "description": "Si la facture électronique n’est que la porte d’entrée, derrière le choix d’une plateforme agréée se joue désormais une part croissante de la gestion de l’indépendant : devis, encaissements, relances,...",
+      "url": "https://www.frenchweb.fr/indy-tiime-ou-abby-quelle-plateforme-choisir-pour-sa-facturation-electronique-quand-on-est-independant/463550",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-09-21T11:04:35Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +230,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Intelligence artificielle: après l’ivresse, l’heure du contrôle",
-      "description": "Une chronique signée Roald Sieberath, entrepreneur (Accelerate. AI), investisseur pour Noshaq, professeur invité à l’UCLouvain et l’UNamur. ...",
-      "url": "https://www.lalibre.be/economie/decideurs-chroniqueurs/2026/09/20/intelligence-artificielle-apres-livresse-lheure-du-controle-MR2S22MESNELBAHM3XXJV7CQDM/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-09-20T10:01:27Z",
+      "title": "Automobile. « Un accès direct et gratuit » : les radios veulent un équipement adapté à l'écoute dans toutes les voitures",
+      "description": "Selon ces radios, certains constructeurs ne proposent plus systématiquement l'accès à la radio dans l'équipement multimédia de leurs véhicules.",
+      "url": "https://www.ledauphine.com/societe/2026/09/21/un-acces-direct-et-gratuit-les-radios-veulent-un-equipement-adapte-a-l-ecoute-dans-toutes-les-voitures",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-09-21T12:56:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Le silence stratégique des entreprises de modèles du monde",
+      "description": "L’intelligence artificielle spatiale attire aujourd’hui des milliards de dollars, mais les principaux acteurs du secteur cultivent un mystère profondément déroutant. Les pionniers de ce domaine promet...",
+      "url": "https://www.fredzone.org/le-silence-strategique-des-entreprises-de-modeles-du-monde/",
+      "source": "FREDZONE",
+      "publishedAt": "2026-09-21T12:30:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "« Vrai Kintsugi » : des IA ont commencé à parler entre elles dans un langage que les humains ne comprennent plus vraiment",
-      "description": "Et si les intelligences artificielles finissaient par parler entre elles dans une langue que nous ne comprenons plus ? Une expérience menée avec plusieurs grands modèles d’IA montre que des agents aut...",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-vrai-kintsugi-ia-ont-commence-parler-elles-langage-humains-ne-comprennent-plus-vraiment-137824/",
-      "source": "Futura",
-      "publishedAt": "2026-09-19T14:07:56Z",
+      "title": "Actualité : Sans ventilateur et autonomie d'une journée : la promesse du SoC MediaTek Dimensity CX C10 Max pour les Googlebook",
+      "description": "MediaTek annonce le Dimensity CX C10 Max, sa nouvelle puce destinée aux ordinateurs portables. Ce processeur pensé pour l'intelligence artificielle équipera de futurs Googlebook, marquant une nouvelle...",
+      "url": "https://www.lesnumeriques.com/cpu-processeur/sans-ventilateur-et-autonomie-d-une-journee-la-promesse-du-soc-mediatek-dimensity-cx-c10-max-pour-les-googlebook-n262063.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-09-21T13:07:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Ils prédisent l’apocalypse par l’IA, c’est quoi les AI doomers ?",
-      "description": "Né dans la culture meme d'internet, le terme « AI doomer » désigne aujourd'hui un véritable courant de pensée, porté jusque dans les plus grands laboratoires d'IA.",
-      "url": "https://www.numerama.com/tech/2335869-ils-predisent-lapocalypse-par-lia-cest-quoi-les-ai-doomers.html",
-      "source": "Numerama",
-      "publishedAt": "2026-09-19T16:32:00Z",
+      "title": "Napster délaisse le streaming musical pour façonner des doubles numériques de professeurs",
+      "description": "L’ancienne plateforme de partage de fichiers musicaux opère une mutation spectaculaire. Fini l’époque du piratage pair-à-pair ou du streaming audio. L’entreprise se consacre désormais exclusivement à ...",
+      "url": "https://www.fredzone.org/napster-delaisse-le-streaming-musical-pour-faconner-des-doubles-numeriques-de-professeurs/",
+      "source": "FREDZONE",
+      "publishedAt": "2026-09-21T09:30:43Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Peut-on vraiment rendre une IA parfaitement sûre ? Asimov avait déjà compris pourquoi c’est impossible",
-      "description": "Les médias se font caisse de résonance sur le danger imminent d’une fin possible de l’humanité causée par les IA. En plus des interviews alarmistes d’un ancien employé d’Anthropic, Goeffrey Hinton, su...",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-peut-on-vraiment-rendre-ia-parfaitement-sure-asimov-avait-deja-compris-cest-impossible-137779/",
-      "source": "Futura",
-      "publishedAt": "2026-09-20T10:23:52Z",
+      "title": "AI Overviews, GEO, zéro clic : les conseils de Semji avant la 11e édition de SEO Square",
+      "description": "L'arrivée d'AI Overview rebat les cartes du SEO. Cofondateur de Semji, Nicolas Nguyen nous partage ses conseils pour rester visible et mesurer la performance à l'ère des moteurs IA, avant la prochaine...",
+      "url": "https://www.blogdumoderateur.com/conseils-semji-11e-edition-seo-square/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-09-21T09:09:16Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "J’ai testé le Google Pixel 11 Pro Fold : trop sous-estimé",
-      "description": "Dévoilé début août, le Pixel 11 Pro Fold est l’un des rares smartphones pliants n’adoptant pas le format passeport cette année. Pire, il ressemble comme deux gouttes d’eau à son prédécesseur. Google a...",
-      "url": "https://www.presse-citron.net/test-google-pixel-11-pro-fold/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-09-19T15:54:51Z",
+      "title": "Transparence de l'IA : le vrai sujet n'est pas la règle, c'est la maîtrise",
+      "description": "La transparence de l'IA n'est utile que si l'organisation peut prouver qu'elle maîtrise ses usages — pas seulement respecter une règle.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1555025-transparence-de-l-ia-le-vrai-sujet-n-est-pas-la-regle-c-est-la-maitrise/",
+      "source": "JDN",
+      "publishedAt": "2026-09-21T09:18:33Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
