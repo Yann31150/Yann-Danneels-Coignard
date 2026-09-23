@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 22 Sep 2026 13:14:07 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 13:28:55 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -61,14 +61,6 @@
             <source>Stanford Online</source>
         </item>
         <item>
-            <title>Le parrain français de l’IA rejoint Cellular Intelligence, une startup qui veut révolutionner la médecine avec ses modèles</title>
-            <link>https://www.presse-citron.net/parrain-francais-ia-rejoint-cellular-intelligence/</link>
-            <description><![CDATA[Yann Le Cun, l’un des parrains de l’intelligence artificielle, rejoint le conseil scientifique de l’entreprise Cellular Intelligence. Il s’agit d’une entreprise très prometteuse qui développe une nouv...]]></description>
-            <pubDate>Mon, 21 Sep 2026 12:01:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/parrain-francais-ia-rejoint-cellular-intelligence/</guid>
-            <source>Presse-citron</source>
-        </item>
-        <item>
             <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
             <link>https://www.youtube.com/watch?v=NdS8xLrZd_k</link>
             <description><![CDATA[Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...]]></description>
@@ -77,20 +69,28 @@
             <source>contact omnicirelpc</source>
         </item>
         <item>
-            <title>IA ou le syndrome de la tomate parfaite</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1555157-ia-ou-le-syndrome-de-la-tomate-parfaite/</link>
-            <description><![CDATA[L'intelligence artificielle commence à transformer le management. Mais son développement pourrait nous conduire à redécouvrir la valeur de ce qui ne se calcule pas : l'expérience et le goût du réel.]]></description>
-            <pubDate>Mon, 21 Sep 2026 09:14:57 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1555157-ia-ou-le-syndrome-de-la-tomate-parfaite/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
             <title>Cours complet sur Power BI pour débutant</title>
             <link>https://www.youtube.com/watch?v=uJeUP8Z9LsQ</link>
             <description><![CDATA[Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...]]></description>
             <pubDate>Tue, 25 Aug 2026 17:46:11 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=uJeUP8Z9LsQ</guid>
             <source>Jeune Financier Africain </source>
+        </item>
+        <item>
+            <title>Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10</title>
+            <link>https://www.youtube.com/watch?v=jp6vn3Hp_zc</link>
+            <description><![CDATA[COMPILATION — Chapitre 6/10 de la formation Data &amp; Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.]]></description>
+            <pubDate>Mon, 07 Sep 2026 11:00:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=jp6vn3Hp_zc</guid>
+            <source>IA Futura</source>
+        </item>
+        <item>
+            <title>Dates et texte en SQL : strftime, julianday, concaténation et fonctions de chaînes</title>
+            <link>https://www.youtube.com/watch?v=1N8MS9tnkNQ</link>
+            <description><![CDATA[Huitième épisode de la Formation SQL Bitdyne. Les données réelles sont pleines de dates et de texte. On apprend à extraire ...]]></description>
+            <pubDate>Tue, 08 Sep 2026 15:26:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1N8MS9tnkNQ</guid>
+            <source>Bitdyne</source>
         </item>
         <item>
             <title>Formation Power BI #9 — Construire un tableau de bord</title>
@@ -117,28 +117,28 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>En Éthiopie, une autre science de la course de fond</title>
-            <link>https://www.courrierinternational.com/article/analyse-en-ethiopie-une-autre-science-de-la-course-de-fond_244451</link>
-            <description><![CDATA[Une méthode moderne d’entraînement implique-t-elle forcément suivi individuel et analyse de données ? Les coureurs de fond et de demi-fond occidentaux en sont persuadés. Mais ils se font régulièrement...]]></description>
-            <pubDate>Sun, 20 Sep 2026 15:39:44 -0000</pubDate>
-            <guid isPermaLink="true">https://www.courrierinternational.com/article/analyse-en-ethiopie-une-autre-science-de-la-course-de-fond_244451</guid>
-            <source>Courrier International</source>
-        </item>
-        <item>
-            <title>Anthropic fait sortir l’IA des écrans avec son propre laboratoire de biologie</title>
-            <link>https://www.zdnet.fr/actualites/anthropic-fait-sortir-lia-des-ecrans-avec-son-propre-laboratoire-de-biologie-503866.htm</link>
-            <description><![CDATA[Anthropic exploite un laboratoire de biologie pour tester en conditions réelles ses recherches assistées par IA, tout en explorant l’automatisation des expériences grâce à des robots pilotés par Claud...]]></description>
-            <pubDate>Mon, 21 Sep 2026 05:25:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/anthropic-fait-sortir-lia-des-ecrans-avec-son-propre-laboratoire-de-biologie-503866.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
             <title>Comprendre l&amp;#39;informatique #10 — Les bases de données et SQL</title>
             <link>https://www.youtube.com/watch?v=Ne5LQuLVmfE</link>
             <description><![CDATA[Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...]]></description>
             <pubDate>Wed, 02 Sep 2026 03:04:52 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Ne5LQuLVmfE</guid>
             <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>Actualité : Motorola Signature 27 : la marque de Lenovo tease un smartphone qui ne fait rien comme les autres</title>
+            <link>https://www.lesnumeriques.com/telephone-portable/motorola-signature-27-la-marque-de-lenovo-tease-un-smartphone-qui-ne-fait-rien-comme-les-autres-n262178.html</link>
+            <description><![CDATA[Motorola prépare un nouveau smartphone premium qui entend clairement se faire remarquer. Entre ambitions photo, design atypique et partenariat audio prestigieux, le Signature 27 pourrait devenir l’un ...]]></description>
+            <pubDate>Tue, 22 Sep 2026 11:23:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/telephone-portable/motorola-signature-27-la-marque-de-lenovo-tease-un-smartphone-qui-ne-fait-rien-comme-les-autres-n262178.html</guid>
+            <source>Les Numériques</source>
+        </item>
+        <item>
+            <title>« El Niño nous surprend par sa force » : ce que Sentinel-3 voit changer sur Terre depuis dix ans</title>
+            <link>https://www.futura-sciences.com/sciences/actualites/observation-terre-el-nino-nous-surprend-force-ce-sentinel-3-voit-changer-terre-depuis-dix-ans-137879/</link>
+            <description><![CDATA[Lancé le 15 septembre 2026 depuis le Centre spatial guyanais, Sentinel-3C vient consolider une mission d'observation lancée il y a dix ans, en 2016, avec Sentinel-3A. Retour sur une décennie de donnée...]]></description>
+            <pubDate>Mon, 21 Sep 2026 19:27:32 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/observation-terre-el-nino-nous-surprend-force-ce-sentinel-3-voit-changer-terre-depuis-dix-ans-137879/</guid>
+            <source>Futura</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -149,28 +149,28 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>El Niño bat record sur record depuis plus de 1000 ans</title>
-            <link>https://www.techno-science.net/fr/actualites/el-nino-records-coraux-galapagos-29384</link>
-            <description><![CDATA[Les coraux des Galápagos révèlent un changement récent d’El Niño qui ne ressemble à rien de retrouvé durant le millénaire précédant l’industrialisation. El Niño correspond à un réchauffement périodiqu...]]></description>
-            <pubDate>Sun, 20 Sep 2026 04:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.techno-science.net/fr/actualites/el-nino-records-coraux-galapagos-29384</guid>
-            <source>Techno-science.net</source>
+            <title>Hylenr achève la validation de phase 1 du réacteur LCF à l'université Texas A&amp;M</title>
+            <link>https://www.prnewswire.com/news-releases/hylenr-acheve-la-validation-de-phase-1-du-reacteur-lcf-a-luniversite-texas-am-302886046.html</link>
+            <description><![CDATA[Les essais de phase 1 ont permis d'identifier des signatures clés liées à la thermique, aux gaz rares et aux matériaux dans le réacteur de fusion par confinement inertiel (LCF), Hylenr passant désorma...]]></description>
+            <pubDate>Tue, 22 Sep 2026 11:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/hylenr-acheve-la-validation-de-phase-1-du-reacteur-lcf-a-luniversite-texas-am-302886046.html</guid>
+            <source>PRNewswire</source>
         </item>
         <item>
-            <title>INDY, TIIME ou ABBY : quelle plateforme choisir pour sa facturation électronique quand on est indépendant ?</title>
-            <link>https://www.frenchweb.fr/indy-tiime-ou-abby-quelle-plateforme-choisir-pour-sa-facturation-electronique-quand-on-est-independant/463550</link>
-            <description><![CDATA[Si la facture électronique n’est que la porte d’entrée, derrière le choix d’une plateforme agréée se joue désormais une part croissante de la gestion de l’indépendant : devis, encaissements, relances,...]]></description>
-            <pubDate>Mon, 21 Sep 2026 11:04:35 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frenchweb.fr/indy-tiime-ou-abby-quelle-plateforme-choisir-pour-sa-facturation-electronique-quand-on-est-independant/463550</guid>
+            <title>Ellisphere rachète l'aubagnais Intersud et porte son chiffre d'affaires à 55 M€</title>
+            <link>https://www.lejournaldesentreprises.com/article/ellisphere-rachete-laubagnais-intersud-et-porte-son-chiffre-daffaires-55-meu-2147641</link>
+            <description><![CDATA[Le groupe Ellisphere, spécialiste de l'information économique et financière et dont le siège est installé à Puteaux (Hauts-de-Seine), a annoncé le 22 septembre le rachat d'Intersud, cabinet d'enquêtes...]]></description>
+            <pubDate>Tue, 22 Sep 2026 11:41:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/article/ellisphere-rachete-laubagnais-intersud-et-porte-son-chiffre-daffaires-55-meu-2147641</guid>
+            <source>Le Journal des Entreprises</source>
+        </item>
+        <item>
+            <title>Mistral AI acquiert Pimento et poursuit sa remontée vers les applications métier</title>
+            <link>https://www.frenchweb.fr/mistral-ai-acquiert-pimento-et-poursuit-sa-remontee-vers-les-applications-metier/463566</link>
+            <description><![CDATA[Mistral AI fait l’acquisition de Pimento, la startup française fondée par Florent Facq et Tomás Yany, spécialisée dans la création publicitaire assistée par intelligence artificielle. Après Koyeb dans...]]></description>
+            <pubDate>Tue, 22 Sep 2026 04:00:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frenchweb.fr/mistral-ai-acquiert-pimento-et-poursuit-sa-remontee-vers-les-applications-metier/463566</guid>
             <source>Frenchweb.fr</source>
-        </item>
-        <item>
-            <title>Automobile. « Un accès direct et gratuit » : les radios veulent un équipement adapté à l'écoute dans toutes les voitures</title>
-            <link>https://www.ledauphine.com/societe/2026/09/21/un-acces-direct-et-gratuit-les-radios-veulent-un-equipement-adapte-a-l-ecoute-dans-toutes-les-voitures</link>
-            <description><![CDATA[Selon ces radios, certains constructeurs ne proposent plus systématiquement l'accès à la radio dans l'équipement multimédia de leurs véhicules.]]></description>
-            <pubDate>Mon, 21 Sep 2026 12:56:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.ledauphine.com/societe/2026/09/21/un-acces-direct-et-gratuit-les-radios-veulent-un-equipement-adapte-a-l-ecoute-dans-toutes-les-voitures</guid>
-            <source>Le Dauphiné Libéré</source>
         </item>
     </channel>
 </rss>

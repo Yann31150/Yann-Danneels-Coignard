@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-22T13:14:07.349420",
+  "lastUpdate": "2026-09-23T13:28:55.694329",
   "articles": [
     {
       "title": "IA, Machine Learning e Deep Learning: qual é a diferença?",
@@ -74,18 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/DATnpGoGhM8/hqdefault.jpg"
     },
     {
-      "title": "Le parrain français de l’IA rejoint Cellular Intelligence, une startup qui veut révolutionner la médecine avec ses modèles",
-      "description": "Yann Le Cun, l’un des parrains de l’intelligence artificielle, rejoint le conseil scientifique de l’entreprise Cellular Intelligence. Il s’agit d’une entreprise très prometteuse qui développe une nouv...",
-      "url": "https://www.presse-citron.net/parrain-francais-ia-rejoint-cellular-intelligence/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-09-21T12:01:20Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "URGENT : Machine Learning, Ia, — analyse rapide",
       "description": "Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...",
       "url": "https://www.youtube.com/watch?v=NdS8xLrZd_k",
@@ -98,18 +86,6 @@
       "thumbnail": "https://i.ytimg.com/vi/NdS8xLrZd_k/hqdefault.jpg"
     },
     {
-      "title": "IA ou le syndrome de la tomate parfaite",
-      "description": "L'intelligence artificielle commence à transformer le management. Mais son développement pourrait nous conduire à redécouvrir la valeur de ce qui ne se calcule pas : l'expérience et le goût du réel.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1555157-ia-ou-le-syndrome-de-la-tomate-parfaite/",
-      "source": "JDN",
-      "publishedAt": "2026-09-21T09:14:57Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Cours complet sur Power BI pour débutant",
       "description": "Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...",
       "url": "https://www.youtube.com/watch?v=uJeUP8Z9LsQ",
@@ -120,6 +96,30 @@
       "isYouTube": true,
       "videoId": "uJeUP8Z9LsQ",
       "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
+    },
+    {
+      "title": "Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10",
+      "description": "COMPILATION — Chapitre 6/10 de la formation Data & Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.",
+      "url": "https://www.youtube.com/watch?v=jp6vn3Hp_zc",
+      "source": "IA Futura",
+      "publishedAt": "2026-09-07T11:00:18Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "jp6vn3Hp_zc",
+      "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
+    },
+    {
+      "title": "Dates et texte en SQL : strftime, julianday, concaténation et fonctions de chaînes",
+      "description": "Huitième épisode de la Formation SQL Bitdyne. Les données réelles sont pleines de dates et de texte. On apprend à extraire ...",
+      "url": "https://www.youtube.com/watch?v=1N8MS9tnkNQ",
+      "source": "Bitdyne",
+      "publishedAt": "2026-09-08T15:26:45Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1N8MS9tnkNQ",
+      "thumbnail": "https://i.ytimg.com/vi/1N8MS9tnkNQ/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI #9 — Construire un tableau de bord",
@@ -158,30 +158,6 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
-      "title": "En Éthiopie, une autre science de la course de fond",
-      "description": "Une méthode moderne d’entraînement implique-t-elle forcément suivi individuel et analyse de données ? Les coureurs de fond et de demi-fond occidentaux en sont persuadés. Mais ils se font régulièrement...",
-      "url": "https://www.courrierinternational.com/article/analyse-en-ethiopie-une-autre-science-de-la-course-de-fond_244451",
-      "source": "Courrier International",
-      "publishedAt": "2026-09-20T15:39:44Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic fait sortir l’IA des écrans avec son propre laboratoire de biologie",
-      "description": "Anthropic exploite un laboratoire de biologie pour tester en conditions réelles ses recherches assistées par IA, tout en explorant l’automatisation des expériences grâce à des robots pilotés par Claud...",
-      "url": "https://www.zdnet.fr/actualites/anthropic-fait-sortir-lia-des-ecrans-avec-son-propre-laboratoire-de-biologie-503866.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-09-21T05:25:49Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Comprendre l&#39;informatique #10 — Les bases de données et SQL",
       "description": "Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...",
       "url": "https://www.youtube.com/watch?v=Ne5LQuLVmfE",
@@ -192,6 +168,30 @@
       "isYouTube": true,
       "videoId": "Ne5LQuLVmfE",
       "thumbnail": "https://i.ytimg.com/vi/Ne5LQuLVmfE/hqdefault.jpg"
+    },
+    {
+      "title": "Actualité : Motorola Signature 27 : la marque de Lenovo tease un smartphone qui ne fait rien comme les autres",
+      "description": "Motorola prépare un nouveau smartphone premium qui entend clairement se faire remarquer. Entre ambitions photo, design atypique et partenariat audio prestigieux, le Signature 27 pourrait devenir l’un ...",
+      "url": "https://www.lesnumeriques.com/telephone-portable/motorola-signature-27-la-marque-de-lenovo-tease-un-smartphone-qui-ne-fait-rien-comme-les-autres-n262178.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-09-22T11:23:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "« El Niño nous surprend par sa force » : ce que Sentinel-3 voit changer sur Terre depuis dix ans",
+      "description": "Lancé le 15 septembre 2026 depuis le Centre spatial guyanais, Sentinel-3C vient consolider une mission d'observation lancée il y a dix ans, en 2016, avec Sentinel-3A. Retour sur une décennie de donnée...",
+      "url": "https://www.futura-sciences.com/sciences/actualites/observation-terre-el-nino-nous-surprend-force-ce-sentinel-3-voit-changer-terre-depuis-dix-ans-137879/",
+      "source": "Futura",
+      "publishedAt": "2026-09-21T19:27:32Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -206,11 +206,11 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "El Niño bat record sur record depuis plus de 1000 ans",
-      "description": "Les coraux des Galápagos révèlent un changement récent d’El Niño qui ne ressemble à rien de retrouvé durant le millénaire précédant l’industrialisation. El Niño correspond à un réchauffement périodiqu...",
-      "url": "https://www.techno-science.net/fr/actualites/el-nino-records-coraux-galapagos-29384",
-      "source": "Techno-science.net",
-      "publishedAt": "2026-09-20T04:00:00Z",
+      "title": "Hylenr achève la validation de phase 1 du réacteur LCF à l'université Texas A&M",
+      "description": "Les essais de phase 1 ont permis d'identifier des signatures clés liées à la thermique, aux gaz rares et aux matériaux dans le réacteur de fusion par confinement inertiel (LCF), Hylenr passant désorma...",
+      "url": "https://www.prnewswire.com/news-releases/hylenr-acheve-la-validation-de-phase-1-du-reacteur-lcf-a-luniversite-texas-am-302886046.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-09-22T11:00:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,35 +218,23 @@
       "thumbnail": ""
     },
     {
-      "title": "INDY, TIIME ou ABBY : quelle plateforme choisir pour sa facturation électronique quand on est indépendant ?",
-      "description": "Si la facture électronique n’est que la porte d’entrée, derrière le choix d’une plateforme agréée se joue désormais une part croissante de la gestion de l’indépendant : devis, encaissements, relances,...",
-      "url": "https://www.frenchweb.fr/indy-tiime-ou-abby-quelle-plateforme-choisir-pour-sa-facturation-electronique-quand-on-est-independant/463550",
+      "title": "Ellisphere rachète l'aubagnais Intersud et porte son chiffre d'affaires à 55 M€",
+      "description": "Le groupe Ellisphere, spécialiste de l'information économique et financière et dont le siège est installé à Puteaux (Hauts-de-Seine), a annoncé le 22 septembre le rachat d'Intersud, cabinet d'enquêtes...",
+      "url": "https://www.lejournaldesentreprises.com/article/ellisphere-rachete-laubagnais-intersud-et-porte-son-chiffre-daffaires-55-meu-2147641",
+      "source": "Le Journal des Entreprises",
+      "publishedAt": "2026-09-22T11:41:37Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mistral AI acquiert Pimento et poursuit sa remontée vers les applications métier",
+      "description": "Mistral AI fait l’acquisition de Pimento, la startup française fondée par Florent Facq et Tomás Yany, spécialisée dans la création publicitaire assistée par intelligence artificielle. Après Koyeb dans...",
+      "url": "https://www.frenchweb.fr/mistral-ai-acquiert-pimento-et-poursuit-sa-remontee-vers-les-applications-metier/463566",
       "source": "Frenchweb.fr",
-      "publishedAt": "2026-09-21T11:04:35Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Automobile. « Un accès direct et gratuit » : les radios veulent un équipement adapté à l'écoute dans toutes les voitures",
-      "description": "Selon ces radios, certains constructeurs ne proposent plus systématiquement l'accès à la radio dans l'équipement multimédia de leurs véhicules.",
-      "url": "https://www.ledauphine.com/societe/2026/09/21/un-acces-direct-et-gratuit-les-radios-veulent-un-equipement-adapte-a-l-ecoute-dans-toutes-les-voitures",
-      "source": "Le Dauphiné Libéré",
-      "publishedAt": "2026-09-21T12:56:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le silence stratégique des entreprises de modèles du monde",
-      "description": "L’intelligence artificielle spatiale attire aujourd’hui des milliards de dollars, mais les principaux acteurs du secteur cultivent un mystère profondément déroutant. Les pionniers de ce domaine promet...",
-      "url": "https://www.fredzone.org/le-silence-strategique-des-entreprises-de-modeles-du-monde/",
-      "source": "FREDZONE",
-      "publishedAt": "2026-09-21T12:30:00Z",
+      "publishedAt": "2026-09-22T04:00:34Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,47 +242,47 @@
       "thumbnail": ""
     },
     {
-      "title": "Actualité : Sans ventilateur et autonomie d'une journée : la promesse du SoC MediaTek Dimensity CX C10 Max pour les Googlebook",
-      "description": "MediaTek annonce le Dimensity CX C10 Max, sa nouvelle puce destinée aux ordinateurs portables. Ce processeur pensé pour l'intelligence artificielle équipera de futurs Googlebook, marquant une nouvelle...",
-      "url": "https://www.lesnumeriques.com/cpu-processeur/sans-ventilateur-et-autonomie-d-une-journee-la-promesse-du-soc-mediatek-dimensity-cx-c10-max-pour-les-googlebook-n262063.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-09-21T13:07:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Napster délaisse le streaming musical pour façonner des doubles numériques de professeurs",
-      "description": "L’ancienne plateforme de partage de fichiers musicaux opère une mutation spectaculaire. Fini l’époque du piratage pair-à-pair ou du streaming audio. L’entreprise se consacre désormais exclusivement à ...",
-      "url": "https://www.fredzone.org/napster-delaisse-le-streaming-musical-pour-faconner-des-doubles-numeriques-de-professeurs/",
-      "source": "FREDZONE",
-      "publishedAt": "2026-09-21T09:30:43Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "AI Overviews, GEO, zéro clic : les conseils de Semji avant la 11e édition de SEO Square",
-      "description": "L'arrivée d'AI Overview rebat les cartes du SEO. Cofondateur de Semji, Nicolas Nguyen nous partage ses conseils pour rester visible et mesurer la performance à l'ère des moteurs IA, avant la prochaine...",
-      "url": "https://www.blogdumoderateur.com/conseils-semji-11e-edition-seo-square/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-09-21T09:09:16Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Transparence de l'IA : le vrai sujet n'est pas la règle, c'est la maîtrise",
-      "description": "La transparence de l'IA n'est utile que si l'organisation peut prouver qu'elle maîtrise ses usages — pas seulement respecter une règle.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1555025-transparence-de-l-ia-le-vrai-sujet-n-est-pas-la-regle-c-est-la-maitrise/",
+      "title": "Jev : 5 prompts pour cette IA… 400 fois moins chère que les autres",
+      "description": "Avec Jev, TypeSafe AI propose un modèle 200 fois plus rapide que les LLM frontières du moment. Mais où est le loup ? Réponse.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1555225-jev-5-prompts-pour-cette-ia-400-fois-moins-chere-que-les-autres/",
       "source": "JDN",
-      "publishedAt": "2026-09-21T09:18:33Z",
+      "publishedAt": "2026-09-22T12:02:09Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comment l’IA peut prévoir – et expliquer – le niveau d’eau des Grands Lacs ?",
+      "description": "Le niveau d’eau des Grands Lacs passe d’un extrême à l’autre. Une analyse par intelligence artificielle révèle comment (et pourquoi) la météo les fait varier.",
+      "url": "https://theconversation.com/comment-lia-peut-prevoir-et-expliquer-le-niveau-deau-des-grands-lacs-288682",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-09-21T18:26:26Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Actualité : Tom Cruise alerte sur l'arrivée de l'IA à Hollywood : “Rien ne vaut l'humain”",
+      "description": "L'acteur de Mission: Impossible et Top Gun: Maverick a partagé son avis sur l'arrivée de l'intelligence artificielle dans le cinéma, tout en réaffirmant sa foi dans la création humaine.",
+      "url": "https://www.lesnumeriques.com/cine-svod/tom-cruise-alerte-sur-l-arrivee-de-l-ia-a-hollywood-rien-ne-vaut-l-humain-n262182.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-09-22T12:56:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tom Cruise a lâché un monologue de 6 minutes contre l&#8217;IA pour sauver le cinoche et sa carrière",
+      "description": "Invité à Londres pour une rétrospective sur sa carrière, la star de Mission : Impossible et du futur Digger a profité d'une question sur les algorithmes pour rappeler à Hollywood qui est le vrai patro...",
+      "url": "https://www.konbini.com/popculture/tom-cruise-a-lache-un-monologue-de-6-minutes-contre-lia-pour-sauver-le-cinoche-et-sa-carriere/",
+      "source": "Konbini France",
+      "publishedAt": "2026-09-22T10:30:41Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
