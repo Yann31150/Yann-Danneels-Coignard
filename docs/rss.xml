@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 23 Sep 2026 13:28:55 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 13:24:25 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>IA, Machine Learning e Deep Learning: qual é a diferença?</title>
-            <link>https://www.youtube.com/watch?v=XTmj6NxHHwM</link>
-            <description><![CDATA[Inteligência Artificial, Machine Learning e Deep Learning são a mesma coisa? Neste vídeo da Luanalytics, você vai entender de ...]]></description>
-            <pubDate>Wed, 19 Aug 2026 22:01:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=XTmj6NxHHwM</guid>
-            <source>Luanalytics</source>
-        </item>
         <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
             <link>https://www.youtube.com/watch?v=nNo2tnuYXDo</link>
@@ -37,28 +29,12 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>L'intelligence artificielle peut-elle nous aider à restaurer la confiance dans la science ?</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1555129-l-intelligence-artificielle-peut-elle-nous-aider-a-restaurer-la-confiance-dans-la-science/</link>
-            <description><![CDATA[L'intelligence artificielle est régulièrement présentée comme une menace pour la fiabilité de l'information scientifique. Mais une publication récente dans Nature ouvre une perspective presque inverse]]></description>
-            <pubDate>Mon, 21 Sep 2026 09:17:28 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1555129-l-intelligence-artificielle-peut-elle-nous-aider-a-restaurer-la-confiance-dans-la-science/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
             <title>Formation Power BI #5 — Le modèle de données et le schéma en étoile</title>
             <link>https://www.youtube.com/watch?v=_HMCrW-g-I4</link>
             <description><![CDATA[Faits, dimensions, relations : la charpente qui rend tous les calculs justes Formation Power BI par Bitdyne. Cas concrets ...]]></description>
             <pubDate>Thu, 10 Sep 2026 23:59:23 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=_HMCrW-g-I4</guid>
             <source>Bitdyne</source>
-        </item>
-        <item>
-            <title>Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction</title>
-            <link>https://www.youtube.com/watch?v=DATnpGoGhM8</link>
-            <description><![CDATA[For more information about Stanford's Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai For ...]]></description>
-            <pubDate>Wed, 29 Jul 2026 23:31:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=DATnpGoGhM8</guid>
-            <source>Stanford Online</source>
         </item>
         <item>
             <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
@@ -93,6 +69,30 @@
             <source>Bitdyne</source>
         </item>
         <item>
+            <title>FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL</title>
+            <link>https://www.youtube.com/watch?v=Lp9R5PlZeRg</link>
+            <description><![CDATA[FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...]]></description>
+            <pubDate>Mon, 10 Aug 2026 22:57:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Lp9R5PlZeRg</guid>
+            <source>Ceemtic Analytics</source>
+        </item>
+        <item>
+            <title>Python &amp;amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python</title>
+            <link>https://www.youtube.com/watch?v=1o308cqkEXc</link>
+            <description><![CDATA[Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...]]></description>
+            <pubDate>Thu, 20 Aug 2026 23:58:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1o308cqkEXc</guid>
+            <source>Mausse Institut</source>
+        </item>
+        <item>
+            <title>Visualisation de données — cours complet 1h42 (débutant, sans code) · Chapitre 2/10</title>
+            <link>https://www.youtube.com/watch?v=0RCs3npgogY</link>
+            <description><![CDATA[COMPILATION — Chapitre 2/10 de la formation Data &amp; Machine Learning, d'un seul tenant (1h42). 100 % GRATUIT. ⚠️ Aucun ...]]></description>
+            <pubDate>Thu, 03 Sep 2026 09:58:25 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=0RCs3npgogY</guid>
+            <source>IA Futura</source>
+        </item>
+        <item>
             <title>Formation Power BI #9 — Construire un tableau de bord</title>
             <link>https://www.youtube.com/watch?v=gHC1DJeQVt4</link>
             <description><![CDATA[Mise en page, filtres et récit : assembler le tableau de bord achats de bout en bout Formation Power BI par Bitdyne. Cas concrets ...]]></description>
@@ -117,28 +117,36 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Comprendre l&amp;#39;informatique #10 — Les bases de données et SQL</title>
-            <link>https://www.youtube.com/watch?v=Ne5LQuLVmfE</link>
-            <description><![CDATA[Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...]]></description>
-            <pubDate>Wed, 02 Sep 2026 03:04:52 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Ne5LQuLVmfE</guid>
+            <title>La France vient de progresser sur le classement mondial de l’IA : voici ce que révèlent les données de Microsoft</title>
+            <link>https://www.journaldugeek.com/2026/09/23/la-france-vient-de-progresser-sur-le-classement-mondial-de-lia-voici-ce-que-revelent-les-donnees-de-microsoft/</link>
+            <description><![CDATA[Microsoft vient de publier ses nouvelles données sur la diffusion de l’IA générative dans le monde. La France fait toujours partie des pays en tête de son classement, et est même devenu le quatrième p...]]></description>
+            <pubDate>Wed, 23 Sep 2026 12:31:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/09/23/la-france-vient-de-progresser-sur-le-classement-mondial-de-lia-voici-ce-que-revelent-les-donnees-de-microsoft/</guid>
+            <source>Journal du geek</source>
+        </item>
+        <item>
+            <title>INSERT, UPDATE, DELETE en SQL : modifier les données sans risque</title>
+            <link>https://www.youtube.com/watch?v=g3riJNZdIdU</link>
+            <description><![CDATA[Ajouter une commande, corriger un statut, supprimer une ligne erronée : ces gestes quotidiens sont aussi les plus dangereux ...]]></description>
+            <pubDate>Sun, 13 Sep 2026 03:05:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=g3riJNZdIdU</guid>
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>Actualité : Motorola Signature 27 : la marque de Lenovo tease un smartphone qui ne fait rien comme les autres</title>
-            <link>https://www.lesnumeriques.com/telephone-portable/motorola-signature-27-la-marque-de-lenovo-tease-un-smartphone-qui-ne-fait-rien-comme-les-autres-n262178.html</link>
-            <description><![CDATA[Motorola prépare un nouveau smartphone premium qui entend clairement se faire remarquer. Entre ambitions photo, design atypique et partenariat audio prestigieux, le Signature 27 pourrait devenir l’un ...]]></description>
-            <pubDate>Tue, 22 Sep 2026 11:23:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/telephone-portable/motorola-signature-27-la-marque-de-lenovo-tease-un-smartphone-qui-ne-fait-rien-comme-les-autres-n262178.html</guid>
-            <source>Les Numériques</source>
+            <title>Une mutation génétique pourrait favoriser le cancer du poumon chez les non-fumeurs</title>
+            <link>https://www.courrierinternational.com/article/medecine-une-mutation-genetique-pourrait-favoriser-le-cancer-du-poumon-chez-les-non-fumeurs_273314</link>
+            <description><![CDATA[Des généticiens et spécialistes du cancer ont mieux caractérisé une mutation génétique héréditaire qui prédispose au cancer du poumon, même chez les non-fumeurs. Une enquête scientifique rendue possib...]]></description>
+            <pubDate>Wed, 23 Sep 2026 06:30:12 -0000</pubDate>
+            <guid isPermaLink="true">https://www.courrierinternational.com/article/medecine-une-mutation-genetique-pourrait-favoriser-le-cancer-du-poumon-chez-les-non-fumeurs_273314</guid>
+            <source>Courrier International</source>
         </item>
         <item>
-            <title>« El Niño nous surprend par sa force » : ce que Sentinel-3 voit changer sur Terre depuis dix ans</title>
-            <link>https://www.futura-sciences.com/sciences/actualites/observation-terre-el-nino-nous-surprend-force-ce-sentinel-3-voit-changer-terre-depuis-dix-ans-137879/</link>
-            <description><![CDATA[Lancé le 15 septembre 2026 depuis le Centre spatial guyanais, Sentinel-3C vient consolider une mission d'observation lancée il y a dix ans, en 2016, avec Sentinel-3A. Retour sur une décennie de donnée...]]></description>
-            <pubDate>Mon, 21 Sep 2026 19:27:32 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/observation-terre-el-nino-nous-surprend-force-ce-sentinel-3-voit-changer-terre-depuis-dix-ans-137879/</guid>
-            <source>Futura</source>
+            <title>« Slop grenades » : le patron de Shopify dénonce les contenus IA non relus</title>
+            <link>https://www.abondance.com/20260923-2963283-slop-grenades-le-patron-de-shopify-denonce-les-contenus-ia-non-relus.html</link>
+            <description><![CDATA[Ce qu'il faut retenir : Chez Shopify, les contenus générés par IA et transmis à un collègue sans avoir été lus sont surnommés « slop grenades », des « grenades de bouillie » que les salariés se lancen...]]></description>
+            <pubDate>Wed, 23 Sep 2026 12:56:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.abondance.com/20260923-2963283-slop-grenades-le-patron-de-shopify-denonce-les-contenus-ia-non-relus.html</guid>
+            <source>Abondance.com</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -149,28 +157,20 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Hylenr achève la validation de phase 1 du réacteur LCF à l'université Texas A&amp;M</title>
-            <link>https://www.prnewswire.com/news-releases/hylenr-acheve-la-validation-de-phase-1-du-reacteur-lcf-a-luniversite-texas-am-302886046.html</link>
-            <description><![CDATA[Les essais de phase 1 ont permis d'identifier des signatures clés liées à la thermique, aux gaz rares et aux matériaux dans le réacteur de fusion par confinement inertiel (LCF), Hylenr passant désorma...]]></description>
-            <pubDate>Tue, 22 Sep 2026 11:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/hylenr-acheve-la-validation-de-phase-1-du-reacteur-lcf-a-luniversite-texas-am-302886046.html</guid>
-            <source>PRNewswire</source>
+            <title>Le premier câble de fibre optique transatlantique a été arraché dans l’océan : plongée dans une opération extraordinaire</title>
+            <link>https://www.presse-citron.net/le-premier-cable-de-fibre-optique-transatlantique-a-ete-arrache-dans-locean-plongee-dans-une-operation-extraordinaire/</link>
+            <description><![CDATA[Installé à la fin des années 1980, le câble transatlantique TAT-8 a marqué un tournant dans l’histoire des télécommunications. Plus de trente ans après avoir transporté les premières données en fibre ...]]></description>
+            <pubDate>Tue, 22 Sep 2026 14:54:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/le-premier-cable-de-fibre-optique-transatlantique-a-ete-arrache-dans-locean-plongee-dans-une-operation-extraordinaire/</guid>
+            <source>Presse-citron</source>
         </item>
         <item>
-            <title>Ellisphere rachète l'aubagnais Intersud et porte son chiffre d'affaires à 55 M€</title>
-            <link>https://www.lejournaldesentreprises.com/article/ellisphere-rachete-laubagnais-intersud-et-porte-son-chiffre-daffaires-55-meu-2147641</link>
-            <description><![CDATA[Le groupe Ellisphere, spécialiste de l'information économique et financière et dont le siège est installé à Puteaux (Hauts-de-Seine), a annoncé le 22 septembre le rachat d'Intersud, cabinet d'enquêtes...]]></description>
-            <pubDate>Tue, 22 Sep 2026 11:41:37 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/article/ellisphere-rachete-laubagnais-intersud-et-porte-son-chiffre-daffaires-55-meu-2147641</guid>
-            <source>Le Journal des Entreprises</source>
-        </item>
-        <item>
-            <title>Mistral AI acquiert Pimento et poursuit sa remontée vers les applications métier</title>
-            <link>https://www.frenchweb.fr/mistral-ai-acquiert-pimento-et-poursuit-sa-remontee-vers-les-applications-metier/463566</link>
-            <description><![CDATA[Mistral AI fait l’acquisition de Pimento, la startup française fondée par Florent Facq et Tomás Yany, spécialisée dans la création publicitaire assistée par intelligence artificielle. Après Koyeb dans...]]></description>
-            <pubDate>Tue, 22 Sep 2026 04:00:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frenchweb.fr/mistral-ai-acquiert-pimento-et-poursuit-sa-remontee-vers-les-applications-metier/463566</guid>
-            <source>Frenchweb.fr</source>
+            <title>"Choosin' Texas": comment cette ballade country a battu un record détenu par Mariah Carey</title>
+            <link>https://www.bfmtv.com/culture/musique/choosin-texas-comment-cette-ballade-country-a-battu-un-record-detenu-par-mariah-carey_AD-202609230389.html</link>
+            <description><![CDATA[Restée 23 semaines en tête du classement américain Billboard, la chanson "Choosin' Texas" a battu un record détenu par "All I wan't for Christmas".]]></description>
+            <pubDate>Wed, 23 Sep 2026 09:34:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.bfmtv.com/culture/musique/choosin-texas-comment-cette-ballade-country-a-battu-un-record-detenu-par-mariah-carey_AD-202609230389.html</guid>
+            <source>BFMTV</source>
         </item>
     </channel>
 </rss>

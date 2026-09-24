@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-09-23T13:28:55.694329",
+  "lastUpdate": "2026-09-24T13:24:25.884929",
   "articles": [
-    {
-      "title": "IA, Machine Learning e Deep Learning: qual é a diferença?",
-      "description": "Inteligência Artificial, Machine Learning e Deep Learning são a mesma coisa? Neste vídeo da Luanalytics, você vai entender de ...",
-      "url": "https://www.youtube.com/watch?v=XTmj6NxHHwM",
-      "source": "Luanalytics",
-      "publishedAt": "2026-08-19T22:01:29Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "XTmj6NxHHwM",
-      "thumbnail": "https://i.ytimg.com/vi/XTmj6NxHHwM/hqdefault.jpg"
-    },
     {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
       "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
@@ -38,18 +26,6 @@
       "thumbnail": "https://i.ytimg.com/vi/J3YIeIEeIl8/hqdefault.jpg"
     },
     {
-      "title": "L'intelligence artificielle peut-elle nous aider à restaurer la confiance dans la science ?",
-      "description": "L'intelligence artificielle est régulièrement présentée comme une menace pour la fiabilité de l'information scientifique. Mais une publication récente dans Nature ouvre une perspective presque inverse",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1555129-l-intelligence-artificielle-peut-elle-nous-aider-a-restaurer-la-confiance-dans-la-science/",
-      "source": "JDN",
-      "publishedAt": "2026-09-21T09:17:28Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Formation Power BI #5 — Le modèle de données et le schéma en étoile",
       "description": "Faits, dimensions, relations : la charpente qui rend tous les calculs justes Formation Power BI par Bitdyne. Cas concrets ...",
       "url": "https://www.youtube.com/watch?v=_HMCrW-g-I4",
@@ -60,18 +36,6 @@
       "isYouTube": true,
       "videoId": "_HMCrW-g-I4",
       "thumbnail": "https://i.ytimg.com/vi/_HMCrW-g-I4/hqdefault.jpg"
-    },
-    {
-      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction",
-      "description": "For more information about Stanford's Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai For ...",
-      "url": "https://www.youtube.com/watch?v=DATnpGoGhM8",
-      "source": "Stanford Online",
-      "publishedAt": "2026-07-29T23:31:41Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "DATnpGoGhM8",
-      "thumbnail": "https://i.ytimg.com/vi/DATnpGoGhM8/hqdefault.jpg"
     },
     {
       "title": "URGENT : Machine Learning, Ia, — analyse rapide",
@@ -122,6 +86,42 @@
       "thumbnail": "https://i.ytimg.com/vi/1N8MS9tnkNQ/hqdefault.jpg"
     },
     {
+      "title": "FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL",
+      "description": "FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...",
+      "url": "https://www.youtube.com/watch?v=Lp9R5PlZeRg",
+      "source": "Ceemtic Analytics",
+      "publishedAt": "2026-08-10T22:57:33Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Lp9R5PlZeRg",
+      "thumbnail": "https://i.ytimg.com/vi/Lp9R5PlZeRg/hqdefault.jpg"
+    },
+    {
+      "title": "Python &amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python",
+      "description": "Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...",
+      "url": "https://www.youtube.com/watch?v=1o308cqkEXc",
+      "source": "Mausse Institut",
+      "publishedAt": "2026-08-20T23:58:11Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1o308cqkEXc",
+      "thumbnail": "https://i.ytimg.com/vi/1o308cqkEXc/hqdefault.jpg"
+    },
+    {
+      "title": "Visualisation de données — cours complet 1h42 (débutant, sans code) · Chapitre 2/10",
+      "description": "COMPILATION — Chapitre 2/10 de la formation Data & Machine Learning, d'un seul tenant (1h42). 100 % GRATUIT. ⚠️ Aucun ...",
+      "url": "https://www.youtube.com/watch?v=0RCs3npgogY",
+      "source": "IA Futura",
+      "publishedAt": "2026-09-03T09:58:25Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "0RCs3npgogY",
+      "thumbnail": "https://i.ytimg.com/vi/0RCs3npgogY/hqdefault.jpg"
+    },
+    {
       "title": "Formation Power BI #9 — Construire un tableau de bord",
       "description": "Mise en page, filtres et récit : assembler le tableau de bord achats de bout en bout Formation Power BI par Bitdyne. Cas concrets ...",
       "url": "https://www.youtube.com/watch?v=gHC1DJeQVt4",
@@ -158,23 +158,11 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
-      "title": "Comprendre l&#39;informatique #10 — Les bases de données et SQL",
-      "description": "Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...",
-      "url": "https://www.youtube.com/watch?v=Ne5LQuLVmfE",
-      "source": "Bitdyne",
-      "publishedAt": "2026-09-02T03:04:52Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Ne5LQuLVmfE",
-      "thumbnail": "https://i.ytimg.com/vi/Ne5LQuLVmfE/hqdefault.jpg"
-    },
-    {
-      "title": "Actualité : Motorola Signature 27 : la marque de Lenovo tease un smartphone qui ne fait rien comme les autres",
-      "description": "Motorola prépare un nouveau smartphone premium qui entend clairement se faire remarquer. Entre ambitions photo, design atypique et partenariat audio prestigieux, le Signature 27 pourrait devenir l’un ...",
-      "url": "https://www.lesnumeriques.com/telephone-portable/motorola-signature-27-la-marque-de-lenovo-tease-un-smartphone-qui-ne-fait-rien-comme-les-autres-n262178.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-09-22T11:23:00Z",
+      "title": "La France vient de progresser sur le classement mondial de l’IA : voici ce que révèlent les données de Microsoft",
+      "description": "Microsoft vient de publier ses nouvelles données sur la diffusion de l’IA générative dans le monde. La France fait toujours partie des pays en tête de son classement, et est même devenu le quatrième p...",
+      "url": "https://www.journaldugeek.com/2026/09/23/la-france-vient-de-progresser-sur-le-classement-mondial-de-lia-voici-ce-que-revelent-les-donnees-de-microsoft/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-09-23T12:31:42Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -182,11 +170,35 @@
       "thumbnail": ""
     },
     {
-      "title": "« El Niño nous surprend par sa force » : ce que Sentinel-3 voit changer sur Terre depuis dix ans",
-      "description": "Lancé le 15 septembre 2026 depuis le Centre spatial guyanais, Sentinel-3C vient consolider une mission d'observation lancée il y a dix ans, en 2016, avec Sentinel-3A. Retour sur une décennie de donnée...",
-      "url": "https://www.futura-sciences.com/sciences/actualites/observation-terre-el-nino-nous-surprend-force-ce-sentinel-3-voit-changer-terre-depuis-dix-ans-137879/",
-      "source": "Futura",
-      "publishedAt": "2026-09-21T19:27:32Z",
+      "title": "INSERT, UPDATE, DELETE en SQL : modifier les données sans risque",
+      "description": "Ajouter une commande, corriger un statut, supprimer une ligne erronée : ces gestes quotidiens sont aussi les plus dangereux ...",
+      "url": "https://www.youtube.com/watch?v=g3riJNZdIdU",
+      "source": "Bitdyne",
+      "publishedAt": "2026-09-13T03:05:42Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "g3riJNZdIdU",
+      "thumbnail": "https://i.ytimg.com/vi/g3riJNZdIdU/hqdefault.jpg"
+    },
+    {
+      "title": "Une mutation génétique pourrait favoriser le cancer du poumon chez les non-fumeurs",
+      "description": "Des généticiens et spécialistes du cancer ont mieux caractérisé une mutation génétique héréditaire qui prédispose au cancer du poumon, même chez les non-fumeurs. Une enquête scientifique rendue possib...",
+      "url": "https://www.courrierinternational.com/article/medecine-une-mutation-genetique-pourrait-favoriser-le-cancer-du-poumon-chez-les-non-fumeurs_273314",
+      "source": "Courrier International",
+      "publishedAt": "2026-09-23T06:30:12Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "« Slop grenades » : le patron de Shopify dénonce les contenus IA non relus",
+      "description": "Ce qu'il faut retenir : Chez Shopify, les contenus générés par IA et transmis à un collègue sans avoir été lus sont surnommés « slop grenades », des « grenades de bouillie » que les salariés se lancen...",
+      "url": "https://www.abondance.com/20260923-2963283-slop-grenades-le-patron-de-shopify-denonce-les-contenus-ia-non-relus.html",
+      "source": "Abondance.com",
+      "publishedAt": "2026-09-23T12:56:40Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,11 +218,11 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Hylenr achève la validation de phase 1 du réacteur LCF à l'université Texas A&M",
-      "description": "Les essais de phase 1 ont permis d'identifier des signatures clés liées à la thermique, aux gaz rares et aux matériaux dans le réacteur de fusion par confinement inertiel (LCF), Hylenr passant désorma...",
-      "url": "https://www.prnewswire.com/news-releases/hylenr-acheve-la-validation-de-phase-1-du-reacteur-lcf-a-luniversite-texas-am-302886046.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-09-22T11:00:00Z",
+      "title": "Le premier câble de fibre optique transatlantique a été arraché dans l’océan : plongée dans une opération extraordinaire",
+      "description": "Installé à la fin des années 1980, le câble transatlantique TAT-8 a marqué un tournant dans l’histoire des télécommunications. Plus de trente ans après avoir transporté les premières données en fibre ...",
+      "url": "https://www.presse-citron.net/le-premier-cable-de-fibre-optique-transatlantique-a-ete-arrache-dans-locean-plongee-dans-une-operation-extraordinaire/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-09-22T14:54:33Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,11 +230,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Ellisphere rachète l'aubagnais Intersud et porte son chiffre d'affaires à 55 M€",
-      "description": "Le groupe Ellisphere, spécialiste de l'information économique et financière et dont le siège est installé à Puteaux (Hauts-de-Seine), a annoncé le 22 septembre le rachat d'Intersud, cabinet d'enquêtes...",
-      "url": "https://www.lejournaldesentreprises.com/article/ellisphere-rachete-laubagnais-intersud-et-porte-son-chiffre-daffaires-55-meu-2147641",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-09-22T11:41:37Z",
+      "title": "\"Choosin' Texas\": comment cette ballade country a battu un record détenu par Mariah Carey",
+      "description": "Restée 23 semaines en tête du classement américain Billboard, la chanson \"Choosin' Texas\" a battu un record détenu par \"All I wan't for Christmas\".",
+      "url": "https://www.bfmtv.com/culture/musique/choosin-texas-comment-cette-ballade-country-a-battu-un-record-detenu-par-mariah-carey_AD-202609230389.html",
+      "source": "BFMTV",
+      "publishedAt": "2026-09-23T09:34:09Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Mistral AI acquiert Pimento et poursuit sa remontée vers les applications métier",
-      "description": "Mistral AI fait l’acquisition de Pimento, la startup française fondée par Florent Facq et Tomás Yany, spécialisée dans la création publicitaire assistée par intelligence artificielle. Après Koyeb dans...",
-      "url": "https://www.frenchweb.fr/mistral-ai-acquiert-pimento-et-poursuit-sa-remontee-vers-les-applications-metier/463566",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-09-22T04:00:34Z",
+      "title": "Un spécialiste de l’IA décrypte la polémique Thélyson Orélien : « Les indices sont assez parlants… »",
+      "description": "Spécialiste en intelligence artificielle, Benoît Raphaël avait lu « C’était ça ou mourir » de Thélyson Orélien (Grasset) avant la polémique sur l’éventuel recours à l’IA par son auteur. Il dit y avoir...",
+      "url": "https://www.nouvelobs.com/bibliobs/20260923.OBS118507/un-specialiste-de-l-ia-decrypte-la-polemique-thelyson-orelien-les-indices-sont-assez-parlants.html",
+      "source": "L'Obs",
+      "publishedAt": "2026-09-23T10:30:14Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +266,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Comment l’IA peut prévoir – et expliquer – le niveau d’eau des Grands Lacs ?",
-      "description": "Le niveau d’eau des Grands Lacs passe d’un extrême à l’autre. Une analyse par intelligence artificielle révèle comment (et pourquoi) la météo les fait varier.",
-      "url": "https://theconversation.com/comment-lia-peut-prevoir-et-expliquer-le-niveau-deau-des-grands-lacs-288682",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-09-21T18:26:26Z",
+      "title": "Métiers. « C’est désolant, tout se ressemble » : la révolution IA questionne ces agences de communication",
+      "description": "Les visuels générés par l’intelligence artificielle se multiplient et se ressemblent. Une nouvelle façon de faire sa publicité, low-cost et quasiment instantanée, mais les agences de communication voi...",
+      "url": "https://www.leprogres.fr/environnement/2026/09/18/c-est-desolant-tout-se-ressemble-la-revolution-ia-dans-les-agences-de-com",
+      "source": "Le Progrès",
+      "publishedAt": "2026-09-23T10:30:00Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Polémique Thélyson Orélien chez Grasset : Qu’est-ce que le logiciel Pangram et est-il vraiment efficace ?",
+      "description": "Le détecteur d’IA Pangram est au cœur d’une polémique après avoir été utilisé par un internaute qui affirme que le nouveau roman de l’écrivain Thélyson Orélien a été rédigé presque intégralement par i...",
+      "url": "https://www.20minutes.fr/high-tech/4247975-20260923-polemique-thelyson-orelien-chez-grasset-logiciel-pangram-vraiment-efficace",
+      "source": "20 Minutes",
+      "publishedAt": "2026-09-23T11:24:38Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,23 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Actualité : Tom Cruise alerte sur l'arrivée de l'IA à Hollywood : “Rien ne vaut l'humain”",
-      "description": "L'acteur de Mission: Impossible et Top Gun: Maverick a partagé son avis sur l'arrivée de l'intelligence artificielle dans le cinéma, tout en réaffirmant sa foi dans la création humaine.",
-      "url": "https://www.lesnumeriques.com/cine-svod/tom-cruise-alerte-sur-l-arrivee-de-l-ia-a-hollywood-rien-ne-vaut-l-humain-n262182.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-09-22T12:56:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tom Cruise a lâché un monologue de 6 minutes contre l&#8217;IA pour sauver le cinoche et sa carrière",
-      "description": "Invité à Londres pour une rétrospective sur sa carrière, la star de Mission : Impossible et du futur Digger a profité d'une question sur les algorithmes pour rappeler à Hollywood qui est le vrai patro...",
-      "url": "https://www.konbini.com/popculture/tom-cruise-a-lache-un-monologue-de-6-minutes-contre-lia-pour-sauver-le-cinoche-et-sa-carriere/",
-      "source": "Konbini France",
-      "publishedAt": "2026-09-22T10:30:41Z",
+      "title": "L’écrivain Thélyson Orélien accusé d'avoir utilisé une IA : \"Il faut quand même être très prudent\", déclare Philippe Claudel, président de l'académie Goncourt",
+      "description": "L'écrivain Thélyson Orélien, l'une des stars de la rentrée littéraire française, est la cible d'attaques sur X l'accusant d'avoir eu recours à l'intelligence artificielle pour écrire son roman \"C'étai...",
+      "url": "https://www.franceinfo.fr/culture/livres/l-ecrivain-thelyson-orelien-accuse-d-avoir-utilise-une-ia-il-faut-quand-meme-etre-tres-prudent-je-laisse-toujours-le-benefice-du-doute-declare-philippe-claudel-president-de-l-academie-goncourt_8206340.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-09-23T11:40:55Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
