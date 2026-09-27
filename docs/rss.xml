@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 26 Sep 2026 12:49:46 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 13:42:19 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>L'intégration de ChatGPT sur iPhone est un fiasco</title>
-            <link>https://www.generation-nt.com/actualites/echec-chatgpt-iphone-2081748</link>
-            <description><![CDATA[L'intégration de ChatGPT sur iPhone est un flop retentissant. Attendue comme un levier d'acquisition massif, l'option déployée fin 2024 affiche un bilan désastreux. Un document judiciaire révèle que c...]]></description>
-            <pubDate>Fri, 25 Sep 2026 10:30:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/echec-chatgpt-iphone-2081748</guid>
-            <source>Génération NT</source>
+            <title>🎙️ CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENTE</title>
+            <link>https://www.youtube.com/watch?v=i2gk_Oknibg</link>
+            <description><![CDATA[CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENT Et si vous pouviez simplement parler à ChatGPT ...]]></description>
+            <pubDate>Mon, 07 Sep 2026 18:43:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=i2gk_Oknibg</guid>
+            <source>Skill Market</source>
         </item>
         <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
@@ -27,6 +27,14 @@
             <pubDate>Thu, 10 Sep 2026 23:53:20 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=nNo2tnuYXDo</guid>
             <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>Data Science 360 Course 🚀 | Learn Data Analytics, ML &amp;amp; AI</title>
+            <link>https://www.youtube.com/watch?v=RocyJL3zr_0</link>
+            <description><![CDATA[The Data Science 360 Course Data Analytics, ML &amp; AI is a 12-sprint program covering Python, statistics, SQL, Excel, Power BI, ...]]></description>
+            <pubDate>Tue, 25 Aug 2026 14:00:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=RocyJL3zr_0</guid>
+            <source>School of AI </source>
         </item>
         <item>
             <title>Explorer et préparer ses données avec pandas (data science)</title>
@@ -43,6 +51,14 @@
             <pubDate>Thu, 10 Sep 2026 23:59:23 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=_HMCrW-g-I4</guid>
             <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>La dernière lubie de Donald Trump : changer le nom de l’intelligence artificielle</title>
+            <link>https://www.journaldugeek.com/2026/09/26/la-derniere-lubie-de-donald-trump-changer-le-nom-de-lintelligence-artificielle/</link>
+            <description><![CDATA[Le président américain veut remplacer l’expression « intelligence artificielle » par… « super intelligence ». L’administration s’est empressée d’adopter cette trouvaille, au risque de donner quelques ...]]></description>
+            <pubDate>Sat, 26 Sep 2026 13:02:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/09/26/la-derniere-lubie-de-donald-trump-changer-le-nom-de-lintelligence-artificielle/</guid>
+            <source>Journal du geek</source>
         </item>
         <item>
             <title>Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction</title>
@@ -77,22 +93,6 @@
             <source>IA Futura</source>
         </item>
         <item>
-            <title>FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL</title>
-            <link>https://www.youtube.com/watch?v=Lp9R5PlZeRg</link>
-            <description><![CDATA[FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...]]></description>
-            <pubDate>Mon, 10 Aug 2026 22:57:33 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Lp9R5PlZeRg</guid>
-            <source>Ceemtic Analytics</source>
-        </item>
-        <item>
-            <title>Python &amp;amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python</title>
-            <link>https://www.youtube.com/watch?v=1o308cqkEXc</link>
-            <description><![CDATA[Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...]]></description>
-            <pubDate>Thu, 20 Aug 2026 23:58:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1o308cqkEXc</guid>
-            <source>Mausse Institut</source>
-        </item>
-        <item>
             <title>Formation Power BI #9 — Construire un tableau de bord</title>
             <link>https://www.youtube.com/watch?v=gHC1DJeQVt4</link>
             <description><![CDATA[Mise en page, filtres et récit : assembler le tableau de bord achats de bout en bout Formation Power BI par Bitdyne. Cas concrets ...]]></description>
@@ -117,52 +117,36 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Les données du football, une matière première du business des paris sportifs</title>
-            <link>https://portail.basta.media/articles/les-donnees-du-football-une-matiere-premiere-du-business-des-paris-sportifs</link>
-            <description><![CDATA[« Le football fournit la matière première, les clubs et les joueurs produisent les événements qui deviennent des données, et des milliers de travailleurs les collectent, les annotent et les vérifient ...]]></description>
-            <pubDate>Fri, 25 Sep 2026 07:02:02 -0000</pubDate>
-            <guid isPermaLink="true">https://portail.basta.media/articles/les-donnees-du-football-une-matiere-premiere-du-business-des-paris-sportifs</guid>
-            <source>Basta.media</source>
+            <title>Obnubilée par les milliards promis par l’orbite terrestre, SpaceX tourne le dos à l’exploration spatiale</title>
+            <link>https://www.presse-citron.net/obnubilee-par-les-milliards-promis-par-lorbite-terrestre-spacex-tourne-le-dos-a-lexploration-spatiale/</link>
+            <description><![CDATA[SpaceX a changé. Abandon des lancements privés, cap sur l'IA et profits record : l’exploration spatiale s’efface désormais au profit du business.]]></description>
+            <pubDate>Sat, 26 Sep 2026 12:00:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/obnubilee-par-les-milliards-promis-par-lorbite-terrestre-spacex-tourne-le-dos-a-lexploration-spatiale/</guid>
+            <source>Presse-citron</source>
         </item>
         <item>
-            <title>Comprendre l&amp;#39;informatique #10 — Les bases de données et SQL</title>
-            <link>https://www.youtube.com/watch?v=Ne5LQuLVmfE</link>
-            <description><![CDATA[Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...]]></description>
-            <pubDate>Wed, 02 Sep 2026 03:04:52 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Ne5LQuLVmfE</guid>
-            <source>Bitdyne</source>
+            <title>L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto</title>
+            <link>https://www.youtube.com/watch?v=ijEHTjsGNsE</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 23 Sep 2026 13:13:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ijEHTjsGNsE</guid>
+            <source>Le Decodeur</source>
         </item>
         <item>
-            <title>"Le grand public doit réaliser que cette possibilité de surveillance via nos ondes cérébrales n’est pas de la science-fiction"</title>
-            <link>https://www.lalibre.be/planete/sciences-espace/2026/09/24/le-grand-public-doit-realiser-que-cette-possibilite-de-surveillance-via-nos-ondes-cerebrales-nest-pas-de-la-science-fiction-TGIF3SAKNVF3FL2HUKL5PMU7OY/</link>
-            <description><![CDATA[Les neurotechnologies permettent d’enregistrer certaines activités du cerveau qui vont donner des informations sur nos états mentaux. Cette mode suscite un commerce extrêmement lucratif. Une neurobiol...]]></description>
-            <pubDate>Thu, 24 Sep 2026 15:02:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lalibre.be/planete/sciences-espace/2026/09/24/le-grand-public-doit-realiser-que-cette-possibilite-de-surveillance-via-nos-ondes-cerebrales-nest-pas-de-la-science-fiction-TGIF3SAKNVF3FL2HUKL5PMU7OY/</guid>
-            <source>Lalibre.be</source>
+            <title>Du « prisonnier du Vatican » à la rock star mondiale : deux siècles qui ont bouleversé l’image du pape</title>
+            <link>https://www.futura-sciences.com/sciences/actualites/histoire-prisonnier-vatican-rock-star-mondiale-deux-siecles-ont-bouleverse-image-pape-138013/</link>
+            <description><![CDATA[La relation entre les papes et les fidèles a profondément évolué. Des pèlerinages médiévaux aux réseaux sociaux, la messe de Léon XIV à Madrid le 7 juin 2026 illustre une papauté désormais mobile et c...]]></description>
+            <pubDate>Sat, 26 Sep 2026 04:07:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/histoire-prisonnier-vatican-rock-star-mondiale-deux-siecles-ont-bouleverse-image-pape-138013/</guid>
+            <source>Futura</source>
         </item>
         <item>
-            <title>ZDNET Morning 25/09/2026 : Airbus s'empare de la protection des données militaires, Snapdragon 8 Elite, pourquoi Starbucks abandonne son IA,...</title>
-            <link>https://www.zdnet.fr/actualites/zdnet-morning-25-09-2026-airbus-sempare-de-la-protection-des-donnees-militaires-snapdragon-8-elite-pourquoi-starbucks-abandonne-son-ia-504503.htm</link>
-            <description><![CDATA[Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.]]></description>
-            <pubDate>Fri, 25 Sep 2026 08:06:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/zdnet-morning-25-09-2026-airbus-sempare-de-la-protection-des-donnees-militaires-snapdragon-8-elite-pourquoi-starbucks-abandonne-son-ia-504503.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
-            <title>Sous la surface de Mars, des chercheurs ont repéré une immense poche brûlante : selon eux, un cataclysme survenu il y a des milliards d’années en serait la cause</title>
-            <link>https://www.journaldugeek.com/2026/09/24/sous-surface-mars-chercheurs-repere-immense-poche-brulante-cataclysme-survenu-des-milliards-dannees-en-serait-la-cause/</link>
-            <description><![CDATA[Mars garde-t-elle encore les stigmates de sa jeunesse au plus profond de son hémisphère Sud ? Grâce à 16 ans de données satellitaires et à une technique d’imagerie par gravité, des scientifiques y ont...]]></description>
-            <pubDate>Thu, 24 Sep 2026 17:02:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/09/24/sous-surface-mars-chercheurs-repere-immense-poche-brulante-cataclysme-survenu-des-milliards-dannees-en-serait-la-cause/</guid>
-            <source>Journal du geek</source>
-        </item>
-        <item>
-            <title>Avec Recovery Cat, RESILIENCE CARE achète une porte d’entrée dans la psychiatrie allemande</title>
-            <link>https://www.frenchweb.fr/avec-recovery-cat-resilience-care-achete-une-porte-dentree-dans-la-psychiatrie-allemande/463665</link>
-            <description><![CDATA[La startup française acquiert une plateforme née à la Charité de Berlin, utilisée dans près de 20 hôpitaux et cabinets et liée par un contrat à la première caisse d’assurance maladie allemande.  Spéci...]]></description>
-            <pubDate>Fri, 25 Sep 2026 05:38:28 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frenchweb.fr/avec-recovery-cat-resilience-care-achete-une-porte-dentree-dans-la-psychiatrie-allemande/463665</guid>
-            <source>Frenchweb.fr</source>
+            <title>Zelda Williams dénonce une nouvelle vidéo deepfake mettant en scène son père</title>
+            <link>https://www.20minutes.fr/arts-stars/people/4248496-20260926-zelda-williams-denonce-nouvelle-video-deepfake-mettant-scene-pere</link>
+            <description><![CDATA[Cette fausse vidéo faisait tenir à Robin Williams des propos complotistes]]></description>
+            <pubDate>Sat, 26 Sep 2026 13:02:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.20minutes.fr/arts-stars/people/4248496-20260926-zelda-williams-denonce-nouvelle-video-deepfake-mettant-scene-pere</guid>
+            <source>20 Minutes</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -171,6 +155,22 @@
             <pubDate>Fri, 28 Aug 2026 18:00:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=QXaOjeucWgI</guid>
             <source>EvoluNoob</source>
+        </item>
+        <item>
+            <title>Rhône. Ils déterminent l'ADN de 60 000 vins : cette entreprise lutte contre la fraude aux grands crus</title>
+            <link>https://www.leprogres.fr/economie/2026/09/21/m-amp-wine-a-constitue-la-carte-d-identite-minerale-de-60-000-vins</link>
+            <description><![CDATA[Installée au sein de l’Institut des sciences analytiques à Villeurbanne, la start-up M &amp; Wine analyse les quarante éléments minéraux contenus dans chaque cuvée pour en établir l’équivalent d’un « ADN ...]]></description>
+            <pubDate>Fri, 25 Sep 2026 17:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.leprogres.fr/economie/2026/09/21/m-amp-wine-a-constitue-la-carte-d-identite-minerale-de-60-000-vins</guid>
+            <source>Le Progrès</source>
+        </item>
+        <item>
+            <title>En copiant leurs congénères, les petits orangs-outans apprennent à se nourrir tout seuls</title>
+            <link>https://www.courrierinternational.com/article/ethologie-en-copiant-leurs-congeneres-les-petits-orangs-outans-apprennent-a-se-nourrir-tout-seuls_274202</link>
+            <description><![CDATA[Grâce à une étude au long cours, des chercheurs montrent comment les orangs-outans de Sumatra tirent parti de huit années de dépendance pour acquérir, à travers une combinaison d’apprentissages, la ma...]]></description>
+            <pubDate>Fri, 25 Sep 2026 15:20:38 -0000</pubDate>
+            <guid isPermaLink="true">https://www.courrierinternational.com/article/ethologie-en-copiant-leurs-congeneres-les-petits-orangs-outans-apprennent-a-se-nourrir-tout-seuls_274202</guid>
+            <source>Courrier International</source>
         </item>
     </channel>
 </rss>

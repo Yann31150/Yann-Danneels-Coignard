@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "2026-09-26T12:49:46.427691",
+  "lastUpdate": "2026-09-27T13:42:19.804575",
   "articles": [
     {
-      "title": "L'intégration de ChatGPT sur iPhone est un fiasco",
-      "description": "L'intégration de ChatGPT sur iPhone est un flop retentissant. Attendue comme un levier d'acquisition massif, l'option déployée fin 2024 affiche un bilan désastreux. Un document judiciaire révèle que c...",
-      "url": "https://www.generation-nt.com/actualites/echec-chatgpt-iphone-2081748",
-      "source": "Génération NT",
-      "publishedAt": "2026-09-25T10:30:01Z",
+      "title": "🎙️ CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENTE",
+      "description": "CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENT Et si vous pouviez simplement parler à ChatGPT ...",
+      "url": "https://www.youtube.com/watch?v=i2gk_Oknibg",
+      "source": "Skill Market",
+      "publishedAt": "2026-09-07T18:43:49Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "i2gk_Oknibg",
+      "thumbnail": "https://i.ytimg.com/vi/i2gk_Oknibg/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
@@ -24,6 +24,18 @@
       "isYouTube": true,
       "videoId": "nNo2tnuYXDo",
       "thumbnail": "https://i.ytimg.com/vi/nNo2tnuYXDo/hqdefault.jpg"
+    },
+    {
+      "title": "Data Science 360 Course 🚀 | Learn Data Analytics, ML &amp; AI",
+      "description": "The Data Science 360 Course Data Analytics, ML & AI is a 12-sprint program covering Python, statistics, SQL, Excel, Power BI, ...",
+      "url": "https://www.youtube.com/watch?v=RocyJL3zr_0",
+      "source": "School of AI ",
+      "publishedAt": "2026-08-25T14:00:15Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "RocyJL3zr_0",
+      "thumbnail": "https://i.ytimg.com/vi/RocyJL3zr_0/hqdefault.jpg"
     },
     {
       "title": "Explorer et préparer ses données avec pandas (data science)",
@@ -48,6 +60,18 @@
       "isYouTube": true,
       "videoId": "_HMCrW-g-I4",
       "thumbnail": "https://i.ytimg.com/vi/_HMCrW-g-I4/hqdefault.jpg"
+    },
+    {
+      "title": "La dernière lubie de Donald Trump : changer le nom de l’intelligence artificielle",
+      "description": "Le président américain veut remplacer l’expression « intelligence artificielle » par… « super intelligence ». L’administration s’est empressée d’adopter cette trouvaille, au risque de donner quelques ...",
+      "url": "https://www.journaldugeek.com/2026/09/26/la-derniere-lubie-de-donald-trump-changer-le-nom-de-lintelligence-artificielle/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-09-26T13:02:08Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction",
@@ -98,30 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
     },
     {
-      "title": "FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL",
-      "description": "FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...",
-      "url": "https://www.youtube.com/watch?v=Lp9R5PlZeRg",
-      "source": "Ceemtic Analytics",
-      "publishedAt": "2026-08-10T22:57:33Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Lp9R5PlZeRg",
-      "thumbnail": "https://i.ytimg.com/vi/Lp9R5PlZeRg/hqdefault.jpg"
-    },
-    {
-      "title": "Python &amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python",
-      "description": "Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...",
-      "url": "https://www.youtube.com/watch?v=1o308cqkEXc",
-      "source": "Mausse Institut",
-      "publishedAt": "2026-08-20T23:58:11Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1o308cqkEXc",
-      "thumbnail": "https://i.ytimg.com/vi/1o308cqkEXc/hqdefault.jpg"
-    },
-    {
       "title": "Formation Power BI #9 — Construire un tableau de bord",
       "description": "Mise en page, filtres et récit : assembler le tableau de bord achats de bout en bout Formation Power BI par Bitdyne. Cas concrets ...",
       "url": "https://www.youtube.com/watch?v=gHC1DJeQVt4",
@@ -158,11 +158,11 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
-      "title": "Les données du football, une matière première du business des paris sportifs",
-      "description": "« Le football fournit la matière première, les clubs et les joueurs produisent les événements qui deviennent des données, et des milliers de travailleurs les collectent, les annotent et les vérifient ...",
-      "url": "https://portail.basta.media/articles/les-donnees-du-football-une-matiere-premiere-du-business-des-paris-sportifs",
-      "source": "Basta.media",
-      "publishedAt": "2026-09-25T07:02:02Z",
+      "title": "Obnubilée par les milliards promis par l’orbite terrestre, SpaceX tourne le dos à l’exploration spatiale",
+      "description": "SpaceX a changé. Abandon des lancements privés, cap sur l'IA et profits record : l’exploration spatiale s’efface désormais au profit du business.",
+      "url": "https://www.presse-citron.net/obnubilee-par-les-milliards-promis-par-lorbite-terrestre-spacex-tourne-le-dos-a-lexploration-spatiale/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-09-26T12:00:51Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -170,23 +170,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Comprendre l&#39;informatique #10 — Les bases de données et SQL",
-      "description": "Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...",
-      "url": "https://www.youtube.com/watch?v=Ne5LQuLVmfE",
-      "source": "Bitdyne",
-      "publishedAt": "2026-09-02T03:04:52Z",
+      "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ijEHTjsGNsE",
+      "source": "Le Decodeur",
+      "publishedAt": "2026-09-23T13:13:13Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Ne5LQuLVmfE",
-      "thumbnail": "https://i.ytimg.com/vi/Ne5LQuLVmfE/hqdefault.jpg"
+      "videoId": "ijEHTjsGNsE",
+      "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
-      "title": "\"Le grand public doit réaliser que cette possibilité de surveillance via nos ondes cérébrales n’est pas de la science-fiction\"",
-      "description": "Les neurotechnologies permettent d’enregistrer certaines activités du cerveau qui vont donner des informations sur nos états mentaux. Cette mode suscite un commerce extrêmement lucratif. Une neurobiol...",
-      "url": "https://www.lalibre.be/planete/sciences-espace/2026/09/24/le-grand-public-doit-realiser-que-cette-possibilite-de-surveillance-via-nos-ondes-cerebrales-nest-pas-de-la-science-fiction-TGIF3SAKNVF3FL2HUKL5PMU7OY/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-09-24T15:02:08Z",
+      "title": "Du « prisonnier du Vatican » à la rock star mondiale : deux siècles qui ont bouleversé l’image du pape",
+      "description": "La relation entre les papes et les fidèles a profondément évolué. Des pèlerinages médiévaux aux réseaux sociaux, la messe de Léon XIV à Madrid le 7 juin 2026 illustre une papauté désormais mobile et c...",
+      "url": "https://www.futura-sciences.com/sciences/actualites/histoire-prisonnier-vatican-rock-star-mondiale-deux-siecles-ont-bouleverse-image-pape-138013/",
+      "source": "Futura",
+      "publishedAt": "2026-09-26T04:07:42Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -194,35 +194,11 @@
       "thumbnail": ""
     },
     {
-      "title": "ZDNET Morning 25/09/2026 : Airbus s'empare de la protection des données militaires, Snapdragon 8 Elite, pourquoi Starbucks abandonne son IA,...",
-      "description": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
-      "url": "https://www.zdnet.fr/actualites/zdnet-morning-25-09-2026-airbus-sempare-de-la-protection-des-donnees-militaires-snapdragon-8-elite-pourquoi-starbucks-abandonne-son-ia-504503.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-09-25T08:06:45Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sous la surface de Mars, des chercheurs ont repéré une immense poche brûlante : selon eux, un cataclysme survenu il y a des milliards d’années en serait la cause",
-      "description": "Mars garde-t-elle encore les stigmates de sa jeunesse au plus profond de son hémisphère Sud ? Grâce à 16 ans de données satellitaires et à une technique d’imagerie par gravité, des scientifiques y ont...",
-      "url": "https://www.journaldugeek.com/2026/09/24/sous-surface-mars-chercheurs-repere-immense-poche-brulante-cataclysme-survenu-des-milliards-dannees-en-serait-la-cause/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-09-24T17:02:30Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Avec Recovery Cat, RESILIENCE CARE achète une porte d’entrée dans la psychiatrie allemande",
-      "description": "La startup française acquiert une plateforme née à la Charité de Berlin, utilisée dans près de 20 hôpitaux et cabinets et liée par un contrat à la première caisse d’assurance maladie allemande.  Spéci...",
-      "url": "https://www.frenchweb.fr/avec-recovery-cat-resilience-care-achete-une-porte-dentree-dans-la-psychiatrie-allemande/463665",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-09-25T05:38:28Z",
+      "title": "Zelda Williams dénonce une nouvelle vidéo deepfake mettant en scène son père",
+      "description": "Cette fausse vidéo faisait tenir à Robin Williams des propos complotistes",
+      "url": "https://www.20minutes.fr/arts-stars/people/4248496-20260926-zelda-williams-denonce-nouvelle-video-deepfake-mettant-scene-pere",
+      "source": "20 Minutes",
+      "publishedAt": "2026-09-26T13:02:39Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,23 +218,35 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "ZD Tech : Retour en arrière brutal de Starbucks qui débranche son IA de gestion des stocks dans 11 000 cafés",
-      "description": "Sur le papier, l'intelligence artificielle devait diviser par six le temps d'inventaire dans les cafés de la chaîne. Mais entre reflets trompeurs, réseau instable et informatique vieillissante, la tec...",
-      "url": "https://www.zdnet.fr/actualites/zd-tech-retour-en-arriere-brutal-de-starbucks-qui-debranche-son-ia-de-gestion-des-stocks-dans-11-000-cafes-502838.htm",
+      "title": "Rhône. Ils déterminent l'ADN de 60 000 vins : cette entreprise lutte contre la fraude aux grands crus",
+      "description": "Installée au sein de l’Institut des sciences analytiques à Villeurbanne, la start-up M & Wine analyse les quarante éléments minéraux contenus dans chaque cuvée pour en établir l’équivalent d’un « ADN ...",
+      "url": "https://www.leprogres.fr/economie/2026/09/21/m-amp-wine-a-constitue-la-carte-d-identite-minerale-de-60-000-vins",
+      "source": "Le Progrès",
+      "publishedAt": "2026-09-25T17:00:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "En copiant leurs congénères, les petits orangs-outans apprennent à se nourrir tout seuls",
+      "description": "Grâce à une étude au long cours, des chercheurs montrent comment les orangs-outans de Sumatra tirent parti de huit années de dépendance pour acquérir, à travers une combinaison d’apprentissages, la ma...",
+      "url": "https://www.courrierinternational.com/article/ethologie-en-copiant-leurs-congeneres-les-petits-orangs-outans-apprennent-a-se-nourrir-tout-seuls_274202",
+      "source": "Courrier International",
+      "publishedAt": "2026-09-25T15:20:38Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Linux pratique : testez ces 5 distributions pour l'IA",
+      "description": "Si vous souhaitez utiliser l'intelligence artificielle sous l’OS libre, découvrez ces options.",
+      "url": "https://www.zdnet.fr/guide-achat/linux-pratique-testez-ces-5-distributions-pour-lia-503802.htm",
       "source": "ZDNet France",
-      "publishedAt": "2026-09-25T05:51:04Z",
-      "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le Goncourt retire “C’était ça ou mourir” de sa sélection après des accusations de plagiat",
-      "description": "Accusé de plagiat et d’avoir eu recours à l’intelligence artificielle, Thélyson Orélien voit son roman “C’était ça ou mourir” écarté de la sélection du Goncourt.",
-      "url": "https://www.lesinrocks.com/livres/le-goncourt-retire-cetait-ca-ou-mourir-de-sa-selection-apres-des-accusations-de-plagiat-703072-25-09-2026/",
-      "source": "Les Inrocks",
-      "publishedAt": "2026-09-25T11:06:29Z",
+      "publishedAt": "2026-09-26T08:09:22Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Le roman de Thélyson Orélien supprimé de la sélection du prix Goncourt en raison de soupçons de recours à l'intelligence artificielle et d'accusations de plagiats",
-      "description": "\"Ce choix est dicté par la volonté de préserver l'intégrité du prix\", a écrit l'Académie Goncourt dans un communiqué, vendredi. \"C'était ça ou mourir\" figurait sur la première liste de seize ouvrages ...",
-      "url": "https://www.franceinfo.fr/culture/livres/le-roman-de-thelyson-orelien-supprime-de-la-selection-du-prix-goncourt-en-raison-de-soupcons-de-recours-a-l-intelligence-artificielle-et-d-accusations-de-plagiats_8209475.html",
+      "title": "\"Je l'ai beaucoup aimé, j'assume de le proposer\" : malgré la polémique, des libraires continuent de défendre le roman de Thélyson Orélien",
+      "description": "Retiré de la sélection du prix Goncourt après des soupçons d’utilisation de l’intelligence artificielle, le livre \"C'était ça ou mourir\" suscite le débat et continue d’être recommandé par certains lib...",
+      "url": "https://www.franceinfo.fr/culture/livres/affaire-thelyson-orelien/je-l-ai-beaucoup-aime-j-assume-de-le-proposer-malgre-la-polemique-des-libraires-continuent-de-defendre-le-roman-de-thelyson-orelien_8210897.html",
       "source": "Franceinfo.fr",
-      "publishedAt": "2026-09-25T10:52:19Z",
+      "publishedAt": "2026-09-26T10:28:51Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,28 +266,40 @@
       "thumbnail": ""
     },
     {
-      "title": "Actualité : Fibre en panne : Orange lance une fonction géniale pour transformer votre smartphone en box de secours",
-      "description": "Face à une panne de fibre, Orange Espagne permet désormais à un smartphone de prendre le relais de façon efficace, simulant purement et simplement le réseau de la box.",
-      "url": "https://www.lesnumeriques.com/telephone-portable/fibre-en-panne-orange-lance-une-fonction-geniale-pour-transformer-votre-smartphone-en-box-de-secours-n262321.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-09-25T09:15:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comprendre les RAG – De la Théorie au Code en 1H",
-      "description": "Dans cette vidéo, on va parler de RAG, pour Retrieval-Augmented Generation, et voir comment donner à un LLM accès à des ...",
-      "url": "https://www.youtube.com/watch?v=jM3lgl2SsY8",
-      "source": "obarrene",
-      "publishedAt": "2026-08-13T18:24:09Z",
+      "title": "MIN.SI.ENS : trouver la valeur minimale avec plusieurs critères sur Excel",
+      "description": "Découvrez comment utiliser la fonction MIN.SI.ENS pour trouver la plus petite valeur respectant plusieurs critères dans Excel.",
+      "url": "https://www.youtube.com/watch?v=qf0_M33X0c4",
+      "source": "Youmout Cours",
+      "publishedAt": "2026-08-10T06:30:31Z",
       "category": "tech",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "jM3lgl2SsY8",
-      "thumbnail": "https://i.ytimg.com/vi/jM3lgl2SsY8/hqdefault.jpg"
+      "videoId": "qf0_M33X0c4",
+      "thumbnail": "https://i.ytimg.com/vi/qf0_M33X0c4/hqdefault.jpg"
+    },
+    {
+      "title": "Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)",
+      "description": "La plupart des gens utilisent Google Gemini de manière très simple et passent à côté de l'essentiel. Dans cette vidéo, je te ...",
+      "url": "https://www.youtube.com/watch?v=C1esYFoZXBE",
+      "source": "Elliott Pierret",
+      "publishedAt": "2026-08-30T16:01:32Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "C1esYFoZXBE",
+      "thumbnail": "https://i.ytimg.com/vi/C1esYFoZXBE/hqdefault.jpg"
+    },
+    {
+      "title": "\"Les mafias de la drogue se nourrissent de l’aide sociale en Belgique, c’est cela la réalité\"",
+      "description": "La drogue a pénétré “toutes les couches de la société”, dénonce le Dr Thomas Orban, alcoologue et addictologue. Dans sa pratique, il constate une augmentation de la dépendance aux drogues, en particul...",
+      "url": "https://www.lalibre.be/belgique/societe/2026/09/26/les-mafias-de-la-drogue-se-nourrissent-de-laide-sociale-en-belgique-cest-cela-la-realite-DXFAHLFLIRB2NNWKLVTTQUQBTU/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-09-26T09:51:06Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }
