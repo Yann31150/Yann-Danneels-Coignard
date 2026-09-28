@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 27 Sep 2026 13:42:19 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 16:36:24 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>🎙️ CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENTE</title>
-            <link>https://www.youtube.com/watch?v=i2gk_Oknibg</link>
-            <description><![CDATA[CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENT Et si vous pouviez simplement parler à ChatGPT ...]]></description>
-            <pubDate>Mon, 07 Sep 2026 18:43:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=i2gk_Oknibg</guid>
-            <source>Skill Market</source>
-        </item>
         <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
             <link>https://www.youtube.com/watch?v=nNo2tnuYXDo</link>
@@ -29,12 +21,12 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>Data Science 360 Course 🚀 | Learn Data Analytics, ML &amp;amp; AI</title>
-            <link>https://www.youtube.com/watch?v=RocyJL3zr_0</link>
-            <description><![CDATA[The Data Science 360 Course Data Analytics, ML &amp; AI is a 12-sprint program covering Python, statistics, SQL, Excel, Power BI, ...]]></description>
-            <pubDate>Tue, 25 Aug 2026 14:00:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=RocyJL3zr_0</guid>
-            <source>School of AI </source>
+            <title>J’ai Trouvé le Système ULTIME pour Utiliser l’IA GRATUITEMENT</title>
+            <link>https://www.youtube.com/watch?v=8NewbH_MQ6M</link>
+            <description><![CDATA[Vous voulez accéder à ChatGPT, Claude, Gemini, DeepSeek, Grok et bien d'autres modèles d'IA depuis une seule plateforme ?]]></description>
+            <pubDate>Sat, 12 Sep 2026 16:00:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=8NewbH_MQ6M</guid>
+            <source>Parlons Cyber</source>
         </item>
         <item>
             <title>Explorer et préparer ses données avec pandas (data science)</title>
@@ -53,20 +45,12 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>La dernière lubie de Donald Trump : changer le nom de l’intelligence artificielle</title>
-            <link>https://www.journaldugeek.com/2026/09/26/la-derniere-lubie-de-donald-trump-changer-le-nom-de-lintelligence-artificielle/</link>
-            <description><![CDATA[Le président américain veut remplacer l’expression « intelligence artificielle » par… « super intelligence ». L’administration s’est empressée d’adopter cette trouvaille, au risque de donner quelques ...]]></description>
-            <pubDate>Sat, 26 Sep 2026 13:02:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/09/26/la-derniere-lubie-de-donald-trump-changer-le-nom-de-lintelligence-artificielle/</guid>
-            <source>Journal du geek</source>
-        </item>
-        <item>
-            <title>Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction</title>
-            <link>https://www.youtube.com/watch?v=DATnpGoGhM8</link>
-            <description><![CDATA[For more information about Stanford's Artificial Intelligence professional and graduate programs, visit: https://stanford.io/ai For ...]]></description>
-            <pubDate>Wed, 29 Jul 2026 23:31:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=DATnpGoGhM8</guid>
-            <source>Stanford Online</source>
+            <title>Intelligence artificielle : une coalition occidentale se forme pour encadrer l’IA, sans les Etats-Unis</title>
+            <link>https://www.lexpress.fr/economie/high-tech/intelligence-artificielle-une-coalition-occidentale-se-forme-pour-encadrer-lia-sans-les-etats-unis-L2DR3SPQVJEVLHTSHQR4IAJTWM/</link>
+            <description><![CDATA[Alors que les capacités de l’intelligence artificielle progressent à grande vitesse, plusieurs dirigeants occidentaux veulent instaurer des règles communes. Leur ambition se heurte à la prudence de Wa...]]></description>
+            <pubDate>Sun, 27 Sep 2026 14:41:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lexpress.fr/economie/high-tech/intelligence-artificielle-une-coalition-occidentale-se-forme-pour-encadrer-lia-sans-les-etats-unis-L2DR3SPQVJEVLHTSHQR4IAJTWM/</guid>
+            <source>L'Express</source>
         </item>
         <item>
             <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
@@ -77,14 +61,6 @@
             <source>contact omnicirelpc</source>
         </item>
         <item>
-            <title>Cours complet sur Power BI pour débutant</title>
-            <link>https://www.youtube.com/watch?v=uJeUP8Z9LsQ</link>
-            <description><![CDATA[Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...]]></description>
-            <pubDate>Tue, 25 Aug 2026 17:46:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=uJeUP8Z9LsQ</guid>
-            <source>Jeune Financier Africain </source>
-        </item>
-        <item>
             <title>Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10</title>
             <link>https://www.youtube.com/watch?v=jp6vn3Hp_zc</link>
             <description><![CDATA[COMPILATION — Chapitre 6/10 de la formation Data &amp; Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.]]></description>
@@ -93,12 +69,28 @@
             <source>IA Futura</source>
         </item>
         <item>
-            <title>Formation Power BI #9 — Construire un tableau de bord</title>
-            <link>https://www.youtube.com/watch?v=gHC1DJeQVt4</link>
-            <description><![CDATA[Mise en page, filtres et récit : assembler le tableau de bord achats de bout en bout Formation Power BI par Bitdyne. Cas concrets ...]]></description>
-            <pubDate>Fri, 11 Sep 2026 00:04:33 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=gHC1DJeQVt4</guid>
-            <source>Bitdyne</source>
+            <title>Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet</title>
+            <link>https://www.youtube.com/watch?v=x7Nh0RKEoxg</link>
+            <description><![CDATA[Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...]]></description>
+            <pubDate>Fri, 31 Jul 2026 17:56:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=x7Nh0RKEoxg</guid>
+            <source>Data & Dash Consulting</source>
+        </item>
+        <item>
+            <title>FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL</title>
+            <link>https://www.youtube.com/watch?v=Lp9R5PlZeRg</link>
+            <description><![CDATA[FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...]]></description>
+            <pubDate>Mon, 10 Aug 2026 22:57:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Lp9R5PlZeRg</guid>
+            <source>Ceemtic Analytics</source>
+        </item>
+        <item>
+            <title>Python &amp;amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python</title>
+            <link>https://www.youtube.com/watch?v=1o308cqkEXc</link>
+            <description><![CDATA[Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...]]></description>
+            <pubDate>Thu, 20 Aug 2026 23:58:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1o308cqkEXc</guid>
+            <source>Mausse Institut</source>
         </item>
         <item>
             <title>Python : introduction à pandas pour l&amp;#39;analyse de données</title>
@@ -117,12 +109,20 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Obnubilée par les milliards promis par l’orbite terrestre, SpaceX tourne le dos à l’exploration spatiale</title>
-            <link>https://www.presse-citron.net/obnubilee-par-les-milliards-promis-par-lorbite-terrestre-spacex-tourne-le-dos-a-lexploration-spatiale/</link>
-            <description><![CDATA[SpaceX a changé. Abandon des lancements privés, cap sur l'IA et profits record : l’exploration spatiale s’efface désormais au profit du business.]]></description>
-            <pubDate>Sat, 26 Sep 2026 12:00:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/obnubilee-par-les-milliards-promis-par-lorbite-terrestre-spacex-tourne-le-dos-a-lexploration-spatiale/</guid>
-            <source>Presse-citron</source>
+            <title>Les KPI et tableaux de bord qui comptent (4/6)</title>
+            <link>https://www.youtube.com/watch?v=IbrNM5R3AIQ</link>
+            <description><![CDATA[Playlist « Business Intelligence &amp; data warehouse » de Bitdyne — comprendre le décisionnel avec des cas concrets d'entreprise ...]]></description>
+            <pubDate>Tue, 15 Sep 2026 10:04:25 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=IbrNM5R3AIQ</guid>
+            <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>INSERT, UPDATE, DELETE en SQL : modifier les données sans risque</title>
+            <link>https://www.youtube.com/watch?v=g3riJNZdIdU</link>
+            <description><![CDATA[Ajouter une commande, corriger un statut, supprimer une ligne erronée : ces gestes quotidiens sont aussi les plus dangereux ...]]></description>
+            <pubDate>Sun, 13 Sep 2026 03:05:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=g3riJNZdIdU</guid>
+            <source>Bitdyne</source>
         </item>
         <item>
             <title>L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto</title>
@@ -133,44 +133,44 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Du « prisonnier du Vatican » à la rock star mondiale : deux siècles qui ont bouleversé l’image du pape</title>
-            <link>https://www.futura-sciences.com/sciences/actualites/histoire-prisonnier-vatican-rock-star-mondiale-deux-siecles-ont-bouleverse-image-pape-138013/</link>
-            <description><![CDATA[La relation entre les papes et les fidèles a profondément évolué. Des pèlerinages médiévaux aux réseaux sociaux, la messe de Léon XIV à Madrid le 7 juin 2026 illustre une papauté désormais mobile et c...]]></description>
-            <pubDate>Sat, 26 Sep 2026 04:07:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/histoire-prisonnier-vatican-rock-star-mondiale-deux-siecles-ont-bouleverse-image-pape-138013/</guid>
-            <source>Futura</source>
+            <title>Elon Musk vient d’admettre ce que personne ne voulait dire tout haut : l’IA pourrait bientôt manquer d’électricité, et sa solution est radicale</title>
+            <link>https://www.journaldugeek.com/2026/09/27/elon-musk-vient-dadmettre-ce-que-personne-ne-voulait-dire-tout-haut-lia-pourrait-bientot-manquer-delectricite-et-sa-solution-est-radicale/</link>
+            <description><![CDATA[SpaceX construit une usine dont l’activité n’a, en apparence, pas grand-chose à voir avec les fusées. Au Texas, l’entreprise d’Elon Musk prépare une fonderie destinée à produire des pales et des aubes...]]></description>
+            <pubDate>Sun, 27 Sep 2026 14:48:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/09/27/elon-musk-vient-dadmettre-ce-que-personne-ne-voulait-dire-tout-haut-lia-pourrait-bientot-manquer-delectricite-et-sa-solution-est-radicale/</guid>
+            <source>Journal du geek</source>
         </item>
         <item>
-            <title>Zelda Williams dénonce une nouvelle vidéo deepfake mettant en scène son père</title>
-            <link>https://www.20minutes.fr/arts-stars/people/4248496-20260926-zelda-williams-denonce-nouvelle-video-deepfake-mettant-scene-pere</link>
-            <description><![CDATA[Cette fausse vidéo faisait tenir à Robin Williams des propos complotistes]]></description>
-            <pubDate>Sat, 26 Sep 2026 13:02:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.20minutes.fr/arts-stars/people/4248496-20260926-zelda-williams-denonce-nouvelle-video-deepfake-mettant-scene-pere</guid>
-            <source>20 Minutes</source>
+            <title>L'arnaque des kits pour analyser son microbiote intestinal</title>
+            <link>https://www.franceinfo.fr/replay-radio/c-est-ma-sante/l-arnaque-des-kits-pour-analyser-son-microbiote-intestinal_8168990.html</link>
+            <description><![CDATA[L'offre se développe depuis plusieurs années sur Internet : les kits pour analyser son microbiote intestinal. Peut-on vraiment s'y fier ?]]></description>
+            <pubDate>Sun, 27 Sep 2026 07:00:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/c-est-ma-sante/l-arnaque-des-kits-pour-analyser-son-microbiote-intestinal_8168990.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
         <item>
-            <title>Introduction | SQL - EP1</title>
-            <link>https://www.youtube.com/watch?v=QXaOjeucWgI</link>
-            <description><![CDATA[Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...]]></description>
-            <pubDate>Fri, 28 Aug 2026 18:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=QXaOjeucWgI</guid>
-            <source>EvoluNoob</source>
+            <title>Actualité : La NASA transforme une technologie martienne en arme contre les pénuries de bière qui menacent sur Terre</title>
+            <link>https://www.lesnumeriques.com/societe-numerique/la-nasa-transforme-une-technologie-martienne-en-arme-contre-les-penuries-de-biere-qui-menacent-sur-terre-n262386.html</link>
+            <description><![CDATA[Le CO2 est indispensable à la bière et une pénurie peut bloquer une brasserie entière. Heureusement, l'une des technologies de la NASA conçue pendant ses recherches pour Mars permet à des brasseries d...]]></description>
+            <pubDate>Sun, 27 Sep 2026 16:15:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/societe-numerique/la-nasa-transforme-une-technologie-martienne-en-arme-contre-les-penuries-de-biere-qui-menacent-sur-terre-n262386.html</guid>
+            <source>Les Numériques</source>
         </item>
         <item>
-            <title>Rhône. Ils déterminent l'ADN de 60 000 vins : cette entreprise lutte contre la fraude aux grands crus</title>
-            <link>https://www.leprogres.fr/economie/2026/09/21/m-amp-wine-a-constitue-la-carte-d-identite-minerale-de-60-000-vins</link>
-            <description><![CDATA[Installée au sein de l’Institut des sciences analytiques à Villeurbanne, la start-up M &amp; Wine analyse les quarante éléments minéraux contenus dans chaque cuvée pour en établir l’équivalent d’un « ADN ...]]></description>
-            <pubDate>Fri, 25 Sep 2026 17:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.leprogres.fr/economie/2026/09/21/m-amp-wine-a-constitue-la-carte-d-identite-minerale-de-60-000-vins</guid>
-            <source>Le Progrès</source>
+            <title>"Jusqu’ici il n’y a jamais eu de problème": interdits de fixer leurs caméras dans les buts, ces gardiens de foot très suivis sur les réseaux sociaux lancent une pétition</title>
+            <link>https://rmcsport.bfmtv.com/football/jusqu-ici-il-n-y-a-jamais-eu-de-probleme-interdits-de-fixer-leurs-cameras-dans-les-buts-ces-gardiens-de-foot-tres-suivis-sur-les-reseaux-sociaux-lancent-une-petition_AN-202609270166.html</link>
+            <description><![CDATA[Alors que ces dernières années les compilations d’arrêts de gardiens de football se sont multipliées sur les réseaux sociaux, en France elles pourraient bientôt disparaître. La FFF invoque une règle d...]]></description>
+            <pubDate>Sun, 27 Sep 2026 10:42:47 -0000</pubDate>
+            <guid isPermaLink="true">https://rmcsport.bfmtv.com/football/jusqu-ici-il-n-y-a-jamais-eu-de-probleme-interdits-de-fixer-leurs-cameras-dans-les-buts-ces-gardiens-de-foot-tres-suivis-sur-les-reseaux-sociaux-lancent-une-petition_AN-202609270166.html</guid>
+            <source>BFMTV</source>
         </item>
         <item>
-            <title>En copiant leurs congénères, les petits orangs-outans apprennent à se nourrir tout seuls</title>
-            <link>https://www.courrierinternational.com/article/ethologie-en-copiant-leurs-congeneres-les-petits-orangs-outans-apprennent-a-se-nourrir-tout-seuls_274202</link>
-            <description><![CDATA[Grâce à une étude au long cours, des chercheurs montrent comment les orangs-outans de Sumatra tirent parti de huit années de dépendance pour acquérir, à travers une combinaison d’apprentissages, la ma...]]></description>
-            <pubDate>Fri, 25 Sep 2026 15:20:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.courrierinternational.com/article/ethologie-en-copiant-leurs-congeneres-les-petits-orangs-outans-apprennent-a-se-nourrir-tout-seuls_274202</guid>
-            <source>Courrier International</source>
+            <title>Colonisation martienne : oubliez le béton, ce matériau « vivant » pourrait tout changer</title>
+            <link>https://www.phonandroid.com/colonisation-martienne-oubliez-le-beton-ce-materiau-vivant-pourrait-tout-changer.html</link>
+            <description><![CDATA[Les futurs colons martiens pourraient construire des habitations en un rien de temps. Des chercheurs ont mis au point un matériau de construction « vivant », qui pourrait permettre d’imprimer...]]></description>
+            <pubDate>Sun, 27 Sep 2026 15:18:21 -0000</pubDate>
+            <guid isPermaLink="true">https://www.phonandroid.com/colonisation-martienne-oubliez-le-beton-ce-materiau-vivant-pourrait-tout-changer.html</guid>
+            <source>Phonandroid</source>
         </item>
     </channel>
 </rss>
