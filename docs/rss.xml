@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 29 Sep 2026 14:43:26 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 14:45:54 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,20 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>🎙️ CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENTE</title>
-            <link>https://www.youtube.com/watch?v=i2gk_Oknibg</link>
-            <description><![CDATA[CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENT Et si vous pouviez simplement parler à ChatGPT ...]]></description>
-            <pubDate>Mon, 07 Sep 2026 18:43:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=i2gk_Oknibg</guid>
-            <source>Skill Market</source>
+            <title>Gratuite, locale, complète : on a testé AnythingLLM, l'IA presque parfaite</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1552505-anythingllm-le-couteau-suisse-de-l-ia-locale-qui-veut-tout-faire-et-y-arrive-presque/</link>
+            <description><![CDATA[AnythingLLM promet de transformer n'importe quel PC en ChatGPT privé, sans abonnement ni données envoyées dans le cloud. Après l'avoir éprouvé au quotidien, l'outil tient sa promesse, à condition d'ac...]]></description>
+            <pubDate>Tue, 29 Sep 2026 12:06:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1552505-anythingllm-le-couteau-suisse-de-l-ia-locale-qui-veut-tout-faire-et-y-arrive-presque/</guid>
+            <source>JDN</source>
         </item>
         <item>
-            <title>Tu peux maintenant créer TON avatar IA gratuitement 🤯 #ia #chatgpt #aitools #ai #aiavatar #astuce</title>
-            <link>https://www.youtube.com/watch?v=6Lexz5IplmQ</link>
-            <description><![CDATA[Oublie HeyGen… cet outil open source te permet de créer des avatars IA ultra réalistes à partir d'une simple photo et d'un audio.]]></description>
-            <pubDate>Sun, 09 Aug 2026 12:58:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=6Lexz5IplmQ</guid>
-            <source>IA Boss </source>
+            <title>IPO d'Anthropic : on a demandé à Claude s'il investirait dans sa propre maison</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1555577-ipo-d-anthropic-on-a-demande-a-claude-s-il-investirait-dans-sa-propre-maison/</link>
+            <description><![CDATA[L'entreprise vise plus de 2 000 milliards de dollars de valorisation. Nous avons soumis les chiffres de son prospectus à son propre modèle, puis à ChatGPT et Gemini.]]></description>
+            <pubDate>Tue, 29 Sep 2026 14:13:22 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1555577-ipo-d-anthropic-on-a-demande-a-claude-s-il-investirait-dans-sa-propre-maison/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
@@ -35,14 +35,6 @@
             <pubDate>Thu, 10 Sep 2026 23:53:20 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=nNo2tnuYXDo</guid>
             <source>Bitdyne</source>
-        </item>
-        <item>
-            <title>J’ai Trouvé le Système ULTIME pour Utiliser l’IA GRATUITEMENT</title>
-            <link>https://www.youtube.com/watch?v=8NewbH_MQ6M</link>
-            <description><![CDATA[Vous voulez accéder à ChatGPT, Claude, Gemini, DeepSeek, Grok et bien d'autres modèles d'IA depuis une seule plateforme ?]]></description>
-            <pubDate>Sat, 12 Sep 2026 16:00:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=8NewbH_MQ6M</guid>
-            <source>Parlons Cyber</source>
         </item>
         <item>
             <title>Explorer et préparer ses données avec pandas (data science)</title>
@@ -85,12 +77,28 @@
             <source>IA Futura</source>
         </item>
         <item>
-            <title>Créer une Carte Power BI Professionnelle et Attractive | Tutoriel Complet</title>
-            <link>https://www.youtube.com/watch?v=x7Nh0RKEoxg</link>
-            <description><![CDATA[Créez des cartes Power BI qui attirent immédiatement l'attention ! Dans ce tutoriel complet, je vous montre étape par étape ...]]></description>
-            <pubDate>Fri, 31 Jul 2026 17:56:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=x7Nh0RKEoxg</guid>
-            <source>Data & Dash Consulting</source>
+            <title>Dates et texte en SQL : strftime, julianday, concaténation et fonctions de chaînes</title>
+            <link>https://www.youtube.com/watch?v=1N8MS9tnkNQ</link>
+            <description><![CDATA[Huitième épisode de la Formation SQL Bitdyne. Les données réelles sont pleines de dates et de texte. On apprend à extraire ...]]></description>
+            <pubDate>Tue, 08 Sep 2026 15:26:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1N8MS9tnkNQ</guid>
+            <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL</title>
+            <link>https://www.youtube.com/watch?v=Lp9R5PlZeRg</link>
+            <description><![CDATA[FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...]]></description>
+            <pubDate>Mon, 10 Aug 2026 22:57:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Lp9R5PlZeRg</guid>
+            <source>Ceemtic Analytics</source>
+        </item>
+        <item>
+            <title>Formation Power BI #9 — Construire un tableau de bord</title>
+            <link>https://www.youtube.com/watch?v=gHC1DJeQVt4</link>
+            <description><![CDATA[Mise en page, filtres et récit : assembler le tableau de bord achats de bout en bout Formation Power BI par Bitdyne. Cas concrets ...]]></description>
+            <pubDate>Fri, 11 Sep 2026 00:04:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=gHC1DJeQVt4</guid>
+            <source>Bitdyne</source>
         </item>
         <item>
             <title>Python : introduction à pandas pour l&amp;#39;analyse de données</title>
@@ -109,12 +117,28 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>À 16 ans, il découvre une immense faille chez Microsoft en utilisant sa propre IA : 17 300 milliards de données étaient exposées</title>
-            <link>https://www.journaldugeek.com/2026/09/28/a-16-ans-il-decouvre-une-immense-faille-chez-microsoft-en-utilisant-sa-propre-ia-17-300-milliards-de-donnees-etaient-exposees/</link>
-            <description><![CDATA[Un jeune chercheur de 16 ans a identifié une faille sur un logiciel interne de Microsoft qui a exposé 17 300 milliards de lignes de données. Celui-ci l’a signalé à la firme de Redmond dans le cadre d’...]]></description>
-            <pubDate>Mon, 28 Sep 2026 14:31:52 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/09/28/a-16-ans-il-decouvre-une-immense-faille-chez-microsoft-en-utilisant-sa-propre-ia-17-300-milliards-de-donnees-etaient-exposees/</guid>
-            <source>Journal du geek</source>
+            <title>Un vrai super-continent : le Gondwana était bien plus vaste qu’on ne le pensait</title>
+            <link>https://dailygeekshow.com/?p=1016532</link>
+            <description><![CDATA[Parfois présenté comme une simple « grande masse continentale » qui existait il y a environ 550 millions d’années, le Gondwana était bel et bien un super-continent, selon de nouvelles données géologiq...]]></description>
+            <pubDate>Tue, 29 Sep 2026 08:36:00 -0000</pubDate>
+            <guid isPermaLink="true">https://dailygeekshow.com/?p=1016532</guid>
+            <source>Daily Geek Show</source>
+        </item>
+        <item>
+            <title>Incidents IT : vos équipes ne manquent pas de données, elles manquent de compréhension</title>
+            <link>https://www.journaldunet.com/management/direction-generale/1555509-incidents-it-vos-equipes-ne-manquent-pas-de-donnees-elles-manquent-de-comprehension/</link>
+            <description><![CDATA[Du legacy aux Smart Ops : la fiabilité du S.I. se décide désormais en comité de direction. Ce que l'observabilité, le SRE et l'AIOps y changent vraiment.]]></description>
+            <pubDate>Tue, 29 Sep 2026 14:26:53 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/management/direction-generale/1555509-incidents-it-vos-equipes-ne-manquent-pas-de-donnees-elles-manquent-de-comprehension/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
+            <title>Le CAS annonce une collaboration avec Novartis pour faire progresser l'informatique des réactions adaptée à l'IA</title>
+            <link>https://www.prnewswire.com/news-releases/le-cas-annonce-une-collaboration-avec-novartis-pour-faire-progresser-linformatique-des-reactions-adaptee-a-lia-302890127.html</link>
+            <description><![CDATA[Les chercheurs disposeront d'une base de données synthétiques intégrée et d'une plateforme de recherche personnalisée de pointe pour faciliter la découverte et l'analyse des données relatives aux réac...]]></description>
+            <pubDate>Tue, 29 Sep 2026 12:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/le-cas-annonce-une-collaboration-avec-novartis-pour-faire-progresser-linformatique-des-reactions-adaptee-a-lia-302890127.html</guid>
+            <source>PRNewswire</source>
         </item>
         <item>
             <title>Comprendre l&amp;#39;informatique #10 — Les bases de données et SQL</title>
@@ -125,56 +149,28 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>INSERT, UPDATE, DELETE en SQL : modifier les données sans risque</title>
-            <link>https://www.youtube.com/watch?v=g3riJNZdIdU</link>
-            <description><![CDATA[Ajouter une commande, corriger un statut, supprimer une ligne erronée : ces gestes quotidiens sont aussi les plus dangereux ...]]></description>
-            <pubDate>Sun, 13 Sep 2026 03:05:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=g3riJNZdIdU</guid>
-            <source>Bitdyne</source>
-        </item>
-        <item>
-            <title>ai-PULSE, Teratec, UAV Show : cinq rendez-vous tech à suivre en octobre, et notre agenda en France</title>
-            <link>https://www.frenchweb.fr/ai-pulse-teratec-uav-show-cinq-rendez-vous-tech-a-suivre-en-octobre-et-notre-agenda-en-france/463708</link>
-            <description><![CDATA[IA, commerce, drones, calcul intensif et spatial : en octobre, FRENCHWEB.FR retient cinq rendez-vous pour la pertinence de leur programme, l’expertise des intervenants annoncés et la possibilité d’éch...]]></description>
-            <pubDate>Mon, 28 Sep 2026 08:42:52 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frenchweb.fr/ai-pulse-teratec-uav-show-cinq-rendez-vous-tech-a-suivre-en-octobre-et-notre-agenda-en-france/463708</guid>
-            <source>Frenchweb.fr</source>
-        </item>
-        <item>
-            <title>Donald Trump et Xi Jinping s'accordent pour renommer l'IA en Super Intelligence</title>
-            <link>https://www.generation-nt.com/actualites/donald-trump-xi-jinping-accord-ia-super-intelligence-2081848</link>
-            <description><![CDATA[Un mot change, et tout un pan de la géopolitique technologique bascule. Au cœur des tensions entre les deux superpuissances mondiales, un accord sémantique et stratégique vient d'être scellé, ouvrant ...]]></description>
-            <pubDate>Mon, 28 Sep 2026 11:10:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/donald-trump-xi-jinping-accord-ia-super-intelligence-2081848</guid>
-            <source>Génération NT</source>
-        </item>
-        <item>
-            <title>- Cameroun : l’éditorial qui dénonce un mandat à l’arrêt</title>
-            <link>https://www.camer.be/94913/30:27/cameroun-leditorial-qui-denonce-un-mandat-a-larret.html</link>
-            <description><![CDATA[Onze mois après le serment de Paul Biya, Mutations publie un
-éditorial sans concession sur l’inertie du pouvoir au Cameroun.
-Analyse d’un cri d’alarme.
-
-Dans un...]]></description>
-            <pubDate>Mon, 28 Sep 2026 11:22:24 -0000</pubDate>
-            <guid isPermaLink="true">https://www.camer.be/94913/30:27/cameroun-leditorial-qui-denonce-un-mandat-a-larret.html</guid>
-            <source>Camer.be</source>
-        </item>
-        <item>
-            <title>Spécialiste de la gestion et du paiement des factures fournisseurs, LIBEO rejoint SHINE (CEGID)</title>
-            <link>https://www.frenchweb.fr/specialiste-de-la-gestion-et-du-paiement-des-factures-fournisseurs-libeo-rejoint-shine-cegid/463715</link>
-            <description><![CDATA[SHINE acquiert LIBEO, spécialiste français de la gestion et du paiement des factures fournisseurs, pour un montant non communiqué. La fintech, qui annonce accompagner près de 3 000 PME et cabinets d’e...]]></description>
-            <pubDate>Mon, 28 Sep 2026 13:42:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frenchweb.fr/specialiste-de-la-gestion-et-du-paiement-des-factures-fournisseurs-libeo-rejoint-shine-cegid/463715</guid>
-            <source>Frenchweb.fr</source>
-        </item>
-        <item>
             <title>Introduction | SQL - EP1</title>
             <link>https://www.youtube.com/watch?v=QXaOjeucWgI</link>
             <description><![CDATA[Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...]]></description>
             <pubDate>Fri, 28 Aug 2026 18:00:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=QXaOjeucWgI</guid>
             <source>EvoluNoob</source>
+        </item>
+        <item>
+            <title>AMD achète World Labs, la start-up de la “marraine de l’IA”, pour 8,2 milliards de dollars</title>
+            <link>https://www.courrierinternational.com/article/tech-amd-achete-world-labs-la-start-up-de-la-marraine-de-l-ia-pour-8-2-milliards-de-dollars_274984</link>
+            <description><![CDATA[Le fabricant de puces américain investit massivement dans l’intelligence artificielle de pointe en rachetant les “modèles de monde” de Fei-Fei Li, la chercheuse de Stanford et pionnière de l’IA, qui d...]]></description>
+            <pubDate>Tue, 29 Sep 2026 14:01:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.courrierinternational.com/article/tech-amd-achete-world-labs-la-start-up-de-la-marraine-de-l-ia-pour-8-2-milliards-de-dollars_274984</guid>
+            <source>Courrier International</source>
+        </item>
+        <item>
+            <title>AlphaYoda lève 900 000 euros pour quantifier le risque de réputation des entreprises</title>
+            <link>https://www.lejournaldesentreprises.com/article/alphayoda-leve-900-000-euros-pour-quantifier-le-risque-de-reputation-des-entreprises-2147745</link>
+            <description><![CDATA[AlphaYoda, la jeune fintech installée à Metz, a annoncé le 23 septembre avoir levé 900 000 euros en pré-seed. La somme est souscrite par un cercle de business angels européens issus de la finance, du ...]]></description>
+            <pubDate>Tue, 29 Sep 2026 10:59:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/article/alphayoda-leve-900-000-euros-pour-quantifier-le-risque-de-reputation-des-entreprises-2147745</guid>
+            <source>Le Journal des Entreprises</source>
         </item>
     </channel>
 </rss>
