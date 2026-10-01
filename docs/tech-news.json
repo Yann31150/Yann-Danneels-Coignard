@@ -1,30 +1,6 @@
 {
-  "lastUpdate": "2026-09-30T14:45:54.197371",
+  "lastUpdate": "2026-10-01T15:15:24.781569",
   "articles": [
-    {
-      "title": "Gratuite, locale, complète : on a testé AnythingLLM, l'IA presque parfaite",
-      "description": "AnythingLLM promet de transformer n'importe quel PC en ChatGPT privé, sans abonnement ni données envoyées dans le cloud. Après l'avoir éprouvé au quotidien, l'outil tient sa promesse, à condition d'ac...",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1552505-anythingllm-le-couteau-suisse-de-l-ia-locale-qui-veut-tout-faire-et-y-arrive-presque/",
-      "source": "JDN",
-      "publishedAt": "2026-09-29T12:06:31Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "IPO d'Anthropic : on a demandé à Claude s'il investirait dans sa propre maison",
-      "description": "L'entreprise vise plus de 2 000 milliards de dollars de valorisation. Nous avons soumis les chiffres de son prospectus à son propre modèle, puis à ChatGPT et Gemini.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1555577-ipo-d-anthropic-on-a-demande-a-claude-s-il-investirait-dans-sa-propre-maison/",
-      "source": "JDN",
-      "publishedAt": "2026-09-29T14:13:22Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
       "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
@@ -98,16 +74,28 @@
       "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
     },
     {
-      "title": "Dates et texte en SQL : strftime, julianday, concaténation et fonctions de chaînes",
-      "description": "Huitième épisode de la Formation SQL Bitdyne. Les données réelles sont pleines de dates et de texte. On apprend à extraire ...",
-      "url": "https://www.youtube.com/watch?v=1N8MS9tnkNQ",
-      "source": "Bitdyne",
-      "publishedAt": "2026-09-08T15:26:45Z",
+      "title": "Intelligence Artificielle - 3 Astuces En 60 Secondes — Le Guide Express | L : ce que les pros ne dis",
+      "description": "Intelligence Artificielle - 3 astuces puissantes en 60 secondes! ABONNE-TOI pour plus de contenu! #intelligence#artificielle ...",
+      "url": "https://www.youtube.com/watch?v=uU9DAdByHDE",
+      "source": "contact omnicirelpc",
+      "publishedAt": "2026-09-07T19:14:46Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "1N8MS9tnkNQ",
-      "thumbnail": "https://i.ytimg.com/vi/1N8MS9tnkNQ/hqdefault.jpg"
+      "videoId": "uU9DAdByHDE",
+      "thumbnail": "https://i.ytimg.com/vi/uU9DAdByHDE/hqdefault.jpg"
+    },
+    {
+      "title": "Intelligence Artificielle - 3 Astuces En 60 Secondes — Le Guide Express — le guide express",
+      "description": "Intelligence Artificielle - 3 astuces puissantes en 60 secondes! ABONNE-TOI pour plus de contenu! #intelligence#artificielle ...",
+      "url": "https://www.youtube.com/watch?v=4TCPIJf5-yY",
+      "source": "contact omnicirelpc",
+      "publishedAt": "2026-09-07T19:17:39Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "4TCPIJf5-yY",
+      "thumbnail": "https://i.ytimg.com/vi/4TCPIJf5-yY/hqdefault.jpg"
     },
     {
       "title": "FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL",
@@ -120,6 +108,18 @@
       "isYouTube": true,
       "videoId": "Lp9R5PlZeRg",
       "thumbnail": "https://i.ytimg.com/vi/Lp9R5PlZeRg/hqdefault.jpg"
+    },
+    {
+      "title": "Python &amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python",
+      "description": "Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...",
+      "url": "https://www.youtube.com/watch?v=1o308cqkEXc",
+      "source": "Mausse Institut",
+      "publishedAt": "2026-08-20T23:58:11Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1o308cqkEXc",
+      "thumbnail": "https://i.ytimg.com/vi/1o308cqkEXc/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI #9 — Construire un tableau de bord",
@@ -158,42 +158,6 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
-      "title": "Un vrai super-continent : le Gondwana était bien plus vaste qu’on ne le pensait",
-      "description": "Parfois présenté comme une simple « grande masse continentale » qui existait il y a environ 550 millions d’années, le Gondwana était bel et bien un super-continent, selon de nouvelles données géologiq...",
-      "url": "https://dailygeekshow.com/?p=1016532",
-      "source": "Daily Geek Show",
-      "publishedAt": "2026-09-29T08:36:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Incidents IT : vos équipes ne manquent pas de données, elles manquent de compréhension",
-      "description": "Du legacy aux Smart Ops : la fiabilité du S.I. se décide désormais en comité de direction. Ce que l'observabilité, le SRE et l'AIOps y changent vraiment.",
-      "url": "https://www.journaldunet.com/management/direction-generale/1555509-incidents-it-vos-equipes-ne-manquent-pas-de-donnees-elles-manquent-de-comprehension/",
-      "source": "JDN",
-      "publishedAt": "2026-09-29T14:26:53Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le CAS annonce une collaboration avec Novartis pour faire progresser l'informatique des réactions adaptée à l'IA",
-      "description": "Les chercheurs disposeront d'une base de données synthétiques intégrée et d'une plateforme de recherche personnalisée de pointe pour faciliter la découverte et l'analyse des données relatives aux réac...",
-      "url": "https://www.prnewswire.com/news-releases/le-cas-annonce-une-collaboration-avec-novartis-pour-faire-progresser-linformatique-des-reactions-adaptee-a-lia-302890127.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-09-29T12:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Comprendre l&#39;informatique #10 — Les bases de données et SQL",
       "description": "Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...",
       "url": "https://www.youtube.com/watch?v=Ne5LQuLVmfE",
@@ -204,6 +168,54 @@
       "isYouTube": true,
       "videoId": "Ne5LQuLVmfE",
       "thumbnail": "https://i.ytimg.com/vi/Ne5LQuLVmfE/hqdefault.jpg"
+    },
+    {
+      "title": "INSERT, UPDATE, DELETE en SQL : modifier les données sans risque",
+      "description": "Ajouter une commande, corriger un statut, supprimer une ligne erronée : ces gestes quotidiens sont aussi les plus dangereux ...",
+      "url": "https://www.youtube.com/watch?v=g3riJNZdIdU",
+      "source": "Bitdyne",
+      "publishedAt": "2026-09-13T03:05:42Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "g3riJNZdIdU",
+      "thumbnail": "https://i.ytimg.com/vi/g3riJNZdIdU/hqdefault.jpg"
+    },
+    {
+      "title": "LOI LOM DANONE GLOBAL RESEARCH & INNOVATION CENTER",
+      "description": "Plateforme des données publiques françaises : télécharger, partager et réutiliser les données de l'État et des collectivités",
+      "url": "https://www.data.gouv.fr/datasets/loi-lom-danone-global-research-innovation-center",
+      "source": "Gouv.fr",
+      "publishedAt": "2026-09-30T14:41:32Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Android et Search : Google contre-attaque face à l'UE",
+      "description": "Google saisit la Cour de justice de l'Union européenne pour contester deux décisions de Bruxelles en rapport avec les assistants IA sur Android et le partage de ses données de recherche.",
+      "url": "https://www.generation-nt.com/actualites/android-search-assistants-ia-concurrence-google-commission-europeenne-2081987",
+      "source": "Génération NT",
+      "publishedAt": "2026-09-30T14:10:01Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Un avion pique violemment du nez et perd 10 000 pieds en une minute : une bagarre éclate dans le cockpit d’un vol Flydubai, au milieu du Moyen-Orient",
+      "description": "Un vol reliant Dubaï à Tel-Aviv a failli virer au drame après une violente bagarre dans le cockpit. L'appareil s'est posé en urgence en Arabie saoudite. Mais que s’est-il passé ?",
+      "url": "https://www.presse-citron.net/un-avion-pique-violemment-du-nez-et-perd-10-000-pieds-en-une-minute-une-bagarre-eclate-dans-le-cockpit-dun-vol-flydubai-au-milieu-du-moyen-orient/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-09-30T11:15:03Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -218,11 +230,23 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "AMD achète World Labs, la start-up de la “marraine de l’IA”, pour 8,2 milliards de dollars",
-      "description": "Le fabricant de puces américain investit massivement dans l’intelligence artificielle de pointe en rachetant les “modèles de monde” de Fei-Fei Li, la chercheuse de Stanford et pionnière de l’IA, qui d...",
-      "url": "https://www.courrierinternational.com/article/tech-amd-achete-world-labs-la-start-up-de-la-marraine-de-l-ia-pour-8-2-milliards-de-dollars_274984",
-      "source": "Courrier International",
-      "publishedAt": "2026-09-29T14:01:02Z",
+      "title": "Personnalisation marketing : REELEVANT s’attaque au coût de production des contenus",
+      "description": "Adapter les messages aux préférences de chaque client suppose de produire, de valider et de maintenir un nombre croissant de contenus. Reelevant veut réduire cette charge en automatisant leur composit...",
+      "url": "https://www.frenchweb.fr/personnalisation-marketing-reelevant-sattaque-au-cout-de-production-des-contenus/463737",
+      "source": "Frenchweb.fr",
+      "publishedAt": "2026-09-30T10:16:21Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L'impact de l'IA sur l'environnement et la santé va exploser d'ici 2030, selon une association",
+      "description": "Selon un rapport de l'association Green IT, publié mercredi, l'empreinte de l'intelligence artificielle pourrait être multipliée par 7 dans les prochaines années, notamment sous l'effet de la construc...",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-impact-de-l-ia-sur-l-environnement-et-la-sante-va-exploser-d-ici-2030-selon-une-association_8216476.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-09-30T14:43:44Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "AlphaYoda lève 900 000 euros pour quantifier le risque de réputation des entreprises",
-      "description": "AlphaYoda, la jeune fintech installée à Metz, a annoncé le 23 septembre avoir levé 900 000 euros en pré-seed. La somme est souscrite par un cercle de business angels européens issus de la finance, du ...",
-      "url": "https://www.lejournaldesentreprises.com/article/alphayoda-leve-900-000-euros-pour-quantifier-le-risque-de-reputation-des-entreprises-2147745",
-      "source": "Le Journal des Entreprises",
-      "publishedAt": "2026-09-29T10:59:16Z",
+      "title": "IA en entreprise : pourquoi il faut mettre l’humain dans la boucle",
+      "description": "Quatre architectes de systèmes d'intelligence artificielle nous expliquent comment intégrer la supervision humaine dans les processus à haut risque.",
+      "url": "https://www.zdnet.fr/pratique/ia-en-entreprise-pourquoi-il-faut-mettre-lhumain-dans-la-boucle-504369.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-09-30T08:09:19Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Guerre de l'IA : Mistral AI dénonce l'hypocrisie de ses concurrents sur la sécurité",
-      "description": "Arthur Mensch, le PDG de la pépite française Mistral AI, jette un pavé dans la mare de la Silicon Valley. Il accuse frontalement ses rivaux, OpenAI et Anthropic, d'instrumentaliser le débat sur la séc...",
-      "url": "https://www.generation-nt.com/actualites/mistral-ai-arthur-mensch-critique-discours-securite-intelligence-artificielle-2081922",
-      "source": "Génération NT",
-      "publishedAt": "2026-09-29T13:20:01Z",
+      "title": "Le Sony Bravia 6, un récent TV OLED accessible de la marque, profite déjà d'une remise de 100 €",
+      "description": "Officialisée en août dernier, la série Sony Bravia 6 comporte les TV OLED les plus abordables de la gamme Bravia créée par la marque japonaise.",
+      "url": "https://www.frandroid.com/bons-plans/3267405_le-sony-bravia-6-un-recent-tv-oled-accessible-de-la-marque-profite-deja-dune-remise-de-100-e",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-30T15:14:04Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Actualité : Claude : son créateur alerte sur des “risques existentiels pour l'humanité” et une IA capable de ”résister à son propre arrêt” avant son entrée en Bourse",
-      "description": "Anthropic a déposé son dossier d'introduction en Bourse auprès de la SEC. Sur 261 pages, 80 sont consacrées aux risques. L'entreprise y écrit noir sur blanc que ses modèles d'IA pourraient un jour “ré...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/claude-son-createur-alerte-sur-des-risques-existentiels-pour-l-humanite-et-une-ia-capable-de-resister-a-son-propre-arret-avant-son-entree-en-bourse-n262488.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-09-29T14:25:00Z",
+      "title": "Le Xiaomi 18 Pro est-il surpuissant ? On a testé ses performances",
+      "description": "Nous avons acheté un Xiaomi 18 Pro avant sa sortie en France. L'occasion de tester les performances de sa puce Snapdragon 8 Elite Gen 6. Xiaomi 18 Pro //",
+      "url": "https://www.frandroid.com/marques/xiaomi/3263329_le-xiaomi-18-pro-est-il-surpuissant-on-a-teste-ses-performances",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-29T16:50:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,16 +290,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)",
-      "description": "La plupart des gens utilisent Google Gemini de manière très simple et passent à côté de l'essentiel. Dans cette vidéo, je te ...",
-      "url": "https://www.youtube.com/watch?v=C1esYFoZXBE",
-      "source": "Elliott Pierret",
-      "publishedAt": "2026-08-30T16:01:32Z",
+      "title": "Libre et open source express: IA vs Adullact, iNaturalist, Atos, communs agricoles",
+      "description": "En bref. Pilonnage d’IA sur le Gitlab de l’Adullact. Atos crée un comité pour \"allier IA, open source et souveraineté\". iNaturalist, \"l'appli qui prend soin de la nature\". OSFarm propose un annuaire d...",
+      "url": "https://www.zdnet.fr/blogs/l-esprit-libre/libre-et-open-source-express-ia-vs-adullact-inaturalist-atos-communs-agricoles-504822.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-09-30T08:09:06Z",
       "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "C1esYFoZXBE",
-      "thumbnail": "https://i.ytimg.com/vi/C1esYFoZXBE/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }

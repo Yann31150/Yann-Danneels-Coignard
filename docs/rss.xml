@@ -5,29 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 30 Sep 2026 14:45:54 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 15:15:24 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Gratuite, locale, complète : on a testé AnythingLLM, l'IA presque parfaite</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1552505-anythingllm-le-couteau-suisse-de-l-ia-locale-qui-veut-tout-faire-et-y-arrive-presque/</link>
-            <description><![CDATA[AnythingLLM promet de transformer n'importe quel PC en ChatGPT privé, sans abonnement ni données envoyées dans le cloud. Après l'avoir éprouvé au quotidien, l'outil tient sa promesse, à condition d'ac...]]></description>
-            <pubDate>Tue, 29 Sep 2026 12:06:31 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1552505-anythingllm-le-couteau-suisse-de-l-ia-locale-qui-veut-tout-faire-et-y-arrive-presque/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
-            <title>IPO d'Anthropic : on a demandé à Claude s'il investirait dans sa propre maison</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1555577-ipo-d-anthropic-on-a-demande-a-claude-s-il-investirait-dans-sa-propre-maison/</link>
-            <description><![CDATA[L'entreprise vise plus de 2 000 milliards de dollars de valorisation. Nous avons soumis les chiffres de son prospectus à son propre modèle, puis à ChatGPT et Gemini.]]></description>
-            <pubDate>Tue, 29 Sep 2026 14:13:22 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1555577-ipo-d-anthropic-on-a-demande-a-claude-s-il-investirait-dans-sa-propre-maison/</guid>
-            <source>JDN</source>
-        </item>
         <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
             <link>https://www.youtube.com/watch?v=nNo2tnuYXDo</link>
@@ -77,12 +61,20 @@
             <source>IA Futura</source>
         </item>
         <item>
-            <title>Dates et texte en SQL : strftime, julianday, concaténation et fonctions de chaînes</title>
-            <link>https://www.youtube.com/watch?v=1N8MS9tnkNQ</link>
-            <description><![CDATA[Huitième épisode de la Formation SQL Bitdyne. Les données réelles sont pleines de dates et de texte. On apprend à extraire ...]]></description>
-            <pubDate>Tue, 08 Sep 2026 15:26:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1N8MS9tnkNQ</guid>
-            <source>Bitdyne</source>
+            <title>Intelligence Artificielle - 3 Astuces En 60 Secondes — Le Guide Express | L : ce que les pros ne dis</title>
+            <link>https://www.youtube.com/watch?v=uU9DAdByHDE</link>
+            <description><![CDATA[Intelligence Artificielle - 3 astuces puissantes en 60 secondes! ABONNE-TOI pour plus de contenu! #intelligence#artificielle ...]]></description>
+            <pubDate>Mon, 07 Sep 2026 19:14:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=uU9DAdByHDE</guid>
+            <source>contact omnicirelpc</source>
+        </item>
+        <item>
+            <title>Intelligence Artificielle - 3 Astuces En 60 Secondes — Le Guide Express — le guide express</title>
+            <link>https://www.youtube.com/watch?v=4TCPIJf5-yY</link>
+            <description><![CDATA[Intelligence Artificielle - 3 astuces puissantes en 60 secondes! ABONNE-TOI pour plus de contenu! #intelligence#artificielle ...]]></description>
+            <pubDate>Mon, 07 Sep 2026 19:17:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=4TCPIJf5-yY</guid>
+            <source>contact omnicirelpc</source>
         </item>
         <item>
             <title>FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL</title>
@@ -91,6 +83,14 @@
             <pubDate>Mon, 10 Aug 2026 22:57:33 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Lp9R5PlZeRg</guid>
             <source>Ceemtic Analytics</source>
+        </item>
+        <item>
+            <title>Python &amp;amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python</title>
+            <link>https://www.youtube.com/watch?v=1o308cqkEXc</link>
+            <description><![CDATA[Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...]]></description>
+            <pubDate>Thu, 20 Aug 2026 23:58:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1o308cqkEXc</guid>
+            <source>Mausse Institut</source>
         </item>
         <item>
             <title>Formation Power BI #9 — Construire un tableau de bord</title>
@@ -117,36 +117,44 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Un vrai super-continent : le Gondwana était bien plus vaste qu’on ne le pensait</title>
-            <link>https://dailygeekshow.com/?p=1016532</link>
-            <description><![CDATA[Parfois présenté comme une simple « grande masse continentale » qui existait il y a environ 550 millions d’années, le Gondwana était bel et bien un super-continent, selon de nouvelles données géologiq...]]></description>
-            <pubDate>Tue, 29 Sep 2026 08:36:00 -0000</pubDate>
-            <guid isPermaLink="true">https://dailygeekshow.com/?p=1016532</guid>
-            <source>Daily Geek Show</source>
-        </item>
-        <item>
-            <title>Incidents IT : vos équipes ne manquent pas de données, elles manquent de compréhension</title>
-            <link>https://www.journaldunet.com/management/direction-generale/1555509-incidents-it-vos-equipes-ne-manquent-pas-de-donnees-elles-manquent-de-comprehension/</link>
-            <description><![CDATA[Du legacy aux Smart Ops : la fiabilité du S.I. se décide désormais en comité de direction. Ce que l'observabilité, le SRE et l'AIOps y changent vraiment.]]></description>
-            <pubDate>Tue, 29 Sep 2026 14:26:53 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/management/direction-generale/1555509-incidents-it-vos-equipes-ne-manquent-pas-de-donnees-elles-manquent-de-comprehension/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
-            <title>Le CAS annonce une collaboration avec Novartis pour faire progresser l'informatique des réactions adaptée à l'IA</title>
-            <link>https://www.prnewswire.com/news-releases/le-cas-annonce-une-collaboration-avec-novartis-pour-faire-progresser-linformatique-des-reactions-adaptee-a-lia-302890127.html</link>
-            <description><![CDATA[Les chercheurs disposeront d'une base de données synthétiques intégrée et d'une plateforme de recherche personnalisée de pointe pour faciliter la découverte et l'analyse des données relatives aux réac...]]></description>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/le-cas-annonce-une-collaboration-avec-novartis-pour-faire-progresser-linformatique-des-reactions-adaptee-a-lia-302890127.html</guid>
-            <source>PRNewswire</source>
-        </item>
-        <item>
             <title>Comprendre l&amp;#39;informatique #10 — Les bases de données et SQL</title>
             <link>https://www.youtube.com/watch?v=Ne5LQuLVmfE</link>
             <description><![CDATA[Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...]]></description>
             <pubDate>Wed, 02 Sep 2026 03:04:52 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Ne5LQuLVmfE</guid>
             <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>INSERT, UPDATE, DELETE en SQL : modifier les données sans risque</title>
+            <link>https://www.youtube.com/watch?v=g3riJNZdIdU</link>
+            <description><![CDATA[Ajouter une commande, corriger un statut, supprimer une ligne erronée : ces gestes quotidiens sont aussi les plus dangereux ...]]></description>
+            <pubDate>Sun, 13 Sep 2026 03:05:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=g3riJNZdIdU</guid>
+            <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>LOI LOM DANONE GLOBAL RESEARCH &amp; INNOVATION CENTER</title>
+            <link>https://www.data.gouv.fr/datasets/loi-lom-danone-global-research-innovation-center</link>
+            <description><![CDATA[Plateforme des données publiques françaises : télécharger, partager et réutiliser les données de l'État et des collectivités]]></description>
+            <pubDate>Wed, 30 Sep 2026 14:41:32 -0000</pubDate>
+            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/loi-lom-danone-global-research-innovation-center</guid>
+            <source>Gouv.fr</source>
+        </item>
+        <item>
+            <title>Android et Search : Google contre-attaque face à l'UE</title>
+            <link>https://www.generation-nt.com/actualites/android-search-assistants-ia-concurrence-google-commission-europeenne-2081987</link>
+            <description><![CDATA[Google saisit la Cour de justice de l'Union européenne pour contester deux décisions de Bruxelles en rapport avec les assistants IA sur Android et le partage de ses données de recherche.]]></description>
+            <pubDate>Wed, 30 Sep 2026 14:10:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/android-search-assistants-ia-concurrence-google-commission-europeenne-2081987</guid>
+            <source>Génération NT</source>
+        </item>
+        <item>
+            <title>Un avion pique violemment du nez et perd 10 000 pieds en une minute : une bagarre éclate dans le cockpit d’un vol Flydubai, au milieu du Moyen-Orient</title>
+            <link>https://www.presse-citron.net/un-avion-pique-violemment-du-nez-et-perd-10-000-pieds-en-une-minute-une-bagarre-eclate-dans-le-cockpit-dun-vol-flydubai-au-milieu-du-moyen-orient/</link>
+            <description><![CDATA[Un vol reliant Dubaï à Tel-Aviv a failli virer au drame après une violente bagarre dans le cockpit. L'appareil s'est posé en urgence en Arabie saoudite. Mais que s’est-il passé ?]]></description>
+            <pubDate>Wed, 30 Sep 2026 11:15:03 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/un-avion-pique-violemment-du-nez-et-perd-10-000-pieds-en-une-minute-une-bagarre-eclate-dans-le-cockpit-dun-vol-flydubai-au-milieu-du-moyen-orient/</guid>
+            <source>Presse-citron</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -157,20 +165,12 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>AMD achète World Labs, la start-up de la “marraine de l’IA”, pour 8,2 milliards de dollars</title>
-            <link>https://www.courrierinternational.com/article/tech-amd-achete-world-labs-la-start-up-de-la-marraine-de-l-ia-pour-8-2-milliards-de-dollars_274984</link>
-            <description><![CDATA[Le fabricant de puces américain investit massivement dans l’intelligence artificielle de pointe en rachetant les “modèles de monde” de Fei-Fei Li, la chercheuse de Stanford et pionnière de l’IA, qui d...]]></description>
-            <pubDate>Tue, 29 Sep 2026 14:01:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.courrierinternational.com/article/tech-amd-achete-world-labs-la-start-up-de-la-marraine-de-l-ia-pour-8-2-milliards-de-dollars_274984</guid>
-            <source>Courrier International</source>
-        </item>
-        <item>
-            <title>AlphaYoda lève 900 000 euros pour quantifier le risque de réputation des entreprises</title>
-            <link>https://www.lejournaldesentreprises.com/article/alphayoda-leve-900-000-euros-pour-quantifier-le-risque-de-reputation-des-entreprises-2147745</link>
-            <description><![CDATA[AlphaYoda, la jeune fintech installée à Metz, a annoncé le 23 septembre avoir levé 900 000 euros en pré-seed. La somme est souscrite par un cercle de business angels européens issus de la finance, du ...]]></description>
-            <pubDate>Tue, 29 Sep 2026 10:59:16 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lejournaldesentreprises.com/article/alphayoda-leve-900-000-euros-pour-quantifier-le-risque-de-reputation-des-entreprises-2147745</guid>
-            <source>Le Journal des Entreprises</source>
+            <title>Personnalisation marketing : REELEVANT s’attaque au coût de production des contenus</title>
+            <link>https://www.frenchweb.fr/personnalisation-marketing-reelevant-sattaque-au-cout-de-production-des-contenus/463737</link>
+            <description><![CDATA[Adapter les messages aux préférences de chaque client suppose de produire, de valider et de maintenir un nombre croissant de contenus. Reelevant veut réduire cette charge en automatisant leur composit...]]></description>
+            <pubDate>Wed, 30 Sep 2026 10:16:21 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frenchweb.fr/personnalisation-marketing-reelevant-sattaque-au-cout-de-production-des-contenus/463737</guid>
+            <source>Frenchweb.fr</source>
         </item>
     </channel>
 </rss>
