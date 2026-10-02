@@ -1,6 +1,54 @@
 {
-  "lastUpdate": "2026-10-01T15:15:24.781569",
+  "lastUpdate": "2026-10-02T14:35:04.355754",
   "articles": [
+    {
+      "title": "🎙️ CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENTE",
+      "description": "CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENT Et si vous pouviez simplement parler à ChatGPT ...",
+      "url": "https://www.youtube.com/watch?v=i2gk_Oknibg",
+      "source": "Skill Market",
+      "publishedAt": "2026-09-07T18:43:49Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "i2gk_Oknibg",
+      "thumbnail": "https://i.ytimg.com/vi/i2gk_Oknibg/hqdefault.jpg"
+    },
+    {
+      "title": "Actualité : Gemini 4 est enfin là, mais Google le juge trop puissant pour vous le confier tout de suite",
+      "description": "Le voici enfin. Après des mois d'attente, Google a dévoilé mercredi Gemini 4, son intelligence artificielle la plus puissante, qui devance ChatGPT et Claude sur 14 des 19 tests publiés par la firme. S...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/gemini-4-est-enfin-la-mais-google-le-juge-trop-puissant-pour-vous-le-confier-tout-de-suite-n262576.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-10-01T06:08:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tu peux maintenant créer TON avatar IA gratuitement 🤯 #ia #chatgpt #aitools #ai #aiavatar #astuce",
+      "description": "Oublie HeyGen… cet outil open source te permet de créer des avatars IA ultra réalistes à partir d'une simple photo et d'un audio.",
+      "url": "https://www.youtube.com/watch?v=6Lexz5IplmQ",
+      "source": "IA Boss ",
+      "publishedAt": "2026-08-09T12:58:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "6Lexz5IplmQ",
+      "thumbnail": "https://i.ytimg.com/vi/6Lexz5IplmQ/hqdefault.jpg"
+    },
+    {
+      "title": "Gemini vient (encore) de rattraper ChatGPT : voici ce que Gemini 4 Argon va vous apporter, quand il sera disponible",
+      "description": "Google vient de présenter Gemini 4 Argon, un nouveau modèle qui le place à nouveau parmi les grands laboratoires d’intelligence artificielle dans le monde.",
+      "url": "https://www.journaldugeek.com/2026/10/01/gemini-vient-encore-de-rattraper-chatgpt-voici-ce-que-gemini-4-argon-va-vous-apporter-quand-il-sera-disponible/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-10-01T13:01:07Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
     {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
       "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
@@ -14,16 +62,28 @@
       "thumbnail": "https://i.ytimg.com/vi/nNo2tnuYXDo/hqdefault.jpg"
     },
     {
-      "title": "Explorer et préparer ses données avec pandas (data science)",
-      "description": "Troisième épisode de la Formation Machine learning & data science de Bitdyne, pour consultants au Maroc. La préparation des ...",
-      "url": "https://www.youtube.com/watch?v=J3YIeIEeIl8",
-      "source": "Bitdyne",
-      "publishedAt": "2026-09-08T22:24:34Z",
+      "title": "J’ai Trouvé le Système ULTIME pour Utiliser l’IA GRATUITEMENT",
+      "description": "Vous voulez accéder à ChatGPT, Claude, Gemini, DeepSeek, Grok et bien d'autres modèles d'IA depuis une seule plateforme ?",
+      "url": "https://www.youtube.com/watch?v=8NewbH_MQ6M",
+      "source": "Parlons Cyber",
+      "publishedAt": "2026-09-12T16:00:08Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "J3YIeIEeIl8",
-      "thumbnail": "https://i.ytimg.com/vi/J3YIeIEeIl8/hqdefault.jpg"
+      "videoId": "8NewbH_MQ6M",
+      "thumbnail": "https://i.ytimg.com/vi/8NewbH_MQ6M/hqdefault.jpg"
+    },
+    {
+      "title": "OpenAI Dots : une version « édulcorée » d’OpenClaw, pour les utilisateurs de ChatGPT Pro à 200 $ par mois",
+      "description": "Les points clés à retenir sur Dots d'OpenAI OpenAI Dots exécute des agents GPT-6 sur des machines virtuelles dédiées dans le cloud. Dots promet une automatisation plus sûre, mais les autorisations res...",
+      "url": "https://www.zdnet.fr/actualites/openai-dots-une-version-edulcoree-dopenclaw-pour-les-utilisateurs-de-chatgpt-pro-a-200-par-mois-504901.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-10-01T09:25:59Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Formation Power BI #5 — Le modèle de données et le schéma en étoile",
@@ -62,66 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
     },
     {
-      "title": "Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10",
-      "description": "COMPILATION — Chapitre 6/10 de la formation Data & Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.",
-      "url": "https://www.youtube.com/watch?v=jp6vn3Hp_zc",
-      "source": "IA Futura",
-      "publishedAt": "2026-09-07T11:00:18Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "jp6vn3Hp_zc",
-      "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
-    },
-    {
-      "title": "Intelligence Artificielle - 3 Astuces En 60 Secondes — Le Guide Express | L : ce que les pros ne dis",
-      "description": "Intelligence Artificielle - 3 astuces puissantes en 60 secondes! ABONNE-TOI pour plus de contenu! #intelligence#artificielle ...",
-      "url": "https://www.youtube.com/watch?v=uU9DAdByHDE",
-      "source": "contact omnicirelpc",
-      "publishedAt": "2026-09-07T19:14:46Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "uU9DAdByHDE",
-      "thumbnail": "https://i.ytimg.com/vi/uU9DAdByHDE/hqdefault.jpg"
-    },
-    {
-      "title": "Intelligence Artificielle - 3 Astuces En 60 Secondes — Le Guide Express — le guide express",
-      "description": "Intelligence Artificielle - 3 astuces puissantes en 60 secondes! ABONNE-TOI pour plus de contenu! #intelligence#artificielle ...",
-      "url": "https://www.youtube.com/watch?v=4TCPIJf5-yY",
-      "source": "contact omnicirelpc",
-      "publishedAt": "2026-09-07T19:17:39Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "4TCPIJf5-yY",
-      "thumbnail": "https://i.ytimg.com/vi/4TCPIJf5-yY/hqdefault.jpg"
-    },
-    {
-      "title": "FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL",
-      "description": "FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...",
-      "url": "https://www.youtube.com/watch?v=Lp9R5PlZeRg",
-      "source": "Ceemtic Analytics",
-      "publishedAt": "2026-08-10T22:57:33Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Lp9R5PlZeRg",
-      "thumbnail": "https://i.ytimg.com/vi/Lp9R5PlZeRg/hqdefault.jpg"
-    },
-    {
-      "title": "Python &amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python",
-      "description": "Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...",
-      "url": "https://www.youtube.com/watch?v=1o308cqkEXc",
-      "source": "Mausse Institut",
-      "publishedAt": "2026-08-20T23:58:11Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1o308cqkEXc",
-      "thumbnail": "https://i.ytimg.com/vi/1o308cqkEXc/hqdefault.jpg"
-    },
-    {
       "title": "Formation Power BI #9 — Construire un tableau de bord",
       "description": "Mise en page, filtres et récit : assembler le tableau de bord achats de bout en bout Formation Power BI par Bitdyne. Cas concrets ...",
       "url": "https://www.youtube.com/watch?v=gHC1DJeQVt4",
@@ -134,16 +134,28 @@
       "thumbnail": "https://i.ytimg.com/vi/gHC1DJeQVt4/hqdefault.jpg"
     },
     {
-      "title": "Python : introduction à pandas pour l&#39;analyse de données",
-      "description": "Seizième épisode de la Formation Python Bitdyne : découvrir pandas. Le DataFrame, filtrer des lignes, regrouper et agréger ...",
-      "url": "https://www.youtube.com/watch?v=cIfEIoT3MCc",
-      "source": "Bitdyne",
-      "publishedAt": "2026-09-02T04:02:19Z",
+      "title": "Programmation Transact-SQL (T-SQL) avec SQL Server 2025",
+      "description": "Dans cette série, apprenez la programmation Transact-SQL (T-SQL) avec SQL Server 2025. Découvrez comment écrire des ...",
+      "url": "https://www.youtube.com/watch?v=mq9bcHMIooQ",
+      "source": "Tchaps Tech",
+      "publishedAt": "2026-09-08T09:00:15Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "cIfEIoT3MCc",
-      "thumbnail": "https://i.ytimg.com/vi/cIfEIoT3MCc/hqdefault.jpg"
+      "videoId": "mq9bcHMIooQ",
+      "thumbnail": "https://i.ytimg.com/vi/mq9bcHMIooQ/hqdefault.jpg"
+    },
+    {
+      "title": "LandGate étend sa plateforme mondiale d'informations sur les réseaux en intégrant la cartographie des centres de données européens",
+      "description": "Désormais répertoriant de plus de 2 100 sites sur 10 marchés européens clés, LandGate fournit des données spatiales à l'échelle des sites via un SIG, une API, un serveur MCP ou l'exportation directe d...",
+      "url": "https://www.prnewswire.com/news-releases/landgate-etend-sa-plateforme-mondiale-dinformations-sur-les-reseaux-en-integrant-la-cartographie-des-centres-de-donnees-europeens-302896127.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-01T14:14:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Langage DAX : le cours complet de A à Z | Formation Power BI",
@@ -170,47 +182,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Ne5LQuLVmfE/hqdefault.jpg"
     },
     {
-      "title": "INSERT, UPDATE, DELETE en SQL : modifier les données sans risque",
-      "description": "Ajouter une commande, corriger un statut, supprimer une ligne erronée : ces gestes quotidiens sont aussi les plus dangereux ...",
-      "url": "https://www.youtube.com/watch?v=g3riJNZdIdU",
-      "source": "Bitdyne",
-      "publishedAt": "2026-09-13T03:05:42Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "g3riJNZdIdU",
-      "thumbnail": "https://i.ytimg.com/vi/g3riJNZdIdU/hqdefault.jpg"
-    },
-    {
-      "title": "LOI LOM DANONE GLOBAL RESEARCH & INNOVATION CENTER",
-      "description": "Plateforme des données publiques françaises : télécharger, partager et réutiliser les données de l'État et des collectivités",
-      "url": "https://www.data.gouv.fr/datasets/loi-lom-danone-global-research-innovation-center",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-09-30T14:41:32Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Android et Search : Google contre-attaque face à l'UE",
-      "description": "Google saisit la Cour de justice de l'Union européenne pour contester deux décisions de Bruxelles en rapport avec les assistants IA sur Android et le partage de ses données de recherche.",
-      "url": "https://www.generation-nt.com/actualites/android-search-assistants-ia-concurrence-google-commission-europeenne-2081987",
-      "source": "Génération NT",
-      "publishedAt": "2026-09-30T14:10:01Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Un avion pique violemment du nez et perd 10 000 pieds en une minute : une bagarre éclate dans le cockpit d’un vol Flydubai, au milieu du Moyen-Orient",
-      "description": "Un vol reliant Dubaï à Tel-Aviv a failli virer au drame après une violente bagarre dans le cockpit. L'appareil s'est posé en urgence en Arabie saoudite. Mais que s’est-il passé ?",
-      "url": "https://www.presse-citron.net/un-avion-pique-violemment-du-nez-et-perd-10-000-pieds-en-une-minute-une-bagarre-eclate-dans-le-cockpit-dun-vol-flydubai-au-milieu-du-moyen-orient/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-09-30T11:15:03Z",
+      "title": "Selon un nouveau rapport de Rockwell Automation, 90 % des fabricants du secteur des sciences de la vie considèrent désormais la transformation numérique comme essentielle pour leur entreprise.",
+      "description": "La nouvelle étude révèle que les fabricants investissent dans l'interconnexion des données, la cybersécurité et l'IA pour améliorer la qualité, renforcer la conformité réglementaire et optimiser la pe...",
+      "url": "https://www.prnewswire.com/news-releases/selon-un-nouveau-rapport-de-rockwell-automation-90--des-fabricants-du-secteur-des-sciences-de-la-vie-considerent-desormais-la-transformation-numerique-comme-essentielle-pour-leur-entreprise-302896093.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-01T14:00:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +206,11 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Personnalisation marketing : REELEVANT s’attaque au coût de production des contenus",
-      "description": "Adapter les messages aux préférences de chaque client suppose de produire, de valider et de maintenir un nombre croissant de contenus. Reelevant veut réduire cette charge en automatisant leur composit...",
-      "url": "https://www.frenchweb.fr/personnalisation-marketing-reelevant-sattaque-au-cout-de-production-des-contenus/463737",
-      "source": "Frenchweb.fr",
-      "publishedAt": "2026-09-30T10:16:21Z",
+      "title": "C’est gratuit ! Cinq idées de sorties à Paris et alentour pour ce week-end",
+      "description": "Que faire dans la capitale ce week-end? Un festival d’upcycling, un autre de BD, une journée consacrée à la santé mentale, une nuit aux données… Voici notre sélection d’activités gratuites du 1er au 4...",
+      "url": "https://www.telerama.fr/restos-loisirs/c-est-gratuit-cinq-idees-de-sorties-a-paris-et-alentour-pour-ce-week-end-1707-7029320.php",
+      "source": "Telerama.fr",
+      "publishedAt": "2026-09-30T14:17:07Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +218,35 @@
       "thumbnail": ""
     },
     {
-      "title": "L'impact de l'IA sur l'environnement et la santé va exploser d'ici 2030, selon une association",
-      "description": "Selon un rapport de l'association Green IT, publié mercredi, l'empreinte de l'intelligence artificielle pourrait être multipliée par 7 dans les prochaines années, notamment sous l'effet de la construc...",
-      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-impact-de-l-ia-sur-l-environnement-et-la-sante-va-exploser-d-ici-2030-selon-une-association_8216476.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-09-30T14:43:44Z",
+      "title": "La Chine dans la course à la recharge ultra-rapide",
+      "description": "Geely, BYD et Li Auto rivalisent désormais de vitesse pour proposer une recharge de véhicule électrique comparable à un plein d’essence, une course technologique qui soulève également des enjeux de sé...",
+      "url": "https://www.leblogauto.com/actualites/la-chine-dans-la-course-a-la-recharge-ultra-rapide/",
+      "source": "Leblogauto.com",
+      "publishedAt": "2026-10-01T14:04:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Pour son film Netflix « Animals », Ben Affleck assume : « J’ai utilisé l’IA pour un tas de choses »",
+      "description": "L’acteur a expliqué lors d’une interview pourquoi il avait travaillé avec de l’intelligence artificielle dans la réalisation de son dernier film.",
+      "url": "https://www.huffingtonpost.fr/culture/article/pour-son-film-netflix-animals-ben-affleck-assume-j-ai-utilise-l-ia-pour-un-tas-de-choses_333641.html",
+      "source": "Le HuffPost",
+      "publishedAt": "2026-10-01T11:47:05Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Google vient de présenter Gemini 4 Argon : voici les 4 métiers dans lesquels cette IA excelle",
+      "description": "Google vient de présenter Gemini 4 Argon, une nouvelle IA qui serait aussi puissante que GPT-6 Astra d’OpenAI. Celui-ci a des capacités de codage et de cyberdéfense avancées, mais devrait aussi être t...",
+      "url": "https://www.presse-citron.net/google-gemini-4-argon-metiers-ia/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-10-01T06:51:49Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,28 +266,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Le Sony Bravia 6, un récent TV OLED accessible de la marque, profite déjà d'une remise de 100 €",
-      "description": "Officialisée en août dernier, la série Sony Bravia 6 comporte les TV OLED les plus abordables de la gamme Bravia créée par la marque japonaise.",
-      "url": "https://www.frandroid.com/bons-plans/3267405_le-sony-bravia-6-un-recent-tv-oled-accessible-de-la-marque-profite-deja-dune-remise-de-100-e",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-30T15:14:04Z",
+      "title": "Comprendre les RAG – De la Théorie au Code en 1H",
+      "description": "Dans cette vidéo, on va parler de RAG, pour Retrieval-Augmented Generation, et voir comment donner à un LLM accès à des ...",
+      "url": "https://www.youtube.com/watch?v=jM3lgl2SsY8",
+      "source": "obarrene",
+      "publishedAt": "2026-08-13T18:24:09Z",
       "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le Xiaomi 18 Pro est-il surpuissant ? On a testé ses performances",
-      "description": "Nous avons acheté un Xiaomi 18 Pro avant sa sortie en France. L'occasion de tester les performances de sa puce Snapdragon 8 Elite Gen 6. Xiaomi 18 Pro //",
-      "url": "https://www.frandroid.com/marques/xiaomi/3263329_le-xiaomi-18-pro-est-il-surpuissant-on-a-teste-ses-performances",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-29T16:50:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "jM3lgl2SsY8",
+      "thumbnail": "https://i.ytimg.com/vi/jM3lgl2SsY8/hqdefault.jpg"
     },
     {
       "title": "Libre et open source express: IA vs Adullact, iNaturalist, Atos, communs agricoles",
