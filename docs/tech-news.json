@@ -1,48 +1,12 @@
 {
-  "lastUpdate": "2026-10-02T14:35:04.355754",
+  "lastUpdate": "2026-10-03T13:12:04.109953",
   "articles": [
     {
-      "title": "🎙️ CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENTE",
-      "description": "CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENT Et si vous pouviez simplement parler à ChatGPT ...",
-      "url": "https://www.youtube.com/watch?v=i2gk_Oknibg",
-      "source": "Skill Market",
-      "publishedAt": "2026-09-07T18:43:49Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "i2gk_Oknibg",
-      "thumbnail": "https://i.ytimg.com/vi/i2gk_Oknibg/hqdefault.jpg"
-    },
-    {
-      "title": "Actualité : Gemini 4 est enfin là, mais Google le juge trop puissant pour vous le confier tout de suite",
-      "description": "Le voici enfin. Après des mois d'attente, Google a dévoilé mercredi Gemini 4, son intelligence artificielle la plus puissante, qui devance ChatGPT et Claude sur 14 des 19 tests publiés par la firme. S...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/gemini-4-est-enfin-la-mais-google-le-juge-trop-puissant-pour-vous-le-confier-tout-de-suite-n262576.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-10-01T06:08:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tu peux maintenant créer TON avatar IA gratuitement 🤯 #ia #chatgpt #aitools #ai #aiavatar #astuce",
-      "description": "Oublie HeyGen… cet outil open source te permet de créer des avatars IA ultra réalistes à partir d'une simple photo et d'un audio.",
-      "url": "https://www.youtube.com/watch?v=6Lexz5IplmQ",
-      "source": "IA Boss ",
-      "publishedAt": "2026-08-09T12:58:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "6Lexz5IplmQ",
-      "thumbnail": "https://i.ytimg.com/vi/6Lexz5IplmQ/hqdefault.jpg"
-    },
-    {
-      "title": "Gemini vient (encore) de rattraper ChatGPT : voici ce que Gemini 4 Argon va vous apporter, quand il sera disponible",
-      "description": "Google vient de présenter Gemini 4 Argon, un nouveau modèle qui le place à nouveau parmi les grands laboratoires d’intelligence artificielle dans le monde.",
-      "url": "https://www.journaldugeek.com/2026/10/01/gemini-vient-encore-de-rattraper-chatgpt-voici-ce-que-gemini-4-argon-va-vous-apporter-quand-il-sera-disponible/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-10-01T13:01:07Z",
+      "title": "Genspark : que vaut cette IA tout-en-un qui veut remplacer ChatGPT, Canva et Excel ?",
+      "description": "Genspark vise à réunir dans un même espace les fonctions de plusieurs outils d’intelligence artificielle. Présenté comme un « AI workspace », le service peut notamment générer des présentations, analy...",
+      "url": "https://www.aruco.com/intelligence-artificielle/genspark-ia-guide/",
+      "source": "Aruco.com",
+      "publishedAt": "2026-10-01T22:52:59Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -74,6 +38,30 @@
       "thumbnail": "https://i.ytimg.com/vi/8NewbH_MQ6M/hqdefault.jpg"
     },
     {
+      "title": "Placements : comment bien utiliser l’IA pour gérer son patrimoine",
+      "description": "ChatGPT, Claude et autre Gemini permettent de s’informer utilement sur les différents placements, à condition de prendre quelques précautions.",
+      "url": "https://www.lexpress.fr/argent/placements/placements-comment-bien-utiliser-lia-pour-gerer-votre-patrimoine-PCH4ZK7OPBA2PPG6FESGNZJZ44/",
+      "source": "L'Express",
+      "publishedAt": "2026-10-02T08:00:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ce vieux réflexe abandonné depuis l’IA vous donne pourtant bien plus de réponses",
+      "description": "ChatGPT, Gemini et leurs rivaux répondent aujourd’hui à tout, sur à peu près tous les sujets. Des chercheurs ont voulu vérifier si la richesse des réponses suivait vraiment cette montée...",
+      "url": "https://www.phonandroid.com/ce-vieux-reflexe-abandonne-depuis-lia-vous-donne-pourtant-bien-plus-de-reponses.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-10-02T10:14:29Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "OpenAI Dots : une version « édulcorée » d’OpenClaw, pour les utilisateurs de ChatGPT Pro à 200 $ par mois",
       "description": "Les points clés à retenir sur Dots d'OpenAI OpenAI Dots exécute des agents GPT-6 sur des machines virtuelles dédiées dans le cloud. Dots promet une automatisation plus sûre, mais les autorisations res...",
       "url": "https://www.zdnet.fr/actualites/openai-dots-une-version-edulcoree-dopenclaw-pour-les-utilisateurs-de-chatgpt-pro-a-200-par-mois-504901.htm",
@@ -84,6 +72,18 @@
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "Explorer et préparer ses données avec pandas (data science)",
+      "description": "Troisième épisode de la Formation Machine learning & data science de Bitdyne, pour consultants au Maroc. La préparation des ...",
+      "url": "https://www.youtube.com/watch?v=J3YIeIEeIl8",
+      "source": "Bitdyne",
+      "publishedAt": "2026-09-08T22:24:34Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "J3YIeIEeIl8",
+      "thumbnail": "https://i.ytimg.com/vi/J3YIeIEeIl8/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI #5 — Le modèle de données et le schéma en étoile",
@@ -134,28 +134,16 @@
       "thumbnail": "https://i.ytimg.com/vi/gHC1DJeQVt4/hqdefault.jpg"
     },
     {
-      "title": "Programmation Transact-SQL (T-SQL) avec SQL Server 2025",
-      "description": "Dans cette série, apprenez la programmation Transact-SQL (T-SQL) avec SQL Server 2025. Découvrez comment écrire des ...",
-      "url": "https://www.youtube.com/watch?v=mq9bcHMIooQ",
-      "source": "Tchaps Tech",
-      "publishedAt": "2026-09-08T09:00:15Z",
+      "title": "Python : introduction à pandas pour l&#39;analyse de données",
+      "description": "Seizième épisode de la Formation Python Bitdyne : découvrir pandas. Le DataFrame, filtrer des lignes, regrouper et agréger ...",
+      "url": "https://www.youtube.com/watch?v=cIfEIoT3MCc",
+      "source": "Bitdyne",
+      "publishedAt": "2026-09-02T04:02:19Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "mq9bcHMIooQ",
-      "thumbnail": "https://i.ytimg.com/vi/mq9bcHMIooQ/hqdefault.jpg"
-    },
-    {
-      "title": "LandGate étend sa plateforme mondiale d'informations sur les réseaux en intégrant la cartographie des centres de données européens",
-      "description": "Désormais répertoriant de plus de 2 100 sites sur 10 marchés européens clés, LandGate fournit des données spatiales à l'échelle des sites via un SIG, une API, un serveur MCP ou l'exportation directe d...",
-      "url": "https://www.prnewswire.com/news-releases/landgate-etend-sa-plateforme-mondiale-dinformations-sur-les-reseaux-en-integrant-la-cartographie-des-centres-de-donnees-europeens-302896127.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-10-01T14:14:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "videoId": "cIfEIoT3MCc",
+      "thumbnail": "https://i.ytimg.com/vi/cIfEIoT3MCc/hqdefault.jpg"
     },
     {
       "title": "Langage DAX : le cours complet de A à Z | Formation Power BI",
@@ -170,6 +158,18 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
+      "title": "Chômage, immobilier… En Chine, les marqueurs économiques sont en berne",
+      "description": "Les dernières données économiques, publiées le 28 septembre par le Bureau des statistiques, suscitent bien des inquiétudes en Chine. Entre un chômage des jeunes en hausse et une demande intérieure qui...",
+      "url": "https://www.courrierinternational.com/article/rapport-chomage-immobilier-en-chine-les-marqueurs-economiques-sont-en-berne_275450",
+      "source": "Courrier International",
+      "publishedAt": "2026-10-02T10:06:52Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Comprendre l&#39;informatique #10 — Les bases de données et SQL",
       "description": "Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...",
       "url": "https://www.youtube.com/watch?v=Ne5LQuLVmfE",
@@ -182,11 +182,23 @@
       "thumbnail": "https://i.ytimg.com/vi/Ne5LQuLVmfE/hqdefault.jpg"
     },
     {
-      "title": "Selon un nouveau rapport de Rockwell Automation, 90 % des fabricants du secteur des sciences de la vie considèrent désormais la transformation numérique comme essentielle pour leur entreprise.",
-      "description": "La nouvelle étude révèle que les fabricants investissent dans l'interconnexion des données, la cybersécurité et l'IA pour améliorer la qualité, renforcer la conformité réglementaire et optimiser la pe...",
-      "url": "https://www.prnewswire.com/news-releases/selon-un-nouveau-rapport-de-rockwell-automation-90--des-fabricants-du-secteur-des-sciences-de-la-vie-considerent-desormais-la-transformation-numerique-comme-essentielle-pour-leur-entreprise-302896093.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-10-01T14:00:00Z",
+      "title": "INSERT, UPDATE, DELETE en SQL : modifier les données sans risque",
+      "description": "Ajouter une commande, corriger un statut, supprimer une ligne erronée : ces gestes quotidiens sont aussi les plus dangereux ...",
+      "url": "https://www.youtube.com/watch?v=g3riJNZdIdU",
+      "source": "Bitdyne",
+      "publishedAt": "2026-09-13T03:05:42Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "g3riJNZdIdU",
+      "thumbnail": "https://i.ytimg.com/vi/g3riJNZdIdU/hqdefault.jpg"
+    },
+    {
+      "title": "Ce papier peint produit de l'énergie grâce à l'air de votre salon",
+      "description": "Des chercheurs de l'Université de Binghamton ont conçu un papier peint intelligent capable de générer du courant grâce à l'air ambiant. Ce revêtement capte la vapeur d'eau intérieure pour alimenter de...",
+      "url": "https://www.generation-nt.com/actualites/papier-peint-produit-energie-2082123",
+      "source": "Génération NT",
+      "publishedAt": "2026-10-02T11:15:01Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,11 +218,11 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "C’est gratuit ! Cinq idées de sorties à Paris et alentour pour ce week-end",
-      "description": "Que faire dans la capitale ce week-end? Un festival d’upcycling, un autre de BD, une journée consacrée à la santé mentale, une nuit aux données… Voici notre sélection d’activités gratuites du 1er au 4...",
-      "url": "https://www.telerama.fr/restos-loisirs/c-est-gratuit-cinq-idees-de-sorties-a-paris-et-alentour-pour-ce-week-end-1707-7029320.php",
-      "source": "Telerama.fr",
-      "publishedAt": "2026-09-30T14:17:07Z",
+      "title": "Ménopause : les femmes se tournent vers la testostérone, mais que dit réellement la science ?",
+      "description": "De plus en plus de femmes ménopausées se tournent vers la testostérone pour tenter de soulager certains symptômes, notamment les troubles du désir sexuel. Pourtant, si les données scientifiques soutie...",
+      "url": "https://atlantico.fr/article/decryptage/menopause-les-femmes-se-tournent-vers-la-testosterone-mais-que-dit-reellement-la-science",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-10-02T09:13:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,11 +230,11 @@
       "thumbnail": ""
     },
     {
-      "title": "La Chine dans la course à la recharge ultra-rapide",
-      "description": "Geely, BYD et Li Auto rivalisent désormais de vitesse pour proposer une recharge de véhicule électrique comparable à un plein d’essence, une course technologique qui soulève également des enjeux de sé...",
-      "url": "https://www.leblogauto.com/actualites/la-chine-dans-la-course-a-la-recharge-ultra-rapide/",
-      "source": "Leblogauto.com",
-      "publishedAt": "2026-10-01T14:04:00Z",
+      "title": "Gestion de l’eau en entreprise : comment maîtriser sa consommation ?",
+      "description": "Face aux enjeux environnementaux et réglementaires, la gestion de l’eau devient un véritable levier de performance pour les entreprises. Télérelève, détection des fuites, suivi des consommations et ce...",
+      "url": "https://www.futura-sciences.com/planete/questions-reponses/eau-gestion-eau-entreprise-maitriser-consommation-26197/",
+      "source": "Futura",
+      "publishedAt": "2026-10-02T12:30:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Pour son film Netflix « Animals », Ben Affleck assume : « J’ai utilisé l’IA pour un tas de choses »",
-      "description": "L’acteur a expliqué lors d’une interview pourquoi il avait travaillé avec de l’intelligence artificielle dans la réalisation de son dernier film.",
-      "url": "https://www.huffingtonpost.fr/culture/article/pour-son-film-netflix-animals-ben-affleck-assume-j-ai-utilise-l-ia-pour-un-tas-de-choses_333641.html",
-      "source": "Le HuffPost",
-      "publishedAt": "2026-10-01T11:47:05Z",
+      "title": "Présidentielle 2027 : un débat sur l'IA entre souveraineté et clivages rejoués",
+      "description": "À Marseille, huit représentants des candidats à l’élection présidentielle ont débattu de l’intelligence artificielle sous l’égide des médias du groupe…",
+      "url": "https://next.ink/258927/presidentielle-2027-un-debat-sur-lia-entre-souverainete-et-clivages-rejoues/",
+      "source": "Next.ink",
+      "publishedAt": "2026-10-02T12:11:24Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Google vient de présenter Gemini 4 Argon : voici les 4 métiers dans lesquels cette IA excelle",
-      "description": "Google vient de présenter Gemini 4 Argon, une nouvelle IA qui serait aussi puissante que GPT-6 Astra d’OpenAI. Celui-ci a des capacités de codage et de cyberdéfense avancées, mais devrait aussi être t...",
-      "url": "https://www.presse-citron.net/google-gemini-4-argon-metiers-ia/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-10-01T06:51:49Z",
+      "title": "Ben Affleck défend le recours à l’intelligence artificielle : “Je l’ai beaucoup utilisée pour mon film”",
+      "description": "Avec “Animals”, il assure avoir réalisé une “fiction très humaine”. ...",
+      "url": "https://www.dhnet.be/medias/cinema/2026/10/02/ben-affleck-defend-le-recours-a-lintelligence-artificielle-je-lai-beaucoup-utilisee-pour-mon-film-XELDVAHJZFAVXAOYPCXAQFLRFA/",
+      "source": "dh.be",
+      "publishedAt": "2026-10-02T12:49:06Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "IA en entreprise : pourquoi il faut mettre l’humain dans la boucle",
-      "description": "Quatre architectes de systèmes d'intelligence artificielle nous expliquent comment intégrer la supervision humaine dans les processus à haut risque.",
-      "url": "https://www.zdnet.fr/pratique/ia-en-entreprise-pourquoi-il-faut-mettre-lhumain-dans-la-boucle-504369.htm",
+      "title": "Francis Lelong, cofondateur de Sarenza et CEO d'Alegria : « OpenAI annonce une IA égale à l’humain sans en apporter la preuve »",
+      "description": "Contrat financier réécrit, scores à géométrie variable, tests conçus par le vendeur lui-même : Francis Lelong, cofondateur de Sarenza et CEO d'Alegria, démontre que l'annonce de l'AGI par OpenAI ne re...",
+      "url": "https://www.zdnet.fr/tribune/francis-lelong-cofondateur-de-sarenza-et-ceo-dalegria-openai-annonce-une-ia-egale-a-lhumain-sans-en-apporter-la-preuve-504978.htm",
       "source": "ZDNet France",
-      "publishedAt": "2026-09-30T08:09:19Z",
+      "publishedAt": "2026-10-02T06:10:48Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +290,11 @@
       "thumbnail": "https://i.ytimg.com/vi/jM3lgl2SsY8/hqdefault.jpg"
     },
     {
-      "title": "Libre et open source express: IA vs Adullact, iNaturalist, Atos, communs agricoles",
-      "description": "En bref. Pilonnage d’IA sur le Gitlab de l’Adullact. Atos crée un comité pour \"allier IA, open source et souveraineté\". iNaturalist, \"l'appli qui prend soin de la nature\". OSFarm propose un annuaire d...",
-      "url": "https://www.zdnet.fr/blogs/l-esprit-libre/libre-et-open-source-express-ia-vs-adullact-inaturalist-atos-communs-agricoles-504822.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-09-30T08:09:06Z",
+      "title": "Californie : l’IA ne pourra plus décider seule de vos licenciements",
+      "description": "La Californie serre la vis sur l’IA au travail : impossible de licencier uniquement via un algorithme, et les outils de surveillance prennent aussi un stop.",
+      "url": "https://www.begeek.fr/californie-lia-ne-pourra-plus-decider-seule-de-vos-licenciements-440808",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-10-02T10:00:58Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
