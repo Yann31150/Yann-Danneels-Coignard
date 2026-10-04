@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "2026-10-03T13:12:04.109953",
+  "lastUpdate": "2026-10-04T13:49:51.255535",
   "articles": [
     {
-      "title": "Genspark : que vaut cette IA tout-en-un qui veut remplacer ChatGPT, Canva et Excel ?",
-      "description": "Genspark vise à réunir dans un même espace les fonctions de plusieurs outils d’intelligence artificielle. Présenté comme un « AI workspace », le service peut notamment générer des présentations, analy...",
-      "url": "https://www.aruco.com/intelligence-artificielle/genspark-ia-guide/",
-      "source": "Aruco.com",
-      "publishedAt": "2026-10-01T22:52:59Z",
+      "title": "🎙️ CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENTE",
+      "description": "CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENT Et si vous pouviez simplement parler à ChatGPT ...",
+      "url": "https://www.youtube.com/watch?v=i2gk_Oknibg",
+      "source": "Skill Market",
+      "publishedAt": "2026-09-07T18:43:49Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "i2gk_Oknibg",
+      "thumbnail": "https://i.ytimg.com/vi/i2gk_Oknibg/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
@@ -24,54 +24,6 @@
       "isYouTube": true,
       "videoId": "nNo2tnuYXDo",
       "thumbnail": "https://i.ytimg.com/vi/nNo2tnuYXDo/hqdefault.jpg"
-    },
-    {
-      "title": "J’ai Trouvé le Système ULTIME pour Utiliser l’IA GRATUITEMENT",
-      "description": "Vous voulez accéder à ChatGPT, Claude, Gemini, DeepSeek, Grok et bien d'autres modèles d'IA depuis une seule plateforme ?",
-      "url": "https://www.youtube.com/watch?v=8NewbH_MQ6M",
-      "source": "Parlons Cyber",
-      "publishedAt": "2026-09-12T16:00:08Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "8NewbH_MQ6M",
-      "thumbnail": "https://i.ytimg.com/vi/8NewbH_MQ6M/hqdefault.jpg"
-    },
-    {
-      "title": "Placements : comment bien utiliser l’IA pour gérer son patrimoine",
-      "description": "ChatGPT, Claude et autre Gemini permettent de s’informer utilement sur les différents placements, à condition de prendre quelques précautions.",
-      "url": "https://www.lexpress.fr/argent/placements/placements-comment-bien-utiliser-lia-pour-gerer-votre-patrimoine-PCH4ZK7OPBA2PPG6FESGNZJZ44/",
-      "source": "L'Express",
-      "publishedAt": "2026-10-02T08:00:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ce vieux réflexe abandonné depuis l’IA vous donne pourtant bien plus de réponses",
-      "description": "ChatGPT, Gemini et leurs rivaux répondent aujourd’hui à tout, sur à peu près tous les sujets. Des chercheurs ont voulu vérifier si la richesse des réponses suivait vraiment cette montée...",
-      "url": "https://www.phonandroid.com/ce-vieux-reflexe-abandonne-depuis-lia-vous-donne-pourtant-bien-plus-de-reponses.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-10-02T10:14:29Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI Dots : une version « édulcorée » d’OpenClaw, pour les utilisateurs de ChatGPT Pro à 200 $ par mois",
-      "description": "Les points clés à retenir sur Dots d'OpenAI OpenAI Dots exécute des agents GPT-6 sur des machines virtuelles dédiées dans le cloud. Dots promet une automatisation plus sûre, mais les autorisations res...",
-      "url": "https://www.zdnet.fr/actualites/openai-dots-une-version-edulcoree-dopenclaw-pour-les-utilisateurs-de-chatgpt-pro-a-200-par-mois-504901.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-10-01T09:25:59Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Explorer et préparer ses données avec pandas (data science)",
@@ -110,6 +62,18 @@
       "thumbnail": "https://i.ytimg.com/vi/NdS8xLrZd_k/hqdefault.jpg"
     },
     {
+      "title": "À quoi ressemblera le matelas du futur ?",
+      "description": "Matériaux intelligents, régulation de la température, capteurs et intelligence artificielle : la literie se prépare à une véritable révolution technologique. Tour d’horizon des innovations qui pourrai...",
+      "url": "https://www.tomsguide.fr/a-quoi-ressemblera-le-matelas-du-futur/",
+      "source": "Tom's Guide",
+      "publishedAt": "2026-10-02T20:23:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Cours complet sur Power BI pour débutant",
       "description": "Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...",
       "url": "https://www.youtube.com/watch?v=uJeUP8Z9LsQ",
@@ -120,6 +84,42 @@
       "isYouTube": true,
       "videoId": "uJeUP8Z9LsQ",
       "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
+    },
+    {
+      "title": "Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10",
+      "description": "COMPILATION — Chapitre 6/10 de la formation Data & Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.",
+      "url": "https://www.youtube.com/watch?v=jp6vn3Hp_zc",
+      "source": "IA Futura",
+      "publishedAt": "2026-09-07T11:00:18Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "jp6vn3Hp_zc",
+      "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
+    },
+    {
+      "title": "L’Afrique accélère sur l’intelligence artificielle, ce que les usages numériques révèlent – Comms & Marketing Africa",
+      "description": "L’intelligence artificielle s’installe rapidement dans les usages numériques africains. Le Digital 2026 Mid-Year Global Update Report, publié par…",
+      "url": "https://commsmarketingafrica.com/lafrique-accelere-sur-lintelligence-artificielle-ce-que-les-usages-numeriques-revelent/",
+      "source": "Commsmarketingafrica.com",
+      "publishedAt": "2026-10-02T16:58:56Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dates et texte en SQL : strftime, julianday, concaténation et fonctions de chaînes",
+      "description": "Huitième épisode de la Formation SQL Bitdyne. Les données réelles sont pleines de dates et de texte. On apprend à extraire ...",
+      "url": "https://www.youtube.com/watch?v=1N8MS9tnkNQ",
+      "source": "Bitdyne",
+      "publishedAt": "2026-09-08T15:26:45Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1N8MS9tnkNQ",
+      "thumbnail": "https://i.ytimg.com/vi/1N8MS9tnkNQ/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI #9 — Construire un tableau de bord",
@@ -158,18 +158,6 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
-      "title": "Chômage, immobilier… En Chine, les marqueurs économiques sont en berne",
-      "description": "Les dernières données économiques, publiées le 28 septembre par le Bureau des statistiques, suscitent bien des inquiétudes en Chine. Entre un chômage des jeunes en hausse et une demande intérieure qui...",
-      "url": "https://www.courrierinternational.com/article/rapport-chomage-immobilier-en-chine-les-marqueurs-economiques-sont-en-berne_275450",
-      "source": "Courrier International",
-      "publishedAt": "2026-10-02T10:06:52Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Comprendre l&#39;informatique #10 — Les bases de données et SQL",
       "description": "Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...",
       "url": "https://www.youtube.com/watch?v=Ne5LQuLVmfE",
@@ -194,11 +182,23 @@
       "thumbnail": "https://i.ytimg.com/vi/g3riJNZdIdU/hqdefault.jpg"
     },
     {
-      "title": "Ce papier peint produit de l'énergie grâce à l'air de votre salon",
-      "description": "Des chercheurs de l'Université de Binghamton ont conçu un papier peint intelligent capable de générer du courant grâce à l'air ambiant. Ce revêtement capte la vapeur d'eau intérieure pour alimenter de...",
-      "url": "https://www.generation-nt.com/actualites/papier-peint-produit-energie-2082123",
-      "source": "Génération NT",
-      "publishedAt": "2026-10-02T11:15:01Z",
+      "title": "\"Faisabilité technique prouvée\" : des milliers d'automobilistes empruntent sans le savoir cette route qui peut charger les batteries en roulant",
+      "description": "Sur un tronçon de l'A10, des essais grandeur nature viennent de valider un système de recharge par induction ultra-puissant. Fini les batteries XXL et les arrêts à répétition : camions et voitures pou...",
+      "url": "https://www.caradisiac.com/faisabilite-technique-prouvee-des-milliers-d-automobilistes-empruntent-sans-le-savoir-cette-route-qui-peut-charger-les-batteries-en-roulant-224327.htm",
+      "source": "Caradisiac.com",
+      "publishedAt": "2026-10-03T05:35:16Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L’IA pourrait-elle vraiment provoquer la disparition de l’humanité ? 5 scénarios passés au crible",
+      "description": "Une IA surpuissante pourrait poursuivre ses objectifs au mépris de la survie humaine. Elle pourrait aussi faciliter la création d’armes biologiques ou contribuer au déclenchement d’une guerre nucléair...",
+      "url": "https://www.numerama.com/tech/2344183-lia-pourrait-elle-vraiment-provoquer-la-disparition-de-lhumanite-5-scenarios-passes-au-crible.html",
+      "source": "Numerama",
+      "publishedAt": "2026-10-03T13:31:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,11 +218,11 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Ménopause : les femmes se tournent vers la testostérone, mais que dit réellement la science ?",
-      "description": "De plus en plus de femmes ménopausées se tournent vers la testostérone pour tenter de soulager certains symptômes, notamment les troubles du désir sexuel. Pourtant, si les données scientifiques soutie...",
-      "url": "https://atlantico.fr/article/decryptage/menopause-les-femmes-se-tournent-vers-la-testosterone-mais-que-dit-reellement-la-science",
-      "source": "Atlantico.fr",
-      "publishedAt": "2026-10-02T09:13:00Z",
+      "title": "D’étranges signaux nous parviennent des confins du cosmos, et les astronomes pensent en connaître l’origine",
+      "description": "Depuis des années, des salves intenses et prolongées de rayons X, provenant de galaxies lointaines, déconcertent les astronomes. De nouvelles données appuient la piste de fusions stellaires extrêmes.\n...",
+      "url": "https://dailygeekshow.com/rayons-x-signal-cosmos-magnetar/",
+      "source": "Daily Geek Show",
+      "publishedAt": "2026-10-02T19:23:14Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +230,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Gestion de l’eau en entreprise : comment maîtriser sa consommation ?",
-      "description": "Face aux enjeux environnementaux et réglementaires, la gestion de l’eau devient un véritable levier de performance pour les entreprises. Télérelève, détection des fuites, suivi des consommations et ce...",
-      "url": "https://www.futura-sciences.com/planete/questions-reponses/eau-gestion-eau-entreprise-maitriser-consommation-26197/",
+      "title": "Un ordinateur quantique a fonctionné dans l'espace !",
+      "description": "On attend des ordinateurs quantiques des découvertes extraordinaires, avec de nouveaux matériaux et de nouveaux médicaments. Mais on devrait pouvoir utiliser leur puissance de calcul pour bien d'autre...",
+      "url": "https://www.futura-sciences.com/tech/actualites/ordinateur-quantique-ordinateur-quantique-fonctionne-espace-137751/",
       "source": "Futura",
-      "publishedAt": "2026-10-02T12:30:00Z",
+      "publishedAt": "2026-10-02T12:02:50Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Présidentielle 2027 : un débat sur l'IA entre souveraineté et clivages rejoués",
-      "description": "À Marseille, huit représentants des candidats à l’élection présidentielle ont débattu de l’intelligence artificielle sous l’égide des médias du groupe…",
-      "url": "https://next.ink/258927/presidentielle-2027-un-debat-sur-lia-entre-souverainete-et-clivages-rejoues/",
-      "source": "Next.ink",
-      "publishedAt": "2026-10-02T12:11:24Z",
+      "title": "Build Challenge : deux jours pour créer et soumettre une app iOS",
+      "description": "Créer une app iOS en deux jours, puis la soumettre à Apple : c’est le programme du deuxième Build Challenge organisé par le collectif ⌘+F. MWM, Apple et Unaite, une fédération d’associations étudiante...",
+      "url": "https://www.igen.fr/ios/2026/10/build-challenge-deux-jours-pour-creer-et-soumettre-une-app-ios-158413",
+      "source": "iGeneration",
+      "publishedAt": "2026-10-02T13:47:35Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Ben Affleck défend le recours à l’intelligence artificielle : “Je l’ai beaucoup utilisée pour mon film”",
-      "description": "Avec “Animals”, il assure avoir réalisé une “fiction très humaine”. ...",
-      "url": "https://www.dhnet.be/medias/cinema/2026/10/02/ben-affleck-defend-le-recours-a-lintelligence-artificielle-je-lai-beaucoup-utilisee-pour-mon-film-XELDVAHJZFAVXAOYPCXAQFLRFA/",
-      "source": "dh.be",
-      "publishedAt": "2026-10-02T12:49:06Z",
+      "title": "Au jeu de la guerre, l’IA bat l’humain haut la main : la preuve par le Stratego",
+      "description": "Le Massachusetts Institute of Technology vient de mettre au point une intelligence artificielle qui surpasse de loin les meilleurs joueurs humains au jeu de guerre Stratego, et voudrait décliner son p...",
+      "url": "https://www.nouvelobs.com/sciences/20261003.OBS118845/au-jeu-de-la-guerre-l-ia-bat-l-humain-haut-la-main-la-preuve-par-le-stratego.html",
+      "source": "L'Obs",
+      "publishedAt": "2026-10-03T06:30:07Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Francis Lelong, cofondateur de Sarenza et CEO d'Alegria : « OpenAI annonce une IA égale à l’humain sans en apporter la preuve »",
-      "description": "Contrat financier réécrit, scores à géométrie variable, tests conçus par le vendeur lui-même : Francis Lelong, cofondateur de Sarenza et CEO d'Alegria, démontre que l'annonce de l'AGI par OpenAI ne re...",
-      "url": "https://www.zdnet.fr/tribune/francis-lelong-cofondateur-de-sarenza-et-ceo-dalegria-openai-annonce-une-ia-egale-a-lhumain-sans-en-apporter-la-preuve-504978.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-10-02T06:10:48Z",
+      "title": "\"Le rapport au livre a changé\": malgré les soupçons d’utilisation de l’IA, le livre de Thélyson Orélien est un véritable phénomène en librairie",
+      "description": "Malgré ou grâce à la polémique autour de Thélyson Orélien, soupçonné d'avoir eu recours l'intelligence artificielle pour écrire son livre, \"C'était ça ou mourir\", les clients se bousculent toujours en...",
+      "url": "https://www.bfmtv.com/culture/livres-bd/le-rapport-au-livre-a-change-malgre-les-soupcons-d-utilisation-de-l-ia-le-livre-de-thelyson-orelien-est-un-veritable-phenomene-en-librairie_AN-202610030040.html",
+      "source": "BFMTV",
+      "publishedAt": "2026-10-03T07:50:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,23 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Comprendre les RAG – De la Théorie au Code en 1H",
-      "description": "Dans cette vidéo, on va parler de RAG, pour Retrieval-Augmented Generation, et voir comment donner à un LLM accès à des ...",
-      "url": "https://www.youtube.com/watch?v=jM3lgl2SsY8",
-      "source": "obarrene",
-      "publishedAt": "2026-08-13T18:24:09Z",
+      "title": "L'énergie solaire produit désormais de l'hydrogène",
+      "description": "Des chercheurs de l'Université d'État de l'Oregon ont créé un nouveau matériau (le BVR-19) capable de transformer l'eau en gaz combustible en utilisant uniquement la lumière du soleil. Cette avancée m...",
+      "url": "https://www.generation-nt.com/actualites/energie-solaire-hydrogene-sans-panneaux-2082026",
+      "source": "Génération NT",
+      "publishedAt": "2026-10-03T12:10:01Z",
       "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "jM3lgl2SsY8",
-      "thumbnail": "https://i.ytimg.com/vi/jM3lgl2SsY8/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "Californie : l’IA ne pourra plus décider seule de vos licenciements",
-      "description": "La Californie serre la vis sur l’IA au travail : impossible de licencier uniquement via un algorithme, et les outils de surveillance prennent aussi un stop.",
-      "url": "https://www.begeek.fr/californie-lia-ne-pourra-plus-decider-seule-de-vos-licenciements-440808",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-10-02T10:00:58Z",
+      "title": "En promo à moins de 400 €, quelle est la meilleure affaire entre le nouveau Xiaomi Redmi Note 17 Pro 5G et le Samsung Galaxy A37 ?",
+      "description": "Les Samsung Galaxy A37 et Xiaomi Redmi Note 17 Pro 5G sont deux récentes références sur le marché des smartphones milieu de gamme actuellement en promotion. Suivi logiciel et IA d'un côté, endurance m...",
+      "url": "https://www.frandroid.com/bons-plans/3270639_en-promo-a-moins-de-400-e-quelle-est-la-meilleure-affaire-entre-le-nouveau-xiaomi-redmi-note-17-pro-5g-et-le-samsung-galaxy-a37",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-03T13:11:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,

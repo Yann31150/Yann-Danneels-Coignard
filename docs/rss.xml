@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 03 Oct 2026 13:12:04 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 13:49:51 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Genspark : que vaut cette IA tout-en-un qui veut remplacer ChatGPT, Canva et Excel ?</title>
-            <link>https://www.aruco.com/intelligence-artificielle/genspark-ia-guide/</link>
-            <description><![CDATA[Genspark vise à réunir dans un même espace les fonctions de plusieurs outils d’intelligence artificielle. Présenté comme un « AI workspace », le service peut notamment générer des présentations, analy...]]></description>
-            <pubDate>Thu, 01 Oct 2026 22:52:59 -0000</pubDate>
-            <guid isPermaLink="true">https://www.aruco.com/intelligence-artificielle/genspark-ia-guide/</guid>
-            <source>Aruco.com</source>
+            <title>🎙️ CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENTE</title>
+            <link>https://www.youtube.com/watch?v=i2gk_Oknibg</link>
+            <description><![CDATA[CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENT Et si vous pouviez simplement parler à ChatGPT ...]]></description>
+            <pubDate>Mon, 07 Sep 2026 18:43:49 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=i2gk_Oknibg</guid>
+            <source>Skill Market</source>
         </item>
         <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
@@ -27,38 +27,6 @@
             <pubDate>Thu, 10 Sep 2026 23:53:20 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=nNo2tnuYXDo</guid>
             <source>Bitdyne</source>
-        </item>
-        <item>
-            <title>J’ai Trouvé le Système ULTIME pour Utiliser l’IA GRATUITEMENT</title>
-            <link>https://www.youtube.com/watch?v=8NewbH_MQ6M</link>
-            <description><![CDATA[Vous voulez accéder à ChatGPT, Claude, Gemini, DeepSeek, Grok et bien d'autres modèles d'IA depuis une seule plateforme ?]]></description>
-            <pubDate>Sat, 12 Sep 2026 16:00:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=8NewbH_MQ6M</guid>
-            <source>Parlons Cyber</source>
-        </item>
-        <item>
-            <title>Placements : comment bien utiliser l’IA pour gérer son patrimoine</title>
-            <link>https://www.lexpress.fr/argent/placements/placements-comment-bien-utiliser-lia-pour-gerer-votre-patrimoine-PCH4ZK7OPBA2PPG6FESGNZJZ44/</link>
-            <description><![CDATA[ChatGPT, Claude et autre Gemini permettent de s’informer utilement sur les différents placements, à condition de prendre quelques précautions.]]></description>
-            <pubDate>Fri, 02 Oct 2026 08:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lexpress.fr/argent/placements/placements-comment-bien-utiliser-lia-pour-gerer-votre-patrimoine-PCH4ZK7OPBA2PPG6FESGNZJZ44/</guid>
-            <source>L'Express</source>
-        </item>
-        <item>
-            <title>Ce vieux réflexe abandonné depuis l’IA vous donne pourtant bien plus de réponses</title>
-            <link>https://www.phonandroid.com/ce-vieux-reflexe-abandonne-depuis-lia-vous-donne-pourtant-bien-plus-de-reponses.html</link>
-            <description><![CDATA[ChatGPT, Gemini et leurs rivaux répondent aujourd’hui à tout, sur à peu près tous les sujets. Des chercheurs ont voulu vérifier si la richesse des réponses suivait vraiment cette montée...]]></description>
-            <pubDate>Fri, 02 Oct 2026 10:14:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.phonandroid.com/ce-vieux-reflexe-abandonne-depuis-lia-vous-donne-pourtant-bien-plus-de-reponses.html</guid>
-            <source>Phonandroid</source>
-        </item>
-        <item>
-            <title>OpenAI Dots : une version « édulcorée » d’OpenClaw, pour les utilisateurs de ChatGPT Pro à 200 $ par mois</title>
-            <link>https://www.zdnet.fr/actualites/openai-dots-une-version-edulcoree-dopenclaw-pour-les-utilisateurs-de-chatgpt-pro-a-200-par-mois-504901.htm</link>
-            <description><![CDATA[Les points clés à retenir sur Dots d'OpenAI OpenAI Dots exécute des agents GPT-6 sur des machines virtuelles dédiées dans le cloud. Dots promet une automatisation plus sûre, mais les autorisations res...]]></description>
-            <pubDate>Thu, 01 Oct 2026 09:25:59 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/openai-dots-une-version-edulcoree-dopenclaw-pour-les-utilisateurs-de-chatgpt-pro-a-200-par-mois-504901.htm</guid>
-            <source>ZDNet France</source>
         </item>
         <item>
             <title>Explorer et préparer ses données avec pandas (data science)</title>
@@ -85,12 +53,44 @@
             <source>contact omnicirelpc</source>
         </item>
         <item>
+            <title>À quoi ressemblera le matelas du futur ?</title>
+            <link>https://www.tomsguide.fr/a-quoi-ressemblera-le-matelas-du-futur/</link>
+            <description><![CDATA[Matériaux intelligents, régulation de la température, capteurs et intelligence artificielle : la literie se prépare à une véritable révolution technologique. Tour d’horizon des innovations qui pourrai...]]></description>
+            <pubDate>Fri, 02 Oct 2026 20:23:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.tomsguide.fr/a-quoi-ressemblera-le-matelas-du-futur/</guid>
+            <source>Tom's Guide</source>
+        </item>
+        <item>
             <title>Cours complet sur Power BI pour débutant</title>
             <link>https://www.youtube.com/watch?v=uJeUP8Z9LsQ</link>
             <description><![CDATA[Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...]]></description>
             <pubDate>Tue, 25 Aug 2026 17:46:11 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=uJeUP8Z9LsQ</guid>
             <source>Jeune Financier Africain </source>
+        </item>
+        <item>
+            <title>Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10</title>
+            <link>https://www.youtube.com/watch?v=jp6vn3Hp_zc</link>
+            <description><![CDATA[COMPILATION — Chapitre 6/10 de la formation Data &amp; Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.]]></description>
+            <pubDate>Mon, 07 Sep 2026 11:00:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=jp6vn3Hp_zc</guid>
+            <source>IA Futura</source>
+        </item>
+        <item>
+            <title>L’Afrique accélère sur l’intelligence artificielle, ce que les usages numériques révèlent – Comms &amp; Marketing Africa</title>
+            <link>https://commsmarketingafrica.com/lafrique-accelere-sur-lintelligence-artificielle-ce-que-les-usages-numeriques-revelent/</link>
+            <description><![CDATA[L’intelligence artificielle s’installe rapidement dans les usages numériques africains. Le Digital 2026 Mid-Year Global Update Report, publié par…]]></description>
+            <pubDate>Fri, 02 Oct 2026 16:58:56 -0000</pubDate>
+            <guid isPermaLink="true">https://commsmarketingafrica.com/lafrique-accelere-sur-lintelligence-artificielle-ce-que-les-usages-numeriques-revelent/</guid>
+            <source>Commsmarketingafrica.com</source>
+        </item>
+        <item>
+            <title>Dates et texte en SQL : strftime, julianday, concaténation et fonctions de chaînes</title>
+            <link>https://www.youtube.com/watch?v=1N8MS9tnkNQ</link>
+            <description><![CDATA[Huitième épisode de la Formation SQL Bitdyne. Les données réelles sont pleines de dates et de texte. On apprend à extraire ...]]></description>
+            <pubDate>Tue, 08 Sep 2026 15:26:45 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1N8MS9tnkNQ</guid>
+            <source>Bitdyne</source>
         </item>
         <item>
             <title>Formation Power BI #9 — Construire un tableau de bord</title>
@@ -117,14 +117,6 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Chômage, immobilier… En Chine, les marqueurs économiques sont en berne</title>
-            <link>https://www.courrierinternational.com/article/rapport-chomage-immobilier-en-chine-les-marqueurs-economiques-sont-en-berne_275450</link>
-            <description><![CDATA[Les dernières données économiques, publiées le 28 septembre par le Bureau des statistiques, suscitent bien des inquiétudes en Chine. Entre un chômage des jeunes en hausse et une demande intérieure qui...]]></description>
-            <pubDate>Fri, 02 Oct 2026 10:06:52 -0000</pubDate>
-            <guid isPermaLink="true">https://www.courrierinternational.com/article/rapport-chomage-immobilier-en-chine-les-marqueurs-economiques-sont-en-berne_275450</guid>
-            <source>Courrier International</source>
-        </item>
-        <item>
             <title>Comprendre l&amp;#39;informatique #10 — Les bases de données et SQL</title>
             <link>https://www.youtube.com/watch?v=Ne5LQuLVmfE</link>
             <description><![CDATA[Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...]]></description>
@@ -141,12 +133,20 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>Ce papier peint produit de l'énergie grâce à l'air de votre salon</title>
-            <link>https://www.generation-nt.com/actualites/papier-peint-produit-energie-2082123</link>
-            <description><![CDATA[Des chercheurs de l'Université de Binghamton ont conçu un papier peint intelligent capable de générer du courant grâce à l'air ambiant. Ce revêtement capte la vapeur d'eau intérieure pour alimenter de...]]></description>
-            <pubDate>Fri, 02 Oct 2026 11:15:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/papier-peint-produit-energie-2082123</guid>
-            <source>Génération NT</source>
+            <title>"Faisabilité technique prouvée" : des milliers d'automobilistes empruntent sans le savoir cette route qui peut charger les batteries en roulant</title>
+            <link>https://www.caradisiac.com/faisabilite-technique-prouvee-des-milliers-d-automobilistes-empruntent-sans-le-savoir-cette-route-qui-peut-charger-les-batteries-en-roulant-224327.htm</link>
+            <description><![CDATA[Sur un tronçon de l'A10, des essais grandeur nature viennent de valider un système de recharge par induction ultra-puissant. Fini les batteries XXL et les arrêts à répétition : camions et voitures pou...]]></description>
+            <pubDate>Sat, 03 Oct 2026 05:35:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.caradisiac.com/faisabilite-technique-prouvee-des-milliers-d-automobilistes-empruntent-sans-le-savoir-cette-route-qui-peut-charger-les-batteries-en-roulant-224327.htm</guid>
+            <source>Caradisiac.com</source>
+        </item>
+        <item>
+            <title>L’IA pourrait-elle vraiment provoquer la disparition de l’humanité ? 5 scénarios passés au crible</title>
+            <link>https://www.numerama.com/tech/2344183-lia-pourrait-elle-vraiment-provoquer-la-disparition-de-lhumanite-5-scenarios-passes-au-crible.html</link>
+            <description><![CDATA[Une IA surpuissante pourrait poursuivre ses objectifs au mépris de la survie humaine. Elle pourrait aussi faciliter la création d’armes biologiques ou contribuer au déclenchement d’une guerre nucléair...]]></description>
+            <pubDate>Sat, 03 Oct 2026 13:31:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/tech/2344183-lia-pourrait-elle-vraiment-provoquer-la-disparition-de-lhumanite-5-scenarios-passes-au-crible.html</guid>
+            <source>Numerama</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -157,19 +157,20 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Ménopause : les femmes se tournent vers la testostérone, mais que dit réellement la science ?</title>
-            <link>https://atlantico.fr/article/decryptage/menopause-les-femmes-se-tournent-vers-la-testosterone-mais-que-dit-reellement-la-science</link>
-            <description><![CDATA[De plus en plus de femmes ménopausées se tournent vers la testostérone pour tenter de soulager certains symptômes, notamment les troubles du désir sexuel. Pourtant, si les données scientifiques soutie...]]></description>
-            <pubDate>Fri, 02 Oct 2026 09:13:00 -0000</pubDate>
-            <guid isPermaLink="true">https://atlantico.fr/article/decryptage/menopause-les-femmes-se-tournent-vers-la-testosterone-mais-que-dit-reellement-la-science</guid>
-            <source>Atlantico.fr</source>
+            <title>D’étranges signaux nous parviennent des confins du cosmos, et les astronomes pensent en connaître l’origine</title>
+            <link>https://dailygeekshow.com/rayons-x-signal-cosmos-magnetar/</link>
+            <description><![CDATA[Depuis des années, des salves intenses et prolongées de rayons X, provenant de galaxies lointaines, déconcertent les astronomes. De nouvelles données appuient la piste de fusions stellaires extrêmes.
+...]]></description>
+            <pubDate>Fri, 02 Oct 2026 19:23:14 -0000</pubDate>
+            <guid isPermaLink="true">https://dailygeekshow.com/rayons-x-signal-cosmos-magnetar/</guid>
+            <source>Daily Geek Show</source>
         </item>
         <item>
-            <title>Gestion de l’eau en entreprise : comment maîtriser sa consommation ?</title>
-            <link>https://www.futura-sciences.com/planete/questions-reponses/eau-gestion-eau-entreprise-maitriser-consommation-26197/</link>
-            <description><![CDATA[Face aux enjeux environnementaux et réglementaires, la gestion de l’eau devient un véritable levier de performance pour les entreprises. Télérelève, détection des fuites, suivi des consommations et ce...]]></description>
-            <pubDate>Fri, 02 Oct 2026 12:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/planete/questions-reponses/eau-gestion-eau-entreprise-maitriser-consommation-26197/</guid>
+            <title>Un ordinateur quantique a fonctionné dans l'espace !</title>
+            <link>https://www.futura-sciences.com/tech/actualites/ordinateur-quantique-ordinateur-quantique-fonctionne-espace-137751/</link>
+            <description><![CDATA[On attend des ordinateurs quantiques des découvertes extraordinaires, avec de nouveaux matériaux et de nouveaux médicaments. Mais on devrait pouvoir utiliser leur puissance de calcul pour bien d'autre...]]></description>
+            <pubDate>Fri, 02 Oct 2026 12:02:50 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/ordinateur-quantique-ordinateur-quantique-fonctionne-espace-137751/</guid>
             <source>Futura</source>
         </item>
     </channel>
