@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 04 Oct 2026 13:49:51 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 16:58:09 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>🎙️ CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENTE</title>
-            <link>https://www.youtube.com/watch?v=i2gk_Oknibg</link>
-            <description><![CDATA[CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENT Et si vous pouviez simplement parler à ChatGPT ...]]></description>
-            <pubDate>Mon, 07 Sep 2026 18:43:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=i2gk_Oknibg</guid>
-            <source>Skill Market</source>
-        </item>
         <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
             <link>https://www.youtube.com/watch?v=nNo2tnuYXDo</link>
@@ -29,11 +21,27 @@
             <source>Bitdyne</source>
         </item>
         <item>
+            <title>J’ai Trouvé le Système ULTIME pour Utiliser l’IA GRATUITEMENT</title>
+            <link>https://www.youtube.com/watch?v=8NewbH_MQ6M</link>
+            <description><![CDATA[Vous voulez accéder à ChatGPT, Claude, Gemini, DeepSeek, Grok et bien d'autres modèles d'IA depuis une seule plateforme ?]]></description>
+            <pubDate>Sat, 12 Sep 2026 16:00:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=8NewbH_MQ6M</guid>
+            <source>Parlons Cyber</source>
+        </item>
+        <item>
             <title>Explorer et préparer ses données avec pandas (data science)</title>
             <link>https://www.youtube.com/watch?v=J3YIeIEeIl8</link>
             <description><![CDATA[Troisième épisode de la Formation Machine learning &amp; data science de Bitdyne, pour consultants au Maroc. La préparation des ...]]></description>
             <pubDate>Tue, 08 Sep 2026 22:24:34 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=J3YIeIEeIl8</guid>
+            <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>Formation Power BI #2 — Découvrir Power BI</title>
+            <link>https://www.youtube.com/watch?v=v_15NJJqkrw</link>
+            <description><![CDATA[L'écosystème et le flux de travail Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain. Cette version ...]]></description>
+            <pubDate>Thu, 10 Sep 2026 23:55:28 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=v_15NJJqkrw</guid>
             <source>Bitdyne</source>
         </item>
         <item>
@@ -53,14 +61,6 @@
             <source>contact omnicirelpc</source>
         </item>
         <item>
-            <title>À quoi ressemblera le matelas du futur ?</title>
-            <link>https://www.tomsguide.fr/a-quoi-ressemblera-le-matelas-du-futur/</link>
-            <description><![CDATA[Matériaux intelligents, régulation de la température, capteurs et intelligence artificielle : la literie se prépare à une véritable révolution technologique. Tour d’horizon des innovations qui pourrai...]]></description>
-            <pubDate>Fri, 02 Oct 2026 20:23:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.tomsguide.fr/a-quoi-ressemblera-le-matelas-du-futur/</guid>
-            <source>Tom's Guide</source>
-        </item>
-        <item>
             <title>Cours complet sur Power BI pour débutant</title>
             <link>https://www.youtube.com/watch?v=uJeUP8Z9LsQ</link>
             <description><![CDATA[Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...]]></description>
@@ -77,12 +77,12 @@
             <source>IA Futura</source>
         </item>
         <item>
-            <title>L’Afrique accélère sur l’intelligence artificielle, ce que les usages numériques révèlent – Comms &amp; Marketing Africa</title>
-            <link>https://commsmarketingafrica.com/lafrique-accelere-sur-lintelligence-artificielle-ce-que-les-usages-numeriques-revelent/</link>
-            <description><![CDATA[L’intelligence artificielle s’installe rapidement dans les usages numériques africains. Le Digital 2026 Mid-Year Global Update Report, publié par…]]></description>
-            <pubDate>Fri, 02 Oct 2026 16:58:56 -0000</pubDate>
-            <guid isPermaLink="true">https://commsmarketingafrica.com/lafrique-accelere-sur-lintelligence-artificielle-ce-que-les-usages-numeriques-revelent/</guid>
-            <source>Commsmarketingafrica.com</source>
+            <title>Actualité : J'ai laissé l'IA fouiller mes comptes : voici combien j'ai économisé en traquant mes abonnements fantôme</title>
+            <link>https://www.lesnumeriques.com/intelligence-artificielle/j-ai-laisse-l-ia-fouiller-mes-comptes-voici-combien-j-ai-economise-en-traquant-mes-abonnements-fantome-139-n236530.html</link>
+            <description><![CDATA[Entre le streaming, le stockage en ligne et les périodes d'essai oubliées, nos relevés bancaires sont devenus de véritables jungles. Pour faire le ménage, j'ai décidé de confier mes dépenses à l'intel...]]></description>
+            <pubDate>Sat, 03 Oct 2026 15:33:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/j-ai-laisse-l-ia-fouiller-mes-comptes-voici-combien-j-ai-economise-en-traquant-mes-abonnements-fantome-139-n236530.html</guid>
+            <source>Les Numériques</source>
         </item>
         <item>
             <title>Dates et texte en SQL : strftime, julianday, concaténation et fonctions de chaînes</title>
@@ -93,12 +93,12 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>Formation Power BI #9 — Construire un tableau de bord</title>
-            <link>https://www.youtube.com/watch?v=gHC1DJeQVt4</link>
-            <description><![CDATA[Mise en page, filtres et récit : assembler le tableau de bord achats de bout en bout Formation Power BI par Bitdyne. Cas concrets ...]]></description>
-            <pubDate>Fri, 11 Sep 2026 00:04:33 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=gHC1DJeQVt4</guid>
-            <source>Bitdyne</source>
+            <title>Programmation Transact-SQL (T-SQL) avec SQL Server 2025</title>
+            <link>https://www.youtube.com/watch?v=mq9bcHMIooQ</link>
+            <description><![CDATA[Dans cette série, apprenez la programmation Transact-SQL (T-SQL) avec SQL Server 2025. Découvrez comment écrire des ...]]></description>
+            <pubDate>Tue, 08 Sep 2026 09:00:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=mq9bcHMIooQ</guid>
+            <source>Tchaps Tech</source>
         </item>
         <item>
             <title>Python : introduction à pandas pour l&amp;#39;analyse de données</title>
@@ -125,28 +125,36 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>INSERT, UPDATE, DELETE en SQL : modifier les données sans risque</title>
-            <link>https://www.youtube.com/watch?v=g3riJNZdIdU</link>
-            <description><![CDATA[Ajouter une commande, corriger un statut, supprimer une ligne erronée : ces gestes quotidiens sont aussi les plus dangereux ...]]></description>
-            <pubDate>Sun, 13 Sep 2026 03:05:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=g3riJNZdIdU</guid>
-            <source>Bitdyne</source>
+            <title>sqlmath 2026.9.29</title>
+            <link>https://pypi.org/project/sqlmath/2026.9.29/</link>
+            <description><![CDATA[sqlite for data-science]]></description>
+            <pubDate>Sun, 04 Oct 2026 02:38:38 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/sqlmath/2026.9.29/</guid>
+            <source>Pypi.org</source>
         </item>
         <item>
-            <title>"Faisabilité technique prouvée" : des milliers d'automobilistes empruntent sans le savoir cette route qui peut charger les batteries en roulant</title>
-            <link>https://www.caradisiac.com/faisabilite-technique-prouvee-des-milliers-d-automobilistes-empruntent-sans-le-savoir-cette-route-qui-peut-charger-les-batteries-en-roulant-224327.htm</link>
-            <description><![CDATA[Sur un tronçon de l'A10, des essais grandeur nature viennent de valider un système de recharge par induction ultra-puissant. Fini les batteries XXL et les arrêts à répétition : camions et voitures pou...]]></description>
-            <pubDate>Sat, 03 Oct 2026 05:35:16 -0000</pubDate>
-            <guid isPermaLink="true">https://www.caradisiac.com/faisabilite-technique-prouvee-des-milliers-d-automobilistes-empruntent-sans-le-savoir-cette-route-qui-peut-charger-les-batteries-en-roulant-224327.htm</guid>
-            <source>Caradisiac.com</source>
+            <title>Actualité : De 56k.rip aux cimetières du web, Internet ressuscite inlassablement ses fantômes sur fond de nostalgie ambiante</title>
+            <link>https://www.lesnumeriques.com/appli-logiciel/de-56k-rip-aux-cimetieres-du-web-internet-ressuscite-inlassablement-ses-fantomes-sur-fond-de-nostalgie-ambiante-n262585.html</link>
+            <description><![CDATA[Une vague de nostalgie sans précédent déferle sur le monde depuis plusieurs années. Des cartes aux jeux, en passant par les VHS, baskets et tout ce qui pouvait s'acheter il y a quelques décennies, les...]]></description>
+            <pubDate>Sun, 04 Oct 2026 13:49:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/appli-logiciel/de-56k-rip-aux-cimetieres-du-web-internet-ressuscite-inlassablement-ses-fantomes-sur-fond-de-nostalgie-ambiante-n262585.html</guid>
+            <source>Les Numériques</source>
         </item>
         <item>
-            <title>L’IA pourrait-elle vraiment provoquer la disparition de l’humanité ? 5 scénarios passés au crible</title>
-            <link>https://www.numerama.com/tech/2344183-lia-pourrait-elle-vraiment-provoquer-la-disparition-de-lhumanite-5-scenarios-passes-au-crible.html</link>
-            <description><![CDATA[Une IA surpuissante pourrait poursuivre ses objectifs au mépris de la survie humaine. Elle pourrait aussi faciliter la création d’armes biologiques ou contribuer au déclenchement d’une guerre nucléair...]]></description>
-            <pubDate>Sat, 03 Oct 2026 13:31:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/tech/2344183-lia-pourrait-elle-vraiment-provoquer-la-disparition-de-lhumanite-5-scenarios-passes-au-crible.html</guid>
-            <source>Numerama</source>
+            <title>Kéfir, kombucha, kimchi : ce que votre microbiote apprécie vraiment parmi ces aliments fermentés</title>
+            <link>https://www.futura-sciences.com/sciences/actualites/fete-science-kefir-kombucha-kimchi-ce-votre-microbiote-apprecie-vraiment-parmi-ces-aliments-fermentes-138212/</link>
+            <description><![CDATA[Les boissons et les aliments fermentés, comme le kéfir, le kombucha et le kimchi, ont tout pour séduire les amateurs de santé au naturel. Riches en microorganismes, ils sont régulièrement présentés co...]]></description>
+            <pubDate>Sun, 04 Oct 2026 04:27:58 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/fete-science-kefir-kombucha-kimchi-ce-votre-microbiote-apprecie-vraiment-parmi-ces-aliments-fermentes-138212/</guid>
+            <source>Futura</source>
+        </item>
+        <item>
+            <title>Actualité : Combien d’électricité consomme vraiment une journée passée à discuter avec une IA ?</title>
+            <link>https://www.lesnumeriques.com/intelligence-artificielle/combien-d-electricite-consomme-vraiment-une-journee-passee-a-discuter-avec-une-ia-n262668.html</link>
+            <description><![CDATA[L’un des principaux reproches faits à l’IA est sa consommation en électricité. Pour vous faire une idée de ce que cela représente concrètement au quotidien, voici quelques chiffres.]]></description>
+            <pubDate>Sun, 04 Oct 2026 15:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/combien-d-electricite-consomme-vraiment-une-journee-passee-a-discuter-avec-une-ia-n262668.html</guid>
+            <source>Les Numériques</source>
         </item>
         <item>
             <title>Introduction | SQL - EP1</title>
@@ -157,21 +165,12 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>D’étranges signaux nous parviennent des confins du cosmos, et les astronomes pensent en connaître l’origine</title>
-            <link>https://dailygeekshow.com/rayons-x-signal-cosmos-magnetar/</link>
-            <description><![CDATA[Depuis des années, des salves intenses et prolongées de rayons X, provenant de galaxies lointaines, déconcertent les astronomes. De nouvelles données appuient la piste de fusions stellaires extrêmes.
-...]]></description>
-            <pubDate>Fri, 02 Oct 2026 19:23:14 -0000</pubDate>
-            <guid isPermaLink="true">https://dailygeekshow.com/rayons-x-signal-cosmos-magnetar/</guid>
-            <source>Daily Geek Show</source>
-        </item>
-        <item>
-            <title>Un ordinateur quantique a fonctionné dans l'espace !</title>
-            <link>https://www.futura-sciences.com/tech/actualites/ordinateur-quantique-ordinateur-quantique-fonctionne-espace-137751/</link>
-            <description><![CDATA[On attend des ordinateurs quantiques des découvertes extraordinaires, avec de nouveaux matériaux et de nouveaux médicaments. Mais on devrait pouvoir utiliser leur puissance de calcul pour bien d'autre...]]></description>
-            <pubDate>Fri, 02 Oct 2026 12:02:50 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/ordinateur-quantique-ordinateur-quantique-fonctionne-espace-137751/</guid>
-            <source>Futura</source>
+            <title>Devenir actuaire : quel parcours pour l’un des métiers les mieux rémunérés de l’assurance ?</title>
+            <link>https://www.20minutes.fr/vie-pro/4250928-20261003-devenir-actuaire-parcours-metiers-mieux-remuneres-assurance</link>
+            <description><![CDATA[Les compagnies d’assurance recherchent ces spécialistes capables d’anticiper les risques. Mais devenir actuaire suppose de suivre un parcours bien précis]]></description>
+            <pubDate>Sat, 03 Oct 2026 11:02:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.20minutes.fr/vie-pro/4250928-20261003-devenir-actuaire-parcours-metiers-mieux-remuneres-assurance</guid>
+            <source>20 Minutes</source>
         </item>
     </channel>
 </rss>

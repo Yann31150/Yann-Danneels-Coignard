@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-10-04T13:49:51.255535",
+  "lastUpdate": "2026-10-05T16:58:09.746625",
   "articles": [
-    {
-      "title": "🎙️ CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENTE",
-      "description": "CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENT Et si vous pouviez simplement parler à ChatGPT ...",
-      "url": "https://www.youtube.com/watch?v=i2gk_Oknibg",
-      "source": "Skill Market",
-      "publishedAt": "2026-09-07T18:43:49Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "i2gk_Oknibg",
-      "thumbnail": "https://i.ytimg.com/vi/i2gk_Oknibg/hqdefault.jpg"
-    },
     {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
       "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
@@ -26,6 +14,18 @@
       "thumbnail": "https://i.ytimg.com/vi/nNo2tnuYXDo/hqdefault.jpg"
     },
     {
+      "title": "J’ai Trouvé le Système ULTIME pour Utiliser l’IA GRATUITEMENT",
+      "description": "Vous voulez accéder à ChatGPT, Claude, Gemini, DeepSeek, Grok et bien d'autres modèles d'IA depuis une seule plateforme ?",
+      "url": "https://www.youtube.com/watch?v=8NewbH_MQ6M",
+      "source": "Parlons Cyber",
+      "publishedAt": "2026-09-12T16:00:08Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "8NewbH_MQ6M",
+      "thumbnail": "https://i.ytimg.com/vi/8NewbH_MQ6M/hqdefault.jpg"
+    },
+    {
       "title": "Explorer et préparer ses données avec pandas (data science)",
       "description": "Troisième épisode de la Formation Machine learning & data science de Bitdyne, pour consultants au Maroc. La préparation des ...",
       "url": "https://www.youtube.com/watch?v=J3YIeIEeIl8",
@@ -36,6 +36,18 @@
       "isYouTube": true,
       "videoId": "J3YIeIEeIl8",
       "thumbnail": "https://i.ytimg.com/vi/J3YIeIEeIl8/hqdefault.jpg"
+    },
+    {
+      "title": "Formation Power BI #2 — Découvrir Power BI",
+      "description": "L'écosystème et le flux de travail Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain. Cette version ...",
+      "url": "https://www.youtube.com/watch?v=v_15NJJqkrw",
+      "source": "Bitdyne",
+      "publishedAt": "2026-09-10T23:55:28Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "v_15NJJqkrw",
+      "thumbnail": "https://i.ytimg.com/vi/v_15NJJqkrw/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI #5 — Le modèle de données et le schéma en étoile",
@@ -62,18 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/NdS8xLrZd_k/hqdefault.jpg"
     },
     {
-      "title": "À quoi ressemblera le matelas du futur ?",
-      "description": "Matériaux intelligents, régulation de la température, capteurs et intelligence artificielle : la literie se prépare à une véritable révolution technologique. Tour d’horizon des innovations qui pourrai...",
-      "url": "https://www.tomsguide.fr/a-quoi-ressemblera-le-matelas-du-futur/",
-      "source": "Tom's Guide",
-      "publishedAt": "2026-10-02T20:23:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Cours complet sur Power BI pour débutant",
       "description": "Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...",
       "url": "https://www.youtube.com/watch?v=uJeUP8Z9LsQ",
@@ -98,11 +98,11 @@
       "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
     },
     {
-      "title": "L’Afrique accélère sur l’intelligence artificielle, ce que les usages numériques révèlent – Comms & Marketing Africa",
-      "description": "L’intelligence artificielle s’installe rapidement dans les usages numériques africains. Le Digital 2026 Mid-Year Global Update Report, publié par…",
-      "url": "https://commsmarketingafrica.com/lafrique-accelere-sur-lintelligence-artificielle-ce-que-les-usages-numeriques-revelent/",
-      "source": "Commsmarketingafrica.com",
-      "publishedAt": "2026-10-02T16:58:56Z",
+      "title": "Actualité : J'ai laissé l'IA fouiller mes comptes : voici combien j'ai économisé en traquant mes abonnements fantôme",
+      "description": "Entre le streaming, le stockage en ligne et les périodes d'essai oubliées, nos relevés bancaires sont devenus de véritables jungles. Pour faire le ménage, j'ai décidé de confier mes dépenses à l'intel...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/j-ai-laisse-l-ia-fouiller-mes-comptes-voici-combien-j-ai-economise-en-traquant-mes-abonnements-fantome-139-n236530.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-10-03T15:33:00Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -122,16 +122,16 @@
       "thumbnail": "https://i.ytimg.com/vi/1N8MS9tnkNQ/hqdefault.jpg"
     },
     {
-      "title": "Formation Power BI #9 — Construire un tableau de bord",
-      "description": "Mise en page, filtres et récit : assembler le tableau de bord achats de bout en bout Formation Power BI par Bitdyne. Cas concrets ...",
-      "url": "https://www.youtube.com/watch?v=gHC1DJeQVt4",
-      "source": "Bitdyne",
-      "publishedAt": "2026-09-11T00:04:33Z",
+      "title": "Programmation Transact-SQL (T-SQL) avec SQL Server 2025",
+      "description": "Dans cette série, apprenez la programmation Transact-SQL (T-SQL) avec SQL Server 2025. Découvrez comment écrire des ...",
+      "url": "https://www.youtube.com/watch?v=mq9bcHMIooQ",
+      "source": "Tchaps Tech",
+      "publishedAt": "2026-09-08T09:00:15Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "gHC1DJeQVt4",
-      "thumbnail": "https://i.ytimg.com/vi/gHC1DJeQVt4/hqdefault.jpg"
+      "videoId": "mq9bcHMIooQ",
+      "thumbnail": "https://i.ytimg.com/vi/mq9bcHMIooQ/hqdefault.jpg"
     },
     {
       "title": "Python : introduction à pandas pour l&#39;analyse de données",
@@ -170,23 +170,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Ne5LQuLVmfE/hqdefault.jpg"
     },
     {
-      "title": "INSERT, UPDATE, DELETE en SQL : modifier les données sans risque",
-      "description": "Ajouter une commande, corriger un statut, supprimer une ligne erronée : ces gestes quotidiens sont aussi les plus dangereux ...",
-      "url": "https://www.youtube.com/watch?v=g3riJNZdIdU",
-      "source": "Bitdyne",
-      "publishedAt": "2026-09-13T03:05:42Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "g3riJNZdIdU",
-      "thumbnail": "https://i.ytimg.com/vi/g3riJNZdIdU/hqdefault.jpg"
-    },
-    {
-      "title": "\"Faisabilité technique prouvée\" : des milliers d'automobilistes empruntent sans le savoir cette route qui peut charger les batteries en roulant",
-      "description": "Sur un tronçon de l'A10, des essais grandeur nature viennent de valider un système de recharge par induction ultra-puissant. Fini les batteries XXL et les arrêts à répétition : camions et voitures pou...",
-      "url": "https://www.caradisiac.com/faisabilite-technique-prouvee-des-milliers-d-automobilistes-empruntent-sans-le-savoir-cette-route-qui-peut-charger-les-batteries-en-roulant-224327.htm",
-      "source": "Caradisiac.com",
-      "publishedAt": "2026-10-03T05:35:16Z",
+      "title": "sqlmath 2026.9.29",
+      "description": "sqlite for data-science",
+      "url": "https://pypi.org/project/sqlmath/2026.9.29/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-10-04T02:38:38Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -194,11 +182,35 @@
       "thumbnail": ""
     },
     {
-      "title": "L’IA pourrait-elle vraiment provoquer la disparition de l’humanité ? 5 scénarios passés au crible",
-      "description": "Une IA surpuissante pourrait poursuivre ses objectifs au mépris de la survie humaine. Elle pourrait aussi faciliter la création d’armes biologiques ou contribuer au déclenchement d’une guerre nucléair...",
-      "url": "https://www.numerama.com/tech/2344183-lia-pourrait-elle-vraiment-provoquer-la-disparition-de-lhumanite-5-scenarios-passes-au-crible.html",
-      "source": "Numerama",
-      "publishedAt": "2026-10-03T13:31:00Z",
+      "title": "Actualité : De 56k.rip aux cimetières du web, Internet ressuscite inlassablement ses fantômes sur fond de nostalgie ambiante",
+      "description": "Une vague de nostalgie sans précédent déferle sur le monde depuis plusieurs années. Des cartes aux jeux, en passant par les VHS, baskets et tout ce qui pouvait s'acheter il y a quelques décennies, les...",
+      "url": "https://www.lesnumeriques.com/appli-logiciel/de-56k-rip-aux-cimetieres-du-web-internet-ressuscite-inlassablement-ses-fantomes-sur-fond-de-nostalgie-ambiante-n262585.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-10-04T13:49:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Kéfir, kombucha, kimchi : ce que votre microbiote apprécie vraiment parmi ces aliments fermentés",
+      "description": "Les boissons et les aliments fermentés, comme le kéfir, le kombucha et le kimchi, ont tout pour séduire les amateurs de santé au naturel. Riches en microorganismes, ils sont régulièrement présentés co...",
+      "url": "https://www.futura-sciences.com/sciences/actualites/fete-science-kefir-kombucha-kimchi-ce-votre-microbiote-apprecie-vraiment-parmi-ces-aliments-fermentes-138212/",
+      "source": "Futura",
+      "publishedAt": "2026-10-04T04:27:58Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Actualité : Combien d’électricité consomme vraiment une journée passée à discuter avec une IA ?",
+      "description": "L’un des principaux reproches faits à l’IA est sa consommation en électricité. Pour vous faire une idée de ce que cela représente concrètement au quotidien, voici quelques chiffres.",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/combien-d-electricite-consomme-vraiment-une-journee-passee-a-discuter-avec-une-ia-n262668.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-10-04T15:00:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,11 +230,11 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "D’étranges signaux nous parviennent des confins du cosmos, et les astronomes pensent en connaître l’origine",
-      "description": "Depuis des années, des salves intenses et prolongées de rayons X, provenant de galaxies lointaines, déconcertent les astronomes. De nouvelles données appuient la piste de fusions stellaires extrêmes.\n...",
-      "url": "https://dailygeekshow.com/rayons-x-signal-cosmos-magnetar/",
-      "source": "Daily Geek Show",
-      "publishedAt": "2026-10-02T19:23:14Z",
+      "title": "Devenir actuaire : quel parcours pour l’un des métiers les mieux rémunérés de l’assurance ?",
+      "description": "Les compagnies d’assurance recherchent ces spécialistes capables d’anticiper les risques. Mais devenir actuaire suppose de suivre un parcours bien précis",
+      "url": "https://www.20minutes.fr/vie-pro/4250928-20261003-devenir-actuaire-parcours-metiers-mieux-remuneres-assurance",
+      "source": "20 Minutes",
+      "publishedAt": "2026-10-03T11:02:37Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,23 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Un ordinateur quantique a fonctionné dans l'espace !",
-      "description": "On attend des ordinateurs quantiques des découvertes extraordinaires, avec de nouveaux matériaux et de nouveaux médicaments. Mais on devrait pouvoir utiliser leur puissance de calcul pour bien d'autre...",
-      "url": "https://www.futura-sciences.com/tech/actualites/ordinateur-quantique-ordinateur-quantique-fonctionne-espace-137751/",
-      "source": "Futura",
-      "publishedAt": "2026-10-02T12:02:50Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Build Challenge : deux jours pour créer et soumettre une app iOS",
-      "description": "Créer une app iOS en deux jours, puis la soumettre à Apple : c’est le programme du deuxième Build Challenge organisé par le collectif ⌘+F. MWM, Apple et Unaite, une fédération d’associations étudiante...",
-      "url": "https://www.igen.fr/ios/2026/10/build-challenge-deux-jours-pour-creer-et-soumettre-une-app-ios-158413",
-      "source": "iGeneration",
-      "publishedAt": "2026-10-02T13:47:35Z",
+      "title": "L’IA redessine les métiers de la communication, du marketing et des médias en Afrique – Comms & Marketing Africa",
+      "description": "De la création de contenus au journalisme, en passant par le marketing et la formation, l’intelligence artificielle transforme progressivement les pratiques…",
+      "url": "https://commsmarketingafrica.com/lia-redessine-les-metiers-de-la-communication-du-marketing-et-des-medias-en-afrique/",
+      "source": "Commsmarketingafrica.com",
+      "publishedAt": "2026-10-04T11:45:15Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Au jeu de la guerre, l’IA bat l’humain haut la main : la preuve par le Stratego",
-      "description": "Le Massachusetts Institute of Technology vient de mettre au point une intelligence artificielle qui surpasse de loin les meilleurs joueurs humains au jeu de guerre Stratego, et voudrait décliner son p...",
-      "url": "https://www.nouvelobs.com/sciences/20261003.OBS118845/au-jeu-de-la-guerre-l-ia-bat-l-humain-haut-la-main-la-preuve-par-le-stratego.html",
-      "source": "L'Obs",
-      "publishedAt": "2026-10-03T06:30:07Z",
+      "title": "Etats-Unis : Donald Trump place l’IA sous la houlette du renseignement américain, sans régulation contraignante",
+      "description": "Donald Trump a officiellement nommé dimanche Jay Clayton, chef du renseignement américain, à la tête d’un groupe de travail sur l’intelligence artificielle (IA), avec une priorité mise à la coordinati...",
+      "url": "https://www.20minutes.fr/monde/etats-unis/4251159-20261004-etats-unis-donald-trump-place-ia-sous-houlette-renseignement-americain-regulation-contraignante",
+      "source": "20 Minutes",
+      "publishedAt": "2026-10-04T14:57:28Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,23 @@
       "thumbnail": ""
     },
     {
-      "title": "\"Le rapport au livre a changé\": malgré les soupçons d’utilisation de l’IA, le livre de Thélyson Orélien est un véritable phénomène en librairie",
-      "description": "Malgré ou grâce à la polémique autour de Thélyson Orélien, soupçonné d'avoir eu recours l'intelligence artificielle pour écrire son livre, \"C'était ça ou mourir\", les clients se bousculent toujours en...",
-      "url": "https://www.bfmtv.com/culture/livres-bd/le-rapport-au-livre-a-change-malgre-les-soupcons-d-utilisation-de-l-ia-le-livre-de-thelyson-orelien-est-un-veritable-phenomene-en-librairie_AN-202610030040.html",
-      "source": "BFMTV",
-      "publishedAt": "2026-10-03T07:50:00Z",
+      "title": "Comprendre les RAG – De la Théorie au Code en 1H",
+      "description": "Dans cette vidéo, on va parler de RAG, pour Retrieval-Augmented Generation, et voir comment donner à un LLM accès à des ...",
+      "url": "https://www.youtube.com/watch?v=jM3lgl2SsY8",
+      "source": "obarrene",
+      "publishedAt": "2026-08-13T18:24:09Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "jM3lgl2SsY8",
+      "thumbnail": "https://i.ytimg.com/vi/jM3lgl2SsY8/hqdefault.jpg"
+    },
+    {
+      "title": "Une IA pour retrouver les œuvres d’art volées par les nazis",
+      "description": "Retrouver une œuvre spoliée pendant la Seconde Guerre mondiale relève souvent de l’enquête au long cours. Des chercheurs américains testent une IA pour aider les familles, les musées et les spécialist...",
+      "url": "https://www.journaldugeek.com/2026/10/04/une-ia-pour-retrouver-les-oeuvres-volees-par-les-nazis/",
+      "source": "Journal du geek",
+      "publishedAt": "2026-10-04T15:05:12Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,23 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "L'énergie solaire produit désormais de l'hydrogène",
-      "description": "Des chercheurs de l'Université d'État de l'Oregon ont créé un nouveau matériau (le BVR-19) capable de transformer l'eau en gaz combustible en utilisant uniquement la lumière du soleil. Cette avancée m...",
-      "url": "https://www.generation-nt.com/actualites/energie-solaire-hydrogene-sans-panneaux-2082026",
-      "source": "Génération NT",
-      "publishedAt": "2026-10-03T12:10:01Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "En promo à moins de 400 €, quelle est la meilleure affaire entre le nouveau Xiaomi Redmi Note 17 Pro 5G et le Samsung Galaxy A37 ?",
-      "description": "Les Samsung Galaxy A37 et Xiaomi Redmi Note 17 Pro 5G sont deux récentes références sur le marché des smartphones milieu de gamme actuellement en promotion. Suivi logiciel et IA d'un côté, endurance m...",
-      "url": "https://www.frandroid.com/bons-plans/3270639_en-promo-a-moins-de-400-e-quelle-est-la-meilleure-affaire-entre-le-nouveau-xiaomi-redmi-note-17-pro-5g-et-le-samsung-galaxy-a37",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-03T13:11:00Z",
+      "title": "Et maintenant, des logiciels pour \"humaniser\" les textes écrits par l’IA",
+      "description": "Difficile, de nos jours, de savoir si un texte a été écrit par un humain ou par une IA. Cela ne va pas s’arranger avec le développement de logiciels d’écriture \"humanisante\" ! (Un rendez-vous en parte...",
+      "url": "https://www.franceinfo.fr/replay-radio/nouveau-monde/et-maintenant-des-logiciels-pour-humaniser-les-textes-ecrits-par-l-ia_8179232.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-10-04T15:00:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
