@@ -5,13 +5,21 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 05 Oct 2026 16:58:09 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 14:54:46 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>L'intelligence artificielle d'OpenAI prise en flagrant délit de triche sur StarCraft</title>
+            <link>https://www.generation-nt.com/actualites/openai-triche-tournoi-starcraft-2082203</link>
+            <description><![CDATA[Face à des adversaires coriaces lors d'un tournoi compétitif, le fair-play n'a pas résisté bien longtemps. Frustré par ses défaites, le modèle GPT-6 Astra a contourné les règles en téléchargeant le co...]]></description>
+            <pubDate>Mon, 05 Oct 2026 11:15:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/openai-triche-tournoi-starcraft-2082203</guid>
+            <source>Génération NT</source>
+        </item>
         <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
             <link>https://www.youtube.com/watch?v=nNo2tnuYXDo</link>
@@ -53,6 +61,22 @@
             <source>Bitdyne</source>
         </item>
         <item>
+            <title>"Beaucoup pensaient que j'étais devenu fou" : ils font appel à l'IA pour écrire le livre de leur vie</title>
+            <link>https://www.franceinfo.fr/internet/intelligence-artificielle/beaucoup-pensaient-que-j-etais-devenu-fou-ils-font-appel-a-l-ia-pour-ecrire-le-livre-de-leur-vie_8223442.html</link>
+            <description><![CDATA[À Saint-Malo, une entreprise propose de transformer les souvenirs de particuliers en véritables autobiographies grâce à l'intelligence artificielle. Une solution qui séduit notamment ceux qui souhaite...]]></description>
+            <pubDate>Mon, 05 Oct 2026 13:34:50 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/internet/intelligence-artificielle/beaucoup-pensaient-que-j-etais-devenu-fou-ils-font-appel-a-l-ia-pour-ecrire-le-livre-de-leur-vie_8223442.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
+            <title>L'IA d'entreprise : le deuxième chapitre de l'intelligence artificielle se joue dans le contexte opérationnel</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1555733-l-ia-d-entreprise-le-deuxieme-chapitre-de-l-intelligence-artificielle-se-joue-dans-le-contexte-operationnel/</link>
+            <description><![CDATA[L'IA entre dans une nouvelle phase : au-delà des expérimentations, l'enjeu est désormais de l'intégrer aux processus métier pour transformer son potentiel en valeur concrète, mesurable et durable.]]></description>
+            <pubDate>Mon, 05 Oct 2026 06:48:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1555733-l-ia-d-entreprise-le-deuxieme-chapitre-de-l-intelligence-artificielle-se-joue-dans-le-contexte-operationnel/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
             <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
             <link>https://www.youtube.com/watch?v=NdS8xLrZd_k</link>
             <description><![CDATA[Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...]]></description>
@@ -67,30 +91,6 @@
             <pubDate>Tue, 25 Aug 2026 17:46:11 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=uJeUP8Z9LsQ</guid>
             <source>Jeune Financier Africain </source>
-        </item>
-        <item>
-            <title>Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10</title>
-            <link>https://www.youtube.com/watch?v=jp6vn3Hp_zc</link>
-            <description><![CDATA[COMPILATION — Chapitre 6/10 de la formation Data &amp; Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.]]></description>
-            <pubDate>Mon, 07 Sep 2026 11:00:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=jp6vn3Hp_zc</guid>
-            <source>IA Futura</source>
-        </item>
-        <item>
-            <title>Actualité : J'ai laissé l'IA fouiller mes comptes : voici combien j'ai économisé en traquant mes abonnements fantôme</title>
-            <link>https://www.lesnumeriques.com/intelligence-artificielle/j-ai-laisse-l-ia-fouiller-mes-comptes-voici-combien-j-ai-economise-en-traquant-mes-abonnements-fantome-139-n236530.html</link>
-            <description><![CDATA[Entre le streaming, le stockage en ligne et les périodes d'essai oubliées, nos relevés bancaires sont devenus de véritables jungles. Pour faire le ménage, j'ai décidé de confier mes dépenses à l'intel...]]></description>
-            <pubDate>Sat, 03 Oct 2026 15:33:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/j-ai-laisse-l-ia-fouiller-mes-comptes-voici-combien-j-ai-economise-en-traquant-mes-abonnements-fantome-139-n236530.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
-            <title>Dates et texte en SQL : strftime, julianday, concaténation et fonctions de chaînes</title>
-            <link>https://www.youtube.com/watch?v=1N8MS9tnkNQ</link>
-            <description><![CDATA[Huitième épisode de la Formation SQL Bitdyne. Les données réelles sont pleines de dates et de texte. On apprend à extraire ...]]></description>
-            <pubDate>Tue, 08 Sep 2026 15:26:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1N8MS9tnkNQ</guid>
-            <source>Bitdyne</source>
         </item>
         <item>
             <title>Programmation Transact-SQL (T-SQL) avec SQL Server 2025</title>
@@ -117,6 +117,30 @@
             <source>Le Decodeur</source>
         </item>
         <item>
+            <title>SIBIONICS et PharmaSens explorent de nouvelles perspectives pour l'administration automatisée d'insuline lors du congrès de l'EASD 2026</title>
+            <link>https://www.prnewswire.com/news-releases/sibionics-et-pharmasens-explorent-de-nouvelles-perspectives-pour-ladministration-automatisee-dinsuline-lors-du-congres-de-leasd-2026-302897845.html</link>
+            <description><![CDATA[MILAN, 5 octobre 2026 /PRNewswire/ -- Lors du congrès 2026 de l'Association européenne pour l'étude du diabète (EASD), SiBionics a présenté « See More, Act Earlier » (Voir plus : agir plus tôt), qui é...]]></description>
+            <pubDate>Mon, 05 Oct 2026 00:47:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/sibionics-et-pharmasens-explorent-de-nouvelles-perspectives-pour-ladministration-automatisee-dinsuline-lors-du-congres-de-leasd-2026-302897845.html</guid>
+            <source>PRNewswire</source>
+        </item>
+        <item>
+            <title>Pourquoi le goût est une expérience sensorielle au cœur de notre santé physique, de notre bien-être et de notre vie sociale</title>
+            <link>https://theconversation.com/pourquoi-le-gout-est-une-experience-sensorielle-au-coeur-de-notre-sante-physique-de-notre-bien-etre-et-de-notre-vie-sociale-293036</link>
+            <description><![CDATA[Des recherches menées dans des situations où le goût est altéré, notamment chez des sujets âgés ou traités pour un cancer, mettent au jour les liens entre alimentation, bien-être et vie sociale.]]></description>
+            <pubDate>Mon, 05 Oct 2026 12:22:33 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/pourquoi-le-gout-est-une-experience-sensorielle-au-coeur-de-notre-sante-physique-de-notre-bien-etre-et-de-notre-vie-sociale-293036</guid>
+            <source>The Conversation Africa</source>
+        </item>
+        <item>
+            <title>Un nouveau rapport de recherche mondial d'Habitat for Humanity révèle que trois personnes sur quatre font l'impasse sur des produits de première nécessité pour pouvoir se loger.</title>
+            <link>https://www.prnewswire.com/news-releases/un-nouveau-rapport-de-recherche-mondial-dhabitat-for-humanity-revele-que-trois-personnes-sur-quatre-font-limpasse-sur-des-produits-de-premiere-necessite-pour-pouvoir-se-loger-302898428.html</link>
+            <description><![CDATA[ATLANTA, 5 octobre 2026 /PRNewswire/ -- Selon un rapport de recherche mondial publié aujourd'hui par Habitat for Humanity International, le coût du logement oblige des millions de personnes à travers ...]]></description>
+            <pubDate>Mon, 05 Oct 2026 13:08:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/un-nouveau-rapport-de-recherche-mondial-dhabitat-for-humanity-revele-que-trois-personnes-sur-quatre-font-limpasse-sur-des-produits-de-premiere-necessite-pour-pouvoir-se-loger-302898428.html</guid>
+            <source>PRNewswire</source>
+        </item>
+        <item>
             <title>Comprendre l&amp;#39;informatique #10 — Les bases de données et SQL</title>
             <link>https://www.youtube.com/watch?v=Ne5LQuLVmfE</link>
             <description><![CDATA[Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...]]></description>
@@ -133,44 +157,20 @@
             <source>Pypi.org</source>
         </item>
         <item>
-            <title>Actualité : De 56k.rip aux cimetières du web, Internet ressuscite inlassablement ses fantômes sur fond de nostalgie ambiante</title>
-            <link>https://www.lesnumeriques.com/appli-logiciel/de-56k-rip-aux-cimetieres-du-web-internet-ressuscite-inlassablement-ses-fantomes-sur-fond-de-nostalgie-ambiante-n262585.html</link>
-            <description><![CDATA[Une vague de nostalgie sans précédent déferle sur le monde depuis plusieurs années. Des cartes aux jeux, en passant par les VHS, baskets et tout ce qui pouvait s'acheter il y a quelques décennies, les...]]></description>
-            <pubDate>Sun, 04 Oct 2026 13:49:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/appli-logiciel/de-56k-rip-aux-cimetieres-du-web-internet-ressuscite-inlassablement-ses-fantomes-sur-fond-de-nostalgie-ambiante-n262585.html</guid>
-            <source>Les Numériques</source>
+            <title>Quels sont les meilleurs smartphones "grand écran" pour les pros en 2026 ?</title>
+            <link>https://www.zdnet.fr/selection-expert-zdnet-france/quels-sont-les-meilleurs-smartphones-grand-ecran-pour-les-pros-en-2026-505141.htm</link>
+            <description><![CDATA[La surface d'affichage est devenue le critère numéro un pour la productivité en mobilité. Lecture de contrats, analyse de tableaux de bord complexes, dataviz ou multitâche intensif : voici notre sélec...]]></description>
+            <pubDate>Mon, 05 Oct 2026 06:10:25 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/selection-expert-zdnet-france/quels-sont-les-meilleurs-smartphones-grand-ecran-pour-les-pros-en-2026-505141.htm</guid>
+            <source>ZDNet France</source>
         </item>
         <item>
-            <title>Kéfir, kombucha, kimchi : ce que votre microbiote apprécie vraiment parmi ces aliments fermentés</title>
-            <link>https://www.futura-sciences.com/sciences/actualites/fete-science-kefir-kombucha-kimchi-ce-votre-microbiote-apprecie-vraiment-parmi-ces-aliments-fermentes-138212/</link>
-            <description><![CDATA[Les boissons et les aliments fermentés, comme le kéfir, le kombucha et le kimchi, ont tout pour séduire les amateurs de santé au naturel. Riches en microorganismes, ils sont régulièrement présentés co...]]></description>
-            <pubDate>Sun, 04 Oct 2026 04:27:58 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/fete-science-kefir-kombucha-kimchi-ce-votre-microbiote-apprecie-vraiment-parmi-ces-aliments-fermentes-138212/</guid>
-            <source>Futura</source>
-        </item>
-        <item>
-            <title>Actualité : Combien d’électricité consomme vraiment une journée passée à discuter avec une IA ?</title>
-            <link>https://www.lesnumeriques.com/intelligence-artificielle/combien-d-electricite-consomme-vraiment-une-journee-passee-a-discuter-avec-une-ia-n262668.html</link>
-            <description><![CDATA[L’un des principaux reproches faits à l’IA est sa consommation en électricité. Pour vous faire une idée de ce que cela représente concrètement au quotidien, voici quelques chiffres.]]></description>
-            <pubDate>Sun, 04 Oct 2026 15:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/combien-d-electricite-consomme-vraiment-une-journee-passee-a-discuter-avec-une-ia-n262668.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
-            <title>Introduction | SQL - EP1</title>
-            <link>https://www.youtube.com/watch?v=QXaOjeucWgI</link>
-            <description><![CDATA[Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...]]></description>
-            <pubDate>Fri, 28 Aug 2026 18:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=QXaOjeucWgI</guid>
-            <source>EvoluNoob</source>
-        </item>
-        <item>
-            <title>Devenir actuaire : quel parcours pour l’un des métiers les mieux rémunérés de l’assurance ?</title>
-            <link>https://www.20minutes.fr/vie-pro/4250928-20261003-devenir-actuaire-parcours-metiers-mieux-remuneres-assurance</link>
-            <description><![CDATA[Les compagnies d’assurance recherchent ces spécialistes capables d’anticiper les risques. Mais devenir actuaire suppose de suivre un parcours bien précis]]></description>
-            <pubDate>Sat, 03 Oct 2026 11:02:37 -0000</pubDate>
-            <guid isPermaLink="true">https://www.20minutes.fr/vie-pro/4250928-20261003-devenir-actuaire-parcours-metiers-mieux-remuneres-assurance</guid>
-            <source>20 Minutes</source>
+            <title>ZDNET Morning 05/10/2026 : L'IA Gen surcharge les collaborateurs français, Shadow IT et fuites de données, Cession de 400 brevets de Sony XR</title>
+            <link>https://www.zdnet.fr/actualites/zdnet-morning-05-10-2026-lia-gen-surcharge-les-collaborateurs-francais-shadow-it-et-fuites-de-donnees-cession-de-400-brevets-de-sony-xr-505090.htm</link>
+            <description><![CDATA[Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.]]></description>
+            <pubDate>Mon, 05 Oct 2026 07:09:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/zdnet-morning-05-10-2026-lia-gen-surcharge-les-collaborateurs-francais-shadow-it-et-fuites-de-donnees-cession-de-400-brevets-de-sony-xr-505090.htm</guid>
+            <source>ZDNet France</source>
         </item>
     </channel>
 </rss>

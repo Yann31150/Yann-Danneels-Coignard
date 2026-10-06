@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-10-05T16:58:09.746625",
+  "lastUpdate": "2026-10-06T14:54:46.600256",
   "articles": [
+    {
+      "title": "L'intelligence artificielle d'OpenAI prise en flagrant délit de triche sur StarCraft",
+      "description": "Face à des adversaires coriaces lors d'un tournoi compétitif, le fair-play n'a pas résisté bien longtemps. Frustré par ses défaites, le modèle GPT-6 Astra a contourné les règles en téléchargeant le co...",
+      "url": "https://www.generation-nt.com/actualites/openai-triche-tournoi-starcraft-2082203",
+      "source": "Génération NT",
+      "publishedAt": "2026-10-05T11:15:01Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
     {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
       "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
@@ -62,6 +74,30 @@
       "thumbnail": "https://i.ytimg.com/vi/_HMCrW-g-I4/hqdefault.jpg"
     },
     {
+      "title": "\"Beaucoup pensaient que j'étais devenu fou\" : ils font appel à l'IA pour écrire le livre de leur vie",
+      "description": "À Saint-Malo, une entreprise propose de transformer les souvenirs de particuliers en véritables autobiographies grâce à l'intelligence artificielle. Une solution qui séduit notamment ceux qui souhaite...",
+      "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/beaucoup-pensaient-que-j-etais-devenu-fou-ils-font-appel-a-l-ia-pour-ecrire-le-livre-de-leur-vie_8223442.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-10-05T13:34:50Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L'IA d'entreprise : le deuxième chapitre de l'intelligence artificielle se joue dans le contexte opérationnel",
+      "description": "L'IA entre dans une nouvelle phase : au-delà des expérimentations, l'enjeu est désormais de l'intégrer aux processus métier pour transformer son potentiel en valeur concrète, mesurable et durable.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1555733-l-ia-d-entreprise-le-deuxieme-chapitre-de-l-intelligence-artificielle-se-joue-dans-le-contexte-operationnel/",
+      "source": "JDN",
+      "publishedAt": "2026-10-05T06:48:17Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "URGENT : Machine Learning, Ia, — analyse rapide",
       "description": "Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...",
       "url": "https://www.youtube.com/watch?v=NdS8xLrZd_k",
@@ -84,42 +120,6 @@
       "isYouTube": true,
       "videoId": "uJeUP8Z9LsQ",
       "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
-    },
-    {
-      "title": "Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10",
-      "description": "COMPILATION — Chapitre 6/10 de la formation Data & Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.",
-      "url": "https://www.youtube.com/watch?v=jp6vn3Hp_zc",
-      "source": "IA Futura",
-      "publishedAt": "2026-09-07T11:00:18Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "jp6vn3Hp_zc",
-      "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
-    },
-    {
-      "title": "Actualité : J'ai laissé l'IA fouiller mes comptes : voici combien j'ai économisé en traquant mes abonnements fantôme",
-      "description": "Entre le streaming, le stockage en ligne et les périodes d'essai oubliées, nos relevés bancaires sont devenus de véritables jungles. Pour faire le ménage, j'ai décidé de confier mes dépenses à l'intel...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/j-ai-laisse-l-ia-fouiller-mes-comptes-voici-combien-j-ai-economise-en-traquant-mes-abonnements-fantome-139-n236530.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-10-03T15:33:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dates et texte en SQL : strftime, julianday, concaténation et fonctions de chaînes",
-      "description": "Huitième épisode de la Formation SQL Bitdyne. Les données réelles sont pleines de dates et de texte. On apprend à extraire ...",
-      "url": "https://www.youtube.com/watch?v=1N8MS9tnkNQ",
-      "source": "Bitdyne",
-      "publishedAt": "2026-09-08T15:26:45Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1N8MS9tnkNQ",
-      "thumbnail": "https://i.ytimg.com/vi/1N8MS9tnkNQ/hqdefault.jpg"
     },
     {
       "title": "Programmation Transact-SQL (T-SQL) avec SQL Server 2025",
@@ -158,6 +158,42 @@
       "thumbnail": "https://i.ytimg.com/vi/7SV9kNRvdmU/hqdefault.jpg"
     },
     {
+      "title": "SIBIONICS et PharmaSens explorent de nouvelles perspectives pour l'administration automatisée d'insuline lors du congrès de l'EASD 2026",
+      "description": "MILAN, 5 octobre 2026 /PRNewswire/ -- Lors du congrès 2026 de l'Association européenne pour l'étude du diabète (EASD), SiBionics a présenté « See More, Act Earlier » (Voir plus : agir plus tôt), qui é...",
+      "url": "https://www.prnewswire.com/news-releases/sibionics-et-pharmasens-explorent-de-nouvelles-perspectives-pour-ladministration-automatisee-dinsuline-lors-du-congres-de-leasd-2026-302897845.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-05T00:47:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Pourquoi le goût est une expérience sensorielle au cœur de notre santé physique, de notre bien-être et de notre vie sociale",
+      "description": "Des recherches menées dans des situations où le goût est altéré, notamment chez des sujets âgés ou traités pour un cancer, mettent au jour les liens entre alimentation, bien-être et vie sociale.",
+      "url": "https://theconversation.com/pourquoi-le-gout-est-une-experience-sensorielle-au-coeur-de-notre-sante-physique-de-notre-bien-etre-et-de-notre-vie-sociale-293036",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-10-05T12:22:33Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Un nouveau rapport de recherche mondial d'Habitat for Humanity révèle que trois personnes sur quatre font l'impasse sur des produits de première nécessité pour pouvoir se loger.",
+      "description": "ATLANTA, 5 octobre 2026 /PRNewswire/ -- Selon un rapport de recherche mondial publié aujourd'hui par Habitat for Humanity International, le coût du logement oblige des millions de personnes à travers ...",
+      "url": "https://www.prnewswire.com/news-releases/un-nouveau-rapport-de-recherche-mondial-dhabitat-for-humanity-revele-que-trois-personnes-sur-quatre-font-limpasse-sur-des-produits-de-premiere-necessite-pour-pouvoir-se-loger-302898428.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-05T13:08:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Comprendre l&#39;informatique #10 — Les bases de données et SQL",
       "description": "Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...",
       "url": "https://www.youtube.com/watch?v=Ne5LQuLVmfE",
@@ -182,11 +218,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Actualité : De 56k.rip aux cimetières du web, Internet ressuscite inlassablement ses fantômes sur fond de nostalgie ambiante",
-      "description": "Une vague de nostalgie sans précédent déferle sur le monde depuis plusieurs années. Des cartes aux jeux, en passant par les VHS, baskets et tout ce qui pouvait s'acheter il y a quelques décennies, les...",
-      "url": "https://www.lesnumeriques.com/appli-logiciel/de-56k-rip-aux-cimetieres-du-web-internet-ressuscite-inlassablement-ses-fantomes-sur-fond-de-nostalgie-ambiante-n262585.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-10-04T13:49:00Z",
+      "title": "Quels sont les meilleurs smartphones \"grand écran\" pour les pros en 2026 ?",
+      "description": "La surface d'affichage est devenue le critère numéro un pour la productivité en mobilité. Lecture de contrats, analyse de tableaux de bord complexes, dataviz ou multitâche intensif : voici notre sélec...",
+      "url": "https://www.zdnet.fr/selection-expert-zdnet-france/quels-sont-les-meilleurs-smartphones-grand-ecran-pour-les-pros-en-2026-505141.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-10-05T06:10:25Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -194,11 +230,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Kéfir, kombucha, kimchi : ce que votre microbiote apprécie vraiment parmi ces aliments fermentés",
-      "description": "Les boissons et les aliments fermentés, comme le kéfir, le kombucha et le kimchi, ont tout pour séduire les amateurs de santé au naturel. Riches en microorganismes, ils sont régulièrement présentés co...",
-      "url": "https://www.futura-sciences.com/sciences/actualites/fete-science-kefir-kombucha-kimchi-ce-votre-microbiote-apprecie-vraiment-parmi-ces-aliments-fermentes-138212/",
-      "source": "Futura",
-      "publishedAt": "2026-10-04T04:27:58Z",
+      "title": "ZDNET Morning 05/10/2026 : L'IA Gen surcharge les collaborateurs français, Shadow IT et fuites de données, Cession de 400 brevets de Sony XR",
+      "description": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
+      "url": "https://www.zdnet.fr/actualites/zdnet-morning-05-10-2026-lia-gen-surcharge-les-collaborateurs-francais-shadow-it-et-fuites-de-donnees-cession-de-400-brevets-de-sony-xr-505090.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-10-05T07:09:34Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,47 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Actualité : Combien d’électricité consomme vraiment une journée passée à discuter avec une IA ?",
-      "description": "L’un des principaux reproches faits à l’IA est sa consommation en électricité. Pour vous faire une idée de ce que cela représente concrètement au quotidien, voici quelques chiffres.",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/combien-d-electricite-consomme-vraiment-une-journee-passee-a-discuter-avec-une-ia-n262668.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-10-04T15:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Introduction | SQL - EP1",
-      "description": "Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...",
-      "url": "https://www.youtube.com/watch?v=QXaOjeucWgI",
-      "source": "EvoluNoob",
-      "publishedAt": "2026-08-28T18:00:00Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "QXaOjeucWgI",
-      "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
-    },
-    {
-      "title": "Devenir actuaire : quel parcours pour l’un des métiers les mieux rémunérés de l’assurance ?",
-      "description": "Les compagnies d’assurance recherchent ces spécialistes capables d’anticiper les risques. Mais devenir actuaire suppose de suivre un parcours bien précis",
-      "url": "https://www.20minutes.fr/vie-pro/4250928-20261003-devenir-actuaire-parcours-metiers-mieux-remuneres-assurance",
-      "source": "20 Minutes",
-      "publishedAt": "2026-10-03T11:02:37Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L’IA redessine les métiers de la communication, du marketing et des médias en Afrique – Comms & Marketing Africa",
-      "description": "De la création de contenus au journalisme, en passant par le marketing et la formation, l’intelligence artificielle transforme progressivement les pratiques…",
-      "url": "https://commsmarketingafrica.com/lia-redessine-les-metiers-de-la-communication-du-marketing-et-des-medias-en-afrique/",
-      "source": "Commsmarketingafrica.com",
-      "publishedAt": "2026-10-04T11:45:15Z",
+      "title": "Sans Siri AI en Europe, faut-il craindre qu’Apple ne lance plus ses nouveautés chez nous ?",
+      "description": "Selon Bloomberg, la situation de Siri AI en Europe ne serait pas sur le point de s'améliorer. Pire, Apple utiliserait son intelligence artificielle comme un moyen de pression sur la Commission europée...",
+      "url": "https://www.numerama.com/tech/2346319-sans-siri-ai-en-europe-faut-il-craindre-quapple-ne-lance-plus-ses-nouveautes-chez-nous.html",
+      "source": "Numerama",
+      "publishedAt": "2026-10-05T10:35:42Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Etats-Unis : Donald Trump place l’IA sous la houlette du renseignement américain, sans régulation contraignante",
-      "description": "Donald Trump a officiellement nommé dimanche Jay Clayton, chef du renseignement américain, à la tête d’un groupe de travail sur l’intelligence artificielle (IA), avec une priorité mise à la coordinati...",
-      "url": "https://www.20minutes.fr/monde/etats-unis/4251159-20261004-etats-unis-donald-trump-place-ia-sous-houlette-renseignement-americain-regulation-contraignante",
-      "source": "20 Minutes",
-      "publishedAt": "2026-10-04T14:57:28Z",
+      "title": "Arxiv en danger : la recherche scientifique noyée sous les articles générés par intelligence artificielle",
+      "description": "La plateforme de prépublication scientifique tire une nouvelle fois la sonnette d'alarme. Face à une marée de contenu de faible valeur, souvent généré artificiellement, ArXiv est contrainte de barrica...",
+      "url": "https://www.generation-nt.com/actualites/arxiv-recherche-scientifique-slop-invasion-2082238",
+      "source": "Génération NT",
+      "publishedAt": "2026-10-05T11:25:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,23 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Comprendre les RAG – De la Théorie au Code en 1H",
-      "description": "Dans cette vidéo, on va parler de RAG, pour Retrieval-Augmented Generation, et voir comment donner à un LLM accès à des ...",
-      "url": "https://www.youtube.com/watch?v=jM3lgl2SsY8",
-      "source": "obarrene",
-      "publishedAt": "2026-08-13T18:24:09Z",
-      "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "jM3lgl2SsY8",
-      "thumbnail": "https://i.ytimg.com/vi/jM3lgl2SsY8/hqdefault.jpg"
-    },
-    {
-      "title": "Une IA pour retrouver les œuvres d’art volées par les nazis",
-      "description": "Retrouver une œuvre spoliée pendant la Seconde Guerre mondiale relève souvent de l’enquête au long cours. Des chercheurs américains testent une IA pour aider les familles, les musées et les spécialist...",
-      "url": "https://www.journaldugeek.com/2026/10/04/une-ia-pour-retrouver-les-oeuvres-volees-par-les-nazis/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-10-04T15:05:12Z",
+      "title": "RemoveMacAI libère plusieurs gigaoctets sur Mac en supprimant les modèles d’Apple Intelligence",
+      "description": "Les utilisateurs de Mac qui n’utilisent pas Apple Intelligence disposent désormais d’une solution pour récupérer l’espace occupé par ses modèles locaux. Baptisé RemoveMacAI, cet…\nLire la suite…\nFacebo...",
+      "url": "https://iphoneaddict.fr/post/news-436765-removemacai-libere-plusieurs-gigaoctets-mac-supprimant-modeles-dapple-intelligence",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-10-05T12:10:32Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +278,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Et maintenant, des logiciels pour \"humaniser\" les textes écrits par l’IA",
-      "description": "Difficile, de nos jours, de savoir si un texte a été écrit par un humain ou par une IA. Cela ne va pas s’arranger avec le développement de logiciels d’écriture \"humanisante\" ! (Un rendez-vous en parte...",
-      "url": "https://www.franceinfo.fr/replay-radio/nouveau-monde/et-maintenant-des-logiciels-pour-humaniser-les-textes-ecrits-par-l-ia_8179232.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-10-04T15:00:01Z",
+      "title": "ACTO est désigné Luminary dans le rapport Innovation Watch: Agentic AI in Life Sciences Commercial 2026 d'Everest Group",
+      "description": "Cette distinction met en avant les SuperAgents spécialisés par rôle développés par ACTO, son orchestration multiplateforme et son approche axée sur les sciences de la vie en matière d'IA agentique rég...",
+      "url": "https://www.prnewswire.com/news-releases/acto-est-designe-luminary-dans-le-rapport-innovation-watch-agentic-ai-in-life-sciences-commercial-2026-deverest-group-302897789.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-05T12:30:00Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Paris capitale européenne de l’IA devant Londres selon un classement… britannique",
+      "description": "0,19 point, c'est l'avance qui placerait Paris devant Londres au classement mondial des villes de l'IA. Un écart si mince qu'il tient davantage de l'épaisseur du trait que d'une victoire. Soutien publ...",
+      "url": "https://atlantico.fr/article/decryptage/paris-capitale-europeenne-de-lia-devant-londres-selon-un-classement-britannique-julien-pillot",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-10-05T07:17:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
