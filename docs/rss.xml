@@ -5,13 +5,21 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 07 Oct 2026 15:21:33 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 15:24:08 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>Les Bases de ChatGPT : Le Cours Complet pour Débutants (Maîtrisez l&amp;#39;IA en 2026)</title>
+            <link>https://www.youtube.com/watch?v=HfAjOJIMLOo</link>
+            <description><![CDATA[Vous débutez avec ChatGPT et l'intelligence artificielle ? Cette formation est faite pour vous ! Dans ce cours complet, vous allez ...]]></description>
+            <pubDate>Sun, 16 Aug 2026 10:00:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=HfAjOJIMLOo</guid>
+            <source>Cynthia Kibangou</source>
+        </item>
         <item>
             <title>🎙️ CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENTE</title>
             <link>https://www.youtube.com/watch?v=i2gk_Oknibg</link>
@@ -27,6 +35,14 @@
             <pubDate>Thu, 10 Sep 2026 23:53:20 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=nNo2tnuYXDo</guid>
             <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>Le prochain ChatGPT : une mystérieuse IA d’OpenAI vient de revendiquer 722 percées en mathématiques</title>
+            <link>https://www.journaldugeek.com/2026/10/07/le-prochain-chatgpt-une-mysterieuse-ia-dopenai-vient-de-revendiquer-722-percees-en-mathematiques/</link>
+            <description><![CDATA[OpenAI teste les compétences de ses nouvelles IA sur des problèmes mathématiques ouverts et vient de publier un lot de 722 manuscrits sur GitHub. Les “preuves” décrites dans ces manuscrits ont été gén...]]></description>
+            <pubDate>Wed, 07 Oct 2026 13:31:35 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldugeek.com/2026/10/07/le-prochain-chatgpt-une-mysterieuse-ia-dopenai-vient-de-revendiquer-722-percees-en-mathematiques/</guid>
+            <source>Journal du geek</source>
         </item>
         <item>
             <title>Explorer et préparer ses données avec pandas (data science)</title>
@@ -53,14 +69,6 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>L'IA d'entreprise : le deuxième chapitre de l'intelligence artificielle se joue dans le contexte opérationnel</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1555733-l-ia-d-entreprise-le-deuxieme-chapitre-de-l-intelligence-artificielle-se-joue-dans-le-contexte-operationnel/</link>
-            <description><![CDATA[L'IA entre dans une nouvelle phase : au-delà des expérimentations, l'enjeu est désormais de l'intégrer aux processus métier pour transformer son potentiel en valeur concrète, mesurable et durable.]]></description>
-            <pubDate>Mon, 05 Oct 2026 06:48:17 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1555733-l-ia-d-entreprise-le-deuxieme-chapitre-de-l-intelligence-artificielle-se-joue-dans-le-contexte-operationnel/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
             <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
             <link>https://www.youtube.com/watch?v=NdS8xLrZd_k</link>
             <description><![CDATA[Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...]]></description>
@@ -83,14 +91,6 @@
             <pubDate>Mon, 07 Sep 2026 11:00:18 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=jp6vn3Hp_zc</guid>
             <source>IA Futura</source>
-        </item>
-        <item>
-            <title>Dates et texte en SQL : strftime, julianday, concaténation et fonctions de chaînes</title>
-            <link>https://www.youtube.com/watch?v=1N8MS9tnkNQ</link>
-            <description><![CDATA[Huitième épisode de la Formation SQL Bitdyne. Les données réelles sont pleines de dates et de texte. On apprend à extraire ...]]></description>
-            <pubDate>Tue, 08 Sep 2026 15:26:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1N8MS9tnkNQ</guid>
-            <source>Bitdyne</source>
         </item>
         <item>
             <title>Programmation Transact-SQL (T-SQL) avec SQL Server 2025</title>
@@ -117,28 +117,12 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>On a essayé Gundam Rogue Orbit, le début du renouveau pour la licence culte</title>
-            <link>https://www.gameblog.fr/jeu-video/ed/articles/gundam-rogue-orbit-preview-ps5-724409</link>
-            <description><![CDATA[Que les fans de Mobile Suit Gundam se tiennent prêts à monter à bord de leur mecha, car une nouvelle guerre spatiale s’annonce en 2027. Dans les garages de Bandai Namco, une aventure inédite se prépar...]]></description>
-            <pubDate>Tue, 06 Oct 2026 14:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.gameblog.fr/jeu-video/ed/articles/gundam-rogue-orbit-preview-ps5-724409</guid>
-            <source>Gameblog</source>
-        </item>
-        <item>
-            <title>ROVENSA NEXT PLACE LES VRAIS DÉFIS DES AGRICULTEURS AU CŒUR DE SA PROCHAINE ÉTAPE DU PROGRAMME « BIOSOLUTIONIZE AGRICULTURE »</title>
-            <link>https://www.prnewswire.com/news-releases/rovensa-next-place-les-vrais-defis-des-agriculteurs-au-cur-de-sa-prochaine-etape-du-programme--biosolutionize-agriculture--302899864.html</link>
-            <description><![CDATA[AU SALON FRUIT ATTRACTION 2026 Cette approche marque le passage à un modèle davantage axé sur le client et de type consultatif, qui met en adéquation les besoins des agriculteurs avec l'expertise agro...]]></description>
-            <pubDate>Tue, 06 Oct 2026 13:40:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.prnewswire.com/news-releases/rovensa-next-place-les-vrais-defis-des-agriculteurs-au-cur-de-sa-prochaine-etape-du-programme--biosolutionize-agriculture--302899864.html</guid>
-            <source>PRNewswire</source>
-        </item>
-        <item>
-            <title>L’un des meilleurs moteurs graphiques de jeux vidéo va bientôt être boosté à l’IA</title>
-            <link>https://www.journaldugeek.com/2026/10/06/lun-des-meilleurs-moteurs-graphiques-de-jeux-video-va-bientot-etre-booste-a-lia/</link>
-            <description><![CDATA[Capcom va bientôt booster son moteur graphique, le RE Engine, avec des technologies IA pour le rendre les jeux encore plus beaux !]]></description>
-            <pubDate>Tue, 06 Oct 2026 14:41:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/10/06/lun-des-meilleurs-moteurs-graphiques-de-jeux-video-va-bientot-etre-booste-a-lia/</guid>
-            <source>Journal du geek</source>
+            <title>Menace pour l’Europe ou formidable levier ? Après trente ans en Chine, Sandrine Zerbib décrypte les forces des entreprises chinoises et leurs ambitions</title>
+            <link>https://www.challenges.fr/monde/menace-pour-leurope-ou-formidable-levier-apres-trente-ans-en-chine-sandrine-zerbib-decrypte-les-forces-des-entreprises-chinoises-et-leurs-ambitions_646229</link>
+            <description><![CDATA[PODCAST - Restée trente ans en Chine, Sandrine Zerbib y a vu ses certitudes démenties par les entreprises locales. Dans son second livre, elle plaide pour que l’Europe cesse de la caricaturer et s’en ...]]></description>
+            <pubDate>Wed, 07 Oct 2026 15:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.challenges.fr/monde/menace-pour-leurope-ou-formidable-levier-apres-trente-ans-en-chine-sandrine-zerbib-decrypte-les-forces-des-entreprises-chinoises-et-leurs-ambitions_646229</guid>
+            <source>Challenges</source>
         </item>
         <item>
             <title>Comprendre l&amp;#39;informatique #10 — Les bases de données et SQL</title>
@@ -149,28 +133,44 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>Une prochaine mise à jour massive chez Google ? Les signes annonciateurs</title>
-            <link>https://www.abondance.com/20261006-2992597-prochaine-mise-a-jour-massive-google-signaux.html</link>
-            <description><![CDATA[Ce qu'il faut retenir : Le 1er octobre 2026, Google a réécrit sa documentation sur les contenus générés par IA : leur vérification humaine avant publication devient « critique », y compris pour les ba...]]></description>
-            <pubDate>Tue, 06 Oct 2026 12:21:35 -0000</pubDate>
-            <guid isPermaLink="true">https://www.abondance.com/20261006-2992597-prochaine-mise-a-jour-massive-google-signaux.html</guid>
-            <source>Abondance.com</source>
+            <title>Les premiers animaux seraient apparus beaucoup plus tôt, dans un monde presque inhabitable : une surprise qui change le scénario</title>
+            <link>https://www.futura-sciences.com/planete/actualites/animaux-premiers-animaux-seraient-apparus-beaucoup-plus-tot-monde-presque-inhabitable-surprise-change-scenario-138293/</link>
+            <description><![CDATA[Les premiers fossiles d’animaux remontent à environ 574 millions d’années. Pourtant, la vie animale pourrait être bien plus ancienne. Une nouvelle étude remonte le fil de leur histoire jusqu’à une épo...]]></description>
+            <pubDate>Tue, 06 Oct 2026 18:08:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/planete/actualites/animaux-premiers-animaux-seraient-apparus-beaucoup-plus-tot-monde-presque-inhabitable-surprise-change-scenario-138293/</guid>
+            <source>Futura</source>
         </item>
         <item>
-            <title>“Combien d’autres encore ?” À l’université Cornell, une semaine de manifestations contre la culture du viol</title>
-            <link>https://www.courrierinternational.com/article/reportage-a-l-universite-cornell-une-semaine-de-manifestations-pour-denoncer-la-culture-du-viol_276387</link>
-            <description><![CDATA[Rassemblements, rencontres, sit-in… En colère contre la gestion par la direction de leur université de l’affaire du viol en réunion d’une étudiante en 2024, les élèves de la prestigieuse université Co...]]></description>
-            <pubDate>Tue, 06 Oct 2026 15:00:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.courrierinternational.com/article/reportage-a-l-universite-cornell-une-semaine-de-manifestations-pour-denoncer-la-culture-du-viol_276387</guid>
-            <source>Courrier International</source>
+            <title>Votre CRM peut travailler la nuit : cinq agents IA pour l'agence immobilière après le 11 août</title>
+            <link>https://www.journaldunet.com/economie/immobilier/1555763-votre-crm-peut-travailler-la-nuit-cinq-agents-ia-pour-l-agence-immobiliere-apres-le-11-aout/</link>
+            <description><![CDATA[Depuis le 11 août 2026, une agence immobilière ne peut plus démarcher un particulier par téléphone sans son accord préalable. Appeler un vendeur repéré sur une annonce, sans qu'il ait donné cet accord]]></description>
+            <pubDate>Wed, 07 Oct 2026 08:18:28 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/economie/immobilier/1555763-votre-crm-peut-travailler-la-nuit-cinq-agents-ia-pour-l-agence-immobiliere-apres-le-11-aout/</guid>
+            <source>JDN</source>
         </item>
         <item>
-            <title>Les taux de cancer augmentent plus vite chez les personnes de moins de 50 ans</title>
-            <link>https://www.courrierinternational.com/article/sante-les-taux-de-cancer-augmentent-plus-vite-chez-les-personnes-de-moins-de-50-ans_276385</link>
-            <description><![CDATA[Même s’il est encore difficile d’en établir les causes exactes, les diagnostics précoces de plusieurs types de cancers ont plus que doublé en vingt ans, selon une analyse qui s’est penchée sur les don...]]></description>
-            <pubDate>Tue, 06 Oct 2026 13:49:35 -0000</pubDate>
-            <guid isPermaLink="true">https://www.courrierinternational.com/article/sante-les-taux-de-cancer-augmentent-plus-vite-chez-les-personnes-de-moins-de-50-ans_276385</guid>
-            <source>Courrier International</source>
+            <title>Test Garmin Cirqa : le savoir-faire du spécialiste du sport dans un bracelet sans écran</title>
+            <link>https://www.lesnumeriques.com/capteur-activite/garmin-cirqa-p78594/test.html</link>
+            <description><![CDATA[Garmin se lance avec son Cirqa dans le très jeune marché des bracelets connectés sans écran. Un dispositif pensé pour satisfaire des utilisateurs en quête de données et de discrétion.]]></description>
+            <pubDate>Wed, 07 Oct 2026 10:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/capteur-activite/garmin-cirqa-p78594/test.html</guid>
+            <source>Les Numériques</source>
+        </item>
+        <item>
+            <title>Apple mesure votre longévité : le métier des clubs va changer - Fitness Challenges</title>
+            <link>https://fitness-challenges.com/apple-mesure-votre-longevite-le-metier-des-clubs-va-changer/</link>
+            <description><![CDATA[Apple Health, Bio-âge, biomarqueurs : quand la tech envahit la longévité, les clubs de fitness doivent repenser leur rôle. Analyse pour les pros du secteur.]]></description>
+            <pubDate>Wed, 07 Oct 2026 13:40:38 -0000</pubDate>
+            <guid isPermaLink="true">https://fitness-challenges.com/apple-mesure-votre-longevite-le-metier-des-clubs-va-changer/</guid>
+            <source>Fitness-challenges.com</source>
+        </item>
+        <item>
+            <title>Silver économie : le « bien vieillir », un marché comme les autres ?</title>
+            <link>https://theconversation.com/silver-economie-le-bien-vieillir-un-marche-comme-les-autres-292545</link>
+            <description><![CDATA[Reconnue par l’État, la silver économie va aujourd’hui bien au-delà des gérontotechnologies. Mais les jeunes retraités se laisseront-ils séduire par ces offres ?]]></description>
+            <pubDate>Wed, 07 Oct 2026 14:51:52 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/silver-economie-le-bien-vieillir-un-marche-comme-les-autres-292545</guid>
+            <source>The Conversation Africa</source>
         </item>
     </channel>
 </rss>
