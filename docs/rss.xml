@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 08 Oct 2026 15:24:08 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 15:06:54 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Les Bases de ChatGPT : Le Cours Complet pour Débutants (Maîtrisez l&amp;#39;IA en 2026)</title>
-            <link>https://www.youtube.com/watch?v=HfAjOJIMLOo</link>
-            <description><![CDATA[Vous débutez avec ChatGPT et l'intelligence artificielle ? Cette formation est faite pour vous ! Dans ce cours complet, vous allez ...]]></description>
-            <pubDate>Sun, 16 Aug 2026 10:00:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=HfAjOJIMLOo</guid>
-            <source>Cynthia Kibangou</source>
-        </item>
         <item>
             <title>🎙️ CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENTE</title>
             <link>https://www.youtube.com/watch?v=i2gk_Oknibg</link>
@@ -35,14 +27,6 @@
             <pubDate>Thu, 10 Sep 2026 23:53:20 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=nNo2tnuYXDo</guid>
             <source>Bitdyne</source>
-        </item>
-        <item>
-            <title>Le prochain ChatGPT : une mystérieuse IA d’OpenAI vient de revendiquer 722 percées en mathématiques</title>
-            <link>https://www.journaldugeek.com/2026/10/07/le-prochain-chatgpt-une-mysterieuse-ia-dopenai-vient-de-revendiquer-722-percees-en-mathematiques/</link>
-            <description><![CDATA[OpenAI teste les compétences de ses nouvelles IA sur des problèmes mathématiques ouverts et vient de publier un lot de 722 manuscrits sur GitHub. Les “preuves” décrites dans ces manuscrits ont été gén...]]></description>
-            <pubDate>Wed, 07 Oct 2026 13:31:35 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldugeek.com/2026/10/07/le-prochain-chatgpt-une-mysterieuse-ia-dopenai-vient-de-revendiquer-722-percees-en-mathematiques/</guid>
-            <source>Journal du geek</source>
         </item>
         <item>
             <title>Explorer et préparer ses données avec pandas (data science)</title>
@@ -69,6 +53,14 @@
             <source>Bitdyne</source>
         </item>
         <item>
+            <title>Comment transformer une idée en vidéo avec l’IA</title>
+            <link>https://www.youtube.com/watch?v=ptrkCaPCAG4</link>
+            <description><![CDATA[Comment transformer une idée en vidéo avec l'IA ? Voici un exemple de vidéo courte générée par IA : un jardinier original dans ...]]></description>
+            <pubDate>Wed, 07 Oct 2026 16:00:04 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ptrkCaPCAG4</guid>
+            <source>FRΞUDIX AI</source>
+        </item>
+        <item>
             <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
             <link>https://www.youtube.com/watch?v=NdS8xLrZd_k</link>
             <description><![CDATA[Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...]]></description>
@@ -91,6 +83,14 @@
             <pubDate>Mon, 07 Sep 2026 11:00:18 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=jp6vn3Hp_zc</guid>
             <source>IA Futura</source>
+        </item>
+        <item>
+            <title>FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL</title>
+            <link>https://www.youtube.com/watch?v=Lp9R5PlZeRg</link>
+            <description><![CDATA[FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...]]></description>
+            <pubDate>Mon, 10 Aug 2026 22:57:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Lp9R5PlZeRg</guid>
+            <source>Ceemtic Analytics</source>
         </item>
         <item>
             <title>Programmation Transact-SQL (T-SQL) avec SQL Server 2025</title>
@@ -117,12 +117,12 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Menace pour l’Europe ou formidable levier ? Après trente ans en Chine, Sandrine Zerbib décrypte les forces des entreprises chinoises et leurs ambitions</title>
-            <link>https://www.challenges.fr/monde/menace-pour-leurope-ou-formidable-levier-apres-trente-ans-en-chine-sandrine-zerbib-decrypte-les-forces-des-entreprises-chinoises-et-leurs-ambitions_646229</link>
-            <description><![CDATA[PODCAST - Restée trente ans en Chine, Sandrine Zerbib y a vu ses certitudes démenties par les entreprises locales. Dans son second livre, elle plaide pour que l’Europe cesse de la caricaturer et s’en ...]]></description>
-            <pubDate>Wed, 07 Oct 2026 15:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.challenges.fr/monde/menace-pour-leurope-ou-formidable-levier-apres-trente-ans-en-chine-sandrine-zerbib-decrypte-les-forces-des-entreprises-chinoises-et-leurs-ambitions_646229</guid>
-            <source>Challenges</source>
+            <title>Cette plateforme de jeux générés par IA attire déjà 10 millions de joueuses et de joueurs chaque mois</title>
+            <link>https://www.numerama.com/pop-culture/2349049-cette-plateforme-de-jeux-generes-par-ia-attire-deja-10-millions-de-joueuses-et-de-joueurs-chaque-mois.html</link>
+            <description><![CDATA[À l’heure où il est possible de trouver de très nombreux jeux indé vendus pour une bouchée de pain, sur console, PC comme sur mobile, on se demande bien qui a envie de jouer à des jeux générés entière...]]></description>
+            <pubDate>Thu, 08 Oct 2026 10:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.numerama.com/pop-culture/2349049-cette-plateforme-de-jeux-generes-par-ia-attire-deja-10-millions-de-joueuses-et-de-joueurs-chaque-mois.html</guid>
+            <source>Numerama</source>
         </item>
         <item>
             <title>Comprendre l&amp;#39;informatique #10 — Les bases de données et SQL</title>
@@ -133,44 +133,44 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>Les premiers animaux seraient apparus beaucoup plus tôt, dans un monde presque inhabitable : une surprise qui change le scénario</title>
-            <link>https://www.futura-sciences.com/planete/actualites/animaux-premiers-animaux-seraient-apparus-beaucoup-plus-tot-monde-presque-inhabitable-surprise-change-scenario-138293/</link>
-            <description><![CDATA[Les premiers fossiles d’animaux remontent à environ 574 millions d’années. Pourtant, la vie animale pourrait être bien plus ancienne. Une nouvelle étude remonte le fil de leur histoire jusqu’à une épo...]]></description>
-            <pubDate>Tue, 06 Oct 2026 18:08:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/planete/actualites/animaux-premiers-animaux-seraient-apparus-beaucoup-plus-tot-monde-presque-inhabitable-surprise-change-scenario-138293/</guid>
+            <title>INSERT, UPDATE, DELETE en SQL : modifier les données sans risque</title>
+            <link>https://www.youtube.com/watch?v=g3riJNZdIdU</link>
+            <description><![CDATA[Ajouter une commande, corriger un statut, supprimer une ligne erronée : ces gestes quotidiens sont aussi les plus dangereux ...]]></description>
+            <pubDate>Sun, 13 Sep 2026 03:05:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=g3riJNZdIdU</guid>
+            <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>« C'est incroyable ! » : la Nasa révèle les moments les plus spectaculaires d'Artemis II, de la Lune à leur retour hallucinant sur Terre</title>
+            <link>https://www.futura-sciences.com/sciences/actualites/artemis-ii-cest-incroyable-nasa-revele-moments-plus-spectaculaires-artemis-ii-lune-leur-retour-hallucinant-terre-138356/</link>
+            <description><![CDATA[Que se passe-t-il réellement à bord d’une capsule spatiale pendant qu’elle voyage autour de la Lune avant de revenir sur Terre ? La Nasa vient de publier les images, les voix et les notes d’Artemis II...]]></description>
+            <pubDate>Thu, 08 Oct 2026 15:03:24 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/artemis-ii-cest-incroyable-nasa-revele-moments-plus-spectaculaires-artemis-ii-lune-leur-retour-hallucinant-terre-138356/</guid>
             <source>Futura</source>
         </item>
         <item>
-            <title>Votre CRM peut travailler la nuit : cinq agents IA pour l'agence immobilière après le 11 août</title>
-            <link>https://www.journaldunet.com/economie/immobilier/1555763-votre-crm-peut-travailler-la-nuit-cinq-agents-ia-pour-l-agence-immobiliere-apres-le-11-aout/</link>
-            <description><![CDATA[Depuis le 11 août 2026, une agence immobilière ne peut plus démarcher un particulier par téléphone sans son accord préalable. Appeler un vendeur repéré sur une annonce, sans qu'il ait donné cet accord]]></description>
-            <pubDate>Wed, 07 Oct 2026 08:18:28 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/economie/immobilier/1555763-votre-crm-peut-travailler-la-nuit-cinq-agents-ia-pour-l-agence-immobiliere-apres-le-11-aout/</guid>
-            <source>JDN</source>
+            <title>Introduction | SQL - EP1</title>
+            <link>https://www.youtube.com/watch?v=QXaOjeucWgI</link>
+            <description><![CDATA[Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...]]></description>
+            <pubDate>Fri, 28 Aug 2026 18:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=QXaOjeucWgI</guid>
+            <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Test Garmin Cirqa : le savoir-faire du spécialiste du sport dans un bracelet sans écran</title>
-            <link>https://www.lesnumeriques.com/capteur-activite/garmin-cirqa-p78594/test.html</link>
-            <description><![CDATA[Garmin se lance avec son Cirqa dans le très jeune marché des bracelets connectés sans écran. Un dispositif pensé pour satisfaire des utilisateurs en quête de données et de discrétion.]]></description>
-            <pubDate>Wed, 07 Oct 2026 10:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/capteur-activite/garmin-cirqa-p78594/test.html</guid>
-            <source>Les Numériques</source>
+            <title>ZDNET Morning 08/10/2026 : Une batterie comestible, Une fonction sécurité inopérante sur TikTok, Débits minimums non garantis,...</title>
+            <link>https://www.zdnet.fr/actualites/zdnet-morning-08-10-2026-une-batterie-comestible-une-fonction-securite-inoperante-sur-tiktok-debits-minimums-non-garantis-505378.htm</link>
+            <description><![CDATA[Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.]]></description>
+            <pubDate>Thu, 08 Oct 2026 09:08:38 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/zdnet-morning-08-10-2026-une-batterie-comestible-une-fonction-securite-inoperante-sur-tiktok-debits-minimums-non-garantis-505378.htm</guid>
+            <source>ZDNet France</source>
         </item>
         <item>
-            <title>Apple mesure votre longévité : le métier des clubs va changer - Fitness Challenges</title>
-            <link>https://fitness-challenges.com/apple-mesure-votre-longevite-le-metier-des-clubs-va-changer/</link>
-            <description><![CDATA[Apple Health, Bio-âge, biomarqueurs : quand la tech envahit la longévité, les clubs de fitness doivent repenser leur rôle. Analyse pour les pros du secteur.]]></description>
-            <pubDate>Wed, 07 Oct 2026 13:40:38 -0000</pubDate>
-            <guid isPermaLink="true">https://fitness-challenges.com/apple-mesure-votre-longevite-le-metier-des-clubs-va-changer/</guid>
-            <source>Fitness-challenges.com</source>
-        </item>
-        <item>
-            <title>Silver économie : le « bien vieillir », un marché comme les autres ?</title>
-            <link>https://theconversation.com/silver-economie-le-bien-vieillir-un-marche-comme-les-autres-292545</link>
-            <description><![CDATA[Reconnue par l’État, la silver économie va aujourd’hui bien au-delà des gérontotechnologies. Mais les jeunes retraités se laisseront-ils séduire par ces offres ?]]></description>
-            <pubDate>Wed, 07 Oct 2026 14:51:52 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/silver-economie-le-bien-vieillir-un-marche-comme-les-autres-292545</guid>
-            <source>The Conversation Africa</source>
+            <title>La vidéo du jour. Blocus des lycées : ce morceau de 2015 tiré d'un court-métrage de Cyprien devient l'hymne du mouvement</title>
+            <link>https://www.ledauphine.com/insolite/2026/10/08/blocus-des-lycees-ce-morceau-de-2015-tire-d-un-court-metrage-de-cyprien-devient-l-hymne-du-mouvement</link>
+            <description><![CDATA[Extrait d'un court-métrage du youtubeur Cyprien publié en 2015, le morceau No Title accompagne, sur les réseaux sociaux et dans les cortèges, la mobilisation lycéenne menée par la Gen Z.]]></description>
+            <pubDate>Thu, 08 Oct 2026 15:05:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.ledauphine.com/insolite/2026/10/08/blocus-des-lycees-ce-morceau-de-2015-tire-d-un-court-metrage-de-cyprien-devient-l-hymne-du-mouvement</guid>
+            <source>Le Dauphiné Libéré</source>
         </item>
     </channel>
 </rss>
