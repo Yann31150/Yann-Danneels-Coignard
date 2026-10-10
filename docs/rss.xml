@@ -5,13 +5,21 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 09 Oct 2026 15:06:54 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 14:20:44 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>Les Bases de ChatGPT : Le Cours Complet pour Débutants (Maîtrisez l&amp;#39;IA en 2026)</title>
+            <link>https://www.youtube.com/watch?v=HfAjOJIMLOo</link>
+            <description><![CDATA[Vous débutez avec ChatGPT et l'intelligence artificielle ? Cette formation est faite pour vous ! Dans ce cours complet, vous allez ...]]></description>
+            <pubDate>Sun, 16 Aug 2026 10:00:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=HfAjOJIMLOo</guid>
+            <source>Cynthia Kibangou</source>
+        </item>
         <item>
             <title>🎙️ CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENTE</title>
             <link>https://www.youtube.com/watch?v=i2gk_Oknibg</link>
@@ -21,11 +29,19 @@
             <source>Skill Market</source>
         </item>
         <item>
+            <title>Formation Power BI #4 — Power Query : nettoyer et préparer les données</title>
+            <link>https://www.youtube.com/watch?v=bjUQ1UCEHVk</link>
+            <description><![CDATA[Des données brutes aux données prêtes : l'atelier où se gagne la fiabilité du rapport Formation Power BI par Bitdyne.]]></description>
+            <pubDate>Sat, 10 Oct 2026 12:15:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=bjUQ1UCEHVk</guid>
+            <source>Bitdyne</source>
+        </item>
+        <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
-            <link>https://www.youtube.com/watch?v=nNo2tnuYXDo</link>
+            <link>https://www.youtube.com/watch?v=WUzHvB7FICc</link>
             <description><![CDATA[Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.]]></description>
-            <pubDate>Thu, 10 Sep 2026 23:53:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=nNo2tnuYXDo</guid>
+            <pubDate>Sat, 10 Oct 2026 12:06:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=WUzHvB7FICc</guid>
             <source>Bitdyne</source>
         </item>
         <item>
@@ -37,28 +53,12 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>Formation Power BI #2 — Découvrir Power BI</title>
-            <link>https://www.youtube.com/watch?v=v_15NJJqkrw</link>
-            <description><![CDATA[L'écosystème et le flux de travail Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain. Cette version ...]]></description>
-            <pubDate>Thu, 10 Sep 2026 23:55:28 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=v_15NJJqkrw</guid>
-            <source>Bitdyne</source>
-        </item>
-        <item>
             <title>Formation Power BI #5 — Le modèle de données et le schéma en étoile</title>
-            <link>https://www.youtube.com/watch?v=_HMCrW-g-I4</link>
+            <link>https://www.youtube.com/watch?v=EpQJRHme6-w</link>
             <description><![CDATA[Faits, dimensions, relations : la charpente qui rend tous les calculs justes Formation Power BI par Bitdyne. Cas concrets ...]]></description>
-            <pubDate>Thu, 10 Sep 2026 23:59:23 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=_HMCrW-g-I4</guid>
+            <pubDate>Sat, 10 Oct 2026 12:18:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=EpQJRHme6-w</guid>
             <source>Bitdyne</source>
-        </item>
-        <item>
-            <title>Comment transformer une idée en vidéo avec l’IA</title>
-            <link>https://www.youtube.com/watch?v=ptrkCaPCAG4</link>
-            <description><![CDATA[Comment transformer une idée en vidéo avec l'IA ? Voici un exemple de vidéo courte générée par IA : un jardinier original dans ...]]></description>
-            <pubDate>Wed, 07 Oct 2026 16:00:04 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ptrkCaPCAG4</guid>
-            <source>FRΞUDIX AI</source>
         </item>
         <item>
             <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
@@ -69,14 +69,6 @@
             <source>contact omnicirelpc</source>
         </item>
         <item>
-            <title>Cours complet sur Power BI pour débutant</title>
-            <link>https://www.youtube.com/watch?v=uJeUP8Z9LsQ</link>
-            <description><![CDATA[Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...]]></description>
-            <pubDate>Tue, 25 Aug 2026 17:46:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=uJeUP8Z9LsQ</guid>
-            <source>Jeune Financier Africain </source>
-        </item>
-        <item>
             <title>Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10</title>
             <link>https://www.youtube.com/watch?v=jp6vn3Hp_zc</link>
             <description><![CDATA[COMPILATION — Chapitre 6/10 de la formation Data &amp; Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.]]></description>
@@ -85,12 +77,28 @@
             <source>IA Futura</source>
         </item>
         <item>
-            <title>FORMATION SQL COMPLÈTE 6H : Débutant → Avancé + Projet RH de A à Z | PostgreSQL</title>
-            <link>https://www.youtube.com/watch?v=Lp9R5PlZeRg</link>
-            <description><![CDATA[FORMATION SQL COMPLÈTE DE A À Z — 6 HEURES | DÉBUTANT À AVANCÉ + PROJET RH Vous souhaitez apprendre SQL ...]]></description>
-            <pubDate>Mon, 10 Aug 2026 22:57:33 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Lp9R5PlZeRg</guid>
-            <source>Ceemtic Analytics</source>
+            <title>Python &amp;amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python</title>
+            <link>https://www.youtube.com/watch?v=1o308cqkEXc</link>
+            <description><![CDATA[Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...]]></description>
+            <pubDate>Thu, 20 Aug 2026 23:58:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1o308cqkEXc</guid>
+            <source>Mausse Institut</source>
+        </item>
+        <item>
+            <title>Comprendre le Feature Engineering en Data Science (Guide Clair)</title>
+            <link>https://www.youtube.com/watch?v=DSYu-xKge_s</link>
+            <description><![CDATA[Découvrez ce qu'est le feature engineering et pourquoi il est crucial en data science et en machine learning. Nous vous ...]]></description>
+            <pubDate>Sun, 06 Sep 2026 18:07:53 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=DSYu-xKge_s</guid>
+            <source>Daniel Guedegbe</source>
+        </item>
+        <item>
+            <title>Formation Power BI #9 — Construire un tableau de bord</title>
+            <link>https://www.youtube.com/watch?v=kBEAADohMIw</link>
+            <description><![CDATA[Mise en page, filtres et récit : assembler le tableau de bord achats de bout en bout Formation Power BI par Bitdyne. Cas concrets ...]]></description>
+            <pubDate>Sat, 10 Oct 2026 12:30:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=kBEAADohMIw</guid>
+            <source>Bitdyne</source>
         </item>
         <item>
             <title>Programmation Transact-SQL (T-SQL) avec SQL Server 2025</title>
@@ -109,20 +117,28 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>Langage DAX : le cours complet de A à Z | Formation Power BI</title>
-            <link>https://www.youtube.com/watch?v=7SV9kNRvdmU</link>
-            <description><![CDATA[Dans cette vidéo, je propose un cours complet sur DAX, langage intégré à EXCEL &amp; Power BI, pour le calcul de colonnes ou de ...]]></description>
-            <pubDate>Mon, 10 Aug 2026 16:00:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=7SV9kNRvdmU</guid>
-            <source>Le Decodeur</source>
+            <title>Formation Power BI #8 — Créer des visuels efficaces</title>
+            <link>https://www.youtube.com/watch?v=vA_YmNopsHQ</link>
+            <description><![CDATA[Choisir le bon graphique, hiérarchiser l'information, éviter les pièges qui trompent l'œil Formation Power BI par Bitdyne.]]></description>
+            <pubDate>Sat, 10 Oct 2026 12:26:57 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=vA_YmNopsHQ</guid>
+            <source>Bitdyne</source>
         </item>
         <item>
-            <title>Cette plateforme de jeux générés par IA attire déjà 10 millions de joueuses et de joueurs chaque mois</title>
-            <link>https://www.numerama.com/pop-culture/2349049-cette-plateforme-de-jeux-generes-par-ia-attire-deja-10-millions-de-joueuses-et-de-joueurs-chaque-mois.html</link>
-            <description><![CDATA[À l’heure où il est possible de trouver de très nombreux jeux indé vendus pour une bouchée de pain, sur console, PC comme sur mobile, on se demande bien qui a envie de jouer à des jeux générés entière...]]></description>
-            <pubDate>Thu, 08 Oct 2026 10:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/pop-culture/2349049-cette-plateforme-de-jeux-generes-par-ia-attire-deja-10-millions-de-joueuses-et-de-joueurs-chaque-mois.html</guid>
-            <source>Numerama</source>
+            <title>Taxis G7 porte sur S3NS ses nouveaux usages de l’IA et des données</title>
+            <link>https://www.zdnet.fr/actualites/taxis-g7-porte-sur-s3ns-ses-nouveaux-usages-de-lia-et-des-donnees-505478.htm</link>
+            <description><![CDATA[Sans renoncer à ses datacenters, l’entreprise de transport G7 va chercher de la puissance de calcul et du traitement big data sur le cloud public de S3NS. Le cloud SecNumCloud doit en particulier hébe...]]></description>
+            <pubDate>Fri, 09 Oct 2026 08:10:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/taxis-g7-porte-sur-s3ns-ses-nouveaux-usages-de-lia-et-des-donnees-505478.htm</guid>
+            <source>ZDNet France</source>
+        </item>
+        <item>
+            <title>Le ROI de l'IA agentique se joue dans l'arbitrage local/cloud</title>
+            <link>https://www.journaldunet.com/retail/1555647-tech-for-retail-le-roi-de-l-ia-agentique-se-joue-dans-l-arbitrage-local-cloud/</link>
+            <description><![CDATA[L'IA agentique dans le retail impose une architecture hybride, combinant IA locale et cloud pour optimiser coûts, sécurité, souveraineté et performance.]]></description>
+            <pubDate>Fri, 09 Oct 2026 12:30:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/retail/1555647-tech-for-retail-le-roi-de-l-ia-agentique-se-joue-dans-l-arbitrage-local-cloud/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Comprendre l&amp;#39;informatique #10 — Les bases de données et SQL</title>
@@ -133,44 +149,28 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>INSERT, UPDATE, DELETE en SQL : modifier les données sans risque</title>
-            <link>https://www.youtube.com/watch?v=g3riJNZdIdU</link>
-            <description><![CDATA[Ajouter une commande, corriger un statut, supprimer une ligne erronée : ces gestes quotidiens sont aussi les plus dangereux ...]]></description>
-            <pubDate>Sun, 13 Sep 2026 03:05:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=g3riJNZdIdU</guid>
-            <source>Bitdyne</source>
+            <title>L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto</title>
+            <link>https://www.youtube.com/watch?v=ijEHTjsGNsE</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Wed, 23 Sep 2026 13:13:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ijEHTjsGNsE</guid>
+            <source>Le Decodeur</source>
         </item>
         <item>
-            <title>« C'est incroyable ! » : la Nasa révèle les moments les plus spectaculaires d'Artemis II, de la Lune à leur retour hallucinant sur Terre</title>
-            <link>https://www.futura-sciences.com/sciences/actualites/artemis-ii-cest-incroyable-nasa-revele-moments-plus-spectaculaires-artemis-ii-lune-leur-retour-hallucinant-terre-138356/</link>
-            <description><![CDATA[Que se passe-t-il réellement à bord d’une capsule spatiale pendant qu’elle voyage autour de la Lune avant de revenir sur Terre ? La Nasa vient de publier les images, les voix et les notes d’Artemis II...]]></description>
-            <pubDate>Thu, 08 Oct 2026 15:03:24 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/artemis-ii-cest-incroyable-nasa-revele-moments-plus-spectaculaires-artemis-ii-lune-leur-retour-hallucinant-terre-138356/</guid>
-            <source>Futura</source>
+            <title>Pesticides : « Effarés par ce texte »… Pourquoi des scientifiques veulent suspendre l’Omnibus X européen ?</title>
+            <link>https://www.20minutes.fr/planete/environnement/4252119-20261009-pesticides-effares-texte-pourquoi-scientifiques-veulent-suspendre-omnibus-x-europeen</link>
+            <description><![CDATA[Alors que des mobilisations citoyennes sont prévues de vendredi à dimanche, des spécialistes des impacts des pesticides sur la biodiversité ou la santé humaine alertent sur le paquet législatif europé...]]></description>
+            <pubDate>Fri, 09 Oct 2026 04:32:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.20minutes.fr/planete/environnement/4252119-20261009-pesticides-effares-texte-pourquoi-scientifiques-veulent-suspendre-omnibus-x-europeen</guid>
+            <source>20 Minutes</source>
         </item>
         <item>
-            <title>Introduction | SQL - EP1</title>
-            <link>https://www.youtube.com/watch?v=QXaOjeucWgI</link>
-            <description><![CDATA[Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...]]></description>
-            <pubDate>Fri, 28 Aug 2026 18:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=QXaOjeucWgI</guid>
-            <source>EvoluNoob</source>
-        </item>
-        <item>
-            <title>ZDNET Morning 08/10/2026 : Une batterie comestible, Une fonction sécurité inopérante sur TikTok, Débits minimums non garantis,...</title>
-            <link>https://www.zdnet.fr/actualites/zdnet-morning-08-10-2026-une-batterie-comestible-une-fonction-securite-inoperante-sur-tiktok-debits-minimums-non-garantis-505378.htm</link>
-            <description><![CDATA[Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.]]></description>
-            <pubDate>Thu, 08 Oct 2026 09:08:38 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/zdnet-morning-08-10-2026-une-batterie-comestible-une-fonction-securite-inoperante-sur-tiktok-debits-minimums-non-garantis-505378.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
-            <title>La vidéo du jour. Blocus des lycées : ce morceau de 2015 tiré d'un court-métrage de Cyprien devient l'hymne du mouvement</title>
-            <link>https://www.ledauphine.com/insolite/2026/10/08/blocus-des-lycees-ce-morceau-de-2015-tire-d-un-court-metrage-de-cyprien-devient-l-hymne-du-mouvement</link>
-            <description><![CDATA[Extrait d'un court-métrage du youtubeur Cyprien publié en 2015, le morceau No Title accompagne, sur les réseaux sociaux et dans les cortèges, la mobilisation lycéenne menée par la Gen Z.]]></description>
-            <pubDate>Thu, 08 Oct 2026 15:05:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.ledauphine.com/insolite/2026/10/08/blocus-des-lycees-ce-morceau-de-2015-tire-d-un-court-metrage-de-cyprien-devient-l-hymne-du-mouvement</guid>
-            <source>Le Dauphiné Libéré</source>
+            <title>Anthropic lance OSS Scanner pour sécuriser l'Open Source</title>
+            <link>https://www.generation-nt.com/actualites/anthropic-oss-scanner-ia-cybersecurite-open-source-2082542</link>
+            <description><![CDATA[OSS Scanner est un service gratuit qui utilise les modèles d'IA les plus puissants d'Anthropic pour scanner les projets open source à la recherche de vulnérabilités de sécurité.]]></description>
+            <pubDate>Fri, 09 Oct 2026 12:30:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/anthropic-oss-scanner-ia-cybersecurite-open-source-2082542</guid>
+            <source>Génération NT</source>
         </item>
     </channel>
 </rss>
