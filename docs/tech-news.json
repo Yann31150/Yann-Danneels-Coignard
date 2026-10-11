@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-10-10T14:20:44.526078",
+  "lastUpdate": "2026-10-11T14:47:08.478404",
   "articles": [
-    {
-      "title": "Les Bases de ChatGPT : Le Cours Complet pour Débutants (Maîtrisez l&#39;IA en 2026)",
-      "description": "Vous débutez avec ChatGPT et l'intelligence artificielle ? Cette formation est faite pour vous ! Dans ce cours complet, vous allez ...",
-      "url": "https://www.youtube.com/watch?v=HfAjOJIMLOo",
-      "source": "Cynthia Kibangou",
-      "publishedAt": "2026-08-16T10:00:08Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "HfAjOJIMLOo",
-      "thumbnail": "https://i.ytimg.com/vi/HfAjOJIMLOo/hqdefault.jpg"
-    },
     {
       "title": "🎙️ CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENTE",
       "description": "CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENT Et si vous pouviez simplement parler à ChatGPT ...",
@@ -86,6 +74,18 @@
       "thumbnail": "https://i.ytimg.com/vi/NdS8xLrZd_k/hqdefault.jpg"
     },
     {
+      "title": "Cours complet sur Power BI pour débutant",
+      "description": "Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...",
+      "url": "https://www.youtube.com/watch?v=uJeUP8Z9LsQ",
+      "source": "Jeune Financier Africain ",
+      "publishedAt": "2026-08-25T17:46:11Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "uJeUP8Z9LsQ",
+      "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
+    },
+    {
       "title": "Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10",
       "description": "COMPILATION — Chapitre 6/10 de la formation Data & Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.",
       "url": "https://www.youtube.com/watch?v=jp6vn3Hp_zc",
@@ -122,18 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/DSYu-xKge_s/hqdefault.jpg"
     },
     {
-      "title": "Formation Power BI #9 — Construire un tableau de bord",
-      "description": "Mise en page, filtres et récit : assembler le tableau de bord achats de bout en bout Formation Power BI par Bitdyne. Cas concrets ...",
-      "url": "https://www.youtube.com/watch?v=kBEAADohMIw",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-10T12:30:09Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "kBEAADohMIw",
-      "thumbnail": "https://i.ytimg.com/vi/kBEAADohMIw/hqdefault.jpg"
-    },
-    {
       "title": "Programmation Transact-SQL (T-SQL) avec SQL Server 2025",
       "description": "Dans cette série, apprenez la programmation Transact-SQL (T-SQL) avec SQL Server 2025. Découvrez comment écrire des ...",
       "url": "https://www.youtube.com/watch?v=mq9bcHMIooQ",
@@ -158,40 +146,28 @@
       "thumbnail": "https://i.ytimg.com/vi/cIfEIoT3MCc/hqdefault.jpg"
     },
     {
-      "title": "Formation Power BI #8 — Créer des visuels efficaces",
-      "description": "Choisir le bon graphique, hiérarchiser l'information, éviter les pièges qui trompent l'œil Formation Power BI par Bitdyne.",
-      "url": "https://www.youtube.com/watch?v=vA_YmNopsHQ",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-10T12:26:57Z",
+      "title": "SQL avec PostgreSQL : le cours complet (2 h 29, 34 chapitres, 99 exercices)",
+      "description": "Le cours complet de SQL avec PostgreSQL, de zéro au niveau professionnel : 34 chapitres et 99 exercices corrigés. Les bases ...",
+      "url": "https://www.youtube.com/watch?v=rpVy7sIM9BY",
+      "source": "lioncode",
+      "publishedAt": "2026-10-04T20:20:30Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "vA_YmNopsHQ",
-      "thumbnail": "https://i.ytimg.com/vi/vA_YmNopsHQ/hqdefault.jpg"
+      "videoId": "rpVy7sIM9BY",
+      "thumbnail": "https://i.ytimg.com/vi/rpVy7sIM9BY/hqdefault.jpg"
     },
     {
-      "title": "Taxis G7 porte sur S3NS ses nouveaux usages de l’IA et des données",
-      "description": "Sans renoncer à ses datacenters, l’entreprise de transport G7 va chercher de la puissance de calcul et du traitement big data sur le cloud public de S3NS. Le cloud SecNumCloud doit en particulier hébe...",
-      "url": "https://www.zdnet.fr/actualites/taxis-g7-porte-sur-s3ns-ses-nouveaux-usages-de-lia-et-des-donnees-505478.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-10-09T08:10:47Z",
+      "title": "Test de niveau Power BI : 30 questions pour se situer 🔥",
+      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
+      "url": "https://www.youtube.com/watch?v=31eK0Sk330A",
+      "source": "Morpheus Formation | Excel, Power BI, Data",
+      "publishedAt": "2026-08-27T07:27:34Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le ROI de l'IA agentique se joue dans l'arbitrage local/cloud",
-      "description": "L'IA agentique dans le retail impose une architecture hybride, combinant IA locale et cloud pour optimiser coûts, sécurité, souveraineté et performance.",
-      "url": "https://www.journaldunet.com/retail/1555647-tech-for-retail-le-roi-de-l-ia-agentique-se-joue-dans-l-arbitrage-local-cloud/",
-      "source": "JDN",
-      "publishedAt": "2026-10-09T12:30:06Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "31eK0Sk330A",
+      "thumbnail": "https://i.ytimg.com/vi/31eK0Sk330A/hqdefault.jpg"
     },
     {
       "title": "Comprendre l&#39;informatique #10 — Les bases de données et SQL",
@@ -206,35 +182,35 @@
       "thumbnail": "https://i.ytimg.com/vi/Ne5LQuLVmfE/hqdefault.jpg"
     },
     {
-      "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
+      "title": "La requête SQL à absolument connaître ! ✅ #sql #requete #data",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=ijEHTjsGNsE",
+      "url": "https://www.youtube.com/watch?v=jV9OwZyWxfs",
       "source": "Le Decodeur",
-      "publishedAt": "2026-09-23T13:13:13Z",
+      "publishedAt": "2026-09-11T15:28:39Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "ijEHTjsGNsE",
-      "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
+      "videoId": "jV9OwZyWxfs",
+      "thumbnail": "https://i.ytimg.com/vi/jV9OwZyWxfs/hqdefault.jpg"
     },
     {
-      "title": "Pesticides : « Effarés par ce texte »… Pourquoi des scientifiques veulent suspendre l’Omnibus X européen ?",
-      "description": "Alors que des mobilisations citoyennes sont prévues de vendredi à dimanche, des spécialistes des impacts des pesticides sur la biodiversité ou la santé humaine alertent sur le paquet législatif europé...",
-      "url": "https://www.20minutes.fr/planete/environnement/4252119-20261009-pesticides-effares-texte-pourquoi-scientifiques-veulent-suspendre-omnibus-x-europeen",
-      "source": "20 Minutes",
-      "publishedAt": "2026-10-09T04:32:36Z",
+      "title": "Introduction | SQL - EP1",
+      "description": "Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...",
+      "url": "https://www.youtube.com/watch?v=QXaOjeucWgI",
+      "source": "EvoluNoob",
+      "publishedAt": "2026-08-28T18:00:00Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "QXaOjeucWgI",
+      "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Anthropic lance OSS Scanner pour sécuriser l'Open Source",
-      "description": "OSS Scanner est un service gratuit qui utilise les modèles d'IA les plus puissants d'Anthropic pour scanner les projets open source à la recherche de vulnérabilités de sécurité.",
-      "url": "https://www.generation-nt.com/actualites/anthropic-oss-scanner-ia-cybersecurite-open-source-2082542",
+      "title": "La glace du pôle Nord de Mars est bien plus pure que prévu",
+      "description": "Une étude révèle que la calotte glaciaire du pôle Nord de Mars contient beaucoup moins de poussière qu'estimé. De nouvelles analyses évaluent la teneur en poussière à seulement 3 %.",
+      "url": "https://www.generation-nt.com/actualites/mars-glace-pole-nord-poussiere-climat-vie-2082277",
       "source": "Génération NT",
-      "publishedAt": "2026-10-09T12:30:01Z",
+      "publishedAt": "2026-10-10T06:10:01Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +218,23 @@
       "thumbnail": ""
     },
     {
-      "title": "Apple mise sur Huxe, la startup d’IA audio fondée par d’anciens créateurs de NotebookLM",
-      "description": "Apple renforce discrètement ses compétences dans l’intelligence artificielle avec Huxe, une startup spécialisée dans la génération de contenus audio personnalisés. Un document déposé auprès…\nLire la s...",
-      "url": "https://iphoneaddict.fr/post/news-437029-apple-mise-huxe-startup-dia-audio-fondee-danciens-createurs-notebooklm",
-      "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-10-09T10:30:26Z",
+      "title": "Comprendre les RAG – De la Théorie au Code en 1H",
+      "description": "Dans cette vidéo, on va parler de RAG, pour Retrieval-Augmented Generation, et voir comment donner à un LLM accès à des ...",
+      "url": "https://www.youtube.com/watch?v=jM3lgl2SsY8",
+      "source": "obarrene",
+      "publishedAt": "2026-08-13T18:24:09Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "jM3lgl2SsY8",
+      "thumbnail": "https://i.ytimg.com/vi/jM3lgl2SsY8/hqdefault.jpg"
+    },
+    {
+      "title": "Claude n’aime pas qu’on lui dise non, Anthropic révèle de nouveaux dérapages de ses IA",
+      "description": "Décidément, les agents IA ont parfois une conception assez personnelle des limites qu’on leur impose. Après les incidents révélés ces dernières semaines chez OpenAI, c’est au tour d’Anthropic de publi...",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/10/claude-naime-pas-quon-lui-dise-non-anthropic-revele-de-nouveaux-derapages-de-ses-ia-311561",
+      "source": "MacGeneration",
+      "publishedAt": "2026-10-10T11:30:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,23 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Apple s’offre un accès à la technologie de Huxe, spécialiste des podcasts générés par IA",
-      "description": "Apple continue de faire son petit marché de l'intelligence artificielle, et cela sans nécessairement racheter des entreprises entières. Cupertino a en effet conclu un accord avec Huxe, une start-up sp...",
-      "url": "https://www.igen.fr/services/2026/10/apple-soffre-un-acces-la-technologie-de-huxe-specialiste-des-podcasts-generes-par-ia-158565",
-      "source": "iGeneration",
-      "publishedAt": "2026-10-09T12:47:34Z",
-      "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Pourquoi Donald Trump rebaptise l'IA \"super intelligence\" et menace traiter en \"ennemi\" quiconque n’utilisera pas le terme",
-      "description": "Le président américain souhaite imposer le terme \"super intelligence\" (SI) au lieu du terme \"intelligence artificielle\" (IA). Jeudi, sur son réseau Truth Social, il a assuré qu'il traiterait en \"ennem...",
-      "url": "https://www.lexpress.fr/monde/amerique/pourquoi-donald-trump-rebaptise-lia-super-intelligence-HNEBJRWMOZEOZKYUVHRF3ZWRVI/",
-      "source": "L'Express",
-      "publishedAt": "2026-10-09T14:15:00Z",
+      "title": "Liens vagabonds : Médias, la Finlande vacille aussi",
+      "description": "Même dans un pays doté de l’une des plus solides traditions médiatiques d’Europe, le paysage se détériore. STT, parmi l’une des plus anciennes agences de presse encore en activité au monde, pourrait f...",
+      "url": "https://www.meta-media.fr/2026/10/10/liens-vagabonds-medias-la-finlande-vacille-aussi.html",
+      "source": "Meta-media.fr",
+      "publishedAt": "2026-10-10T13:12:28Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,28 +254,28 @@
       "thumbnail": ""
     },
     {
-      "title": "Claude en a assez de se faire insulter, Anthropic lui donne le droit de raccrocher",
-      "description": "Anthropic vient de mettre à jour la politique d’utilisation de son intelligence artificielle Claude. Les utilisateurs qui s’acharnent à insulter le modèle sans raison enfreindront désormais ses règles...",
-      "url": "https://www.phonandroid.com/claude-en-a-assez-de-se-faire-insulter-anthropic-lui-donne-le-droit-de-raccrocher.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-10-09T10:19:11Z",
+      "title": "Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)",
+      "description": "La plupart des gens utilisent Google Gemini de manière très simple et passent à côté de l'essentiel. Dans cette vidéo, je te ...",
+      "url": "https://www.youtube.com/watch?v=C1esYFoZXBE",
+      "source": "Elliott Pierret",
+      "publishedAt": "2026-08-30T16:01:32Z",
       "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "C1esYFoZXBE",
+      "thumbnail": "https://i.ytimg.com/vi/C1esYFoZXBE/hqdefault.jpg"
     },
     {
-      "title": "En Équateur, des alertes météo sur WhatsApp remplacent les systèmes de prévisions ancestraux",
-      "description": "Inquiets devant le super-El Niño, qui accentue les aléas climatiques, les paysans équatoriens peuvent compter sur des bulletins météo augmentés par intelligence artificielle pour mieux se préparer. Un...",
-      "url": "https://www.courrierinternational.com/article/agriculture-en-equateur-des-alertes-meteo-sur-whatsapp-remplacent-les-systemes-de-previsions-ancestraux_276939",
-      "source": "Courrier International",
-      "publishedAt": "2026-10-09T09:37:39Z",
+      "title": "1200€ Avec le Montage Vidéo I.A en 7 jours ! Tutoriel Complet",
+      "description": "Copie-Colle ma Méthode Pour Vivre de Youtube en 90 Jours ✓ ➜ https://ytbusinessvip.fr 🎙️ La chaîne Podcast ...",
+      "url": "https://www.youtube.com/watch?v=DrC-JZAmzec",
+      "source": "Hervé - YTBusiness",
+      "publishedAt": "2026-10-11T11:00:21Z",
       "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "DrC-JZAmzec",
+      "thumbnail": "https://i.ytimg.com/vi/DrC-JZAmzec/hqdefault.jpg"
     }
   ]
 }

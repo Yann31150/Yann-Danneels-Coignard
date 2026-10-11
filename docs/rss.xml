@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 10 Oct 2026 14:20:44 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 14:47:08 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Les Bases de ChatGPT : Le Cours Complet pour Débutants (Maîtrisez l&amp;#39;IA en 2026)</title>
-            <link>https://www.youtube.com/watch?v=HfAjOJIMLOo</link>
-            <description><![CDATA[Vous débutez avec ChatGPT et l'intelligence artificielle ? Cette formation est faite pour vous ! Dans ce cours complet, vous allez ...]]></description>
-            <pubDate>Sun, 16 Aug 2026 10:00:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=HfAjOJIMLOo</guid>
-            <source>Cynthia Kibangou</source>
-        </item>
         <item>
             <title>🎙️ CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENTE</title>
             <link>https://www.youtube.com/watch?v=i2gk_Oknibg</link>
@@ -69,6 +61,14 @@
             <source>contact omnicirelpc</source>
         </item>
         <item>
+            <title>Cours complet sur Power BI pour débutant</title>
+            <link>https://www.youtube.com/watch?v=uJeUP8Z9LsQ</link>
+            <description><![CDATA[Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...]]></description>
+            <pubDate>Tue, 25 Aug 2026 17:46:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=uJeUP8Z9LsQ</guid>
+            <source>Jeune Financier Africain </source>
+        </item>
+        <item>
             <title>Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10</title>
             <link>https://www.youtube.com/watch?v=jp6vn3Hp_zc</link>
             <description><![CDATA[COMPILATION — Chapitre 6/10 de la formation Data &amp; Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.]]></description>
@@ -93,14 +93,6 @@
             <source>Daniel Guedegbe</source>
         </item>
         <item>
-            <title>Formation Power BI #9 — Construire un tableau de bord</title>
-            <link>https://www.youtube.com/watch?v=kBEAADohMIw</link>
-            <description><![CDATA[Mise en page, filtres et récit : assembler le tableau de bord achats de bout en bout Formation Power BI par Bitdyne. Cas concrets ...]]></description>
-            <pubDate>Sat, 10 Oct 2026 12:30:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=kBEAADohMIw</guid>
-            <source>Bitdyne</source>
-        </item>
-        <item>
             <title>Programmation Transact-SQL (T-SQL) avec SQL Server 2025</title>
             <link>https://www.youtube.com/watch?v=mq9bcHMIooQ</link>
             <description><![CDATA[Dans cette série, apprenez la programmation Transact-SQL (T-SQL) avec SQL Server 2025. Découvrez comment écrire des ...]]></description>
@@ -117,28 +109,20 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>Formation Power BI #8 — Créer des visuels efficaces</title>
-            <link>https://www.youtube.com/watch?v=vA_YmNopsHQ</link>
-            <description><![CDATA[Choisir le bon graphique, hiérarchiser l'information, éviter les pièges qui trompent l'œil Formation Power BI par Bitdyne.]]></description>
-            <pubDate>Sat, 10 Oct 2026 12:26:57 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=vA_YmNopsHQ</guid>
-            <source>Bitdyne</source>
+            <title>SQL avec PostgreSQL : le cours complet (2 h 29, 34 chapitres, 99 exercices)</title>
+            <link>https://www.youtube.com/watch?v=rpVy7sIM9BY</link>
+            <description><![CDATA[Le cours complet de SQL avec PostgreSQL, de zéro au niveau professionnel : 34 chapitres et 99 exercices corrigés. Les bases ...]]></description>
+            <pubDate>Sun, 04 Oct 2026 20:20:30 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=rpVy7sIM9BY</guid>
+            <source>lioncode</source>
         </item>
         <item>
-            <title>Taxis G7 porte sur S3NS ses nouveaux usages de l’IA et des données</title>
-            <link>https://www.zdnet.fr/actualites/taxis-g7-porte-sur-s3ns-ses-nouveaux-usages-de-lia-et-des-donnees-505478.htm</link>
-            <description><![CDATA[Sans renoncer à ses datacenters, l’entreprise de transport G7 va chercher de la puissance de calcul et du traitement big data sur le cloud public de S3NS. Le cloud SecNumCloud doit en particulier hébe...]]></description>
-            <pubDate>Fri, 09 Oct 2026 08:10:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/taxis-g7-porte-sur-s3ns-ses-nouveaux-usages-de-lia-et-des-donnees-505478.htm</guid>
-            <source>ZDNet France</source>
-        </item>
-        <item>
-            <title>Le ROI de l'IA agentique se joue dans l'arbitrage local/cloud</title>
-            <link>https://www.journaldunet.com/retail/1555647-tech-for-retail-le-roi-de-l-ia-agentique-se-joue-dans-l-arbitrage-local-cloud/</link>
-            <description><![CDATA[L'IA agentique dans le retail impose une architecture hybride, combinant IA locale et cloud pour optimiser coûts, sécurité, souveraineté et performance.]]></description>
-            <pubDate>Fri, 09 Oct 2026 12:30:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/retail/1555647-tech-for-retail-le-roi-de-l-ia-agentique-se-joue-dans-l-arbitrage-local-cloud/</guid>
-            <source>JDN</source>
+            <title>Test de niveau Power BI : 30 questions pour se situer 🔥</title>
+            <link>https://www.youtube.com/watch?v=31eK0Sk330A</link>
+            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
+            <pubDate>Thu, 27 Aug 2026 07:27:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=31eK0Sk330A</guid>
+            <source>Morpheus Formation | Excel, Power BI, Data</source>
         </item>
         <item>
             <title>Comprendre l&amp;#39;informatique #10 — Les bases de données et SQL</title>
@@ -149,28 +133,44 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto</title>
-            <link>https://www.youtube.com/watch?v=ijEHTjsGNsE</link>
+            <title>La requête SQL à absolument connaître ! ✅ #sql #requete #data</title>
+            <link>https://www.youtube.com/watch?v=jV9OwZyWxfs</link>
             <description><![CDATA[]]></description>
-            <pubDate>Wed, 23 Sep 2026 13:13:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=ijEHTjsGNsE</guid>
+            <pubDate>Fri, 11 Sep 2026 15:28:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=jV9OwZyWxfs</guid>
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Pesticides : « Effarés par ce texte »… Pourquoi des scientifiques veulent suspendre l’Omnibus X européen ?</title>
-            <link>https://www.20minutes.fr/planete/environnement/4252119-20261009-pesticides-effares-texte-pourquoi-scientifiques-veulent-suspendre-omnibus-x-europeen</link>
-            <description><![CDATA[Alors que des mobilisations citoyennes sont prévues de vendredi à dimanche, des spécialistes des impacts des pesticides sur la biodiversité ou la santé humaine alertent sur le paquet législatif europé...]]></description>
-            <pubDate>Fri, 09 Oct 2026 04:32:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.20minutes.fr/planete/environnement/4252119-20261009-pesticides-effares-texte-pourquoi-scientifiques-veulent-suspendre-omnibus-x-europeen</guid>
-            <source>20 Minutes</source>
+            <title>Introduction | SQL - EP1</title>
+            <link>https://www.youtube.com/watch?v=QXaOjeucWgI</link>
+            <description><![CDATA[Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...]]></description>
+            <pubDate>Fri, 28 Aug 2026 18:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=QXaOjeucWgI</guid>
+            <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Anthropic lance OSS Scanner pour sécuriser l'Open Source</title>
-            <link>https://www.generation-nt.com/actualites/anthropic-oss-scanner-ia-cybersecurite-open-source-2082542</link>
-            <description><![CDATA[OSS Scanner est un service gratuit qui utilise les modèles d'IA les plus puissants d'Anthropic pour scanner les projets open source à la recherche de vulnérabilités de sécurité.]]></description>
-            <pubDate>Fri, 09 Oct 2026 12:30:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/anthropic-oss-scanner-ia-cybersecurite-open-source-2082542</guid>
+            <title>La glace du pôle Nord de Mars est bien plus pure que prévu</title>
+            <link>https://www.generation-nt.com/actualites/mars-glace-pole-nord-poussiere-climat-vie-2082277</link>
+            <description><![CDATA[Une étude révèle que la calotte glaciaire du pôle Nord de Mars contient beaucoup moins de poussière qu'estimé. De nouvelles analyses évaluent la teneur en poussière à seulement 3 %.]]></description>
+            <pubDate>Sat, 10 Oct 2026 06:10:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/mars-glace-pole-nord-poussiere-climat-vie-2082277</guid>
             <source>Génération NT</source>
+        </item>
+        <item>
+            <title>Comprendre les RAG – De la Théorie au Code en 1H</title>
+            <link>https://www.youtube.com/watch?v=jM3lgl2SsY8</link>
+            <description><![CDATA[Dans cette vidéo, on va parler de RAG, pour Retrieval-Augmented Generation, et voir comment donner à un LLM accès à des ...]]></description>
+            <pubDate>Thu, 13 Aug 2026 18:24:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=jM3lgl2SsY8</guid>
+            <source>obarrene</source>
+        </item>
+        <item>
+            <title>Claude n’aime pas qu’on lui dise non, Anthropic révèle de nouveaux dérapages de ses IA</title>
+            <link>https://www.macg.co/intelligence-artificielle/2026/10/claude-naime-pas-quon-lui-dise-non-anthropic-revele-de-nouveaux-derapages-de-ses-ia-311561</link>
+            <description><![CDATA[Décidément, les agents IA ont parfois une conception assez personnelle des limites qu’on leur impose. Après les incidents révélés ces dernières semaines chez OpenAI, c’est au tour d’Anthropic de publi...]]></description>
+            <pubDate>Sat, 10 Oct 2026 11:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.macg.co/intelligence-artificielle/2026/10/claude-naime-pas-quon-lui-dise-non-anthropic-revele-de-nouveaux-derapages-de-ses-ia-311561</guid>
+            <source>MacGeneration</source>
         </item>
     </channel>
 </rss>
