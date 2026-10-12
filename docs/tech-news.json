@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "2026-10-11T14:47:08.478404",
+  "lastUpdate": "2026-10-12T17:35:19.893801",
   "articles": [
     {
-      "title": "🎙️ CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENTE",
-      "description": "CHATGPT À LA VOIX : TRAVAILLE, CRÉE ET RÉFLÉCHIS PLUS RAPIDEMENT Et si vous pouviez simplement parler à ChatGPT ...",
-      "url": "https://www.youtube.com/watch?v=i2gk_Oknibg",
-      "source": "Skill Market",
-      "publishedAt": "2026-09-07T18:43:49Z",
+      "title": "Si l’IA ne vous connaît pas, vous n’existez pas : comment Getmint aide L’Oréal, Accor ou encore BNP à émerger sur ChatGPT ou Gemini",
+      "description": "PODCAST - Joan Burkovic, cofondateur de Getmint, aide les grands groupes à apparaître en bonne place dans les modèles d’intelligence artificielle. Un métier né il y a à peine un an, où le marketing re...",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/si-lia-ne-vous-connait-pas-vous-nexistez-pas-comment-getmint-aide-loreal-accor-ou-encore-bnp-a-emerger-sur-chatgpt-ou-gemini_646275",
+      "source": "Challenges",
+      "publishedAt": "2026-10-11T15:30:00Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "i2gk_Oknibg",
-      "thumbnail": "https://i.ytimg.com/vi/i2gk_Oknibg/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Formation Power BI #4 — Power Query : nettoyer et préparer les données",
@@ -24,6 +24,18 @@
       "isYouTube": true,
       "videoId": "bjUQ1UCEHVk",
       "thumbnail": "https://i.ytimg.com/vi/bjUQ1UCEHVk/hqdefault.jpg"
+    },
+    {
+      "title": "Machine Learning : 30 concepts expliqués simplement (de zéro à ChatGPT)",
+      "description": "Comment une machine apprend-elle toute seule ? Et comment ChatGPT arrive-t-il à écrire comme un humain ? En 11 minutes, on ...",
+      "url": "https://www.youtube.com/watch?v=m-5Aks0g_Fk",
+      "source": "Donald Programmeur",
+      "publishedAt": "2026-10-07T02:23:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "m-5Aks0g_Fk",
+      "thumbnail": "https://i.ytimg.com/vi/m-5Aks0g_Fk/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
@@ -110,18 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1o308cqkEXc/hqdefault.jpg"
     },
     {
-      "title": "Comprendre le Feature Engineering en Data Science (Guide Clair)",
-      "description": "Découvrez ce qu'est le feature engineering et pourquoi il est crucial en data science et en machine learning. Nous vous ...",
-      "url": "https://www.youtube.com/watch?v=DSYu-xKge_s",
-      "source": "Daniel Guedegbe",
-      "publishedAt": "2026-09-06T18:07:53Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "DSYu-xKge_s",
-      "thumbnail": "https://i.ytimg.com/vi/DSYu-xKge_s/hqdefault.jpg"
-    },
-    {
       "title": "Programmation Transact-SQL (T-SQL) avec SQL Server 2025",
       "description": "Dans cette série, apprenez la programmation Transact-SQL (T-SQL) avec SQL Server 2025. Découvrez comment écrire des ...",
       "url": "https://www.youtube.com/watch?v=mq9bcHMIooQ",
@@ -146,28 +146,16 @@
       "thumbnail": "https://i.ytimg.com/vi/cIfEIoT3MCc/hqdefault.jpg"
     },
     {
-      "title": "SQL avec PostgreSQL : le cours complet (2 h 29, 34 chapitres, 99 exercices)",
-      "description": "Le cours complet de SQL avec PostgreSQL, de zéro au niveau professionnel : 34 chapitres et 99 exercices corrigés. Les bases ...",
-      "url": "https://www.youtube.com/watch?v=rpVy7sIM9BY",
-      "source": "lioncode",
-      "publishedAt": "2026-10-04T20:20:30Z",
+      "title": "Formation Power BI #8 — Créer des visuels efficaces",
+      "description": "Choisir le bon graphique, hiérarchiser l'information, éviter les pièges qui trompent l'œil Formation Power BI par Bitdyne.",
+      "url": "https://www.youtube.com/watch?v=vA_YmNopsHQ",
+      "source": "Bitdyne",
+      "publishedAt": "2026-10-10T12:26:57Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "rpVy7sIM9BY",
-      "thumbnail": "https://i.ytimg.com/vi/rpVy7sIM9BY/hqdefault.jpg"
-    },
-    {
-      "title": "Test de niveau Power BI : 30 questions pour se situer 🔥",
-      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
-      "url": "https://www.youtube.com/watch?v=31eK0Sk330A",
-      "source": "Morpheus Formation | Excel, Power BI, Data",
-      "publishedAt": "2026-08-27T07:27:34Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "31eK0Sk330A",
-      "thumbnail": "https://i.ytimg.com/vi/31eK0Sk330A/hqdefault.jpg"
+      "videoId": "vA_YmNopsHQ",
+      "thumbnail": "https://i.ytimg.com/vi/vA_YmNopsHQ/hqdefault.jpg"
     },
     {
       "title": "Comprendre l&#39;informatique #10 — Les bases de données et SQL",
@@ -182,16 +170,52 @@
       "thumbnail": "https://i.ytimg.com/vi/Ne5LQuLVmfE/hqdefault.jpg"
     },
     {
-      "title": "La requête SQL à absolument connaître ! ✅ #sql #requete #data",
+      "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
       "description": "",
-      "url": "https://www.youtube.com/watch?v=jV9OwZyWxfs",
+      "url": "https://www.youtube.com/watch?v=ijEHTjsGNsE",
       "source": "Le Decodeur",
-      "publishedAt": "2026-09-11T15:28:39Z",
+      "publishedAt": "2026-09-23T13:13:13Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "jV9OwZyWxfs",
-      "thumbnail": "https://i.ytimg.com/vi/jV9OwZyWxfs/hqdefault.jpg"
+      "videoId": "ijEHTjsGNsE",
+      "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
+    },
+    {
+      "title": "L’iPad mini 8 avec son écran OLED sera bien plus cher",
+      "description": "Apple prépare une hausse importante du prix de son prochain iPad mini 8, attendu avec un écran OLED pour la première fois dans l’histoire…\nLire la suite…\nFacebook · X · iAddict\nL’article L’iPad mini 8...",
+      "url": "https://iphoneaddict.fr/post/news-437121-lipad-mini-8-ecran-oled-sera-bien-plus-cher",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-10-11T16:09:18Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L'invasion des robots a commencé : FAW-Volkswagen confie sa logistique à UBTech",
+      "description": "Les chaînes de montage automobiles, symboles de l'industrie du XXe siècle, sont sur le point de connaître une mutation spectaculaire. Des silhouettes métalliques bipèdes s'apprêtent à y prendre du ser...",
+      "url": "https://www.generation-nt.com/actualites/faw-volkswagen-robot-humanoide-ubtech-logisitique-usine-2082558",
+      "source": "Génération NT",
+      "publishedAt": "2026-10-11T14:30:01Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comment l'IA pourrait-elle provoquer la fin de l'humanité ? 5 scénarios, du plus fou au plus inquiétant",
+      "description": "Les risques existentiels liés à l’IA sont souvent décrits à travers des scénarios dantesques : superintelligence, armes biologiques ou guerre nucléaire. Leur point commun est d’interroger notre capaci...",
+      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-ia-pourrait-elle-provoquer-fin-humanite-5-scenarios-plus-fou-plus-inquietant-138203/",
+      "source": "Futura",
+      "publishedAt": "2026-10-11T15:18:51Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -206,11 +230,11 @@
       "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "La glace du pôle Nord de Mars est bien plus pure que prévu",
-      "description": "Une étude révèle que la calotte glaciaire du pôle Nord de Mars contient beaucoup moins de poussière qu'estimé. De nouvelles analyses évaluent la teneur en poussière à seulement 3 %.",
-      "url": "https://www.generation-nt.com/actualites/mars-glace-pole-nord-poussiere-climat-vie-2082277",
-      "source": "Génération NT",
-      "publishedAt": "2026-10-10T06:10:01Z",
+      "title": "KAPSARC PARTICIPERA AU 25e CONGRÈS DE L'ÉNERGIE DU WPC À RIYAD EN TANT QUE PARTENAIRE NATIONAL",
+      "description": "Plus de 20 dirigeants, chercheurs et experts du KAPSARC apporteront leur contribution aux programmes exécutifs, techniques, de synergie et spéciaux du congrès. RIYAD, Arabie saoudite, 11 octobre 2026 ...",
+      "url": "https://www.prnewswire.com/news-releases/kapsarc-participera-au-25e-congres-de-lenergie-du-wpc-a-riyad-en-tant-que-partenaire-national-302905147.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-11T12:14:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,23 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Comprendre les RAG – De la Théorie au Code en 1H",
-      "description": "Dans cette vidéo, on va parler de RAG, pour Retrieval-Augmented Generation, et voir comment donner à un LLM accès à des ...",
-      "url": "https://www.youtube.com/watch?v=jM3lgl2SsY8",
-      "source": "obarrene",
-      "publishedAt": "2026-08-13T18:24:09Z",
-      "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "jM3lgl2SsY8",
-      "thumbnail": "https://i.ytimg.com/vi/jM3lgl2SsY8/hqdefault.jpg"
-    },
-    {
-      "title": "Claude n’aime pas qu’on lui dise non, Anthropic révèle de nouveaux dérapages de ses IA",
-      "description": "Décidément, les agents IA ont parfois une conception assez personnelle des limites qu’on leur impose. Après les incidents révélés ces dernières semaines chez OpenAI, c’est au tour d’Anthropic de publi...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/10/claude-naime-pas-quon-lui-dise-non-anthropic-revele-de-nouveaux-derapages-de-ses-ia-311561",
-      "source": "MacGeneration",
-      "publishedAt": "2026-10-10T11:30:00Z",
+      "title": "Mon collègue est une IA",
+      "description": "L’intelligence artificielle bouleverse la vie dans les entreprises. Surtout dans celles où l’IA est considérée comme un collègue. (Un rendez-vous en partenariat avec Sciences et Avenir).",
+      "url": "https://www.franceinfo.fr/replay-radio/nouveau-monde/mon-collegue-est-une-ia_8190251.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-10-11T15:00:03Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Liens vagabonds : Médias, la Finlande vacille aussi",
-      "description": "Même dans un pays doté de l’une des plus solides traditions médiatiques d’Europe, le paysage se détériore. STT, parmi l’une des plus anciennes agences de presse encore en activité au monde, pourrait f...",
-      "url": "https://www.meta-media.fr/2026/10/10/liens-vagabonds-medias-la-finlande-vacille-aussi.html",
-      "source": "Meta-media.fr",
-      "publishedAt": "2026-10-10T13:12:28Z",
+      "title": "La «super-intelligence» de Donald Trump est une véritable arnaque marketing - Le Temps",
+      "description": "CHRONIQUE. Donald Trump, timidement suivi par les géants américains, veut imposer un nouveau récit en remplaçant le terme «intelligence artificielle». Mais rien de cela n’a de sens",
+      "url": "https://www.letemps.ch/opinions/chroniques/la-super-intelligence-de-donald-trump-est-une-veritable-arnaque-marketing",
+      "source": "Le Temps",
+      "publishedAt": "2026-10-11T16:23:04Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,28 +266,40 @@
       "thumbnail": ""
     },
     {
-      "title": "Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)",
-      "description": "La plupart des gens utilisent Google Gemini de manière très simple et passent à côté de l'essentiel. Dans cette vidéo, je te ...",
-      "url": "https://www.youtube.com/watch?v=C1esYFoZXBE",
-      "source": "Elliott Pierret",
-      "publishedAt": "2026-08-30T16:01:32Z",
+      "title": "Reconnaissance faciale : un visage masqué reste identifiable",
+      "description": "Reconnaissance faciale partielle : une enquête OSINT révèle les risques d'identification des militaires masqués.",
+      "url": "https://www.zataz.com/reconnaissance-faciale-un-visage-masque-reste-identifiable/",
+      "source": "Zataz.com",
+      "publishedAt": "2026-10-11T12:26:54Z",
       "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "C1esYFoZXBE",
-      "thumbnail": "https://i.ytimg.com/vi/C1esYFoZXBE/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "1200€ Avec le Montage Vidéo I.A en 7 jours ! Tutoriel Complet",
-      "description": "Copie-Colle ma Méthode Pour Vivre de Youtube en 90 Jours ✓ ➜ https://ytbusinessvip.fr 🎙️ La chaîne Podcast ...",
-      "url": "https://www.youtube.com/watch?v=DrC-JZAmzec",
-      "source": "Hervé - YTBusiness",
-      "publishedAt": "2026-10-11T11:00:21Z",
+      "title": "Ce signal a traversé 10 milliards d’années-lumière, et on a retrouvé son origine",
+      "description": "Un sursaut radio rapide extrêmement lointain a pu être étudié en détail à l'aide de plusieurs télescopes. Grâce à l'observatoire spatial James Webb, les scientifiques ont pu remonter à sa source, une ...",
+      "url": "https://www.numerama.com/sciences/2350081-ce-signal-a-traverse-10-milliards-dannees-lumiere-et-on-a-retrouve-son-origine.html",
+      "source": "Numerama",
+      "publishedAt": "2026-10-11T12:29:00Z",
       "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "DrC-JZAmzec",
-      "thumbnail": "https://i.ytimg.com/vi/DrC-JZAmzec/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Actualité : Un développeur a créé un jeu vidéo alimenté par l'IA qui est désormais un gouffre financier, le modèle lui coûte 1 000 € par jour juste pour la démo",
+      "description": "L’IA coûte cher, très cher. Et le studio de développement Easy Fox l’a appris à ses dépens avec son jeu Teach My Little Sister How to Drive qui lui fait perdre près de 1 000 € par jour. Une somme énor...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/un-developpeur-a-cree-un-jeu-video-alimente-par-l-ia-qui-est-desormais-un-gouffre-financier-le-modele-lui-coute-1-000-par-jour-juste-pour-la-demo-n263180.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-10-11T16:30:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }
