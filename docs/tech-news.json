@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-10-12T17:35:19.893801",
+  "lastUpdate": "2026-10-13T15:44:33.393557",
   "articles": [
-    {
-      "title": "Si l’IA ne vous connaît pas, vous n’existez pas : comment Getmint aide L’Oréal, Accor ou encore BNP à émerger sur ChatGPT ou Gemini",
-      "description": "PODCAST - Joan Burkovic, cofondateur de Getmint, aide les grands groupes à apparaître en bonne place dans les modèles d’intelligence artificielle. Un métier né il y a à peine un an, où le marketing re...",
-      "url": "https://www.challenges.fr/entreprise/tech-numerique/si-lia-ne-vous-connait-pas-vous-nexistez-pas-comment-getmint-aide-loreal-accor-ou-encore-bnp-a-emerger-sur-chatgpt-ou-gemini_646275",
-      "source": "Challenges",
-      "publishedAt": "2026-10-11T15:30:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "Formation Power BI #4 — Power Query : nettoyer et préparer les données",
       "description": "Des données brutes aux données prêtes : l'atelier où se gagne la fiabilité du rapport Formation Power BI par Bitdyne.",
@@ -26,18 +14,6 @@
       "thumbnail": "https://i.ytimg.com/vi/bjUQ1UCEHVk/hqdefault.jpg"
     },
     {
-      "title": "Machine Learning : 30 concepts expliqués simplement (de zéro à ChatGPT)",
-      "description": "Comment une machine apprend-elle toute seule ? Et comment ChatGPT arrive-t-il à écrire comme un humain ? En 11 minutes, on ...",
-      "url": "https://www.youtube.com/watch?v=m-5Aks0g_Fk",
-      "source": "Donald Programmeur",
-      "publishedAt": "2026-10-07T02:23:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "m-5Aks0g_Fk",
-      "thumbnail": "https://i.ytimg.com/vi/m-5Aks0g_Fk/hqdefault.jpg"
-    },
-    {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
       "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
       "url": "https://www.youtube.com/watch?v=WUzHvB7FICc",
@@ -48,6 +24,18 @@
       "isYouTube": true,
       "videoId": "WUzHvB7FICc",
       "thumbnail": "https://i.ytimg.com/vi/WUzHvB7FICc/hqdefault.jpg"
+    },
+    {
+      "title": "Les 100 outils IA les plus utilisés dans le monde à l’automne 2026",
+      "description": "La 7e édition du rapport d’Andreessen Horowitz confirme la domination de ChatGPT. Ses nouvelles données de dépenses, mesurées aux États-Unis, révèlent un marché payant encore étroit et très concentré ...",
+      "url": "https://www.blogdumoderateur.com/100-outils-ia-plus-utilises-monde-automne-2026/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-10-12T15:03:11Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Explorer et préparer ses données avec pandas (data science)",
@@ -98,18 +86,6 @@
       "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
     },
     {
-      "title": "Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10",
-      "description": "COMPILATION — Chapitre 6/10 de la formation Data & Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.",
-      "url": "https://www.youtube.com/watch?v=jp6vn3Hp_zc",
-      "source": "IA Futura",
-      "publishedAt": "2026-09-07T11:00:18Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "jp6vn3Hp_zc",
-      "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
-    },
-    {
       "title": "Python &amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python",
       "description": "Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...",
       "url": "https://www.youtube.com/watch?v=1o308cqkEXc",
@@ -120,6 +96,30 @@
       "isYouTube": true,
       "videoId": "1o308cqkEXc",
       "thumbnail": "https://i.ytimg.com/vi/1o308cqkEXc/hqdefault.jpg"
+    },
+    {
+      "title": "Comprendre le Feature Engineering en Data Science (Guide Clair)",
+      "description": "Découvrez ce qu'est le feature engineering et pourquoi il est crucial en data science et en machine learning. Nous vous ...",
+      "url": "https://www.youtube.com/watch?v=DSYu-xKge_s",
+      "source": "Daniel Guedegbe",
+      "publishedAt": "2026-09-06T18:07:53Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "DSYu-xKge_s",
+      "thumbnail": "https://i.ytimg.com/vi/DSYu-xKge_s/hqdefault.jpg"
+    },
+    {
+      "title": "Visualisation de données — cours complet 1h42 (débutant, sans code) · Chapitre 2/10",
+      "description": "COMPILATION — Chapitre 2/10 de la formation Data & Machine Learning, d'un seul tenant (1h42). 100 % GRATUIT. ⚠️ Aucun ...",
+      "url": "https://www.youtube.com/watch?v=0RCs3npgogY",
+      "source": "IA Futura",
+      "publishedAt": "2026-09-03T09:58:25Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "0RCs3npgogY",
+      "thumbnail": "https://i.ytimg.com/vi/0RCs3npgogY/hqdefault.jpg"
     },
     {
       "title": "Programmation Transact-SQL (T-SQL) avec SQL Server 2025",
@@ -158,6 +158,42 @@
       "thumbnail": "https://i.ytimg.com/vi/vA_YmNopsHQ/hqdefault.jpg"
     },
     {
+      "title": "CRM et IA : pourquoi la plupart des entreprises n’exploitent encore que 20 % de leurs données clients",
+      "description": "Chaque interaction avec un client laisse une trace : un clic, un email ouvert, un appel au support, un avis déposé, une visite sur une page produit. Les entreprises collectent aujourd'hui plus de donn...",
+      "url": "https://www.webmarketing-com.com/crm-ia-donnees-clients-sous-exploitees",
+      "source": "Webmarketing-com.com",
+      "publishedAt": "2026-10-12T07:30:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "GEO immobilier : comment rendre votre agence visible dans les réponses des IA",
+      "description": "Être trouvé sur Google ne suffit pas à être cité par une IA. Pour les agences immobilières, le GEO commence par une expertise locale documentée, des informations cohérentes et un site accessible.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1556403-geo-immobilier-comment-rendre-votre-agence-visible-dans-les-reponses-des-ia/",
+      "source": "JDN",
+      "publishedAt": "2026-10-12T09:20:33Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "FORTHING dévoile sa série TK au Salon de l'automobile de Paris et poursuit son expansion mondiale grâce à la technologie",
+      "description": "PARIS, 12 octobre 2026 /PRNewswire/ -- Le Salon de l'automobile de Paris 2026 a ouvert ses portes le 12 octobre. Sous le thème « FOR THINGS THAT MATTER », FORTHING a présenté quatre modèles — le TK5 B...",
+      "url": "https://www.prnewswire.com/news-releases/forthing-devoile-sa-serie-tk-au-salon-de-lautomobile-de-paris-et-poursuit-son-expansion-mondiale-grace-a-la-technologie-302905819.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-12T15:36:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Comprendre l&#39;informatique #10 — Les bases de données et SQL",
       "description": "Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...",
       "url": "https://www.youtube.com/watch?v=Ne5LQuLVmfE",
@@ -168,6 +204,18 @@
       "isYouTube": true,
       "videoId": "Ne5LQuLVmfE",
       "thumbnail": "https://i.ytimg.com/vi/Ne5LQuLVmfE/hqdefault.jpg"
+    },
+    {
+      "title": "La requête SQL à absolument connaître ! ✅ #sql #requete #data",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=jV9OwZyWxfs",
+      "source": "Le Decodeur",
+      "publishedAt": "2026-09-11T15:28:39Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "jV9OwZyWxfs",
+      "thumbnail": "https://i.ytimg.com/vi/jV9OwZyWxfs/hqdefault.jpg"
     },
     {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
@@ -182,11 +230,11 @@
       "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
-      "title": "L’iPad mini 8 avec son écran OLED sera bien plus cher",
-      "description": "Apple prépare une hausse importante du prix de son prochain iPad mini 8, attendu avec un écran OLED pour la première fois dans l’histoire…\nLire la suite…\nFacebook · X · iAddict\nL’article L’iPad mini 8...",
-      "url": "https://iphoneaddict.fr/post/news-437121-lipad-mini-8-ecran-oled-sera-bien-plus-cher",
-      "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-10-11T16:09:18Z",
+      "title": "Claude peut désormais générer des tableaux de bord et des animations",
+      "description": "Après les documents et les présentations, Claude peut désormais générer des tableaux de bord et des animations grâce à Dashboards et Motion.",
+      "url": "https://www.blogdumoderateur.com/claude-generer-tableaux-bord-animations/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-10-12T15:00:23Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -194,107 +242,59 @@
       "thumbnail": ""
     },
     {
-      "title": "L'invasion des robots a commencé : FAW-Volkswagen confie sa logistique à UBTech",
-      "description": "Les chaînes de montage automobiles, symboles de l'industrie du XXe siècle, sont sur le point de connaître une mutation spectaculaire. Des silhouettes métalliques bipèdes s'apprêtent à y prendre du ser...",
-      "url": "https://www.generation-nt.com/actualites/faw-volkswagen-robot-humanoide-ubtech-logisitique-usine-2082558",
-      "source": "Génération NT",
-      "publishedAt": "2026-10-11T14:30:01Z",
-      "category": "data",
+      "title": "Google Discover : une offre d’emploi dévoile un projet d’assistant IA hyper-personnalisé",
+      "description": "Ce qu'il faut retenir : Google recrute un « Principal, UX, Search Discover » de niveau directeur, basé à Mountain View ou New York, pour transformer Discover en flux proactif et hyper-personnalisé, se...",
+      "url": "https://www.abondance.com/20261012-3004736-google-discover-offre-emploi-assistant-ia-personnalise.html",
+      "source": "Abondance.com",
+      "publishedAt": "2026-10-12T07:59:46Z",
+      "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Comment l'IA pourrait-elle provoquer la fin de l'humanité ? 5 scénarios, du plus fou au plus inquiétant",
-      "description": "Les risques existentiels liés à l’IA sont souvent décrits à travers des scénarios dantesques : superintelligence, armes biologiques ou guerre nucléaire. Leur point commun est d’interroger notre capaci...",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-ia-pourrait-elle-provoquer-fin-humanite-5-scenarios-plus-fou-plus-inquietant-138203/",
-      "source": "Futura",
-      "publishedAt": "2026-10-11T15:18:51Z",
-      "category": "data",
+      "title": "ZDNET Morning 12/10/2026 : Les Taxis G7 s'appuient sur S3NS, IA et Legacy IT, 1,4 milliard d'euros réclamés à Meta par les éditeurs français,...",
+      "description": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
+      "url": "https://www.zdnet.fr/actualites/zdnet-morning-12-10-2026-les-taxis-g7-sappuient-sur-s3ns-ia-et-legacy-it-14-milliard-deuros-reclames-a-meta-par-les-editeurs-francais-505557.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-10-12T08:07:21Z",
+      "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
     },
     {
-      "title": "Introduction | SQL - EP1",
-      "description": "Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...",
-      "url": "https://www.youtube.com/watch?v=QXaOjeucWgI",
-      "source": "EvoluNoob",
-      "publishedAt": "2026-08-28T18:00:00Z",
-      "category": "data",
+      "title": "MiTAC Computing présente ses innovations « full-stack » visant à faire évoluer l'infrastructure d'IA ouverte lors de l'OCP Global Summit 2026",
+      "description": "SAN JOSE, Californie, 12 octobre 2026 /PRNewswire/ -- MiTACComputingTechnology Corporation, filiale de MiTAC Holdings Corporation (TWSE : 3706), leader mondial des solutions de serveurs haute performa...",
+      "url": "https://www.prnewswire.com/news-releases/mitac-computing-presente-ses-innovations--full-stack--visant-a-faire-evoluer-linfrastructure-dia-ouverte-lors-de-locp-global-summit-2026-302902710.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-10-12T13:00:00Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)",
+      "description": "La plupart des gens utilisent Google Gemini de manière très simple et passent à côté de l'essentiel. Dans cette vidéo, je te ...",
+      "url": "https://www.youtube.com/watch?v=C1esYFoZXBE",
+      "source": "Elliott Pierret",
+      "publishedAt": "2026-08-30T16:01:32Z",
+      "category": "tech",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "QXaOjeucWgI",
-      "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
+      "videoId": "C1esYFoZXBE",
+      "thumbnail": "https://i.ytimg.com/vi/C1esYFoZXBE/hqdefault.jpg"
     },
     {
-      "title": "KAPSARC PARTICIPERA AU 25e CONGRÈS DE L'ÉNERGIE DU WPC À RIYAD EN TANT QUE PARTENAIRE NATIONAL",
-      "description": "Plus de 20 dirigeants, chercheurs et experts du KAPSARC apporteront leur contribution aux programmes exécutifs, techniques, de synergie et spéciaux du congrès. RIYAD, Arabie saoudite, 11 octobre 2026 ...",
-      "url": "https://www.prnewswire.com/news-releases/kapsarc-participera-au-25e-congres-de-lenergie-du-wpc-a-riyad-en-tant-que-partenaire-national-302905147.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-10-11T12:14:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Mon collègue est une IA",
-      "description": "L’intelligence artificielle bouleverse la vie dans les entreprises. Surtout dans celles où l’IA est considérée comme un collègue. (Un rendez-vous en partenariat avec Sciences et Avenir).",
-      "url": "https://www.franceinfo.fr/replay-radio/nouveau-monde/mon-collegue-est-une-ia_8190251.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-10-11T15:00:03Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "La «super-intelligence» de Donald Trump est une véritable arnaque marketing - Le Temps",
-      "description": "CHRONIQUE. Donald Trump, timidement suivi par les géants américains, veut imposer un nouveau récit en remplaçant le terme «intelligence artificielle». Mais rien de cela n’a de sens",
-      "url": "https://www.letemps.ch/opinions/chroniques/la-super-intelligence-de-donald-trump-est-une-veritable-arnaque-marketing",
-      "source": "Le Temps",
-      "publishedAt": "2026-10-11T16:23:04Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Reconnaissance faciale : un visage masqué reste identifiable",
-      "description": "Reconnaissance faciale partielle : une enquête OSINT révèle les risques d'identification des militaires masqués.",
-      "url": "https://www.zataz.com/reconnaissance-faciale-un-visage-masque-reste-identifiable/",
-      "source": "Zataz.com",
-      "publishedAt": "2026-10-11T12:26:54Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ce signal a traversé 10 milliards d’années-lumière, et on a retrouvé son origine",
-      "description": "Un sursaut radio rapide extrêmement lointain a pu être étudié en détail à l'aide de plusieurs télescopes. Grâce à l'observatoire spatial James Webb, les scientifiques ont pu remonter à sa source, une ...",
-      "url": "https://www.numerama.com/sciences/2350081-ce-signal-a-traverse-10-milliards-dannees-lumiere-et-on-a-retrouve-son-origine.html",
-      "source": "Numerama",
-      "publishedAt": "2026-10-11T12:29:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Actualité : Un développeur a créé un jeu vidéo alimenté par l'IA qui est désormais un gouffre financier, le modèle lui coûte 1 000 € par jour juste pour la démo",
-      "description": "L’IA coûte cher, très cher. Et le studio de développement Easy Fox l’a appris à ses dépens avec son jeu Teach My Little Sister How to Drive qui lui fait perdre près de 1 000 € par jour. Une somme énor...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/un-developpeur-a-cree-un-jeu-video-alimente-par-l-ia-qui-est-desormais-un-gouffre-financier-le-modele-lui-coute-1-000-par-jour-juste-pour-la-demo-n263180.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-10-11T16:30:00Z",
+      "title": "Agents IA et stablecoins : le duo qui dessine (déjà) l'avenir des paiements",
+      "description": "L'enjeu des paiements agentiques n'est pas de donner à l'IA le pouvoir de payer mais de lui donner un pouvoir d'action sous contrôle, décryptage par Fipto.",
+      "url": "https://www.journaldunet.com/web3/1556087-agents-ia-et-stablecoins-le-duo-qui-dessine-deja-l-avenir-des-paiements/",
+      "source": "JDN",
+      "publishedAt": "2026-10-12T09:22:50Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
