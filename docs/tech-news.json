@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-13T15:44:33.393557",
+  "lastUpdate": "2026-10-14T13:27:21.856932",
   "articles": [
     {
       "title": "Formation Power BI #4 — Power Query : nettoyer et préparer les données",
@@ -24,18 +24,6 @@
       "isYouTube": true,
       "videoId": "WUzHvB7FICc",
       "thumbnail": "https://i.ytimg.com/vi/WUzHvB7FICc/hqdefault.jpg"
-    },
-    {
-      "title": "Les 100 outils IA les plus utilisés dans le monde à l’automne 2026",
-      "description": "La 7e édition du rapport d’Andreessen Horowitz confirme la domination de ChatGPT. Ses nouvelles données de dépenses, mesurées aux États-Unis, révèlent un marché payant encore étroit et très concentré ...",
-      "url": "https://www.blogdumoderateur.com/100-outils-ia-plus-utilises-monde-automne-2026/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-10-12T15:03:11Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     },
     {
       "title": "Explorer et préparer ses données avec pandas (data science)",
@@ -84,6 +72,18 @@
       "isYouTube": true,
       "videoId": "uJeUP8Z9LsQ",
       "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
+    },
+    {
+      "title": "Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10",
+      "description": "COMPILATION — Chapitre 6/10 de la formation Data & Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.",
+      "url": "https://www.youtube.com/watch?v=jp6vn3Hp_zc",
+      "source": "IA Futura",
+      "publishedAt": "2026-09-07T11:00:18Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "jp6vn3Hp_zc",
+      "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
     },
     {
       "title": "Python &amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python",
@@ -158,40 +158,16 @@
       "thumbnail": "https://i.ytimg.com/vi/vA_YmNopsHQ/hqdefault.jpg"
     },
     {
-      "title": "CRM et IA : pourquoi la plupart des entreprises n’exploitent encore que 20 % de leurs données clients",
-      "description": "Chaque interaction avec un client laisse une trace : un clic, un email ouvert, un appel au support, un avis déposé, une visite sur une page produit. Les entreprises collectent aujourd'hui plus de donn...",
-      "url": "https://www.webmarketing-com.com/crm-ia-donnees-clients-sous-exploitees",
-      "source": "Webmarketing-com.com",
-      "publishedAt": "2026-10-12T07:30:00Z",
+      "title": "SQL avec PostgreSQL : le cours complet (2 h 29, 34 chapitres, 99 exercices)",
+      "description": "Le cours complet de SQL avec PostgreSQL, de zéro au niveau professionnel : 34 chapitres et 99 exercices corrigés. Les bases ...",
+      "url": "https://www.youtube.com/watch?v=rpVy7sIM9BY",
+      "source": "lioncode",
+      "publishedAt": "2026-10-04T20:20:30Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "GEO immobilier : comment rendre votre agence visible dans les réponses des IA",
-      "description": "Être trouvé sur Google ne suffit pas à être cité par une IA. Pour les agences immobilières, le GEO commence par une expertise locale documentée, des informations cohérentes et un site accessible.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1556403-geo-immobilier-comment-rendre-votre-agence-visible-dans-les-reponses-des-ia/",
-      "source": "JDN",
-      "publishedAt": "2026-10-12T09:20:33Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "FORTHING dévoile sa série TK au Salon de l'automobile de Paris et poursuit son expansion mondiale grâce à la technologie",
-      "description": "PARIS, 12 octobre 2026 /PRNewswire/ -- Le Salon de l'automobile de Paris 2026 a ouvert ses portes le 12 octobre. Sous le thème « FOR THINGS THAT MATTER », FORTHING a présenté quatre modèles — le TK5 B...",
-      "url": "https://www.prnewswire.com/news-releases/forthing-devoile-sa-serie-tk-au-salon-de-lautomobile-de-paris-et-poursuit-son-expansion-mondiale-grace-a-la-technologie-302905819.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-10-12T15:36:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "rpVy7sIM9BY",
+      "thumbnail": "https://i.ytimg.com/vi/rpVy7sIM9BY/hqdefault.jpg"
     },
     {
       "title": "Comprendre l&#39;informatique #10 — Les bases de données et SQL",
@@ -206,18 +182,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Ne5LQuLVmfE/hqdefault.jpg"
     },
     {
-      "title": "La requête SQL à absolument connaître ! ✅ #sql #requete #data",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=jV9OwZyWxfs",
-      "source": "Le Decodeur",
-      "publishedAt": "2026-09-11T15:28:39Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "jV9OwZyWxfs",
-      "thumbnail": "https://i.ytimg.com/vi/jV9OwZyWxfs/hqdefault.jpg"
-    },
-    {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
       "description": "",
       "url": "https://www.youtube.com/watch?v=ijEHTjsGNsE",
@@ -230,52 +194,28 @@
       "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
-      "title": "Claude peut désormais générer des tableaux de bord et des animations",
-      "description": "Après les documents et les présentations, Claude peut désormais générer des tableaux de bord et des animations grâce à Dashboards et Motion.",
-      "url": "https://www.blogdumoderateur.com/claude-generer-tableaux-bord-animations/",
-      "source": "Blogdumoderateur.com",
-      "publishedAt": "2026-10-12T15:00:23Z",
+      "title": "Introduction | SQL - EP1",
+      "description": "Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...",
+      "url": "https://www.youtube.com/watch?v=QXaOjeucWgI",
+      "source": "EvoluNoob",
+      "publishedAt": "2026-08-28T18:00:00Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "QXaOjeucWgI",
+      "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Google Discover : une offre d’emploi dévoile un projet d’assistant IA hyper-personnalisé",
-      "description": "Ce qu'il faut retenir : Google recrute un « Principal, UX, Search Discover » de niveau directeur, basé à Mountain View ou New York, pour transformer Discover en flux proactif et hyper-personnalisé, se...",
-      "url": "https://www.abondance.com/20261012-3004736-google-discover-offre-emploi-assistant-ia-personnalise.html",
-      "source": "Abondance.com",
-      "publishedAt": "2026-10-12T07:59:46Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "ZDNET Morning 12/10/2026 : Les Taxis G7 s'appuient sur S3NS, IA et Legacy IT, 1,4 milliard d'euros réclamés à Meta par les éditeurs français,...",
-      "description": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
-      "url": "https://www.zdnet.fr/actualites/zdnet-morning-12-10-2026-les-taxis-g7-sappuient-sur-s3ns-ia-et-legacy-it-14-milliard-deuros-reclames-a-meta-par-les-editeurs-francais-505557.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-10-12T08:07:21Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "MiTAC Computing présente ses innovations « full-stack » visant à faire évoluer l'infrastructure d'IA ouverte lors de l'OCP Global Summit 2026",
-      "description": "SAN JOSE, Californie, 12 octobre 2026 /PRNewswire/ -- MiTACComputingTechnology Corporation, filiale de MiTAC Holdings Corporation (TWSE : 3706), leader mondial des solutions de serveurs haute performa...",
-      "url": "https://www.prnewswire.com/news-releases/mitac-computing-presente-ses-innovations--full-stack--visant-a-faire-evoluer-linfrastructure-dia-ouverte-lors-de-locp-global-summit-2026-302902710.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-10-12T13:00:00Z",
-      "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "title": "Géomaticien : Pourquoi Tu DOIS Apprendre Python et JavaScript ? 🚀",
+      "description": "La géomatique ne se limite plus à QGIS ou ArcGIS. Aujourd'hui, apprendre Python et JavaScript permet au géomaticien ...",
+      "url": "https://www.youtube.com/watch?v=pedtcyxyYjA",
+      "source": "Chancelor Kamera ",
+      "publishedAt": "2026-08-22T18:28:12Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "pedtcyxyYjA",
+      "thumbnail": "https://i.ytimg.com/vi/pedtcyxyYjA/hqdefault.jpg"
     },
     {
       "title": "Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)",
@@ -288,18 +228,6 @@
       "isYouTube": true,
       "videoId": "C1esYFoZXBE",
       "thumbnail": "https://i.ytimg.com/vi/C1esYFoZXBE/hqdefault.jpg"
-    },
-    {
-      "title": "Agents IA et stablecoins : le duo qui dessine (déjà) l'avenir des paiements",
-      "description": "L'enjeu des paiements agentiques n'est pas de donner à l'IA le pouvoir de payer mais de lui donner un pouvoir d'action sous contrôle, décryptage par Fipto.",
-      "url": "https://www.journaldunet.com/web3/1556087-agents-ia-et-stablecoins-le-duo-qui-dessine-deja-l-avenir-des-paiements/",
-      "source": "JDN",
-      "publishedAt": "2026-10-12T09:22:50Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
     }
   ]
 }
