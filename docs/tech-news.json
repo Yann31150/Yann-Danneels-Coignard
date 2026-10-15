@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-14T13:27:21.856932",
+  "lastUpdate": "2026-10-15T13:11:49.777845",
   "articles": [
     {
       "title": "Formation Power BI #4 — Power Query : nettoyer et préparer les données",
@@ -86,6 +86,30 @@
       "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
     },
     {
+      "title": "Intelligence Artificielle - 3 Astuces En 60 Secondes — Le Guide Express | L : ce que les pros ne dis",
+      "description": "Intelligence Artificielle - 3 astuces puissantes en 60 secondes! ABONNE-TOI pour plus de contenu! #intelligence#artificielle ...",
+      "url": "https://www.youtube.com/watch?v=uU9DAdByHDE",
+      "source": "contact omnicirelpc",
+      "publishedAt": "2026-09-07T19:14:46Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "uU9DAdByHDE",
+      "thumbnail": "https://i.ytimg.com/vi/uU9DAdByHDE/hqdefault.jpg"
+    },
+    {
+      "title": "Intelligence Artificielle - 3 Astuces En 60 Secondes — Le Guide Express — le guide express",
+      "description": "Intelligence Artificielle - 3 astuces puissantes en 60 secondes! ABONNE-TOI pour plus de contenu! #intelligence#artificielle ...",
+      "url": "https://www.youtube.com/watch?v=4TCPIJf5-yY",
+      "source": "contact omnicirelpc",
+      "publishedAt": "2026-09-07T19:17:39Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "4TCPIJf5-yY",
+      "thumbnail": "https://i.ytimg.com/vi/4TCPIJf5-yY/hqdefault.jpg"
+    },
+    {
       "title": "Python &amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python",
       "description": "Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...",
       "url": "https://www.youtube.com/watch?v=1o308cqkEXc",
@@ -96,30 +120,6 @@
       "isYouTube": true,
       "videoId": "1o308cqkEXc",
       "thumbnail": "https://i.ytimg.com/vi/1o308cqkEXc/hqdefault.jpg"
-    },
-    {
-      "title": "Comprendre le Feature Engineering en Data Science (Guide Clair)",
-      "description": "Découvrez ce qu'est le feature engineering et pourquoi il est crucial en data science et en machine learning. Nous vous ...",
-      "url": "https://www.youtube.com/watch?v=DSYu-xKge_s",
-      "source": "Daniel Guedegbe",
-      "publishedAt": "2026-09-06T18:07:53Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "DSYu-xKge_s",
-      "thumbnail": "https://i.ytimg.com/vi/DSYu-xKge_s/hqdefault.jpg"
-    },
-    {
-      "title": "Visualisation de données — cours complet 1h42 (débutant, sans code) · Chapitre 2/10",
-      "description": "COMPILATION — Chapitre 2/10 de la formation Data & Machine Learning, d'un seul tenant (1h42). 100 % GRATUIT. ⚠️ Aucun ...",
-      "url": "https://www.youtube.com/watch?v=0RCs3npgogY",
-      "source": "IA Futura",
-      "publishedAt": "2026-09-03T09:58:25Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "0RCs3npgogY",
-      "thumbnail": "https://i.ytimg.com/vi/0RCs3npgogY/hqdefault.jpg"
     },
     {
       "title": "Programmation Transact-SQL (T-SQL) avec SQL Server 2025",
@@ -158,18 +158,6 @@
       "thumbnail": "https://i.ytimg.com/vi/vA_YmNopsHQ/hqdefault.jpg"
     },
     {
-      "title": "SQL avec PostgreSQL : le cours complet (2 h 29, 34 chapitres, 99 exercices)",
-      "description": "Le cours complet de SQL avec PostgreSQL, de zéro au niveau professionnel : 34 chapitres et 99 exercices corrigés. Les bases ...",
-      "url": "https://www.youtube.com/watch?v=rpVy7sIM9BY",
-      "source": "lioncode",
-      "publishedAt": "2026-10-04T20:20:30Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "rpVy7sIM9BY",
-      "thumbnail": "https://i.ytimg.com/vi/rpVy7sIM9BY/hqdefault.jpg"
-    },
-    {
       "title": "Comprendre l&#39;informatique #10 — Les bases de données et SQL",
       "description": "Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...",
       "url": "https://www.youtube.com/watch?v=Ne5LQuLVmfE",
@@ -180,6 +168,18 @@
       "isYouTube": true,
       "videoId": "Ne5LQuLVmfE",
       "thumbnail": "https://i.ytimg.com/vi/Ne5LQuLVmfE/hqdefault.jpg"
+    },
+    {
+      "title": "La requête SQL à absolument connaître ! ✅ #sql #requete #data",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=jV9OwZyWxfs",
+      "source": "Le Decodeur",
+      "publishedAt": "2026-09-11T15:28:39Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "jV9OwZyWxfs",
+      "thumbnail": "https://i.ytimg.com/vi/jV9OwZyWxfs/hqdefault.jpg"
     },
     {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
@@ -216,18 +216,6 @@
       "isYouTube": true,
       "videoId": "pedtcyxyYjA",
       "thumbnail": "https://i.ytimg.com/vi/pedtcyxyYjA/hqdefault.jpg"
-    },
-    {
-      "title": "Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)",
-      "description": "La plupart des gens utilisent Google Gemini de manière très simple et passent à côté de l'essentiel. Dans cette vidéo, je te ...",
-      "url": "https://www.youtube.com/watch?v=C1esYFoZXBE",
-      "source": "Elliott Pierret",
-      "publishedAt": "2026-08-30T16:01:32Z",
-      "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "C1esYFoZXBE",
-      "thumbnail": "https://i.ytimg.com/vi/C1esYFoZXBE/hqdefault.jpg"
     }
   ]
 }

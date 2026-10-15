@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 14 Oct 2026 13:27:21 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 13:11:49 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -69,28 +69,28 @@
             <source>IA Futura</source>
         </item>
         <item>
+            <title>Intelligence Artificielle - 3 Astuces En 60 Secondes — Le Guide Express | L : ce que les pros ne dis</title>
+            <link>https://www.youtube.com/watch?v=uU9DAdByHDE</link>
+            <description><![CDATA[Intelligence Artificielle - 3 astuces puissantes en 60 secondes! ABONNE-TOI pour plus de contenu! #intelligence#artificielle ...]]></description>
+            <pubDate>Mon, 07 Sep 2026 19:14:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=uU9DAdByHDE</guid>
+            <source>contact omnicirelpc</source>
+        </item>
+        <item>
+            <title>Intelligence Artificielle - 3 Astuces En 60 Secondes — Le Guide Express — le guide express</title>
+            <link>https://www.youtube.com/watch?v=4TCPIJf5-yY</link>
+            <description><![CDATA[Intelligence Artificielle - 3 astuces puissantes en 60 secondes! ABONNE-TOI pour plus de contenu! #intelligence#artificielle ...]]></description>
+            <pubDate>Mon, 07 Sep 2026 19:17:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=4TCPIJf5-yY</guid>
+            <source>contact omnicirelpc</source>
+        </item>
+        <item>
             <title>Python &amp;amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python</title>
             <link>https://www.youtube.com/watch?v=1o308cqkEXc</link>
             <description><![CDATA[Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...]]></description>
             <pubDate>Thu, 20 Aug 2026 23:58:11 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=1o308cqkEXc</guid>
             <source>Mausse Institut</source>
-        </item>
-        <item>
-            <title>Comprendre le Feature Engineering en Data Science (Guide Clair)</title>
-            <link>https://www.youtube.com/watch?v=DSYu-xKge_s</link>
-            <description><![CDATA[Découvrez ce qu'est le feature engineering et pourquoi il est crucial en data science et en machine learning. Nous vous ...]]></description>
-            <pubDate>Sun, 06 Sep 2026 18:07:53 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=DSYu-xKge_s</guid>
-            <source>Daniel Guedegbe</source>
-        </item>
-        <item>
-            <title>Visualisation de données — cours complet 1h42 (débutant, sans code) · Chapitre 2/10</title>
-            <link>https://www.youtube.com/watch?v=0RCs3npgogY</link>
-            <description><![CDATA[COMPILATION — Chapitre 2/10 de la formation Data &amp; Machine Learning, d'un seul tenant (1h42). 100 % GRATUIT. ⚠️ Aucun ...]]></description>
-            <pubDate>Thu, 03 Sep 2026 09:58:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=0RCs3npgogY</guid>
-            <source>IA Futura</source>
         </item>
         <item>
             <title>Programmation Transact-SQL (T-SQL) avec SQL Server 2025</title>
@@ -117,20 +117,20 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>SQL avec PostgreSQL : le cours complet (2 h 29, 34 chapitres, 99 exercices)</title>
-            <link>https://www.youtube.com/watch?v=rpVy7sIM9BY</link>
-            <description><![CDATA[Le cours complet de SQL avec PostgreSQL, de zéro au niveau professionnel : 34 chapitres et 99 exercices corrigés. Les bases ...]]></description>
-            <pubDate>Sun, 04 Oct 2026 20:20:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=rpVy7sIM9BY</guid>
-            <source>lioncode</source>
-        </item>
-        <item>
             <title>Comprendre l&amp;#39;informatique #10 — Les bases de données et SQL</title>
             <link>https://www.youtube.com/watch?v=Ne5LQuLVmfE</link>
             <description><![CDATA[Derrière presque toute application d'entreprise, il y a des tables. Dixième épisode de la série « Comprendre l'informatique » de ...]]></description>
             <pubDate>Wed, 02 Sep 2026 03:04:52 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Ne5LQuLVmfE</guid>
             <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>La requête SQL à absolument connaître ! ✅ #sql #requete #data</title>
+            <link>https://www.youtube.com/watch?v=jV9OwZyWxfs</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Fri, 11 Sep 2026 15:28:39 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=jV9OwZyWxfs</guid>
+            <source>Le Decodeur</source>
         </item>
         <item>
             <title>L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto</title>
@@ -155,14 +155,6 @@
             <pubDate>Sat, 22 Aug 2026 18:28:12 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=pedtcyxyYjA</guid>
             <source>Chancelor Kamera </source>
-        </item>
-        <item>
-            <title>Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)</title>
-            <link>https://www.youtube.com/watch?v=C1esYFoZXBE</link>
-            <description><![CDATA[La plupart des gens utilisent Google Gemini de manière très simple et passent à côté de l'essentiel. Dans cette vidéo, je te ...]]></description>
-            <pubDate>Sun, 30 Aug 2026 16:01:32 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=C1esYFoZXBE</guid>
-            <source>Elliott Pierret</source>
         </item>
     </channel>
 </rss>
