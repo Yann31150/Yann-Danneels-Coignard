@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 15 Oct 2026 13:11:49 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 13:05:36 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -19,6 +19,14 @@
             <pubDate>Sat, 10 Oct 2026 12:15:37 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=bjUQ1UCEHVk</guid>
             <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>J’ai Trouvé le Système ULTIME pour Utiliser l’IA GRATUITEMENT</title>
+            <link>https://www.youtube.com/watch?v=8NewbH_MQ6M</link>
+            <description><![CDATA[Vous voulez accéder à ChatGPT, Claude, Gemini, DeepSeek, Grok et bien d'autres modèles d'IA depuis une seule plateforme ?]]></description>
+            <pubDate>Sat, 12 Sep 2026 16:00:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=8NewbH_MQ6M</guid>
+            <source>Parlons Cyber</source>
         </item>
         <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
@@ -45,6 +53,14 @@
             <source>Bitdyne</source>
         </item>
         <item>
+            <title>Ton premier projet Data &amp;amp; Machine Learning en Python — projet complet 34 min (débutant, avec code)</title>
+            <link>https://www.youtube.com/watch?v=t9dIU3Od0SE</link>
+            <description><![CDATA[Ton premier projet complet de Data &amp; Machine Learning en Python, de bout en bout : on charge les données de 398 vraies ...]]></description>
+            <pubDate>Fri, 09 Oct 2026 16:51:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=t9dIU3Od0SE</guid>
+            <source>IA Futura</source>
+        </item>
+        <item>
             <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
             <link>https://www.youtube.com/watch?v=NdS8xLrZd_k</link>
             <description><![CDATA[Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...]]></description>
@@ -69,36 +85,12 @@
             <source>IA Futura</source>
         </item>
         <item>
-            <title>Intelligence Artificielle - 3 Astuces En 60 Secondes — Le Guide Express | L : ce que les pros ne dis</title>
-            <link>https://www.youtube.com/watch?v=uU9DAdByHDE</link>
-            <description><![CDATA[Intelligence Artificielle - 3 astuces puissantes en 60 secondes! ABONNE-TOI pour plus de contenu! #intelligence#artificielle ...]]></description>
-            <pubDate>Mon, 07 Sep 2026 19:14:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=uU9DAdByHDE</guid>
-            <source>contact omnicirelpc</source>
-        </item>
-        <item>
-            <title>Intelligence Artificielle - 3 Astuces En 60 Secondes — Le Guide Express — le guide express</title>
-            <link>https://www.youtube.com/watch?v=4TCPIJf5-yY</link>
-            <description><![CDATA[Intelligence Artificielle - 3 astuces puissantes en 60 secondes! ABONNE-TOI pour plus de contenu! #intelligence#artificielle ...]]></description>
-            <pubDate>Mon, 07 Sep 2026 19:17:39 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=4TCPIJf5-yY</guid>
-            <source>contact omnicirelpc</source>
-        </item>
-        <item>
-            <title>Python &amp;amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python</title>
-            <link>https://www.youtube.com/watch?v=1o308cqkEXc</link>
-            <description><![CDATA[Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...]]></description>
-            <pubDate>Thu, 20 Aug 2026 23:58:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1o308cqkEXc</guid>
-            <source>Mausse Institut</source>
-        </item>
-        <item>
-            <title>Programmation Transact-SQL (T-SQL) avec SQL Server 2025</title>
-            <link>https://www.youtube.com/watch?v=mq9bcHMIooQ</link>
-            <description><![CDATA[Dans cette série, apprenez la programmation Transact-SQL (T-SQL) avec SQL Server 2025. Découvrez comment écrire des ...]]></description>
-            <pubDate>Tue, 08 Sep 2026 09:00:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=mq9bcHMIooQ</guid>
-            <source>Tchaps Tech</source>
+            <title>L'IA au secours du dodo : Colossal Biosciences dévoile son arme secrète</title>
+            <link>https://www.generation-nt.com/actualites/colossal-biosciences-genomorph-intelligence-artificielle-deextinction-2082841</link>
+            <description><![CDATA[Le dodo reviendra-t-il plus vite à la vie avec la nouvelle intelligence artificielle GenoMorph ? Le spécialiste de la déextinction Colossal Biosciences fait miroiter une accélération par IA du temps d...]]></description>
+            <pubDate>Thu, 15 Oct 2026 08:20:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/colossal-biosciences-genomorph-intelligence-artificielle-deextinction-2082841</guid>
+            <source>Génération NT</source>
         </item>
         <item>
             <title>Python : introduction à pandas pour l&amp;#39;analyse de données</title>
@@ -115,6 +107,14 @@
             <pubDate>Sat, 10 Oct 2026 12:26:57 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=vA_YmNopsHQ</guid>
             <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>Retail: qui les IA recommanderont-elles demain ? Pourquoi la visibilité locale entre dans une nouvelle ère</title>
+            <link>https://www.journaldunet.com/retail/1556601-tech-for-retail-retail-qui-les-ia-recommanderont-elles-demain-pourquoi-la-visibilite-locale-entre-dans-une-nouvelle-ere/</link>
+            <description><![CDATA[Demain, vos clients ne chercheront plus votre enseigne sur Google : ils demanderont à une IA où aller. Une révolution qui propulse la visibilité locale dans l'ère de la recommandation.]]></description>
+            <pubDate>Thu, 15 Oct 2026 08:37:58 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/retail/1556601-tech-for-retail-retail-qui-les-ia-recommanderont-elles-demain-pourquoi-la-visibilite-locale-entre-dans-une-nouvelle-ere/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Comprendre l&amp;#39;informatique #10 — Les bases de données et SQL</title>
@@ -141,20 +141,36 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Introduction | SQL - EP1</title>
-            <link>https://www.youtube.com/watch?v=QXaOjeucWgI</link>
-            <description><![CDATA[Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...]]></description>
-            <pubDate>Fri, 28 Aug 2026 18:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=QXaOjeucWgI</guid>
-            <source>EvoluNoob</source>
+            <title>Withings assume le changement sur le partage des données : « la valeur, c'est la donnée »</title>
+            <link>https://www.watchgeneration.fr/sante/2026/10/withings-assume-le-changement-sur-le-partage-des-donnees-la-valeur-cest-la-donnee-20423</link>
+            <description><![CDATA[Nous en parlions récemment, la société française Withings a fait un changement important pour une partie de ses clients le 13 octobre : tous les comptes créés après cette date ne pourront partager les...]]></description>
+            <pubDate>Thu, 15 Oct 2026 09:17:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.watchgeneration.fr/sante/2026/10/withings-assume-le-changement-sur-le-partage-des-donnees-la-valeur-cest-la-donnee-20423</guid>
+            <source>Watchgeneration.fr</source>
         </item>
         <item>
-            <title>Géomaticien : Pourquoi Tu DOIS Apprendre Python et JavaScript ? 🚀</title>
-            <link>https://www.youtube.com/watch?v=pedtcyxyYjA</link>
-            <description><![CDATA[La géomatique ne se limite plus à QGIS ou ArcGIS. Aujourd'hui, apprendre Python et JavaScript permet au géomaticien ...]]></description>
-            <pubDate>Sat, 22 Aug 2026 18:28:12 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=pedtcyxyYjA</guid>
-            <source>Chancelor Kamera </source>
+            <title>Les 5 meilleurs probiotiques en 2026</title>
+            <link>https://www.futura-sciences.com/conso/guides-achat/guides-sante-5-meilleurs-probiotiques-2026-1621/</link>
+            <description><![CDATA[Quel probiotique choisir en 2026 ? Comparatif de 5 références, décryptage des souches, des dosages et des technologies de protection, avec l'avis de professionnels de santé.]]></description>
+            <pubDate>Thu, 15 Oct 2026 08:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/conso/guides-achat/guides-sante-5-meilleurs-probiotiques-2026-1621/</guid>
+            <source>Futura</source>
+        </item>
+        <item>
+            <title>Prix d’appel et de renouvellement de 8 VPN accessibles depuis la France septembre 2026</title>
+            <link>https://www.data.gouv.fr/datasets/prix-dappel-et-de-renouvellement-de-8-vpn-accessibles-depuis-la-france-septembre-2026</link>
+            <description><![CDATA[Ce jeu de données compare les prix d’appel et les tarifs de renouvellement de huit VPN accessibles depuis la France : Private Internet Access, CyberGhost, Surfshark, ExpressVPN, NordVPN, Proton VPN, W...]]></description>
+            <pubDate>Thu, 15 Oct 2026 09:20:21 -0000</pubDate>
+            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/prix-dappel-et-de-renouvellement-de-8-vpn-accessibles-depuis-la-france-septembre-2026</guid>
+            <source>Gouv.fr</source>
+        </item>
+        <item>
+            <title>Faux SMS, e-mails piégés, pages douteuses : Surfshark veut aller au-delà du VPN</title>
+            <link>https://www.futura-sciences.com/conso/bons-plans/guides-vpn-faux-sms-e-mails-pieges-pages-douteuses-surfshark-veut-aller-dela-vpn-11547/</link>
+            <description><![CDATA[Surfshark One associe VPN, antivirus et surveillance des fuites de données dans un même abonnement.Une formule pensée pour renforcer sa sécurité en ligne tout en simplifiant la gestion de ses protecti...]]></description>
+            <pubDate>Thu, 15 Oct 2026 11:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/conso/bons-plans/guides-vpn-faux-sms-e-mails-pieges-pages-douteuses-surfshark-veut-aller-dela-vpn-11547/</guid>
+            <source>Futura</source>
         </item>
     </channel>
 </rss>
