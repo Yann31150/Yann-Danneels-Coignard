@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-17T12:02:42.571032",
+  "lastUpdate": "2026-10-18T12:31:03.017067",
   "articles": [
     {
       "title": "Formation Power BI #4 — Power Query : nettoyer et préparer les données",
@@ -48,6 +48,18 @@
       "isYouTube": true,
       "videoId": "J3YIeIEeIl8",
       "thumbnail": "https://i.ytimg.com/vi/J3YIeIEeIl8/hqdefault.jpg"
+    },
+    {
+      "title": "Formation Power BI #2 — Découvrir Power BI",
+      "description": "L'écosystème et le flux de travail Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain. Cette version ...",
+      "url": "https://www.youtube.com/watch?v=umhogyl2A14",
+      "source": "Bitdyne",
+      "publishedAt": "2026-10-10T12:08:54Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "umhogyl2A14",
+      "thumbnail": "https://i.ytimg.com/vi/umhogyl2A14/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI #5 — Le modèle de données et le schéma en étoile",
@@ -110,18 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
     },
     {
-      "title": "Python &amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python",
-      "description": "Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...",
-      "url": "https://www.youtube.com/watch?v=1o308cqkEXc",
-      "source": "Mausse Institut",
-      "publishedAt": "2026-08-20T23:58:11Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1o308cqkEXc",
-      "thumbnail": "https://i.ytimg.com/vi/1o308cqkEXc/hqdefault.jpg"
-    },
-    {
       "title": "Python : introduction à pandas pour l&#39;analyse de données",
       "description": "Seizième épisode de la Formation Python Bitdyne : découvrir pandas. Le DataFrame, filtrer des lignes, regrouper et agréger ...",
       "url": "https://www.youtube.com/watch?v=cIfEIoT3MCc",
@@ -144,18 +144,6 @@
       "isYouTube": true,
       "videoId": "3_q1VH5GTDI",
       "thumbnail": "https://i.ytimg.com/vi/3_q1VH5GTDI/hqdefault.jpg"
-    },
-    {
-      "title": "Formation Power BI #8 — Créer des visuels efficaces",
-      "description": "Choisir le bon graphique, hiérarchiser l'information, éviter les pièges qui trompent l'œil Formation Power BI par Bitdyne.",
-      "url": "https://www.youtube.com/watch?v=vA_YmNopsHQ",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-10T12:26:57Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "vA_YmNopsHQ",
-      "thumbnail": "https://i.ytimg.com/vi/vA_YmNopsHQ/hqdefault.jpg"
     },
     {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",

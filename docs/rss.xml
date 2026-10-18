@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 17 Oct 2026 12:02:42 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 12:31:03 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -42,6 +42,14 @@
             <description><![CDATA[Troisième épisode de la Formation Machine learning &amp; data science de Bitdyne, pour consultants au Maroc. La préparation des ...]]></description>
             <pubDate>Tue, 08 Sep 2026 22:24:34 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=J3YIeIEeIl8</guid>
+            <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>Formation Power BI #2 — Découvrir Power BI</title>
+            <link>https://www.youtube.com/watch?v=umhogyl2A14</link>
+            <description><![CDATA[L'écosystème et le flux de travail Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain. Cette version ...]]></description>
+            <pubDate>Sat, 10 Oct 2026 12:08:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=umhogyl2A14</guid>
             <source>Bitdyne</source>
         </item>
         <item>
@@ -85,14 +93,6 @@
             <source>IA Futura</source>
         </item>
         <item>
-            <title>Python &amp;amp; Data Science 🎤🐍 | Le Rap des Bibliothèques Python</title>
-            <link>https://www.youtube.com/watch?v=1o308cqkEXc</link>
-            <description><![CDATA[Dans ce rap éducatif en français, partez à la découverte des principales bibliothèques Python utilisées en Data Science, Machine ...]]></description>
-            <pubDate>Thu, 20 Aug 2026 23:58:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1o308cqkEXc</guid>
-            <source>Mausse Institut</source>
-        </item>
-        <item>
             <title>Python : introduction à pandas pour l&amp;#39;analyse de données</title>
             <link>https://www.youtube.com/watch?v=cIfEIoT3MCc</link>
             <description><![CDATA[Seizième épisode de la Formation Python Bitdyne : découvrir pandas. Le DataFrame, filtrer des lignes, regrouper et agréger ...]]></description>
@@ -106,14 +106,6 @@
             <description><![CDATA[Premier épisode de la Formation SQL Bitdyne. Le problème que résout SQL : accéder soi-même à l'information qui dort dans les ...]]></description>
             <pubDate>Fri, 09 Oct 2026 12:23:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=3_q1VH5GTDI</guid>
-            <source>Bitdyne</source>
-        </item>
-        <item>
-            <title>Formation Power BI #8 — Créer des visuels efficaces</title>
-            <link>https://www.youtube.com/watch?v=vA_YmNopsHQ</link>
-            <description><![CDATA[Choisir le bon graphique, hiérarchiser l'information, éviter les pièges qui trompent l'œil Formation Power BI par Bitdyne.]]></description>
-            <pubDate>Sat, 10 Oct 2026 12:26:57 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=vA_YmNopsHQ</guid>
             <source>Bitdyne</source>
         </item>
         <item>
