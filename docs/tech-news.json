@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-10-19T15:23:15.801621",
+  "lastUpdate": "2026-10-20T13:26:05.259588",
   "articles": [
-    {
-      "title": "Formation Power BI #4 — Power Query : nettoyer et préparer les données",
-      "description": "Des données brutes aux données prêtes : l'atelier où se gagne la fiabilité du rapport Formation Power BI par Bitdyne.",
-      "url": "https://www.youtube.com/watch?v=bjUQ1UCEHVk",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-10T12:15:37Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "bjUQ1UCEHVk",
-      "thumbnail": "https://i.ytimg.com/vi/bjUQ1UCEHVk/hqdefault.jpg"
-    },
     {
       "title": "J’ai Trouvé le Système ULTIME pour Utiliser l’IA GRATUITEMENT",
       "description": "Vous voulez accéder à ChatGPT, Claude, Gemini, DeepSeek, Grok et bien d'autres modèles d'IA depuis une seule plateforme ?",
@@ -48,18 +36,6 @@
       "isYouTube": true,
       "videoId": "J3YIeIEeIl8",
       "thumbnail": "https://i.ytimg.com/vi/J3YIeIEeIl8/hqdefault.jpg"
-    },
-    {
-      "title": "Formation Power BI #2 — Découvrir Power BI",
-      "description": "L'écosystème et le flux de travail Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain. Cette version ...",
-      "url": "https://www.youtube.com/watch?v=umhogyl2A14",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-10T12:08:54Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "umhogyl2A14",
-      "thumbnail": "https://i.ytimg.com/vi/umhogyl2A14/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI #5 — Le modèle de données et le schéma en étoile",
@@ -122,6 +98,42 @@
       "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
     },
     {
+      "title": "Comprendre le Feature Engineering en Data Science (Guide Clair)",
+      "description": "Découvrez ce qu'est le feature engineering et pourquoi il est crucial en data science et en machine learning. Nous vous ...",
+      "url": "https://www.youtube.com/watch?v=DSYu-xKge_s",
+      "source": "Daniel Guedegbe",
+      "publishedAt": "2026-09-06T18:07:53Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "DSYu-xKge_s",
+      "thumbnail": "https://i.ytimg.com/vi/DSYu-xKge_s/hqdefault.jpg"
+    },
+    {
+      "title": "Clustering de variables avec le package « clustvartools » pour Python",
+      "description": "Machine learning. Data science. Le package « clustvartools » pour Python propose une panoplie clé en main d'algorithmes de ...",
+      "url": "https://www.youtube.com/watch?v=feIiOQVPPuM",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-10-15T14:33:41Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "feIiOQVPPuM",
+      "thumbnail": "https://i.ytimg.com/vi/feIiOQVPPuM/hqdefault.jpg"
+    },
+    {
+      "title": "Filtrer une table avec Filter dans Power BI",
+      "description": "Série Power BI - Vidéo 18 : la fonction FILTER en DAX dans Power BI Dans cette vidéo de formation, nous allons découvrir ...",
+      "url": "https://www.youtube.com/watch?v=Tmz4jXuBGdI",
+      "source": "Devenir Expert Data",
+      "publishedAt": "2026-10-18T18:54:42Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Tmz4jXuBGdI",
+      "thumbnail": "https://i.ytimg.com/vi/Tmz4jXuBGdI/hqdefault.jpg"
+    },
+    {
       "title": "Python : introduction à pandas pour l&#39;analyse de données",
       "description": "Seizième épisode de la Formation Python Bitdyne : découvrir pandas. Le DataFrame, filtrer des lignes, regrouper et agréger ...",
       "url": "https://www.youtube.com/watch?v=cIfEIoT3MCc",
@@ -144,6 +156,18 @@
       "isYouTube": true,
       "videoId": "3_q1VH5GTDI",
       "thumbnail": "https://i.ytimg.com/vi/3_q1VH5GTDI/hqdefault.jpg"
+    },
+    {
+      "title": "Test de niveau Power BI : 30 questions pour se situer 🔥",
+      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
+      "url": "https://www.youtube.com/watch?v=31eK0Sk330A",
+      "source": "Morpheus Formation | Excel, Power BI, Data",
+      "publishedAt": "2026-08-27T07:27:34Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "31eK0Sk330A",
+      "thumbnail": "https://i.ytimg.com/vi/31eK0Sk330A/hqdefault.jpg"
     },
     {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
