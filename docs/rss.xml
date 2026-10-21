@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 20 Oct 2026 13:26:05 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 13:35:34 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>J’ai Trouvé le Système ULTIME pour Utiliser l’IA GRATUITEMENT</title>
-            <link>https://www.youtube.com/watch?v=8NewbH_MQ6M</link>
-            <description><![CDATA[Vous voulez accéder à ChatGPT, Claude, Gemini, DeepSeek, Grok et bien d'autres modèles d'IA depuis une seule plateforme ?]]></description>
-            <pubDate>Sat, 12 Sep 2026 16:00:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=8NewbH_MQ6M</guid>
-            <source>Parlons Cyber</source>
+            <title>Formation Power BI #4 — Power Query : nettoyer et préparer les données</title>
+            <link>https://www.youtube.com/watch?v=bjUQ1UCEHVk</link>
+            <description><![CDATA[Des données brutes aux données prêtes : l'atelier où se gagne la fiabilité du rapport Formation Power BI par Bitdyne.]]></description>
+            <pubDate>Sat, 10 Oct 2026 12:15:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=bjUQ1UCEHVk</guid>
+            <source>Bitdyne</source>
         </item>
         <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
@@ -29,11 +29,27 @@
             <source>Bitdyne</source>
         </item>
         <item>
+            <title>Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)</title>
+            <link>https://www.youtube.com/watch?v=1ynUnP7VHsE</link>
+            <description><![CDATA[Tu veux être accompagné pour passer à l'action ? Réserve 30 minutes avec un coach Alegria ...]]></description>
+            <pubDate>Tue, 06 Oct 2026 14:04:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1ynUnP7VHsE</guid>
+            <source>Alegria Group</source>
+        </item>
+        <item>
             <title>Explorer et préparer ses données avec pandas (data science)</title>
             <link>https://www.youtube.com/watch?v=J3YIeIEeIl8</link>
             <description><![CDATA[Troisième épisode de la Formation Machine learning &amp; data science de Bitdyne, pour consultants au Maroc. La préparation des ...]]></description>
             <pubDate>Tue, 08 Sep 2026 22:24:34 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=J3YIeIEeIl8</guid>
+            <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>Formation Power BI #2 — Découvrir Power BI</title>
+            <link>https://www.youtube.com/watch?v=umhogyl2A14</link>
+            <description><![CDATA[L'écosystème et le flux de travail Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain. Cette version ...]]></description>
+            <pubDate>Sat, 10 Oct 2026 12:08:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=umhogyl2A14</guid>
             <source>Bitdyne</source>
         </item>
         <item>
@@ -77,30 +93,6 @@
             <source>IA Futura</source>
         </item>
         <item>
-            <title>Comprendre le Feature Engineering en Data Science (Guide Clair)</title>
-            <link>https://www.youtube.com/watch?v=DSYu-xKge_s</link>
-            <description><![CDATA[Découvrez ce qu'est le feature engineering et pourquoi il est crucial en data science et en machine learning. Nous vous ...]]></description>
-            <pubDate>Sun, 06 Sep 2026 18:07:53 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=DSYu-xKge_s</guid>
-            <source>Daniel Guedegbe</source>
-        </item>
-        <item>
-            <title>Clustering de variables avec le package « clustvartools » pour Python</title>
-            <link>https://www.youtube.com/watch?v=feIiOQVPPuM</link>
-            <description><![CDATA[Machine learning. Data science. Le package « clustvartools » pour Python propose une panoplie clé en main d'algorithmes de ...]]></description>
-            <pubDate>Thu, 15 Oct 2026 14:33:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=feIiOQVPPuM</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
-        </item>
-        <item>
-            <title>Filtrer une table avec Filter dans Power BI</title>
-            <link>https://www.youtube.com/watch?v=Tmz4jXuBGdI</link>
-            <description><![CDATA[Série Power BI - Vidéo 18 : la fonction FILTER en DAX dans Power BI Dans cette vidéo de formation, nous allons découvrir ...]]></description>
-            <pubDate>Sun, 18 Oct 2026 18:54:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Tmz4jXuBGdI</guid>
-            <source>Devenir Expert Data</source>
-        </item>
-        <item>
             <title>Python : introduction à pandas pour l&amp;#39;analyse de données</title>
             <link>https://www.youtube.com/watch?v=cIfEIoT3MCc</link>
             <description><![CDATA[Seizième épisode de la Formation Python Bitdyne : découvrir pandas. Le DataFrame, filtrer des lignes, regrouper et agréger ...]]></description>
@@ -115,14 +107,6 @@
             <pubDate>Fri, 09 Oct 2026 12:23:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=3_q1VH5GTDI</guid>
             <source>Bitdyne</source>
-        </item>
-        <item>
-            <title>Test de niveau Power BI : 30 questions pour se situer 🔥</title>
-            <link>https://www.youtube.com/watch?v=31eK0Sk330A</link>
-            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
-            <pubDate>Thu, 27 Aug 2026 07:27:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=31eK0Sk330A</guid>
-            <source>Morpheus Formation | Excel, Power BI, Data</source>
         </item>
         <item>
             <title>L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto</title>
@@ -141,12 +125,12 @@
             <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)</title>
-            <link>https://www.youtube.com/watch?v=C1esYFoZXBE</link>
-            <description><![CDATA[La plupart des gens utilisent Google Gemini de manière très simple et passent à côté de l'essentiel. Dans cette vidéo, je te ...]]></description>
-            <pubDate>Sun, 30 Aug 2026 16:01:32 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=C1esYFoZXBE</guid>
-            <source>Elliott Pierret</source>
+            <title>Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍</title>
+            <link>https://www.youtube.com/watch?v=Yfbb0q7Mi5E</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 04 Oct 2026 22:23:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Yfbb0q7Mi5E</guid>
+            <source>LaDataFacile</source>
         </item>
     </channel>
 </rss>
