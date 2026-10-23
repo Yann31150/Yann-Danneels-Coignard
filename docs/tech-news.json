@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-10-22T13:37:27.228637",
+  "lastUpdate": "2026-10-23T13:13:10.496090",
   "articles": [
-    {
-      "title": "Formation Power BI #4 — Power Query : nettoyer et préparer les données",
-      "description": "Des données brutes aux données prêtes : l'atelier où se gagne la fiabilité du rapport Formation Power BI par Bitdyne.",
-      "url": "https://www.youtube.com/watch?v=bjUQ1UCEHVk",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-10T12:15:37Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "bjUQ1UCEHVk",
-      "thumbnail": "https://i.ytimg.com/vi/bjUQ1UCEHVk/hqdefault.jpg"
-    },
     {
       "title": "J’ai Trouvé le Système ULTIME pour Utiliser l’IA GRATUITEMENT",
       "description": "Vous voulez accéder à ChatGPT, Claude, Gemini, DeepSeek, Grok et bien d'autres modèles d'IA depuis une seule plateforme ?",
@@ -24,6 +12,18 @@
       "isYouTube": true,
       "videoId": "8NewbH_MQ6M",
       "thumbnail": "https://i.ytimg.com/vi/8NewbH_MQ6M/hqdefault.jpg"
+    },
+    {
+      "title": "Machine Learning : 30 concepts expliqués simplement (de zéro à ChatGPT)",
+      "description": "Comment une machine apprend-elle toute seule ? Et comment ChatGPT arrive-t-il à écrire comme un humain ? En 11 minutes, on ...",
+      "url": "https://www.youtube.com/watch?v=m-5Aks0g_Fk",
+      "source": "Donald Programmeur",
+      "publishedAt": "2026-10-07T02:23:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "m-5Aks0g_Fk",
+      "thumbnail": "https://i.ytimg.com/vi/m-5Aks0g_Fk/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
@@ -110,16 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
     },
     {
-      "title": "HPE va tester une intelligence artificielle directement sur la Lune !",
-      "description": "Avec le HPE Spaceborne Computer-4, Hewlett-Packard Enterprise veut tester le fonctionnement d'une infrastructure capable de faire fonctionner une intelligence artificielle dans les conditions extrêmes...",
-      "url": "https://www.generation-nt.com/actualites/hpc-intelligence-artificielle-lune-test-cpu-gpu-2083164",
-      "source": "Génération NT",
-      "publishedAt": "2026-10-21T11:20:01Z",
+      "title": "Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10",
+      "description": "COMPILATION — Chapitre 6/10 de la formation Data & Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.",
+      "url": "https://www.youtube.com/watch?v=jp6vn3Hp_zc",
+      "source": "IA Futura",
+      "publishedAt": "2026-09-07T11:00:18Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "jp6vn3Hp_zc",
+      "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
     },
     {
       "title": "Filtrer une table avec Filter dans Power BI",
@@ -158,6 +158,18 @@
       "thumbnail": "https://i.ytimg.com/vi/3_q1VH5GTDI/hqdefault.jpg"
     },
     {
+      "title": "Test de niveau Power BI : 30 questions pour se situer 🔥",
+      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
+      "url": "https://www.youtube.com/watch?v=31eK0Sk330A",
+      "source": "Morpheus Formation | Excel, Power BI, Data",
+      "publishedAt": "2026-08-27T07:27:34Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "31eK0Sk330A",
+      "thumbnail": "https://i.ytimg.com/vi/31eK0Sk330A/hqdefault.jpg"
+    },
+    {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
       "description": "",
       "url": "https://www.youtube.com/watch?v=ijEHTjsGNsE",
@@ -170,136 +182,40 @@
       "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
-      "title": "Drones IA et robots tueurs : l’ONU et la Croix-Rouge appellent à des restrictions mondiales",
-      "description": "Dans un monde où les armes autonomes peuvent choisir elles-mêmes leurs cibles, les données peuvent tous nous exposer à un risque, met en garde un ancien combattant américain. Source : Mike Ludwig, Tru...",
-      "url": "https://www.les-crises.fr/drones-ia-et-robots-tueurs-l-onu-et-la-croix-rouge-appellent-a-des-restrictions-mondiales/",
-      "source": "Les-crises.fr",
-      "publishedAt": "2026-10-21T04:55:13Z",
+      "title": "Introduction | SQL - EP1",
+      "description": "Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...",
+      "url": "https://www.youtube.com/watch?v=QXaOjeucWgI",
+      "source": "EvoluNoob",
+      "publishedAt": "2026-08-28T18:00:00Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "QXaOjeucWgI",
+      "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
     },
     {
-      "title": "Psychologie : cette étude montre que les personnes promues au poste de dirigeant ne sont pas toujours les plus performantes",
-      "description": "Les entreprises tendent à accorder des promotions aux employés les plus visibles et pas nécessairement à ceux qui travaillent le plus efficacement. Un biais désormais bien identifié par la recherche e...",
-      "url": "https://www.presse-citron.net/psychologie-cette-etude-montre-que-les-personnes-promues-au-poste-de-dirigeant-ne-sont-pas-toujours-les-plus-performantes/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-10-21T08:53:19Z",
+      "title": "Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Yfbb0q7Mi5E",
+      "source": "LaDataFacile",
+      "publishedAt": "2026-10-04T22:23:54Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Yfbb0q7Mi5E",
+      "thumbnail": "https://i.ytimg.com/vi/Yfbb0q7Mi5E/hqdefault.jpg"
     },
     {
-      "title": "Aux Etats-Unis, des procès en cascade contre OpenAI",
-      "description": "OpenAi est la cible d'une offensive juridique de la part de la justice de différents Etats et de particuliers, qui s'inquiètent de la dangerosité de son produit et la collecte illégale de données.",
-      "url": "https://www.journaldunet.com/economie/services/1556893-aux-etats-unis-des-proces-en-cascade-contre-openai/",
-      "source": "JDN",
-      "publishedAt": "2026-10-21T12:39:22Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Actualité : AMD FSR 4.1 : la technologie d'upscaling désormais dispo sur les Radeon RX 6000, et bientôt sur Xbox Series",
-      "description": "Noël arrive avec de l'avance pour les possesseurs de cartes graphiques Radeon RX 6000 : AMD a mis en ligne les pilotes pour l'intégration de l'upscaling FSR 4.1 sur les anciens GPUs, ainsi que sur ses...",
-      "url": "https://www.lesnumeriques.com/informatique/amd-fsr-4-1-la-technologie-d-upscaling-desormais-dispo-sur-les-radeon-rx-6000-et-bientot-sur-xbox-series-n263574.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-10-20T17:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le FSR 4.1 arrive sur Xbox Series X/S et Xbox Ally, AMD promet un boost de performances colossal sur les consoles",
-      "description": "AMD annonce la compatibilité du FSR 4.1 pour les consoles de salon et portables Xbox de cette génération. Cette technologie devrait permettre aux machines d'offrir des performances en jeu bien supérie...",
-      "url": "https://www.phonandroid.com/le-fsr-4-1-arrive-sur-xbox-series-x-s-et-xbox-ally-amd-promet-un-boost-de-performances-colossal-sur-les-consoles.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-10-20T17:43:13Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "ZDNET Morning 21/10/2026 : Les vulnérabilités évitables en entreprise, Oracle et AstraZeneca s'allient sur la R&D par IA, HPE déploie son supercalculateur sur la Lune,...",
-      "description": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
-      "url": "https://www.zdnet.fr/actualites/zdnet-morning-21-10-2026-les-vulnerabilites-evitables-en-entreprise-oracle-et-astrazeneca-sallient-sur-la-rd-par-ia-hpe-deploie-son-supercalculateur-sur-la-lune-506206.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-10-21T08:53:41Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L'IA ne crée pas une fracture générationnelle, elle révèle une fracture de curiosité",
-      "description": "L'intelligence artificielle ne crée pas une fracture générationnelle mais de curiosité, creusant un fossé rapide entre ceux qui osent l'expérimenter au quotidien et ceux qui attendent passivement.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1556821-l-ia-ne-cree-pas-une-fracture-generationnelle-elle-revele-une-fracture-de-curiosite/",
-      "source": "JDN",
-      "publishedAt": "2026-10-21T08:08:16Z",
+      "title": "Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)",
+      "description": "La plupart des gens utilisent Google Gemini de manière très simple et passent à côté de l'essentiel. Dans cette vidéo, je te ...",
+      "url": "https://www.youtube.com/watch?v=C1esYFoZXBE",
+      "source": "Elliott Pierret",
+      "publishedAt": "2026-08-30T16:01:32Z",
       "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Android Auto : Gemini peut fouiller dans vos mails et photos, mais pas en France",
-      "description": "Google offre une mise à jour majeure à son système d’intelligence artificielle Gemini. Avec Personal Intelligence, l’assistant peut désormais puiser dans Gmail, Agenda, Photos ou Maps pour répondre au...",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3293469_android-auto-gemini-peut-fouiller-dans-vos-mails-et-photos-mais-pas-en-france",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-21T09:50:10Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Elle a démarré plus tard mais elle a misé sur l’open source pour combler son retard : comment la Chine met les moyens dans la course à l’IA",
-      "description": "PODCAST - En poste pendant plusieurs années à Shanghai, le CEO d’Artefact Édouard de Mézerac raconte comment la Chine, privée des puces américaines, est devenue l’une des grandes puissances mondiales ...",
-      "url": "https://www.challenges.fr/entreprise/tech-numerique/elle-a-demarre-plus-tard-mais-elle-a-mise-sur-lopen-source-pour-combler-son-retard-comment-la-chine-met-les-moyens-dans-la-course-a-lia_646466",
-      "source": "Challenges",
-      "publishedAt": "2026-10-20T10:30:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "HPE va tester l’IA et le calcul haute performance à la surface de la Lune",
-      "description": "HPE enverra fin 2026 sur la Lune son Spaceborne Computer-4, un module de calcul embarqué sur le rover FLIP d’Astrolab. Il exécutera des modèles d’IA et des benchmarks HPC près du pôle Sud lunaire.",
-      "url": "https://www.zdnet.fr/actualites/hpe-va-tester-lia-et-le-calcul-haute-performance-a-la-surface-de-la-lune-506180.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-10-21T06:10:44Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "ITG nomme Juliette Aiken au poste de directrice marketing de Storyteq afin d'accélérer sa croissance mondiale",
-      "description": "Une dirigeante du marketing sectoriel rejoint Storyteq afin d'accélérer la croissance et renforcer la position d'ITG en tant que leader mondial des entreprises de contenu alimentées par l'IA. CHICAGO,...",
-      "url": "https://www.prnewswire.com/news-releases/itg-nomme-juliette-aiken-au-poste-de-directrice-marketing-de-storyteq-afin-daccelerer-sa-croissance-mondiale-302915533.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-10-21T13:32:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "C1esYFoZXBE",
+      "thumbnail": "https://i.ytimg.com/vi/C1esYFoZXBE/hqdefault.jpg"
     }
   ]
 }

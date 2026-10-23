@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 22 Oct 2026 13:37:27 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 13:13:10 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,20 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Formation Power BI #4 — Power Query : nettoyer et préparer les données</title>
-            <link>https://www.youtube.com/watch?v=bjUQ1UCEHVk</link>
-            <description><![CDATA[Des données brutes aux données prêtes : l'atelier où se gagne la fiabilité du rapport Formation Power BI par Bitdyne.]]></description>
-            <pubDate>Sat, 10 Oct 2026 12:15:37 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=bjUQ1UCEHVk</guid>
-            <source>Bitdyne</source>
-        </item>
-        <item>
             <title>J’ai Trouvé le Système ULTIME pour Utiliser l’IA GRATUITEMENT</title>
             <link>https://www.youtube.com/watch?v=8NewbH_MQ6M</link>
             <description><![CDATA[Vous voulez accéder à ChatGPT, Claude, Gemini, DeepSeek, Grok et bien d'autres modèles d'IA depuis une seule plateforme ?]]></description>
             <pubDate>Sat, 12 Sep 2026 16:00:08 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=8NewbH_MQ6M</guid>
             <source>Parlons Cyber</source>
+        </item>
+        <item>
+            <title>Machine Learning : 30 concepts expliqués simplement (de zéro à ChatGPT)</title>
+            <link>https://www.youtube.com/watch?v=m-5Aks0g_Fk</link>
+            <description><![CDATA[Comment une machine apprend-elle toute seule ? Et comment ChatGPT arrive-t-il à écrire comme un humain ? En 11 minutes, on ...]]></description>
+            <pubDate>Wed, 07 Oct 2026 02:23:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=m-5Aks0g_Fk</guid>
+            <source>Donald Programmeur</source>
         </item>
         <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
@@ -85,12 +85,12 @@
             <source>Jeune Financier Africain </source>
         </item>
         <item>
-            <title>HPE va tester une intelligence artificielle directement sur la Lune !</title>
-            <link>https://www.generation-nt.com/actualites/hpc-intelligence-artificielle-lune-test-cpu-gpu-2083164</link>
-            <description><![CDATA[Avec le HPE Spaceborne Computer-4, Hewlett-Packard Enterprise veut tester le fonctionnement d'une infrastructure capable de faire fonctionner une intelligence artificielle dans les conditions extrêmes...]]></description>
-            <pubDate>Wed, 21 Oct 2026 11:20:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/hpc-intelligence-artificielle-lune-test-cpu-gpu-2083164</guid>
-            <source>Génération NT</source>
+            <title>Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10</title>
+            <link>https://www.youtube.com/watch?v=jp6vn3Hp_zc</link>
+            <description><![CDATA[COMPILATION — Chapitre 6/10 de la formation Data &amp; Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.]]></description>
+            <pubDate>Mon, 07 Sep 2026 11:00:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=jp6vn3Hp_zc</guid>
+            <source>IA Futura</source>
         </item>
         <item>
             <title>Filtrer une table avec Filter dans Power BI</title>
@@ -117,6 +117,14 @@
             <source>Bitdyne</source>
         </item>
         <item>
+            <title>Test de niveau Power BI : 30 questions pour se situer 🔥</title>
+            <link>https://www.youtube.com/watch?v=31eK0Sk330A</link>
+            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
+            <pubDate>Thu, 27 Aug 2026 07:27:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=31eK0Sk330A</guid>
+            <source>Morpheus Formation | Excel, Power BI, Data</source>
+        </item>
+        <item>
             <title>L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto</title>
             <link>https://www.youtube.com/watch?v=ijEHTjsGNsE</link>
             <description><![CDATA[]]></description>
@@ -125,52 +133,28 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Drones IA et robots tueurs : l’ONU et la Croix-Rouge appellent à des restrictions mondiales</title>
-            <link>https://www.les-crises.fr/drones-ia-et-robots-tueurs-l-onu-et-la-croix-rouge-appellent-a-des-restrictions-mondiales/</link>
-            <description><![CDATA[Dans un monde où les armes autonomes peuvent choisir elles-mêmes leurs cibles, les données peuvent tous nous exposer à un risque, met en garde un ancien combattant américain. Source : Mike Ludwig, Tru...]]></description>
-            <pubDate>Wed, 21 Oct 2026 04:55:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.les-crises.fr/drones-ia-et-robots-tueurs-l-onu-et-la-croix-rouge-appellent-a-des-restrictions-mondiales/</guid>
-            <source>Les-crises.fr</source>
+            <title>Introduction | SQL - EP1</title>
+            <link>https://www.youtube.com/watch?v=QXaOjeucWgI</link>
+            <description><![CDATA[Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...]]></description>
+            <pubDate>Fri, 28 Aug 2026 18:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=QXaOjeucWgI</guid>
+            <source>EvoluNoob</source>
         </item>
         <item>
-            <title>Psychologie : cette étude montre que les personnes promues au poste de dirigeant ne sont pas toujours les plus performantes</title>
-            <link>https://www.presse-citron.net/psychologie-cette-etude-montre-que-les-personnes-promues-au-poste-de-dirigeant-ne-sont-pas-toujours-les-plus-performantes/</link>
-            <description><![CDATA[Les entreprises tendent à accorder des promotions aux employés les plus visibles et pas nécessairement à ceux qui travaillent le plus efficacement. Un biais désormais bien identifié par la recherche e...]]></description>
-            <pubDate>Wed, 21 Oct 2026 08:53:19 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/psychologie-cette-etude-montre-que-les-personnes-promues-au-poste-de-dirigeant-ne-sont-pas-toujours-les-plus-performantes/</guid>
-            <source>Presse-citron</source>
+            <title>Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍</title>
+            <link>https://www.youtube.com/watch?v=Yfbb0q7Mi5E</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 04 Oct 2026 22:23:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Yfbb0q7Mi5E</guid>
+            <source>LaDataFacile</source>
         </item>
         <item>
-            <title>Aux Etats-Unis, des procès en cascade contre OpenAI</title>
-            <link>https://www.journaldunet.com/economie/services/1556893-aux-etats-unis-des-proces-en-cascade-contre-openai/</link>
-            <description><![CDATA[OpenAi est la cible d'une offensive juridique de la part de la justice de différents Etats et de particuliers, qui s'inquiètent de la dangerosité de son produit et la collecte illégale de données.]]></description>
-            <pubDate>Wed, 21 Oct 2026 12:39:22 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/economie/services/1556893-aux-etats-unis-des-proces-en-cascade-contre-openai/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
-            <title>Actualité : AMD FSR 4.1 : la technologie d'upscaling désormais dispo sur les Radeon RX 6000, et bientôt sur Xbox Series</title>
-            <link>https://www.lesnumeriques.com/informatique/amd-fsr-4-1-la-technologie-d-upscaling-desormais-dispo-sur-les-radeon-rx-6000-et-bientot-sur-xbox-series-n263574.html</link>
-            <description><![CDATA[Noël arrive avec de l'avance pour les possesseurs de cartes graphiques Radeon RX 6000 : AMD a mis en ligne les pilotes pour l'intégration de l'upscaling FSR 4.1 sur les anciens GPUs, ainsi que sur ses...]]></description>
-            <pubDate>Tue, 20 Oct 2026 17:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/informatique/amd-fsr-4-1-la-technologie-d-upscaling-desormais-dispo-sur-les-radeon-rx-6000-et-bientot-sur-xbox-series-n263574.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
-            <title>Le FSR 4.1 arrive sur Xbox Series X/S et Xbox Ally, AMD promet un boost de performances colossal sur les consoles</title>
-            <link>https://www.phonandroid.com/le-fsr-4-1-arrive-sur-xbox-series-x-s-et-xbox-ally-amd-promet-un-boost-de-performances-colossal-sur-les-consoles.html</link>
-            <description><![CDATA[AMD annonce la compatibilité du FSR 4.1 pour les consoles de salon et portables Xbox de cette génération. Cette technologie devrait permettre aux machines d'offrir des performances en jeu bien supérie...]]></description>
-            <pubDate>Tue, 20 Oct 2026 17:43:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.phonandroid.com/le-fsr-4-1-arrive-sur-xbox-series-x-s-et-xbox-ally-amd-promet-un-boost-de-performances-colossal-sur-les-consoles.html</guid>
-            <source>Phonandroid</source>
-        </item>
-        <item>
-            <title>ZDNET Morning 21/10/2026 : Les vulnérabilités évitables en entreprise, Oracle et AstraZeneca s'allient sur la R&amp;D par IA, HPE déploie son supercalculateur sur la Lune,...</title>
-            <link>https://www.zdnet.fr/actualites/zdnet-morning-21-10-2026-les-vulnerabilites-evitables-en-entreprise-oracle-et-astrazeneca-sallient-sur-la-rd-par-ia-hpe-deploie-son-supercalculateur-sur-la-lune-506206.htm</link>
-            <description><![CDATA[Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.]]></description>
-            <pubDate>Wed, 21 Oct 2026 08:53:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.zdnet.fr/actualites/zdnet-morning-21-10-2026-les-vulnerabilites-evitables-en-entreprise-oracle-et-astrazeneca-sallient-sur-la-rd-par-ia-hpe-deploie-son-supercalculateur-sur-la-lune-506206.htm</guid>
-            <source>ZDNet France</source>
+            <title>Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)</title>
+            <link>https://www.youtube.com/watch?v=C1esYFoZXBE</link>
+            <description><![CDATA[La plupart des gens utilisent Google Gemini de manière très simple et passent à côté de l'essentiel. Dans cette vidéo, je te ...]]></description>
+            <pubDate>Sun, 30 Aug 2026 16:01:32 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=C1esYFoZXBE</guid>
+            <source>Elliott Pierret</source>
         </item>
     </channel>
 </rss>
