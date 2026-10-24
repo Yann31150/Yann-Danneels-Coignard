@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-10-23T13:13:10.496090",
+  "lastUpdate": "2026-10-24T12:31:05.451471",
   "articles": [
+    {
+      "title": "Formation Power BI #4 — Power Query : nettoyer et préparer les données",
+      "description": "Des données brutes aux données prêtes : l'atelier où se gagne la fiabilité du rapport Formation Power BI par Bitdyne.",
+      "url": "https://www.youtube.com/watch?v=bjUQ1UCEHVk",
+      "source": "Bitdyne",
+      "publishedAt": "2026-10-10T12:15:37Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "bjUQ1UCEHVk",
+      "thumbnail": "https://i.ytimg.com/vi/bjUQ1UCEHVk/hqdefault.jpg"
+    },
     {
       "title": "J’ai Trouvé le Système ULTIME pour Utiliser l’IA GRATUITEMENT",
       "description": "Vous voulez accéder à ChatGPT, Claude, Gemini, DeepSeek, Grok et bien d'autres modèles d'IA depuis une seule plateforme ?",
@@ -14,18 +26,6 @@
       "thumbnail": "https://i.ytimg.com/vi/8NewbH_MQ6M/hqdefault.jpg"
     },
     {
-      "title": "Machine Learning : 30 concepts expliqués simplement (de zéro à ChatGPT)",
-      "description": "Comment une machine apprend-elle toute seule ? Et comment ChatGPT arrive-t-il à écrire comme un humain ? En 11 minutes, on ...",
-      "url": "https://www.youtube.com/watch?v=m-5Aks0g_Fk",
-      "source": "Donald Programmeur",
-      "publishedAt": "2026-10-07T02:23:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "m-5Aks0g_Fk",
-      "thumbnail": "https://i.ytimg.com/vi/m-5Aks0g_Fk/hqdefault.jpg"
-    },
-    {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
       "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
       "url": "https://www.youtube.com/watch?v=WUzHvB7FICc",
@@ -36,6 +36,18 @@
       "isYouTube": true,
       "videoId": "WUzHvB7FICc",
       "thumbnail": "https://i.ytimg.com/vi/WUzHvB7FICc/hqdefault.jpg"
+    },
+    {
+      "title": "Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)",
+      "description": "Tu veux être accompagné pour passer à l'action ? Réserve 30 minutes avec un coach Alegria ...",
+      "url": "https://www.youtube.com/watch?v=1ynUnP7VHsE",
+      "source": "Alegria Group",
+      "publishedAt": "2026-10-06T14:04:51Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1ynUnP7VHsE",
+      "thumbnail": "https://i.ytimg.com/vi/1ynUnP7VHsE/hqdefault.jpg"
     },
     {
       "title": "Explorer et préparer ses données avec pandas (data science)",
@@ -72,18 +84,6 @@
       "isYouTube": true,
       "videoId": "t9dIU3Od0SE",
       "thumbnail": "https://i.ytimg.com/vi/t9dIU3Od0SE/hqdefault.jpg"
-    },
-    {
-      "title": "Comment se former à l&#39;Intelligence Artificielle gratuitement et en français ? 🚀",
-      "description": "Comment se former à l'Intelligence Artificielle gratuitement et en français ? Tu veux apprendre l'IA sans dépenser un centime et ...",
-      "url": "https://www.youtube.com/watch?v=e2M2dlhbeDo",
-      "source": "ASTUCES DES PRO",
-      "publishedAt": "2026-08-25T08:56:04Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "e2M2dlhbeDo",
-      "thumbnail": "https://i.ytimg.com/vi/e2M2dlhbeDo/hqdefault.jpg"
     },
     {
       "title": "URGENT : Machine Learning, Ia, — analyse rapide",
@@ -156,18 +156,6 @@
       "isYouTube": true,
       "videoId": "3_q1VH5GTDI",
       "thumbnail": "https://i.ytimg.com/vi/3_q1VH5GTDI/hqdefault.jpg"
-    },
-    {
-      "title": "Test de niveau Power BI : 30 questions pour se situer 🔥",
-      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
-      "url": "https://www.youtube.com/watch?v=31eK0Sk330A",
-      "source": "Morpheus Formation | Excel, Power BI, Data",
-      "publishedAt": "2026-08-27T07:27:34Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "31eK0Sk330A",
-      "thumbnail": "https://i.ytimg.com/vi/31eK0Sk330A/hqdefault.jpg"
     },
     {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",

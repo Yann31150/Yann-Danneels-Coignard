@@ -5,13 +5,21 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 23 Oct 2026 13:13:10 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 12:31:05 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>Formation Power BI #4 — Power Query : nettoyer et préparer les données</title>
+            <link>https://www.youtube.com/watch?v=bjUQ1UCEHVk</link>
+            <description><![CDATA[Des données brutes aux données prêtes : l'atelier où se gagne la fiabilité du rapport Formation Power BI par Bitdyne.]]></description>
+            <pubDate>Sat, 10 Oct 2026 12:15:37 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=bjUQ1UCEHVk</guid>
+            <source>Bitdyne</source>
+        </item>
         <item>
             <title>J’ai Trouvé le Système ULTIME pour Utiliser l’IA GRATUITEMENT</title>
             <link>https://www.youtube.com/watch?v=8NewbH_MQ6M</link>
@@ -21,20 +29,20 @@
             <source>Parlons Cyber</source>
         </item>
         <item>
-            <title>Machine Learning : 30 concepts expliqués simplement (de zéro à ChatGPT)</title>
-            <link>https://www.youtube.com/watch?v=m-5Aks0g_Fk</link>
-            <description><![CDATA[Comment une machine apprend-elle toute seule ? Et comment ChatGPT arrive-t-il à écrire comme un humain ? En 11 minutes, on ...]]></description>
-            <pubDate>Wed, 07 Oct 2026 02:23:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=m-5Aks0g_Fk</guid>
-            <source>Donald Programmeur</source>
-        </item>
-        <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
             <link>https://www.youtube.com/watch?v=WUzHvB7FICc</link>
             <description><![CDATA[Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.]]></description>
             <pubDate>Sat, 10 Oct 2026 12:06:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=WUzHvB7FICc</guid>
             <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)</title>
+            <link>https://www.youtube.com/watch?v=1ynUnP7VHsE</link>
+            <description><![CDATA[Tu veux être accompagné pour passer à l'action ? Réserve 30 minutes avec un coach Alegria ...]]></description>
+            <pubDate>Tue, 06 Oct 2026 14:04:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1ynUnP7VHsE</guid>
+            <source>Alegria Group</source>
         </item>
         <item>
             <title>Explorer et préparer ses données avec pandas (data science)</title>
@@ -59,14 +67,6 @@
             <pubDate>Fri, 09 Oct 2026 16:51:36 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=t9dIU3Od0SE</guid>
             <source>IA Futura</source>
-        </item>
-        <item>
-            <title>Comment se former à l&amp;#39;Intelligence Artificielle gratuitement et en français ? 🚀</title>
-            <link>https://www.youtube.com/watch?v=e2M2dlhbeDo</link>
-            <description><![CDATA[Comment se former à l'Intelligence Artificielle gratuitement et en français ? Tu veux apprendre l'IA sans dépenser un centime et ...]]></description>
-            <pubDate>Tue, 25 Aug 2026 08:56:04 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=e2M2dlhbeDo</guid>
-            <source>ASTUCES DES PRO</source>
         </item>
         <item>
             <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
@@ -115,14 +115,6 @@
             <pubDate>Fri, 09 Oct 2026 12:23:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=3_q1VH5GTDI</guid>
             <source>Bitdyne</source>
-        </item>
-        <item>
-            <title>Test de niveau Power BI : 30 questions pour se situer 🔥</title>
-            <link>https://www.youtube.com/watch?v=31eK0Sk330A</link>
-            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
-            <pubDate>Thu, 27 Aug 2026 07:27:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=31eK0Sk330A</guid>
-            <source>Morpheus Formation | Excel, Power BI, Data</source>
         </item>
         <item>
             <title>L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto</title>
