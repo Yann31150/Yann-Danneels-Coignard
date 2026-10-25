@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-24T12:31:05.451471",
+  "lastUpdate": "2026-10-25T13:04:06.868651",
   "articles": [
     {
       "title": "Formation Power BI #4 — Power Query : nettoyer et préparer les données",
@@ -38,18 +38,6 @@
       "thumbnail": "https://i.ytimg.com/vi/WUzHvB7FICc/hqdefault.jpg"
     },
     {
-      "title": "Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)",
-      "description": "Tu veux être accompagné pour passer à l'action ? Réserve 30 minutes avec un coach Alegria ...",
-      "url": "https://www.youtube.com/watch?v=1ynUnP7VHsE",
-      "source": "Alegria Group",
-      "publishedAt": "2026-10-06T14:04:51Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1ynUnP7VHsE",
-      "thumbnail": "https://i.ytimg.com/vi/1ynUnP7VHsE/hqdefault.jpg"
-    },
-    {
       "title": "Explorer et préparer ses données avec pandas (data science)",
       "description": "Troisième épisode de la Formation Machine learning & data science de Bitdyne, pour consultants au Maroc. La préparation des ...",
       "url": "https://www.youtube.com/watch?v=J3YIeIEeIl8",
@@ -86,6 +74,18 @@
       "thumbnail": "https://i.ytimg.com/vi/t9dIU3Od0SE/hqdefault.jpg"
     },
     {
+      "title": "Comprendre l&#39;Intelligence Artificielle : Les bases expliquées simplement",
+      "description": "L'Intelligence Artificielle et la Data Science sont partout, mais entre le jargon technique et les termes compliqués, difficile d'y voir ...",
+      "url": "https://www.youtube.com/watch?v=yw1bS20gTzc",
+      "source": "Gab JPM",
+      "publishedAt": "2026-10-12T15:15:12Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "yw1bS20gTzc",
+      "thumbnail": "https://i.ytimg.com/vi/yw1bS20gTzc/hqdefault.jpg"
+    },
+    {
       "title": "URGENT : Machine Learning, Ia, — analyse rapide",
       "description": "Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...",
       "url": "https://www.youtube.com/watch?v=NdS8xLrZd_k",
@@ -98,18 +98,6 @@
       "thumbnail": "https://i.ytimg.com/vi/NdS8xLrZd_k/hqdefault.jpg"
     },
     {
-      "title": "Cours complet sur Power BI pour débutant",
-      "description": "Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...",
-      "url": "https://www.youtube.com/watch?v=uJeUP8Z9LsQ",
-      "source": "Jeune Financier Africain ",
-      "publishedAt": "2026-08-25T17:46:11Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "uJeUP8Z9LsQ",
-      "thumbnail": "https://i.ytimg.com/vi/uJeUP8Z9LsQ/hqdefault.jpg"
-    },
-    {
       "title": "Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10",
       "description": "COMPILATION — Chapitre 6/10 de la formation Data & Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.",
       "url": "https://www.youtube.com/watch?v=jp6vn3Hp_zc",
@@ -120,6 +108,18 @@
       "isYouTube": true,
       "videoId": "jp6vn3Hp_zc",
       "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
+    },
+    {
+      "title": "Comprendre le Feature Engineering en Data Science (Guide Clair)",
+      "description": "Découvrez ce qu'est le feature engineering et pourquoi il est crucial en data science et en machine learning. Nous vous ...",
+      "url": "https://www.youtube.com/watch?v=DSYu-xKge_s",
+      "source": "Daniel Guedegbe",
+      "publishedAt": "2026-09-06T18:07:53Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "DSYu-xKge_s",
+      "thumbnail": "https://i.ytimg.com/vi/DSYu-xKge_s/hqdefault.jpg"
     },
     {
       "title": "Filtrer une table avec Filter dans Power BI",
@@ -156,6 +156,18 @@
       "isYouTube": true,
       "videoId": "3_q1VH5GTDI",
       "thumbnail": "https://i.ytimg.com/vi/3_q1VH5GTDI/hqdefault.jpg"
+    },
+    {
+      "title": "Power BI : créer son premier graphique à partir d’Excel",
+      "description": "Découvrez comment importer un fichier Excel dans Power BI et créer votre première visualisation. Dans cet exemple consacré au ...",
+      "url": "https://www.youtube.com/watch?v=qbqaSlk3fho",
+      "source": "Youmout Cours",
+      "publishedAt": "2026-10-11T19:30:25Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "qbqaSlk3fho",
+      "thumbnail": "https://i.ytimg.com/vi/qbqaSlk3fho/hqdefault.jpg"
     },
     {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",

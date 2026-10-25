@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 24 Oct 2026 12:31:05 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 13:04:06 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -37,14 +37,6 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)</title>
-            <link>https://www.youtube.com/watch?v=1ynUnP7VHsE</link>
-            <description><![CDATA[Tu veux être accompagné pour passer à l'action ? Réserve 30 minutes avec un coach Alegria ...]]></description>
-            <pubDate>Tue, 06 Oct 2026 14:04:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1ynUnP7VHsE</guid>
-            <source>Alegria Group</source>
-        </item>
-        <item>
             <title>Explorer et préparer ses données avec pandas (data science)</title>
             <link>https://www.youtube.com/watch?v=J3YIeIEeIl8</link>
             <description><![CDATA[Troisième épisode de la Formation Machine learning &amp; data science de Bitdyne, pour consultants au Maroc. La préparation des ...]]></description>
@@ -69,6 +61,14 @@
             <source>IA Futura</source>
         </item>
         <item>
+            <title>Comprendre l&amp;#39;Intelligence Artificielle : Les bases expliquées simplement</title>
+            <link>https://www.youtube.com/watch?v=yw1bS20gTzc</link>
+            <description><![CDATA[L'Intelligence Artificielle et la Data Science sont partout, mais entre le jargon technique et les termes compliqués, difficile d'y voir ...]]></description>
+            <pubDate>Mon, 12 Oct 2026 15:15:12 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=yw1bS20gTzc</guid>
+            <source>Gab JPM</source>
+        </item>
+        <item>
             <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
             <link>https://www.youtube.com/watch?v=NdS8xLrZd_k</link>
             <description><![CDATA[Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...]]></description>
@@ -77,20 +77,20 @@
             <source>contact omnicirelpc</source>
         </item>
         <item>
-            <title>Cours complet sur Power BI pour débutant</title>
-            <link>https://www.youtube.com/watch?v=uJeUP8Z9LsQ</link>
-            <description><![CDATA[Power BI pour Débutants | Cours Complet en Français Vous voulez apprendre à créer des tableaux de bord professionnels et ...]]></description>
-            <pubDate>Tue, 25 Aug 2026 17:46:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=uJeUP8Z9LsQ</guid>
-            <source>Jeune Financier Africain </source>
-        </item>
-        <item>
             <title>Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10</title>
             <link>https://www.youtube.com/watch?v=jp6vn3Hp_zc</link>
             <description><![CDATA[COMPILATION — Chapitre 6/10 de la formation Data &amp; Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.]]></description>
             <pubDate>Mon, 07 Sep 2026 11:00:18 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=jp6vn3Hp_zc</guid>
             <source>IA Futura</source>
+        </item>
+        <item>
+            <title>Comprendre le Feature Engineering en Data Science (Guide Clair)</title>
+            <link>https://www.youtube.com/watch?v=DSYu-xKge_s</link>
+            <description><![CDATA[Découvrez ce qu'est le feature engineering et pourquoi il est crucial en data science et en machine learning. Nous vous ...]]></description>
+            <pubDate>Sun, 06 Sep 2026 18:07:53 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=DSYu-xKge_s</guid>
+            <source>Daniel Guedegbe</source>
         </item>
         <item>
             <title>Filtrer une table avec Filter dans Power BI</title>
@@ -115,6 +115,14 @@
             <pubDate>Fri, 09 Oct 2026 12:23:00 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=3_q1VH5GTDI</guid>
             <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>Power BI : créer son premier graphique à partir d’Excel</title>
+            <link>https://www.youtube.com/watch?v=qbqaSlk3fho</link>
+            <description><![CDATA[Découvrez comment importer un fichier Excel dans Power BI et créer votre première visualisation. Dans cet exemple consacré au ...]]></description>
+            <pubDate>Sun, 11 Oct 2026 19:30:25 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=qbqaSlk3fho</guid>
+            <source>Youmout Cours</source>
         </item>
         <item>
             <title>L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto</title>
