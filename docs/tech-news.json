@@ -1,30 +1,6 @@
 {
-  "lastUpdate": "2026-10-25T13:04:06.868651",
+  "lastUpdate": "2026-10-26T14:59:27.741712",
   "articles": [
-    {
-      "title": "Formation Power BI #4 — Power Query : nettoyer et préparer les données",
-      "description": "Des données brutes aux données prêtes : l'atelier où se gagne la fiabilité du rapport Formation Power BI par Bitdyne.",
-      "url": "https://www.youtube.com/watch?v=bjUQ1UCEHVk",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-10T12:15:37Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "bjUQ1UCEHVk",
-      "thumbnail": "https://i.ytimg.com/vi/bjUQ1UCEHVk/hqdefault.jpg"
-    },
-    {
-      "title": "J’ai Trouvé le Système ULTIME pour Utiliser l’IA GRATUITEMENT",
-      "description": "Vous voulez accéder à ChatGPT, Claude, Gemini, DeepSeek, Grok et bien d'autres modèles d'IA depuis une seule plateforme ?",
-      "url": "https://www.youtube.com/watch?v=8NewbH_MQ6M",
-      "source": "Parlons Cyber",
-      "publishedAt": "2026-09-12T16:00:08Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "8NewbH_MQ6M",
-      "thumbnail": "https://i.ytimg.com/vi/8NewbH_MQ6M/hqdefault.jpg"
-    },
     {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
       "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
@@ -122,6 +98,30 @@
       "thumbnail": "https://i.ytimg.com/vi/DSYu-xKge_s/hqdefault.jpg"
     },
     {
+      "title": "Clustering de variables avec le package « clustvartools » pour Python",
+      "description": "Machine learning. Data science. Le package « clustvartools » pour Python propose une panoplie clé en main d'algorithmes de ...",
+      "url": "https://www.youtube.com/watch?v=feIiOQVPPuM",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-10-15T14:33:41Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "feIiOQVPPuM",
+      "thumbnail": "https://i.ytimg.com/vi/feIiOQVPPuM/hqdefault.jpg"
+    },
+    {
+      "title": "Visualisation de données — cours complet 1h42 (débutant, sans code) · Chapitre 2/10",
+      "description": "COMPILATION — Chapitre 2/10 de la formation Data & Machine Learning, d'un seul tenant (1h42). 100 % GRATUIT. ⚠️ Aucun ...",
+      "url": "https://www.youtube.com/watch?v=0RCs3npgogY",
+      "source": "IA Futura",
+      "publishedAt": "2026-09-03T09:58:25Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "0RCs3npgogY",
+      "thumbnail": "https://i.ytimg.com/vi/0RCs3npgogY/hqdefault.jpg"
+    },
+    {
       "title": "Filtrer une table avec Filter dans Power BI",
       "description": "Série Power BI - Vidéo 18 : la fonction FILTER en DAX dans Power BI Dans cette vidéo de formation, nous allons découvrir ...",
       "url": "https://www.youtube.com/watch?v=Tmz4jXuBGdI",
@@ -146,16 +146,40 @@
       "thumbnail": "https://i.ytimg.com/vi/cIfEIoT3MCc/hqdefault.jpg"
     },
     {
-      "title": "Découvrir SQL : interroger une base de données (débutant, cas concret)",
-      "description": "Premier épisode de la Formation SQL Bitdyne. Le problème que résout SQL : accéder soi-même à l'information qui dort dans les ...",
-      "url": "https://www.youtube.com/watch?v=3_q1VH5GTDI",
+      "title": "Formation Power BI #8 — Créer des visuels efficaces",
+      "description": "Choisir le bon graphique, hiérarchiser l'information, éviter les pièges qui trompent l'œil Formation Power BI par Bitdyne.",
+      "url": "https://www.youtube.com/watch?v=vA_YmNopsHQ",
       "source": "Bitdyne",
-      "publishedAt": "2026-10-09T12:23:00Z",
+      "publishedAt": "2026-10-10T12:26:57Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "3_q1VH5GTDI",
-      "thumbnail": "https://i.ytimg.com/vi/3_q1VH5GTDI/hqdefault.jpg"
+      "videoId": "vA_YmNopsHQ",
+      "thumbnail": "https://i.ytimg.com/vi/vA_YmNopsHQ/hqdefault.jpg"
+    },
+    {
+      "title": "SQLite de A à Z 🚀 | Apprendre SQL avec des exemples pratiques",
+      "description": "Bienvenue dans cette formation pratique dédiée à SQLite et au langage SQL ! Dans ce cours, nous allons apprendre ...",
+      "url": "https://www.youtube.com/watch?v=igQlVMHx3BI",
+      "source": "bahia_ plus",
+      "publishedAt": "2026-10-18T18:33:47Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "igQlVMHx3BI",
+      "thumbnail": "https://i.ytimg.com/vi/igQlVMHx3BI/hqdefault.jpg"
+    },
+    {
+      "title": "SQL avec PostgreSQL : le cours complet (2 h 29, 34 chapitres, 99 exercices)",
+      "description": "Le cours complet de SQL avec PostgreSQL, de zéro au niveau professionnel : 34 chapitres et 99 exercices corrigés. Les bases ...",
+      "url": "https://www.youtube.com/watch?v=rpVy7sIM9BY",
+      "source": "lioncode",
+      "publishedAt": "2026-10-04T20:20:30Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "rpVy7sIM9BY",
+      "thumbnail": "https://i.ytimg.com/vi/rpVy7sIM9BY/hqdefault.jpg"
     },
     {
       "title": "Power BI : créer son premier graphique à partir d’Excel",
@@ -168,18 +192,6 @@
       "isYouTube": true,
       "videoId": "qbqaSlk3fho",
       "thumbnail": "https://i.ytimg.com/vi/qbqaSlk3fho/hqdefault.jpg"
-    },
-    {
-      "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=ijEHTjsGNsE",
-      "source": "Le Decodeur",
-      "publishedAt": "2026-09-23T13:13:13Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ijEHTjsGNsE",
-      "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
       "title": "Introduction | SQL - EP1",
