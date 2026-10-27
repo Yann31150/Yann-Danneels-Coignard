@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-26T14:59:27.741712",
+  "lastUpdate": "2026-10-27T14:12:31.717978",
   "articles": [
     {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
@@ -14,6 +14,18 @@
       "thumbnail": "https://i.ytimg.com/vi/WUzHvB7FICc/hqdefault.jpg"
     },
     {
+      "title": "Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)",
+      "description": "Tu veux être accompagné pour passer à l'action ? Réserve 30 minutes avec un coach Alegria ...",
+      "url": "https://www.youtube.com/watch?v=1ynUnP7VHsE",
+      "source": "Alegria Group",
+      "publishedAt": "2026-10-06T14:04:51Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1ynUnP7VHsE",
+      "thumbnail": "https://i.ytimg.com/vi/1ynUnP7VHsE/hqdefault.jpg"
+    },
+    {
       "title": "Explorer et préparer ses données avec pandas (data science)",
       "description": "Troisième épisode de la Formation Machine learning & data science de Bitdyne, pour consultants au Maroc. La préparation des ...",
       "url": "https://www.youtube.com/watch?v=J3YIeIEeIl8",
@@ -24,6 +36,18 @@
       "isYouTube": true,
       "videoId": "J3YIeIEeIl8",
       "thumbnail": "https://i.ytimg.com/vi/J3YIeIEeIl8/hqdefault.jpg"
+    },
+    {
+      "title": "Formation Power BI #2 — Découvrir Power BI",
+      "description": "L'écosystème et le flux de travail Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain. Cette version ...",
+      "url": "https://www.youtube.com/watch?v=umhogyl2A14",
+      "source": "Bitdyne",
+      "publishedAt": "2026-10-10T12:08:54Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "umhogyl2A14",
+      "thumbnail": "https://i.ytimg.com/vi/umhogyl2A14/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI #5 — Le modèle de données et le schéma en étoile",
@@ -86,40 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
     },
     {
-      "title": "Comprendre le Feature Engineering en Data Science (Guide Clair)",
-      "description": "Découvrez ce qu'est le feature engineering et pourquoi il est crucial en data science et en machine learning. Nous vous ...",
-      "url": "https://www.youtube.com/watch?v=DSYu-xKge_s",
-      "source": "Daniel Guedegbe",
-      "publishedAt": "2026-09-06T18:07:53Z",
+      "title": "Les ayants droit d’Elvis Presley attaquent Anthropic en justice",
+      "description": "La société d’intelligence artificielle Anthropic est poursuivie en justice par les ayants droit d’Elvis Presley. Ils accusent l’entreprise d’utiliser les chansons du roi du rock’n’roll pour entraîner ...",
+      "url": "https://www.courrierinternational.com/article/musique-les-ayants-droit-d-elvis-presley-attaquent-anthropic-en-justice_281559",
+      "source": "Courrier International",
+      "publishedAt": "2026-10-26T14:11:13Z",
       "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "DSYu-xKge_s",
-      "thumbnail": "https://i.ytimg.com/vi/DSYu-xKge_s/hqdefault.jpg"
-    },
-    {
-      "title": "Clustering de variables avec le package « clustvartools » pour Python",
-      "description": "Machine learning. Data science. Le package « clustvartools » pour Python propose une panoplie clé en main d'algorithmes de ...",
-      "url": "https://www.youtube.com/watch?v=feIiOQVPPuM",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-10-15T14:33:41Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "feIiOQVPPuM",
-      "thumbnail": "https://i.ytimg.com/vi/feIiOQVPPuM/hqdefault.jpg"
-    },
-    {
-      "title": "Visualisation de données — cours complet 1h42 (débutant, sans code) · Chapitre 2/10",
-      "description": "COMPILATION — Chapitre 2/10 de la formation Data & Machine Learning, d'un seul tenant (1h42). 100 % GRATUIT. ⚠️ Aucun ...",
-      "url": "https://www.youtube.com/watch?v=0RCs3npgogY",
-      "source": "IA Futura",
-      "publishedAt": "2026-09-03T09:58:25Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "0RCs3npgogY",
-      "thumbnail": "https://i.ytimg.com/vi/0RCs3npgogY/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Filtrer une table avec Filter dans Power BI",
@@ -146,40 +146,16 @@
       "thumbnail": "https://i.ytimg.com/vi/cIfEIoT3MCc/hqdefault.jpg"
     },
     {
-      "title": "Formation Power BI #8 — Créer des visuels efficaces",
-      "description": "Choisir le bon graphique, hiérarchiser l'information, éviter les pièges qui trompent l'œil Formation Power BI par Bitdyne.",
-      "url": "https://www.youtube.com/watch?v=vA_YmNopsHQ",
+      "title": "Découvrir SQL : interroger une base de données (débutant, cas concret)",
+      "description": "Premier épisode de la Formation SQL Bitdyne. Le problème que résout SQL : accéder soi-même à l'information qui dort dans les ...",
+      "url": "https://www.youtube.com/watch?v=3_q1VH5GTDI",
       "source": "Bitdyne",
-      "publishedAt": "2026-10-10T12:26:57Z",
+      "publishedAt": "2026-10-09T12:23:00Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "vA_YmNopsHQ",
-      "thumbnail": "https://i.ytimg.com/vi/vA_YmNopsHQ/hqdefault.jpg"
-    },
-    {
-      "title": "SQLite de A à Z 🚀 | Apprendre SQL avec des exemples pratiques",
-      "description": "Bienvenue dans cette formation pratique dédiée à SQLite et au langage SQL ! Dans ce cours, nous allons apprendre ...",
-      "url": "https://www.youtube.com/watch?v=igQlVMHx3BI",
-      "source": "bahia_ plus",
-      "publishedAt": "2026-10-18T18:33:47Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "igQlVMHx3BI",
-      "thumbnail": "https://i.ytimg.com/vi/igQlVMHx3BI/hqdefault.jpg"
-    },
-    {
-      "title": "SQL avec PostgreSQL : le cours complet (2 h 29, 34 chapitres, 99 exercices)",
-      "description": "Le cours complet de SQL avec PostgreSQL, de zéro au niveau professionnel : 34 chapitres et 99 exercices corrigés. Les bases ...",
-      "url": "https://www.youtube.com/watch?v=rpVy7sIM9BY",
-      "source": "lioncode",
-      "publishedAt": "2026-10-04T20:20:30Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "rpVy7sIM9BY",
-      "thumbnail": "https://i.ytimg.com/vi/rpVy7sIM9BY/hqdefault.jpg"
+      "videoId": "3_q1VH5GTDI",
+      "thumbnail": "https://i.ytimg.com/vi/3_q1VH5GTDI/hqdefault.jpg"
     },
     {
       "title": "Power BI : créer son premier graphique à partir d’Excel",
@@ -192,6 +168,18 @@
       "isYouTube": true,
       "videoId": "qbqaSlk3fho",
       "thumbnail": "https://i.ytimg.com/vi/qbqaSlk3fho/hqdefault.jpg"
+    },
+    {
+      "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ijEHTjsGNsE",
+      "source": "Le Decodeur",
+      "publishedAt": "2026-09-23T13:13:13Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "ijEHTjsGNsE",
+      "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
       "title": "Introduction | SQL - EP1",
@@ -218,16 +206,88 @@
       "thumbnail": "https://i.ytimg.com/vi/Yfbb0q7Mi5E/hqdefault.jpg"
     },
     {
-      "title": "Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)",
-      "description": "La plupart des gens utilisent Google Gemini de manière très simple et passent à côté de l'essentiel. Dans cette vidéo, je te ...",
-      "url": "https://www.youtube.com/watch?v=C1esYFoZXBE",
-      "source": "Elliott Pierret",
-      "publishedAt": "2026-08-30T16:01:32Z",
+      "title": "Un voilier drone de 7 mètres encercle l'Antarctique pendant 5 ans pour traquer le carbone",
+      "description": "Depuis le 20 septembre, le drone de surface autonome Saildrone Explorer SD-1092 réalise une circumnavigation solitaire de 200 jours autour du pôle Sud. Dirigée par la NOAA (Agence américaine d'observa...",
+      "url": "https://www.generation-nt.com/actualites/voilier-drone-antarctique-carbone-2083275",
+      "source": "Génération NT",
+      "publishedAt": "2026-10-25T13:00:01Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Projection laser TriChroma de Hisense : le cinéma très grand format s’installe dans le salon",
+      "description": "La projection laser, ce n’est plus un simple gadget de cinéphile depuis bien longtemps : désormais, c’est une véritable alternative au très grand téléviseur, surtout lorsque l’on se tourne vers les ac...",
+      "url": "https://www.lesnumeriques.com/videoprojecteur/projection-laser-trichroma-de-hisense-le-cinema-tres-grand-format-s-installe-dans-le-salon-na263802.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-10-26T14:00:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Octobre Noir : l'IA met le feu à la cybersécurité mondiale !",
+      "description": "Le secteur de la cybersécurité est en ébullition. La cause : une intelligence artificielle devenue si performante qu'elle débusque les failles de l'Internet à un rythme que même les experts peinent à ...",
+      "url": "https://www.generation-nt.com/actualites/octobre-noir-cybersecurite-faille-vulnerabilite-intelligence-artificielle-2083413",
+      "source": "Génération NT",
+      "publishedAt": "2026-10-26T10:20:01Z",
       "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "C1esYFoZXBE",
-      "thumbnail": "https://i.ytimg.com/vi/C1esYFoZXBE/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Une IA qui se reproduit comme un organisme vivant : les chercheurs explorent un scénario digne de la science-fiction !",
+      "description": "Des virus et des malwares dopés aux LLMs, voilà ce que testent des chercheurs d’Anthropic, la société qui développe Claude. Mais au-delà d’un gros titre à faire frémir les plus confiants, ces travaux ...",
+      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-ia-reproduit-comme-organisme-vivant-chercheurs-explorent-scenario-digne-science-fiction-138717/",
+      "source": "Futura",
+      "publishedAt": "2026-10-25T11:21:18Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft Teams déploie une détection des deepfakes et du phishing par intelligence artificielle dès novembre",
+      "description": "Dès novembre 2026, Microsoft Teams déploie deux boucliers majeurs : une détection du phishing par IA analysant le contexte des conversations et l'intégration d'outils tiers pour repérer les deepfakes ...",
+      "url": "https://www.generation-nt.com/actualites/microsoft-teams-detection-deepfakes-phishing-2083394",
+      "source": "Génération NT",
+      "publishedAt": "2026-10-26T09:00:01Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Grok génère son Odyssée en IA, Nolan peut dormir tranquille",
+      "description": "Elon Musk avait promis un long-métrage entier de l'Odyssée généré par intelligence artificielle, histoire de montrer à Christopher Nolan comment adapter Homère. Les sept premières minutes sont en lign...",
+      "url": "https://www.mac4ever.com/ia/198727-grok-genere-son-odyssee-en-ia-nolan-peut-dormir-tranquille",
+      "source": "Mac4ever",
+      "publishedAt": "2026-10-26T13:45:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "IA conversationnelle et apprentissage des langues : ce qu'il en reste après l'effet de nouveauté",
+      "description": "Trois ans après son arrivée, l'IA conversationnelle a dépassé l'effet de nouveauté. Elle offre une pratique orale continue et un diagnostic d'erreurs, mais vaut surtout articulée à l'humain.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1557071-ia-conversationnelle-et-apprentissage-des-langues-ce-qu-il-en-reste-apres-l-effet-de-nouveaute/",
+      "source": "JDN",
+      "publishedAt": "2026-10-26T09:56:35Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }
