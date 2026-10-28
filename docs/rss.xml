@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 27 Oct 2026 14:12:31 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 14:57:21 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,36 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
+            <title>ChatGPT va travailler plus pour le même prix grâce à ce nouveau modèle d’intelligence artificielle</title>
+            <link>https://www.presse-citron.net/chatgpt-prix-nouveau-modele-intelligence-artificielle/</link>
+            <description><![CDATA[OpenAI vient de lancer le modèle GPT-6.1 Terra pour ChatGPT. Ses performances se rapprochent de GPT-6.1 Sol, mais le coût de son utilisation est nettement plus faible.]]></description>
+            <pubDate>Tue, 27 Oct 2026 14:03:32 -0000</pubDate>
+            <guid isPermaLink="true">https://www.presse-citron.net/chatgpt-prix-nouveau-modele-intelligence-artificielle/</guid>
+            <source>Presse-citron</source>
+        </item>
+        <item>
+            <title>SEO ou GEO ? Pourquoi un même article peut ranker sur Google et être cité par l’IA</title>
+            <link>https://www.abondance.com/20261027-3041983-seo-geo-positionnement-citation-article.html</link>
+            <description><![CDATA[Ce qu'il faut retenir : En mode Thinking, environ 3 résultats sur 4 lus par ChatGPT proviennent de Google : bien se positionner demeure un prérequis du GEO. Les mentions de marque et les ancres au nom...]]></description>
+            <pubDate>Tue, 27 Oct 2026 09:49:42 -0000</pubDate>
+            <guid isPermaLink="true">https://www.abondance.com/20261027-3041983-seo-geo-positionnement-citation-article.html</guid>
+            <source>Abondance.com</source>
+        </item>
+        <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
             <link>https://www.youtube.com/watch?v=WUzHvB7FICc</link>
             <description><![CDATA[Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.]]></description>
             <pubDate>Sat, 10 Oct 2026 12:06:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=WUzHvB7FICc</guid>
             <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>Deux Français ont bâti Vera, le "ChatGPT des médecins", et lèvent 28,5 millions de dollars</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1557223-vera-health-boucle-sa-serie-a-et-porte-ses-fonds-leves-a-32-millions-de-dollars/</link>
+            <description><![CDATA[Vera Health, basée à San Francisco, porte ses fonds levés à 32 millions de dollars. Gratuite pour les soignants, son IA revendique 800 000 utilisateurs, dont un médecin sur sept en France.]]></description>
+            <pubDate>Tue, 27 Oct 2026 14:00:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1557223-vera-health-boucle-sa-serie-a-et-porte-ses-fonds-leves-a-32-millions-de-dollars/</guid>
+            <source>JDN</source>
         </item>
         <item>
             <title>Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)</title>
@@ -69,30 +93,6 @@
             <source>Gab JPM</source>
         </item>
         <item>
-            <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
-            <link>https://www.youtube.com/watch?v=NdS8xLrZd_k</link>
-            <description><![CDATA[Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...]]></description>
-            <pubDate>Mon, 14 Sep 2026 20:06:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=NdS8xLrZd_k</guid>
-            <source>contact omnicirelpc</source>
-        </item>
-        <item>
-            <title>Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10</title>
-            <link>https://www.youtube.com/watch?v=jp6vn3Hp_zc</link>
-            <description><![CDATA[COMPILATION — Chapitre 6/10 de la formation Data &amp; Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.]]></description>
-            <pubDate>Mon, 07 Sep 2026 11:00:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=jp6vn3Hp_zc</guid>
-            <source>IA Futura</source>
-        </item>
-        <item>
-            <title>Les ayants droit d’Elvis Presley attaquent Anthropic en justice</title>
-            <link>https://www.courrierinternational.com/article/musique-les-ayants-droit-d-elvis-presley-attaquent-anthropic-en-justice_281559</link>
-            <description><![CDATA[La société d’intelligence artificielle Anthropic est poursuivie en justice par les ayants droit d’Elvis Presley. Ils accusent l’entreprise d’utiliser les chansons du roi du rock’n’roll pour entraîner ...]]></description>
-            <pubDate>Mon, 26 Oct 2026 14:11:13 -0000</pubDate>
-            <guid isPermaLink="true">https://www.courrierinternational.com/article/musique-les-ayants-droit-d-elvis-presley-attaquent-anthropic-en-justice_281559</guid>
-            <source>Courrier International</source>
-        </item>
-        <item>
             <title>Filtrer une table avec Filter dans Power BI</title>
             <link>https://www.youtube.com/watch?v=Tmz4jXuBGdI</link>
             <description><![CDATA[Série Power BI - Vidéo 18 : la fonction FILTER en DAX dans Power BI Dans cette vidéo de formation, nous allons découvrir ...]]></description>
@@ -125,6 +125,30 @@
             <source>Youmout Cours</source>
         </item>
         <item>
+            <title>Cinq plaintes en Europe contre Scale AI pour collecte de données de travailleurs de l’IA</title>
+            <link>https://www.mediapart.fr/journal/international/271026/cinq-plaintes-en-europe-contre-scale-ai-pour-collecte-de-donnees-de-travailleurs-de-l-ia</link>
+            <description><![CDATA[L’ONG autrichienne Noyb a annoncé mardi 27 octobre le dépôt de cinq plaintes en Europe contre la société américaine Scale AI, qu’elle accuse de collecter illégalement les données personnelles des trav...]]></description>
+            <pubDate>Tue, 27 Oct 2026 10:51:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.mediapart.fr/journal/international/271026/cinq-plaintes-en-europe-contre-scale-ai-pour-collecte-de-donnees-de-travailleurs-de-l-ia</guid>
+            <source>Mediapart</source>
+        </item>
+        <item>
+            <title>En Chine, le premier film 100 % IA en salles fait un bide bien réel</title>
+            <link>https://www.telerama.fr/cinema/en-chine-le-premier-film-100-ia-en-salles-fait-un-bide-bien-reel-7033568.php</link>
+            <description><![CDATA[Avec deux spectateurs en moyenne par séance, le thriller de science-fiction “Sanxingdui : Future Past” laisse le public indifférent depuis sa sortie le 23 octobre. Un résultat bien loin du succès esco...]]></description>
+            <pubDate>Mon, 26 Oct 2026 17:14:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.telerama.fr/cinema/en-chine-le-premier-film-100-ia-en-salles-fait-un-bide-bien-reel-7033568.php</guid>
+            <source>Telerama.fr</source>
+        </item>
+        <item>
+            <title>Espaces de coworking et tiers-lieux numériques en Ile-de-France</title>
+            <link>https://www.data.gouv.fr/datasets/espaces-de-coworking-et-tiers-lieux-numeriques-en-ile-de-france</link>
+            <description><![CDATA[Annuaire des espaces de coworking et tiers-lieux à vocation numérique en Ile-de-France. Données issues des annuaires officiels (France Tiers-Lieux, Mairie de Paris, CCI). Ce jeu de données recense les...]]></description>
+            <pubDate>Tue, 27 Oct 2026 11:57:46 -0000</pubDate>
+            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/espaces-de-coworking-et-tiers-lieux-numeriques-en-ile-de-france</guid>
+            <source>Gouv.fr</source>
+        </item>
+        <item>
             <title>L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto</title>
             <link>https://www.youtube.com/watch?v=ijEHTjsGNsE</link>
             <description><![CDATA[]]></description>
@@ -133,44 +157,20 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Introduction | SQL - EP1</title>
-            <link>https://www.youtube.com/watch?v=QXaOjeucWgI</link>
-            <description><![CDATA[Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...]]></description>
-            <pubDate>Fri, 28 Aug 2026 18:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=QXaOjeucWgI</guid>
-            <source>EvoluNoob</source>
+            <title>Surveiller n'est pas protéger</title>
+            <link>https://laviedesidees.fr/Surveiller-n-est-pas-proteger</link>
+            <description><![CDATA[Les lycéens mobilisés dénoncent des bâtiments délabrés et des salles invivables. Les données leur donnent raison : dans les lycées populaires d'Île-de-France, la sécurisation est devenue le premier po...]]></description>
+            <pubDate>Tue, 27 Oct 2026 08:30:00 -0000</pubDate>
+            <guid isPermaLink="true">https://laviedesidees.fr/Surveiller-n-est-pas-proteger</guid>
+            <source>Laviedesidees.fr</source>
         </item>
         <item>
-            <title>Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍</title>
-            <link>https://www.youtube.com/watch?v=Yfbb0q7Mi5E</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Sun, 04 Oct 2026 22:23:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Yfbb0q7Mi5E</guid>
-            <source>LaDataFacile</source>
-        </item>
-        <item>
-            <title>Un voilier drone de 7 mètres encercle l'Antarctique pendant 5 ans pour traquer le carbone</title>
-            <link>https://www.generation-nt.com/actualites/voilier-drone-antarctique-carbone-2083275</link>
-            <description><![CDATA[Depuis le 20 septembre, le drone de surface autonome Saildrone Explorer SD-1092 réalise une circumnavigation solitaire de 200 jours autour du pôle Sud. Dirigée par la NOAA (Agence américaine d'observa...]]></description>
-            <pubDate>Sun, 25 Oct 2026 13:00:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/voilier-drone-antarctique-carbone-2083275</guid>
-            <source>Génération NT</source>
-        </item>
-        <item>
-            <title>Projection laser TriChroma de Hisense : le cinéma très grand format s’installe dans le salon</title>
-            <link>https://www.lesnumeriques.com/videoprojecteur/projection-laser-trichroma-de-hisense-le-cinema-tres-grand-format-s-installe-dans-le-salon-na263802.html</link>
-            <description><![CDATA[La projection laser, ce n’est plus un simple gadget de cinéphile depuis bien longtemps : désormais, c’est une véritable alternative au très grand téléviseur, surtout lorsque l’on se tourne vers les ac...]]></description>
-            <pubDate>Mon, 26 Oct 2026 14:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/videoprojecteur/projection-laser-trichroma-de-hisense-le-cinema-tres-grand-format-s-installe-dans-le-salon-na263802.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
-            <title>Octobre Noir : l'IA met le feu à la cybersécurité mondiale !</title>
-            <link>https://www.generation-nt.com/actualites/octobre-noir-cybersecurite-faille-vulnerabilite-intelligence-artificielle-2083413</link>
-            <description><![CDATA[Le secteur de la cybersécurité est en ébullition. La cause : une intelligence artificielle devenue si performante qu'elle débusque les failles de l'Internet à un rythme que même les experts peinent à ...]]></description>
-            <pubDate>Mon, 26 Oct 2026 10:20:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/octobre-noir-cybersecurite-faille-vulnerabilite-intelligence-artificielle-2083413</guid>
-            <source>Génération NT</source>
+            <title>Les entreprises investissent massivement dans l’IA, sans résultats visibles</title>
+            <link>https://www.begeek.fr/les-entreprises-investissent-massivement-dans-lia-sans-resultats-visibles-441986</link>
+            <description><![CDATA[Pour l’économiste de Apollo, l’IA n’améliore ni marges ni productivité dans la plupart des grands groupes américains hors Big Tech.]]></description>
+            <pubDate>Tue, 27 Oct 2026 13:00:52 -0000</pubDate>
+            <guid isPermaLink="true">https://www.begeek.fr/les-entreprises-investissent-massivement-dans-lia-sans-resultats-visibles-441986</guid>
+            <source>Begeek.fr</source>
         </item>
     </channel>
 </rss>

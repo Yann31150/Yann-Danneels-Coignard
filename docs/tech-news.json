@@ -1,6 +1,30 @@
 {
-  "lastUpdate": "2026-10-27T14:12:31.717978",
+  "lastUpdate": "2026-10-28T14:57:21.956211",
   "articles": [
+    {
+      "title": "ChatGPT va travailler plus pour le même prix grâce à ce nouveau modèle d’intelligence artificielle",
+      "description": "OpenAI vient de lancer le modèle GPT-6.1 Terra pour ChatGPT. Ses performances se rapprochent de GPT-6.1 Sol, mais le coût de son utilisation est nettement plus faible.",
+      "url": "https://www.presse-citron.net/chatgpt-prix-nouveau-modele-intelligence-artificielle/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-10-27T14:03:32Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "SEO ou GEO ? Pourquoi un même article peut ranker sur Google et être cité par l’IA",
+      "description": "Ce qu'il faut retenir : En mode Thinking, environ 3 résultats sur 4 lus par ChatGPT proviennent de Google : bien se positionner demeure un prérequis du GEO. Les mentions de marque et les ancres au nom...",
+      "url": "https://www.abondance.com/20261027-3041983-seo-geo-positionnement-citation-article.html",
+      "source": "Abondance.com",
+      "publishedAt": "2026-10-27T09:49:42Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
     {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
       "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
@@ -12,6 +36,18 @@
       "isYouTube": true,
       "videoId": "WUzHvB7FICc",
       "thumbnail": "https://i.ytimg.com/vi/WUzHvB7FICc/hqdefault.jpg"
+    },
+    {
+      "title": "Deux Français ont bâti Vera, le \"ChatGPT des médecins\", et lèvent 28,5 millions de dollars",
+      "description": "Vera Health, basée à San Francisco, porte ses fonds levés à 32 millions de dollars. Gratuite pour les soignants, son IA revendique 800 000 utilisateurs, dont un médecin sur sept en France.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1557223-vera-health-boucle-sa-serie-a-et-porte-ses-fonds-leves-a-32-millions-de-dollars/",
+      "source": "JDN",
+      "publishedAt": "2026-10-27T14:00:15Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)",
@@ -86,42 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/yw1bS20gTzc/hqdefault.jpg"
     },
     {
-      "title": "URGENT : Machine Learning, Ia, — analyse rapide",
-      "description": "Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...",
-      "url": "https://www.youtube.com/watch?v=NdS8xLrZd_k",
-      "source": "contact omnicirelpc",
-      "publishedAt": "2026-09-14T20:06:13Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "NdS8xLrZd_k",
-      "thumbnail": "https://i.ytimg.com/vi/NdS8xLrZd_k/hqdefault.jpg"
-    },
-    {
-      "title": "Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10",
-      "description": "COMPILATION — Chapitre 6/10 de la formation Data & Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.",
-      "url": "https://www.youtube.com/watch?v=jp6vn3Hp_zc",
-      "source": "IA Futura",
-      "publishedAt": "2026-09-07T11:00:18Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "jp6vn3Hp_zc",
-      "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
-    },
-    {
-      "title": "Les ayants droit d’Elvis Presley attaquent Anthropic en justice",
-      "description": "La société d’intelligence artificielle Anthropic est poursuivie en justice par les ayants droit d’Elvis Presley. Ils accusent l’entreprise d’utiliser les chansons du roi du rock’n’roll pour entraîner ...",
-      "url": "https://www.courrierinternational.com/article/musique-les-ayants-droit-d-elvis-presley-attaquent-anthropic-en-justice_281559",
-      "source": "Courrier International",
-      "publishedAt": "2026-10-26T14:11:13Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Filtrer une table avec Filter dans Power BI",
       "description": "Série Power BI - Vidéo 18 : la fonction FILTER en DAX dans Power BI Dans cette vidéo de formation, nous allons découvrir ...",
       "url": "https://www.youtube.com/watch?v=Tmz4jXuBGdI",
@@ -170,6 +170,42 @@
       "thumbnail": "https://i.ytimg.com/vi/qbqaSlk3fho/hqdefault.jpg"
     },
     {
+      "title": "Cinq plaintes en Europe contre Scale AI pour collecte de données de travailleurs de l’IA",
+      "description": "L’ONG autrichienne Noyb a annoncé mardi 27 octobre le dépôt de cinq plaintes en Europe contre la société américaine Scale AI, qu’elle accuse de collecter illégalement les données personnelles des trav...",
+      "url": "https://www.mediapart.fr/journal/international/271026/cinq-plaintes-en-europe-contre-scale-ai-pour-collecte-de-donnees-de-travailleurs-de-l-ia",
+      "source": "Mediapart",
+      "publishedAt": "2026-10-27T10:51:46Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "En Chine, le premier film 100 % IA en salles fait un bide bien réel",
+      "description": "Avec deux spectateurs en moyenne par séance, le thriller de science-fiction “Sanxingdui : Future Past” laisse le public indifférent depuis sa sortie le 23 octobre. Un résultat bien loin du succès esco...",
+      "url": "https://www.telerama.fr/cinema/en-chine-le-premier-film-100-ia-en-salles-fait-un-bide-bien-reel-7033568.php",
+      "source": "Telerama.fr",
+      "publishedAt": "2026-10-26T17:14:09Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Espaces de coworking et tiers-lieux numériques en Ile-de-France",
+      "description": "Annuaire des espaces de coworking et tiers-lieux à vocation numérique en Ile-de-France. Données issues des annuaires officiels (France Tiers-Lieux, Mairie de Paris, CCI). Ce jeu de données recense les...",
+      "url": "https://www.data.gouv.fr/datasets/espaces-de-coworking-et-tiers-lieux-numeriques-en-ile-de-france",
+      "source": "Gouv.fr",
+      "publishedAt": "2026-10-27T11:57:46Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
       "description": "",
       "url": "https://www.youtube.com/watch?v=ijEHTjsGNsE",
@@ -182,35 +218,11 @@
       "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
-      "title": "Introduction | SQL - EP1",
-      "description": "Deviens souscripteur sur EvoluNoob et profite d'avantages exclusifs ...",
-      "url": "https://www.youtube.com/watch?v=QXaOjeucWgI",
-      "source": "EvoluNoob",
-      "publishedAt": "2026-08-28T18:00:00Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "QXaOjeucWgI",
-      "thumbnail": "https://i.ytimg.com/vi/QXaOjeucWgI/hqdefault.jpg"
-    },
-    {
-      "title": "Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=Yfbb0q7Mi5E",
-      "source": "LaDataFacile",
-      "publishedAt": "2026-10-04T22:23:54Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Yfbb0q7Mi5E",
-      "thumbnail": "https://i.ytimg.com/vi/Yfbb0q7Mi5E/hqdefault.jpg"
-    },
-    {
-      "title": "Un voilier drone de 7 mètres encercle l'Antarctique pendant 5 ans pour traquer le carbone",
-      "description": "Depuis le 20 septembre, le drone de surface autonome Saildrone Explorer SD-1092 réalise une circumnavigation solitaire de 200 jours autour du pôle Sud. Dirigée par la NOAA (Agence américaine d'observa...",
-      "url": "https://www.generation-nt.com/actualites/voilier-drone-antarctique-carbone-2083275",
-      "source": "Génération NT",
-      "publishedAt": "2026-10-25T13:00:01Z",
+      "title": "Surveiller n'est pas protéger",
+      "description": "Les lycéens mobilisés dénoncent des bâtiments délabrés et des salles invivables. Les données leur donnent raison : dans les lycées populaires d'Île-de-France, la sécurisation est devenue le premier po...",
+      "url": "https://laviedesidees.fr/Surveiller-n-est-pas-proteger",
+      "source": "Laviedesidees.fr",
+      "publishedAt": "2026-10-27T08:30:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,11 +230,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Projection laser TriChroma de Hisense : le cinéma très grand format s’installe dans le salon",
-      "description": "La projection laser, ce n’est plus un simple gadget de cinéphile depuis bien longtemps : désormais, c’est une véritable alternative au très grand téléviseur, surtout lorsque l’on se tourne vers les ac...",
-      "url": "https://www.lesnumeriques.com/videoprojecteur/projection-laser-trichroma-de-hisense-le-cinema-tres-grand-format-s-installe-dans-le-salon-na263802.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-10-26T14:00:00Z",
+      "title": "Les entreprises investissent massivement dans l’IA, sans résultats visibles",
+      "description": "Pour l’économiste de Apollo, l’IA n’améliore ni marges ni productivité dans la plupart des grands groupes américains hors Big Tech.",
+      "url": "https://www.begeek.fr/les-entreprises-investissent-massivement-dans-lia-sans-resultats-visibles-441986",
+      "source": "Begeek.fr",
+      "publishedAt": "2026-10-27T13:00:52Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Octobre Noir : l'IA met le feu à la cybersécurité mondiale !",
-      "description": "Le secteur de la cybersécurité est en ébullition. La cause : une intelligence artificielle devenue si performante qu'elle débusque les failles de l'Internet à un rythme que même les experts peinent à ...",
-      "url": "https://www.generation-nt.com/actualites/octobre-noir-cybersecurite-faille-vulnerabilite-intelligence-artificielle-2083413",
-      "source": "Génération NT",
-      "publishedAt": "2026-10-26T10:20:01Z",
+      "title": "L’IA bouleverse déjà le marché des bureaux, et ce n’est qu’un début",
+      "description": "Face aux incertitudes liées à l’évolution de l’intelligence artificielle, les dirigeants d’entreprise hésitent de plus en plus à s’engager dans des baux de longue durée. ...",
+      "url": "https://www.lalibre.be/economie/immo/2026/10/27/lia-bouleverse-deja-le-marche-des-bureaux-et-ce-nest-quun-debut-7L7OLAVTJZATNAYA4Y2Q6WPY7E/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-10-27T12:50:27Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Une IA qui se reproduit comme un organisme vivant : les chercheurs explorent un scénario digne de la science-fiction !",
-      "description": "Des virus et des malwares dopés aux LLMs, voilà ce que testent des chercheurs d’Anthropic, la société qui développe Claude. Mais au-delà d’un gros titre à faire frémir les plus confiants, ces travaux ...",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-ia-reproduit-comme-organisme-vivant-chercheurs-explorent-scenario-digne-science-fiction-138717/",
-      "source": "Futura",
-      "publishedAt": "2026-10-25T11:21:18Z",
+      "title": "Gros muscles et peaux blanches : on a vu “L’Odyssée” d’Elon Musk créée par IA",
+      "description": "Mécontent de l’adaptation du classique d’Homère par Christopher Nolan, le patron de Starlink et de Tesla a réalisé sa propre version “anti-woke”, conçue avec son intelligence artificielle, Grok. Et sa...",
+      "url": "https://www.telerama.fr/cinema/gros-muscles-et-peaux-blanches-on-a-vu-l-odyssee-d-elon-musk-creee-par-ia-7033581.php",
+      "source": "Telerama.fr",
+      "publishedAt": "2026-10-27T14:23:48Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Microsoft Teams déploie une détection des deepfakes et du phishing par intelligence artificielle dès novembre",
-      "description": "Dès novembre 2026, Microsoft Teams déploie deux boucliers majeurs : une détection du phishing par IA analysant le contexte des conversations et l'intégration d'outils tiers pour repérer les deepfakes ...",
-      "url": "https://www.generation-nt.com/actualites/microsoft-teams-detection-deepfakes-phishing-2083394",
-      "source": "Génération NT",
-      "publishedAt": "2026-10-26T09:00:01Z",
+      "title": "Chronique science : Lunettes connectées, attention danger !",
+      "description": "Dans sa chronique science, Olivier Lascar, rédacteur en chef digital chez Science et Avenir, s'intéresse aux lunettes connectées et à leurs conséquences sur notre société. Si ces dispositifs équipés d...",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/chronique-science-lunettes-connectees-attention-danger_8255254.html",
+      "source": "Franceinfo.fr",
+      "publishedAt": "2026-10-27T06:28:51Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Grok génère son Odyssée en IA, Nolan peut dormir tranquille",
-      "description": "Elon Musk avait promis un long-métrage entier de l'Odyssée généré par intelligence artificielle, histoire de montrer à Christopher Nolan comment adapter Homère. Les sept premières minutes sont en lign...",
-      "url": "https://www.mac4ever.com/ia/198727-grok-genere-son-odyssee-en-ia-nolan-peut-dormir-tranquille",
-      "source": "Mac4ever",
-      "publishedAt": "2026-10-26T13:45:00Z",
+      "title": "IA dans la relation client : le grand remplacement, un mythe ?",
+      "description": "55% de professionnels de la relation client jugeraient positivement l’impact de l’IA dans leur métier, tout en étant plus outillés que formés. D’après un observatoire, le remplacement de l’humain par ...",
+      "url": "https://www.zdnet.fr/actualites/ia-dans-la-relation-client-le-grand-remplacement-un-mythe-506564.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-10-27T02:10:36Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "IA conversationnelle et apprentissage des langues : ce qu'il en reste après l'effet de nouveauté",
-      "description": "Trois ans après son arrivée, l'IA conversationnelle a dépassé l'effet de nouveauté. Elle offre une pratique orale continue et un diagnostic d'erreurs, mais vaut surtout articulée à l'humain.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1557071-ia-conversationnelle-et-apprentissage-des-langues-ce-qu-il-en-reste-apres-l-effet-de-nouveaute/",
-      "source": "JDN",
-      "publishedAt": "2026-10-26T09:56:35Z",
+      "title": "Apple Creator Studio gagne des fonctions IA et des outils",
+      "description": "En plus des MacBook Pro M6 et iMac M6, Apple annonce une importante mise à jour d’Apple Creator Studio, sa suite d’applications créatives sur…\nLire la suite…\nFacebook · X · iAddict\nL’article Apple Cre...",
+      "url": "https://iphoneaddict.fr/post/news-438440-apple-creator-studio-gagne-fonctions-ia-outils",
+      "source": "Iphoneaddict.fr",
+      "publishedAt": "2026-10-27T13:55:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
