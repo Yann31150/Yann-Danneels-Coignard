@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 28 Oct 2026 14:57:21 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 15:03:05 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>ChatGPT va travailler plus pour le même prix grâce à ce nouveau modèle d’intelligence artificielle</title>
-            <link>https://www.presse-citron.net/chatgpt-prix-nouveau-modele-intelligence-artificielle/</link>
-            <description><![CDATA[OpenAI vient de lancer le modèle GPT-6.1 Terra pour ChatGPT. Ses performances se rapprochent de GPT-6.1 Sol, mais le coût de son utilisation est nettement plus faible.]]></description>
-            <pubDate>Tue, 27 Oct 2026 14:03:32 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/chatgpt-prix-nouveau-modele-intelligence-artificielle/</guid>
-            <source>Presse-citron</source>
-        </item>
         <item>
             <title>SEO ou GEO ? Pourquoi un même article peut ranker sur Google et être cité par l’IA</title>
             <link>https://www.abondance.com/20261027-3041983-seo-geo-positionnement-citation-article.html</link>
@@ -35,22 +27,6 @@
             <pubDate>Sat, 10 Oct 2026 12:06:06 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=WUzHvB7FICc</guid>
             <source>Bitdyne</source>
-        </item>
-        <item>
-            <title>Deux Français ont bâti Vera, le "ChatGPT des médecins", et lèvent 28,5 millions de dollars</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1557223-vera-health-boucle-sa-serie-a-et-porte-ses-fonds-leves-a-32-millions-de-dollars/</link>
-            <description><![CDATA[Vera Health, basée à San Francisco, porte ses fonds levés à 32 millions de dollars. Gratuite pour les soignants, son IA revendique 800 000 utilisateurs, dont un médecin sur sept en France.]]></description>
-            <pubDate>Tue, 27 Oct 2026 14:00:15 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1557223-vera-health-boucle-sa-serie-a-et-porte-ses-fonds-leves-a-32-millions-de-dollars/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
-            <title>Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)</title>
-            <link>https://www.youtube.com/watch?v=1ynUnP7VHsE</link>
-            <description><![CDATA[Tu veux être accompagné pour passer à l'action ? Réserve 30 minutes avec un coach Alegria ...]]></description>
-            <pubDate>Tue, 06 Oct 2026 14:04:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1ynUnP7VHsE</guid>
-            <source>Alegria Group</source>
         </item>
         <item>
             <title>Explorer et préparer ses données avec pandas (data science)</title>
@@ -85,12 +61,36 @@
             <source>IA Futura</source>
         </item>
         <item>
-            <title>Comprendre l&amp;#39;Intelligence Artificielle : Les bases expliquées simplement</title>
-            <link>https://www.youtube.com/watch?v=yw1bS20gTzc</link>
-            <description><![CDATA[L'Intelligence Artificielle et la Data Science sont partout, mais entre le jargon technique et les termes compliqués, difficile d'y voir ...]]></description>
-            <pubDate>Mon, 12 Oct 2026 15:15:12 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=yw1bS20gTzc</guid>
-            <source>Gab JPM</source>
+            <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
+            <link>https://www.youtube.com/watch?v=NdS8xLrZd_k</link>
+            <description><![CDATA[Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...]]></description>
+            <pubDate>Mon, 14 Sep 2026 20:06:13 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=NdS8xLrZd_k</guid>
+            <source>contact omnicirelpc</source>
+        </item>
+        <item>
+            <title>Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10</title>
+            <link>https://www.youtube.com/watch?v=jp6vn3Hp_zc</link>
+            <description><![CDATA[COMPILATION — Chapitre 6/10 de la formation Data &amp; Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.]]></description>
+            <pubDate>Mon, 07 Sep 2026 11:00:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=jp6vn3Hp_zc</guid>
+            <source>IA Futura</source>
+        </item>
+        <item>
+            <title>Guerre sémantique : Trump décrète la mort de l'Intelligence Artificielle</title>
+            <link>https://www.generation-nt.com/actualites/donald-trump-intelligence-artificielle-denomination-super-intelligence-2083557</link>
+            <description><![CDATA[Dans un énième coup de force terminologique, le président américain a décidé de rayer de la carte Intelligence Artificielle, une expression vieille de 70 ans, au profit d'un néologisme plus à son goût...]]></description>
+            <pubDate>Wed, 28 Oct 2026 09:10:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.generation-nt.com/actualites/donald-trump-intelligence-artificielle-denomination-super-intelligence-2083557</guid>
+            <source>Génération NT</source>
+        </item>
+        <item>
+            <title>Clustering de variables avec le package « clustvartools » pour Python</title>
+            <link>https://www.youtube.com/watch?v=feIiOQVPPuM</link>
+            <description><![CDATA[Machine learning. Data science. Le package « clustvartools » pour Python propose une panoplie clé en main d'algorithmes de ...]]></description>
+            <pubDate>Thu, 15 Oct 2026 14:33:41 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=feIiOQVPPuM</guid>
+            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
             <title>Filtrer une table avec Filter dans Power BI</title>
@@ -109,12 +109,20 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>Découvrir SQL : interroger une base de données (débutant, cas concret)</title>
-            <link>https://www.youtube.com/watch?v=3_q1VH5GTDI</link>
-            <description><![CDATA[Premier épisode de la Formation SQL Bitdyne. Le problème que résout SQL : accéder soi-même à l'information qui dort dans les ...]]></description>
-            <pubDate>Fri, 09 Oct 2026 12:23:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=3_q1VH5GTDI</guid>
-            <source>Bitdyne</source>
+            <title>SQLite de A à Z 🚀 | Apprendre SQL avec des exemples pratiques</title>
+            <link>https://www.youtube.com/watch?v=igQlVMHx3BI</link>
+            <description><![CDATA[Bienvenue dans cette formation pratique dédiée à SQLite et au langage SQL ! Dans ce cours, nous allons apprendre ...]]></description>
+            <pubDate>Sun, 18 Oct 2026 18:33:47 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=igQlVMHx3BI</guid>
+            <source>bahia_ plus</source>
+        </item>
+        <item>
+            <title>SQL avec PostgreSQL : le cours complet (2 h 29, 34 chapitres, 99 exercices)</title>
+            <link>https://www.youtube.com/watch?v=rpVy7sIM9BY</link>
+            <description><![CDATA[Le cours complet de SQL avec PostgreSQL, de zéro au niveau professionnel : 34 chapitres et 99 exercices corrigés. Les bases ...]]></description>
+            <pubDate>Sun, 04 Oct 2026 20:20:30 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=rpVy7sIM9BY</guid>
+            <source>lioncode</source>
         </item>
         <item>
             <title>Power BI : créer son premier graphique à partir d’Excel</title>
@@ -125,30 +133,6 @@
             <source>Youmout Cours</source>
         </item>
         <item>
-            <title>Cinq plaintes en Europe contre Scale AI pour collecte de données de travailleurs de l’IA</title>
-            <link>https://www.mediapart.fr/journal/international/271026/cinq-plaintes-en-europe-contre-scale-ai-pour-collecte-de-donnees-de-travailleurs-de-l-ia</link>
-            <description><![CDATA[L’ONG autrichienne Noyb a annoncé mardi 27 octobre le dépôt de cinq plaintes en Europe contre la société américaine Scale AI, qu’elle accuse de collecter illégalement les données personnelles des trav...]]></description>
-            <pubDate>Tue, 27 Oct 2026 10:51:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.mediapart.fr/journal/international/271026/cinq-plaintes-en-europe-contre-scale-ai-pour-collecte-de-donnees-de-travailleurs-de-l-ia</guid>
-            <source>Mediapart</source>
-        </item>
-        <item>
-            <title>En Chine, le premier film 100 % IA en salles fait un bide bien réel</title>
-            <link>https://www.telerama.fr/cinema/en-chine-le-premier-film-100-ia-en-salles-fait-un-bide-bien-reel-7033568.php</link>
-            <description><![CDATA[Avec deux spectateurs en moyenne par séance, le thriller de science-fiction “Sanxingdui : Future Past” laisse le public indifférent depuis sa sortie le 23 octobre. Un résultat bien loin du succès esco...]]></description>
-            <pubDate>Mon, 26 Oct 2026 17:14:09 -0000</pubDate>
-            <guid isPermaLink="true">https://www.telerama.fr/cinema/en-chine-le-premier-film-100-ia-en-salles-fait-un-bide-bien-reel-7033568.php</guid>
-            <source>Telerama.fr</source>
-        </item>
-        <item>
-            <title>Espaces de coworking et tiers-lieux numériques en Ile-de-France</title>
-            <link>https://www.data.gouv.fr/datasets/espaces-de-coworking-et-tiers-lieux-numeriques-en-ile-de-france</link>
-            <description><![CDATA[Annuaire des espaces de coworking et tiers-lieux à vocation numérique en Ile-de-France. Données issues des annuaires officiels (France Tiers-Lieux, Mairie de Paris, CCI). Ce jeu de données recense les...]]></description>
-            <pubDate>Tue, 27 Oct 2026 11:57:46 -0000</pubDate>
-            <guid isPermaLink="true">https://www.data.gouv.fr/datasets/espaces-de-coworking-et-tiers-lieux-numeriques-en-ile-de-france</guid>
-            <source>Gouv.fr</source>
-        </item>
-        <item>
             <title>L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto</title>
             <link>https://www.youtube.com/watch?v=ijEHTjsGNsE</link>
             <description><![CDATA[]]></description>
@@ -157,20 +141,36 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Surveiller n'est pas protéger</title>
-            <link>https://laviedesidees.fr/Surveiller-n-est-pas-proteger</link>
-            <description><![CDATA[Les lycéens mobilisés dénoncent des bâtiments délabrés et des salles invivables. Les données leur donnent raison : dans les lycées populaires d'Île-de-France, la sécurisation est devenue le premier po...]]></description>
-            <pubDate>Tue, 27 Oct 2026 08:30:00 -0000</pubDate>
-            <guid isPermaLink="true">https://laviedesidees.fr/Surveiller-n-est-pas-proteger</guid>
-            <source>Laviedesidees.fr</source>
+            <title>Firefox pourra bientôt remplir automatiquement vos formulaires et surveiller vos pages Web</title>
+            <link>https://www.01net.com/actualites/firefox-pourra-bientot-remplir-automatiquement-vos-formulaires-et-surveiller-vos-pages-web.html</link>
+            <description><![CDATA[Le navigateur Web de Mozilla va s’enrichir de nouvelles fonctionnalités d’IA. Firefox pourra bientôt remplir automatiquement les formulaires en ligne en fonction du contexte, et vous alerter dès qu’un...]]></description>
+            <pubDate>Wed, 28 Oct 2026 07:51:43 -0000</pubDate>
+            <guid isPermaLink="true">https://www.01net.com/actualites/firefox-pourra-bientot-remplir-automatiquement-vos-formulaires-et-surveiller-vos-pages-web.html</guid>
+            <source>01net.com</source>
         </item>
         <item>
-            <title>Les entreprises investissent massivement dans l’IA, sans résultats visibles</title>
-            <link>https://www.begeek.fr/les-entreprises-investissent-massivement-dans-lia-sans-resultats-visibles-441986</link>
-            <description><![CDATA[Pour l’économiste de Apollo, l’IA n’améliore ni marges ni productivité dans la plupart des grands groupes américains hors Big Tech.]]></description>
-            <pubDate>Tue, 27 Oct 2026 13:00:52 -0000</pubDate>
-            <guid isPermaLink="true">https://www.begeek.fr/les-entreprises-investissent-massivement-dans-lia-sans-resultats-visibles-441986</guid>
-            <source>Begeek.fr</source>
+            <title>Copilot va bientôt disparaître des TV connectés, l’IA de Microsoft a d’autres priorités</title>
+            <link>https://www.frandroid.com/marques/microsoft/3301785_copilot-va-bientot-disparaitre-des-tv-connectes-lia-de-microsoft-a-dautres-priorites</link>
+            <description><![CDATA[Un message d'avertissement commence à s'afficher sur des télévisions intelligentes LG : Microsoft ne prendra plus en charge l'IA Copilot intégrée à l'appareil. La date exacte est encore inconnue.]]></description>
+            <pubDate>Wed, 28 Oct 2026 14:46:50 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/marques/microsoft/3301785_copilot-va-bientot-disparaitre-des-tv-connectes-lia-de-microsoft-a-dautres-priorites</guid>
+            <source>Frandroid</source>
+        </item>
+        <item>
+            <title>Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍</title>
+            <link>https://www.youtube.com/watch?v=Yfbb0q7Mi5E</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 04 Oct 2026 22:23:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Yfbb0q7Mi5E</guid>
+            <source>LaDataFacile</source>
+        </item>
+        <item>
+            <title>L'IA a fait de moi un étranger dans mon pays</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1557121-l-ia-a-fait-de-moi-un-etranger-dans-mon-pays/</link>
+            <description><![CDATA[Je vous écris d'un pays qui n'existe plus. Ce pays c'était le nôtre, celui que nous avons toujours habité, nous, les êtres de sens, d'imaginaire, et de triste condition. Mais nous avons été colonisés]]></description>
+            <pubDate>Wed, 28 Oct 2026 10:10:55 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1557121-l-ia-a-fait-de-moi-un-etranger-dans-mon-pays/</guid>
+            <source>JDN</source>
         </item>
     </channel>
 </rss>

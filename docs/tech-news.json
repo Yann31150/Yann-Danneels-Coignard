@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-10-28T14:57:21.956211",
+  "lastUpdate": "2026-10-29T15:03:05.871398",
   "articles": [
-    {
-      "title": "ChatGPT va travailler plus pour le même prix grâce à ce nouveau modèle d’intelligence artificielle",
-      "description": "OpenAI vient de lancer le modèle GPT-6.1 Terra pour ChatGPT. Ses performances se rapprochent de GPT-6.1 Sol, mais le coût de son utilisation est nettement plus faible.",
-      "url": "https://www.presse-citron.net/chatgpt-prix-nouveau-modele-intelligence-artificielle/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-10-27T14:03:32Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "SEO ou GEO ? Pourquoi un même article peut ranker sur Google et être cité par l’IA",
       "description": "Ce qu'il faut retenir : En mode Thinking, environ 3 résultats sur 4 lus par ChatGPT proviennent de Google : bien se positionner demeure un prérequis du GEO. Les mentions de marque et les ancres au nom...",
@@ -36,30 +24,6 @@
       "isYouTube": true,
       "videoId": "WUzHvB7FICc",
       "thumbnail": "https://i.ytimg.com/vi/WUzHvB7FICc/hqdefault.jpg"
-    },
-    {
-      "title": "Deux Français ont bâti Vera, le \"ChatGPT des médecins\", et lèvent 28,5 millions de dollars",
-      "description": "Vera Health, basée à San Francisco, porte ses fonds levés à 32 millions de dollars. Gratuite pour les soignants, son IA revendique 800 000 utilisateurs, dont un médecin sur sept en France.",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1557223-vera-health-boucle-sa-serie-a-et-porte-ses-fonds-leves-a-32-millions-de-dollars/",
-      "source": "JDN",
-      "publishedAt": "2026-10-27T14:00:15Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)",
-      "description": "Tu veux être accompagné pour passer à l'action ? Réserve 30 minutes avec un coach Alegria ...",
-      "url": "https://www.youtube.com/watch?v=1ynUnP7VHsE",
-      "source": "Alegria Group",
-      "publishedAt": "2026-10-06T14:04:51Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "1ynUnP7VHsE",
-      "thumbnail": "https://i.ytimg.com/vi/1ynUnP7VHsE/hqdefault.jpg"
     },
     {
       "title": "Explorer et préparer ses données avec pandas (data science)",
@@ -110,16 +74,52 @@
       "thumbnail": "https://i.ytimg.com/vi/t9dIU3Od0SE/hqdefault.jpg"
     },
     {
-      "title": "Comprendre l&#39;Intelligence Artificielle : Les bases expliquées simplement",
-      "description": "L'Intelligence Artificielle et la Data Science sont partout, mais entre le jargon technique et les termes compliqués, difficile d'y voir ...",
-      "url": "https://www.youtube.com/watch?v=yw1bS20gTzc",
-      "source": "Gab JPM",
-      "publishedAt": "2026-10-12T15:15:12Z",
+      "title": "URGENT : Machine Learning, Ia, — analyse rapide",
+      "description": "Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...",
+      "url": "https://www.youtube.com/watch?v=NdS8xLrZd_k",
+      "source": "contact omnicirelpc",
+      "publishedAt": "2026-09-14T20:06:13Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "yw1bS20gTzc",
-      "thumbnail": "https://i.ytimg.com/vi/yw1bS20gTzc/hqdefault.jpg"
+      "videoId": "NdS8xLrZd_k",
+      "thumbnail": "https://i.ytimg.com/vi/NdS8xLrZd_k/hqdefault.jpg"
+    },
+    {
+      "title": "Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10",
+      "description": "COMPILATION — Chapitre 6/10 de la formation Data & Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.",
+      "url": "https://www.youtube.com/watch?v=jp6vn3Hp_zc",
+      "source": "IA Futura",
+      "publishedAt": "2026-09-07T11:00:18Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "jp6vn3Hp_zc",
+      "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
+    },
+    {
+      "title": "Guerre sémantique : Trump décrète la mort de l'Intelligence Artificielle",
+      "description": "Dans un énième coup de force terminologique, le président américain a décidé de rayer de la carte Intelligence Artificielle, une expression vieille de 70 ans, au profit d'un néologisme plus à son goût...",
+      "url": "https://www.generation-nt.com/actualites/donald-trump-intelligence-artificielle-denomination-super-intelligence-2083557",
+      "source": "Génération NT",
+      "publishedAt": "2026-10-28T09:10:01Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Clustering de variables avec le package « clustvartools » pour Python",
+      "description": "Machine learning. Data science. Le package « clustvartools » pour Python propose une panoplie clé en main d'algorithmes de ...",
+      "url": "https://www.youtube.com/watch?v=feIiOQVPPuM",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-10-15T14:33:41Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "feIiOQVPPuM",
+      "thumbnail": "https://i.ytimg.com/vi/feIiOQVPPuM/hqdefault.jpg"
     },
     {
       "title": "Filtrer une table avec Filter dans Power BI",
@@ -146,16 +146,28 @@
       "thumbnail": "https://i.ytimg.com/vi/cIfEIoT3MCc/hqdefault.jpg"
     },
     {
-      "title": "Découvrir SQL : interroger une base de données (débutant, cas concret)",
-      "description": "Premier épisode de la Formation SQL Bitdyne. Le problème que résout SQL : accéder soi-même à l'information qui dort dans les ...",
-      "url": "https://www.youtube.com/watch?v=3_q1VH5GTDI",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-09T12:23:00Z",
+      "title": "SQLite de A à Z 🚀 | Apprendre SQL avec des exemples pratiques",
+      "description": "Bienvenue dans cette formation pratique dédiée à SQLite et au langage SQL ! Dans ce cours, nous allons apprendre ...",
+      "url": "https://www.youtube.com/watch?v=igQlVMHx3BI",
+      "source": "bahia_ plus",
+      "publishedAt": "2026-10-18T18:33:47Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "3_q1VH5GTDI",
-      "thumbnail": "https://i.ytimg.com/vi/3_q1VH5GTDI/hqdefault.jpg"
+      "videoId": "igQlVMHx3BI",
+      "thumbnail": "https://i.ytimg.com/vi/igQlVMHx3BI/hqdefault.jpg"
+    },
+    {
+      "title": "SQL avec PostgreSQL : le cours complet (2 h 29, 34 chapitres, 99 exercices)",
+      "description": "Le cours complet de SQL avec PostgreSQL, de zéro au niveau professionnel : 34 chapitres et 99 exercices corrigés. Les bases ...",
+      "url": "https://www.youtube.com/watch?v=rpVy7sIM9BY",
+      "source": "lioncode",
+      "publishedAt": "2026-10-04T20:20:30Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "rpVy7sIM9BY",
+      "thumbnail": "https://i.ytimg.com/vi/rpVy7sIM9BY/hqdefault.jpg"
     },
     {
       "title": "Power BI : créer son premier graphique à partir d’Excel",
@@ -170,42 +182,6 @@
       "thumbnail": "https://i.ytimg.com/vi/qbqaSlk3fho/hqdefault.jpg"
     },
     {
-      "title": "Cinq plaintes en Europe contre Scale AI pour collecte de données de travailleurs de l’IA",
-      "description": "L’ONG autrichienne Noyb a annoncé mardi 27 octobre le dépôt de cinq plaintes en Europe contre la société américaine Scale AI, qu’elle accuse de collecter illégalement les données personnelles des trav...",
-      "url": "https://www.mediapart.fr/journal/international/271026/cinq-plaintes-en-europe-contre-scale-ai-pour-collecte-de-donnees-de-travailleurs-de-l-ia",
-      "source": "Mediapart",
-      "publishedAt": "2026-10-27T10:51:46Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "En Chine, le premier film 100 % IA en salles fait un bide bien réel",
-      "description": "Avec deux spectateurs en moyenne par séance, le thriller de science-fiction “Sanxingdui : Future Past” laisse le public indifférent depuis sa sortie le 23 octobre. Un résultat bien loin du succès esco...",
-      "url": "https://www.telerama.fr/cinema/en-chine-le-premier-film-100-ia-en-salles-fait-un-bide-bien-reel-7033568.php",
-      "source": "Telerama.fr",
-      "publishedAt": "2026-10-26T17:14:09Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Espaces de coworking et tiers-lieux numériques en Ile-de-France",
-      "description": "Annuaire des espaces de coworking et tiers-lieux à vocation numérique en Ile-de-France. Données issues des annuaires officiels (France Tiers-Lieux, Mairie de Paris, CCI). Ce jeu de données recense les...",
-      "url": "https://www.data.gouv.fr/datasets/espaces-de-coworking-et-tiers-lieux-numeriques-en-ile-de-france",
-      "source": "Gouv.fr",
-      "publishedAt": "2026-10-27T11:57:46Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
       "description": "",
       "url": "https://www.youtube.com/watch?v=ijEHTjsGNsE",
@@ -218,11 +194,11 @@
       "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
-      "title": "Surveiller n'est pas protéger",
-      "description": "Les lycéens mobilisés dénoncent des bâtiments délabrés et des salles invivables. Les données leur donnent raison : dans les lycées populaires d'Île-de-France, la sécurisation est devenue le premier po...",
-      "url": "https://laviedesidees.fr/Surveiller-n-est-pas-proteger",
-      "source": "Laviedesidees.fr",
-      "publishedAt": "2026-10-27T08:30:00Z",
+      "title": "Firefox pourra bientôt remplir automatiquement vos formulaires et surveiller vos pages Web",
+      "description": "Le navigateur Web de Mozilla va s’enrichir de nouvelles fonctionnalités d’IA. Firefox pourra bientôt remplir automatiquement les formulaires en ligne en fonction du contexte, et vous alerter dès qu’un...",
+      "url": "https://www.01net.com/actualites/firefox-pourra-bientot-remplir-automatiquement-vos-formulaires-et-surveiller-vos-pages-web.html",
+      "source": "01net.com",
+      "publishedAt": "2026-10-28T07:51:43Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +206,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Les entreprises investissent massivement dans l’IA, sans résultats visibles",
-      "description": "Pour l’économiste de Apollo, l’IA n’améliore ni marges ni productivité dans la plupart des grands groupes américains hors Big Tech.",
-      "url": "https://www.begeek.fr/les-entreprises-investissent-massivement-dans-lia-sans-resultats-visibles-441986",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-10-27T13:00:52Z",
+      "title": "Copilot va bientôt disparaître des TV connectés, l’IA de Microsoft a d’autres priorités",
+      "description": "Un message d'avertissement commence à s'afficher sur des télévisions intelligentes LG : Microsoft ne prendra plus en charge l'IA Copilot intégrée à l'appareil. La date exacte est encore inconnue.",
+      "url": "https://www.frandroid.com/marques/microsoft/3301785_copilot-va-bientot-disparaitre-des-tv-connectes-lia-de-microsoft-a-dautres-priorites",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-28T14:46:50Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +218,35 @@
       "thumbnail": ""
     },
     {
-      "title": "L’IA bouleverse déjà le marché des bureaux, et ce n’est qu’un début",
-      "description": "Face aux incertitudes liées à l’évolution de l’intelligence artificielle, les dirigeants d’entreprise hésitent de plus en plus à s’engager dans des baux de longue durée. ...",
-      "url": "https://www.lalibre.be/economie/immo/2026/10/27/lia-bouleverse-deja-le-marche-des-bureaux-et-ce-nest-quun-debut-7L7OLAVTJZATNAYA4Y2Q6WPY7E/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-10-27T12:50:27Z",
+      "title": "Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Yfbb0q7Mi5E",
+      "source": "LaDataFacile",
+      "publishedAt": "2026-10-04T22:23:54Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Yfbb0q7Mi5E",
+      "thumbnail": "https://i.ytimg.com/vi/Yfbb0q7Mi5E/hqdefault.jpg"
+    },
+    {
+      "title": "L'IA a fait de moi un étranger dans mon pays",
+      "description": "Je vous écris d'un pays qui n'existe plus. Ce pays c'était le nôtre, celui que nous avons toujours habité, nous, les êtres de sens, d'imaginaire, et de triste condition. Mais nous avons été colonisés",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1557121-l-ia-a-fait-de-moi-un-etranger-dans-mon-pays/",
+      "source": "JDN",
+      "publishedAt": "2026-10-28T10:10:55Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "MacPaw lance Eney, un assistant IA pour Mac et iPhone qui anticipe vos besoins !",
+      "description": "MacPaw, l’éditeur notamment connu pour CleanMyMac et Setapp, vient de lancer Eney, un nouvel assistant d’intelligence artificielle disponible sur Mac et iPhone. Sa particularité est de ne pas se conte...",
+      "url": "https://www.mac4ever.com/ia/198761-macpaw-lance-eney-un-assistant-ia-pour-mac-et-iphone-qui-anticipe-vos-besoins",
+      "source": "Mac4ever",
+      "publishedAt": "2026-10-28T14:46:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Gros muscles et peaux blanches : on a vu “L’Odyssée” d’Elon Musk créée par IA",
-      "description": "Mécontent de l’adaptation du classique d’Homère par Christopher Nolan, le patron de Starlink et de Tesla a réalisé sa propre version “anti-woke”, conçue avec son intelligence artificielle, Grok. Et sa...",
-      "url": "https://www.telerama.fr/cinema/gros-muscles-et-peaux-blanches-on-a-vu-l-odyssee-d-elon-musk-creee-par-ia-7033581.php",
-      "source": "Telerama.fr",
-      "publishedAt": "2026-10-27T14:23:48Z",
+      "title": "Et si le marketing tel que nous le connaissons vivait ses dernières heures ?",
+      "description": "Le marketing traverse peut-être une rupture beaucoup plus profonde qu’une simple révolution technologique. L’intelligence artificielle n’est pas seulement en train d’accélérer certains outils ou d’aut...",
+      "url": "https://www.webmarketing-com.com/marketing-tel-que-nous-connaissons-dernieres-heures",
+      "source": "Webmarketing-com.com",
+      "publishedAt": "2026-10-28T08:30:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Chronique science : Lunettes connectées, attention danger !",
-      "description": "Dans sa chronique science, Olivier Lascar, rédacteur en chef digital chez Science et Avenir, s'intéresse aux lunettes connectées et à leurs conséquences sur notre société. Si ces dispositifs équipés d...",
-      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/chronique-science-lunettes-connectees-attention-danger_8255254.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-10-27T06:28:51Z",
+      "title": "Apple garde le secret sur l’IA de macOS 27 : un chercheur l’a disséquée sur un MacBook Pro",
+      "description": "Un chercheur a mesuré de l'extérieur Core Advanced, le modèle d'IA de 20 milliards de paramètres intégré à macOS 27 : sur un MacBook Pro, il n'occupe qu'environ 2 Go de mémoire, contre 15 Go pour un m...",
+      "url": "https://www.frandroid.com/marques/3301657_apple-garde-le-secret-sur-lia-de-macos-27-un-chercheur-la-dissequee-sur-un-macbook-pro",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-28T11:46:06Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "IA dans la relation client : le grand remplacement, un mythe ?",
-      "description": "55% de professionnels de la relation client jugeraient positivement l’impact de l’IA dans leur métier, tout en étant plus outillés que formés. D’après un observatoire, le remplacement de l’humain par ...",
-      "url": "https://www.zdnet.fr/actualites/ia-dans-la-relation-client-le-grand-remplacement-un-mythe-506564.htm",
-      "source": "ZDNet France",
-      "publishedAt": "2026-10-27T02:10:36Z",
+      "title": "Apple Creator Studio est obligé d'utiliser les modèles d'OpenAI pour ses nouvelles fonctions d'IA",
+      "description": "Apple déploie en novembre une mise à jour majeure pour sa suite logicielle Apple Creator Studio. Gratuite pour les abonnés actuels, elle intègre nativement le catalogue d'effets MotionVFX dans Final C...",
+      "url": "https://www.generation-nt.com/actualites/apple-creator-studio-modeles-openai-ia-2083513",
+      "source": "Génération NT",
+      "publishedAt": "2026-10-28T12:45:02Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,16 +290,16 @@
       "thumbnail": ""
     },
     {
-      "title": "Apple Creator Studio gagne des fonctions IA et des outils",
-      "description": "En plus des MacBook Pro M6 et iMac M6, Apple annonce une importante mise à jour d’Apple Creator Studio, sa suite d’applications créatives sur…\nLire la suite…\nFacebook · X · iAddict\nL’article Apple Cre...",
-      "url": "https://iphoneaddict.fr/post/news-438440-apple-creator-studio-gagne-fonctions-ia-outils",
-      "source": "Iphoneaddict.fr",
-      "publishedAt": "2026-10-27T13:55:01Z",
+      "title": "Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)",
+      "description": "La plupart des gens utilisent Google Gemini de manière très simple et passent à côté de l'essentiel. Dans cette vidéo, je te ...",
+      "url": "https://www.youtube.com/watch?v=C1esYFoZXBE",
+      "source": "Elliott Pierret",
+      "publishedAt": "2026-08-30T16:01:32Z",
       "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "C1esYFoZXBE",
+      "thumbnail": "https://i.ytimg.com/vi/C1esYFoZXBE/hqdefault.jpg"
     }
   ]
 }
