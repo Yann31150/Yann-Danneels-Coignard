@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 29 Oct 2026 15:03:05 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 14:55:45 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>SEO ou GEO ? Pourquoi un même article peut ranker sur Google et être cité par l’IA</title>
-            <link>https://www.abondance.com/20261027-3041983-seo-geo-positionnement-citation-article.html</link>
-            <description><![CDATA[Ce qu'il faut retenir : En mode Thinking, environ 3 résultats sur 4 lus par ChatGPT proviennent de Google : bien se positionner demeure un prérequis du GEO. Les mentions de marque et les ancres au nom...]]></description>
-            <pubDate>Tue, 27 Oct 2026 09:49:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.abondance.com/20261027-3041983-seo-geo-positionnement-citation-article.html</guid>
-            <source>Abondance.com</source>
-        </item>
         <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
             <link>https://www.youtube.com/watch?v=WUzHvB7FICc</link>
@@ -34,14 +26,6 @@
             <description><![CDATA[Troisième épisode de la Formation Machine learning &amp; data science de Bitdyne, pour consultants au Maroc. La préparation des ...]]></description>
             <pubDate>Tue, 08 Sep 2026 22:24:34 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=J3YIeIEeIl8</guid>
-            <source>Bitdyne</source>
-        </item>
-        <item>
-            <title>Formation Power BI #2 — Découvrir Power BI</title>
-            <link>https://www.youtube.com/watch?v=umhogyl2A14</link>
-            <description><![CDATA[L'écosystème et le flux de travail Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain. Cette version ...]]></description>
-            <pubDate>Sat, 10 Oct 2026 12:08:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=umhogyl2A14</guid>
             <source>Bitdyne</source>
         </item>
         <item>
@@ -77,20 +61,36 @@
             <source>IA Futura</source>
         </item>
         <item>
-            <title>Guerre sémantique : Trump décrète la mort de l'Intelligence Artificielle</title>
-            <link>https://www.generation-nt.com/actualites/donald-trump-intelligence-artificielle-denomination-super-intelligence-2083557</link>
-            <description><![CDATA[Dans un énième coup de force terminologique, le président américain a décidé de rayer de la carte Intelligence Artificielle, une expression vieille de 70 ans, au profit d'un néologisme plus à son goût...]]></description>
-            <pubDate>Wed, 28 Oct 2026 09:10:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/donald-trump-intelligence-artificielle-denomination-super-intelligence-2083557</guid>
-            <source>Génération NT</source>
-        </item>
-        <item>
             <title>Clustering de variables avec le package « clustvartools » pour Python</title>
             <link>https://www.youtube.com/watch?v=feIiOQVPPuM</link>
             <description><![CDATA[Machine learning. Data science. Le package « clustvartools » pour Python propose une panoplie clé en main d'algorithmes de ...]]></description>
             <pubDate>Thu, 15 Oct 2026 14:33:41 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=feIiOQVPPuM</guid>
             <source>MASTER 2 SISE DATA SCIENCE</source>
+        </item>
+        <item>
+            <title>Visualisation de données — cours complet 1h42 (débutant, sans code) · Chapitre 2/10</title>
+            <link>https://www.youtube.com/watch?v=0RCs3npgogY</link>
+            <description><![CDATA[COMPILATION — Chapitre 2/10 de la formation Data &amp; Machine Learning, d'un seul tenant (1h42). 100 % GRATUIT. ⚠️ Aucun ...]]></description>
+            <pubDate>Thu, 03 Sep 2026 09:58:25 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=0RCs3npgogY</guid>
+            <source>IA Futura</source>
+        </item>
+        <item>
+            <title>Programmation Transact-SQL (T-SQL) : Variables, Boucles While, IF/ELSE et Tables Temporaires</title>
+            <link>https://www.youtube.com/watch?v=mq9bcHMIooQ</link>
+            <description><![CDATA[Aller au-delà des requêtes SQL simples et maîtriser la programmation procédurale est indispensable pour créer des scripts ...]]></description>
+            <pubDate>Tue, 08 Sep 2026 09:00:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=mq9bcHMIooQ</guid>
+            <source>Tchaps Tech</source>
+        </item>
+        <item>
+            <title>Les sous-requêtes SQL : WHERE, FROM, SELECT et le mot IN (cas concret)</title>
+            <link>https://www.youtube.com/watch?v=Q_B9IIMD4IY</link>
+            <description><![CDATA[Septième épisode de la Formation SQL Bitdyne. Certaines questions se posent en deux temps : « quelles commandes dépassent ...]]></description>
+            <pubDate>Fri, 09 Oct 2026 12:46:19 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Q_B9IIMD4IY</guid>
+            <source>Bitdyne</source>
         </item>
         <item>
             <title>Filtrer une table avec Filter dans Power BI</title>
@@ -109,20 +109,12 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>SQLite de A à Z 🚀 | Apprendre SQL avec des exemples pratiques</title>
-            <link>https://www.youtube.com/watch?v=igQlVMHx3BI</link>
-            <description><![CDATA[Bienvenue dans cette formation pratique dédiée à SQLite et au langage SQL ! Dans ce cours, nous allons apprendre ...]]></description>
-            <pubDate>Sun, 18 Oct 2026 18:33:47 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=igQlVMHx3BI</guid>
-            <source>bahia_ plus</source>
-        </item>
-        <item>
-            <title>SQL avec PostgreSQL : le cours complet (2 h 29, 34 chapitres, 99 exercices)</title>
-            <link>https://www.youtube.com/watch?v=rpVy7sIM9BY</link>
-            <description><![CDATA[Le cours complet de SQL avec PostgreSQL, de zéro au niveau professionnel : 34 chapitres et 99 exercices corrigés. Les bases ...]]></description>
-            <pubDate>Sun, 04 Oct 2026 20:20:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=rpVy7sIM9BY</guid>
-            <source>lioncode</source>
+            <title>Découvrir SQL : interroger une base de données (débutant, cas concret)</title>
+            <link>https://www.youtube.com/watch?v=3_q1VH5GTDI</link>
+            <description><![CDATA[Premier épisode de la Formation SQL Bitdyne. Le problème que résout SQL : accéder soi-même à l'information qui dort dans les ...]]></description>
+            <pubDate>Fri, 09 Oct 2026 12:23:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=3_q1VH5GTDI</guid>
+            <source>Bitdyne</source>
         </item>
         <item>
             <title>Power BI : créer son premier graphique à partir d’Excel</title>
@@ -141,22 +133,6 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Firefox pourra bientôt remplir automatiquement vos formulaires et surveiller vos pages Web</title>
-            <link>https://www.01net.com/actualites/firefox-pourra-bientot-remplir-automatiquement-vos-formulaires-et-surveiller-vos-pages-web.html</link>
-            <description><![CDATA[Le navigateur Web de Mozilla va s’enrichir de nouvelles fonctionnalités d’IA. Firefox pourra bientôt remplir automatiquement les formulaires en ligne en fonction du contexte, et vous alerter dès qu’un...]]></description>
-            <pubDate>Wed, 28 Oct 2026 07:51:43 -0000</pubDate>
-            <guid isPermaLink="true">https://www.01net.com/actualites/firefox-pourra-bientot-remplir-automatiquement-vos-formulaires-et-surveiller-vos-pages-web.html</guid>
-            <source>01net.com</source>
-        </item>
-        <item>
-            <title>Copilot va bientôt disparaître des TV connectés, l’IA de Microsoft a d’autres priorités</title>
-            <link>https://www.frandroid.com/marques/microsoft/3301785_copilot-va-bientot-disparaitre-des-tv-connectes-lia-de-microsoft-a-dautres-priorites</link>
-            <description><![CDATA[Un message d'avertissement commence à s'afficher sur des télévisions intelligentes LG : Microsoft ne prendra plus en charge l'IA Copilot intégrée à l'appareil. La date exacte est encore inconnue.]]></description>
-            <pubDate>Wed, 28 Oct 2026 14:46:50 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/marques/microsoft/3301785_copilot-va-bientot-disparaitre-des-tv-connectes-lia-de-microsoft-a-dautres-priorites</guid>
-            <source>Frandroid</source>
-        </item>
-        <item>
             <title>Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍</title>
             <link>https://www.youtube.com/watch?v=Yfbb0q7Mi5E</link>
             <description><![CDATA[]]></description>
@@ -165,12 +141,12 @@
             <source>LaDataFacile</source>
         </item>
         <item>
-            <title>L'IA a fait de moi un étranger dans mon pays</title>
-            <link>https://www.journaldunet.com/intelligence-artificielle/1557121-l-ia-a-fait-de-moi-un-etranger-dans-mon-pays/</link>
-            <description><![CDATA[Je vous écris d'un pays qui n'existe plus. Ce pays c'était le nôtre, celui que nous avons toujours habité, nous, les êtres de sens, d'imaginaire, et de triste condition. Mais nous avons été colonisés]]></description>
-            <pubDate>Wed, 28 Oct 2026 10:10:55 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1557121-l-ia-a-fait-de-moi-un-etranger-dans-mon-pays/</guid>
-            <source>JDN</source>
+            <title>3 vidéos pour apprendre à utiliser Claude</title>
+            <link>https://www.youtube.com/watch?v=76FtaYkr0Ng</link>
+            <description><![CDATA[3 vidéos pour apprendre à utiliser Claude, même si vous débutez (et sans payer de formation) Vidéo 1 : Le guide ultime de ...]]></description>
+            <pubDate>Mon, 12 Oct 2026 15:16:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=76FtaYkr0Ng</guid>
+            <source>unefilleia</source>
         </item>
     </channel>
 </rss>
