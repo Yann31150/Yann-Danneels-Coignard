@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 30 Oct 2026 14:55:45 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 14:24:36 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,19 +21,19 @@
             <source>Bitdyne</source>
         </item>
         <item>
+            <title>Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)</title>
+            <link>https://www.youtube.com/watch?v=1ynUnP7VHsE</link>
+            <description><![CDATA[Tu veux être accompagné pour passer à l'action ? Réserve 30 minutes avec un coach Alegria ...]]></description>
+            <pubDate>Tue, 06 Oct 2026 14:04:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1ynUnP7VHsE</guid>
+            <source>Alegria Group</source>
+        </item>
+        <item>
             <title>Explorer et préparer ses données avec pandas (data science)</title>
             <link>https://www.youtube.com/watch?v=J3YIeIEeIl8</link>
             <description><![CDATA[Troisième épisode de la Formation Machine learning &amp; data science de Bitdyne, pour consultants au Maroc. La préparation des ...]]></description>
             <pubDate>Tue, 08 Sep 2026 22:24:34 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=J3YIeIEeIl8</guid>
-            <source>Bitdyne</source>
-        </item>
-        <item>
-            <title>Formation Power BI #5 — Le modèle de données et le schéma en étoile</title>
-            <link>https://www.youtube.com/watch?v=EpQJRHme6-w</link>
-            <description><![CDATA[Faits, dimensions, relations : la charpente qui rend tous les calculs justes Formation Power BI par Bitdyne. Cas concrets ...]]></description>
-            <pubDate>Sat, 10 Oct 2026 12:18:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=EpQJRHme6-w</guid>
             <source>Bitdyne</source>
         </item>
         <item>
@@ -91,6 +91,14 @@
             <pubDate>Fri, 09 Oct 2026 12:46:19 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Q_B9IIMD4IY</guid>
             <source>Bitdyne</source>
+        </item>
+        <item>
+            <title>Projet Power BI complet | Analyse des ventes du début à la fin | Power BI pour débutants | 2026</title>
+            <link>https://www.youtube.com/watch?v=dpqTdoE7dYg</link>
+            <description><![CDATA[Dans cette vidéo, on construit un Dashboard Power BI complet de A à Z : on part d'un fichier de ventes tout sale et on le ...]]></description>
+            <pubDate>Wed, 16 Sep 2026 10:45:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=dpqTdoE7dYg</guid>
+            <source>DATA LAB FR</source>
         </item>
         <item>
             <title>Filtrer une table avec Filter dans Power BI</title>

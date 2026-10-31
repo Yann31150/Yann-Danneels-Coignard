@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-30T14:55:45.112618",
+  "lastUpdate": "2026-10-31T14:24:36.517526",
   "articles": [
     {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
@@ -14,6 +14,18 @@
       "thumbnail": "https://i.ytimg.com/vi/WUzHvB7FICc/hqdefault.jpg"
     },
     {
+      "title": "Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)",
+      "description": "Tu veux être accompagné pour passer à l'action ? Réserve 30 minutes avec un coach Alegria ...",
+      "url": "https://www.youtube.com/watch?v=1ynUnP7VHsE",
+      "source": "Alegria Group",
+      "publishedAt": "2026-10-06T14:04:51Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1ynUnP7VHsE",
+      "thumbnail": "https://i.ytimg.com/vi/1ynUnP7VHsE/hqdefault.jpg"
+    },
+    {
       "title": "Explorer et préparer ses données avec pandas (data science)",
       "description": "Troisième épisode de la Formation Machine learning & data science de Bitdyne, pour consultants au Maroc. La préparation des ...",
       "url": "https://www.youtube.com/watch?v=J3YIeIEeIl8",
@@ -24,18 +36,6 @@
       "isYouTube": true,
       "videoId": "J3YIeIEeIl8",
       "thumbnail": "https://i.ytimg.com/vi/J3YIeIEeIl8/hqdefault.jpg"
-    },
-    {
-      "title": "Formation Power BI #5 — Le modèle de données et le schéma en étoile",
-      "description": "Faits, dimensions, relations : la charpente qui rend tous les calculs justes Formation Power BI par Bitdyne. Cas concrets ...",
-      "url": "https://www.youtube.com/watch?v=EpQJRHme6-w",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-10T12:18:08Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "EpQJRHme6-w",
-      "thumbnail": "https://i.ytimg.com/vi/EpQJRHme6-w/hqdefault.jpg"
     },
     {
       "title": "Ton premier projet Data &amp; Machine Learning en Python — projet complet 34 min (débutant, avec code)",
@@ -120,6 +120,18 @@
       "isYouTube": true,
       "videoId": "Q_B9IIMD4IY",
       "thumbnail": "https://i.ytimg.com/vi/Q_B9IIMD4IY/hqdefault.jpg"
+    },
+    {
+      "title": "Projet Power BI complet | Analyse des ventes du début à la fin | Power BI pour débutants | 2026",
+      "description": "Dans cette vidéo, on construit un Dashboard Power BI complet de A à Z : on part d'un fichier de ventes tout sale et on le ...",
+      "url": "https://www.youtube.com/watch?v=dpqTdoE7dYg",
+      "source": "DATA LAB FR",
+      "publishedAt": "2026-09-16T10:45:36Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "dpqTdoE7dYg",
+      "thumbnail": "https://i.ytimg.com/vi/dpqTdoE7dYg/hqdefault.jpg"
     },
     {
       "title": "Filtrer une table avec Filter dans Power BI",
