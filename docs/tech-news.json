@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-31T14:24:36.517526",
+  "lastUpdate": "2026-11-01T14:51:02.559396",
   "articles": [
     {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
@@ -26,18 +26,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1ynUnP7VHsE/hqdefault.jpg"
     },
     {
-      "title": "Explorer et préparer ses données avec pandas (data science)",
-      "description": "Troisième épisode de la Formation Machine learning & data science de Bitdyne, pour consultants au Maroc. La préparation des ...",
-      "url": "https://www.youtube.com/watch?v=J3YIeIEeIl8",
-      "source": "Bitdyne",
-      "publishedAt": "2026-09-08T22:24:34Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "J3YIeIEeIl8",
-      "thumbnail": "https://i.ytimg.com/vi/J3YIeIEeIl8/hqdefault.jpg"
-    },
-    {
       "title": "Ton premier projet Data &amp; Machine Learning en Python — projet complet 34 min (débutant, avec code)",
       "description": "Ton premier projet complet de Data & Machine Learning en Python, de bout en bout : on charge les données de 398 vraies ...",
       "url": "https://www.youtube.com/watch?v=t9dIU3Od0SE",
@@ -48,6 +36,18 @@
       "isYouTube": true,
       "videoId": "t9dIU3Od0SE",
       "thumbnail": "https://i.ytimg.com/vi/t9dIU3Od0SE/hqdefault.jpg"
+    },
+    {
+      "title": "Comprendre l&#39;Intelligence Artificielle : Les bases expliquées simplement",
+      "description": "L'Intelligence Artificielle et la Data Science sont partout, mais entre le jargon technique et les termes compliqués, difficile d'y voir ...",
+      "url": "https://www.youtube.com/watch?v=yw1bS20gTzc",
+      "source": "Gab JPM",
+      "publishedAt": "2026-10-12T15:15:12Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "yw1bS20gTzc",
+      "thumbnail": "https://i.ytimg.com/vi/yw1bS20gTzc/hqdefault.jpg"
     },
     {
       "title": "URGENT : Machine Learning, Ia, — analyse rapide",
@@ -144,18 +144,6 @@
       "isYouTube": true,
       "videoId": "Tmz4jXuBGdI",
       "thumbnail": "https://i.ytimg.com/vi/Tmz4jXuBGdI/hqdefault.jpg"
-    },
-    {
-      "title": "Python : introduction à pandas pour l&#39;analyse de données",
-      "description": "Seizième épisode de la Formation Python Bitdyne : découvrir pandas. Le DataFrame, filtrer des lignes, regrouper et agréger ...",
-      "url": "https://www.youtube.com/watch?v=cIfEIoT3MCc",
-      "source": "Bitdyne",
-      "publishedAt": "2026-09-02T04:02:19Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "cIfEIoT3MCc",
-      "thumbnail": "https://i.ytimg.com/vi/cIfEIoT3MCc/hqdefault.jpg"
     },
     {
       "title": "Découvrir SQL : interroger une base de données (débutant, cas concret)",
