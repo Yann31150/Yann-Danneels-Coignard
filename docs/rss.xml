@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sun, 01 Nov 2026 14:51:02 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 18:01:05 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -21,12 +21,12 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)</title>
-            <link>https://www.youtube.com/watch?v=1ynUnP7VHsE</link>
-            <description><![CDATA[Tu veux être accompagné pour passer à l'action ? Réserve 30 minutes avec un coach Alegria ...]]></description>
-            <pubDate>Tue, 06 Oct 2026 14:04:51 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=1ynUnP7VHsE</guid>
-            <source>Alegria Group</source>
+            <title>Explorer et préparer ses données avec pandas (data science)</title>
+            <link>https://www.youtube.com/watch?v=J3YIeIEeIl8</link>
+            <description><![CDATA[Troisième épisode de la Formation Machine learning &amp; data science de Bitdyne, pour consultants au Maroc. La préparation des ...]]></description>
+            <pubDate>Tue, 08 Sep 2026 22:24:34 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=J3YIeIEeIl8</guid>
+            <source>Bitdyne</source>
         </item>
         <item>
             <title>Ton premier projet Data &amp;amp; Machine Learning en Python — projet complet 34 min (débutant, avec code)</title>
@@ -45,6 +45,14 @@
             <source>Gab JPM</source>
         </item>
         <item>
+            <title>Que pense l'intelligence artificielle de l'humanité ? Les meilleures IA pointent toutes les mêmes faiblesses</title>
+            <link>https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-pense-intelligence-artificielle-humanite-meilleures-ia-pointent-toutes-memes-faiblesses-138979/</link>
+            <description><![CDATA[Et si l'intelligence artificielle pouvait nous aider à mieux comprendre nos propres travers ? En interrogeant plusieurs modèles sur leurs opinions les plus controversées à propos de l'humanité, des ch...]]></description>
+            <pubDate>Sun, 01 Nov 2026 14:07:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-pense-intelligence-artificielle-humanite-meilleures-ia-pointent-toutes-memes-faiblesses-138979/</guid>
+            <source>Futura</source>
+        </item>
+        <item>
             <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
             <link>https://www.youtube.com/watch?v=NdS8xLrZd_k</link>
             <description><![CDATA[Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...]]></description>
@@ -61,6 +69,14 @@
             <source>IA Futura</source>
         </item>
         <item>
+            <title>Intelligence artificielle : les affiches générées gratuitement séduisent les petites communes, mais inquiètent les graphistes</title>
+            <link>https://www.franceinfo.fr/internet/intelligence-artificielle/intelligence-artificielle-les-affiches-generees-gratuitement-seduisent-les-petites-communes-mais-inquietent-les-graphistes_8262836.html</link>
+            <description><![CDATA[Gratuites et rapides à créer, les affiches générées par l'intelligence artificielle séduisent certaines petites communes, qui y voient un moyen économique de communiquer. Mais leur multiplication inqu...]]></description>
+            <pubDate>Sun, 01 Nov 2026 14:18:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/internet/intelligence-artificielle/intelligence-artificielle-les-affiches-generees-gratuitement-seduisent-les-petites-communes-mais-inquietent-les-graphistes_8262836.html</guid>
+            <source>Franceinfo.fr</source>
+        </item>
+        <item>
             <title>Clustering de variables avec le package « clustvartools » pour Python</title>
             <link>https://www.youtube.com/watch?v=feIiOQVPPuM</link>
             <description><![CDATA[Machine learning. Data science. Le package « clustvartools » pour Python propose une panoplie clé en main d'algorithmes de ...]]></description>
@@ -69,28 +85,12 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
-            <title>Visualisation de données — cours complet 1h42 (débutant, sans code) · Chapitre 2/10</title>
-            <link>https://www.youtube.com/watch?v=0RCs3npgogY</link>
-            <description><![CDATA[COMPILATION — Chapitre 2/10 de la formation Data &amp; Machine Learning, d'un seul tenant (1h42). 100 % GRATUIT. ⚠️ Aucun ...]]></description>
-            <pubDate>Thu, 03 Sep 2026 09:58:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=0RCs3npgogY</guid>
-            <source>IA Futura</source>
-        </item>
-        <item>
             <title>Programmation Transact-SQL (T-SQL) : Variables, Boucles While, IF/ELSE et Tables Temporaires</title>
             <link>https://www.youtube.com/watch?v=mq9bcHMIooQ</link>
             <description><![CDATA[Aller au-delà des requêtes SQL simples et maîtriser la programmation procédurale est indispensable pour créer des scripts ...]]></description>
             <pubDate>Tue, 08 Sep 2026 09:00:15 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=mq9bcHMIooQ</guid>
             <source>Tchaps Tech</source>
-        </item>
-        <item>
-            <title>Les sous-requêtes SQL : WHERE, FROM, SELECT et le mot IN (cas concret)</title>
-            <link>https://www.youtube.com/watch?v=Q_B9IIMD4IY</link>
-            <description><![CDATA[Septième épisode de la Formation SQL Bitdyne. Certaines questions se posent en deux temps : « quelles commandes dépassent ...]]></description>
-            <pubDate>Fri, 09 Oct 2026 12:46:19 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Q_B9IIMD4IY</guid>
-            <source>Bitdyne</source>
         </item>
         <item>
             <title>Projet Power BI complet | Analyse des ventes du début à la fin | Power BI pour débutants | 2026</title>
@@ -125,6 +125,22 @@
             <source>Youmout Cours</source>
         </item>
         <item>
+            <title>Des IA autonomes pourraient bientôt créer leurs propres botnets</title>
+            <link>https://www.begeek.fr/des-ia-autonomes-pourraient-bientot-creer-leurs-propres-botnets-442223</link>
+            <description><![CDATA[Anthropic alerte sur des modèles IA capables de se répliquer bientôt. Des chercheurs jugent la menace crédible, mais surtout proche des botnets déjà connus.]]></description>
+            <pubDate>Sun, 01 Nov 2026 11:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.begeek.fr/des-ia-autonomes-pourraient-bientot-creer-leurs-propres-botnets-442223</guid>
+            <source>Begeek.fr</source>
+        </item>
+        <item>
+            <title>Bâtir un centre commercial en Belgique, un parcours du combattant ? “La lenteur administrative est quelque chose qui tue l’entrepreneuriat belge”</title>
+            <link>https://www.lalibre.be/economie/immo/2026/11/01/batir-un-centre-commercial-en-belgique-un-parcours-du-combattant-la-lenteur-administrative-est-quelque-chose-qui-tue-lentrepreneuriat-belge-EOW4QRBFFRDIPALKDTL7I7ME2Y/</link>
+            <description><![CDATA[Le dossier de La Libre Immo | Aux portes de Bruxelles comme à Namur, les promoteurs misent sur des ensembles mêlant commerces, bureaux et loisirs. Mais entre ambitions immobilières, recours et adaptat...]]></description>
+            <pubDate>Sun, 01 Nov 2026 14:56:22 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lalibre.be/economie/immo/2026/11/01/batir-un-centre-commercial-en-belgique-un-parcours-du-combattant-la-lenteur-administrative-est-quelque-chose-qui-tue-lentrepreneuriat-belge-EOW4QRBFFRDIPALKDTL7I7ME2Y/</guid>
+            <source>Lalibre.be</source>
+        </item>
+        <item>
             <title>L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto</title>
             <link>https://www.youtube.com/watch?v=ijEHTjsGNsE</link>
             <description><![CDATA[]]></description>
@@ -133,20 +149,28 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍</title>
-            <link>https://www.youtube.com/watch?v=Yfbb0q7Mi5E</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Sun, 04 Oct 2026 22:23:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Yfbb0q7Mi5E</guid>
-            <source>LaDataFacile</source>
+            <title>sqlmath 2026.10.30</title>
+            <link>https://pypi.org/project/sqlmath/2026.10.30/</link>
+            <description><![CDATA[sqlite for data-science]]></description>
+            <pubDate>Sun, 01 Nov 2026 07:19:40 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/sqlmath/2026.10.30/</guid>
+            <source>Pypi.org</source>
         </item>
         <item>
-            <title>3 vidéos pour apprendre à utiliser Claude</title>
-            <link>https://www.youtube.com/watch?v=76FtaYkr0Ng</link>
-            <description><![CDATA[3 vidéos pour apprendre à utiliser Claude, même si vous débutez (et sans payer de formation) Vidéo 1 : Le guide ultime de ...]]></description>
-            <pubDate>Mon, 12 Oct 2026 15:16:34 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=76FtaYkr0Ng</guid>
-            <source>unefilleia</source>
+            <title>Alimentation : ce gastro-entérologue appelle à bouleverser nos habitudes, et voici pourquoi</title>
+            <link>https://www.futura-sciences.com/sante/actualites/alimentation-alimentation-ce-gastro-enterologue-appelle-bouleverser-nos-habitudes-voici-k2m6-138944/</link>
+            <description><![CDATA[Nous disposons tous de deux laboratoires d'une sophistication extraordinaire : nos cinq sens et notre cuisine. La formule est d'un gastro-entérologue, et elle n'a rien d'une métaphore. Transformation ...]]></description>
+            <pubDate>Sat, 31 Oct 2026 09:00:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/sante/actualites/alimentation-alimentation-ce-gastro-enterologue-appelle-bouleverser-nos-habitudes-voici-k2m6-138944/</guid>
+            <source>Futura</source>
+        </item>
+        <item>
+            <title>La Nasa a des millions de données à explorer : et si vous étiez le premier à découvrir un trou noir ?</title>
+            <link>https://www.futura-sciences.com/sciences/actualites/astronomie-nasa-millions-donnees-explorer-si-vous-etiez-premier-decouvrir-trou-noir-138704/</link>
+            <description><![CDATA[Notre Galaxie est née il y a un peu plus de 10 milliards d'années et selon les estimations des astrophysiciens, les multiples générations d'étoiles qu'elle a connues auraient produit pas loin de 170 m...]]></description>
+            <pubDate>Sat, 31 Oct 2026 11:13:12 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/astronomie-nasa-millions-donnees-explorer-si-vous-etiez-premier-decouvrir-trou-noir-138704/</guid>
+            <source>Futura</source>
         </item>
     </channel>
 </rss>
