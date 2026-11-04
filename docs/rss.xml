@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 03 Nov 2026 15:59:33 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 16:03:21 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>ChatGPT pourrait bientôt fouiller dans vos données de santé grâce à Google Health</title>
-            <link>https://www.frandroid.com/marques/openai/3306313_chatgpt-pourrait-bientot-fouiller-dans-vos-donnees-de-sante-grace-a-google-health</link>
-            <description><![CDATA[OpenAI permettrait à certains utilisateurs de connecter leurs données de santé issues de Google Health à ChatGPT. Une future intégration qui donnerait à l'assistant IA accès à des informations particu...]]></description>
-            <pubDate>Mon, 02 Nov 2026 10:36:49 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/marques/openai/3306313_chatgpt-pourrait-bientot-fouiller-dans-vos-donnees-de-sante-grace-a-google-health</guid>
+            <title>ChatGPT : les agents IA Dots deviennent plus puissants et encore plus autonomes</title>
+            <link>https://www.frandroid.com/marques/openai/3308921_chatgpt-les-agents-ia-dots-deviennent-plus-puissants-et-encore-plus-autonomes</link>
+            <description><![CDATA[OpenAI met à jour ses Dots, les agents IA capables de travailler pour vous à distance. Au programme : la prise en charge des derniers modèles de langage de la firme et la capacité de jongler entre eux...]]></description>
+            <pubDate>Tue, 03 Nov 2026 15:50:11 -0000</pubDate>
+            <guid isPermaLink="true">https://www.frandroid.com/marques/openai/3308921_chatgpt-les-agents-ia-dots-deviennent-plus-puissants-et-encore-plus-autonomes</guid>
             <source>Frandroid</source>
-        </item>
-        <item>
-            <title>Face aux pénuries, Sam Altman sécurise directement ses puces mémoire en Corée du Sud</title>
-            <link>https://www.generation-nt.com/actualites/sam-altman-securisation-approvisionnement-puces-ia-coree-2083782</link>
-            <description><![CDATA[Le grand patron de ChatGPT a multiplié les rencontres au sommet à Séoul ce week-end pour tenter de consolider ses partenariats industriels. L'enjeu dépasse la simple courtoisie diplomatique pour touch...]]></description>
-            <pubDate>Mon, 02 Nov 2026 11:20:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.generation-nt.com/actualites/sam-altman-securisation-approvisionnement-puces-ia-coree-2083782</guid>
-            <source>Génération NT</source>
         </item>
         <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
@@ -37,6 +29,14 @@
             <source>Bitdyne</source>
         </item>
         <item>
+            <title>Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)</title>
+            <link>https://www.youtube.com/watch?v=1ynUnP7VHsE</link>
+            <description><![CDATA[Tu veux être accompagné pour passer à l'action ? Réserve 30 minutes avec un coach Alegria ...]]></description>
+            <pubDate>Tue, 06 Oct 2026 14:04:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=1ynUnP7VHsE</guid>
+            <source>Alegria Group</source>
+        </item>
+        <item>
             <title>Explorer et préparer ses données avec pandas (data science)</title>
             <link>https://www.youtube.com/watch?v=J3YIeIEeIl8</link>
             <description><![CDATA[Troisième épisode de la Formation Machine learning &amp; data science de Bitdyne, pour consultants au Maroc. La préparation des ...]]></description>
@@ -45,12 +45,12 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>Yann LeCun tient peut-être la preuve que la taille d’un LLM ne fait pas sa qualité</title>
-            <link>https://www.numerama.com/tech/2365555-yann-lecun-tient-peut-etre-la-preuve-que-la-taille-dun-llm-ne-fait-pas-sa-qualite.html</link>
-            <description><![CDATA[Dans une étude mise en ligne le 29 octobre, Yann LeCun et Randall Balestriero affirment démontrer qu'un petit modèle d'IA bien nourri se fait une meilleure image du monde qu'un LLM 660 fois plus gros....]]></description>
-            <pubDate>Mon, 02 Nov 2026 09:40:22 -0000</pubDate>
-            <guid isPermaLink="true">https://www.numerama.com/tech/2365555-yann-lecun-tient-peut-etre-la-preuve-que-la-taille-dun-llm-ne-fait-pas-sa-qualite.html</guid>
-            <source>Numerama</source>
+            <title>Formation Power BI #5 — Le modèle de données et le schéma en étoile</title>
+            <link>https://www.youtube.com/watch?v=EpQJRHme6-w</link>
+            <description><![CDATA[Faits, dimensions, relations : la charpente qui rend tous les calculs justes Formation Power BI par Bitdyne. Cas concrets ...]]></description>
+            <pubDate>Sat, 10 Oct 2026 12:18:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=EpQJRHme6-w</guid>
+            <source>Bitdyne</source>
         </item>
         <item>
             <title>Ton premier projet Data &amp;amp; Machine Learning en Python — projet complet 34 min (débutant, avec code)</title>
@@ -69,6 +69,14 @@
             <source>Gab JPM</source>
         </item>
         <item>
+            <title>MCP et marketing : comment l’intelligence artificielle transforme la gestion des réseaux sociaux</title>
+            <link>https://www.lesnumeriques.com/intelligence-artificielle/mcp-et-marketing-comment-l-intelligence-artificielle-transforme-la-gestion-des-reseaux-sociaux-na266682.html</link>
+            <description><![CDATA[La gestion des réseaux sociaux implique de nombreuses tâches : analyser les performances, préparer des publications, choisir les bons horaires et produire des rapports réguliers. Les outils d’intellig...]]></description>
+            <pubDate>Tue, 03 Nov 2026 13:15:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/mcp-et-marketing-comment-l-intelligence-artificielle-transforme-la-gestion-des-reseaux-sociaux-na266682.html</guid>
+            <source>Les Numériques</source>
+        </item>
+        <item>
             <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
             <link>https://www.youtube.com/watch?v=NdS8xLrZd_k</link>
             <description><![CDATA[Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...]]></description>
@@ -83,14 +91,6 @@
             <pubDate>Mon, 07 Sep 2026 11:00:18 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=jp6vn3Hp_zc</guid>
             <source>IA Futura</source>
-        </item>
-        <item>
-            <title>Clustering de variables avec le package « clustvartools » pour Python</title>
-            <link>https://www.youtube.com/watch?v=feIiOQVPPuM</link>
-            <description><![CDATA[Machine learning. Data science. Le package « clustvartools » pour Python propose une panoplie clé en main d'algorithmes de ...]]></description>
-            <pubDate>Thu, 15 Oct 2026 14:33:41 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=feIiOQVPPuM</guid>
-            <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
             <title>Projet Power BI complet | Analyse des ventes du début à la fin | Power BI pour débutants | 2026</title>
@@ -125,14 +125,6 @@
             <source>Youmout Cours</source>
         </item>
         <item>
-            <title>Des IA autonomes pourraient bientôt créer leurs propres botnets</title>
-            <link>https://www.begeek.fr/des-ia-autonomes-pourraient-bientot-creer-leurs-propres-botnets-442223</link>
-            <description><![CDATA[Anthropic alerte sur des modèles IA capables de se répliquer bientôt. Des chercheurs jugent la menace crédible, mais surtout proche des botnets déjà connus.]]></description>
-            <pubDate>Sun, 01 Nov 2026 11:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.begeek.fr/des-ia-autonomes-pourraient-bientot-creer-leurs-propres-botnets-442223</guid>
-            <source>Begeek.fr</source>
-        </item>
-        <item>
             <title>L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto</title>
             <link>https://www.youtube.com/watch?v=ijEHTjsGNsE</link>
             <description><![CDATA[]]></description>
@@ -141,36 +133,44 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>sqlmath 2026.10.30</title>
-            <link>https://pypi.org/project/sqlmath/2026.10.30/</link>
-            <description><![CDATA[sqlite for data-science]]></description>
-            <pubDate>Sun, 01 Nov 2026 07:19:40 -0000</pubDate>
-            <guid isPermaLink="true">https://pypi.org/project/sqlmath/2026.10.30/</guid>
+            <title>Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍</title>
+            <link>https://www.youtube.com/watch?v=Yfbb0q7Mi5E</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 04 Oct 2026 22:23:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Yfbb0q7Mi5E</guid>
+            <source>LaDataFacile</source>
+        </item>
+        <item>
+            <title>pyvgc 0.0.2.1</title>
+            <link>https://pypi.org/project/pyvgc/0.0.2.1/</link>
+            <description><![CDATA[A Pokémon Champions data science package.]]></description>
+            <pubDate>Mon, 02 Nov 2026 12:48:39 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/pyvgc/0.0.2.1/</guid>
             <source>Pypi.org</source>
         </item>
         <item>
-            <title>Actualité : Utiliser l’IA pour savoir si l'on est une cible assez rentable pour être piratée, voici le nouveau malware VOLTA sur Windows</title>
-            <link>https://www.lesnumeriques.com/intelligence-artificielle/utiliser-l-ia-pour-savoir-si-l-on-est-une-cible-assez-rentable-pour-etre-piratee-voici-le-nouveau-malware-volta-sur-windows-n266672.html</link>
-            <description><![CDATA[Un nouveau malware Windows baptisé VOLTA-AUTODOXER pille toutes les données du PC avant de demander à l’IA Claude d’évaluer la valeur financière de sa victime et de s’autodétruire.]]></description>
-            <pubDate>Mon, 02 Nov 2026 13:23:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/utiliser-l-ia-pour-savoir-si-l-on-est-une-cible-assez-rentable-pour-etre-piratee-voici-le-nouveau-malware-volta-sur-windows-n266672.html</guid>
-            <source>Les Numériques</source>
+            <title>pyvgc 0.0.2.4</title>
+            <link>https://pypi.org/project/pyvgc/0.0.2.4/</link>
+            <description><![CDATA[A Pokémon Champions data science package.]]></description>
+            <pubDate>Mon, 02 Nov 2026 20:54:30 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/pyvgc/0.0.2.4/</guid>
+            <source>Pypi.org</source>
         </item>
         <item>
-            <title>Les data centers dérangent ? OpenAI a trouvé une solution assez étrange...</title>
-            <link>https://www.mac4ever.com/ia/198824-les-data-centers-derangent-openai-a-trouve-une-solution-assez-etrange</link>
-            <description><![CDATA[Les centres de données sont devenus un sujet de controverse aux États-Unis, notamment en raison de leur consommation d'électricité et d'eau. Face à une opposition croissante, OpenAI envisagerait une n...]]></description>
-            <pubDate>Mon, 02 Nov 2026 14:32:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.mac4ever.com/ia/198824-les-data-centers-derangent-openai-a-trouve-une-solution-assez-etrange</guid>
-            <source>Mac4ever</source>
+            <title>Les start-up françaises ont levé 700 millions d'euros en octobre</title>
+            <link>https://www.journaldunet.com/start-up/1557505-les-start-up-francaises-ont-leve-700-millions-d-euros-en-octobre/</link>
+            <description><![CDATA[Un montant atteint en 36 opérations. La fintech, la biotech/greentech et l'énergie ont été les secteurs les plus prolifiques du mois.]]></description>
+            <pubDate>Tue, 03 Nov 2026 13:53:14 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/start-up/1557505-les-start-up-francaises-ont-leve-700-millions-d-euros-en-octobre/</guid>
+            <source>JDN</source>
         </item>
         <item>
-            <title>12 minutes, c’est le délai nécessaire à la Chine pour transférer la totalité du savoir humain de 2007 grâce à cette fibre optique high-tech</title>
-            <link>https://www.gameblog.fr/trends/12-minutes-cest-le-delai-necessaire-a-la-chine-pour-transferer-la-totalite-du-savoir-humain-de-2007-grace-a-cette-fibre-optique-high-tech-725961</link>
-            <description><![CDATA[Douze minutes pour transférer tout le savoir numérique accumulé par l'humanité en 2007 : c'est le vertige provoqué par une fibre optique chinoise à 3,2 pétabits par seconde, un record qui rebat déjà l...]]></description>
-            <pubDate>Mon, 02 Nov 2026 07:00:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.gameblog.fr/trends/12-minutes-cest-le-delai-necessaire-a-la-chine-pour-transferer-la-totalite-du-savoir-humain-de-2007-grace-a-cette-fibre-optique-high-tech-725961</guid>
-            <source>Gameblog</source>
+            <title>Du steamer au trimaran : comment la saga des « Gitana » illustre un siècle et demi d’innovations navales</title>
+            <link>https://theconversation.com/du-steamer-au-trimaran-comment-la-saga-des-gitana-illustre-un-siecle-et-demi-dinnovations-navales-295361</link>
+            <description><![CDATA[Le multicoque « Gitana 18 » est un bijou de technologie dont l’histoire remonte à la fin du XIXᵉ siècle.]]></description>
+            <pubDate>Tue, 03 Nov 2026 15:09:58 -0000</pubDate>
+            <guid isPermaLink="true">https://theconversation.com/du-steamer-au-trimaran-comment-la-saga-des-gitana-illustre-un-siecle-et-demi-dinnovations-navales-295361</guid>
+            <source>The Conversation Africa</source>
         </item>
     </channel>
 </rss>

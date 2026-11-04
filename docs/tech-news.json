@@ -1,24 +1,12 @@
 {
-  "lastUpdate": "2026-11-03T15:59:33.379506",
+  "lastUpdate": "2026-11-04T16:03:21.502285",
   "articles": [
     {
-      "title": "ChatGPT pourrait bientôt fouiller dans vos données de santé grâce à Google Health",
-      "description": "OpenAI permettrait à certains utilisateurs de connecter leurs données de santé issues de Google Health à ChatGPT. Une future intégration qui donnerait à l'assistant IA accès à des informations particu...",
-      "url": "https://www.frandroid.com/marques/openai/3306313_chatgpt-pourrait-bientot-fouiller-dans-vos-donnees-de-sante-grace-a-google-health",
+      "title": "ChatGPT : les agents IA Dots deviennent plus puissants et encore plus autonomes",
+      "description": "OpenAI met à jour ses Dots, les agents IA capables de travailler pour vous à distance. Au programme : la prise en charge des derniers modèles de langage de la firme et la capacité de jongler entre eux...",
+      "url": "https://www.frandroid.com/marques/openai/3308921_chatgpt-les-agents-ia-dots-deviennent-plus-puissants-et-encore-plus-autonomes",
       "source": "Frandroid",
-      "publishedAt": "2026-11-02T10:36:49Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Face aux pénuries, Sam Altman sécurise directement ses puces mémoire en Corée du Sud",
-      "description": "Le grand patron de ChatGPT a multiplié les rencontres au sommet à Séoul ce week-end pour tenter de consolider ses partenariats industriels. L'enjeu dépasse la simple courtoisie diplomatique pour touch...",
-      "url": "https://www.generation-nt.com/actualites/sam-altman-securisation-approvisionnement-puces-ia-coree-2083782",
-      "source": "Génération NT",
-      "publishedAt": "2026-11-02T11:20:01Z",
+      "publishedAt": "2026-11-03T15:50:11Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -38,6 +26,18 @@
       "thumbnail": "https://i.ytimg.com/vi/WUzHvB7FICc/hqdefault.jpg"
     },
     {
+      "title": "Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)",
+      "description": "Tu veux être accompagné pour passer à l'action ? Réserve 30 minutes avec un coach Alegria ...",
+      "url": "https://www.youtube.com/watch?v=1ynUnP7VHsE",
+      "source": "Alegria Group",
+      "publishedAt": "2026-10-06T14:04:51Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "1ynUnP7VHsE",
+      "thumbnail": "https://i.ytimg.com/vi/1ynUnP7VHsE/hqdefault.jpg"
+    },
+    {
       "title": "Explorer et préparer ses données avec pandas (data science)",
       "description": "Troisième épisode de la Formation Machine learning & data science de Bitdyne, pour consultants au Maroc. La préparation des ...",
       "url": "https://www.youtube.com/watch?v=J3YIeIEeIl8",
@@ -50,16 +50,16 @@
       "thumbnail": "https://i.ytimg.com/vi/J3YIeIEeIl8/hqdefault.jpg"
     },
     {
-      "title": "Yann LeCun tient peut-être la preuve que la taille d’un LLM ne fait pas sa qualité",
-      "description": "Dans une étude mise en ligne le 29 octobre, Yann LeCun et Randall Balestriero affirment démontrer qu'un petit modèle d'IA bien nourri se fait une meilleure image du monde qu'un LLM 660 fois plus gros....",
-      "url": "https://www.numerama.com/tech/2365555-yann-lecun-tient-peut-etre-la-preuve-que-la-taille-dun-llm-ne-fait-pas-sa-qualite.html",
-      "source": "Numerama",
-      "publishedAt": "2026-11-02T09:40:22Z",
+      "title": "Formation Power BI #5 — Le modèle de données et le schéma en étoile",
+      "description": "Faits, dimensions, relations : la charpente qui rend tous les calculs justes Formation Power BI par Bitdyne. Cas concrets ...",
+      "url": "https://www.youtube.com/watch?v=EpQJRHme6-w",
+      "source": "Bitdyne",
+      "publishedAt": "2026-10-10T12:18:08Z",
       "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "EpQJRHme6-w",
+      "thumbnail": "https://i.ytimg.com/vi/EpQJRHme6-w/hqdefault.jpg"
     },
     {
       "title": "Ton premier projet Data &amp; Machine Learning en Python — projet complet 34 min (débutant, avec code)",
@@ -86,6 +86,18 @@
       "thumbnail": "https://i.ytimg.com/vi/yw1bS20gTzc/hqdefault.jpg"
     },
     {
+      "title": "MCP et marketing : comment l’intelligence artificielle transforme la gestion des réseaux sociaux",
+      "description": "La gestion des réseaux sociaux implique de nombreuses tâches : analyser les performances, préparer des publications, choisir les bons horaires et produire des rapports réguliers. Les outils d’intellig...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/mcp-et-marketing-comment-l-intelligence-artificielle-transforme-la-gestion-des-reseaux-sociaux-na266682.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-11-03T13:15:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "URGENT : Machine Learning, Ia, — analyse rapide",
       "description": "Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...",
       "url": "https://www.youtube.com/watch?v=NdS8xLrZd_k",
@@ -108,18 +120,6 @@
       "isYouTube": true,
       "videoId": "jp6vn3Hp_zc",
       "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
-    },
-    {
-      "title": "Clustering de variables avec le package « clustvartools » pour Python",
-      "description": "Machine learning. Data science. Le package « clustvartools » pour Python propose une panoplie clé en main d'algorithmes de ...",
-      "url": "https://www.youtube.com/watch?v=feIiOQVPPuM",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-10-15T14:33:41Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "feIiOQVPPuM",
-      "thumbnail": "https://i.ytimg.com/vi/feIiOQVPPuM/hqdefault.jpg"
     },
     {
       "title": "Projet Power BI complet | Analyse des ventes du début à la fin | Power BI pour débutants | 2026",
@@ -170,18 +170,6 @@
       "thumbnail": "https://i.ytimg.com/vi/qbqaSlk3fho/hqdefault.jpg"
     },
     {
-      "title": "Des IA autonomes pourraient bientôt créer leurs propres botnets",
-      "description": "Anthropic alerte sur des modèles IA capables de se répliquer bientôt. Des chercheurs jugent la menace crédible, mais surtout proche des botnets déjà connus.",
-      "url": "https://www.begeek.fr/des-ia-autonomes-pourraient-bientot-creer-leurs-propres-botnets-442223",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-11-01T11:00:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
       "description": "",
       "url": "https://www.youtube.com/watch?v=ijEHTjsGNsE",
@@ -194,11 +182,23 @@
       "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
-      "title": "sqlmath 2026.10.30",
-      "description": "sqlite for data-science",
-      "url": "https://pypi.org/project/sqlmath/2026.10.30/",
+      "title": "Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Yfbb0q7Mi5E",
+      "source": "LaDataFacile",
+      "publishedAt": "2026-10-04T22:23:54Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Yfbb0q7Mi5E",
+      "thumbnail": "https://i.ytimg.com/vi/Yfbb0q7Mi5E/hqdefault.jpg"
+    },
+    {
+      "title": "pyvgc 0.0.2.1",
+      "description": "A Pokémon Champions data science package.",
+      "url": "https://pypi.org/project/pyvgc/0.0.2.1/",
       "source": "Pypi.org",
-      "publishedAt": "2026-11-01T07:19:40Z",
+      "publishedAt": "2026-11-02T12:48:39Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,11 +206,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Actualité : Utiliser l’IA pour savoir si l'on est une cible assez rentable pour être piratée, voici le nouveau malware VOLTA sur Windows",
-      "description": "Un nouveau malware Windows baptisé VOLTA-AUTODOXER pille toutes les données du PC avant de demander à l’IA Claude d’évaluer la valeur financière de sa victime et de s’autodétruire.",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/utiliser-l-ia-pour-savoir-si-l-on-est-une-cible-assez-rentable-pour-etre-piratee-voici-le-nouveau-malware-volta-sur-windows-n266672.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-11-02T13:23:00Z",
+      "title": "pyvgc 0.0.2.4",
+      "description": "A Pokémon Champions data science package.",
+      "url": "https://pypi.org/project/pyvgc/0.0.2.4/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-11-02T20:54:30Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,11 +218,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Les data centers dérangent ? OpenAI a trouvé une solution assez étrange...",
-      "description": "Les centres de données sont devenus un sujet de controverse aux États-Unis, notamment en raison de leur consommation d'électricité et d'eau. Face à une opposition croissante, OpenAI envisagerait une n...",
-      "url": "https://www.mac4ever.com/ia/198824-les-data-centers-derangent-openai-a-trouve-une-solution-assez-etrange",
-      "source": "Mac4ever",
-      "publishedAt": "2026-11-02T14:32:00Z",
+      "title": "Les start-up françaises ont levé 700 millions d'euros en octobre",
+      "description": "Un montant atteint en 36 opérations. La fintech, la biotech/greentech et l'énergie ont été les secteurs les plus prolifiques du mois.",
+      "url": "https://www.journaldunet.com/start-up/1557505-les-start-up-francaises-ont-leve-700-millions-d-euros-en-octobre/",
+      "source": "JDN",
+      "publishedAt": "2026-11-03T13:53:14Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -230,11 +230,11 @@
       "thumbnail": ""
     },
     {
-      "title": "12 minutes, c’est le délai nécessaire à la Chine pour transférer la totalité du savoir humain de 2007 grâce à cette fibre optique high-tech",
-      "description": "Douze minutes pour transférer tout le savoir numérique accumulé par l'humanité en 2007 : c'est le vertige provoqué par une fibre optique chinoise à 3,2 pétabits par seconde, un record qui rebat déjà l...",
-      "url": "https://www.gameblog.fr/trends/12-minutes-cest-le-delai-necessaire-a-la-chine-pour-transferer-la-totalite-du-savoir-humain-de-2007-grace-a-cette-fibre-optique-high-tech-725961",
-      "source": "Gameblog",
-      "publishedAt": "2026-11-02T07:00:29Z",
+      "title": "Du steamer au trimaran : comment la saga des « Gitana » illustre un siècle et demi d’innovations navales",
+      "description": "Le multicoque « Gitana 18 » est un bijou de technologie dont l’histoire remonte à la fin du XIXᵉ siècle.",
+      "url": "https://theconversation.com/du-steamer-au-trimaran-comment-la-saga-des-gitana-illustre-un-siecle-et-demi-dinnovations-navales-295361",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-11-03T15:09:58Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "“Je n’épargne pas pour ma retraite” : pourquoi ce spécialiste de l’IA ne croit plus en l’avenir",
-      "description": "Nate Soares, président du Machine Intelligence Research Institute, a expliqué qu’il ne cotisait plus pour sa retraite depuis une dizaine d’années, parce qu’il estime que l’intelligence artificielle po...",
-      "url": "https://www.journaldugeek.com/2026/11/02/je-nepargne-pas-pour-ma-retraite-pourquoi-ce-specialiste-de-lia-ne-croit-plus-en-lavenir/",
-      "source": "Journal du geek",
-      "publishedAt": "2026-11-02T15:03:31Z",
+      "title": "Ce gigantesque data center pourrait dégager chaque jour autant de chaleur que 23 bombes atomiques !",
+      "description": "Au Canada, un projet de data center géant destiné à l'intelligence artificielle pourrait générer autant de chaleur que 23 fois la bombe A qui a détruit Hiroshima en 1945. Derrière cette comparaison sp...",
+      "url": "https://www.futura-sciences.com/tech/actualites/data-centers-ce-gigantesque-data-center-pourrait-degager-chaque-jour-autant-chaleur-23-bombes-atomiques-139041/",
+      "source": "Futura",
+      "publishedAt": "2026-11-03T13:27:16Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Cinq organisations françaises portent plainte contre Google pour dénoncer l’impact de ses réponses IA sur le trafic des sites web",
-      "description": "Cinq organisations françaises d’éditeurs de sites web, le CPA, la FNPS, le GESTE, le SEPM et le SPIIL, ont déposé plainte contre Google auprès de la Commission européenne. Une plainte concernant les f...",
-      "url": "https://siecledigital.fr/2026/11/02/cinq-organisations-francaises-dediteurs-de-presse-portent-plainte-contre-google-pour-son-ia/",
-      "source": "Siècle Digital",
-      "publishedAt": "2026-11-02T15:43:16Z",
+      "title": "500 milliards de capitalisation envolés : la plongée du cours de Google est-elle un accident de parcours ou la fin de l’euphorie sur l’IA ?",
+      "description": "Pire séance en Bourse depuis son introduction il y a 22 ans, Alphabet a vu près de 480 milliards de dollars de capitalisation s’évaporer jeudi 29 octobre. Le groupe venait de publier des résultats déc...",
+      "url": "https://www.challenges.fr/entreprise/tech-numerique/500-milliards-de-capitalisation-envoles-la-plongee-du-cours-de-google-est-elle-un-accident-de-parcours-ou-la-fin-de-leuphorie-sur-lia_646764",
+      "source": "Challenges",
+      "publishedAt": "2026-11-03T16:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "\"Dada da da dadada\" : c’est quoi cette chanson que les daronnes adorent et qui a été fabriquée par une IA ?",
-      "description": "Sur TikTok, des internautes font écouter \"Bad Times\" à leur mère, et le verdict est sans appel : elles adorent. Sauf que ce tube a été généré par intelligence artificielle. Et ce test dessine une vrai...",
-      "url": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/dada-da-da-dadada-c-est-quoi-cette-chanson-que-les-daronnes-adorent-et-qui-a-ete-fabriquee-par-une-ia_8243335.html",
+      "title": "\"L'impact a-t-il produit un cratère ?\" : la sonde spatiale Hera envoyée examiner les dégâts du crash volontaire de la sonde Dart sur un astéroïde",
+      "description": "Les agences spatiales poursuivent leur toute première opération de défense planétaire, en cas de risque de collision avec un un objet venu de l'espace. Après un impact provoqué en 2022 avec un astéroï...",
+      "url": "https://www.franceinfo.fr/sciences/espace/l-impact-a-t-il-produit-un-cratere-la-sonde-spatiale-hera-envoyee-examiner-les-degats-du-crash-volontaire-de-la-sonde-dart-sur-un-asteroide_8265377.html",
       "source": "Franceinfo.fr",
-      "publishedAt": "2026-11-02T09:34:45Z",
+      "publishedAt": "2026-11-03T10:32:40Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Métiers 2027-2030 : ceux qui vont recruter et ceux qu'il faut absolument préserver",
-      "description": "Santé, ingénierie, bâtiment, numérique et intelligence artificielle : quels métiers recruteront entre 2027 et 2030 ? Le véritable défi sera aussi de fidéliser les professionnels indispensables.",
-      "url": "https://www.journaldunet.com/management/emploi-cadres/1557221-metiers-2027-2030-ceux-qui-vont-recruter-et-ceux-qu-il-faut-absolument-preserver/",
-      "source": "JDN",
-      "publishedAt": "2026-11-02T10:34:48Z",
+      "title": "La discrète rente pétrolière de Vincent Bolloré",
+      "description": "Bolloré, ses milliards de fortune, ses coups financiers, ses affaires en Afrique, sa galaxie de médias ultra-conservateurs… L'histoire a été souvent racontée, mais un pan reste largement méconnu : l'e...",
+      "url": "https://multinationales.org/fr/enquetes/anatomie-d-une-dependance-la-france-du-petrole-et-ses-profiteurs/la-discrete-rente-petroliere-de-vincent-bollore",
+      "source": "Multinationales.org",
+      "publishedAt": "2026-11-03T11:49:23Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Quand l'enfant devient la voix de son propre apprentissage",
-      "description": "L'enfant peut-il devenir acteur de son propre apprentissage grâce au numérique ? Entre neurosciences, pédagogie et intelligence artificielle, cette chronique explore le potentiel des contenus personna...",
-      "url": "https://www.journaldunet.com/management/formation/1557419-quand-l-enfant-devient-la-voix-de-son-propre-apprentissage/",
-      "source": "JDN",
-      "publishedAt": "2026-11-02T10:50:59Z",
+      "title": "Personne n'utilise Siri ? Apple annonce 2,5 milliards de requêtes par jour !",
+      "description": "Dans les gros chiffres révélés hier par John Ternus, Siri reçoit apparemment plus de 2,5 milliards de sollicitations chaque jour dans le monde. Voilà qui donne une idée des défis techniques et financi...",
+      "url": "https://www.mac4ever.com/ia/198844-personne-n-utilise-siri-apple-annonce-2-5-milliards-de-requetes-par-jour",
+      "source": "Mac4ever",
+      "publishedAt": "2026-11-03T13:01:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
