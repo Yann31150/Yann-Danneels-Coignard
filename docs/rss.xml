@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 04 Nov 2026 16:03:21 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 16:17:44 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,12 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>ChatGPT : les agents IA Dots deviennent plus puissants et encore plus autonomes</title>
-            <link>https://www.frandroid.com/marques/openai/3308921_chatgpt-les-agents-ia-dots-deviennent-plus-puissants-et-encore-plus-autonomes</link>
-            <description><![CDATA[OpenAI met à jour ses Dots, les agents IA capables de travailler pour vous à distance. Au programme : la prise en charge des derniers modèles de langage de la firme et la capacité de jongler entre eux...]]></description>
-            <pubDate>Tue, 03 Nov 2026 15:50:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/marques/openai/3308921_chatgpt-les-agents-ia-dots-deviennent-plus-puissants-et-encore-plus-autonomes</guid>
-            <source>Frandroid</source>
+            <title>ChatGPT représente désormais 20 % du volume de recherches de Google, selon OpenAI</title>
+            <link>https://siecledigital.fr/2026/11/04/chatgpt-represente-desormais-20-du-volume-de-recherches-de-google-selon-openai/</link>
+            <description><![CDATA[Selon Adam Fry, responsable du produit ChatGPT chez OpenAI, le volume de recherches effectuées sur ChatGPT représente environ 20 % de celui de Google. Un chiffre avancé par l’entreprise qui montre à q...]]></description>
+            <pubDate>Wed, 04 Nov 2026 15:17:11 -0000</pubDate>
+            <guid isPermaLink="true">https://siecledigital.fr/2026/11/04/chatgpt-represente-desormais-20-du-volume-de-recherches-de-google-selon-openai/</guid>
+            <source>Siècle Digital</source>
         </item>
         <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
@@ -45,6 +45,22 @@
             <source>Bitdyne</source>
         </item>
         <item>
+            <title>C&amp;#39;est quoi le machine learning ? Expliqué simplement</title>
+            <link>https://www.youtube.com/watch?v=C0wcMnJXUSY</link>
+            <description><![CDATA[Le machine learning (apprentissage automatique) expliqué simplement : l'informatique classique suit des règles écrites à la main, ...]]></description>
+            <pubDate>Tue, 27 Oct 2026 20:02:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=C0wcMnJXUSY</guid>
+            <source>SkillHub Ai</source>
+        </item>
+        <item>
+            <title>Ces propos de Philippe Jaenada, lauréat du Goncourt, ont tout pour relancer le débat sur l’IA</title>
+            <link>https://www.huffingtonpost.fr/culture/article/ces-propos-de-philippe-jaenada-laureat-du-goncourt-ont-tout-pour-relancer-le-debat-sur-l-ia_352081.html</link>
+            <description><![CDATA[Dans une saison des prix percutée par l’affaire Thélyson Orélien, les mots de l’écrivain, qui dit avoir glissé dans son roman une phrase écrite par ChatGPT, interrogent.]]></description>
+            <pubDate>Wed, 04 Nov 2026 14:15:09 -0000</pubDate>
+            <guid isPermaLink="true">https://www.huffingtonpost.fr/culture/article/ces-propos-de-philippe-jaenada-laureat-du-goncourt-ont-tout-pour-relancer-le-debat-sur-l-ia_352081.html</guid>
+            <source>Le HuffPost</source>
+        </item>
+        <item>
             <title>Formation Power BI #5 — Le modèle de données et le schéma en étoile</title>
             <link>https://www.youtube.com/watch?v=EpQJRHme6-w</link>
             <description><![CDATA[Faits, dimensions, relations : la charpente qui rend tous les calculs justes Formation Power BI par Bitdyne. Cas concrets ...]]></description>
@@ -69,28 +85,12 @@
             <source>Gab JPM</source>
         </item>
         <item>
-            <title>MCP et marketing : comment l’intelligence artificielle transforme la gestion des réseaux sociaux</title>
-            <link>https://www.lesnumeriques.com/intelligence-artificielle/mcp-et-marketing-comment-l-intelligence-artificielle-transforme-la-gestion-des-reseaux-sociaux-na266682.html</link>
-            <description><![CDATA[La gestion des réseaux sociaux implique de nombreuses tâches : analyser les performances, préparer des publications, choisir les bons horaires et produire des rapports réguliers. Les outils d’intellig...]]></description>
-            <pubDate>Tue, 03 Nov 2026 13:15:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/mcp-et-marketing-comment-l-intelligence-artificielle-transforme-la-gestion-des-reseaux-sociaux-na266682.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
             <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
             <link>https://www.youtube.com/watch?v=NdS8xLrZd_k</link>
             <description><![CDATA[Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...]]></description>
             <pubDate>Mon, 14 Sep 2026 20:06:13 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=NdS8xLrZd_k</guid>
             <source>contact omnicirelpc</source>
-        </item>
-        <item>
-            <title>Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10</title>
-            <link>https://www.youtube.com/watch?v=jp6vn3Hp_zc</link>
-            <description><![CDATA[COMPILATION — Chapitre 6/10 de la formation Data &amp; Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.]]></description>
-            <pubDate>Mon, 07 Sep 2026 11:00:18 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=jp6vn3Hp_zc</guid>
-            <source>IA Futura</source>
         </item>
         <item>
             <title>Projet Power BI complet | Analyse des ventes du début à la fin | Power BI pour débutants | 2026</title>
@@ -125,12 +125,36 @@
             <source>Youmout Cours</source>
         </item>
         <item>
+            <title>À 18 ans, le Remicourtois Selly Manto lance une plateforme immobilière assistée par IA : "C'est plus simple et intuitif "</title>
+            <link>https://www.lavenir.net/regions/huy-waremme/remicourt/2026/11/04/a-18-ans-le-remicourtois-selly-manto-lance-une-plateforme-immobiliere-assistee-par-ia-cest-plus-simple-et-intuitif-WRTUEO3HTNDRXOMFOZ25SKVVPU/</link>
+            <description><![CDATA[La plateforme immobilière du Remicourtois Selly Manto, Immo Veya, utilise un agent IA pour guider les clients dans leur recherche d’un bien. ...]]></description>
+            <pubDate>Wed, 04 Nov 2026 16:17:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lavenir.net/regions/huy-waremme/remicourt/2026/11/04/a-18-ans-le-remicourtois-selly-manto-lance-une-plateforme-immobiliere-assistee-par-ia-cest-plus-simple-et-intuitif-WRTUEO3HTNDRXOMFOZ25SKVVPU/</guid>
+            <source>Lavenir.net</source>
+        </item>
+        <item>
             <title>L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto</title>
             <link>https://www.youtube.com/watch?v=ijEHTjsGNsE</link>
             <description><![CDATA[]]></description>
             <pubDate>Wed, 23 Sep 2026 13:13:13 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=ijEHTjsGNsE</guid>
             <source>Le Decodeur</source>
+        </item>
+        <item>
+            <title>Quand les données de l'entreprise restent dans les comptes personnels d'IA</title>
+            <link>https://www.journaldunet.com/cybersecurite/1557567-quand-les-donnees-de-l-entreprise-restent-dans-les-comptes-personnels-d-ia/</link>
+            <description><![CDATA[Une partie du patrimoine informationnel d'une entreprise peut aujourd'hui se constituer en dehors de ses propres systèmes.]]></description>
+            <pubDate>Wed, 04 Nov 2026 15:20:04 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/cybersecurite/1557567-quand-les-donnees-de-l-entreprise-restent-dans-les-comptes-personnels-d-ia/</guid>
+            <source>JDN</source>
+        </item>
+        <item>
+            <title>ZD Tech : Cybersécurité : comment des agents IA contournent vos pare-feux pour 50 dollars</title>
+            <link>https://www.zdnet.fr/actualites/zd-tech-cybersecurite-comment-des-agents-ia-contournent-vos-pare-feux-pour-50-dollars-506827.htm</link>
+            <description><![CDATA[Révélée par les chercheurs de NorForge, une attaque inédite a mobilisé la plateforme open source Cairn pour orchestrer des agents IA autonomes. Capables de corréler des micro-failles sans coder de mal...]]></description>
+            <pubDate>Wed, 04 Nov 2026 06:38:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.zdnet.fr/actualites/zd-tech-cybersecurite-comment-des-agents-ia-contournent-vos-pare-feux-pour-50-dollars-506827.htm</guid>
+            <source>ZDNet France</source>
         </item>
         <item>
             <title>Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍</title>
@@ -141,36 +165,12 @@
             <source>LaDataFacile</source>
         </item>
         <item>
-            <title>pyvgc 0.0.2.1</title>
-            <link>https://pypi.org/project/pyvgc/0.0.2.1/</link>
+            <title>pyvgc 0.0.3</title>
+            <link>https://pypi.org/project/pyvgc/0.0.3/</link>
             <description><![CDATA[A Pokémon Champions data science package.]]></description>
-            <pubDate>Mon, 02 Nov 2026 12:48:39 -0000</pubDate>
-            <guid isPermaLink="true">https://pypi.org/project/pyvgc/0.0.2.1/</guid>
+            <pubDate>Tue, 03 Nov 2026 18:00:49 -0000</pubDate>
+            <guid isPermaLink="true">https://pypi.org/project/pyvgc/0.0.3/</guid>
             <source>Pypi.org</source>
-        </item>
-        <item>
-            <title>pyvgc 0.0.2.4</title>
-            <link>https://pypi.org/project/pyvgc/0.0.2.4/</link>
-            <description><![CDATA[A Pokémon Champions data science package.]]></description>
-            <pubDate>Mon, 02 Nov 2026 20:54:30 -0000</pubDate>
-            <guid isPermaLink="true">https://pypi.org/project/pyvgc/0.0.2.4/</guid>
-            <source>Pypi.org</source>
-        </item>
-        <item>
-            <title>Les start-up françaises ont levé 700 millions d'euros en octobre</title>
-            <link>https://www.journaldunet.com/start-up/1557505-les-start-up-francaises-ont-leve-700-millions-d-euros-en-octobre/</link>
-            <description><![CDATA[Un montant atteint en 36 opérations. La fintech, la biotech/greentech et l'énergie ont été les secteurs les plus prolifiques du mois.]]></description>
-            <pubDate>Tue, 03 Nov 2026 13:53:14 -0000</pubDate>
-            <guid isPermaLink="true">https://www.journaldunet.com/start-up/1557505-les-start-up-francaises-ont-leve-700-millions-d-euros-en-octobre/</guid>
-            <source>JDN</source>
-        </item>
-        <item>
-            <title>Du steamer au trimaran : comment la saga des « Gitana » illustre un siècle et demi d’innovations navales</title>
-            <link>https://theconversation.com/du-steamer-au-trimaran-comment-la-saga-des-gitana-illustre-un-siecle-et-demi-dinnovations-navales-295361</link>
-            <description><![CDATA[Le multicoque « Gitana 18 » est un bijou de technologie dont l’histoire remonte à la fin du XIXᵉ siècle.]]></description>
-            <pubDate>Tue, 03 Nov 2026 15:09:58 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/du-steamer-au-trimaran-comment-la-saga-des-gitana-illustre-un-siecle-et-demi-dinnovations-navales-295361</guid>
-            <source>The Conversation Africa</source>
         </item>
     </channel>
 </rss>

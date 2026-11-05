@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-11-04T16:03:21.502285",
+  "lastUpdate": "2026-11-05T16:17:44.334434",
   "articles": [
     {
-      "title": "ChatGPT : les agents IA Dots deviennent plus puissants et encore plus autonomes",
-      "description": "OpenAI met à jour ses Dots, les agents IA capables de travailler pour vous à distance. Au programme : la prise en charge des derniers modèles de langage de la firme et la capacité de jongler entre eux...",
-      "url": "https://www.frandroid.com/marques/openai/3308921_chatgpt-les-agents-ia-dots-deviennent-plus-puissants-et-encore-plus-autonomes",
-      "source": "Frandroid",
-      "publishedAt": "2026-11-03T15:50:11Z",
+      "title": "ChatGPT représente désormais 20 % du volume de recherches de Google, selon OpenAI",
+      "description": "Selon Adam Fry, responsable du produit ChatGPT chez OpenAI, le volume de recherches effectuées sur ChatGPT représente environ 20 % de celui de Google. Un chiffre avancé par l’entreprise qui montre à q...",
+      "url": "https://siecledigital.fr/2026/11/04/chatgpt-represente-desormais-20-du-volume-de-recherches-de-google-selon-openai/",
+      "source": "Siècle Digital",
+      "publishedAt": "2026-11-04T15:17:11Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -50,6 +50,30 @@
       "thumbnail": "https://i.ytimg.com/vi/J3YIeIEeIl8/hqdefault.jpg"
     },
     {
+      "title": "C&#39;est quoi le machine learning ? Expliqué simplement",
+      "description": "Le machine learning (apprentissage automatique) expliqué simplement : l'informatique classique suit des règles écrites à la main, ...",
+      "url": "https://www.youtube.com/watch?v=C0wcMnJXUSY",
+      "source": "SkillHub Ai",
+      "publishedAt": "2026-10-27T20:02:31Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "C0wcMnJXUSY",
+      "thumbnail": "https://i.ytimg.com/vi/C0wcMnJXUSY/hqdefault.jpg"
+    },
+    {
+      "title": "Ces propos de Philippe Jaenada, lauréat du Goncourt, ont tout pour relancer le débat sur l’IA",
+      "description": "Dans une saison des prix percutée par l’affaire Thélyson Orélien, les mots de l’écrivain, qui dit avoir glissé dans son roman une phrase écrite par ChatGPT, interrogent.",
+      "url": "https://www.huffingtonpost.fr/culture/article/ces-propos-de-philippe-jaenada-laureat-du-goncourt-ont-tout-pour-relancer-le-debat-sur-l-ia_352081.html",
+      "source": "Le HuffPost",
+      "publishedAt": "2026-11-04T14:15:09Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Formation Power BI #5 — Le modèle de données et le schéma en étoile",
       "description": "Faits, dimensions, relations : la charpente qui rend tous les calculs justes Formation Power BI par Bitdyne. Cas concrets ...",
       "url": "https://www.youtube.com/watch?v=EpQJRHme6-w",
@@ -86,18 +110,6 @@
       "thumbnail": "https://i.ytimg.com/vi/yw1bS20gTzc/hqdefault.jpg"
     },
     {
-      "title": "MCP et marketing : comment l’intelligence artificielle transforme la gestion des réseaux sociaux",
-      "description": "La gestion des réseaux sociaux implique de nombreuses tâches : analyser les performances, préparer des publications, choisir les bons horaires et produire des rapports réguliers. Les outils d’intellig...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/mcp-et-marketing-comment-l-intelligence-artificielle-transforme-la-gestion-des-reseaux-sociaux-na266682.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-11-03T13:15:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "URGENT : Machine Learning, Ia, — analyse rapide",
       "description": "Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...",
       "url": "https://www.youtube.com/watch?v=NdS8xLrZd_k",
@@ -108,18 +120,6 @@
       "isYouTube": true,
       "videoId": "NdS8xLrZd_k",
       "thumbnail": "https://i.ytimg.com/vi/NdS8xLrZd_k/hqdefault.jpg"
-    },
-    {
-      "title": "Bases du machine learning — cours complet 35 min (débutant, sans code) · Chapitre 6/10",
-      "description": "COMPILATION — Chapitre 6/10 de la formation Data & Machine Learning, d'un seul tenant (35 min). 100 % GRATUIT.",
-      "url": "https://www.youtube.com/watch?v=jp6vn3Hp_zc",
-      "source": "IA Futura",
-      "publishedAt": "2026-09-07T11:00:18Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "jp6vn3Hp_zc",
-      "thumbnail": "https://i.ytimg.com/vi/jp6vn3Hp_zc/hqdefault.jpg"
     },
     {
       "title": "Projet Power BI complet | Analyse des ventes du début à la fin | Power BI pour débutants | 2026",
@@ -170,6 +170,18 @@
       "thumbnail": "https://i.ytimg.com/vi/qbqaSlk3fho/hqdefault.jpg"
     },
     {
+      "title": "À 18 ans, le Remicourtois Selly Manto lance une plateforme immobilière assistée par IA : \"C'est plus simple et intuitif \"",
+      "description": "La plateforme immobilière du Remicourtois Selly Manto, Immo Veya, utilise un agent IA pour guider les clients dans leur recherche d’un bien. ...",
+      "url": "https://www.lavenir.net/regions/huy-waremme/remicourt/2026/11/04/a-18-ans-le-remicourtois-selly-manto-lance-une-plateforme-immobiliere-assistee-par-ia-cest-plus-simple-et-intuitif-WRTUEO3HTNDRXOMFOZ25SKVVPU/",
+      "source": "Lavenir.net",
+      "publishedAt": "2026-11-04T16:17:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
       "description": "",
       "url": "https://www.youtube.com/watch?v=ijEHTjsGNsE",
@@ -180,6 +192,30 @@
       "isYouTube": true,
       "videoId": "ijEHTjsGNsE",
       "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
+    },
+    {
+      "title": "Quand les données de l'entreprise restent dans les comptes personnels d'IA",
+      "description": "Une partie du patrimoine informationnel d'une entreprise peut aujourd'hui se constituer en dehors de ses propres systèmes.",
+      "url": "https://www.journaldunet.com/cybersecurite/1557567-quand-les-donnees-de-l-entreprise-restent-dans-les-comptes-personnels-d-ia/",
+      "source": "JDN",
+      "publishedAt": "2026-11-04T15:20:04Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "ZD Tech : Cybersécurité : comment des agents IA contournent vos pare-feux pour 50 dollars",
+      "description": "Révélée par les chercheurs de NorForge, une attaque inédite a mobilisé la plateforme open source Cairn pour orchestrer des agents IA autonomes. Capables de corréler des micro-failles sans coder de mal...",
+      "url": "https://www.zdnet.fr/actualites/zd-tech-cybersecurite-comment-des-agents-ia-contournent-vos-pare-feux-pour-50-dollars-506827.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-11-04T06:38:29Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍",
@@ -194,11 +230,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Yfbb0q7Mi5E/hqdefault.jpg"
     },
     {
-      "title": "pyvgc 0.0.2.1",
+      "title": "pyvgc 0.0.3",
       "description": "A Pokémon Champions data science package.",
-      "url": "https://pypi.org/project/pyvgc/0.0.2.1/",
+      "url": "https://pypi.org/project/pyvgc/0.0.3/",
       "source": "Pypi.org",
-      "publishedAt": "2026-11-02T12:48:39Z",
+      "publishedAt": "2026-11-03T18:00:49Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,47 +242,11 @@
       "thumbnail": ""
     },
     {
-      "title": "pyvgc 0.0.2.4",
-      "description": "A Pokémon Champions data science package.",
-      "url": "https://pypi.org/project/pyvgc/0.0.2.4/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-11-02T20:54:30Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Les start-up françaises ont levé 700 millions d'euros en octobre",
-      "description": "Un montant atteint en 36 opérations. La fintech, la biotech/greentech et l'énergie ont été les secteurs les plus prolifiques du mois.",
-      "url": "https://www.journaldunet.com/start-up/1557505-les-start-up-francaises-ont-leve-700-millions-d-euros-en-octobre/",
-      "source": "JDN",
-      "publishedAt": "2026-11-03T13:53:14Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Du steamer au trimaran : comment la saga des « Gitana » illustre un siècle et demi d’innovations navales",
-      "description": "Le multicoque « Gitana 18 » est un bijou de technologie dont l’histoire remonte à la fin du XIXᵉ siècle.",
-      "url": "https://theconversation.com/du-steamer-au-trimaran-comment-la-saga-des-gitana-illustre-un-siecle-et-demi-dinnovations-navales-295361",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-11-03T15:09:58Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ce gigantesque data center pourrait dégager chaque jour autant de chaleur que 23 bombes atomiques !",
-      "description": "Au Canada, un projet de data center géant destiné à l'intelligence artificielle pourrait générer autant de chaleur que 23 fois la bombe A qui a détruit Hiroshima en 1945. Derrière cette comparaison sp...",
-      "url": "https://www.futura-sciences.com/tech/actualites/data-centers-ce-gigantesque-data-center-pourrait-degager-chaque-jour-autant-chaleur-23-bombes-atomiques-139041/",
-      "source": "Futura",
-      "publishedAt": "2026-11-03T13:27:16Z",
+      "title": "Opencell et GoCardless signent un partenariat pour automatiser l’encaissement des factures",
+      "description": "GoCardless, spécialiste britannique des paiements bancaires, a annoncé le 27 octobre un accord de partenariat avec l’éditeur français de logiciels Opencell. Les solutions de GoCardless seront intégrée...",
+      "url": "https://www.lejournaldesentreprises.com/article/opencell-et-gocardless-signent-un-partenariat-pour-automatiser-lencaissement-des-factures-2148319",
+      "source": "Le Journal des Entreprises",
+      "publishedAt": "2026-11-04T11:25:07Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,47 +254,47 @@
       "thumbnail": ""
     },
     {
-      "title": "500 milliards de capitalisation envolés : la plongée du cours de Google est-elle un accident de parcours ou la fin de l’euphorie sur l’IA ?",
-      "description": "Pire séance en Bourse depuis son introduction il y a 22 ans, Alphabet a vu près de 480 milliards de dollars de capitalisation s’évaporer jeudi 29 octobre. Le groupe venait de publier des résultats déc...",
-      "url": "https://www.challenges.fr/entreprise/tech-numerique/500-milliards-de-capitalisation-envoles-la-plongee-du-cours-de-google-est-elle-un-accident-de-parcours-ou-la-fin-de-leuphorie-sur-lia_646764",
-      "source": "Challenges",
-      "publishedAt": "2026-11-03T16:00:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "\"L'impact a-t-il produit un cratère ?\" : la sonde spatiale Hera envoyée examiner les dégâts du crash volontaire de la sonde Dart sur un astéroïde",
-      "description": "Les agences spatiales poursuivent leur toute première opération de défense planétaire, en cas de risque de collision avec un un objet venu de l'espace. Après un impact provoqué en 2022 avec un astéroï...",
-      "url": "https://www.franceinfo.fr/sciences/espace/l-impact-a-t-il-produit-un-cratere-la-sonde-spatiale-hera-envoyee-examiner-les-degats-du-crash-volontaire-de-la-sonde-dart-sur-un-asteroide_8265377.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-11-03T10:32:40Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "La discrète rente pétrolière de Vincent Bolloré",
-      "description": "Bolloré, ses milliards de fortune, ses coups financiers, ses affaires en Afrique, sa galaxie de médias ultra-conservateurs… L'histoire a été souvent racontée, mais un pan reste largement méconnu : l'e...",
-      "url": "https://multinationales.org/fr/enquetes/anatomie-d-une-dependance-la-france-du-petrole-et-ses-profiteurs/la-discrete-rente-petroliere-de-vincent-bollore",
-      "source": "Multinationales.org",
-      "publishedAt": "2026-11-03T11:49:23Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Personne n'utilise Siri ? Apple annonce 2,5 milliards de requêtes par jour !",
-      "description": "Dans les gros chiffres révélés hier par John Ternus, Siri reçoit apparemment plus de 2,5 milliards de sollicitations chaque jour dans le monde. Voilà qui donne une idée des défis techniques et financi...",
-      "url": "https://www.mac4ever.com/ia/198844-personne-n-utilise-siri-apple-annonce-2-5-milliards-de-requetes-par-jour",
+      "title": "Meta supprime une centaine de postes en France, un tiers de la filiale",
+      "description": "Un tiers des salariés français de Meta sont invités à préparer leur départ. La filiale du groupe de Mark Zuckerberg finalise une rupture conventionnelle collective qui prévoit une centaine de départs ...",
+      "url": "https://www.mac4ever.com/ia/198874-meta-supprime-une-centaine-de-postes-en-france-un-tiers-de-la-filiale",
       "source": "Mac4ever",
-      "publishedAt": "2026-11-03T13:01:00Z",
+      "publishedAt": "2026-11-04T15:27:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Les gagnants de ce concours de court-métrage nous ont fait changer d’avis sur l’IA en vidéo (et ils sont repartis avec 1 million de dollars)",
+      "description": "5 000 films, 176 pays, un million de dollars de prix : le festival de cinéma IA de la start-up Higgsfield a livré son podium. Et les gagnants ont produit des œuvres hallucinantes, loin du slop vu et r...",
+      "url": "https://www.numerama.com/tech/2367773-les-gagnants-de-ce-concours-de-court-metrage-nous-ont-fait-changer-davis-sur-lia-en-video-et-ils-sont-repartis-avec-1-million-de-dollars.html",
+      "source": "Numerama",
+      "publishedAt": "2026-11-04T15:50:47Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Code pour débutants : ton 1er projet sans coder",
+      "description": "Tu peux coder un jeu vidéo sans savoir coder. Je te montre pas à pas comment démarrer avec Claude Code : l'icône Code, ...",
+      "url": "https://www.youtube.com/watch?v=kK9cxs0tGI0",
+      "source": "IA IRL",
+      "publishedAt": "2026-10-15T09:00:03Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "kK9cxs0tGI0",
+      "thumbnail": "https://i.ytimg.com/vi/kK9cxs0tGI0/hqdefault.jpg"
+    },
+    {
+      "title": "Microsoft brevète une IA capable de modifier les paroles et les mouvements des lèvres en direct",
+      "description": "Les IA ne cessent d’être améliorées et il est difficile aujourd’hui de se dire qu’elles ne peuvent pas accomplir une tâche. Selon Patentlyze, Microsoft envisagerait désormais de nettoyer un discours e...",
+      "url": "https://siecledigital.fr/2026/11/04/microsoft-brevete-une-ia-capable-de-modifier-les-paroles-et-les-mouvements-des-levres-en-direct/",
+      "source": "Siècle Digital",
+      "publishedAt": "2026-11-04T14:52:04Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
