@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-07T14:47:02.246312",
+  "lastUpdate": "2026-11-08T14:53:34.471872",
   "articles": [
     {
       "title": "Arrête de payer 20€/mois pour ChatGPT",
@@ -38,18 +38,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1ynUnP7VHsE/hqdefault.jpg"
     },
     {
-      "title": "Explorer et préparer ses données avec pandas (data science)",
-      "description": "Troisième épisode de la Formation Machine learning & data science de Bitdyne, pour consultants au Maroc. La préparation des ...",
-      "url": "https://www.youtube.com/watch?v=J3YIeIEeIl8",
-      "source": "Bitdyne",
-      "publishedAt": "2026-09-08T22:24:34Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "J3YIeIEeIl8",
-      "thumbnail": "https://i.ytimg.com/vi/J3YIeIEeIl8/hqdefault.jpg"
-    },
-    {
       "title": "C&#39;est quoi le machine learning ? Expliqué simplement",
       "description": "Le machine learning (apprentissage automatique) expliqué simplement : l'informatique classique suit des règles écrites à la main, ...",
       "url": "https://www.youtube.com/watch?v=C0wcMnJXUSY",
@@ -60,18 +48,6 @@
       "isYouTube": true,
       "videoId": "C0wcMnJXUSY",
       "thumbnail": "https://i.ytimg.com/vi/C0wcMnJXUSY/hqdefault.jpg"
-    },
-    {
-      "title": "Formation Power BI #5 — Le modèle de données et le schéma en étoile",
-      "description": "Faits, dimensions, relations : la charpente qui rend tous les calculs justes Formation Power BI par Bitdyne. Cas concrets ...",
-      "url": "https://www.youtube.com/watch?v=EpQJRHme6-w",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-10T12:18:08Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "EpQJRHme6-w",
-      "thumbnail": "https://i.ytimg.com/vi/EpQJRHme6-w/hqdefault.jpg"
     },
     {
       "title": "Ton premier projet Data &amp; Machine Learning en Python — projet complet 34 min (débutant, avec code)",
@@ -110,6 +86,18 @@
       "thumbnail": "https://i.ytimg.com/vi/NdS8xLrZd_k/hqdefault.jpg"
     },
     {
+      "title": "Comment télécharger et Installer Power BI",
+      "description": "Inscrivez-vous à la formation Power BI ici : https://formations4data.systeme.io/powerbi-booste-par-ia.",
+      "url": "https://www.youtube.com/watch?v=h1bC6pKmqtI",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-10-14T03:55:40Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "h1bC6pKmqtI",
+      "thumbnail": "https://i.ytimg.com/vi/h1bC6pKmqtI/hqdefault.jpg"
+    },
+    {
       "title": "IA, Machine Learning &amp; LLM expliqués en 8 minutes",
       "description": "Pour en savoir plus sur AMD EPYC ...",
       "url": "https://www.youtube.com/watch?v=XZDaI0YOaCM",
@@ -120,6 +108,18 @@
       "isYouTube": true,
       "videoId": "XZDaI0YOaCM",
       "thumbnail": "https://i.ytimg.com/vi/XZDaI0YOaCM/hqdefault.jpg"
+    },
+    {
+      "title": "Clustering de variables avec le package « clustvartools » pour Python",
+      "description": "Machine learning. Data science. Le package « clustvartools » pour Python propose une panoplie clé en main d'algorithmes de ...",
+      "url": "https://www.youtube.com/watch?v=feIiOQVPPuM",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-10-15T14:33:41Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "feIiOQVPPuM",
+      "thumbnail": "https://i.ytimg.com/vi/feIiOQVPPuM/hqdefault.jpg"
     },
     {
       "title": "Projet Power BI complet | Analyse des ventes du début à la fin | Power BI pour débutants | 2026",
@@ -158,6 +158,18 @@
       "thumbnail": "https://i.ytimg.com/vi/3_q1VH5GTDI/hqdefault.jpg"
     },
     {
+      "title": "Actualité : Des radars mobiles pour sanctionner le téléphone au volant, une nouveauté allemande qui pourrait séduire la France ?",
+      "description": "Après plus d’un an de test, l’Allemagne déploie dans tout le pays des radars mobiles équipés d’intelligence artificielle pour verbaliser les automobilistes utilisant leur téléphone au volant.",
+      "url": "https://www.lesnumeriques.com/voiture/des-radars-mobiles-pour-sanctionner-le-telephone-au-volant-une-nouveaute-allemande-qui-pourrait-seduire-la-france-n266957.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-11-06T17:03:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "Power BI : créer son premier graphique à partir d’Excel",
       "description": "Découvrez comment importer un fichier Excel dans Power BI et créer votre première visualisation. Dans cet exemple consacré au ...",
       "url": "https://www.youtube.com/watch?v=qbqaSlk3fho",
@@ -168,6 +180,30 @@
       "isYouTube": true,
       "videoId": "qbqaSlk3fho",
       "thumbnail": "https://i.ytimg.com/vi/qbqaSlk3fho/hqdefault.jpg"
+    },
+    {
+      "title": "Les 4 Types d&#39;Analyse de Données en Python Avec Projets",
+      "description": "Découvrez les 4 types d'analyse de données en Python à travers des projets concrets et pratiques ! De l'analyse descriptive à ...",
+      "url": "https://www.youtube.com/watch?v=mxXyviELh0s",
+      "source": "RifOudka",
+      "publishedAt": "2026-10-30T00:15:20Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "mxXyviELh0s",
+      "thumbnail": "https://i.ytimg.com/vi/mxXyviELh0s/hqdefault.jpg"
+    },
+    {
+      "title": "Une IA a créé des virus pour détruire des bactéries résistantes aux antibiotiques : un patient les a déjà reçus",
+      "description": "Face à la progression inquiétante de l’antibiorésistance, une start-up américaine a franchi une étape historique en administrant à un patient un virus modifié grâce à l’IA dans le but de venir à bout ...",
+      "url": "https://www.futura-sciences.com/sante/actualites/virus-ia-cree-virus-detruire-bacteries-resistantes-antibiotiques-patient-deja-recus-139097/",
+      "source": "Futura",
+      "publishedAt": "2026-11-07T11:27:10Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
@@ -182,16 +218,88 @@
       "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
-      "title": "Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=Yfbb0q7Mi5E",
-      "source": "LaDataFacile",
-      "publishedAt": "2026-10-04T22:23:54Z",
+      "title": "L’UE déploie le tapis rouge pour les centres de données",
+      "description": "L’Union européenne veut accélérer les évaluations environnementales des projets industriels. Les géants de la tech – Microsoft, Google, Amazon – s’agitent pour que les centres de données bénéficient d...",
+      "url": "https://www.mediapart.fr/journal/ecologie/071126/l-ue-deploie-le-tapis-rouge-pour-les-centres-de-donnees",
+      "source": "Mediapart",
+      "publishedAt": "2026-11-07T08:28:12Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Yfbb0q7Mi5E",
-      "thumbnail": "https://i.ytimg.com/vi/Yfbb0q7Mi5E/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Pourquoi le nouveau film de Taika Waititi \"Klara et le soleil\", avec Jenna Ortega, creuse sa tombe au box-office",
+      "description": "Sortie en catimini le 21 octobre en France, l'adaptation du best-seller éponyme du Britannique Kazuo Ishiguro, signée par le cinéaste oscarisé de \"Jojo Rabbit\", connaît un fiasco commercial rarissime.",
+      "url": "https://www.bfmtv.com/culture/cinema-series/pourquoi-le-nouveau-film-de-taika-waititi-klara-et-le-soleil-avec-jenna-ortega-creuse-sa-tombe-au-box-office_AN-202611060529.html",
+      "source": "BFMTV",
+      "publishedAt": "2026-11-06T13:17:16Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "WhatsApp va permettre de retoucher vos photos directement sur iPhone grâce à l’IA",
+      "description": "WhatsApp poursuit l’intégration de l’intelligence artificielle dans son application iOS. La messagerie commence à déployer une nouvelle fonction permettant d’agrandir une photo au-delà de ses bordures...",
+      "url": "https://www.mac4ever.com/divers/198910-whatsapp-va-permettre-de-retoucher-vos-photos-directement-sur-iphone-grace-a-l-ia",
+      "source": "Mac4ever",
+      "publishedAt": "2026-11-06T14:52:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "GenZ : les applis de rencontre face au défi de la séduction à l’IA",
+      "description": "Selon une enquête de Bloomberg Intelligence, à peine plus de la moitié des utilisateurs de la génération Z acceptent que l’intelligence artificielle rédige leurs messages sur les applications de renco...",
+      "url": "https://atlantico.fr/article/decryptage/genz-les-applis-de-rencontre-face-au-defi-de-la-seduction-a-lia",
+      "source": "Atlantico.fr",
+      "publishedAt": "2026-11-07T08:29:02Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Le Goncourt Philippe Jaenada défend son utilisation \"ironique\" de l'intelligence artificielle et révèle quel passage de son roman a été écrit par l'IA",
+      "description": "Philippe Jaenada a répété avoir utilisé l'IA à trois reprises seulement pour son roman-fleuve sur l'assassinat non élucidé d'une jeune Bretonne à la fin des années 1940 qui a reçu le prix Goncourt et ...",
+      "url": "https://www.bfmtv.com/culture/livres-bd/le-goncourt-philippe-jaenada-defend-son-utilisation-ironique-de-l-intelligence-artificielle-et-revele-quel-passage-de-son-roman-a-ete-ecrit-par-l-ia_AD-202611070359.html",
+      "source": "BFMTV",
+      "publishedAt": "2026-11-07T14:31:23Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cette nouveauté d’iOS 27.2 pourrait changer votre façon d’utiliser Messages",
+      "description": "Apple veut rendre son application Messages beaucoup plus pratique grâce à l'intelligence artificielle. Avec iOS 27.2, votre iPhone peut désormais détecter certaines informations dans vos conversations...",
+      "url": "https://www.tomshardware.fr/cette-nouveaute-dios-27-2-pourrait-changer-votre-facon-dutiliser-messages/",
+      "source": "Tomshardware.fr",
+      "publishedAt": "2026-11-06T14:57:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "De l'iPad à ChatGPT, l'école cherche encore la bonne place pour la technologie",
+      "description": "Pendant plusieurs années, équiper les élèves d'une tablette ou d'un ordinateur a été présenté comme une manière de moderniser l'école et de renouveler les méthodes d'apprentissage. Mais alors que les ...",
+      "url": "https://www.macg.co/ailleurs/2026/11/de-lipad-chatgpt-lecole-cherche-encore-la-bonne-place-pour-la-technologie-312243",
+      "source": "MacGeneration",
+      "publishedAt": "2026-11-07T11:10:43Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }
