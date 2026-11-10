@@ -1,42 +1,6 @@
 {
-  "lastUpdate": "2026-11-09T18:31:51.079688",
+  "lastUpdate": "2026-11-10T16:16:08.665330",
   "articles": [
-    {
-      "title": "Les États-Unis pourraient freiner le développement des IA les plus puissantes",
-      "description": "Bernie Sanders pousse un texte très dur contre la superintelligence artificielle. ChatGPT n’est pas menacé tout de suite, mais la suite oui.",
-      "url": "https://www.begeek.fr/les-etats-unis-pourraient-freiner-le-developpement-des-ia-les-plus-puissantes-442534",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-11-08T11:00:24Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Actualité : Adieu Google, ChatGPT et WhatsApp : nous avons remplacé leurs applications du quotidien par des équivalents européens",
-      "description": "Quitter les géants américains sans bouleverser ses habitudes, c'est possible. Bureautique, IA, GPS ou messagerie : voici sept alternatives européennes pour reprendre la main sur vos données.",
-      "url": "https://www.lesnumeriques.com/societe-numerique/adieu-google-chatgpt-et-whatsapp-nous-avons-remplace-leurs-applications-du-quotidien-par-des-equivalents-europeens-241-n260695.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-11-08T16:37:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "IA pour les débutants : par où commencer ?",
-      "description": "Les liens promis dans la vidéo : crée ton compte gratuit sur un seul assistant IA ▷ Claude : https://claude.ai ▷ ChatGPT ...",
-      "url": "https://www.youtube.com/watch?v=yHN27_SeJEY",
-      "source": "infopreneur TV",
-      "publishedAt": "2026-10-24T08:00:05Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "yHN27_SeJEY",
-      "thumbnail": "https://i.ytimg.com/vi/yHN27_SeJEY/hqdefault.jpg"
-    },
     {
       "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
       "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
@@ -122,6 +86,42 @@
       "thumbnail": "https://i.ytimg.com/vi/h1bC6pKmqtI/hqdefault.jpg"
     },
     {
+      "title": "IA, Machine Learning &amp; LLM expliqués en 8 minutes",
+      "description": "Pour en savoir plus sur AMD EPYC ...",
+      "url": "https://www.youtube.com/watch?v=XZDaI0YOaCM",
+      "source": "Cookie connecté",
+      "publishedAt": "2026-10-18T13:00:02Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "XZDaI0YOaCM",
+      "thumbnail": "https://i.ytimg.com/vi/XZDaI0YOaCM/hqdefault.jpg"
+    },
+    {
+      "title": "Maîtriser le Big Data  Guide Complet pour Ingénieurs et Étudiants",
+      "description": "Bienvenue sur KRIT Academy ! Dans cette formation présentée par le Prof. Salahddine Krit, découvrez les fondements ...",
+      "url": "https://www.youtube.com/watch?v=eLkqdrFn5jo",
+      "source": "KRIT Academy",
+      "publishedAt": "2026-09-15T23:02:31Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "eLkqdrFn5jo",
+      "thumbnail": "https://i.ytimg.com/vi/eLkqdrFn5jo/hqdefault.jpg"
+    },
+    {
+      "title": "SQL : Comment insérer des données dans une table avec INSERT INTO ? | Épisode 4",
+      "description": "Notre base de données MarketPro est créée, notre table clients aussi. Mais elle est encore vide ! Dans cet épisode de DEV-YEO, ...",
+      "url": "https://www.youtube.com/watch?v=0GfOG2thnew",
+      "source": "dev-yeo",
+      "publishedAt": "2026-11-04T07:54:51Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "0GfOG2thnew",
+      "thumbnail": "https://i.ytimg.com/vi/0GfOG2thnew/hqdefault.jpg"
+    },
+    {
       "title": "Projet Power BI complet | Analyse des ventes du début à la fin | Power BI pour débutants | 2026",
       "description": "Dans cette vidéo, on construit un Dashboard Power BI complet de A à Z : on part d'un fichier de ventes tout sale et on le ...",
       "url": "https://www.youtube.com/watch?v=dpqTdoE7dYg",
@@ -144,18 +144,6 @@
       "isYouTube": true,
       "videoId": "Tmz4jXuBGdI",
       "thumbnail": "https://i.ytimg.com/vi/Tmz4jXuBGdI/hqdefault.jpg"
-    },
-    {
-      "title": "Découvrir SQL : interroger une base de données (débutant, cas concret)",
-      "description": "Premier épisode de la Formation SQL Bitdyne. Le problème que résout SQL : accéder soi-même à l'information qui dort dans les ...",
-      "url": "https://www.youtube.com/watch?v=3_q1VH5GTDI",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-09T12:23:00Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "3_q1VH5GTDI",
-      "thumbnail": "https://i.ytimg.com/vi/3_q1VH5GTDI/hqdefault.jpg"
     },
     {
       "title": "SQL avec PostgreSQL : le cours complet (2 h 29, 34 chapitres, 99 exercices)",
@@ -182,16 +170,28 @@
       "thumbnail": "https://i.ytimg.com/vi/qbqaSlk3fho/hqdefault.jpg"
     },
     {
-      "title": "Actualité : Anthropic dépense 3 milliards d'euros pour faire tourner Claude avec du gaz fossile, malgré la contestation grandissante autour de l'impact écologique des centres de données IA",
-      "description": "Anthropic a conclu un accord de 3,4 milliards de dollars, soit environ 3,05 milliards d'euros, pour alimenter ses centres de données avec 1,7 GW de générateurs au gaz. Et ce alors qu'aux États-Unis, l...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/anthropic-depense-3-milliards-d-euros-pour-faire-tourner-claude-avec-du-gaz-fossile-malgre-la-contestation-grandissante-autour-de-l-impact-ecologique-des-centres-de-donnees-ia-n267005.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-11-08T17:15:00Z",
+      "title": "QL : Modifier des données avec UPDATE 🔥 | Tutoriel MySQL pour débutants",
+      "description": "Vous avez besoin de modifier des informations dans une base de données ? Découvrez la commande UPDATE en SQL et ...",
+      "url": "https://www.youtube.com/watch?v=LRH15BF5Q0A",
+      "source": "The Coding Lab",
+      "publishedAt": "2026-10-21T10:24:30Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "LRH15BF5Q0A",
+      "thumbnail": "https://i.ytimg.com/vi/LRH15BF5Q0A/hqdefault.jpg"
+    },
+    {
+      "title": "SQL pour débutants : comprends ta première requête SELECT | Partie 1",
+      "description": "Ton application a la mémoire d'un poisson rouge ? Découvre où sont stockées les données et comment SQL permet de les ...",
+      "url": "https://www.youtube.com/watch?v=ApeM-42SN5E",
+      "source": "dev-yeo",
+      "publishedAt": "2026-10-30T08:02:40Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "ApeM-42SN5E",
+      "thumbnail": "https://i.ytimg.com/vi/ApeM-42SN5E/hqdefault.jpg"
     },
     {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
@@ -206,100 +206,28 @@
       "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
-      "title": "Elon Musk fait tourner son centre de données IA avec des moteurs de Boeing 747 : des riverains excédés par la pollution saisissent les autorités",
-      "description": "Des moteurs de Boeing 747 retirés du désert pour alimenter l'IA de Musk : 1,2 GW, du formaldéhyde cancérogène et des riverains qui saturent. Jusqu'où ira cette course effrénée aux data centers ?",
-      "url": "https://www.gameblog.fr/trends/elon-musk-fait-tourner-son-centre-de-donnees-ia-avec-des-moteurs-de-boeing-747-des-riverains-excedes-par-la-pollution-saisissent-les-autorites-726342",
-      "source": "Gameblog",
-      "publishedAt": "2026-11-08T06:00:00Z",
+      "title": "MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données !",
+      "description": "MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données ! Quels graphiques choisir pour ...",
+      "url": "https://www.youtube.com/watch?v=pfDnucTFHPE",
+      "source": "Statistical Models for Social Sciences",
+      "publishedAt": "2026-11-01T16:30:28Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "pfDnucTFHPE",
+      "thumbnail": "https://i.ytimg.com/vi/pfDnucTFHPE/hqdefault.jpg"
     },
     {
-      "title": "Xiaomi Redmi Note 17 5G vs Samsung Galaxy A17 5G : comment choisir le meilleur smartphone pas cher ?",
-      "description": "Xiaomi et Samsung se disputent systématiquement la première place pour les ventes de smartphones d'entrée de gamme. Comment bien départager leurs dernières références respectives ? On se pose la quest...",
-      "url": "https://www.frandroid.com/versus/3301159_xiaomi-redmi-note-17-5g-vs-samsung-galaxy-a17-5g-comment-choisir-le-meilleur-smartphone-pas-cher",
-      "source": "Frandroid",
-      "publishedAt": "2026-11-08T17:00:00Z",
+      "title": "Apprendre à utiliser Google Colab (Python sans rien installer)",
+      "description": "Comment débuter sur Google Colab et coder en Python sans rien installer sur son ordinateur ? Dans ce tutoriel complet pour ...",
+      "url": "https://www.youtube.com/watch?v=7Hmx6FRMows",
+      "source": "Gab JPM",
+      "publishedAt": "2026-10-27T16:15:31Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "La nuit, la fumée des incendies continue d’évoluer, et l’Quatorze IA jugent les humains plus attachés au groupe qu’à la vérité, un verdict qui reflète surtout leurs lecturesair décide si elle brunit ou se fragmente",
-      "description": "Les particules libérées par les incendies de forêt ne cessent pas de réagir une fois le soleil couché. Une étude de l'université du Kentucky, parue le 24 octobre 2026, montre que l'humidité ambiante o...",
-      "url": "https://dailygeekshow.com/?p=1018834",
-      "source": "Daily Geek Show",
-      "publishedAt": "2026-11-08T18:31:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "\"C'est un pillage\" : l'intelligence artificielle s'attaque à l'art aborigène et vole les artistes",
-      "description": "Porte-canettes, toiles, sous-verres... Sur Internet, les fausses œuvres aborigènes générées par IA se multiplient. Une contrefaçon massive qui prive les artistes des Premières Nations australiennes de...",
-      "url": "https://www.journaldunet.com/magazine/1557497-intelligence-artificielle-pillage-art-aborigene/",
-      "source": "JDN",
-      "publishedAt": "2026-11-08T06:05:02Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "La renaissance de Bull, leader européen du calcul : \"L'intelligence artificielle nous apporte du volume\"",
-      "description": "Le Français a développé un savoir-faire de pointe dans le calcul haute performance. Avec le boom de l'IA, cette niche devient un marché très lucratif.",
-      "url": "https://www.lexpress.fr/economie/high-tech/la-renaissance-de-bull-leader-europeen-du-calcul-lintelligence-artificielle-nous-apporte-du-volume-2ZT45RRZIRHXXGLKUQWWWTKY3A/",
-      "source": "L'Express",
-      "publishedAt": "2026-11-08T14:58:02Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "L'IA accélère le développement logiciel, mais qui vérifie le travail des agents ?",
-      "description": "Chez Proton, la polémique autour de l'intelligence artificielle a pris une tournure révélatrice des tensions qui traversent actuellement l'industrie du logiciel. Fin août, un ingénieur avait suggéré d...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/11/lia-accelere-le-developpement-logiciel-mais-qui-verifie-le-travail-des-agents-312259",
-      "source": "MacGeneration",
-      "publishedAt": "2026-11-08T15:42:09Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Recherche médicale : au cœur de la stratégie de l’Institut Curie pour transformer ses innovations en traitement utiles aux patients",
-      "description": "PODCAST – A l’Institut Curie, Amaury Martin veut accélérer le passage des découvertes scientifiques vers les patients. Pour y parvenir, il entend mieux articuler financements, brevets et création de s...",
-      "url": "https://www.challenges.fr/entreprise/sante/recherche-medicale-au-coeur-de-la-strategie-de-linstitut-curie-pour-transformer-ses-innovations-en-traitement-utiles-aux-patients_646871",
-      "source": "Challenges",
-      "publishedAt": "2026-11-08T17:00:00Z",
-      "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Actualité : Le pèse-personne connecté Xiaomi Smart Scale S200 est à 16,32 € (-18 %)",
-      "description": "Précise à 0,05 kg et connectée à l'application Xiaomi Home, la balance Xiaomi Smart Scale S200 passe à 16,32 € chez Amazon, contre 19,99 € de prix conseillé.",
-      "url": "https://www.lesnumeriques.com/balance/le-pese-personne-connecte-xiaomi-smart-scale-s200-est-a-16-32-18-n267009.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-11-08T11:16:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "7Hmx6FRMows",
+      "thumbnail": "https://i.ytimg.com/vi/7Hmx6FRMows/hqdefault.jpg"
     }
   ]
 }

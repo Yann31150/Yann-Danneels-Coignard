@@ -5,37 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 09 Nov 2026 18:31:51 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 16:16:08 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Les États-Unis pourraient freiner le développement des IA les plus puissantes</title>
-            <link>https://www.begeek.fr/les-etats-unis-pourraient-freiner-le-developpement-des-ia-les-plus-puissantes-442534</link>
-            <description><![CDATA[Bernie Sanders pousse un texte très dur contre la superintelligence artificielle. ChatGPT n’est pas menacé tout de suite, mais la suite oui.]]></description>
-            <pubDate>Sun, 08 Nov 2026 11:00:24 -0000</pubDate>
-            <guid isPermaLink="true">https://www.begeek.fr/les-etats-unis-pourraient-freiner-le-developpement-des-ia-les-plus-puissantes-442534</guid>
-            <source>Begeek.fr</source>
-        </item>
-        <item>
-            <title>Actualité : Adieu Google, ChatGPT et WhatsApp : nous avons remplacé leurs applications du quotidien par des équivalents européens</title>
-            <link>https://www.lesnumeriques.com/societe-numerique/adieu-google-chatgpt-et-whatsapp-nous-avons-remplace-leurs-applications-du-quotidien-par-des-equivalents-europeens-241-n260695.html</link>
-            <description><![CDATA[Quitter les géants américains sans bouleverser ses habitudes, c'est possible. Bureautique, IA, GPS ou messagerie : voici sept alternatives européennes pour reprendre la main sur vos données.]]></description>
-            <pubDate>Sun, 08 Nov 2026 16:37:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/societe-numerique/adieu-google-chatgpt-et-whatsapp-nous-avons-remplace-leurs-applications-du-quotidien-par-des-equivalents-europeens-241-n260695.html</guid>
-            <source>Les Numériques</source>
-        </item>
-        <item>
-            <title>IA pour les débutants : par où commencer ?</title>
-            <link>https://www.youtube.com/watch?v=yHN27_SeJEY</link>
-            <description><![CDATA[Les liens promis dans la vidéo : crée ton compte gratuit sur un seul assistant IA ▷ Claude : https://claude.ai ▷ ChatGPT ...]]></description>
-            <pubDate>Sat, 24 Oct 2026 08:00:05 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=yHN27_SeJEY</guid>
-            <source>infopreneur TV</source>
-        </item>
         <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
             <link>https://www.youtube.com/watch?v=WUzHvB7FICc</link>
@@ -93,6 +69,30 @@
             <source>Oscar Aksanti</source>
         </item>
         <item>
+            <title>IA, Machine Learning &amp;amp; LLM expliqués en 8 minutes</title>
+            <link>https://www.youtube.com/watch?v=XZDaI0YOaCM</link>
+            <description><![CDATA[Pour en savoir plus sur AMD EPYC ...]]></description>
+            <pubDate>Sun, 18 Oct 2026 13:00:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=XZDaI0YOaCM</guid>
+            <source>Cookie connecté</source>
+        </item>
+        <item>
+            <title>Maîtriser le Big Data  Guide Complet pour Ingénieurs et Étudiants</title>
+            <link>https://www.youtube.com/watch?v=eLkqdrFn5jo</link>
+            <description><![CDATA[Bienvenue sur KRIT Academy ! Dans cette formation présentée par le Prof. Salahddine Krit, découvrez les fondements ...]]></description>
+            <pubDate>Tue, 15 Sep 2026 23:02:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=eLkqdrFn5jo</guid>
+            <source>KRIT Academy</source>
+        </item>
+        <item>
+            <title>SQL : Comment insérer des données dans une table avec INSERT INTO ? | Épisode 4</title>
+            <link>https://www.youtube.com/watch?v=0GfOG2thnew</link>
+            <description><![CDATA[Notre base de données MarketPro est créée, notre table clients aussi. Mais elle est encore vide ! Dans cet épisode de DEV-YEO, ...]]></description>
+            <pubDate>Wed, 04 Nov 2026 07:54:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=0GfOG2thnew</guid>
+            <source>dev-yeo</source>
+        </item>
+        <item>
             <title>Projet Power BI complet | Analyse des ventes du début à la fin | Power BI pour débutants | 2026</title>
             <link>https://www.youtube.com/watch?v=dpqTdoE7dYg</link>
             <description><![CDATA[Dans cette vidéo, on construit un Dashboard Power BI complet de A à Z : on part d'un fichier de ventes tout sale et on le ...]]></description>
@@ -107,14 +107,6 @@
             <pubDate>Sun, 18 Oct 2026 18:54:42 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Tmz4jXuBGdI</guid>
             <source>Devenir Expert Data</source>
-        </item>
-        <item>
-            <title>Découvrir SQL : interroger une base de données (débutant, cas concret)</title>
-            <link>https://www.youtube.com/watch?v=3_q1VH5GTDI</link>
-            <description><![CDATA[Premier épisode de la Formation SQL Bitdyne. Le problème que résout SQL : accéder soi-même à l'information qui dort dans les ...]]></description>
-            <pubDate>Fri, 09 Oct 2026 12:23:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=3_q1VH5GTDI</guid>
-            <source>Bitdyne</source>
         </item>
         <item>
             <title>SQL avec PostgreSQL : le cours complet (2 h 29, 34 chapitres, 99 exercices)</title>
@@ -133,12 +125,20 @@
             <source>Youmout Cours</source>
         </item>
         <item>
-            <title>Actualité : Anthropic dépense 3 milliards d'euros pour faire tourner Claude avec du gaz fossile, malgré la contestation grandissante autour de l'impact écologique des centres de données IA</title>
-            <link>https://www.lesnumeriques.com/intelligence-artificielle/anthropic-depense-3-milliards-d-euros-pour-faire-tourner-claude-avec-du-gaz-fossile-malgre-la-contestation-grandissante-autour-de-l-impact-ecologique-des-centres-de-donnees-ia-n267005.html</link>
-            <description><![CDATA[Anthropic a conclu un accord de 3,4 milliards de dollars, soit environ 3,05 milliards d'euros, pour alimenter ses centres de données avec 1,7 GW de générateurs au gaz. Et ce alors qu'aux États-Unis, l...]]></description>
-            <pubDate>Sun, 08 Nov 2026 17:15:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/anthropic-depense-3-milliards-d-euros-pour-faire-tourner-claude-avec-du-gaz-fossile-malgre-la-contestation-grandissante-autour-de-l-impact-ecologique-des-centres-de-donnees-ia-n267005.html</guid>
-            <source>Les Numériques</source>
+            <title>QL : Modifier des données avec UPDATE 🔥 | Tutoriel MySQL pour débutants</title>
+            <link>https://www.youtube.com/watch?v=LRH15BF5Q0A</link>
+            <description><![CDATA[Vous avez besoin de modifier des informations dans une base de données ? Découvrez la commande UPDATE en SQL et ...]]></description>
+            <pubDate>Wed, 21 Oct 2026 10:24:30 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=LRH15BF5Q0A</guid>
+            <source>The Coding Lab</source>
+        </item>
+        <item>
+            <title>SQL pour débutants : comprends ta première requête SELECT | Partie 1</title>
+            <link>https://www.youtube.com/watch?v=ApeM-42SN5E</link>
+            <description><![CDATA[Ton application a la mémoire d'un poisson rouge ? Découvre où sont stockées les données et comment SQL permet de les ...]]></description>
+            <pubDate>Fri, 30 Oct 2026 08:02:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ApeM-42SN5E</guid>
+            <source>dev-yeo</source>
         </item>
         <item>
             <title>L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto</title>
@@ -149,28 +149,20 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Elon Musk fait tourner son centre de données IA avec des moteurs de Boeing 747 : des riverains excédés par la pollution saisissent les autorités</title>
-            <link>https://www.gameblog.fr/trends/elon-musk-fait-tourner-son-centre-de-donnees-ia-avec-des-moteurs-de-boeing-747-des-riverains-excedes-par-la-pollution-saisissent-les-autorites-726342</link>
-            <description><![CDATA[Des moteurs de Boeing 747 retirés du désert pour alimenter l'IA de Musk : 1,2 GW, du formaldéhyde cancérogène et des riverains qui saturent. Jusqu'où ira cette course effrénée aux data centers ?]]></description>
-            <pubDate>Sun, 08 Nov 2026 06:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.gameblog.fr/trends/elon-musk-fait-tourner-son-centre-de-donnees-ia-avec-des-moteurs-de-boeing-747-des-riverains-excedes-par-la-pollution-saisissent-les-autorites-726342</guid>
-            <source>Gameblog</source>
+            <title>MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données !</title>
+            <link>https://www.youtube.com/watch?v=pfDnucTFHPE</link>
+            <description><![CDATA[MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données ! Quels graphiques choisir pour ...]]></description>
+            <pubDate>Sun, 01 Nov 2026 16:30:28 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=pfDnucTFHPE</guid>
+            <source>Statistical Models for Social Sciences</source>
         </item>
         <item>
-            <title>Xiaomi Redmi Note 17 5G vs Samsung Galaxy A17 5G : comment choisir le meilleur smartphone pas cher ?</title>
-            <link>https://www.frandroid.com/versus/3301159_xiaomi-redmi-note-17-5g-vs-samsung-galaxy-a17-5g-comment-choisir-le-meilleur-smartphone-pas-cher</link>
-            <description><![CDATA[Xiaomi et Samsung se disputent systématiquement la première place pour les ventes de smartphones d'entrée de gamme. Comment bien départager leurs dernières références respectives ? On se pose la quest...]]></description>
-            <pubDate>Sun, 08 Nov 2026 17:00:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/versus/3301159_xiaomi-redmi-note-17-5g-vs-samsung-galaxy-a17-5g-comment-choisir-le-meilleur-smartphone-pas-cher</guid>
-            <source>Frandroid</source>
-        </item>
-        <item>
-            <title>La nuit, la fumée des incendies continue d’évoluer, et l’Quatorze IA jugent les humains plus attachés au groupe qu’à la vérité, un verdict qui reflète surtout leurs lecturesair décide si elle brunit ou se fragmente</title>
-            <link>https://dailygeekshow.com/?p=1018834</link>
-            <description><![CDATA[Les particules libérées par les incendies de forêt ne cessent pas de réagir une fois le soleil couché. Une étude de l'université du Kentucky, parue le 24 octobre 2026, montre que l'humidité ambiante o...]]></description>
-            <pubDate>Sun, 08 Nov 2026 18:31:00 -0000</pubDate>
-            <guid isPermaLink="true">https://dailygeekshow.com/?p=1018834</guid>
-            <source>Daily Geek Show</source>
+            <title>Apprendre à utiliser Google Colab (Python sans rien installer)</title>
+            <link>https://www.youtube.com/watch?v=7Hmx6FRMows</link>
+            <description><![CDATA[Comment débuter sur Google Colab et coder en Python sans rien installer sur son ordinateur ? Dans ce tutoriel complet pour ...]]></description>
+            <pubDate>Tue, 27 Oct 2026 16:15:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=7Hmx6FRMows</guid>
+            <source>Gab JPM</source>
         </item>
     </channel>
 </rss>
