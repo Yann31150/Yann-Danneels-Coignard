@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-11-11T15:57:44.456349",
+  "lastUpdate": "2026-11-12T16:41:09.110760",
   "articles": [
-    {
-      "title": "Formation Power BI #4 — Power Query : nettoyer et préparer les données",
-      "description": "Des données brutes aux données prêtes : l'atelier où se gagne la fiabilité du rapport Formation Power BI par Bitdyne.",
-      "url": "https://www.youtube.com/watch?v=bjUQ1UCEHVk",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-10T12:15:37Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "bjUQ1UCEHVk",
-      "thumbnail": "https://i.ytimg.com/vi/bjUQ1UCEHVk/hqdefault.jpg"
-    },
     {
       "title": "Arrêtez de payer ChatGPT: cette IA locale est gratuite &amp; illimité",
       "description": "Faites de l'IA votre métier, même sans être technique : https://yassinesdiri.com/A2JjVSc Communauté gratuite, guides, ...",
@@ -122,6 +110,18 @@
       "thumbnail": "https://i.ytimg.com/vi/feIiOQVPPuM/hqdefault.jpg"
     },
     {
+      "title": "Maîtriser le Big Data  Guide Complet pour Ingénieurs et Étudiants",
+      "description": "Bienvenue sur KRIT Academy ! Dans cette formation présentée par le Prof. Salahddine Krit, découvrez les fondements ...",
+      "url": "https://www.youtube.com/watch?v=eLkqdrFn5jo",
+      "source": "KRIT Academy",
+      "publishedAt": "2026-09-15T23:02:31Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "eLkqdrFn5jo",
+      "thumbnail": "https://i.ytimg.com/vi/eLkqdrFn5jo/hqdefault.jpg"
+    },
+    {
       "title": "Projet Power BI complet | Analyse des ventes du début à la fin | Power BI pour débutants | 2026",
       "description": "Dans cette vidéo, on construit un Dashboard Power BI complet de A à Z : on part d'un fichier de ventes tout sale et on le ...",
       "url": "https://www.youtube.com/watch?v=dpqTdoE7dYg",
@@ -146,6 +146,18 @@
       "thumbnail": "https://i.ytimg.com/vi/Tmz4jXuBGdI/hqdefault.jpg"
     },
     {
+      "title": "Découvrir SQL : interroger une base de données (débutant, cas concret)",
+      "description": "Premier épisode de la Formation SQL Bitdyne. Le problème que résout SQL : accéder soi-même à l'information qui dort dans les ...",
+      "url": "https://www.youtube.com/watch?v=3_q1VH5GTDI",
+      "source": "Bitdyne",
+      "publishedAt": "2026-10-09T12:23:00Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "3_q1VH5GTDI",
+      "thumbnail": "https://i.ytimg.com/vi/3_q1VH5GTDI/hqdefault.jpg"
+    },
+    {
       "title": "Power BI : créer son premier graphique à partir d’Excel",
       "description": "Découvrez comment importer un fichier Excel dans Power BI et créer votre première visualisation. Dans cet exemple consacré au ...",
       "url": "https://www.youtube.com/watch?v=qbqaSlk3fho",
@@ -156,6 +168,18 @@
       "isYouTube": true,
       "videoId": "qbqaSlk3fho",
       "thumbnail": "https://i.ytimg.com/vi/qbqaSlk3fho/hqdefault.jpg"
+    },
+    {
+      "title": "Power Query dans Power BI : découvrez l’interface et les bases (1/5)",
+      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
+      "url": "https://www.youtube.com/watch?v=mf8Qp73oa7g",
+      "source": "Morpheus Formation | Excel, Power BI, Data",
+      "publishedAt": "2026-09-24T09:00:35Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "mf8Qp73oa7g",
+      "thumbnail": "https://i.ytimg.com/vi/mf8Qp73oa7g/hqdefault.jpg"
     },
     {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",

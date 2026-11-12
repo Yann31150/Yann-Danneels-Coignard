@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Wed, 11 Nov 2026 15:57:44 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 16:41:09 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Formation Power BI #4 — Power Query : nettoyer et préparer les données</title>
-            <link>https://www.youtube.com/watch?v=bjUQ1UCEHVk</link>
-            <description><![CDATA[Des données brutes aux données prêtes : l'atelier où se gagne la fiabilité du rapport Formation Power BI par Bitdyne.]]></description>
-            <pubDate>Sat, 10 Oct 2026 12:15:37 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=bjUQ1UCEHVk</guid>
-            <source>Bitdyne</source>
-        </item>
         <item>
             <title>Arrêtez de payer ChatGPT: cette IA locale est gratuite &amp;amp; illimité</title>
             <link>https://www.youtube.com/watch?v=AaLTIk_Nc4k</link>
@@ -93,6 +85,14 @@
             <source>MASTER 2 SISE DATA SCIENCE</source>
         </item>
         <item>
+            <title>Maîtriser le Big Data  Guide Complet pour Ingénieurs et Étudiants</title>
+            <link>https://www.youtube.com/watch?v=eLkqdrFn5jo</link>
+            <description><![CDATA[Bienvenue sur KRIT Academy ! Dans cette formation présentée par le Prof. Salahddine Krit, découvrez les fondements ...]]></description>
+            <pubDate>Tue, 15 Sep 2026 23:02:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=eLkqdrFn5jo</guid>
+            <source>KRIT Academy</source>
+        </item>
+        <item>
             <title>Projet Power BI complet | Analyse des ventes du début à la fin | Power BI pour débutants | 2026</title>
             <link>https://www.youtube.com/watch?v=dpqTdoE7dYg</link>
             <description><![CDATA[Dans cette vidéo, on construit un Dashboard Power BI complet de A à Z : on part d'un fichier de ventes tout sale et on le ...]]></description>
@@ -109,12 +109,28 @@
             <source>Devenir Expert Data</source>
         </item>
         <item>
+            <title>Découvrir SQL : interroger une base de données (débutant, cas concret)</title>
+            <link>https://www.youtube.com/watch?v=3_q1VH5GTDI</link>
+            <description><![CDATA[Premier épisode de la Formation SQL Bitdyne. Le problème que résout SQL : accéder soi-même à l'information qui dort dans les ...]]></description>
+            <pubDate>Fri, 09 Oct 2026 12:23:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=3_q1VH5GTDI</guid>
+            <source>Bitdyne</source>
+        </item>
+        <item>
             <title>Power BI : créer son premier graphique à partir d’Excel</title>
             <link>https://www.youtube.com/watch?v=qbqaSlk3fho</link>
             <description><![CDATA[Découvrez comment importer un fichier Excel dans Power BI et créer votre première visualisation. Dans cet exemple consacré au ...]]></description>
             <pubDate>Sun, 11 Oct 2026 19:30:25 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=qbqaSlk3fho</guid>
             <source>Youmout Cours</source>
+        </item>
+        <item>
+            <title>Power Query dans Power BI : découvrez l’interface et les bases (1/5)</title>
+            <link>https://www.youtube.com/watch?v=mf8Qp73oa7g</link>
+            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
+            <pubDate>Thu, 24 Sep 2026 09:00:35 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=mf8Qp73oa7g</guid>
+            <source>Morpheus Formation | Excel, Power BI, Data</source>
         </item>
         <item>
             <title>L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto</title>
