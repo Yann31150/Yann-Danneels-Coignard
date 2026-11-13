@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Thu, 12 Nov 2026 16:41:09 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 15:59:29 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -37,28 +37,12 @@
             <source>SkillHub Ai</source>
         </item>
         <item>
-            <title>Formation Power BI #5 — Le modèle de données et le schéma en étoile</title>
-            <link>https://www.youtube.com/watch?v=EpQJRHme6-w</link>
-            <description><![CDATA[Faits, dimensions, relations : la charpente qui rend tous les calculs justes Formation Power BI par Bitdyne. Cas concrets ...]]></description>
-            <pubDate>Sat, 10 Oct 2026 12:18:08 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=EpQJRHme6-w</guid>
-            <source>Bitdyne</source>
-        </item>
-        <item>
             <title>Ton premier projet Data &amp;amp; Machine Learning en Python — projet complet 34 min (débutant, avec code)</title>
             <link>https://www.youtube.com/watch?v=t9dIU3Od0SE</link>
             <description><![CDATA[Ton premier projet complet de Data &amp; Machine Learning en Python, de bout en bout : on charge les données de 398 vraies ...]]></description>
             <pubDate>Fri, 09 Oct 2026 16:51:36 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=t9dIU3Od0SE</guid>
             <source>IA Futura</source>
-        </item>
-        <item>
-            <title>Comprendre l&amp;#39;Intelligence Artificielle : Les bases expliquées simplement</title>
-            <link>https://www.youtube.com/watch?v=yw1bS20gTzc</link>
-            <description><![CDATA[L'Intelligence Artificielle et la Data Science sont partout, mais entre le jargon technique et les termes compliqués, difficile d'y voir ...]]></description>
-            <pubDate>Mon, 12 Oct 2026 15:15:12 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=yw1bS20gTzc</guid>
-            <source>Gab JPM</source>
         </item>
         <item>
             <title>URGENT : Machine Learning, Ia, — analyse rapide</title>
@@ -75,6 +59,22 @@
             <pubDate>Sun, 18 Oct 2026 13:00:02 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=XZDaI0YOaCM</guid>
             <source>Cookie connecté</source>
+        </item>
+        <item>
+            <title>Machine Learning #1 Introducaion</title>
+            <link>https://www.youtube.com/watch?v=-XbgqgnDQSo</link>
+            <description><![CDATA[MACHINE LEARNING DE A À Z — FORMATION COMPLÈTE ET GRATUITE EN FRANÇAIS | ÉPISODE 1** Tu souhaites ...]]></description>
+            <pubDate>Fri, 13 Nov 2026 11:39:50 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=-XbgqgnDQSo</guid>
+            <source>Eline Math</source>
+        </item>
+        <item>
+            <title>Comment connecter Power BI à KoboToolbox en temps réel (Guide complet)</title>
+            <link>https://www.youtube.com/watch?v=mrfA51Qb0dU</link>
+            <description><![CDATA[Découvrez dans ce tutoriel pas à pas comment connecter facilement vos formulaires KoboToolbox directement à Power BI pour ...]]></description>
+            <pubDate>Sat, 24 Oct 2026 05:08:26 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=mrfA51Qb0dU</guid>
+            <source>Oscar Aksanti</source>
         </item>
         <item>
             <title>Clustering de variables avec le package « clustvartools » pour Python</title>
@@ -101,28 +101,12 @@
             <source>DATA LAB FR</source>
         </item>
         <item>
-            <title>Filtrer une table avec Filter dans Power BI</title>
-            <link>https://www.youtube.com/watch?v=Tmz4jXuBGdI</link>
-            <description><![CDATA[Série Power BI - Vidéo 18 : la fonction FILTER en DAX dans Power BI Dans cette vidéo de formation, nous allons découvrir ...]]></description>
-            <pubDate>Sun, 18 Oct 2026 18:54:42 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Tmz4jXuBGdI</guid>
-            <source>Devenir Expert Data</source>
-        </item>
-        <item>
-            <title>Découvrir SQL : interroger une base de données (débutant, cas concret)</title>
-            <link>https://www.youtube.com/watch?v=3_q1VH5GTDI</link>
-            <description><![CDATA[Premier épisode de la Formation SQL Bitdyne. Le problème que résout SQL : accéder soi-même à l'information qui dort dans les ...]]></description>
-            <pubDate>Fri, 09 Oct 2026 12:23:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=3_q1VH5GTDI</guid>
+            <title>Power BI, vous savez à quoi ça sert ?</title>
+            <link>https://www.youtube.com/watch?v=-BcSczBI0J8</link>
+            <description><![CDATA[Il rassemble vos chiffres éparpillés en un seul tableau de bord, à jour en un clic. Découvrez Power BI simplement, gratuitement, ...]]></description>
+            <pubDate>Thu, 15 Oct 2026 14:42:16 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=-BcSczBI0J8</guid>
             <source>Bitdyne</source>
-        </item>
-        <item>
-            <title>Power BI : créer son premier graphique à partir d’Excel</title>
-            <link>https://www.youtube.com/watch?v=qbqaSlk3fho</link>
-            <description><![CDATA[Découvrez comment importer un fichier Excel dans Power BI et créer votre première visualisation. Dans cet exemple consacré au ...]]></description>
-            <pubDate>Sun, 11 Oct 2026 19:30:25 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=qbqaSlk3fho</guid>
-            <source>Youmout Cours</source>
         </item>
         <item>
             <title>Power Query dans Power BI : découvrez l’interface et les bases (1/5)</title>
