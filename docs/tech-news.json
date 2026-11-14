@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-11-13T15:59:29.318187",
+  "lastUpdate": "2026-11-14T14:53:15.190903",
   "articles": [
+    {
+      "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
+      "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
+      "url": "https://www.youtube.com/watch?v=WUzHvB7FICc",
+      "source": "Bitdyne",
+      "publishedAt": "2026-10-10T12:06:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "WUzHvB7FICc",
+      "thumbnail": "https://i.ytimg.com/vi/WUzHvB7FICc/hqdefault.jpg"
+    },
     {
       "title": "Arrêtez de payer ChatGPT: cette IA locale est gratuite &amp; illimité",
       "description": "Faites de l'IA votre métier, même sans être technique : https://yassinesdiri.com/A2JjVSc Communauté gratuite, guides, ...",
@@ -50,16 +62,28 @@
       "thumbnail": "https://i.ytimg.com/vi/t9dIU3Od0SE/hqdefault.jpg"
     },
     {
-      "title": "URGENT : Machine Learning, Ia, — analyse rapide",
-      "description": "Découvrez en détail Machine Learning. Concepts, applications, et tendances actuelles. Une approche complète et éclairée pour ...",
-      "url": "https://www.youtube.com/watch?v=NdS8xLrZd_k",
-      "source": "contact omnicirelpc",
-      "publishedAt": "2026-09-14T20:06:13Z",
+      "title": "Comprendre l&#39;Intelligence Artificielle : Les bases expliquées simplement",
+      "description": "L'Intelligence Artificielle et la Data Science sont partout, mais entre le jargon technique et les termes compliqués, difficile d'y voir ...",
+      "url": "https://www.youtube.com/watch?v=yw1bS20gTzc",
+      "source": "Gab JPM",
+      "publishedAt": "2026-10-12T15:15:12Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "NdS8xLrZd_k",
-      "thumbnail": "https://i.ytimg.com/vi/NdS8xLrZd_k/hqdefault.jpg"
+      "videoId": "yw1bS20gTzc",
+      "thumbnail": "https://i.ytimg.com/vi/yw1bS20gTzc/hqdefault.jpg"
+    },
+    {
+      "title": "Free Data Science Course in Under 24 Hours | Learn Data Science from Scratch | Simplilearn",
+      "description": "Want to learn Data Science in 24 hours? From Python and Pandas to Machine Learning and dashboards, here is the ultimate ...",
+      "url": "https://www.youtube.com/watch?v=n3t9cngezPc",
+      "source": "Simplilearn",
+      "publishedAt": "2026-10-26T13:00:27Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "n3t9cngezPc",
+      "thumbnail": "https://i.ytimg.com/vi/n3t9cngezPc/hqdefault.jpg"
     },
     {
       "title": "IA, Machine Learning &amp; LLM expliqués en 8 minutes",
@@ -86,30 +110,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-XbgqgnDQSo/hqdefault.jpg"
     },
     {
-      "title": "Comment connecter Power BI à KoboToolbox en temps réel (Guide complet)",
-      "description": "Découvrez dans ce tutoriel pas à pas comment connecter facilement vos formulaires KoboToolbox directement à Power BI pour ...",
-      "url": "https://www.youtube.com/watch?v=mrfA51Qb0dU",
-      "source": "Oscar Aksanti",
-      "publishedAt": "2026-10-24T05:08:26Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "mrfA51Qb0dU",
-      "thumbnail": "https://i.ytimg.com/vi/mrfA51Qb0dU/hqdefault.jpg"
-    },
-    {
-      "title": "Clustering de variables avec le package « clustvartools » pour Python",
-      "description": "Machine learning. Data science. Le package « clustvartools » pour Python propose une panoplie clé en main d'algorithmes de ...",
-      "url": "https://www.youtube.com/watch?v=feIiOQVPPuM",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-10-15T14:33:41Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "feIiOQVPPuM",
-      "thumbnail": "https://i.ytimg.com/vi/feIiOQVPPuM/hqdefault.jpg"
-    },
-    {
       "title": "Maîtriser le Big Data  Guide Complet pour Ingénieurs et Étudiants",
       "description": "Bienvenue sur KRIT Academy ! Dans cette formation présentée par le Prof. Salahddine Krit, découvrez les fondements ...",
       "url": "https://www.youtube.com/watch?v=eLkqdrFn5jo",
@@ -134,16 +134,28 @@
       "thumbnail": "https://i.ytimg.com/vi/dpqTdoE7dYg/hqdefault.jpg"
     },
     {
-      "title": "Power BI, vous savez à quoi ça sert ?",
-      "description": "Il rassemble vos chiffres éparpillés en un seul tableau de bord, à jour en un clic. Découvrez Power BI simplement, gratuitement, ...",
-      "url": "https://www.youtube.com/watch?v=-BcSczBI0J8",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-15T14:42:16Z",
+      "title": "Filtrer une table avec Filter dans Power BI",
+      "description": "Série Power BI - Vidéo 18 : la fonction FILTER en DAX dans Power BI Dans cette vidéo de formation, nous allons découvrir ...",
+      "url": "https://www.youtube.com/watch?v=Tmz4jXuBGdI",
+      "source": "Devenir Expert Data",
+      "publishedAt": "2026-10-18T18:54:42Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "-BcSczBI0J8",
-      "thumbnail": "https://i.ytimg.com/vi/-BcSczBI0J8/hqdefault.jpg"
+      "videoId": "Tmz4jXuBGdI",
+      "thumbnail": "https://i.ytimg.com/vi/Tmz4jXuBGdI/hqdefault.jpg"
+    },
+    {
+      "title": "Power BI : créer son premier graphique à partir d’Excel",
+      "description": "Découvrez comment importer un fichier Excel dans Power BI et créer votre première visualisation. Dans cet exemple consacré au ...",
+      "url": "https://www.youtube.com/watch?v=qbqaSlk3fho",
+      "source": "Youmout Cours",
+      "publishedAt": "2026-10-11T19:30:25Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "qbqaSlk3fho",
+      "thumbnail": "https://i.ytimg.com/vi/qbqaSlk3fho/hqdefault.jpg"
     },
     {
       "title": "Power Query dans Power BI : découvrez l’interface et les bases (1/5)",
@@ -158,6 +170,18 @@
       "thumbnail": "https://i.ytimg.com/vi/mf8Qp73oa7g/hqdefault.jpg"
     },
     {
+      "title": "Comprendre les Bases de Données Relationnelles (SGBD, SQL, Clés) 💾",
+      "description": "Aujourd'hui, on s'attaque au cœur invisible de notre monde numérique : les Systèmes de Gestion de Bases de Données (SGBD) !",
+      "url": "https://www.youtube.com/watch?v=F7X0rCwCOiA",
+      "source": "informatique, technologie, autocad ...",
+      "publishedAt": "2026-11-03T08:51:34Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "F7X0rCwCOiA",
+      "thumbnail": "https://i.ytimg.com/vi/F7X0rCwCOiA/hqdefault.jpg"
+    },
+    {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
       "description": "",
       "url": "https://www.youtube.com/watch?v=ijEHTjsGNsE",
@@ -170,28 +194,112 @@
       "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
-      "title": "Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=Yfbb0q7Mi5E",
-      "source": "LaDataFacile",
-      "publishedAt": "2026-10-04T22:23:54Z",
+      "title": "MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données !",
+      "description": "MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données ! Quels graphiques choisir pour ...",
+      "url": "https://www.youtube.com/watch?v=pfDnucTFHPE",
+      "source": "Statistical Models for Social Sciences",
+      "publishedAt": "2026-11-01T16:30:28Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Yfbb0q7Mi5E",
-      "thumbnail": "https://i.ytimg.com/vi/Yfbb0q7Mi5E/hqdefault.jpg"
+      "videoId": "pfDnucTFHPE",
+      "thumbnail": "https://i.ytimg.com/vi/pfDnucTFHPE/hqdefault.jpg"
     },
     {
-      "title": "Apprendre à utiliser Google Colab (Python sans rien installer)",
-      "description": "Comment débuter sur Google Colab et coder en Python sans rien installer sur son ordinateur ? Dans ce tutoriel complet pour ...",
-      "url": "https://www.youtube.com/watch?v=7Hmx6FRMows",
-      "source": "Gab JPM",
-      "publishedAt": "2026-10-27T16:15:31Z",
+      "title": "Débat sur les migrations : pourquoi montrer les données ne suffit pas forcément à convaincre",
+      "description": "Les spécialistes des migrations peuvent se sentir ignorés. Une enquête européenne indique pourtant que les décideurs les écoutent, mais tiennent aussi compte des inquiétudes perçues du public.",
+      "url": "https://theconversation.com/debat-sur-les-migrations-pourquoi-montrer-les-donnees-ne-suffit-pas-forcement-a-convaincre-296297",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-11-13T11:46:00Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "7Hmx6FRMows",
-      "thumbnail": "https://i.ytimg.com/vi/7Hmx6FRMows/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Black Friday imprimante 3D : de Bambu Lab à Elegoo voici les meilleures offres disponibles",
+      "description": "Pour le Black Friday 2026, Elegoo, Bambu Lab, Creality et Anycubic proposent des remises allant de 5 % à 29 % sur sept imprimantes 3D. La sélection couvre des modèles d'entrée de gamme comme des machi...",
+      "url": "https://www.frandroid.com/bons-plans/3321755_black-friday-imprimante-3d-de-bambu-lab-a-elegoo-voici-les-meilleures-offres-disponibles",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-13T11:06:36Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Show HN: Every Australian federal MP's official records, expenses, in one place",
+      "description": "Article URL: https://www.aussiesoapbox.org/mps\nComments URL: https://news.ycombinator.com/item?id=50482340\nPoints: 2\n# Comments: 1",
+      "url": "https://aussiesoapbox.org/mps",
+      "source": "Aussiesoapbox.org",
+      "publishedAt": "2026-11-13T12:05:29Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "IA et causalité : l'illusion de la pensée",
+      "description": "Les IA génératives savent produire des raisonnements convaincants, mais comprennent-elles réellement les liens de causalité ? De nouvelles approches explorent les frontières de l'intelligence artifici...",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1557895-ia-et-causalite-l-illusion-de-la-pensee/",
+      "source": "JDN",
+      "publishedAt": "2026-11-13T14:42:51Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Le Pack Office est mort, l'IA est la nouvelle bureautique",
+      "description": "Documents, tableurs, logiciels de gestion, campagnes et création visuelle : d'ici 2030, l'intelligence artificielle deviendra la porte d'entrée de notre travail sur ordinateur.",
+      "url": "https://www.journaldunet.com/intelligence-artificielle/1557975-le-pack-office-est-mort-l-ia-est-la-nouvelle-bureautique/",
+      "source": "JDN",
+      "publishedAt": "2026-11-13T14:41:47Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Isère. « Que tous les étudiants aient des compétences fortes sur les transitions » : Grenoble IAE fête ses 70 ans",
+      "description": "L'Institut d'administration des entreprises de Grenoble (Grenoble IAE) fête ses 70 ans ce vendredi 13 novembre. Philippe Protin, son directeur, fait le point sur deux nouveautés qui vont marquer cet a...",
+      "url": "https://www.ledauphine.com/economie/2026/11/13/que-tous-les-etudiants-et-etudiantes-de-l-iae-aient-des-competences-fortes-sur-les-transitions-l-iae-grenoble-fete-ses-70-ans",
+      "source": "Le Dauphiné Libéré",
+      "publishedAt": "2026-11-13T05:05:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Pourquoi toutes les IA ont des mascottes mignonnes ?",
+      "description": "Alors que les incidents liés aux agents IA et les modèles à accès restreint nourrissent l’inquiétude, les géants de la tech misent sur des personnages mignons pour rassurer leurs utilisateurs. Analyse...",
+      "url": "https://www.blogdumoderateur.com/pourquoi-ia-mascottes-mignonnes/",
+      "source": "Blogdumoderateur.com",
+      "publishedAt": "2026-11-13T06:00:21Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Feu vert réglementaire pour l'avion spatial Dream Chaser de Sierra Space !",
+      "description": "L'administration fédérale de l'aviation américaine a accordé une licence d'opérateur de véhicule de cinq ans à Sierra Space pour son engin Tenacity. L'autorisation permet jusqu'à quatre rentrées atmos...",
+      "url": "https://www.generation-nt.com/actualites/feu-vert-dream-chaser-sierra-space-2084404",
+      "source": "Génération NT",
+      "publishedAt": "2026-11-13T06:50:01Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }
