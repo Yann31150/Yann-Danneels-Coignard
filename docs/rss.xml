@@ -5,13 +5,21 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Sat, 14 Nov 2026 14:53:15 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 15:29:16 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
+        <item>
+            <title>ChatGPT Wallet permet aux agents IA de faire des achats et bientôt de payer à notre place</title>
+            <link>https://www.macg.co/intelligence-artificielle/2026/11/chatgpt-wallet-permet-aux-agents-ia-de-faire-des-achats-et-bientot-de-payer-notre-place-312395</link>
+            <description><![CDATA[OpenAI franchit une nouvelle étape dans le développement de l’intelligence artificielle agentique. Avec ChatGPT Wallet, ses agents autonomes peuvent désormais aller jusqu’au paiement pour effectuer de...]]></description>
+            <pubDate>Sat, 14 Nov 2026 11:08:14 -0000</pubDate>
+            <guid isPermaLink="true">https://www.macg.co/intelligence-artificielle/2026/11/chatgpt-wallet-permet-aux-agents-ia-de-faire-des-achats-et-bientot-de-payer-notre-place-312395</guid>
+            <source>MacGeneration</source>
+        </item>
         <item>
             <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
             <link>https://www.youtube.com/watch?v=WUzHvB7FICc</link>
@@ -21,12 +29,12 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>Arrêtez de payer ChatGPT: cette IA locale est gratuite &amp;amp; illimité</title>
-            <link>https://www.youtube.com/watch?v=AaLTIk_Nc4k</link>
-            <description><![CDATA[Faites de l'IA votre métier, même sans être technique : https://yassinesdiri.com/A2JjVSc Communauté gratuite, guides, ...]]></description>
-            <pubDate>Wed, 16 Sep 2026 15:00:11 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=AaLTIk_Nc4k</guid>
-            <source>Yassine Sdiri</source>
+            <title>L’industrie de l’IA face à une offensive judiciaire sans précédent</title>
+            <link>https://www.begeek.fr/lindustrie-de-lia-face-a-une-offensive-judiciaire-sans-precedent-442828</link>
+            <description><![CDATA[Une coalition attaque OpenAI, Anthropic, Google, Meta et SpaceXSI. Pour les utilisateurs de ChatGPT, Claude et Gemini, l’enjeu est simple : la suite pourrait ralentir.]]></description>
+            <pubDate>Sat, 14 Nov 2026 13:00:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.begeek.fr/lindustrie-de-lia-face-a-une-offensive-judiciaire-sans-precedent-442828</guid>
+            <source>Begeek.fr</source>
         </item>
         <item>
             <title>Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)</title>
@@ -45,20 +53,28 @@
             <source>SkillHub Ai</source>
         </item>
         <item>
+            <title>C&amp;#39;est quoi le machine learning ? La réponse en dessin | L&amp;#39;IA en 90 sec et quelques</title>
+            <link>https://www.youtube.com/watch?v=mYdU6WlPmn8</link>
+            <description><![CDATA[C'est quoi, le machine learning ? Une branche de l'IA où un programme apprend à repérer des régularités dans les données, ...]]></description>
+            <pubDate>Thu, 29 Oct 2026 15:16:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=mYdU6WlPmn8</guid>
+            <source>IACTOI - IA</source>
+        </item>
+        <item>
+            <title>Formation Power BI #5 — Le modèle de données et le schéma en étoile</title>
+            <link>https://www.youtube.com/watch?v=EpQJRHme6-w</link>
+            <description><![CDATA[Faits, dimensions, relations : la charpente qui rend tous les calculs justes Formation Power BI par Bitdyne. Cas concrets ...]]></description>
+            <pubDate>Sat, 10 Oct 2026 12:18:08 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=EpQJRHme6-w</guid>
+            <source>Bitdyne</source>
+        </item>
+        <item>
             <title>Ton premier projet Data &amp;amp; Machine Learning en Python — projet complet 34 min (débutant, avec code)</title>
             <link>https://www.youtube.com/watch?v=t9dIU3Od0SE</link>
             <description><![CDATA[Ton premier projet complet de Data &amp; Machine Learning en Python, de bout en bout : on charge les données de 398 vraies ...]]></description>
             <pubDate>Fri, 09 Oct 2026 16:51:36 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=t9dIU3Od0SE</guid>
             <source>IA Futura</source>
-        </item>
-        <item>
-            <title>Comprendre l&amp;#39;Intelligence Artificielle : Les bases expliquées simplement</title>
-            <link>https://www.youtube.com/watch?v=yw1bS20gTzc</link>
-            <description><![CDATA[L'Intelligence Artificielle et la Data Science sont partout, mais entre le jargon technique et les termes compliqués, difficile d'y voir ...]]></description>
-            <pubDate>Mon, 12 Oct 2026 15:15:12 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=yw1bS20gTzc</guid>
-            <source>Gab JPM</source>
         </item>
         <item>
             <title>Free Data Science Course in Under 24 Hours | Learn Data Science from Scratch | Simplilearn</title>
@@ -69,36 +85,12 @@
             <source>Simplilearn</source>
         </item>
         <item>
-            <title>IA, Machine Learning &amp;amp; LLM expliqués en 8 minutes</title>
-            <link>https://www.youtube.com/watch?v=XZDaI0YOaCM</link>
-            <description><![CDATA[Pour en savoir plus sur AMD EPYC ...]]></description>
-            <pubDate>Sun, 18 Oct 2026 13:00:02 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=XZDaI0YOaCM</guid>
-            <source>Cookie connecté</source>
-        </item>
-        <item>
-            <title>Machine Learning #1 Introducaion</title>
-            <link>https://www.youtube.com/watch?v=-XbgqgnDQSo</link>
-            <description><![CDATA[MACHINE LEARNING DE A À Z — FORMATION COMPLÈTE ET GRATUITE EN FRANÇAIS | ÉPISODE 1** Tu souhaites ...]]></description>
-            <pubDate>Fri, 13 Nov 2026 11:39:50 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=-XbgqgnDQSo</guid>
-            <source>Eline Math</source>
-        </item>
-        <item>
-            <title>Maîtriser le Big Data  Guide Complet pour Ingénieurs et Étudiants</title>
-            <link>https://www.youtube.com/watch?v=eLkqdrFn5jo</link>
-            <description><![CDATA[Bienvenue sur KRIT Academy ! Dans cette formation présentée par le Prof. Salahddine Krit, découvrez les fondements ...]]></description>
-            <pubDate>Tue, 15 Sep 2026 23:02:31 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=eLkqdrFn5jo</guid>
-            <source>KRIT Academy</source>
-        </item>
-        <item>
-            <title>Projet Power BI complet | Analyse des ventes du début à la fin | Power BI pour débutants | 2026</title>
-            <link>https://www.youtube.com/watch?v=dpqTdoE7dYg</link>
-            <description><![CDATA[Dans cette vidéo, on construit un Dashboard Power BI complet de A à Z : on part d'un fichier de ventes tout sale et on le ...]]></description>
-            <pubDate>Wed, 16 Sep 2026 10:45:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=dpqTdoE7dYg</guid>
-            <source>DATA LAB FR</source>
+            <title>Un métier junior sur cinq exige désormais des compétences en intelligence artificielle</title>
+            <link>https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/un-metier-junior-sur-cinq-exige-desormais-des-competences-en-intelligence-artificielle_8261264.html</link>
+            <description><![CDATA[Pour trouver un emploi, les jeunes doivent de plus en plus maîtriser des compétences liées à l'intelligence artificielle. C'est ce que montre une étude du site internet Jobteaser, spécialisé dans le r...]]></description>
+            <pubDate>Sat, 14 Nov 2026 07:30:43 -0000</pubDate>
+            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/un-metier-junior-sur-cinq-exige-desormais-des-competences-en-intelligence-artificielle_8261264.html</guid>
+            <source>Franceinfo.fr</source>
         </item>
         <item>
             <title>Filtrer une table avec Filter dans Power BI</title>
@@ -141,39 +133,44 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données !</title>
-            <link>https://www.youtube.com/watch?v=pfDnucTFHPE</link>
-            <description><![CDATA[MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données ! Quels graphiques choisir pour ...]]></description>
-            <pubDate>Sun, 01 Nov 2026 16:30:28 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=pfDnucTFHPE</guid>
-            <source>Statistical Models for Social Sciences</source>
+            <title>Data Science Course with Placement Assistance in Bangalore | NUCOT</title>
+            <link>https://www.youtube.com/watch?v=f_JYkE7NeZc</link>
+            <description><![CDATA[Looking for the **best Data Science course in Bangalore**? Start your journey with NUCOT! Build job-ready skills with practical ...]]></description>
+            <pubDate>Mon, 02 Nov 2026 10:49:24 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=f_JYkE7NeZc</guid>
+            <source>Nucot Bangalore</source>
         </item>
         <item>
-            <title>Débat sur les migrations : pourquoi montrer les données ne suffit pas forcément à convaincre</title>
-            <link>https://theconversation.com/debat-sur-les-migrations-pourquoi-montrer-les-donnees-ne-suffit-pas-forcement-a-convaincre-296297</link>
-            <description><![CDATA[Les spécialistes des migrations peuvent se sentir ignorés. Une enquête européenne indique pourtant que les décideurs les écoutent, mais tiennent aussi compte des inquiétudes perçues du public.]]></description>
-            <pubDate>Fri, 13 Nov 2026 11:46:00 -0000</pubDate>
-            <guid isPermaLink="true">https://theconversation.com/debat-sur-les-migrations-pourquoi-montrer-les-donnees-ne-suffit-pas-forcement-a-convaincre-296297</guid>
-            <source>The Conversation Africa</source>
+            <title>Euclid : 900 millions de galaxies observées, le télescope européen s'attaque aux grands mystères de l'Univers</title>
+            <link>https://www.lexpress.fr/sciences-sante/sciences/euclid-le-telescope-europeen-qui-cartographie-lunivers-revele-ses-premieres-donnees-M6FGYOKWPFBY3HVPQOWZGJLKKE/</link>
+            <description><![CDATA[Le télescope créé par l'Agence Spatiale Européenne a dévoilé ses premières données après avoir observé 900 millions de galaxies. Cette cartographie doit aider à percer les principaux mystères de l'uni...]]></description>
+            <pubDate>Sat, 14 Nov 2026 13:53:18 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lexpress.fr/sciences-sante/sciences/euclid-le-telescope-europeen-qui-cartographie-lunivers-revele-ses-premieres-donnees-M6FGYOKWPFBY3HVPQOWZGJLKKE/</guid>
+            <source>L'Express</source>
         </item>
         <item>
-            <title>Black Friday imprimante 3D : de Bambu Lab à Elegoo voici les meilleures offres disponibles</title>
-            <link>https://www.frandroid.com/bons-plans/3321755_black-friday-imprimante-3d-de-bambu-lab-a-elegoo-voici-les-meilleures-offres-disponibles</link>
-            <description><![CDATA[Pour le Black Friday 2026, Elegoo, Bambu Lab, Creality et Anycubic proposent des remises allant de 5 % à 29 % sur sept imprimantes 3D. La sélection couvre des modèles d'entrée de gamme comme des machi...]]></description>
-            <pubDate>Fri, 13 Nov 2026 11:06:36 -0000</pubDate>
-            <guid isPermaLink="true">https://www.frandroid.com/bons-plans/3321755_black-friday-imprimante-3d-de-bambu-lab-a-elegoo-voici-les-meilleures-offres-disponibles</guid>
-            <source>Frandroid</source>
+            <title>Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍</title>
+            <link>https://www.youtube.com/watch?v=Yfbb0q7Mi5E</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 04 Oct 2026 22:23:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Yfbb0q7Mi5E</guid>
+            <source>LaDataFacile</source>
         </item>
         <item>
-            <title>Show HN: Every Australian federal MP's official records, expenses, in one place</title>
-            <link>https://aussiesoapbox.org/mps</link>
-            <description><![CDATA[Article URL: https://www.aussiesoapbox.org/mps
-Comments URL: https://news.ycombinator.com/item?id=50482340
-Points: 2
-# Comments: 1]]></description>
-            <pubDate>Fri, 13 Nov 2026 12:05:29 -0000</pubDate>
-            <guid isPermaLink="true">https://aussiesoapbox.org/mps</guid>
-            <source>Aussiesoapbox.org</source>
+            <title>Apprendre à utiliser Google Colab (Python sans rien installer)</title>
+            <link>https://www.youtube.com/watch?v=7Hmx6FRMows</link>
+            <description><![CDATA[Comment débuter sur Google Colab et coder en Python sans rien installer sur son ordinateur ? Dans ce tutoriel complet pour ...]]></description>
+            <pubDate>Tue, 27 Oct 2026 16:15:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=7Hmx6FRMows</guid>
+            <source>Gab JPM</source>
+        </item>
+        <item>
+            <title>IA et causalité : l'illusion de la pensée</title>
+            <link>https://www.journaldunet.com/intelligence-artificielle/1557895-ia-et-causalite-l-illusion-de-la-pensee/</link>
+            <description><![CDATA[Les IA génératives savent produire des raisonnements convaincants, mais comprennent-elles réellement les liens de causalité ? De nouvelles approches explorent les frontières de l'intelligence artifici...]]></description>
+            <pubDate>Fri, 13 Nov 2026 14:42:51 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/intelligence-artificielle/1557895-ia-et-causalite-l-illusion-de-la-pensee/</guid>
+            <source>JDN</source>
         </item>
     </channel>
 </rss>
