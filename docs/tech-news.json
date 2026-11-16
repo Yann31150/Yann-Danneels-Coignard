@@ -1,36 +1,24 @@
 {
-  "lastUpdate": "2026-11-15T15:29:16.270374",
+  "lastUpdate": "2026-11-16T18:09:19.031832",
   "articles": [
     {
-      "title": "ChatGPT Wallet permet aux agents IA de faire des achats et bientôt de payer à notre place",
-      "description": "OpenAI franchit une nouvelle étape dans le développement de l’intelligence artificielle agentique. Avec ChatGPT Wallet, ses agents autonomes peuvent désormais aller jusqu’au paiement pour effectuer de...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/11/chatgpt-wallet-permet-aux-agents-ia-de-faire-des-achats-et-bientot-de-payer-notre-place-312395",
-      "source": "MacGeneration",
-      "publishedAt": "2026-11-14T11:08:14Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
-      "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
-      "url": "https://www.youtube.com/watch?v=WUzHvB7FICc",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-10T12:06:06Z",
+      "title": "Comment fonctionne vraiment une IA comme ChatGPT ?",
+      "description": "Comment fonctionne vraiment ChatGPT ? Derrière ChatGPT, Claude ou Gemini se cachent des LLM (Large Language ...",
+      "url": "https://www.youtube.com/watch?v=FRyasnVUlqM",
+      "source": "Pentiminax",
+      "publishedAt": "2026-11-16T09:00:20Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "WUzHvB7FICc",
-      "thumbnail": "https://i.ytimg.com/vi/WUzHvB7FICc/hqdefault.jpg"
+      "videoId": "FRyasnVUlqM",
+      "thumbnail": "https://i.ytimg.com/vi/FRyasnVUlqM/hqdefault.jpg"
     },
     {
-      "title": "L’industrie de l’IA face à une offensive judiciaire sans précédent",
-      "description": "Une coalition attaque OpenAI, Anthropic, Google, Meta et SpaceXSI. Pour les utilisateurs de ChatGPT, Claude et Gemini, l’enjeu est simple : la suite pourrait ralentir.",
-      "url": "https://www.begeek.fr/lindustrie-de-lia-face-a-une-offensive-judiciaire-sans-precedent-442828",
-      "source": "Begeek.fr",
-      "publishedAt": "2026-11-14T13:00:54Z",
+      "title": "Pourquoi les IA les plus puissantes échouent encore sur des tâches simples, le chercheur Jean-Claude Heudin répond",
+      "description": "Pour obtenir une intelligence artificielle générale (AGI), deux visions s’opposent : celle des entreprises comme OpenAI ou Anthropic, basée sur une augmentation de la taille des grands modèles de lang...",
+      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-ia-plus-puissantes-echouent-encore-taches-simples-chercheur-jean-claude-heudin-repond-139266/",
+      "source": "Futura",
+      "publishedAt": "2026-11-15T11:29:57Z",
       "category": "ai",
       "hasVideo": false,
       "isYouTube": false,
@@ -98,18 +86,6 @@
       "thumbnail": "https://i.ytimg.com/vi/t9dIU3Od0SE/hqdefault.jpg"
     },
     {
-      "title": "Free Data Science Course in Under 24 Hours | Learn Data Science from Scratch | Simplilearn",
-      "description": "Want to learn Data Science in 24 hours? From Python and Pandas to Machine Learning and dashboards, here is the ultimate ...",
-      "url": "https://www.youtube.com/watch?v=n3t9cngezPc",
-      "source": "Simplilearn",
-      "publishedAt": "2026-10-26T13:00:27Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "n3t9cngezPc",
-      "thumbnail": "https://i.ytimg.com/vi/n3t9cngezPc/hqdefault.jpg"
-    },
-    {
       "title": "Un métier junior sur cinq exige désormais des compétences en intelligence artificielle",
       "description": "Pour trouver un emploi, les jeunes doivent de plus en plus maîtriser des compétences liées à l'intelligence artificielle. C'est ce que montre une étude du site internet Jobteaser, spécialisé dans le r...",
       "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/un-metier-junior-sur-cinq-exige-desormais-des-competences-en-intelligence-artificielle_8261264.html",
@@ -120,6 +96,30 @@
       "isYouTube": false,
       "videoId": "",
       "thumbnail": ""
+    },
+    {
+      "title": "IA, Machine Learning &amp; LLM expliqués en 8 minutes",
+      "description": "Pour en savoir plus sur AMD EPYC ...",
+      "url": "https://www.youtube.com/watch?v=XZDaI0YOaCM",
+      "source": "Cookie connecté",
+      "publishedAt": "2026-10-18T13:00:02Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "XZDaI0YOaCM",
+      "thumbnail": "https://i.ytimg.com/vi/XZDaI0YOaCM/hqdefault.jpg"
+    },
+    {
+      "title": "Machine Learning #1 Introducaion",
+      "description": "MACHINE LEARNING DE A À Z — FORMATION COMPLÈTE ET GRATUITE EN FRANÇAIS | ÉPISODE 1** Tu souhaites ...",
+      "url": "https://www.youtube.com/watch?v=-XbgqgnDQSo",
+      "source": "Eline Math",
+      "publishedAt": "2026-11-13T11:39:50Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "-XbgqgnDQSo",
+      "thumbnail": "https://i.ytimg.com/vi/-XbgqgnDQSo/hqdefault.jpg"
     },
     {
       "title": "Filtrer une table avec Filter dans Power BI",
@@ -144,6 +144,18 @@
       "isYouTube": true,
       "videoId": "qbqaSlk3fho",
       "thumbnail": "https://i.ytimg.com/vi/qbqaSlk3fho/hqdefault.jpg"
+    },
+    {
+      "title": "Power BI : automatisez vos données avec Power Query ! #5/5",
+      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
+      "url": "https://www.youtube.com/watch?v=zLnR5aZNlog",
+      "source": "Morpheus Formation | Excel, Power BI, Data",
+      "publishedAt": "2026-10-22T09:00:30Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "zLnR5aZNlog",
+      "thumbnail": "https://i.ytimg.com/vi/zLnR5aZNlog/hqdefault.jpg"
     },
     {
       "title": "Power Query dans Power BI : découvrez l’interface et les bases (1/5)",
@@ -182,23 +194,11 @@
       "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
-      "title": "Data Science Course with Placement Assistance in Bangalore | NUCOT",
-      "description": "Looking for the **best Data Science course in Bangalore**? Start your journey with NUCOT! Build job-ready skills with practical ...",
-      "url": "https://www.youtube.com/watch?v=f_JYkE7NeZc",
-      "source": "Nucot Bangalore",
-      "publishedAt": "2026-11-02T10:49:24Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "f_JYkE7NeZc",
-      "thumbnail": "https://i.ytimg.com/vi/f_JYkE7NeZc/hqdefault.jpg"
-    },
-    {
-      "title": "Euclid : 900 millions de galaxies observées, le télescope européen s'attaque aux grands mystères de l'Univers",
-      "description": "Le télescope créé par l'Agence Spatiale Européenne a dévoilé ses premières données après avoir observé 900 millions de galaxies. Cette cartographie doit aider à percer les principaux mystères de l'uni...",
-      "url": "https://www.lexpress.fr/sciences-sante/sciences/euclid-le-telescope-europeen-qui-cartographie-lunivers-revele-ses-premieres-donnees-M6FGYOKWPFBY3HVPQOWZGJLKKE/",
-      "source": "L'Express",
-      "publishedAt": "2026-11-14T13:53:18Z",
+      "title": "Donald Trump menace d’effacer des décennies de données climatiques américaines : la France prépare une solution pour les sauver",
+      "description": "La première puissance mondiale a déclaré la guerre aux chiffres qui dérangent : ce sont ceux du climat qui se retrouvent aujourd’hui dans le viseur de l’Oncle Sam. Des chercheurs et des élus français ...",
+      "url": "https://www.presse-citron.net/donald-trump-menace-deffacer-decennies-donnees-climatiques-americaines-france-prepare-solution-pour-sauver/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-11-15T17:02:45Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -218,7 +218,19 @@
       "thumbnail": "https://i.ytimg.com/vi/Yfbb0q7Mi5E/hqdefault.jpg"
     },
     {
-      "title": "Apprendre à utiliser Google Colab (Python sans rien installer)",
+      "title": "Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland",
+      "description": "Comments",
+      "url": "https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala",
+      "source": "Unam.mx",
+      "publishedAt": "2026-11-14T08:58:31Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comment Coder en Python Sans Rien Installer [utiliser Google Colab]",
       "description": "Comment débuter sur Google Colab et coder en Python sans rien installer sur son ordinateur ? Dans ce tutoriel complet pour ...",
       "url": "https://www.youtube.com/watch?v=7Hmx6FRMows",
       "source": "Gab JPM",
@@ -230,11 +242,11 @@
       "thumbnail": "https://i.ytimg.com/vi/7Hmx6FRMows/hqdefault.jpg"
     },
     {
-      "title": "IA et causalité : l'illusion de la pensée",
-      "description": "Les IA génératives savent produire des raisonnements convaincants, mais comprennent-elles réellement les liens de causalité ? De nouvelles approches explorent les frontières de l'intelligence artifici...",
-      "url": "https://www.journaldunet.com/intelligence-artificielle/1557895-ia-et-causalite-l-illusion-de-la-pensee/",
-      "source": "JDN",
-      "publishedAt": "2026-11-13T14:42:51Z",
+      "title": "“Intelligence artificielle : L’ultime invention humaine ?” : retour aux origines d’un rêve",
+      "description": "Ce documentaire remonte à la naissance d’un basculement technologique : une machine plus intelligente que nous. Poignant lorsqu’il parle de ses victimes, il tourne à l’abstraction quand les mathématic...",
+      "url": "https://www.telerama.fr/television/intelligence-artificielle-l-ultime-invention-humaine-retour-aux-origines-d-un-reve_cri-7046848.php",
+      "source": "Telerama.fr",
+      "publishedAt": "2026-11-15T05:30:08Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -242,11 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "« Il faut brûler maman », le nouveau film d’Albert Dupontel, ne manque pas d’effets spéciaux, ni d’IA",
-      "description": "Si la pratique grandit au cinéma, le recours, ici, à une intelligence artificielle dans la nouvelle comédie noire du réalisateur d’« Adieu les cons » n’est pas sans limites. C’est dommage.",
-      "url": "https://www.huffingtonpost.fr/culture/article/il-faut-bruler-maman-le-nouveau-film-d-albert-dupontel-ne-manque-pas-d-effets-speciaux-ni-d-ia-clx1_352089.html",
-      "source": "Le HuffPost",
-      "publishedAt": "2026-11-14T10:47:33Z",
+      "title": "Brouillé avec Donald Trump, Cyril Ramaphosa en visite aux États-Unis pour tenter de séduire les géants de la tech",
+      "description": "En plein froid diplomatique avec les États-Unis, le président sud-africain met le cap sur la Silicon Valley pour attirer des investissements dans le secteur de l’intelligence artificielle. Aucun passa...",
+      "url": "https://www.jeuneafrique.com/1861424/politique/brouille-avec-donald-trump-cyril-ramaphosa-en-visite-aux-etats-unis-pour-tenter-de-seduire-les-geants-de-la-tech/",
+      "source": "Jeune Afrique",
+      "publishedAt": "2026-11-15T07:35:02Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,11 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Liens vagabonds : Comment la génération Z redonne vie aux salles obscures",
-      "description": "Les salles obscures ont encore de beaux jours devant elles. Entre l’omniprésence de TikTok, de YouTube et la montée en puissance de l’intelligence artificielle, beaucoup prédisaient la mort prochaine ...",
-      "url": "https://www.meta-media.fr/2026/11/14/liens-vagabonds-comment-la-generation-z-redonne-vie-aux-salles-obscures.html",
-      "source": "Meta-media.fr",
-      "publishedAt": "2026-11-14T09:34:46Z",
+      "title": "Des IA chinoises auraient été entraînées avec les puces Nvidia les plus puissantes, malgré l'embargo américain",
+      "description": "Des modèles d'IA chinois pourraient avoir été entraînés avec des puces Nvidia auxquelles leurs entreprises n'ont normalement pas accès. C'est ce que suggère une enquête d'Unemployment Labs, qui affirm...",
+      "url": "https://www.macg.co/intelligence-artificielle/2026/11/lembargo-americain-sur-les-puces-nvidia-contourne-des-traces-de-blackwell-retrouvees-dans-des-ia-chinoises-312415",
+      "source": "MacGeneration",
+      "publishedAt": "2026-11-15T15:46:36Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,23 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Portrait – 6 questions fascinantes sur Yann LeCun, le « parrain de l’IA » français qui s’oppose aux LLM",
-      "description": "Il a posé les bases de l’IA moderne, a dit non à Mark Zuckerberg et veut tordre le cou à la Silicon Valley : portrait en six questions de Yann LeCun.",
-      "url": "https://www.presse-citron.net/portrait-6-questions-fascinantes-sur-yann-lecun-le-parrain-de-lia-francais-qui-soppose-aux-llm/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-11-14T09:00:45Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Trois stratégies pour les entreprises et les États face à l’IA, ou pourquoi les décisions de Mistral et de l’Union européenne ne sont pas contradictoires avec la souveraineté numérique",
-      "description": "« L’IA » n’existe pas : il s’agit d’un assemblage de briques technologiques. Pour réussir un produit commercial, il faut choisir un dosage entre spécialisation et généralisation.",
-      "url": "https://theconversation.com/trois-strategies-pour-les-entreprises-et-les-etats-face-a-lia-ou-pourquoi-les-decisions-de-mistral-et-de-lunion-europeenne-ne-sont-pas-contradictoires-avec-la-souverainete-numerique-294280",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-11-14T08:03:53Z",
+      "title": "Affaire Jensen Huang : tout ce qu’on sait sur le scandale Nvidia",
+      "description": "On tente de résumer l'incroyable affaire Jensen Huang. L'ex-patron de Nvidia a eu une liaison avec une femme soupçonnée d'être une espionne pour la Chine. Ces révélations chamboulent l'industrie de l'...",
+      "url": "https://www.frandroid.com/marques/nvidia/3320401_affaire-jensen-huang-tout-ce-quon-sait-sur-le-scandale-nvidia",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-14T11:00:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
