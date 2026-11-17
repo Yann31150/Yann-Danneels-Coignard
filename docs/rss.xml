@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Mon, 16 Nov 2026 18:09:19 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 17:28:49 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -13,20 +13,12 @@
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
         <item>
-            <title>Comment fonctionne vraiment une IA comme ChatGPT ?</title>
-            <link>https://www.youtube.com/watch?v=FRyasnVUlqM</link>
-            <description><![CDATA[Comment fonctionne vraiment ChatGPT ? Derrière ChatGPT, Claude ou Gemini se cachent des LLM (Large Language ...]]></description>
-            <pubDate>Mon, 16 Nov 2026 09:00:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=FRyasnVUlqM</guid>
-            <source>Pentiminax</source>
-        </item>
-        <item>
-            <title>Pourquoi les IA les plus puissantes échouent encore sur des tâches simples, le chercheur Jean-Claude Heudin répond</title>
-            <link>https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-ia-plus-puissantes-echouent-encore-taches-simples-chercheur-jean-claude-heudin-repond-139266/</link>
-            <description><![CDATA[Pour obtenir une intelligence artificielle générale (AGI), deux visions s’opposent : celle des entreprises comme OpenAI ou Anthropic, basée sur une augmentation de la taille des grands modèles de lang...]]></description>
-            <pubDate>Sun, 15 Nov 2026 11:29:57 -0000</pubDate>
-            <guid isPermaLink="true">https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-ia-plus-puissantes-echouent-encore-taches-simples-chercheur-jean-claude-heudin-repond-139266/</guid>
-            <source>Futura</source>
+            <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
+            <link>https://www.youtube.com/watch?v=WUzHvB7FICc</link>
+            <description><![CDATA[Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.]]></description>
+            <pubDate>Sat, 10 Oct 2026 12:06:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=WUzHvB7FICc</guid>
+            <source>Bitdyne</source>
         </item>
         <item>
             <title>Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)</title>
@@ -69,14 +61,6 @@
             <source>IA Futura</source>
         </item>
         <item>
-            <title>Un métier junior sur cinq exige désormais des compétences en intelligence artificielle</title>
-            <link>https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/un-metier-junior-sur-cinq-exige-desormais-des-competences-en-intelligence-artificielle_8261264.html</link>
-            <description><![CDATA[Pour trouver un emploi, les jeunes doivent de plus en plus maîtriser des compétences liées à l'intelligence artificielle. C'est ce que montre une étude du site internet Jobteaser, spécialisé dans le r...]]></description>
-            <pubDate>Sat, 14 Nov 2026 07:30:43 -0000</pubDate>
-            <guid isPermaLink="true">https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/un-metier-junior-sur-cinq-exige-desormais-des-competences-en-intelligence-artificielle_8261264.html</guid>
-            <source>Franceinfo.fr</source>
-        </item>
-        <item>
             <title>IA, Machine Learning &amp;amp; LLM expliqués en 8 minutes</title>
             <link>https://www.youtube.com/watch?v=XZDaI0YOaCM</link>
             <description><![CDATA[Pour en savoir plus sur AMD EPYC ...]]></description>
@@ -93,6 +77,22 @@
             <source>Eline Math</source>
         </item>
         <item>
+            <title>Learn Data Science Full Course 2026 | Data Science for Beginners | Intellipaat</title>
+            <link>https://www.youtube.com/watch?v=Gvv8_Q5Yxmo</link>
+            <description><![CDATA[Enroll for Data Science Course: https://intellipaat.com/data-scientist-course-training/ Book your Free ...]]></description>
+            <pubDate>Sat, 31 Oct 2026 15:15:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Gvv8_Q5Yxmo</guid>
+            <source>Intellipaat</source>
+        </item>
+        <item>
+            <title>COUNT, SUM, AVG et GROUP BY en SQL : construire ses indicateurs (cas concret)</title>
+            <link>https://www.youtube.com/watch?v=nToJkuVKk30</link>
+            <description><![CDATA[Quatrième épisode de la Formation SQL Bitdyne, le cœur du reporting. On transforme des lignes de détail en indicateurs : COUNT ...]]></description>
+            <pubDate>Fri, 09 Oct 2026 12:34:33 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=nToJkuVKk30</guid>
+            <source>Bitdyne</source>
+        </item>
+        <item>
             <title>Filtrer une table avec Filter dans Power BI</title>
             <link>https://www.youtube.com/watch?v=Tmz4jXuBGdI</link>
             <description><![CDATA[Série Power BI - Vidéo 18 : la fonction FILTER en DAX dans Power BI Dans cette vidéo de formation, nous allons découvrir ...]]></description>
@@ -107,14 +107,6 @@
             <pubDate>Sun, 11 Oct 2026 19:30:25 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=qbqaSlk3fho</guid>
             <source>Youmout Cours</source>
-        </item>
-        <item>
-            <title>Power BI : automatisez vos données avec Power Query ! #5/5</title>
-            <link>https://www.youtube.com/watch?v=zLnR5aZNlog</link>
-            <description><![CDATA[Testez votre niveau sur PowerBI et recevez des ressources exclusives ...]]></description>
-            <pubDate>Thu, 22 Oct 2026 09:00:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=zLnR5aZNlog</guid>
-            <source>Morpheus Formation | Excel, Power BI, Data</source>
         </item>
         <item>
             <title>Power Query dans Power BI : découvrez l’interface et les bases (1/5)</title>
@@ -141,12 +133,12 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Donald Trump menace d’effacer des décennies de données climatiques américaines : la France prépare une solution pour les sauver</title>
-            <link>https://www.presse-citron.net/donald-trump-menace-deffacer-decennies-donnees-climatiques-americaines-france-prepare-solution-pour-sauver/</link>
-            <description><![CDATA[La première puissance mondiale a déclaré la guerre aux chiffres qui dérangent : ce sont ceux du climat qui se retrouvent aujourd’hui dans le viseur de l’Oncle Sam. Des chercheurs et des élus français ...]]></description>
-            <pubDate>Sun, 15 Nov 2026 17:02:45 -0000</pubDate>
-            <guid isPermaLink="true">https://www.presse-citron.net/donald-trump-menace-deffacer-decennies-donnees-climatiques-americaines-france-prepare-solution-pour-sauver/</guid>
-            <source>Presse-citron</source>
+            <title>Python for Data Analytics - Full Course for Beginners</title>
+            <link>https://www.youtube.com/watch?v=pQTOqSSMtPg</link>
+            <description><![CDATA[Microsoft Azure - Data Analyst Course ...]]></description>
+            <pubDate>Sat, 07 Nov 2026 14:30:30 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=pQTOqSSMtPg</guid>
+            <source>Top VarSity</source>
         </item>
         <item>
             <title>Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍</title>
@@ -157,20 +149,12 @@
             <source>LaDataFacile</source>
         </item>
         <item>
-            <title>Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland</title>
-            <link>https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala</link>
-            <description><![CDATA[Comments]]></description>
-            <pubDate>Sat, 14 Nov 2026 08:58:31 -0000</pubDate>
-            <guid isPermaLink="true">https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala</guid>
-            <source>Unam.mx</source>
-        </item>
-        <item>
-            <title>Comment Coder en Python Sans Rien Installer [utiliser Google Colab]</title>
-            <link>https://www.youtube.com/watch?v=7Hmx6FRMows</link>
-            <description><![CDATA[Comment débuter sur Google Colab et coder en Python sans rien installer sur son ordinateur ? Dans ce tutoriel complet pour ...]]></description>
-            <pubDate>Tue, 27 Oct 2026 16:15:31 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=7Hmx6FRMows</guid>
-            <source>Gab JPM</source>
+            <title>Python for Data Analysis Complete Course | With Projects | Edition 2027 #python</title>
+            <link>https://www.youtube.com/watch?v=yy7K0nbvSuE</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Mon, 05 Oct 2026 12:46:01 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=yy7K0nbvSuE</guid>
+            <source>Data Tutorials</source>
         </item>
     </channel>
 </rss>

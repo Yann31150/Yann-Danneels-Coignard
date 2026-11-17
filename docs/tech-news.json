@@ -1,29 +1,17 @@
 {
-  "lastUpdate": "2026-11-16T18:09:19.031832",
+  "lastUpdate": "2026-11-17T17:28:49.747483",
   "articles": [
     {
-      "title": "Comment fonctionne vraiment une IA comme ChatGPT ?",
-      "description": "Comment fonctionne vraiment ChatGPT ? Derrière ChatGPT, Claude ou Gemini se cachent des LLM (Large Language ...",
-      "url": "https://www.youtube.com/watch?v=FRyasnVUlqM",
-      "source": "Pentiminax",
-      "publishedAt": "2026-11-16T09:00:20Z",
+      "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
+      "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
+      "url": "https://www.youtube.com/watch?v=WUzHvB7FICc",
+      "source": "Bitdyne",
+      "publishedAt": "2026-10-10T12:06:06Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "FRyasnVUlqM",
-      "thumbnail": "https://i.ytimg.com/vi/FRyasnVUlqM/hqdefault.jpg"
-    },
-    {
-      "title": "Pourquoi les IA les plus puissantes échouent encore sur des tâches simples, le chercheur Jean-Claude Heudin répond",
-      "description": "Pour obtenir une intelligence artificielle générale (AGI), deux visions s’opposent : celle des entreprises comme OpenAI ou Anthropic, basée sur une augmentation de la taille des grands modèles de lang...",
-      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-ia-plus-puissantes-echouent-encore-taches-simples-chercheur-jean-claude-heudin-repond-139266/",
-      "source": "Futura",
-      "publishedAt": "2026-11-15T11:29:57Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "videoId": "WUzHvB7FICc",
+      "thumbnail": "https://i.ytimg.com/vi/WUzHvB7FICc/hqdefault.jpg"
     },
     {
       "title": "Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)",
@@ -86,18 +74,6 @@
       "thumbnail": "https://i.ytimg.com/vi/t9dIU3Od0SE/hqdefault.jpg"
     },
     {
-      "title": "Un métier junior sur cinq exige désormais des compétences en intelligence artificielle",
-      "description": "Pour trouver un emploi, les jeunes doivent de plus en plus maîtriser des compétences liées à l'intelligence artificielle. C'est ce que montre une étude du site internet Jobteaser, spécialisé dans le r...",
-      "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/un-metier-junior-sur-cinq-exige-desormais-des-competences-en-intelligence-artificielle_8261264.html",
-      "source": "Franceinfo.fr",
-      "publishedAt": "2026-11-14T07:30:43Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "IA, Machine Learning &amp; LLM expliqués en 8 minutes",
       "description": "Pour en savoir plus sur AMD EPYC ...",
       "url": "https://www.youtube.com/watch?v=XZDaI0YOaCM",
@@ -122,6 +98,30 @@
       "thumbnail": "https://i.ytimg.com/vi/-XbgqgnDQSo/hqdefault.jpg"
     },
     {
+      "title": "Learn Data Science Full Course 2026 | Data Science for Beginners | Intellipaat",
+      "description": "Enroll for Data Science Course: https://intellipaat.com/data-scientist-course-training/ Book your Free ...",
+      "url": "https://www.youtube.com/watch?v=Gvv8_Q5Yxmo",
+      "source": "Intellipaat",
+      "publishedAt": "2026-10-31T15:15:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "Gvv8_Q5Yxmo",
+      "thumbnail": "https://i.ytimg.com/vi/Gvv8_Q5Yxmo/hqdefault.jpg"
+    },
+    {
+      "title": "COUNT, SUM, AVG et GROUP BY en SQL : construire ses indicateurs (cas concret)",
+      "description": "Quatrième épisode de la Formation SQL Bitdyne, le cœur du reporting. On transforme des lignes de détail en indicateurs : COUNT ...",
+      "url": "https://www.youtube.com/watch?v=nToJkuVKk30",
+      "source": "Bitdyne",
+      "publishedAt": "2026-10-09T12:34:33Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "nToJkuVKk30",
+      "thumbnail": "https://i.ytimg.com/vi/nToJkuVKk30/hqdefault.jpg"
+    },
+    {
       "title": "Filtrer une table avec Filter dans Power BI",
       "description": "Série Power BI - Vidéo 18 : la fonction FILTER en DAX dans Power BI Dans cette vidéo de formation, nous allons découvrir ...",
       "url": "https://www.youtube.com/watch?v=Tmz4jXuBGdI",
@@ -144,18 +144,6 @@
       "isYouTube": true,
       "videoId": "qbqaSlk3fho",
       "thumbnail": "https://i.ytimg.com/vi/qbqaSlk3fho/hqdefault.jpg"
-    },
-    {
-      "title": "Power BI : automatisez vos données avec Power Query ! #5/5",
-      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
-      "url": "https://www.youtube.com/watch?v=zLnR5aZNlog",
-      "source": "Morpheus Formation | Excel, Power BI, Data",
-      "publishedAt": "2026-10-22T09:00:30Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "zLnR5aZNlog",
-      "thumbnail": "https://i.ytimg.com/vi/zLnR5aZNlog/hqdefault.jpg"
     },
     {
       "title": "Power Query dans Power BI : découvrez l’interface et les bases (1/5)",
@@ -194,16 +182,16 @@
       "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
-      "title": "Donald Trump menace d’effacer des décennies de données climatiques américaines : la France prépare une solution pour les sauver",
-      "description": "La première puissance mondiale a déclaré la guerre aux chiffres qui dérangent : ce sont ceux du climat qui se retrouvent aujourd’hui dans le viseur de l’Oncle Sam. Des chercheurs et des élus français ...",
-      "url": "https://www.presse-citron.net/donald-trump-menace-deffacer-decennies-donnees-climatiques-americaines-france-prepare-solution-pour-sauver/",
-      "source": "Presse-citron",
-      "publishedAt": "2026-11-15T17:02:45Z",
+      "title": "Python for Data Analytics - Full Course for Beginners",
+      "description": "Microsoft Azure - Data Analyst Course ...",
+      "url": "https://www.youtube.com/watch?v=pQTOqSSMtPg",
+      "source": "Top VarSity",
+      "publishedAt": "2026-11-07T14:30:30Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "pQTOqSSMtPg",
+      "thumbnail": "https://i.ytimg.com/vi/pQTOqSSMtPg/hqdefault.jpg"
     },
     {
       "title": "Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍",
@@ -218,76 +206,16 @@
       "thumbnail": "https://i.ytimg.com/vi/Yfbb0q7Mi5E/hqdefault.jpg"
     },
     {
-      "title": "Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland",
-      "description": "Comments",
-      "url": "https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala",
-      "source": "Unam.mx",
-      "publishedAt": "2026-11-14T08:58:31Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Comment Coder en Python Sans Rien Installer [utiliser Google Colab]",
-      "description": "Comment débuter sur Google Colab et coder en Python sans rien installer sur son ordinateur ? Dans ce tutoriel complet pour ...",
-      "url": "https://www.youtube.com/watch?v=7Hmx6FRMows",
-      "source": "Gab JPM",
-      "publishedAt": "2026-10-27T16:15:31Z",
+      "title": "Python for Data Analysis Complete Course | With Projects | Edition 2027 #python",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=yy7K0nbvSuE",
+      "source": "Data Tutorials",
+      "publishedAt": "2026-10-05T12:46:01Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "7Hmx6FRMows",
-      "thumbnail": "https://i.ytimg.com/vi/7Hmx6FRMows/hqdefault.jpg"
-    },
-    {
-      "title": "“Intelligence artificielle : L’ultime invention humaine ?” : retour aux origines d’un rêve",
-      "description": "Ce documentaire remonte à la naissance d’un basculement technologique : une machine plus intelligente que nous. Poignant lorsqu’il parle de ses victimes, il tourne à l’abstraction quand les mathématic...",
-      "url": "https://www.telerama.fr/television/intelligence-artificielle-l-ultime-invention-humaine-retour-aux-origines-d-un-reve_cri-7046848.php",
-      "source": "Telerama.fr",
-      "publishedAt": "2026-11-15T05:30:08Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Brouillé avec Donald Trump, Cyril Ramaphosa en visite aux États-Unis pour tenter de séduire les géants de la tech",
-      "description": "En plein froid diplomatique avec les États-Unis, le président sud-africain met le cap sur la Silicon Valley pour attirer des investissements dans le secteur de l’intelligence artificielle. Aucun passa...",
-      "url": "https://www.jeuneafrique.com/1861424/politique/brouille-avec-donald-trump-cyril-ramaphosa-en-visite-aux-etats-unis-pour-tenter-de-seduire-les-geants-de-la-tech/",
-      "source": "Jeune Afrique",
-      "publishedAt": "2026-11-15T07:35:02Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Des IA chinoises auraient été entraînées avec les puces Nvidia les plus puissantes, malgré l'embargo américain",
-      "description": "Des modèles d'IA chinois pourraient avoir été entraînés avec des puces Nvidia auxquelles leurs entreprises n'ont normalement pas accès. C'est ce que suggère une enquête d'Unemployment Labs, qui affirm...",
-      "url": "https://www.macg.co/intelligence-artificielle/2026/11/lembargo-americain-sur-les-puces-nvidia-contourne-des-traces-de-blackwell-retrouvees-dans-des-ia-chinoises-312415",
-      "source": "MacGeneration",
-      "publishedAt": "2026-11-15T15:46:36Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Affaire Jensen Huang : tout ce qu’on sait sur le scandale Nvidia",
-      "description": "On tente de résumer l'incroyable affaire Jensen Huang. L'ex-patron de Nvidia a eu une liaison avec une femme soupçonnée d'être une espionne pour la Chine. Ces révélations chamboulent l'industrie de l'...",
-      "url": "https://www.frandroid.com/marques/nvidia/3320401_affaire-jensen-huang-tout-ce-quon-sait-sur-le-scandale-nvidia",
-      "source": "Frandroid",
-      "publishedAt": "2026-11-14T11:00:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "videoId": "yy7K0nbvSuE",
+      "thumbnail": "https://i.ytimg.com/vi/yy7K0nbvSuE/hqdefault.jpg"
     }
   ]
 }
