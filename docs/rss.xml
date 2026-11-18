@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 17 Nov 2026 17:28:49 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 17:03:15 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>Formation Power BI #1 — La Business Intelligence, c&amp;#39;est quoi ?</title>
-            <link>https://www.youtube.com/watch?v=WUzHvB7FICc</link>
-            <description><![CDATA[Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.]]></description>
-            <pubDate>Sat, 10 Oct 2026 12:06:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=WUzHvB7FICc</guid>
-            <source>Bitdyne</source>
-        </item>
         <item>
             <title>Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)</title>
             <link>https://www.youtube.com/watch?v=1ynUnP7VHsE</link>
@@ -29,12 +21,28 @@
             <source>Alegria Group</source>
         </item>
         <item>
+            <title>Arrêtez de payer pour l&amp;#39;IA ! Le guide non exhaustif en 8 outils 100% gratuits !</title>
+            <link>https://www.youtube.com/watch?v=p_fL3T4QVFg</link>
+            <description><![CDATA[Arrêtez de payer pour l'IA ! Le guide non exhaustif en 8 outils 100% gratuits ! No bullshit ! DeepSeek, ChatGPT, Qwen Chat, Kimi, ...]]></description>
+            <pubDate>Wed, 18 Nov 2026 10:33:55 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=p_fL3T4QVFg</guid>
+            <source>Barthélémy Nobili</source>
+        </item>
+        <item>
             <title>C&amp;#39;est quoi le machine learning ? Expliqué simplement</title>
             <link>https://www.youtube.com/watch?v=C0wcMnJXUSY</link>
             <description><![CDATA[Le machine learning (apprentissage automatique) expliqué simplement : l'informatique classique suit des règles écrites à la main, ...]]></description>
             <pubDate>Tue, 27 Oct 2026 20:02:31 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=C0wcMnJXUSY</guid>
             <source>SkillHub Ai</source>
+        </item>
+        <item>
+            <title>Power BI : des tableaux de bord clairs pour vos décideurs</title>
+            <link>https://www.youtube.com/watch?v=eP5EploNeL4</link>
+            <description><![CDATA[Power BI : des tableaux de bord qui parlent à vos décideurs. Préparation des données avec Power Query, modélisation, calculs ...]]></description>
+            <pubDate>Wed, 18 Nov 2026 15:00:17 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=eP5EploNeL4</guid>
+            <source>Doussou Formation</source>
         </item>
         <item>
             <title>C&amp;#39;est quoi le machine learning ? La réponse en dessin | L&amp;#39;IA en 90 sec et quelques</title>
@@ -77,20 +85,12 @@
             <source>Eline Math</source>
         </item>
         <item>
-            <title>Learn Data Science Full Course 2026 | Data Science for Beginners | Intellipaat</title>
-            <link>https://www.youtube.com/watch?v=Gvv8_Q5Yxmo</link>
-            <description><![CDATA[Enroll for Data Science Course: https://intellipaat.com/data-scientist-course-training/ Book your Free ...]]></description>
-            <pubDate>Sat, 31 Oct 2026 15:15:06 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Gvv8_Q5Yxmo</guid>
-            <source>Intellipaat</source>
-        </item>
-        <item>
-            <title>COUNT, SUM, AVG et GROUP BY en SQL : construire ses indicateurs (cas concret)</title>
-            <link>https://www.youtube.com/watch?v=nToJkuVKk30</link>
-            <description><![CDATA[Quatrième épisode de la Formation SQL Bitdyne, le cœur du reporting. On transforme des lignes de détail en indicateurs : COUNT ...]]></description>
-            <pubDate>Fri, 09 Oct 2026 12:34:33 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=nToJkuVKk30</guid>
-            <source>Bitdyne</source>
+            <title>Apprendre Python : variables, listes, tuples et dictionnaires (les bases)</title>
+            <link>https://www.youtube.com/watch?v=DhIsBnXkwYg</link>
+            <description><![CDATA[Avant NumPy, pandas ou le machine learning, il y a les bases. Pourquoi Python s'est imposé pour la data, et comment il stocke ...]]></description>
+            <pubDate>Tue, 03 Nov 2026 16:00:15 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=DhIsBnXkwYg</guid>
+            <source>Romain Willmann</source>
         </item>
         <item>
             <title>Filtrer une table avec Filter dans Power BI</title>
@@ -99,6 +99,14 @@
             <pubDate>Sun, 18 Oct 2026 18:54:42 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Tmz4jXuBGdI</guid>
             <source>Devenir Expert Data</source>
+        </item>
+        <item>
+            <title>Découvrir SQL : interroger une base de données (débutant, cas concret)</title>
+            <link>https://www.youtube.com/watch?v=3_q1VH5GTDI</link>
+            <description><![CDATA[Premier épisode de la Formation SQL Bitdyne. Le problème que résout SQL : accéder soi-même à l'information qui dort dans les ...]]></description>
+            <pubDate>Fri, 09 Oct 2026 12:23:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=3_q1VH5GTDI</guid>
+            <source>Bitdyne</source>
         </item>
         <item>
             <title>Power BI : créer son premier graphique à partir d’Excel</title>
@@ -133,28 +141,20 @@
             <source>Le Decodeur</source>
         </item>
         <item>
-            <title>Python for Data Analytics - Full Course for Beginners</title>
-            <link>https://www.youtube.com/watch?v=pQTOqSSMtPg</link>
-            <description><![CDATA[Microsoft Azure - Data Analyst Course ...]]></description>
-            <pubDate>Sat, 07 Nov 2026 14:30:30 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=pQTOqSSMtPg</guid>
-            <source>Top VarSity</source>
+            <title>MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données !</title>
+            <link>https://www.youtube.com/watch?v=pfDnucTFHPE</link>
+            <description><![CDATA[MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données ! Quels graphiques choisir pour ...]]></description>
+            <pubDate>Sun, 01 Nov 2026 16:30:28 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=pfDnucTFHPE</guid>
+            <source>Statistical Models for Social Sciences</source>
         </item>
         <item>
-            <title>Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍</title>
-            <link>https://www.youtube.com/watch?v=Yfbb0q7Mi5E</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Sun, 04 Oct 2026 22:23:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Yfbb0q7Mi5E</guid>
-            <source>LaDataFacile</source>
-        </item>
-        <item>
-            <title>Python for Data Analysis Complete Course | With Projects | Edition 2027 #python</title>
-            <link>https://www.youtube.com/watch?v=yy7K0nbvSuE</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Mon, 05 Oct 2026 12:46:01 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=yy7K0nbvSuE</guid>
-            <source>Data Tutorials</source>
+            <title>Comment Coder en Python Sans Rien Installer [utiliser Google Colab]</title>
+            <link>https://www.youtube.com/watch?v=7Hmx6FRMows</link>
+            <description><![CDATA[Comment débuter sur Google Colab et coder en Python sans rien installer sur son ordinateur ? Dans ce tutoriel complet pour ...]]></description>
+            <pubDate>Tue, 27 Oct 2026 16:15:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=7Hmx6FRMows</guid>
+            <source>Gab JPM</source>
         </item>
     </channel>
 </rss>

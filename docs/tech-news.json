@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-11-17T17:28:49.747483",
+  "lastUpdate": "2026-11-18T17:03:15.496494",
   "articles": [
-    {
-      "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
-      "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
-      "url": "https://www.youtube.com/watch?v=WUzHvB7FICc",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-10T12:06:06Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "WUzHvB7FICc",
-      "thumbnail": "https://i.ytimg.com/vi/WUzHvB7FICc/hqdefault.jpg"
-    },
     {
       "title": "Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)",
       "description": "Tu veux être accompagné pour passer à l'action ? Réserve 30 minutes avec un coach Alegria ...",
@@ -26,6 +14,18 @@
       "thumbnail": "https://i.ytimg.com/vi/1ynUnP7VHsE/hqdefault.jpg"
     },
     {
+      "title": "Arrêtez de payer pour l&#39;IA ! Le guide non exhaustif en 8 outils 100% gratuits !",
+      "description": "Arrêtez de payer pour l'IA ! Le guide non exhaustif en 8 outils 100% gratuits ! No bullshit ! DeepSeek, ChatGPT, Qwen Chat, Kimi, ...",
+      "url": "https://www.youtube.com/watch?v=p_fL3T4QVFg",
+      "source": "Barthélémy Nobili",
+      "publishedAt": "2026-11-18T10:33:55Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "p_fL3T4QVFg",
+      "thumbnail": "https://i.ytimg.com/vi/p_fL3T4QVFg/hqdefault.jpg"
+    },
+    {
       "title": "C&#39;est quoi le machine learning ? Expliqué simplement",
       "description": "Le machine learning (apprentissage automatique) expliqué simplement : l'informatique classique suit des règles écrites à la main, ...",
       "url": "https://www.youtube.com/watch?v=C0wcMnJXUSY",
@@ -36,6 +36,18 @@
       "isYouTube": true,
       "videoId": "C0wcMnJXUSY",
       "thumbnail": "https://i.ytimg.com/vi/C0wcMnJXUSY/hqdefault.jpg"
+    },
+    {
+      "title": "Power BI : des tableaux de bord clairs pour vos décideurs",
+      "description": "Power BI : des tableaux de bord qui parlent à vos décideurs. Préparation des données avec Power Query, modélisation, calculs ...",
+      "url": "https://www.youtube.com/watch?v=eP5EploNeL4",
+      "source": "Doussou Formation",
+      "publishedAt": "2026-11-18T15:00:17Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "eP5EploNeL4",
+      "thumbnail": "https://i.ytimg.com/vi/eP5EploNeL4/hqdefault.jpg"
     },
     {
       "title": "C&#39;est quoi le machine learning ? La réponse en dessin | L&#39;IA en 90 sec et quelques",
@@ -98,28 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/-XbgqgnDQSo/hqdefault.jpg"
     },
     {
-      "title": "Learn Data Science Full Course 2026 | Data Science for Beginners | Intellipaat",
-      "description": "Enroll for Data Science Course: https://intellipaat.com/data-scientist-course-training/ Book your Free ...",
-      "url": "https://www.youtube.com/watch?v=Gvv8_Q5Yxmo",
-      "source": "Intellipaat",
-      "publishedAt": "2026-10-31T15:15:06Z",
+      "title": "Apprendre Python : variables, listes, tuples et dictionnaires (les bases)",
+      "description": "Avant NumPy, pandas ou le machine learning, il y a les bases. Pourquoi Python s'est imposé pour la data, et comment il stocke ...",
+      "url": "https://www.youtube.com/watch?v=DhIsBnXkwYg",
+      "source": "Romain Willmann",
+      "publishedAt": "2026-11-03T16:00:15Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Gvv8_Q5Yxmo",
-      "thumbnail": "https://i.ytimg.com/vi/Gvv8_Q5Yxmo/hqdefault.jpg"
-    },
-    {
-      "title": "COUNT, SUM, AVG et GROUP BY en SQL : construire ses indicateurs (cas concret)",
-      "description": "Quatrième épisode de la Formation SQL Bitdyne, le cœur du reporting. On transforme des lignes de détail en indicateurs : COUNT ...",
-      "url": "https://www.youtube.com/watch?v=nToJkuVKk30",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-09T12:34:33Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "nToJkuVKk30",
-      "thumbnail": "https://i.ytimg.com/vi/nToJkuVKk30/hqdefault.jpg"
+      "videoId": "DhIsBnXkwYg",
+      "thumbnail": "https://i.ytimg.com/vi/DhIsBnXkwYg/hqdefault.jpg"
     },
     {
       "title": "Filtrer une table avec Filter dans Power BI",
@@ -132,6 +132,18 @@
       "isYouTube": true,
       "videoId": "Tmz4jXuBGdI",
       "thumbnail": "https://i.ytimg.com/vi/Tmz4jXuBGdI/hqdefault.jpg"
+    },
+    {
+      "title": "Découvrir SQL : interroger une base de données (débutant, cas concret)",
+      "description": "Premier épisode de la Formation SQL Bitdyne. Le problème que résout SQL : accéder soi-même à l'information qui dort dans les ...",
+      "url": "https://www.youtube.com/watch?v=3_q1VH5GTDI",
+      "source": "Bitdyne",
+      "publishedAt": "2026-10-09T12:23:00Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "3_q1VH5GTDI",
+      "thumbnail": "https://i.ytimg.com/vi/3_q1VH5GTDI/hqdefault.jpg"
     },
     {
       "title": "Power BI : créer son premier graphique à partir d’Excel",
@@ -182,40 +194,28 @@
       "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
-      "title": "Python for Data Analytics - Full Course for Beginners",
-      "description": "Microsoft Azure - Data Analyst Course ...",
-      "url": "https://www.youtube.com/watch?v=pQTOqSSMtPg",
-      "source": "Top VarSity",
-      "publishedAt": "2026-11-07T14:30:30Z",
+      "title": "MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données !",
+      "description": "MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données ! Quels graphiques choisir pour ...",
+      "url": "https://www.youtube.com/watch?v=pfDnucTFHPE",
+      "source": "Statistical Models for Social Sciences",
+      "publishedAt": "2026-11-01T16:30:28Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "pQTOqSSMtPg",
-      "thumbnail": "https://i.ytimg.com/vi/pQTOqSSMtPg/hqdefault.jpg"
+      "videoId": "pfDnucTFHPE",
+      "thumbnail": "https://i.ytimg.com/vi/pfDnucTFHPE/hqdefault.jpg"
     },
     {
-      "title": "Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=Yfbb0q7Mi5E",
-      "source": "LaDataFacile",
-      "publishedAt": "2026-10-04T22:23:54Z",
+      "title": "Comment Coder en Python Sans Rien Installer [utiliser Google Colab]",
+      "description": "Comment débuter sur Google Colab et coder en Python sans rien installer sur son ordinateur ? Dans ce tutoriel complet pour ...",
+      "url": "https://www.youtube.com/watch?v=7Hmx6FRMows",
+      "source": "Gab JPM",
+      "publishedAt": "2026-10-27T16:15:31Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "Yfbb0q7Mi5E",
-      "thumbnail": "https://i.ytimg.com/vi/Yfbb0q7Mi5E/hqdefault.jpg"
-    },
-    {
-      "title": "Python for Data Analysis Complete Course | With Projects | Edition 2027 #python",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=yy7K0nbvSuE",
-      "source": "Data Tutorials",
-      "publishedAt": "2026-10-05T12:46:01Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "yy7K0nbvSuE",
-      "thumbnail": "https://i.ytimg.com/vi/yy7K0nbvSuE/hqdefault.jpg"
+      "videoId": "7Hmx6FRMows",
+      "thumbnail": "https://i.ytimg.com/vi/7Hmx6FRMows/hqdefault.jpg"
     }
   ]
 }
