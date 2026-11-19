@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-11-18T17:03:15.496494",
+  "lastUpdate": "2026-11-19T17:11:17.495197",
   "articles": [
+    {
+      "title": "L&#39;outil GRATUIT qui retire la censure des IA ! 🔥 🤯 #ia #aitools #ai #chatgpt  #astucesia #tech",
+      "description": "Et si ton IA arrêtait de te répondre « Désolé, je ne peux pas t'aider » ? Un outil gratuit et open source sur GitHub pourrait bien ...",
+      "url": "https://www.youtube.com/watch?v=zKcutkZnMgs",
+      "source": "IA Boss ",
+      "publishedAt": "2026-10-13T12:48:47Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "zKcutkZnMgs",
+      "thumbnail": "https://i.ytimg.com/vi/zKcutkZnMgs/hqdefault.jpg"
+    },
     {
       "title": "Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)",
       "description": "Tu veux être accompagné pour passer à l'action ? Réserve 30 minutes avec un coach Alegria ...",
@@ -14,18 +26,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1ynUnP7VHsE/hqdefault.jpg"
     },
     {
-      "title": "Arrêtez de payer pour l&#39;IA ! Le guide non exhaustif en 8 outils 100% gratuits !",
-      "description": "Arrêtez de payer pour l'IA ! Le guide non exhaustif en 8 outils 100% gratuits ! No bullshit ! DeepSeek, ChatGPT, Qwen Chat, Kimi, ...",
-      "url": "https://www.youtube.com/watch?v=p_fL3T4QVFg",
-      "source": "Barthélémy Nobili",
-      "publishedAt": "2026-11-18T10:33:55Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "p_fL3T4QVFg",
-      "thumbnail": "https://i.ytimg.com/vi/p_fL3T4QVFg/hqdefault.jpg"
-    },
-    {
       "title": "C&#39;est quoi le machine learning ? Expliqué simplement",
       "description": "Le machine learning (apprentissage automatique) expliqué simplement : l'informatique classique suit des règles écrites à la main, ...",
       "url": "https://www.youtube.com/watch?v=C0wcMnJXUSY",
@@ -36,18 +36,6 @@
       "isYouTube": true,
       "videoId": "C0wcMnJXUSY",
       "thumbnail": "https://i.ytimg.com/vi/C0wcMnJXUSY/hqdefault.jpg"
-    },
-    {
-      "title": "Power BI : des tableaux de bord clairs pour vos décideurs",
-      "description": "Power BI : des tableaux de bord qui parlent à vos décideurs. Préparation des données avec Power Query, modélisation, calculs ...",
-      "url": "https://www.youtube.com/watch?v=eP5EploNeL4",
-      "source": "Doussou Formation",
-      "publishedAt": "2026-11-18T15:00:17Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "eP5EploNeL4",
-      "thumbnail": "https://i.ytimg.com/vi/eP5EploNeL4/hqdefault.jpg"
     },
     {
       "title": "C&#39;est quoi le machine learning ? La réponse en dessin | L&#39;IA en 90 sec et quelques",
@@ -122,6 +110,18 @@
       "thumbnail": "https://i.ytimg.com/vi/DhIsBnXkwYg/hqdefault.jpg"
     },
     {
+      "title": "Clustering de variables avec le package « clustvartools » pour Python",
+      "description": "Machine learning. Data science. Le package « clustvartools » pour Python propose une panoplie clé en main d'algorithmes de ...",
+      "url": "https://www.youtube.com/watch?v=feIiOQVPPuM",
+      "source": "MASTER 2 SISE DATA SCIENCE",
+      "publishedAt": "2026-10-15T14:33:41Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "feIiOQVPPuM",
+      "thumbnail": "https://i.ytimg.com/vi/feIiOQVPPuM/hqdefault.jpg"
+    },
+    {
       "title": "Filtrer une table avec Filter dans Power BI",
       "description": "Série Power BI - Vidéo 18 : la fonction FILTER en DAX dans Power BI Dans cette vidéo de formation, nous allons découvrir ...",
       "url": "https://www.youtube.com/watch?v=Tmz4jXuBGdI",
@@ -134,18 +134,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Tmz4jXuBGdI/hqdefault.jpg"
     },
     {
-      "title": "Découvrir SQL : interroger une base de données (débutant, cas concret)",
-      "description": "Premier épisode de la Formation SQL Bitdyne. Le problème que résout SQL : accéder soi-même à l'information qui dort dans les ...",
-      "url": "https://www.youtube.com/watch?v=3_q1VH5GTDI",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-09T12:23:00Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "3_q1VH5GTDI",
-      "thumbnail": "https://i.ytimg.com/vi/3_q1VH5GTDI/hqdefault.jpg"
-    },
-    {
       "title": "Power BI : créer son premier graphique à partir d’Excel",
       "description": "Découvrez comment importer un fichier Excel dans Power BI et créer votre première visualisation. Dans cet exemple consacré au ...",
       "url": "https://www.youtube.com/watch?v=qbqaSlk3fho",
@@ -156,6 +144,30 @@
       "isYouTube": true,
       "videoId": "qbqaSlk3fho",
       "thumbnail": "https://i.ytimg.com/vi/qbqaSlk3fho/hqdefault.jpg"
+    },
+    {
+      "title": "Power BI : automatisez vos données avec Power Query ! #5/5",
+      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
+      "url": "https://www.youtube.com/watch?v=zLnR5aZNlog",
+      "source": "Morpheus Formation | Excel, Power BI, Data",
+      "publishedAt": "2026-10-22T09:00:30Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "zLnR5aZNlog",
+      "thumbnail": "https://i.ytimg.com/vi/zLnR5aZNlog/hqdefault.jpg"
+    },
+    {
+      "title": "Les 4 Types d&#39;Analyse de Données en Python Avec Projets",
+      "description": "Découvrez les 4 types d'analyse de données en Python à travers des projets concrets et pratiques ! De l'analyse descriptive à ...",
+      "url": "https://www.youtube.com/watch?v=mxXyviELh0s",
+      "source": "RifOudka",
+      "publishedAt": "2026-10-30T00:15:20Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "mxXyviELh0s",
+      "thumbnail": "https://i.ytimg.com/vi/mxXyviELh0s/hqdefault.jpg"
     },
     {
       "title": "Power Query dans Power BI : découvrez l’interface et les bases (1/5)",
@@ -194,28 +206,16 @@
       "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
-      "title": "MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données !",
-      "description": "MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données ! Quels graphiques choisir pour ...",
-      "url": "https://www.youtube.com/watch?v=pfDnucTFHPE",
-      "source": "Statistical Models for Social Sciences",
-      "publishedAt": "2026-11-01T16:30:28Z",
+      "title": "Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Yfbb0q7Mi5E",
+      "source": "LaDataFacile",
+      "publishedAt": "2026-10-04T22:23:54Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "pfDnucTFHPE",
-      "thumbnail": "https://i.ytimg.com/vi/pfDnucTFHPE/hqdefault.jpg"
-    },
-    {
-      "title": "Comment Coder en Python Sans Rien Installer [utiliser Google Colab]",
-      "description": "Comment débuter sur Google Colab et coder en Python sans rien installer sur son ordinateur ? Dans ce tutoriel complet pour ...",
-      "url": "https://www.youtube.com/watch?v=7Hmx6FRMows",
-      "source": "Gab JPM",
-      "publishedAt": "2026-10-27T16:15:31Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "7Hmx6FRMows",
-      "thumbnail": "https://i.ytimg.com/vi/7Hmx6FRMows/hqdefault.jpg"
+      "videoId": "Yfbb0q7Mi5E",
+      "thumbnail": "https://i.ytimg.com/vi/Yfbb0q7Mi5E/hqdefault.jpg"
     }
   ]
 }
