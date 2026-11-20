@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-11-19T17:11:17.495197",
+  "lastUpdate": "2026-11-20T16:49:58.008739",
   "articles": [
-    {
-      "title": "L&#39;outil GRATUIT qui retire la censure des IA ! 🔥 🤯 #ia #aitools #ai #chatgpt  #astucesia #tech",
-      "description": "Et si ton IA arrêtait de te répondre « Désolé, je ne peux pas t'aider » ? Un outil gratuit et open source sur GitHub pourrait bien ...",
-      "url": "https://www.youtube.com/watch?v=zKcutkZnMgs",
-      "source": "IA Boss ",
-      "publishedAt": "2026-10-13T12:48:47Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "zKcutkZnMgs",
-      "thumbnail": "https://i.ytimg.com/vi/zKcutkZnMgs/hqdefault.jpg"
-    },
     {
       "title": "Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)",
       "description": "Tu veux être accompagné pour passer à l'action ? Réserve 30 minutes avec un coach Alegria ...",
@@ -74,6 +62,30 @@
       "thumbnail": "https://i.ytimg.com/vi/t9dIU3Od0SE/hqdefault.jpg"
     },
     {
+      "title": "Des chercheurs ont provoqué un « AVC » chez une IA : voici ce qu’ils ont découvert",
+      "description": "Ce n’est ni une vengeance contre l’intelligence artificielle, ni le synopsis d’un film dystopique. En Californie, des scientifiques ont eu l’idée d’imiter les effets d’un accident vasculaire cérébral ...",
+      "url": "https://www.nouvelobs.com/sciences/20261119.OBS120272/des-chercheurs-ont-provoque-un-avc-chez-une-ia-voici-ce-qu-ils-ont-decouvert.html",
+      "source": "L'Obs",
+      "publishedAt": "2026-11-19T16:00:18Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Comment télécharger et Installer Power BI",
+      "description": "Inscrivez-vous à la formation Power BI ici : https://formations4data.systeme.io/powerbi-booste-par-ia.",
+      "url": "https://www.youtube.com/watch?v=h1bC6pKmqtI",
+      "source": "Oscar Aksanti",
+      "publishedAt": "2026-10-14T03:55:40Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "h1bC6pKmqtI",
+      "thumbnail": "https://i.ytimg.com/vi/h1bC6pKmqtI/hqdefault.jpg"
+    },
+    {
       "title": "IA, Machine Learning &amp; LLM expliqués en 8 minutes",
       "description": "Pour en savoir plus sur AMD EPYC ...",
       "url": "https://www.youtube.com/watch?v=XZDaI0YOaCM",
@@ -110,18 +122,6 @@
       "thumbnail": "https://i.ytimg.com/vi/DhIsBnXkwYg/hqdefault.jpg"
     },
     {
-      "title": "Clustering de variables avec le package « clustvartools » pour Python",
-      "description": "Machine learning. Data science. Le package « clustvartools » pour Python propose une panoplie clé en main d'algorithmes de ...",
-      "url": "https://www.youtube.com/watch?v=feIiOQVPPuM",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-10-15T14:33:41Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "feIiOQVPPuM",
-      "thumbnail": "https://i.ytimg.com/vi/feIiOQVPPuM/hqdefault.jpg"
-    },
-    {
       "title": "Filtrer une table avec Filter dans Power BI",
       "description": "Série Power BI - Vidéo 18 : la fonction FILTER en DAX dans Power BI Dans cette vidéo de formation, nous allons découvrir ...",
       "url": "https://www.youtube.com/watch?v=Tmz4jXuBGdI",
@@ -144,18 +144,6 @@
       "isYouTube": true,
       "videoId": "qbqaSlk3fho",
       "thumbnail": "https://i.ytimg.com/vi/qbqaSlk3fho/hqdefault.jpg"
-    },
-    {
-      "title": "Power BI : automatisez vos données avec Power Query ! #5/5",
-      "description": "Testez votre niveau sur PowerBI et recevez des ressources exclusives ...",
-      "url": "https://www.youtube.com/watch?v=zLnR5aZNlog",
-      "source": "Morpheus Formation | Excel, Power BI, Data",
-      "publishedAt": "2026-10-22T09:00:30Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "zLnR5aZNlog",
-      "thumbnail": "https://i.ytimg.com/vi/zLnR5aZNlog/hqdefault.jpg"
     },
     {
       "title": "Les 4 Types d&#39;Analyse de Données en Python Avec Projets",
@@ -194,6 +182,18 @@
       "thumbnail": "https://i.ytimg.com/vi/F7X0rCwCOiA/hqdefault.jpg"
     },
     {
+      "title": "Le conseil d'administration de Nvidia rejette à l'unanimité le retour de Jensen Huang au poste de PDG, bien que ce dernier ait laissé entendre qu'il serait « honoré » de revenir",
+      "description": "Le conseil d'administration de Nvidia rejette à l'unanimité le retour de Jensen Huang au poste de PDG, bien que ce dernier ait laissé entendre qu'il serait « honoré » de revenir Dans sa première décla...",
+      "url": "https://hardware.developpez.com/actu/389262/Le-conseil-d-administration-de-Nvidia-rejette-a-l-unanimite-le-retour-de-Jensen-Huang-au-poste-de-PDG-bien-que-ce-dernier-ait-laisse-entendre-qu-il-serait-honore-de-revenir/",
+      "source": "Developpez.com",
+      "publishedAt": "2026-11-18T18:06:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
       "title": "L’essentiel de SQL : le guide complet pour débutants ✅ #sql #data #tuto",
       "description": "",
       "url": "https://www.youtube.com/watch?v=ijEHTjsGNsE",
@@ -206,16 +206,100 @@
       "thumbnail": "https://i.ytimg.com/vi/ijEHTjsGNsE/hqdefault.jpg"
     },
     {
-      "title": "Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=Yfbb0q7Mi5E",
-      "source": "LaDataFacile",
-      "publishedAt": "2026-10-04T22:23:54Z",
+      "title": "Quels sont les pays les plus obsédés par GTA VI ? Un classement situe la France en deuxième position",
+      "description": "D'après cette étude, la France serait l'un des pays où la population est la plus \"obsedée\" par GTA VI. Celle-ci s'appuie sur une analyse de données de recherches Google sur 12 mois.",
+      "url": "https://www.presse-citron.net/obsedes-gta-vi-classement-france-deuxieme/",
+      "source": "Presse-citron",
+      "publishedAt": "2026-11-19T12:26:07Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Yfbb0q7Mi5E",
-      "thumbnail": "https://i.ytimg.com/vi/Yfbb0q7Mi5E/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ignite 2026 : Microsoft veut faire de Copilot le « système d’exploitation du travail », où humains et agents IA collaborent",
+      "description": "Microsoft fait de Copilot un espace où employés et agents IA travaillent ensemble, relié aux données et aux logiciels de l’entreprise. Il y ajoute des outils pour sécuriser et mesurer le coût des agen...",
+      "url": "https://www.zdnet.fr/actualites/ignite-2026-microsoft-veut-faire-de-copilot-le-systeme-dexploitation-du-travail-ou-humains-et-agents-ia-collaborent-508078.htm",
+      "source": "ZDNet France",
+      "publishedAt": "2026-11-18T06:25:08Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Pour optimiser les effets protecteurs du microbiote, voici les 4 aliments, la boisson et l’habitude à privilégier, selon une vaste étude",
+      "description": "Et si votre santé se jouait aussi dans votre intestin ? Ce que vous mangez, votre consommation d’alcool, votre activité physique ou encore le temps passé assis façonnent les milliards de bactéries qui...",
+      "url": "https://www.futura-sciences.com/sante/actualites/microbiotes-optimiser-effets-protecteurs-microbiote-voici-4-aliments-boisson-habitude-privilegier-selon-vaste-etude-139353/",
+      "source": "Futura",
+      "publishedAt": "2026-11-19T04:27:22Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Modèles maison, OS IA, agents… OVHcloud ne veut plus seulement héberger l'IA des autres",
+      "description": "Fini le simple hébergeur. Le groupe lance sa propre famille de LLM, un \"OS IA\" taillé pour l'IA agentique et une salve de produits d'IA. Sans Mistral AI, et Octave Klaba ne s'en cache pas.",
+      "url": "https://www.journaldunet.com/cloud/1558267-modeles-maison-os-ia-agents-ovhcloud-ne-veut-plus-seulement-heberger-l-ia-des-autres/",
+      "source": "JDN",
+      "publishedAt": "2026-11-19T15:38:03Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Une IA pose deux fois plus de bons diagnostics que les médecins sur des cas complexes : voici comment elle s'y prend",
+      "description": "Et si une intelligence artificielle pouvait poser les mêmes questions qu'un médecin expérimenté, dans le bon ordre, au bon moment ? Microsoft vient de franchir un cap significatif. Son outil de diagno...",
+      "url": "https://www.futura-sciences.com/sante/actualites/medecine-ia-pose-deux-fois-plus-bons-diagnostics-medecins-cas-complexes-voici-elle-y-prend-k8p9-139407/",
+      "source": "Futura",
+      "publishedAt": "2026-11-18T17:00:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Canva permet désormais de désactiver l’IA générative : pour satisfaire tous les utilisateurs ?",
+      "description": "Alors que l’intelligence artificielle s’impose progressivement dans les logiciels de création, Canva prend une direction un peu différente. La plateforme annonce de nouveaux réglages permettant de mas...",
+      "url": "https://www.mac4ever.com/mac/199146-canva-permet-desormais-de-desactiver-l-ia-generative-pour-satisfaire-tous-les-utilisateurs",
+      "source": "Mac4ever",
+      "publishedAt": "2026-11-19T16:17:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "L'introduction en bourse d'Anthropic lève plus de 81 milliards $ pour une valorisation de 1 500 milliards $, la plus grande IPO jamais enregistrée, dépassant celle de SpaceX, à 83 $ par action",
+      "description": "L'introduction en bourse d'Anthropic lève plus de 81 milliards $ pour une valorisation de 1 500 milliards $, la plus grande IPO jamais enregistrée, dépassant celle de SpaceX, à 83 dollars par actionAn...",
+      "url": "https://intelligence-artificielle.developpez.com/actu/389294/L-introduction-en-bourse-d-Anthropic-leve-plus-de-81-milliards-pour-une-valorisation-de-1-500-milliards-la-plus-grande-IPO-jamais-enregistree-depassant-celle-de-SpaceX-a-83-par-action/",
+      "source": "Developpez.com",
+      "publishedAt": "2026-11-19T14:36:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Intégration de l’IA en PME : par où commencer sans gaspiller son budget ?",
+      "description": "L'intégration de l'IA en PME s'impose comme un levier stratégique majeur pour la compétitivité des entreprises. Cependant, son adoption suscite encore de vives inquiétudes financières chez les dirigea...",
+      "url": "https://www.webmarketing-com.com/integration-ia-pme-guide-budget-et-roi",
+      "source": "Webmarketing-com.com",
+      "publishedAt": "2026-11-19T13:00:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }
