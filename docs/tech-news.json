@@ -1,29 +1,41 @@
 {
-  "lastUpdate": "2026-11-23T19:58:25.966923",
+  "lastUpdate": "2026-11-24T19:25:31.486767",
   "articles": [
     {
-      "title": "ChatGPT vs Claude vs Gemini : laquelle est faite pour vous ? (comparatif complet)",
-      "description": "MES RESSOURCES IA OFFERTES : https://www.liwabusiness.fr/mes-services ChatGPT vs Claude vs Gemini IA: quelle est la ...",
-      "url": "https://www.youtube.com/watch?v=u4RFuxDYX9A",
-      "source": "Liwa",
-      "publishedAt": "2026-10-23T16:30:19Z",
+      "title": "La révolution de l&#39;IA. Machine et Deep Learning",
+      "description": "Dans cette vidéo, il est expliqué comment le machine learning a transformé le développement de l'intelligence artificielle, ...",
+      "url": "https://www.youtube.com/watch?v=pnC7CRD4WyY",
+      "source": "tpdemain - La chaine",
+      "publishedAt": "2026-11-19T09:19:03Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "u4RFuxDYX9A",
-      "thumbnail": "https://i.ytimg.com/vi/u4RFuxDYX9A/hqdefault.jpg"
+      "videoId": "pnC7CRD4WyY",
+      "thumbnail": "https://i.ytimg.com/vi/pnC7CRD4WyY/hqdefault.jpg"
     },
     {
-      "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
-      "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
-      "url": "https://www.youtube.com/watch?v=WUzHvB7FICc",
-      "source": "Bitdyne",
-      "publishedAt": "2026-10-10T12:06:06Z",
+      "title": "Power BI &amp; Power Query : Nettoyer et Transformer des Données de A à Z | Tutoriel Complet en Français",
+      "description": "Vous souhaitez apprendre Power BI et Power Query pour nettoyer, transformer et préparer des données professionnelles avant ...",
+      "url": "https://www.youtube.com/watch?v=c1HvPzunIug",
+      "source": "Entrepreneur 3.0",
+      "publishedAt": "2026-11-06T07:08:51Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "WUzHvB7FICc",
-      "thumbnail": "https://i.ytimg.com/vi/WUzHvB7FICc/hqdefault.jpg"
+      "videoId": "c1HvPzunIug",
+      "thumbnail": "https://i.ytimg.com/vi/c1HvPzunIug/hqdefault.jpg"
+    },
+    {
+      "title": "TOUTES les IA pour 10$/mois (ChatGPT, Claude...) ✨ Pourquoi payer plus ?",
+      "description": "Testez Abacus.ai (7$ le 1er mois, puis 10$/mois sans engagement) : https://alpa14.com/abacusai Réunissez ChatGPT, Claude, ...",
+      "url": "https://www.youtube.com/watch?v=6hyh3XPMFOg",
+      "source": "Alpa14",
+      "publishedAt": "2026-11-24T14:58:25Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "6hyh3XPMFOg",
+      "thumbnail": "https://i.ytimg.com/vi/6hyh3XPMFOg/hqdefault.jpg"
     },
     {
       "title": "Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)",
@@ -50,16 +62,16 @@
       "thumbnail": "https://i.ytimg.com/vi/C0wcMnJXUSY/hqdefault.jpg"
     },
     {
-      "title": "C&#39;est quoi le machine learning ? La réponse en dessin | L&#39;IA en 90 sec et quelques",
-      "description": "C'est quoi, le machine learning ? Une branche de l'IA où un programme apprend à repérer des régularités dans les données, ...",
-      "url": "https://www.youtube.com/watch?v=mYdU6WlPmn8",
-      "source": "IACTOI - IA",
-      "publishedAt": "2026-10-29T15:16:06Z",
+      "title": "C&#39;est quoi le SQL ? | SQL, simplement #1",
+      "description": "Le SQL, c'est juste parler à un bibliothécaire. Une base de données, c'est une immense bibliothèque. Le SQL, c'est la phrase que ...",
+      "url": "https://www.youtube.com/watch?v=QUQlcUQk5EM",
+      "source": "datasimplement",
+      "publishedAt": "2026-11-17T21:02:59Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "mYdU6WlPmn8",
-      "thumbnail": "https://i.ytimg.com/vi/mYdU6WlPmn8/hqdefault.jpg"
+      "videoId": "QUQlcUQk5EM",
+      "thumbnail": "https://i.ytimg.com/vi/QUQlcUQk5EM/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI #5 — Le modèle de données et le schéma en étoile",
@@ -98,28 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/yw1bS20gTzc/hqdefault.jpg"
     },
     {
-      "title": "IA, Machine Learning &amp; LLM expliqués en 8 minutes",
-      "description": "Pour en savoir plus sur AMD EPYC ...",
-      "url": "https://www.youtube.com/watch?v=XZDaI0YOaCM",
-      "source": "Cookie connecté",
-      "publishedAt": "2026-10-18T13:00:02Z",
+      "title": "Free Data Science Course in Under 24 Hours | Learn Data Science from Scratch | Simplilearn",
+      "description": "Want to learn Data Science in 24 hours? From Python and Pandas to Machine Learning and dashboards, here is the ultimate ...",
+      "url": "https://www.youtube.com/watch?v=n3t9cngezPc",
+      "source": "Simplilearn",
+      "publishedAt": "2026-10-26T13:00:27Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "XZDaI0YOaCM",
-      "thumbnail": "https://i.ytimg.com/vi/XZDaI0YOaCM/hqdefault.jpg"
-    },
-    {
-      "title": "Clustering de variables avec le package « clustvartools » pour Python",
-      "description": "Machine learning. Data science. Le package « clustvartools » pour Python propose une panoplie clé en main d'algorithmes de ...",
-      "url": "https://www.youtube.com/watch?v=feIiOQVPPuM",
-      "source": "MASTER 2 SISE DATA SCIENCE",
-      "publishedAt": "2026-10-15T14:33:41Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "feIiOQVPPuM",
-      "thumbnail": "https://i.ytimg.com/vi/feIiOQVPPuM/hqdefault.jpg"
+      "videoId": "n3t9cngezPc",
+      "thumbnail": "https://i.ytimg.com/vi/n3t9cngezPc/hqdefault.jpg"
     },
     {
       "title": "Filtrer une table avec Filter dans Power BI",
@@ -158,16 +158,16 @@
       "thumbnail": "https://i.ytimg.com/vi/zLnR5aZNlog/hqdefault.jpg"
     },
     {
-      "title": "SQL pour débutants : comprends ta première requête SELECT | Partie 1",
-      "description": "Ton application a la mémoire d'un poisson rouge ? Découvre où sont stockées les données et comment SQL permet de les ...",
-      "url": "https://www.youtube.com/watch?v=ApeM-42SN5E",
-      "source": "dev-yeo",
-      "publishedAt": "2026-10-30T08:02:40Z",
+      "title": "Les 4 Types d&#39;Analyse de Données en Python Avec Projets",
+      "description": "Découvrez les 4 types d'analyse de données en Python à travers des projets concrets et pratiques ! De l'analyse descriptive à ...",
+      "url": "https://www.youtube.com/watch?v=mxXyviELh0s",
+      "source": "RifOudka",
+      "publishedAt": "2026-10-30T00:15:20Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "ApeM-42SN5E",
-      "thumbnail": "https://i.ytimg.com/vi/ApeM-42SN5E/hqdefault.jpg"
+      "videoId": "mxXyviELh0s",
+      "thumbnail": "https://i.ytimg.com/vi/mxXyviELh0s/hqdefault.jpg"
     },
     {
       "title": "Comprendre les Bases de Données Relationnelles (SGBD, SQL, Clés) 💾",
@@ -182,16 +182,16 @@
       "thumbnail": "https://i.ytimg.com/vi/F7X0rCwCOiA/hqdefault.jpg"
     },
     {
-      "title": "Data Science Full Course in 22 Hours| Learn Python, Statistics, ML &amp; Real-World Projects|Simplilearn",
-      "description": "Micrososft Azure - Data Analyst Course ...",
-      "url": "https://www.youtube.com/watch?v=RnmOoKtL4wU",
-      "source": "Simplilearn",
-      "publishedAt": "2026-11-12T14:30:29Z",
+      "title": "MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données !",
+      "description": "MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données ! Quels graphiques choisir pour ...",
+      "url": "https://www.youtube.com/watch?v=pfDnucTFHPE",
+      "source": "Statistical Models for Social Sciences",
+      "publishedAt": "2026-11-01T16:30:28Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "RnmOoKtL4wU",
-      "thumbnail": "https://i.ytimg.com/vi/RnmOoKtL4wU/hqdefault.jpg"
+      "videoId": "pfDnucTFHPE",
+      "thumbnail": "https://i.ytimg.com/vi/pfDnucTFHPE/hqdefault.jpg"
     },
     {
       "title": "Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍",
