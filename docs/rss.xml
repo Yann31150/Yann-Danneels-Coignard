@@ -5,7 +5,7 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Tue, 24 Nov 2026 19:25:31 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 18:31:25 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
@@ -31,7 +31,7 @@
         <item>
             <title>TOUTES les IA pour 10$/mois (ChatGPT, Claude...) ✨ Pourquoi payer plus ?</title>
             <link>https://www.youtube.com/watch?v=6hyh3XPMFOg</link>
-            <description><![CDATA[Testez Abacus.ai (7$ le 1er mois, puis 10$/mois sans engagement) : https://alpa14.com/abacusai Réunissez ChatGPT, Claude, ...]]></description>
+            <description><![CDATA[Testez Abacus.ai (7$ le 1er mois, puis 10$/mois) : https://alpa14.com/abacusai Réunissez ChatGPT, Claude, Gemini et plus de ...]]></description>
             <pubDate>Tue, 24 Nov 2026 14:58:25 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=6hyh3XPMFOg</guid>
             <source>Alpa14</source>
@@ -85,12 +85,12 @@
             <source>Gab JPM</source>
         </item>
         <item>
-            <title>Free Data Science Course in Under 24 Hours | Learn Data Science from Scratch | Simplilearn</title>
-            <link>https://www.youtube.com/watch?v=n3t9cngezPc</link>
-            <description><![CDATA[Want to learn Data Science in 24 hours? From Python and Pandas to Machine Learning and dashboards, here is the ultimate ...]]></description>
-            <pubDate>Mon, 26 Oct 2026 13:00:27 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=n3t9cngezPc</guid>
-            <source>Simplilearn</source>
+            <title>IA, Machine Learning &amp;amp; LLM expliqués en 8 minutes</title>
+            <link>https://www.youtube.com/watch?v=XZDaI0YOaCM</link>
+            <description><![CDATA[Pour en savoir plus sur AMD EPYC ...]]></description>
+            <pubDate>Sun, 18 Oct 2026 13:00:02 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=XZDaI0YOaCM</guid>
+            <source>Cookie connecté</source>
         </item>
         <item>
             <title>Filtrer une table avec Filter dans Power BI</title>
@@ -99,6 +99,14 @@
             <pubDate>Sun, 18 Oct 2026 18:54:42 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=Tmz4jXuBGdI</guid>
             <source>Devenir Expert Data</source>
+        </item>
+        <item>
+            <title>Google signe un accord avec Blue Origin pour mettre en orbite des centres de données satellitaires, dans le cadre du « Project Suncatcher », pour faire fonctionner des systèmes d'IA dans l'espace</title>
+            <link>https://cloud-computing.developpez.com/actu/389390/Google-signe-un-accord-avec-Blue-Origin-pour-mettre-en-orbite-des-centres-de-donnees-satellitaires-dans-le-cadre-du-Project-Suncatcher-pour-faire-fonctionner-des-systemes-d-IA-dans-l-espace/</link>
+            <description><![CDATA[Google signe un accord avec Blue Origin pour mettre en orbite des centres de données satellitaires, dans le cadre du « Project Suncatcher », pour faire fonctionner des systèmes d'IA dans l'espaceGoogl...]]></description>
+            <pubDate>Tue, 24 Nov 2026 01:22:00 -0000</pubDate>
+            <guid isPermaLink="true">https://cloud-computing.developpez.com/actu/389390/Google-signe-un-accord-avec-Blue-Origin-pour-mettre-en-orbite-des-centres-de-donnees-satellitaires-dans-le-cadre-du-Project-Suncatcher-pour-faire-fonctionner-des-systemes-d-IA-dans-l-espace/</guid>
+            <source>Developpez.com</source>
         </item>
         <item>
             <title>Power BI : créer son premier graphique à partir d’Excel</title>
@@ -117,12 +125,20 @@
             <source>Morpheus Formation | Excel, Power BI, Data</source>
         </item>
         <item>
-            <title>Les 4 Types d&amp;#39;Analyse de Données en Python Avec Projets</title>
-            <link>https://www.youtube.com/watch?v=mxXyviELh0s</link>
-            <description><![CDATA[Découvrez les 4 types d'analyse de données en Python à travers des projets concrets et pratiques ! De l'analyse descriptive à ...]]></description>
-            <pubDate>Fri, 30 Oct 2026 00:15:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=mxXyviELh0s</guid>
-            <source>RifOudka</source>
+            <title>À 18 ans, Selly Manto lance une plateforme immobilière assistée par IA : “C’est plus simple et intuitif “</title>
+            <link>https://www.lalibre.be/economie/immo/2026/11/24/a-18-ans-selly-manto-lance-une-plateforme-immobiliere-assistee-par-ia-cest-plus-simple-et-intuitif-3VTTVPHEOBDDBCX5644BK3EXIU/</link>
+            <description><![CDATA[La plateforme immobilière du Remicourtois Selly Manto, Immo Veya, utilise un agent IA pour guider les clients dans leur recherche d’un bien. ...]]></description>
+            <pubDate>Tue, 24 Nov 2026 14:36:05 -0000</pubDate>
+            <guid isPermaLink="true">https://www.lalibre.be/economie/immo/2026/11/24/a-18-ans-selly-manto-lance-une-plateforme-immobiliere-assistee-par-ia-cest-plus-simple-et-intuitif-3VTTVPHEOBDDBCX5644BK3EXIU/</guid>
+            <source>Lalibre.be</source>
+        </item>
+        <item>
+            <title>SQL pour débutants : comprends ta première requête SELECT | Partie 1</title>
+            <link>https://www.youtube.com/watch?v=ApeM-42SN5E</link>
+            <description><![CDATA[Ton application a la mémoire d'un poisson rouge ? Découvre où sont stockées les données et comment SQL permet de les ...]]></description>
+            <pubDate>Fri, 30 Oct 2026 08:02:40 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=ApeM-42SN5E</guid>
+            <source>dev-yeo</source>
         </item>
         <item>
             <title>Comprendre les Bases de Données Relationnelles (SGBD, SQL, Clés) 💾</title>
@@ -133,28 +149,28 @@
             <source>informatique, technologie, autocad ...</source>
         </item>
         <item>
-            <title>MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données !</title>
-            <link>https://www.youtube.com/watch?v=pfDnucTFHPE</link>
-            <description><![CDATA[MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données ! Quels graphiques choisir pour ...]]></description>
-            <pubDate>Sun, 01 Nov 2026 16:30:28 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=pfDnucTFHPE</guid>
-            <source>Statistical Models for Social Sciences</source>
+            <title>Il devait faire voler le successeur du Concorde : son moteur a trouvé un débouché inattendu dans les datacenters</title>
+            <link>https://www.futura-sciences.com/sciences/actualites/avion-supersonique-il-devait-faire-voler-successeur-concorde-son-moteur-trouve-debouche-inattendu-datacenters-139602/</link>
+            <description><![CDATA[Et si l’avenir de l’aviation supersonique passait aussi par les centres de données ? Boom Supersonic mise sur une technologie commune à deux projets aux ambitions très différentes. Le constructeur vie...]]></description>
+            <pubDate>Tue, 24 Nov 2026 17:43:29 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/sciences/actualites/avion-supersonique-il-devait-faire-voler-successeur-concorde-son-moteur-trouve-debouche-inattendu-datacenters-139602/</guid>
+            <source>Futura</source>
         </item>
         <item>
-            <title>Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍</title>
-            <link>https://www.youtube.com/watch?v=Yfbb0q7Mi5E</link>
-            <description><![CDATA[]]></description>
-            <pubDate>Sun, 04 Oct 2026 22:23:54 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=Yfbb0q7Mi5E</guid>
-            <source>LaDataFacile</source>
+            <title>Logitech G RS50 System : le Direct Drive de milieu de gamme qui met tout le monde d'accord</title>
+            <link>https://www.futura-sciences.com/conso/guides-achat/tests-produits-logitech-g-rs50-system-direct-drive-milieu-gamme-met-tout-monde-accord-1670/</link>
+            <description><![CDATA[Coincé pendant trois ans entre un G923 vieillissant et un G Pro réservé aux budgets bien plus confortables, l’amateur de simulation automobile fidèle à Logitech G dispose enfin d’un vrai palier interm...]]></description>
+            <pubDate>Tue, 24 Nov 2026 17:32:00 -0000</pubDate>
+            <guid isPermaLink="true">https://www.futura-sciences.com/conso/guides-achat/tests-produits-logitech-g-rs50-system-direct-drive-milieu-gamme-met-tout-monde-accord-1670/</guid>
+            <source>Futura</source>
         </item>
         <item>
-            <title>Comment Coder en Python Sans Rien Installer [utiliser Google Colab]</title>
-            <link>https://www.youtube.com/watch?v=7Hmx6FRMows</link>
-            <description><![CDATA[Comment débuter sur Google Colab et coder en Python sans rien installer sur son ordinateur ? Dans ce tutoriel complet pour ...]]></description>
-            <pubDate>Tue, 27 Oct 2026 16:15:31 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=7Hmx6FRMows</guid>
-            <source>Gab JPM</source>
+            <title>Comment la data science peut contribuer à prolonger la durée de vie de notre parc nucléaire</title>
+            <link>https://www.journaldunet.com/big-data/1558179-comment-la-data-science-peut-contribuer-a-prolonger-la-duree-de-vie-de-notre-parc-nucleaire/</link>
+            <description><![CDATA[Prolonger nos réacteurs au-delà de 60 ans exigera de prouver la sûreté de chacun, sans dérapage des coûts. Un défi où la data science a un rôle décisif à jouer.]]></description>
+            <pubDate>Mon, 23 Nov 2026 09:40:36 -0000</pubDate>
+            <guid isPermaLink="true">https://www.journaldunet.com/big-data/1558179-comment-la-data-science-peut-contribuer-a-prolonger-la-duree-de-vie-de-notre-parc-nucleaire/</guid>
+            <source>JDN</source>
         </item>
     </channel>
 </rss>

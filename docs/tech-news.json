@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-24T19:25:31.486767",
+  "lastUpdate": "2026-11-25T18:31:25.872090",
   "articles": [
     {
       "title": "La révolution de l&#39;IA. Machine et Deep Learning",
@@ -27,7 +27,7 @@
     },
     {
       "title": "TOUTES les IA pour 10$/mois (ChatGPT, Claude...) ✨ Pourquoi payer plus ?",
-      "description": "Testez Abacus.ai (7$ le 1er mois, puis 10$/mois sans engagement) : https://alpa14.com/abacusai Réunissez ChatGPT, Claude, ...",
+      "description": "Testez Abacus.ai (7$ le 1er mois, puis 10$/mois) : https://alpa14.com/abacusai Réunissez ChatGPT, Claude, Gemini et plus de ...",
       "url": "https://www.youtube.com/watch?v=6hyh3XPMFOg",
       "source": "Alpa14",
       "publishedAt": "2026-11-24T14:58:25Z",
@@ -110,16 +110,16 @@
       "thumbnail": "https://i.ytimg.com/vi/yw1bS20gTzc/hqdefault.jpg"
     },
     {
-      "title": "Free Data Science Course in Under 24 Hours | Learn Data Science from Scratch | Simplilearn",
-      "description": "Want to learn Data Science in 24 hours? From Python and Pandas to Machine Learning and dashboards, here is the ultimate ...",
-      "url": "https://www.youtube.com/watch?v=n3t9cngezPc",
-      "source": "Simplilearn",
-      "publishedAt": "2026-10-26T13:00:27Z",
+      "title": "IA, Machine Learning &amp; LLM expliqués en 8 minutes",
+      "description": "Pour en savoir plus sur AMD EPYC ...",
+      "url": "https://www.youtube.com/watch?v=XZDaI0YOaCM",
+      "source": "Cookie connecté",
+      "publishedAt": "2026-10-18T13:00:02Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "n3t9cngezPc",
-      "thumbnail": "https://i.ytimg.com/vi/n3t9cngezPc/hqdefault.jpg"
+      "videoId": "XZDaI0YOaCM",
+      "thumbnail": "https://i.ytimg.com/vi/XZDaI0YOaCM/hqdefault.jpg"
     },
     {
       "title": "Filtrer une table avec Filter dans Power BI",
@@ -132,6 +132,18 @@
       "isYouTube": true,
       "videoId": "Tmz4jXuBGdI",
       "thumbnail": "https://i.ytimg.com/vi/Tmz4jXuBGdI/hqdefault.jpg"
+    },
+    {
+      "title": "Google signe un accord avec Blue Origin pour mettre en orbite des centres de données satellitaires, dans le cadre du « Project Suncatcher », pour faire fonctionner des systèmes d'IA dans l'espace",
+      "description": "Google signe un accord avec Blue Origin pour mettre en orbite des centres de données satellitaires, dans le cadre du « Project Suncatcher », pour faire fonctionner des systèmes d'IA dans l'espaceGoogl...",
+      "url": "https://cloud-computing.developpez.com/actu/389390/Google-signe-un-accord-avec-Blue-Origin-pour-mettre-en-orbite-des-centres-de-donnees-satellitaires-dans-le-cadre-du-Project-Suncatcher-pour-faire-fonctionner-des-systemes-d-IA-dans-l-espace/",
+      "source": "Developpez.com",
+      "publishedAt": "2026-11-24T01:22:00Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
       "title": "Power BI : créer son premier graphique à partir d’Excel",
@@ -158,16 +170,28 @@
       "thumbnail": "https://i.ytimg.com/vi/zLnR5aZNlog/hqdefault.jpg"
     },
     {
-      "title": "Les 4 Types d&#39;Analyse de Données en Python Avec Projets",
-      "description": "Découvrez les 4 types d'analyse de données en Python à travers des projets concrets et pratiques ! De l'analyse descriptive à ...",
-      "url": "https://www.youtube.com/watch?v=mxXyviELh0s",
-      "source": "RifOudka",
-      "publishedAt": "2026-10-30T00:15:20Z",
+      "title": "À 18 ans, Selly Manto lance une plateforme immobilière assistée par IA : “C’est plus simple et intuitif “",
+      "description": "La plateforme immobilière du Remicourtois Selly Manto, Immo Veya, utilise un agent IA pour guider les clients dans leur recherche d’un bien. ...",
+      "url": "https://www.lalibre.be/economie/immo/2026/11/24/a-18-ans-selly-manto-lance-une-plateforme-immobiliere-assistee-par-ia-cest-plus-simple-et-intuitif-3VTTVPHEOBDDBCX5644BK3EXIU/",
+      "source": "Lalibre.be",
+      "publishedAt": "2026-11-24T14:36:05Z",
+      "category": "data",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "SQL pour débutants : comprends ta première requête SELECT | Partie 1",
+      "description": "Ton application a la mémoire d'un poisson rouge ? Découvre où sont stockées les données et comment SQL permet de les ...",
+      "url": "https://www.youtube.com/watch?v=ApeM-42SN5E",
+      "source": "dev-yeo",
+      "publishedAt": "2026-10-30T08:02:40Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "mxXyviELh0s",
-      "thumbnail": "https://i.ytimg.com/vi/mxXyviELh0s/hqdefault.jpg"
+      "videoId": "ApeM-42SN5E",
+      "thumbnail": "https://i.ytimg.com/vi/ApeM-42SN5E/hqdefault.jpg"
     },
     {
       "title": "Comprendre les Bases de Données Relationnelles (SGBD, SQL, Clés) 💾",
@@ -182,40 +206,100 @@
       "thumbnail": "https://i.ytimg.com/vi/F7X0rCwCOiA/hqdefault.jpg"
     },
     {
-      "title": "MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données !",
-      "description": "MATPLOTLIB PYTHON : 12 graphiques essentiels pour visualiser et analyser vos données ! Quels graphiques choisir pour ...",
-      "url": "https://www.youtube.com/watch?v=pfDnucTFHPE",
-      "source": "Statistical Models for Social Sciences",
-      "publishedAt": "2026-11-01T16:30:28Z",
+      "title": "Il devait faire voler le successeur du Concorde : son moteur a trouvé un débouché inattendu dans les datacenters",
+      "description": "Et si l’avenir de l’aviation supersonique passait aussi par les centres de données ? Boom Supersonic mise sur une technologie commune à deux projets aux ambitions très différentes. Le constructeur vie...",
+      "url": "https://www.futura-sciences.com/sciences/actualites/avion-supersonique-il-devait-faire-voler-successeur-concorde-son-moteur-trouve-debouche-inattendu-datacenters-139602/",
+      "source": "Futura",
+      "publishedAt": "2026-11-24T17:43:29Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "pfDnucTFHPE",
-      "thumbnail": "https://i.ytimg.com/vi/pfDnucTFHPE/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍",
-      "description": "",
-      "url": "https://www.youtube.com/watch?v=Yfbb0q7Mi5E",
-      "source": "LaDataFacile",
-      "publishedAt": "2026-10-04T22:23:54Z",
+      "title": "Logitech G RS50 System : le Direct Drive de milieu de gamme qui met tout le monde d'accord",
+      "description": "Coincé pendant trois ans entre un G923 vieillissant et un G Pro réservé aux budgets bien plus confortables, l’amateur de simulation automobile fidèle à Logitech G dispose enfin d’un vrai palier interm...",
+      "url": "https://www.futura-sciences.com/conso/guides-achat/tests-produits-logitech-g-rs50-system-direct-drive-milieu-gamme-met-tout-monde-accord-1670/",
+      "source": "Futura",
+      "publishedAt": "2026-11-24T17:32:00Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "Yfbb0q7Mi5E",
-      "thumbnail": "https://i.ytimg.com/vi/Yfbb0q7Mi5E/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     },
     {
-      "title": "Comment Coder en Python Sans Rien Installer [utiliser Google Colab]",
-      "description": "Comment débuter sur Google Colab et coder en Python sans rien installer sur son ordinateur ? Dans ce tutoriel complet pour ...",
-      "url": "https://www.youtube.com/watch?v=7Hmx6FRMows",
-      "source": "Gab JPM",
-      "publishedAt": "2026-10-27T16:15:31Z",
+      "title": "Comment la data science peut contribuer à prolonger la durée de vie de notre parc nucléaire",
+      "description": "Prolonger nos réacteurs au-delà de 60 ans exigera de prouver la sûreté de chacun, sans dérapage des coûts. Un défi où la data science a un rôle décisif à jouer.",
+      "url": "https://www.journaldunet.com/big-data/1558179-comment-la-data-science-peut-contribuer-a-prolonger-la-duree-de-vie-de-notre-parc-nucleaire/",
+      "source": "JDN",
+      "publishedAt": "2026-11-23T09:40:36Z",
       "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "7Hmx6FRMows",
-      "thumbnail": "https://i.ytimg.com/vi/7Hmx6FRMows/hqdefault.jpg"
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Z.ai lance le modèle IA chinois GLM-5.4, doté de capacités de vision et d'un quota hebdomadaire de codage accru de 50 %, et qui serait le meilleur modèle de codage open source à ce jour",
+      "description": "Le laboratoire chinois d'intelligence artificielle (IA) Z.ai a lancé GLM-5.4, un modèle doté de 750 milliards de paramètres, de capacités de vision et d'un quota hebdomadaire de codage plus élevé. Cet...",
+      "url": "https://intelligence-artificielle.developpez.com/actu/389411/Z-ai-lance-le-modele-IA-chinois-GLM-5-4-dote-de-capacites-de-vision-et-d-un-quota-hebdomadaire-de-codage-accru-de-50-pourcent-et-qui-serait-le-meilleur-modele-de-codage-open-source-a-ce-jour/",
+      "source": "Developpez.com",
+      "publishedAt": "2026-11-24T13:59:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "IA et nucléaire : et si les États-Unis décidaient de tirer en 90 secondes ?",
+      "description": "L'avance américaine en intelligence artificielle inquiète des chercheurs chinois jusque dans le domaine nucléaire. Leurs travaux envisagent des décisions beaucoup plus rapides et des missiles chinois ...",
+      "url": "https://www.mac4ever.com/ia/199264-ia-et-nucleaire-et-si-les-etats-unis-decidaient-de-tirer-en-90-secondes",
+      "source": "Mac4ever",
+      "publishedAt": "2026-11-24T15:37:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Le Huawei Mate X8 est officiel, un smartphone pliable qui ne laisse aucun pli sur l’écran",
+      "description": "Huawei a présenté son Mate X8. Le smartphone pliable embarque une nouvelle technologie de charnière censée ne pas marquer l’écran. Alors que l’industrie du smartphone s’enthousiasme pour les nouveaux ...",
+      "url": "https://www.phonandroid.com/le-huawei-mate-x8-est-officiel-un-smartphone-pliable-qui-ne-laisse-aucun-pli-sur-lecran.html",
+      "source": "Phonandroid",
+      "publishedAt": "2026-11-24T18:08:04Z",
+      "category": "innovation",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Pour aider les ingénieurs logiciels à déployer leur code, Anthropic lance de nouvelles fonctionnalités d'IA, Claude Ship, capables désormais d'examiner, de corriger et d'approuver des pull requests",
+      "description": "Pour aider les ingénieurs logiciels à déployer leur code, Anthropic lance de nouvelles fonctionnalités d'IA, Claude Ship, capables désormais d'examiner, de corriger et d'approuver des pull requestsAnt...",
+      "url": "https://intelligence-artificielle.developpez.com/actu/389399/Pour-aider-les-ingenieurs-logiciels-a-deployer-leur-code-Anthropic-lance-de-nouvelles-fonctionnalites-d-IA-Claude-Ship-capables-desormais-d-examiner-de-corriger-et-d-approuver-des-pull-requests/",
+      "source": "Developpez.com",
+      "publishedAt": "2026-11-24T14:02:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Analyse d'impact IA : le changement de version déclenche la mise à jour, et le formulaire n'enregistre aucune version",
+      "description": "La Commission a ouvert le 16 novembre la consultation sur son projet de modèle d'analyse d'impact sur les droits fondamentaux.",
+      "url": "https://www.journaldunet.com/cybersecurite/1558337-analyse-d-impact-ia-le-changement-de-version-declenche-la-mise-a-jour-et-le-formulaire-n-enregistre-aucune-version/",
+      "source": "JDN",
+      "publishedAt": "2026-11-24T15:50:27Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
     }
   ]
 }
