@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-25T18:31:25.872090",
+  "lastUpdate": "2026-11-26T18:15:00.879521",
   "articles": [
     {
       "title": "La révolution de l&#39;IA. Machine et Deep Learning",
@@ -24,18 +24,6 @@
       "isYouTube": true,
       "videoId": "c1HvPzunIug",
       "thumbnail": "https://i.ytimg.com/vi/c1HvPzunIug/hqdefault.jpg"
-    },
-    {
-      "title": "TOUTES les IA pour 10$/mois (ChatGPT, Claude...) ✨ Pourquoi payer plus ?",
-      "description": "Testez Abacus.ai (7$ le 1er mois, puis 10$/mois) : https://alpa14.com/abacusai Réunissez ChatGPT, Claude, Gemini et plus de ...",
-      "url": "https://www.youtube.com/watch?v=6hyh3XPMFOg",
-      "source": "Alpa14",
-      "publishedAt": "2026-11-24T14:58:25Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "6hyh3XPMFOg",
-      "thumbnail": "https://i.ytimg.com/vi/6hyh3XPMFOg/hqdefault.jpg"
     },
     {
       "title": "Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)",
@@ -122,6 +110,30 @@
       "thumbnail": "https://i.ytimg.com/vi/XZDaI0YOaCM/hqdefault.jpg"
     },
     {
+      "title": "Machine Learning #1 Introducaion",
+      "description": "MACHINE LEARNING DE A À Z — FORMATION COMPLÈTE ET GRATUITE EN FRANÇAIS | ÉPISODE 1** Tu souhaites ...",
+      "url": "https://www.youtube.com/watch?v=-XbgqgnDQSo",
+      "source": "Eline Math",
+      "publishedAt": "2026-11-13T11:39:50Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "-XbgqgnDQSo",
+      "thumbnail": "https://i.ytimg.com/vi/-XbgqgnDQSo/hqdefault.jpg"
+    },
+    {
+      "title": "PANDAS DE A À Z (Partie 1/2)  : la formation complète pour maîtriser l&#39;analyse de données en Python",
+      "description": "PYTHON POUR L'ANALYSE DE DONNÉES — ÉPISODE 3 : PANDAS (PARTIE 1/2) Apprenez à importer, explorer et ...",
+      "url": "https://www.youtube.com/watch?v=_7fKqP1cbKI",
+      "source": "Ceemtic Analytics",
+      "publishedAt": "2026-10-11T22:56:13Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "_7fKqP1cbKI",
+      "thumbnail": "https://i.ytimg.com/vi/_7fKqP1cbKI/hqdefault.jpg"
+    },
+    {
       "title": "Filtrer une table avec Filter dans Power BI",
       "description": "Série Power BI - Vidéo 18 : la fonction FILTER en DAX dans Power BI Dans cette vidéo de formation, nous allons découvrir ...",
       "url": "https://www.youtube.com/watch?v=Tmz4jXuBGdI",
@@ -170,11 +182,23 @@
       "thumbnail": "https://i.ytimg.com/vi/zLnR5aZNlog/hqdefault.jpg"
     },
     {
-      "title": "À 18 ans, Selly Manto lance une plateforme immobilière assistée par IA : “C’est plus simple et intuitif “",
-      "description": "La plateforme immobilière du Remicourtois Selly Manto, Immo Veya, utilise un agent IA pour guider les clients dans leur recherche d’un bien. ...",
-      "url": "https://www.lalibre.be/economie/immo/2026/11/24/a-18-ans-selly-manto-lance-une-plateforme-immobiliere-assistee-par-ia-cest-plus-simple-et-intuitif-3VTTVPHEOBDDBCX5644BK3EXIU/",
-      "source": "Lalibre.be",
-      "publishedAt": "2026-11-24T14:36:05Z",
+      "title": "Les 4 Types d&#39;Analyse de Données en Python Avec Projets",
+      "description": "Découvrez les 4 types d'analyse de données en Python à travers des projets concrets et pratiques ! De l'analyse descriptive à ...",
+      "url": "https://www.youtube.com/watch?v=mxXyviELh0s",
+      "source": "RifOudka",
+      "publishedAt": "2026-10-30T00:15:20Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "mxXyviELh0s",
+      "thumbnail": "https://i.ytimg.com/vi/mxXyviELh0s/hqdefault.jpg"
+    },
+    {
+      "title": "Des pirates informatiques donnent jusqu'au 28 novembre à Nvidia alors qu'un groupe de ransomware menace de divulguer des données, mais le groupe n'a fourni aucune preuve de ses allégations",
+      "description": "Des pirates informatiques donnent jusqu'au 28 novembre à Nvidia alors qu'un groupe de ransomware menace de divulguer des données, mais le groupe n'a fourni aucune preuve de ses allégationsNvidia fait ...",
+      "url": "https://securite.developpez.com/actu/389453/Des-pirates-informatiques-donnent-jusqu-au-28-novembre-a-Nvidia-alors-qu-un-groupe-de-ransomware-menace-de-divulguer-des-donnees-mais-le-groupe-n-a-fourni-aucune-preuve-de-ses-allegations/",
+      "source": "Developpez.com",
+      "publishedAt": "2026-11-25T09:40:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,47 +230,35 @@
       "thumbnail": "https://i.ytimg.com/vi/F7X0rCwCOiA/hqdefault.jpg"
     },
     {
-      "title": "Il devait faire voler le successeur du Concorde : son moteur a trouvé un débouché inattendu dans les datacenters",
-      "description": "Et si l’avenir de l’aviation supersonique passait aussi par les centres de données ? Boom Supersonic mise sur une technologie commune à deux projets aux ambitions très différentes. Le constructeur vie...",
-      "url": "https://www.futura-sciences.com/sciences/actualites/avion-supersonique-il-devait-faire-voler-successeur-concorde-son-moteur-trouve-debouche-inattendu-datacenters-139602/",
-      "source": "Futura",
-      "publishedAt": "2026-11-24T17:43:29Z",
+      "title": "Data Science Full Course in 22 Hours| Learn Python, Statistics, ML &amp; Real-World Projects|Simplilearn",
+      "description": "Micrososft Azure - Data Analyst Course ...",
+      "url": "https://www.youtube.com/watch?v=RnmOoKtL4wU",
+      "source": "Simplilearn",
+      "publishedAt": "2026-11-12T14:30:29Z",
       "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "RnmOoKtL4wU",
+      "thumbnail": "https://i.ytimg.com/vi/RnmOoKtL4wU/hqdefault.jpg"
     },
     {
-      "title": "Logitech G RS50 System : le Direct Drive de milieu de gamme qui met tout le monde d'accord",
-      "description": "Coincé pendant trois ans entre un G923 vieillissant et un G Pro réservé aux budgets bien plus confortables, l’amateur de simulation automobile fidèle à Logitech G dispose enfin d’un vrai palier interm...",
-      "url": "https://www.futura-sciences.com/conso/guides-achat/tests-produits-logitech-g-rs50-system-direct-drive-milieu-gamme-met-tout-monde-accord-1670/",
-      "source": "Futura",
-      "publishedAt": "2026-11-24T17:32:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "title": "Gemini Notebook : une USINE À SKILLS GRATUITE pour Claude, ChatGPT et Gemini",
+      "description": "Gemini Notebook (gratuit avec un compte Google) : https://notebook.google.com Les 3 sources à donner au notebook : Google ...",
+      "url": "https://www.youtube.com/watch?v=HZmLtd-En7E",
+      "source": "Polymorf - L’IA en pratique",
+      "publishedAt": "2026-11-15T16:00:06Z",
+      "category": "tech",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "HZmLtd-En7E",
+      "thumbnail": "https://i.ytimg.com/vi/HZmLtd-En7E/hqdefault.jpg"
     },
     {
-      "title": "Comment la data science peut contribuer à prolonger la durée de vie de notre parc nucléaire",
-      "description": "Prolonger nos réacteurs au-delà de 60 ans exigera de prouver la sûreté de chacun, sans dérapage des coûts. Un défi où la data science a un rôle décisif à jouer.",
-      "url": "https://www.journaldunet.com/big-data/1558179-comment-la-data-science-peut-contribuer-a-prolonger-la-duree-de-vie-de-notre-parc-nucleaire/",
-      "source": "JDN",
-      "publishedAt": "2026-11-23T09:40:36Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Z.ai lance le modèle IA chinois GLM-5.4, doté de capacités de vision et d'un quota hebdomadaire de codage accru de 50 %, et qui serait le meilleur modèle de codage open source à ce jour",
-      "description": "Le laboratoire chinois d'intelligence artificielle (IA) Z.ai a lancé GLM-5.4, un modèle doté de 750 milliards de paramètres, de capacités de vision et d'un quota hebdomadaire de codage plus élevé. Cet...",
-      "url": "https://intelligence-artificielle.developpez.com/actu/389411/Z-ai-lance-le-modele-IA-chinois-GLM-5-4-dote-de-capacites-de-vision-et-d-un-quota-hebdomadaire-de-codage-accru-de-50-pourcent-et-qui-serait-le-meilleur-modele-de-codage-open-source-a-ce-jour/",
+      "title": "Après le scandale Nvidia, les USA blacklistent Megaspeed, spécialiste singapourien de l'IA, et sa filiale Speedmatrix, pour avoir aidé des entreprises chinoises à se procurer des puces Nvidia restreintes",
+      "description": "Après le scandale Nvidia, les USA blacklistent Megaspeed, spécialiste singapourien de l'IA, et sa filiale Speedmatrix, pour avoir aidé des entreprises chinoises à se procurer des puces Nvidia restrein...",
+      "url": "https://droit.developpez.com/actu/389448/Apres-le-scandale-Nvidia-les-USA-blacklistent-Megaspeed-specialiste-singapourien-de-l-IA-et-sa-filiale-Speedmatrix-pour-avoir-aide-des-entreprises-chinoises-a-se-procurer-des-puces-Nvidia-restreintes/",
       "source": "Developpez.com",
-      "publishedAt": "2026-11-24T13:59:00Z",
+      "publishedAt": "2026-11-25T12:56:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -254,23 +266,11 @@
       "thumbnail": ""
     },
     {
-      "title": "IA et nucléaire : et si les États-Unis décidaient de tirer en 90 secondes ?",
-      "description": "L'avance américaine en intelligence artificielle inquiète des chercheurs chinois jusque dans le domaine nucléaire. Leurs travaux envisagent des décisions beaucoup plus rapides et des missiles chinois ...",
-      "url": "https://www.mac4ever.com/ia/199264-ia-et-nucleaire-et-si-les-etats-unis-decidaient-de-tirer-en-90-secondes",
+      "title": "IA, semi-conducteurs, quantique : l’Europe veut mettre 50 milliards d’euros sur la table",
+      "description": "L’Union européenne veut se doter d’un fonds souverain de 50 milliards d’euros pour financer les technologies stratégiques, notamment l’intelligence artificielle, l’informatique quantique et les semi-c...",
+      "url": "https://www.mac4ever.com/ia/199293-ia-semi-conducteurs-quantique-l-europe-veut-mettre-50-milliards-d-euros-sur-la-table",
       "source": "Mac4ever",
-      "publishedAt": "2026-11-24T15:37:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Le Huawei Mate X8 est officiel, un smartphone pliable qui ne laisse aucun pli sur l’écran",
-      "description": "Huawei a présenté son Mate X8. Le smartphone pliable embarque une nouvelle technologie de charnière censée ne pas marquer l’écran. Alors que l’industrie du smartphone s’enthousiasme pour les nouveaux ...",
-      "url": "https://www.phonandroid.com/le-huawei-mate-x8-est-officiel-un-smartphone-pliable-qui-ne-laisse-aucun-pli-sur-lecran.html",
-      "source": "Phonandroid",
-      "publishedAt": "2026-11-24T18:08:04Z",
+      "publishedAt": "2026-11-25T15:48:22Z",
       "category": "innovation",
       "hasVideo": false,
       "isYouTube": false,
@@ -278,11 +278,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Pour aider les ingénieurs logiciels à déployer leur code, Anthropic lance de nouvelles fonctionnalités d'IA, Claude Ship, capables désormais d'examiner, de corriger et d'approuver des pull requests",
-      "description": "Pour aider les ingénieurs logiciels à déployer leur code, Anthropic lance de nouvelles fonctionnalités d'IA, Claude Ship, capables désormais d'examiner, de corriger et d'approuver des pull requestsAnt...",
-      "url": "https://intelligence-artificielle.developpez.com/actu/389399/Pour-aider-les-ingenieurs-logiciels-a-deployer-leur-code-Anthropic-lance-de-nouvelles-fonctionnalites-d-IA-Claude-Ship-capables-desormais-d-examiner-de-corriger-et-d-approuver-des-pull-requests/",
-      "source": "Developpez.com",
-      "publishedAt": "2026-11-24T14:02:00Z",
+      "title": "Google imagine une chaîne de télévision par IA où vous êtes le héros",
+      "description": "Un brevet déposé par Google aux États-Unis décrit « My Channel », une chaîne de télévision personnalisée par intelligence artificielle qui transforme le spectateur en héros de fictions sur mesure, ent...",
+      "url": "https://www.generation-nt.com/actualites/google-chaine-television-ia-heros-2085015",
+      "source": "Génération NT",
+      "publishedAt": "2026-11-25T14:40:01Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +290,11 @@
       "thumbnail": ""
     },
     {
-      "title": "Analyse d'impact IA : le changement de version déclenche la mise à jour, et le formulaire n'enregistre aucune version",
-      "description": "La Commission a ouvert le 16 novembre la consultation sur son projet de modèle d'analyse d'impact sur les droits fondamentaux.",
-      "url": "https://www.journaldunet.com/cybersecurite/1558337-analyse-d-impact-ia-le-changement-de-version-declenche-la-mise-a-jour-et-le-formulaire-n-enregistre-aucune-version/",
-      "source": "JDN",
-      "publishedAt": "2026-11-24T15:50:27Z",
+      "title": "« Une hiérarchie inutile » : Jensen Huang affirme que Nvidia n'a pas besoin d'un plan de succession, arguant que la structure organisationnelle horizontale du fabricant de puces rend une telle mesure superflue",
+      "description": "« Une hiérarchie inutile » : Jensen Huang affirme que Nvidia n'a pas besoin d'un plan de succession, arguant que la structure organisationnelle horizontale du fabricant de puces rend une telle mesure ...",
+      "url": "https://hardware.developpez.com/actu/389491/-Une-hierarchie-inutile-Jensen-Huang-affirme-que-Nvidia-n-a-pas-besoin-d-un-plan-de-succession-arguant-que-la-structure-organisationnelle-horizontale-du-fabricant-de-puces-rend-une-telle-mesure-superflue/",
+      "source": "Developpez.com",
+      "publishedAt": "2026-11-25T15:52:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
