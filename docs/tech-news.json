@@ -1,6 +1,18 @@
 {
-  "lastUpdate": "2026-11-26T18:15:00.879521",
+  "lastUpdate": "2026-11-27T17:57:35.306442",
   "articles": [
+    {
+      "title": "“Peut-être la plus grande percée de l'histoire humaine” : ChatGPT a aidé un physicien à s'attaquer au mystère ultime de l'univers, le cœur des trous noirs",
+      "description": "Des mois de conversation avec l'IA qui fait tourner ChatGPT, GPT-6.2 Astra, et au bout, peut-être, une clé du plus grand mystère de l'univers. Un physicien de Stanford publie une théorie qui retrouve ...",
+      "url": "https://www.lesnumeriques.com/intelligence-artificielle/peut-etre-la-plus-grande-percee-de-l-histoire-humaine-chatgpt-a-aide-un-physicien-a-s-attaquer-au-mystere-ultime-de-l-univers-le-coeur-des-trous-noirs-n268637.html",
+      "source": "Les Numériques",
+      "publishedAt": "2026-11-26T16:02:00Z",
+      "category": "ai",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
     {
       "title": "La révolution de l&#39;IA. Machine et Deep Learning",
       "description": "Dans cette vidéo, il est expliqué comment le machine learning a transformé le développement de l'intelligence artificielle, ...",
@@ -14,16 +26,16 @@
       "thumbnail": "https://i.ytimg.com/vi/pnC7CRD4WyY/hqdefault.jpg"
     },
     {
-      "title": "Power BI &amp; Power Query : Nettoyer et Transformer des Données de A à Z | Tutoriel Complet en Français",
-      "description": "Vous souhaitez apprendre Power BI et Power Query pour nettoyer, transformer et préparer des données professionnelles avant ...",
-      "url": "https://www.youtube.com/watch?v=c1HvPzunIug",
-      "source": "Entrepreneur 3.0",
-      "publishedAt": "2026-11-06T07:08:51Z",
+      "title": "Formation Power BI #1 — La Business Intelligence, c&#39;est quoi ?",
+      "description": "Transformer les données en décisions Formation Power BI par Bitdyne. Cas concrets d'entreprise, contexte marocain.",
+      "url": "https://www.youtube.com/watch?v=WUzHvB7FICc",
+      "source": "Bitdyne",
+      "publishedAt": "2026-10-10T12:06:06Z",
       "category": "ai",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "c1HvPzunIug",
-      "thumbnail": "https://i.ytimg.com/vi/c1HvPzunIug/hqdefault.jpg"
+      "videoId": "WUzHvB7FICc",
+      "thumbnail": "https://i.ytimg.com/vi/WUzHvB7FICc/hqdefault.jpg"
     },
     {
       "title": "Formation IA complète pour débutants : ChatGPT, Claude, Gemini (édition 2026)",
@@ -86,18 +98,6 @@
       "thumbnail": "https://i.ytimg.com/vi/t9dIU3Od0SE/hqdefault.jpg"
     },
     {
-      "title": "Comprendre l&#39;Intelligence Artificielle : Les bases expliquées simplement",
-      "description": "L'Intelligence Artificielle et la Data Science sont partout, mais entre le jargon technique et les termes compliqués, difficile d'y voir ...",
-      "url": "https://www.youtube.com/watch?v=yw1bS20gTzc",
-      "source": "Gab JPM",
-      "publishedAt": "2026-10-12T15:15:12Z",
-      "category": "ai",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "yw1bS20gTzc",
-      "thumbnail": "https://i.ytimg.com/vi/yw1bS20gTzc/hqdefault.jpg"
-    },
-    {
       "title": "IA, Machine Learning &amp; LLM expliqués en 8 minutes",
       "description": "Pour en savoir plus sur AMD EPYC ...",
       "url": "https://www.youtube.com/watch?v=XZDaI0YOaCM",
@@ -146,11 +146,23 @@
       "thumbnail": "https://i.ytimg.com/vi/Tmz4jXuBGdI/hqdefault.jpg"
     },
     {
-      "title": "Google signe un accord avec Blue Origin pour mettre en orbite des centres de données satellitaires, dans le cadre du « Project Suncatcher », pour faire fonctionner des systèmes d'IA dans l'espace",
-      "description": "Google signe un accord avec Blue Origin pour mettre en orbite des centres de données satellitaires, dans le cadre du « Project Suncatcher », pour faire fonctionner des systèmes d'IA dans l'espaceGoogl...",
-      "url": "https://cloud-computing.developpez.com/actu/389390/Google-signe-un-accord-avec-Blue-Origin-pour-mettre-en-orbite-des-centres-de-donnees-satellitaires-dans-le-cadre-du-Project-Suncatcher-pour-faire-fonctionner-des-systemes-d-IA-dans-l-espace/",
+      "title": "Découvrir SQL : interroger une base de données (débutant, cas concret)",
+      "description": "Premier épisode de la Formation SQL Bitdyne. Le problème que résout SQL : accéder soi-même à l'information qui dort dans les ...",
+      "url": "https://www.youtube.com/watch?v=3_q1VH5GTDI",
+      "source": "Bitdyne",
+      "publishedAt": "2026-10-09T12:23:00Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "3_q1VH5GTDI",
+      "thumbnail": "https://i.ytimg.com/vi/3_q1VH5GTDI/hqdefault.jpg"
+    },
+    {
+      "title": "SpaceX obtient le feu vert pour déployer un million de satellites dédiés aux centres de données spatiaux, une constellation qui multiplierait par environ 50 le nombre de satellites en orbite",
+      "description": "SpaceX obtient le feu vert de la FCC pour déployer un million de satellites dédiés aux centres de données spatiaux, une constellation qui multiplierait par environ 50 le nombre de satellites en orbite...",
+      "url": "https://reseau.developpez.com/actu/389500/SpaceX-obtient-le-feu-vert-pour-deployer-un-million-de-satellites-dedies-aux-centres-de-donnees-spatiaux-une-constellation-qui-multiplierait-par-environ-50-le-nombre-de-satellites-en-orbite/",
       "source": "Developpez.com",
-      "publishedAt": "2026-11-24T01:22:00Z",
+      "publishedAt": "2026-11-26T13:14:00Z",
       "category": "data",
       "hasVideo": false,
       "isYouTube": false,
@@ -206,18 +218,6 @@
       "thumbnail": ""
     },
     {
-      "title": "SQL pour débutants : comprends ta première requête SELECT | Partie 1",
-      "description": "Ton application a la mémoire d'un poisson rouge ? Découvre où sont stockées les données et comment SQL permet de les ...",
-      "url": "https://www.youtube.com/watch?v=ApeM-42SN5E",
-      "source": "dev-yeo",
-      "publishedAt": "2026-10-30T08:02:40Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "ApeM-42SN5E",
-      "thumbnail": "https://i.ytimg.com/vi/ApeM-42SN5E/hqdefault.jpg"
-    },
-    {
       "title": "Comprendre les Bases de Données Relationnelles (SGBD, SQL, Clés) 💾",
       "description": "Aujourd'hui, on s'attaque au cœur invisible de notre monde numérique : les Systèmes de Gestion de Bases de Données (SGBD) !",
       "url": "https://www.youtube.com/watch?v=F7X0rCwCOiA",
@@ -242,23 +242,11 @@
       "thumbnail": "https://i.ytimg.com/vi/RnmOoKtL4wU/hqdefault.jpg"
     },
     {
-      "title": "Gemini Notebook : une USINE À SKILLS GRATUITE pour Claude, ChatGPT et Gemini",
-      "description": "Gemini Notebook (gratuit avec un compte Google) : https://notebook.google.com Les 3 sources à donner au notebook : Google ...",
-      "url": "https://www.youtube.com/watch?v=HZmLtd-En7E",
-      "source": "Polymorf - L’IA en pratique",
-      "publishedAt": "2026-11-15T16:00:06Z",
-      "category": "tech",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "HZmLtd-En7E",
-      "thumbnail": "https://i.ytimg.com/vi/HZmLtd-En7E/hqdefault.jpg"
-    },
-    {
-      "title": "Après le scandale Nvidia, les USA blacklistent Megaspeed, spécialiste singapourien de l'IA, et sa filiale Speedmatrix, pour avoir aidé des entreprises chinoises à se procurer des puces Nvidia restreintes",
-      "description": "Après le scandale Nvidia, les USA blacklistent Megaspeed, spécialiste singapourien de l'IA, et sa filiale Speedmatrix, pour avoir aidé des entreprises chinoises à se procurer des puces Nvidia restrein...",
-      "url": "https://droit.developpez.com/actu/389448/Apres-le-scandale-Nvidia-les-USA-blacklistent-Megaspeed-specialiste-singapourien-de-l-IA-et-sa-filiale-Speedmatrix-pour-avoir-aide-des-entreprises-chinoises-a-se-procurer-des-puces-Nvidia-restreintes/",
+      "title": "Anthropic et OpenAI font face à un problème de plus en plus urgent : leurs modèles IA non publiés deviennent si puissants que les employés ne pensent plus qu'ils puissent être lancés en toute sécurité",
+      "description": "Les employés dAnthropic et dOpenAI craignent que leurs modèles dintelligence artificielle (IA) les plus avancés, qui nont pas encore été rendus publics, ne soient jamais assez sûrs pour être comme...",
+      "url": "https://intelligence-artificielle.developpez.com/actu/389505/Anthropic-et-OpenAI-font-face-a-un-probleme-de-plus-en-plus-urgent-leurs-modeles-IA-non-publies-deviennent-si-puissants-que-les-employes-ne-pensent-plus-qu-ils-puissent-etre-lances-en-toute-securite/",
       "source": "Developpez.com",
-      "publishedAt": "2026-11-25T12:56:00Z",
+      "publishedAt": "2026-11-26T13:16:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -266,23 +254,11 @@
       "thumbnail": ""
     },
     {
-      "title": "IA, semi-conducteurs, quantique : l’Europe veut mettre 50 milliards d’euros sur la table",
-      "description": "L’Union européenne veut se doter d’un fonds souverain de 50 milliards d’euros pour financer les technologies stratégiques, notamment l’intelligence artificielle, l’informatique quantique et les semi-c...",
-      "url": "https://www.mac4ever.com/ia/199293-ia-semi-conducteurs-quantique-l-europe-veut-mettre-50-milliards-d-euros-sur-la-table",
-      "source": "Mac4ever",
-      "publishedAt": "2026-11-25T15:48:22Z",
-      "category": "innovation",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Google imagine une chaîne de télévision par IA où vous êtes le héros",
-      "description": "Un brevet déposé par Google aux États-Unis décrit « My Channel », une chaîne de télévision personnalisée par intelligence artificielle qui transforme le spectateur en héros de fictions sur mesure, ent...",
-      "url": "https://www.generation-nt.com/actualites/google-chaine-television-ia-heros-2085015",
-      "source": "Génération NT",
-      "publishedAt": "2026-11-25T14:40:01Z",
+      "title": "Affiches générées par l’IA : une opportunité pour les commerçants débordés, mais un pari risqué pour se démarquer",
+      "description": "Les affiches générées par intelligence artificielle prennent une place grandissante dans l’espace public. Créées par des commerçants souvent contraints par le temps et les moyens, les illustrations re...",
+      "url": "https://www.rtbf.be/article/affiches-generees-par-l-ia-une-opportunite-pour-les-commercants-debordes-mais-un-pari-risque-pour-se-demarquer-11819699",
+      "source": "RTBF",
+      "publishedAt": "2026-11-26T17:07:55Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
@@ -290,11 +266,35 @@
       "thumbnail": ""
     },
     {
-      "title": "« Une hiérarchie inutile » : Jensen Huang affirme que Nvidia n'a pas besoin d'un plan de succession, arguant que la structure organisationnelle horizontale du fabricant de puces rend une telle mesure superflue",
-      "description": "« Une hiérarchie inutile » : Jensen Huang affirme que Nvidia n'a pas besoin d'un plan de succession, arguant que la structure organisationnelle horizontale du fabricant de puces rend une telle mesure ...",
-      "url": "https://hardware.developpez.com/actu/389491/-Une-hierarchie-inutile-Jensen-Huang-affirme-que-Nvidia-n-a-pas-besoin-d-un-plan-de-succession-arguant-que-la-structure-organisationnelle-horizontale-du-fabricant-de-puces-rend-une-telle-mesure-superflue/",
+      "title": "Une offre exceptionnelle de puces d'IA Nvidia de pointe inonde le marché, les vendeurs cherchant de nouveaux acheteurs après le durcissement des restrictions américaines, visant les entreprises chinoises",
+      "description": "Une offre exceptionnelle de puces d'IA Nvidia de pointe inonde le marché, les vendeurs cherchant de nouveaux acheteurs après le durcissement des restrictions américaines visant les entreprises chinois...",
+      "url": "https://intelligence-artificielle.developpez.com/actu/389501/Une-offre-exceptionnelle-de-puces-d-IA-Nvidia-de-pointe-inonde-le-marche-les-vendeurs-cherchant-de-nouveaux-acheteurs-apres-le-durcissement-des-restrictions-americaines-visant-les-entreprises-chinoises/",
       "source": "Developpez.com",
-      "publishedAt": "2026-11-25T15:52:00Z",
+      "publishedAt": "2026-11-26T13:12:00Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Test Imagen AI : l’ex-plugin de Lightroom devient un logiciel à part entière",
+      "description": "Avec son Intelligent Studio, Imagen AI ajoute un éditeur complet, un tri par IA et un Assistant conversationnel. De quoi se passer de Lightroom ? Notre test complet du logiciel.© 2026 Phototrend - Tes...",
+      "url": "https://phototrend.fr/2026/11/test-imagen-ai/",
+      "source": "Phototrend.fr",
+      "publishedAt": "2026-11-26T16:01:16Z",
+      "category": "tech",
+      "hasVideo": false,
+      "isYouTube": false,
+      "videoId": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "S&P Global Ratings, l'une des trois principales agences de notation, envisage d'abaisser la note de Nvidia, invoquant des inquiétudes liées aux pratiques de gestion et de gouvernance de l'entreprise",
+      "description": "S&P Global Ratings envisage d'abaisser la note de crédit de Nvidia de « AA » à « AA- » dans un délai de 90 jours, invoquant un manque de supervision de la part de la direction et un risque lié à la dé...",
+      "url": "https://hardware.developpez.com/actu/389506/S-P-Global-Ratings-l-une-des-trois-principales-agences-de-notation-envisage-d-abaisser-la-note-de-Nvidia-invoquant-des-inquietudes-liees-aux-pratiques-de-gestion-et-de-gouvernance-de-l-entreprise/",
+      "source": "Developpez.com",
+      "publishedAt": "2026-11-26T13:07:00Z",
       "category": "tech",
       "hasVideo": false,
       "isYouTube": false,
