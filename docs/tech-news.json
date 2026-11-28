@@ -1,18 +1,6 @@
 {
-  "lastUpdate": "2026-11-27T17:57:35.306442",
+  "lastUpdate": "2026-11-28T16:43:02.312284",
   "articles": [
-    {
-      "title": "“Peut-être la plus grande percée de l'histoire humaine” : ChatGPT a aidé un physicien à s'attaquer au mystère ultime de l'univers, le cœur des trous noirs",
-      "description": "Des mois de conversation avec l'IA qui fait tourner ChatGPT, GPT-6.2 Astra, et au bout, peut-être, une clé du plus grand mystère de l'univers. Un physicien de Stanford publie une théorie qui retrouve ...",
-      "url": "https://www.lesnumeriques.com/intelligence-artificielle/peut-etre-la-plus-grande-percee-de-l-histoire-humaine-chatgpt-a-aide-un-physicien-a-s-attaquer-au-mystere-ultime-de-l-univers-le-coeur-des-trous-noirs-n268637.html",
-      "source": "Les Numériques",
-      "publishedAt": "2026-11-26T16:02:00Z",
-      "category": "ai",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
     {
       "title": "La révolution de l&#39;IA. Machine et Deep Learning",
       "description": "Dans cette vidéo, il est expliqué comment le machine learning a transformé le développement de l'intelligence artificielle, ...",
@@ -72,6 +60,18 @@
       "isYouTube": true,
       "videoId": "QUQlcUQk5EM",
       "thumbnail": "https://i.ytimg.com/vi/QUQlcUQk5EM/hqdefault.jpg"
+    },
+    {
+      "title": "C&#39;est quoi le machine learning ? La réponse en dessin | L&#39;IA en 90 sec et quelques",
+      "description": "C'est quoi, le machine learning ? Une branche de l'IA où un programme apprend à repérer des régularités dans les données, ...",
+      "url": "https://www.youtube.com/watch?v=mYdU6WlPmn8",
+      "source": "IACTOI - IA",
+      "publishedAt": "2026-10-29T15:16:06Z",
+      "category": "ai",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "mYdU6WlPmn8",
+      "thumbnail": "https://i.ytimg.com/vi/mYdU6WlPmn8/hqdefault.jpg"
     },
     {
       "title": "Formation Power BI #5 — Le modèle de données et le schéma en étoile",
@@ -158,18 +158,6 @@
       "thumbnail": "https://i.ytimg.com/vi/3_q1VH5GTDI/hqdefault.jpg"
     },
     {
-      "title": "SpaceX obtient le feu vert pour déployer un million de satellites dédiés aux centres de données spatiaux, une constellation qui multiplierait par environ 50 le nombre de satellites en orbite",
-      "description": "SpaceX obtient le feu vert de la FCC pour déployer un million de satellites dédiés aux centres de données spatiaux, une constellation qui multiplierait par environ 50 le nombre de satellites en orbite...",
-      "url": "https://reseau.developpez.com/actu/389500/SpaceX-obtient-le-feu-vert-pour-deployer-un-million-de-satellites-dedies-aux-centres-de-donnees-spatiaux-une-constellation-qui-multiplierait-par-environ-50-le-nombre-de-satellites-en-orbite/",
-      "source": "Developpez.com",
-      "publishedAt": "2026-11-26T13:14:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Power BI : créer son premier graphique à partir d’Excel",
       "description": "Découvrez comment importer un fichier Excel dans Power BI et créer votre première visualisation. Dans cet exemple consacré au ...",
       "url": "https://www.youtube.com/watch?v=qbqaSlk3fho",
@@ -194,30 +182,6 @@
       "thumbnail": "https://i.ytimg.com/vi/zLnR5aZNlog/hqdefault.jpg"
     },
     {
-      "title": "Les 4 Types d&#39;Analyse de Données en Python Avec Projets",
-      "description": "Découvrez les 4 types d'analyse de données en Python à travers des projets concrets et pratiques ! De l'analyse descriptive à ...",
-      "url": "https://www.youtube.com/watch?v=mxXyviELh0s",
-      "source": "RifOudka",
-      "publishedAt": "2026-10-30T00:15:20Z",
-      "category": "data",
-      "hasVideo": true,
-      "isYouTube": true,
-      "videoId": "mxXyviELh0s",
-      "thumbnail": "https://i.ytimg.com/vi/mxXyviELh0s/hqdefault.jpg"
-    },
-    {
-      "title": "Des pirates informatiques donnent jusqu'au 28 novembre à Nvidia alors qu'un groupe de ransomware menace de divulguer des données, mais le groupe n'a fourni aucune preuve de ses allégations",
-      "description": "Des pirates informatiques donnent jusqu'au 28 novembre à Nvidia alors qu'un groupe de ransomware menace de divulguer des données, mais le groupe n'a fourni aucune preuve de ses allégationsNvidia fait ...",
-      "url": "https://securite.developpez.com/actu/389453/Des-pirates-informatiques-donnent-jusqu-au-28-novembre-a-Nvidia-alors-qu-un-groupe-de-ransomware-menace-de-divulguer-des-donnees-mais-le-groupe-n-a-fourni-aucune-preuve-de-ses-allegations/",
-      "source": "Developpez.com",
-      "publishedAt": "2026-11-25T09:40:00Z",
-      "category": "data",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
       "title": "Comprendre les Bases de Données Relationnelles (SGBD, SQL, Clés) 💾",
       "description": "Aujourd'hui, on s'attaque au cœur invisible de notre monde numérique : les Systèmes de Gestion de Bases de Données (SGBD) !",
       "url": "https://www.youtube.com/watch?v=F7X0rCwCOiA",
@@ -230,76 +194,40 @@
       "thumbnail": "https://i.ytimg.com/vi/F7X0rCwCOiA/hqdefault.jpg"
     },
     {
-      "title": "Data Science Full Course in 22 Hours| Learn Python, Statistics, ML &amp; Real-World Projects|Simplilearn",
-      "description": "Micrososft Azure - Data Analyst Course ...",
-      "url": "https://www.youtube.com/watch?v=RnmOoKtL4wU",
-      "source": "Simplilearn",
-      "publishedAt": "2026-11-12T14:30:29Z",
+      "title": "Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Yfbb0q7Mi5E",
+      "source": "LaDataFacile",
+      "publishedAt": "2026-10-04T22:23:54Z",
       "category": "data",
       "hasVideo": true,
       "isYouTube": true,
-      "videoId": "RnmOoKtL4wU",
-      "thumbnail": "https://i.ytimg.com/vi/RnmOoKtL4wU/hqdefault.jpg"
+      "videoId": "Yfbb0q7Mi5E",
+      "thumbnail": "https://i.ytimg.com/vi/Yfbb0q7Mi5E/hqdefault.jpg"
     },
     {
-      "title": "Anthropic et OpenAI font face à un problème de plus en plus urgent : leurs modèles IA non publiés deviennent si puissants que les employés ne pensent plus qu'ils puissent être lancés en toute sécurité",
-      "description": "Les employés dAnthropic et dOpenAI craignent que leurs modèles dintelligence artificielle (IA) les plus avancés, qui nont pas encore été rendus publics, ne soient jamais assez sûrs pour être comme...",
-      "url": "https://intelligence-artificielle.developpez.com/actu/389505/Anthropic-et-OpenAI-font-face-a-un-probleme-de-plus-en-plus-urgent-leurs-modeles-IA-non-publies-deviennent-si-puissants-que-les-employes-ne-pensent-plus-qu-ils-puissent-etre-lances-en-toute-securite/",
-      "source": "Developpez.com",
-      "publishedAt": "2026-11-26T13:16:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "title": "Pourquoi le métier de Data Scientist est-il de plus en plus recherché chez VINCI ?",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=aR81ELiQ7iw",
+      "source": "Thotis",
+      "publishedAt": "2026-11-12T11:45:07Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "aR81ELiQ7iw",
+      "thumbnail": "https://i.ytimg.com/vi/aR81ELiQ7iw/hqdefault.jpg"
     },
     {
-      "title": "Affiches générées par l’IA : une opportunité pour les commerçants débordés, mais un pari risqué pour se démarquer",
-      "description": "Les affiches générées par intelligence artificielle prennent une place grandissante dans l’espace public. Créées par des commerçants souvent contraints par le temps et les moyens, les illustrations re...",
-      "url": "https://www.rtbf.be/article/affiches-generees-par-l-ia-une-opportunite-pour-les-commercants-debordes-mais-un-pari-risque-pour-se-demarquer-11819699",
-      "source": "RTBF",
-      "publishedAt": "2026-11-26T17:07:55Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Une offre exceptionnelle de puces d'IA Nvidia de pointe inonde le marché, les vendeurs cherchant de nouveaux acheteurs après le durcissement des restrictions américaines, visant les entreprises chinoises",
-      "description": "Une offre exceptionnelle de puces d'IA Nvidia de pointe inonde le marché, les vendeurs cherchant de nouveaux acheteurs après le durcissement des restrictions américaines visant les entreprises chinois...",
-      "url": "https://intelligence-artificielle.developpez.com/actu/389501/Une-offre-exceptionnelle-de-puces-d-IA-Nvidia-de-pointe-inonde-le-marche-les-vendeurs-cherchant-de-nouveaux-acheteurs-apres-le-durcissement-des-restrictions-americaines-visant-les-entreprises-chinoises/",
-      "source": "Developpez.com",
-      "publishedAt": "2026-11-26T13:12:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "Test Imagen AI : l’ex-plugin de Lightroom devient un logiciel à part entière",
-      "description": "Avec son Intelligent Studio, Imagen AI ajoute un éditeur complet, un tri par IA et un Assistant conversationnel. De quoi se passer de Lightroom ? Notre test complet du logiciel.© 2026 Phototrend - Tes...",
-      "url": "https://phototrend.fr/2026/11/test-imagen-ai/",
-      "source": "Phototrend.fr",
-      "publishedAt": "2026-11-26T16:01:16Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
-    },
-    {
-      "title": "S&P Global Ratings, l'une des trois principales agences de notation, envisage d'abaisser la note de Nvidia, invoquant des inquiétudes liées aux pratiques de gestion et de gouvernance de l'entreprise",
-      "description": "S&P Global Ratings envisage d'abaisser la note de crédit de Nvidia de « AA » à « AA- » dans un délai de 90 jours, invoquant un manque de supervision de la part de la direction et un risque lié à la dé...",
-      "url": "https://hardware.developpez.com/actu/389506/S-P-Global-Ratings-l-une-des-trois-principales-agences-de-notation-envisage-d-abaisser-la-note-de-Nvidia-invoquant-des-inquietudes-liees-aux-pratiques-de-gestion-et-de-gouvernance-de-l-entreprise/",
-      "source": "Developpez.com",
-      "publishedAt": "2026-11-26T13:07:00Z",
-      "category": "tech",
-      "hasVideo": false,
-      "isYouTube": false,
-      "videoId": "",
-      "thumbnail": ""
+      "title": "Comment Coder en Python Sans Rien Installer [utiliser Google Colab]",
+      "description": "Comment débuter sur Google Colab et coder en Python sans rien installer sur son ordinateur ? Dans ce tutoriel complet pour ...",
+      "url": "https://www.youtube.com/watch?v=7Hmx6FRMows",
+      "source": "Gab JPM",
+      "publishedAt": "2026-10-27T16:15:31Z",
+      "category": "data",
+      "hasVideo": true,
+      "isYouTube": true,
+      "videoId": "7Hmx6FRMows",
+      "thumbnail": "https://i.ytimg.com/vi/7Hmx6FRMows/hqdefault.jpg"
     }
   ]
 }

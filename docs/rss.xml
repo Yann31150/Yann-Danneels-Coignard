@@ -5,21 +5,13 @@
         <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         <description>Les dernières actualités sur la tech, l'IA, la data et l'innovation, sélectionnées et analysées par intelligence artificielle. Mises à jour quotidiennes.</description>
         <language>fr-FR</language>
-        <lastBuildDate>Fri, 27 Nov 2026 17:57:35 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 16:43:02 -0000</lastBuildDate>
         <atom:link href="https://www.yanndanneelscoignard.fr/rss.xml" rel="self" type="application/rss+xml"/>
         <image>
             <url>https://www.yanndanneelscoignard.fr/og-image.svg</url>
             <title>Actualités Tech, IA et Data</title>
             <link>https://www.yanndanneelscoignard.fr/actualites-tech.html</link>
         </image>
-        <item>
-            <title>“Peut-être la plus grande percée de l'histoire humaine” : ChatGPT a aidé un physicien à s'attaquer au mystère ultime de l'univers, le cœur des trous noirs</title>
-            <link>https://www.lesnumeriques.com/intelligence-artificielle/peut-etre-la-plus-grande-percee-de-l-histoire-humaine-chatgpt-a-aide-un-physicien-a-s-attaquer-au-mystere-ultime-de-l-univers-le-coeur-des-trous-noirs-n268637.html</link>
-            <description><![CDATA[Des mois de conversation avec l'IA qui fait tourner ChatGPT, GPT-6.2 Astra, et au bout, peut-être, une clé du plus grand mystère de l'univers. Un physicien de Stanford publie une théorie qui retrouve ...]]></description>
-            <pubDate>Thu, 26 Nov 2026 16:02:00 -0000</pubDate>
-            <guid isPermaLink="true">https://www.lesnumeriques.com/intelligence-artificielle/peut-etre-la-plus-grande-percee-de-l-histoire-humaine-chatgpt-a-aide-un-physicien-a-s-attaquer-au-mystere-ultime-de-l-univers-le-coeur-des-trous-noirs-n268637.html</guid>
-            <source>Les Numériques</source>
-        </item>
         <item>
             <title>La révolution de l&amp;#39;IA. Machine et Deep Learning</title>
             <link>https://www.youtube.com/watch?v=pnC7CRD4WyY</link>
@@ -59,6 +51,14 @@
             <pubDate>Tue, 17 Nov 2026 21:02:59 -0000</pubDate>
             <guid isPermaLink="true">https://www.youtube.com/watch?v=QUQlcUQk5EM</guid>
             <source>datasimplement</source>
+        </item>
+        <item>
+            <title>C&amp;#39;est quoi le machine learning ? La réponse en dessin | L&amp;#39;IA en 90 sec et quelques</title>
+            <link>https://www.youtube.com/watch?v=mYdU6WlPmn8</link>
+            <description><![CDATA[C'est quoi, le machine learning ? Une branche de l'IA où un programme apprend à repérer des régularités dans les données, ...]]></description>
+            <pubDate>Thu, 29 Oct 2026 15:16:06 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=mYdU6WlPmn8</guid>
+            <source>IACTOI - IA</source>
         </item>
         <item>
             <title>Formation Power BI #5 — Le modèle de données et le schéma en étoile</title>
@@ -117,14 +117,6 @@
             <source>Bitdyne</source>
         </item>
         <item>
-            <title>SpaceX obtient le feu vert pour déployer un million de satellites dédiés aux centres de données spatiaux, une constellation qui multiplierait par environ 50 le nombre de satellites en orbite</title>
-            <link>https://reseau.developpez.com/actu/389500/SpaceX-obtient-le-feu-vert-pour-deployer-un-million-de-satellites-dedies-aux-centres-de-donnees-spatiaux-une-constellation-qui-multiplierait-par-environ-50-le-nombre-de-satellites-en-orbite/</link>
-            <description><![CDATA[SpaceX obtient le feu vert de la FCC pour déployer un million de satellites dédiés aux centres de données spatiaux, une constellation qui multiplierait par environ 50 le nombre de satellites en orbite...]]></description>
-            <pubDate>Thu, 26 Nov 2026 13:14:00 -0000</pubDate>
-            <guid isPermaLink="true">https://reseau.developpez.com/actu/389500/SpaceX-obtient-le-feu-vert-pour-deployer-un-million-de-satellites-dedies-aux-centres-de-donnees-spatiaux-une-constellation-qui-multiplierait-par-environ-50-le-nombre-de-satellites-en-orbite/</guid>
-            <source>Developpez.com</source>
-        </item>
-        <item>
             <title>Power BI : créer son premier graphique à partir d’Excel</title>
             <link>https://www.youtube.com/watch?v=qbqaSlk3fho</link>
             <description><![CDATA[Découvrez comment importer un fichier Excel dans Power BI et créer votre première visualisation. Dans cet exemple consacré au ...]]></description>
@@ -141,22 +133,6 @@
             <source>Morpheus Formation | Excel, Power BI, Data</source>
         </item>
         <item>
-            <title>Les 4 Types d&amp;#39;Analyse de Données en Python Avec Projets</title>
-            <link>https://www.youtube.com/watch?v=mxXyviELh0s</link>
-            <description><![CDATA[Découvrez les 4 types d'analyse de données en Python à travers des projets concrets et pratiques ! De l'analyse descriptive à ...]]></description>
-            <pubDate>Fri, 30 Oct 2026 00:15:20 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=mxXyviELh0s</guid>
-            <source>RifOudka</source>
-        </item>
-        <item>
-            <title>Des pirates informatiques donnent jusqu'au 28 novembre à Nvidia alors qu'un groupe de ransomware menace de divulguer des données, mais le groupe n'a fourni aucune preuve de ses allégations</title>
-            <link>https://securite.developpez.com/actu/389453/Des-pirates-informatiques-donnent-jusqu-au-28-novembre-a-Nvidia-alors-qu-un-groupe-de-ransomware-menace-de-divulguer-des-donnees-mais-le-groupe-n-a-fourni-aucune-preuve-de-ses-allegations/</link>
-            <description><![CDATA[Des pirates informatiques donnent jusqu'au 28 novembre à Nvidia alors qu'un groupe de ransomware menace de divulguer des données, mais le groupe n'a fourni aucune preuve de ses allégationsNvidia fait ...]]></description>
-            <pubDate>Wed, 25 Nov 2026 09:40:00 -0000</pubDate>
-            <guid isPermaLink="true">https://securite.developpez.com/actu/389453/Des-pirates-informatiques-donnent-jusqu-au-28-novembre-a-Nvidia-alors-qu-un-groupe-de-ransomware-menace-de-divulguer-des-donnees-mais-le-groupe-n-a-fourni-aucune-preuve-de-ses-allegations/</guid>
-            <source>Developpez.com</source>
-        </item>
-        <item>
             <title>Comprendre les Bases de Données Relationnelles (SGBD, SQL, Clés) 💾</title>
             <link>https://www.youtube.com/watch?v=F7X0rCwCOiA</link>
             <description><![CDATA[Aujourd'hui, on s'attaque au cœur invisible de notre monde numérique : les Systèmes de Gestion de Bases de Données (SGBD) !]]></description>
@@ -165,12 +141,28 @@
             <source>informatique, technologie, autocad ...</source>
         </item>
         <item>
-            <title>Data Science Full Course in 22 Hours| Learn Python, Statistics, ML &amp;amp; Real-World Projects|Simplilearn</title>
-            <link>https://www.youtube.com/watch?v=RnmOoKtL4wU</link>
-            <description><![CDATA[Micrososft Azure - Data Analyst Course ...]]></description>
-            <pubDate>Thu, 12 Nov 2026 14:30:29 -0000</pubDate>
-            <guid isPermaLink="true">https://www.youtube.com/watch?v=RnmOoKtL4wU</guid>
-            <source>Simplilearn</source>
+            <title>Épisode 1 d’Apprendre SQL en 30 jours ! Tenez bon pendant 1 mois 👍👍</title>
+            <link>https://www.youtube.com/watch?v=Yfbb0q7Mi5E</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Sun, 04 Oct 2026 22:23:54 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=Yfbb0q7Mi5E</guid>
+            <source>LaDataFacile</source>
+        </item>
+        <item>
+            <title>Pourquoi le métier de Data Scientist est-il de plus en plus recherché chez VINCI ?</title>
+            <link>https://www.youtube.com/watch?v=aR81ELiQ7iw</link>
+            <description><![CDATA[]]></description>
+            <pubDate>Thu, 12 Nov 2026 11:45:07 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=aR81ELiQ7iw</guid>
+            <source>Thotis</source>
+        </item>
+        <item>
+            <title>Comment Coder en Python Sans Rien Installer [utiliser Google Colab]</title>
+            <link>https://www.youtube.com/watch?v=7Hmx6FRMows</link>
+            <description><![CDATA[Comment débuter sur Google Colab et coder en Python sans rien installer sur son ordinateur ? Dans ce tutoriel complet pour ...]]></description>
+            <pubDate>Tue, 27 Oct 2026 16:15:31 -0000</pubDate>
+            <guid isPermaLink="true">https://www.youtube.com/watch?v=7Hmx6FRMows</guid>
+            <source>Gab JPM</source>
         </item>
     </channel>
 </rss>
